@@ -26,11 +26,11 @@
     <front>
       <div type="preface">
         <head>xyz</head>
-        <mp who="unknown">mp freetext</mp>
+        <author who="unknown">mp freetext</author>
         <minister who="unknown">minister freetext</minister>
         <topic>topic freetext</topic>
         <docDate when="yyyy-mm-dd">date freetext</docDate>
-        <status inProtocol="prot-abc123">answered</status>
+        <status inProtocol="prot-abc123" when="yyyy-mm-dd" status="unknown">answered</status>
       </div>
     </front>
     <body>
