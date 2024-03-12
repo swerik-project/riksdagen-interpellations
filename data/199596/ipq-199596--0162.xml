@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ipq-199596--0162">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Interpellation Question</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Interpellation Question</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="preface">
+        <head>xyz</head>
+        <author who="unknown">mp freetext</author>
+        <minister who="unknown">minister freetext</minister>
+        <topic>topic freetext</topic>
+        <docDate when="yyyy-mm-dd">date freetext</docDate>
+        <status inProtocol="prot-abc123" when="yyyy-mm-dd" status="unknown">answered</status>
+      </div>
+    </front>
+    <body>
+      <div type="IPQuestionHeader">
+        <IPQ_title>
+          1995/96:162 av Lennart Daléus (c) till miljöministern om kärnkrafts-
+          säkerheten
+        </IPQ_title>
+        <submission_info>
+          Inkom den 29 marsBesvarad den 19 april Prot. 1995/96:83
+        </submission_info>
+      </div>
+      <div type="IPQuestionBody">
+        <p>
+          Vilka åtgärder har Sverige vidtagit och vad avser regeringen
+          att vidta för åtgärder för att minska risken för kärnenergirelaterade
+          olyckor i Nordens närområde?
+        </p>
+        <pb facs="PDF:170"/>
+      </div>
+    </body>
+  </text>
+</TEI>
