@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ipq-199798--0117">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Interpellation Question</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Interpellation Question</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="preface">
+        <head>xyz</head>
+        <author who="unknown">mp freetext</author>
+        <minister who="unknown">minister freetext</minister>
+        <topic>topic freetext</topic>
+        <docDate when="yyyy-mm-dd">date freetext</docDate>
+        <status inProtocol="prot-abc123" when="yyyy-mm-dd" status="unknown">answered</status>
+      </div>
+    </front>
+    <body>
+      <div type="IPQuestionHeader">
+        <IPQ_title>
+          Interpellation 1997/98:117 av Lennart Daléus (c) till miljöministern
+          om det ideella och kommunala miljöarbetet
+        </IPQ_title>
+        <submission_info>
+          Inkom den 14 januari Besvarad den 27 januari Prot. 1997/98:56
+        </submission_info>
+      </div>
+      <div type="IPQuestionBody">
+        <p>
+          Många människor engagerar sig i miljöorganisationer och/eller
+          deltar, liksom samtliga Sveriges kommuner, i det s.k. Agenda 21-arbetet.
+          Det är en angelägen uppgift att ”länka in” idéer och visioner
+          från det engage­manget i den vanliga demokratiska beslutsprocessen
+          på kommunal och nationell nivå. Det gäller frågor om ekonomiska
+          resurser, representation i offentliga utredningar och mycket mer.
+        </p>
+        <p>
+          Hur avser regeringen att i ett vidare och långsiktigt perspektiv,
+          med bibehållande av organisationernas och kommunernas självständighet,
+          integrera det ideella och kommunala engagemanget i det nationella
+          miljö­arbetet?
+        </p>
+        <note type="margin">
+          Interpellationer
+        </note>
+        <note type="pageNumber">
+          113
+        </note>
+        <pb facs="PDF:112"/>
+        <note type="margin">
+          Interpellationer
+        </note>
+        <note type="pageNumber">
+          114
+        </note>
+        <pb facs="PDF:113"/>
+      </div>
+    </body>
+  </text>
+</TEI>

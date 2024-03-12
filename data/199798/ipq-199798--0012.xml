@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ipq-199798--0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Interpellation Question</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Interpellation Question</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="preface">
+        <head>xyz</head>
+        <author who="unknown">mp freetext</author>
+        <minister who="unknown">minister freetext</minister>
+        <topic>topic freetext</topic>
+        <docDate when="yyyy-mm-dd">date freetext</docDate>
+        <status inProtocol="prot-abc123" when="yyyy-mm-dd" status="unknown">answered</status>
+      </div>
+    </front>
+    <body>
+      <div type="IPQuestionHeader">
+        <IPQ_title>
+          Interpellation 1997/98:12 av Lennart Daléus (c) till miljöministern
+          om tunnelbyggande genom Hallandsåsen
+        </IPQ_title>
+        <submission_info>
+          Inkom den 6 oktober Besvarad den 21 oktober Prot. 1997/98:16
+        </submission_info>
+      </div>
+      <div type="IPQuestionBody">
+        <p>
+          Under senare tid har det förekommit uppgifter om att verksamheten
+          vid tunnelbygget genom Hallandsåsen orsakat hälso- och miljöstörande
+          utsläpp.
+        </p>
+        <p>
+          Vilka omedelbara åtgärder avser regeringen att vidta för att
+          säkerstäl­la att människor, djur och miljö inte kommer till skada
+          som en följd av tunnelbygget?
+        </p>
+        <p>
+          Vilka åtgärder avser regeringen att vidta för att förhindra att
+          liknande händelser inträffar?
+        </p>
+        <pb facs="PDF:12"/>
+      </div>
+    </body>
+  </text>
+</TEI>
