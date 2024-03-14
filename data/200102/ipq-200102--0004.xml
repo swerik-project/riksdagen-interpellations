@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
-        <author ref="i-UUID">Johansson, Kenneth</author>
+        <title>Interpellation Question no. 4, 2001/02</title>
+        <author ref="i-EANGVQ7bBDvQLJRQXHptPX">Johansson, Kenneth</author>
         <author ref="i-UUID">Potential second author</author>
       </titleStmt>
       <publicationStmt>
@@ -13,7 +13,7 @@
       <sourceDesc>
         <bibl>
           <title>Interpellation Question</title>
-          <idno type="rdwebb">GP104</idno>
+          <idno type="rdwebb">GP104</idno> <!-- is this associated with a link? -->
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -27,12 +27,15 @@
          <date when="2001-10-16">2001-10-16</date>
         </correspAction>
         <correspAction type="discussed">
-         <persName ref="i-UUID">Kenneth Johansson</persName>
+         <persName ref="i-EANGVQ7bBDvQLJRQXHptPX">Kenneth Johansson</persName>
          <date when="2001-10-16">2001-10-16</date>
         </correspAction>
         <correspContext>
+          <!-- links to the records where this is discussed -->
           <ref target="#prot--200102-011">Record 2001/02 no. 11</ref>
           <ref target="#prot--200102-012">Record 2001/02 no. 12</ref>
+
+          <!-- links to the exact 'u' elements -->
           <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
           <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
           <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
@@ -44,7 +47,7 @@
   <text>
     <front>
       <div type="preface">
-        <head>ipq-200102--0004</head>
+        <head>ipq-200102--0004</head> <!-- redundant? -->
         <docDate when="2001-09-18">den 18 september</docDate>
         <note type="topic">subventionerad hemservice för pensionärer</note>
       </div>
