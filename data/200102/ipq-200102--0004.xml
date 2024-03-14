@@ -4,6 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Interpellation Question</title>
+        <author ref="i-UUID">Johansson, Kenneth</author>
+        <author ref="i-UUID">Potential second author</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
@@ -11,39 +13,48 @@
       <sourceDesc>
         <bibl>
           <title>Interpellation Question</title>
+          <idno type="rdwebb">GP104</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="received">
+         <persName ref="i-UUID">Lars Engqvist</persName>
+        </correspAction>
+        <correspAction type="answered">
+         <persName ref="i-UUID">Lars Engqvist</persName>
+         <date when="2001-10-16">2001-10-16</date>
+        </correspAction>
+        <correspAction type="discussed">
+         <persName ref="i-UUID">Kenneth Johansson</persName>
+         <date when="2001-10-16">2001-10-16</date>
+        </correspAction>
+        <correspContext>
+          <ref target="#prot--200102-011">Record 2001/02 no. 11</ref>
+          <ref target="#prot--200102-012">Record 2001/02 no. 12</ref>
+          <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
+          <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
+          <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
+          <ref target="#i-speech-UUID">Speech by Kenneth Johansson</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
       <div type="preface">
         <head>ipq-200102--0004</head>
-        <author who="i-EANGVQ7bBDvQLJRQXHptPX">Johansson, Kenneth (c) </author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">socialminister Lars Engqvist </recipient>
-        <topic>subventionerad hemservice för pensionärer</topic>
         <docDate when="2001-09-18">den 18 september</docDate>
-        <status when="2001-10-16" byWhom="socialminister Lars Engqvist " byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP104</external_id>
-        <debate>
-          <turn when="2001-10-16 14:28:35" duration="572">Socialminister Lars Engq (S)</turn>
-          <turn when="2001-10-16 14:38:02" duration="638">Kenneth Johansson (C)</turn>
-        </debate>
+        <note type="topic">subventionerad hemservice för pensionärer</note>
       </div>
     </front>
     <body>
       <div type="IPQuestionHeader">
-        <IPQ_title>
+        <p xml:id="i-HetLQsxtiWP947ShrmaySw">
           Interpellation 2001/02:4 av Kenneth Johansson (c) till socialminister
           Lars Engqvist om subventionerad hemservice för pensionärer
-        </IPQ_title>
+        </p>
       </div>
       <div type="IPQuestionBody">
         <p xml:id="i-HetLQsxtiWP947ShrmayS5">
