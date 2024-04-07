@@ -3,94 +3,142 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>reglerna för kommunal verksamhet</title>
+        <author>Johansson, Jörgen (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>reglerna för kommunal verksamhet till statsrådet Sven-Erik Österberg om reglerna för kommunal verksamhet</title>
+          <idno type="rdwebb">GS1095</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1095/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1095</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1095</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
+            <persName>Jörgen Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-YGvhrKJVhibiw2mRAZe73c" corresp="i-AyN7HRP1y38PeQoLunJifb">
+          <date when="2004-11-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4UpK7erMDXJN1xHZfJPEvZ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VVrZ5WMZGUSTVXo1vRazEW">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HfPADDPyE5CHhxUTTRu1u1" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8QgLkELXqnfQxCUG1QT1Pu" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspContext corresp="i-8QgLkELXqnfQxCUG1QT1Pu">
+          <ref type="record" target="prot-200405--029">Riksdagens protokoll 2004/05:29 Måndagen den 15 november</ref>
+          <ref type="recordSection" target="unsetDivId">16 § Svar på interpellation 2004/05:95 om reglerna för kommunal verksamhet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0095</head>
-        <author who="i-AyN7HRP1y38PeQoLunJifb">Jörgen Johansson</author>
-        <recipient who="i-9fdWbFK67588CD12XaNZBq">Sven-Erik Österberg</recipient>
-        <topic>reglerna för kommunal verksamhet</topic>
-        <docDate when="2004-11-01">den 1 november</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1095</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:95 av Jörgen Johansson (c) till statsrådet
-          Sven-Erik Österberg om reglerna för kommunal verksamhet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JGnSdxDozdDz6isGG9XSAa">
+            Interpellation 2004/05:95 av Jörgen Johansson (c) till statsrådet
+            Sven-Erik Österberg om reglerna för kommunal verksamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-U1fLgA8SsNS7MFUqjn94Gg">
+            den 1 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-CBmnFawF4Qucs4o7GiWDJn">
-          Regeringen aviserar i budgeten att bidrag ska utgå till de kommuner
-          som vill slå samman sin verksamhet. I motiven säger regeringens
-          representanter att initiativet ska komma underifrån. Det senare
-          är lovvärt men knappast ett initiativ utifrån en egen vilja.
-        </p>
-        <p xml:id="i-45ieWLTu4PKqbSZwuGevG4">
-          Statens pekpinnar i form av riktade statsbidrag och hårt regelverk
-          styr huvuddelen av den kommunala verksamheten. Utrymmet att fatta
-          beslut för de förtroendevalda på lokal nivå är begränsat. Resultatet
-          blir ett centralstyre som mer stansar ut en central mall för Kommunsverige
-          än att lägga grunden för mångfald i lösningarna som gagnar den
-          egna kommunen. Erfarenheten från 50@och 70@talets kommunsammanläggningar
-          visar dessutom på effekter som ingen i dag borde eftersträva.
-        </p>
-        <p xml:id="i-GEX2ynF1ZUGNFuuDKxEiYM">
-          Djupet i en demokrati hänger ihop med numerären av förtroendevalda.
-          Det är detta som ger närheten mellan väljare och valda. För att
-          åstadkomma en spänstig lokal debatt fordras därför insikt från
-          befolkningen om såväl aktuella politiska frågor som kontaktpersoner.
-          Anonymiteten i de stora kommunerna skapar avstånd vilket i sin
-          tur undergräver befolkningens engagemang. Utifrån ett maktperspektiv
-          är därför stora kommuner att föredra samtidigt som de utifrån
-          ett folkligt perspektiv är förödande.
-        </p>
-        <p xml:id="i-NaUVc4N3cNAeVzTYxM2LL6">
-          Många kommuner i Sverige är i dag befolkningsmässigt små samtidigt
-          som de till ytan är stora. Sådana kommuner ska givetvis ges erforderlig
-          hjälp för att kunna klara en grundläggande samhällsservice. Samtidigt
-          måste samarbetet med andra kommuner stimuleras för att bedriva
-          en effektiv kommunal verksamhet. Det kan ske via såväl kommunalförbund,
-          gemensamma nämnder eller bolagsbildningar. För att detta ska kunna
-          fungera på ett smidigt och rationellt sätt måste också regelverket
-          anpassas efter verksamhetens mål. I dag är regelverket för komplicerat
-          för att samarbetet ska kunna fungera på ett rationellt sätt.
-        </p>
-        <p xml:id="i-L1E3jnPh48z7L1WxXetpTd">
-          Mina frågor till statsrådet är:
-        </p>
-        <p xml:id="i-8HbdbC4gDMoJcprLFuyuiU">
-          1. Vad avser statsrådet att göra för att stimulera små kommuner
-          att bibehålla sin verksamhet och därmed vitalisera den lokala
-          demokratin?
-        </p>
-        <p xml:id="i-89PNMtyxQv9j3paHL9aCGf">
-          2. Vad avser statsrådet att göra för att regelverket, kommuner
-          emellan, anpassas så att samarbete, kommuner emellan, kan ske
-          på ett rationellt sätt?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-6utJApid9v3xvDnEWWx3ue">
+            Regeringen aviserar i budgeten att bidrag ska utgå till de kommuner
+            som vill slå samman sin verksamhet. I motiven säger regeringens
+            representanter att initiativet ska komma underifrån. Det senare
+            är lovvärt men knappast ett initiativ utifrån en egen vilja.
+          </p>
+          <p xml:id="i-MmW4CKeLsyiNVGJyMKk36E">
+            Statens pekpinnar i form av riktade statsbidrag och hårt regelverk
+            styr huvuddelen av den kommunala verksamheten. Utrymmet att fatta
+            beslut för de förtroendevalda på lokal nivå är begränsat. Resultatet
+            blir ett centralstyre som mer stansar ut en central mall för Kommunsverige
+            än att lägga grunden för mångfald i lösningarna som gagnar den
+            egna kommunen. Erfarenheten från 50@och 70@talets kommunsammanläggningar
+            visar dessutom på effekter som ingen i dag borde eftersträva.
+          </p>
+          <p xml:id="i-6JA2QaAiyZ9TkDWYrLAPxe">
+            Djupet i en demokrati hänger ihop med numerären av förtroendevalda.
+            Det är detta som ger närheten mellan väljare och valda. För att
+            åstadkomma en spänstig lokal debatt fordras därför insikt från
+            befolkningen om såväl aktuella politiska frågor som kontaktpersoner.
+            Anonymiteten i de stora kommunerna skapar avstånd vilket i sin
+            tur undergräver befolkningens engagemang. Utifrån ett maktperspektiv
+            är därför stora kommuner att föredra samtidigt som de utifrån
+            ett folkligt perspektiv är förödande.
+          </p>
+          <p xml:id="i-4emY7GAdFqwY988DU34a4k">
+            Många kommuner i Sverige är i dag befolkningsmässigt små samtidigt
+            som de till ytan är stora. Sådana kommuner ska givetvis ges erforderlig
+            hjälp för att kunna klara en grundläggande samhällsservice. Samtidigt
+            måste samarbetet med andra kommuner stimuleras för att bedriva
+            en effektiv kommunal verksamhet. Det kan ske via såväl kommunalförbund,
+            gemensamma nämnder eller bolagsbildningar. För att detta ska kunna
+            fungera på ett smidigt och rationellt sätt måste också regelverket
+            anpassas efter verksamhetens mål. I dag är regelverket för komplicerat
+            för att samarbetet ska kunna fungera på ett rationellt sätt.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-FasSSqKyKu9j8dWH9iTmey">
+            Mina frågor till statsrådet är:
+            <list rend="unordered">
+              <item>
+                1. Vad avser statsrådet att göra för att stimulera små kommuner
+                att bibehålla sin verksamhet och därmed vitalisera den lokala
+                demokratin?
+              </item>
+              <item>
+                2. Vad avser statsrådet att göra för att regelverket, kommuner
+                emellan, anpassas så att samarbete, kommuner emellan, kan ske
+                på ett rationellt sätt?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

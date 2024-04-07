@@ -3,113 +3,147 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ohälsans obalans mellan könen</title>
+        <author>Schyman, Gudrun (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ohälsans obalans mellan könen till statsrådet Hans Karlsson om ohälsans obalans mellan könen</title>
+          <idno type="rdwebb">GR1096</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1096/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1096</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1096</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-LzYBGnvuhNHdQ7LQKPA6UJ</idno>
+            <persName>Gudrun Schyman</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JkdMfUzCBPbU2TLLPXqpp2" corresp="i-LzYBGnvuhNHdQ7LQKPA6UJ">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5GJu6ZmEewsGdVDcQtosue">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UV61C1WNHp2utkpKD8SUwg">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8TrkVybHieAA6Dsqk39w5K" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RHTHApxHVJqkspfjT9RwpF" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspContext corresp="i-RHTHApxHVJqkspfjT9RwpF">
+          <ref type="record" target="prot-200304--034">Riksdagens protokoll 2003/04:34 Måndagen den 24 november</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2003/04:96 om ohälsans obalans mellan könen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0096</head>
-        <author who="i-LzYBGnvuhNHdQ7LQKPA6UJ">Gudrun Schyman</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>ohälsans obalans mellan könen</topic>
-        <docDate when="2003-11-11">den 11 november</docDate>
-        <status when="2003-11-24" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1096</external_id>
-        <debate>
-          <turn when="2003-11-24 12:37:49" duration="176">Hans Karlsson (S)</turn>
-          <turn when="2003-11-24 12:40:41" duration="227">Gudrun Schyman (V)</turn>
-          <turn when="2003-11-24 12:44:24" duration="259">Hillevi Engström (M)</turn>
-          <turn when="2003-11-24 12:53:00" duration="220">Gudrun Schyman (V)</turn>
-          <turn when="2003-11-24 12:56:37" duration="120">Hillevi Engström (M)</turn>
-          <turn when="2003-11-24 12:58:33" duration="229">Hans Karlsson (S)</turn>
-          <turn when="2003-11-24 13:02:18" duration="152">Gudrun Schyman (V)</turn>
-          <turn when="2003-11-24 13:04:47" duration="166">Hans Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:96 av Gudrun Schyman (v) till statsrådet
-          Hans Karlsson om ohälsans obalans mellan könen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GyrCumM4qt8YnASBkZ3eVF">
+            Interpellation 2003/04:96 av Gudrun Schyman (v) till statsrådet
+            Hans Karlsson om ohälsans obalans mellan könen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8nRRsoLVDRgWBa9daLgB2G">
+            den 11 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UqqVUHTawGXFaq2NXLLyyE">
-          Till regeringens budgetproposition för år 2004 finns ett särtryck
-          med titeln Fördelningen av ekonomiska resurser mellan kvinnor
-          och män. Häftet ger en utmärkt redogörelse för tid och sysselsättning,
-          lön och inkomst samt utfallet av socialförsäkringsersättningarna,
-          allt uppdelat utifrån kön.
-        </p>
-        <p xml:id="i-Pu5hLV3Abg8R2haD9pNJY">
-          Under rubriken "Ohälsa" kan man bland annat läsa följande:
-        </p>
-        <p xml:id="i-CCF7KFtHjHt5ZToAXJzZ59">
-          "Ohälsan har under de senaste åren kommit allt mer i fokus, inte
-          minst på grund av den kraftiga ökningen av antalet långtidssjukskrivna.
-          Antalet sjukskrivna har ökat bland både kvinnor och män, men kvinnor
-          står för den största ökningen."
-        </p>
-        <p xml:id="i-4Bv8QyMzxHrzWY6uciABn6">
-          "Andelen kvinnor är högre än andelen män i samtliga livscykler.
-          Ensamstående kvinnor med barn är överrepresenterade bland de sjukskrivna.
-        </p>
-        <p xml:id="i-XH3Gz7SEaiaeHQcy6H7KkY">
-          Det finns inget entydigt svar till varför kvinnor är sjukskrivna
-          i högre utsträckning än män. Inte heller går det att förklara
-          varför kvinnors sjukfrånvaro ökat mer än männens under de senaste
-          åren.
-        </p>
-        <p xml:id="i-5Fep8CEXVBTPpYiSPafmfH">
-          Den ojämna fördelningen av betalt och obetalt arbete mellan kvinnor
-          och män, där kvinnor i större utsträckning har att kombinera betalt
-          förvärvsarbete med obetalt omsorgs- och hushållsarbete är en faktor
-          som lyfts fram. Ett allmänt högre tempo i samhället och förändringar
-          i arbetslivet, där neddragningar i den offentliga sektorn, särskilt
-          inom vård- och omsorgsområdet, med ökad stress som följd brukar
-          framhållas som bidragande orsaker."
-        </p>
-        <p xml:id="i-V2P7T3HE1kyA6dKyrN1q23">
-          ".. kunskapen om kvinnors högre sjukfrånvaro är begränsad och
-          behöver fördjupas."
-        </p>
-        <p xml:id="i-GX5KTcWZvjTf5bsRpeiyqh">
-          Arbetslivsministern har huvudansvaret för arbetet med ohälsofrågorna.
-        </p>
-        <p xml:id="i-J2SGwqbfitSBq9Evk3SFJc">
-          Jag vill därför ställa följande frågor:
-        </p>
-        <p xml:id="i-EejehZ7H7TWZ9TJ5sUSnBu">
-          1. Vilken hänsyn tar statsrådet till kvinnors och mäns olika
-          livsförhållanden i det arbete som nu pågår?
-        </p>
-        <p xml:id="i-33AVLfVTs749wYWr4kHLRT">
-          2. På vilket sätt kommer statsrådet att verka för en fördjupning
-          av kunskapen om kvinnors högre sjukfrånvaro under det nu pågående
-          arbetet?
-        </p>
-        <p xml:id="i-CBu92iBf8Xb4oNRvQRSXuL">
-          3.På vilket sätt kommer statsrådet att ta tillvara den kunskapen
-          i de förslag som ska presenteras?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-7jD79guvxkva89q4XDocrF">
+            Till regeringens budgetproposition för år 2004 finns ett särtryck
+            med titeln Fördelningen av ekonomiska resurser mellan kvinnor
+            och män. Häftet ger en utmärkt redogörelse för tid och sysselsättning,
+            lön och inkomst samt utfallet av socialförsäkringsersättningarna,
+            allt uppdelat utifrån kön.
+          </p>
+          <p xml:id="i-4ZHQ3kFotdM12KuVVJs5az">
+            Under rubriken "Ohälsa" kan man bland annat läsa följande:
+          </p>
+          <p xml:id="i-44hQnY91uF3BMUbacZpiRz">
+            "Ohälsan har under de senaste åren kommit allt mer i fokus, inte
+            minst på grund av den kraftiga ökningen av antalet långtidssjukskrivna.
+            Antalet sjukskrivna har ökat bland både kvinnor och män, men kvinnor
+            står för den största ökningen."
+          </p>
+          <p xml:id="i-9fZ7pBjvrMupuYj4xL2ugN">
+            "Andelen kvinnor är högre än andelen män i samtliga livscykler.
+            Ensamstående kvinnor med barn är överrepresenterade bland de sjukskrivna.
+          </p>
+          <p xml:id="i-SzzRRoJ1DmkHU4UJT2ozsg">
+            Det finns inget entydigt svar till varför kvinnor är sjukskrivna
+            i högre utsträckning än män. Inte heller går det att förklara
+            varför kvinnors sjukfrånvaro ökat mer än männens under de senaste
+            åren.
+          </p>
+          <p xml:id="i-6XaSgFfskHuNrbZkx5jwg7">
+            Den ojämna fördelningen av betalt och obetalt arbete mellan kvinnor
+            och män, där kvinnor i större utsträckning har att kombinera betalt
+            förvärvsarbete med obetalt omsorgs- och hushållsarbete är en faktor
+            som lyfts fram. Ett allmänt högre tempo i samhället och förändringar
+            i arbetslivet, där neddragningar i den offentliga sektorn, särskilt
+            inom vård- och omsorgsområdet, med ökad stress som följd brukar
+            framhållas som bidragande orsaker."
+          </p>
+          <p xml:id="i-LVSpnCM1SbA1d7VuUZYaZR">
+            ".. kunskapen om kvinnors högre sjukfrånvaro är begränsad och
+            behöver fördjupas."
+          </p>
+          <p xml:id="i-Gft9WxmBjjm99w4dVEcARE">
+            Arbetslivsministern har huvudansvaret för arbetet med ohälsofrågorna.
+          </p>
+          <p xml:id="i-NUn712GK3M9q1gjbY3Yrtv">
+            Jag vill därför ställa följande frågor:
+          </p>
+          <p xml:id="i-VwtppRPozVsD2Feg1FaHQc">
+            1. Vilken hänsyn tar statsrådet till kvinnors och mäns olika
+            livsförhållanden i det arbete som nu pågår?
+          </p>
+          <p xml:id="i-F2Seb5w2XsdH7gUxbDhf1c">
+            2. På vilket sätt kommer statsrådet att verka för en fördjupning
+            av kunskapen om kvinnors högre sjukfrånvaro under det nu pågående
+            arbetet?
+          </p>
+          <p xml:id="i-DZ3VbX35xGuhL7LSVYtE2u">
+            3.På vilket sätt kommer statsrådet att ta tillvara den kunskapen
+            i de förslag som ska presenteras?
+          </p>
+        </div>
       </div>
     </body>
   </text>

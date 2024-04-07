@@ -3,84 +3,121 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Vin &amp; Sprits marknadsföring</title>
+        <author>Billström, Tobias (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Vin &amp; Sprits marknadsföring till näringsminister Leif Pagrotsky om Vin &amp; Sprits marknadsföring</title>
+          <idno type="rdwebb">GR10216</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10216/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10216</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10216</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-dDafHmsbtDcpQUZVRd5ao" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
+          <date when="2003-12-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DyHxjyjGyDLiZZsexRZ6J8">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FUqEtXxHHJbzSeawpZiGjk">
+          <date when="2004-02-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GsLZXFUnyD7o9HGF6W2nRi" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DXhJ3ZEA5QHgTE8wWYmSWS" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-02-03"/>
+        </correspAction>
+        <correspContext corresp="i-DXhJ3ZEA5QHgTE8wWYmSWS">
+          <ref type="record" target="prot-200304--062">Riksdagens protokoll 2003/04:62 Tisdagen den 3 februari</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:216 om Vin &amp; Sprits marknadsföring</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0216</head>
-        <author who="i-KPGvtK4s6Zp3E6XH6vj18n">Tobias Billström</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>Vin &amp;amp; Sprits marknadsföring</topic>
-        <docDate when="2003-12-30">den 30 december</docDate>
-        <status when="2004-02-03" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10216</external_id>
-        <debate>
-          <turn when="2004-02-03 14:01:44" duration="196">Leif Pagrotsky (S)</turn>
-          <turn when="2004-02-03 14:04:57" duration="148">Tobias Billström (M)</turn>
-          <turn when="2004-02-03 14:07:17" duration="153">Maria Larsson (Kd)</turn>
-          <turn when="2004-02-03 14:09:41" duration="270">Leif Pagrotsky (S)</turn>
-          <turn when="2004-02-03 14:14:08" duration="186">Tobias Billström (M)</turn>
-          <turn when="2004-02-03 14:17:01" duration="107">Maria Larsson (Kd)</turn>
-          <turn when="2004-02-03 14:18:43" duration="196">Leif Pagrotsky (S)</turn>
-          <turn when="2004-02-03 14:21:55" duration="87">Tobias Billström (M)</turn>
-          <turn when="2004-02-03 14:23:18" duration="114">Leif Pagrotsky (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:216 av Tobias Billström (m) till näringsminister
-          Leif Pagrotsky om Vin &amp; Sprits marknadsföring
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-8Gmos75kNv54RYthP8rq2U">
+            Interpellation 2003/04:216 av Tobias Billström (m) till näringsminister
+            Leif Pagrotsky om Vin &amp; Sprits marknadsföring
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-R5VvFUaXGanbS4MkPk7m1v">
+            den 30 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-B4ZdDgrfFefZrB4To6hLpq">
-          Näringsministern skrev tisdagen den 16 december en artikel i
-          Dagens Nyheter som bland annat tog upp frågan om statliga Vin
-          &amp; Sprits marknadsföring och försäljning. I artikeln skriver näringsministern
-          att Vin &amp; Sprit "dessutom tar ett ansvar för sin marknadsföring
-          och försäljning på ett sätt som ingen privat aktör hade gjort".
-        </p>
-        <p xml:id="i-P4AAprkhtVjm2aDFVdeJLH">
-          Jag kan inte tolka näringsministerns uttalande på annat sätt
-          än att Vin &amp; Sprits marknadsföring och försäljning på avgörande
-          punkter distanserar sig från samtliga övriga internationella aktörers,
-          mig veterligen, ofta mycket omfattande och väl genomarbetade policys
-          och processer för att garantera en etiskt och moraliskt högtstående
-          marknadsföring och försäljning.
-        </p>
-        <p xml:id="i-HseRaJwRmgdLouzfCLQ4bh">
-          Med anledning av ovanstående vill jag därför ställa följande
-          fråga till näringsministern:
-        </p>
-        <p xml:id="i-XFp9uP2EGPehQQCN2S2uRE">
-          1. Kan näringsministern precisera exakt på vilket sätt som Vin
-          &amp; Sprits marknadsföring och försäljning på avgörande punkter skiljer
-          sig från samtliga övriga privata aktörer på marknaden?
-        </p>
-        <p xml:id="i-ES4t4bowKpqJ7K5R45qqki">
-          2. Kan näringsministern vidare omtala hur Vin &amp; Sprit garanterar
-          att denna hållning genomsyrar hela marknadsförings- och försäljningsorganiationen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-umyyC6fWnrik3gi7LAmnp">
+            Näringsministern skrev tisdagen den 16 december en artikel i
+            Dagens Nyheter som bland annat tog upp frågan om statliga Vin
+            &amp; Sprits marknadsföring och försäljning. I artikeln skriver näringsministern
+            att Vin &amp; Sprit "dessutom tar ett ansvar för sin marknadsföring
+            och försäljning på ett sätt som ingen privat aktör hade gjort".
+          </p>
+          <p xml:id="i-Uo393f261TrUp9FCtmyB5j">
+            Jag kan inte tolka näringsministerns uttalande på annat sätt
+            än att Vin &amp; Sprits marknadsföring och försäljning på avgörande
+            punkter distanserar sig från samtliga övriga internationella aktörers,
+            mig veterligen, ofta mycket omfattande och väl genomarbetade policys
+            och processer för att garantera en etiskt och moraliskt högtstående
+            marknadsföring och försäljning.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-TuxA5iNMFCWJRMdxDD1MjX">
+            Med anledning av ovanstående vill jag därför ställa följande
+            fråga till näringsministern:
+            <list rend="unordered">
+              <item>
+                1. Kan näringsministern precisera exakt på vilket sätt som Vin
+                &amp; Sprits marknadsföring och försäljning på avgörande punkter skiljer
+                sig från samtliga övriga privata aktörer på marknaden?
+              </item>
+              <item>
+                2. Kan näringsministern vidare omtala hur Vin &amp; Sprit garanterar
+                att denna hållning genomsyrar hela marknadsförings- och försäljningsorganiationen?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

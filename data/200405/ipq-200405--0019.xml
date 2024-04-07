@@ -3,58 +3,102 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>antidiskrimineringsbyråerna</title>
+        <author>Lindblad, Göran (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>antidiskrimineringsbyråerna till statsrådet Mona Sahlin om antidiskrimineringsbyråerna</title>
+          <idno type="rdwebb">GS1019</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1019/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1019</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1019</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
+            <persName>Göran Lindblad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-RXp3GjMrtVKmx7hA6x5UNd" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
+          <date when="2004-09-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HMeYaq1roMtF2xzwUrxxkS">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-R54UdF7nhom74Z9TpwFet">
+          <date when="2004-10-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AzY1s1ywQgUCFVxEiMVALq" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2cfnrQiAfxMoQUJbnWwXv3" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-10-01"/>
+        </correspAction>
+        <correspContext corresp="i-2cfnrQiAfxMoQUJbnWwXv3">
+          <ref type="record" target="prot-200405--011">Riksdagens protokoll 2004/05:11 Fredagen den 1 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">3 § Svar på interpellation 2004/05:19 om antidiskrimineringsbyråerna</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0019</head>
-        <author who="i-KdNZEf7wb1MAJv58QEHYrr">Göran Lindblad</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>antidiskrimineringsbyråerna</topic>
-        <docDate when="2004-09-21">den 21 september</docDate>
-        <status when="unknown" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1019</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:19 av Göran Lindblad (m) till statsrådet
-          Mona Sahlin om antidiskrimineringsbyråerna
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-452NVPNZKC9mNUA3jhzBRc">
+            Interpellation 2004/05:19 av Göran Lindblad (m) till statsrådet
+            Mona Sahlin om antidiskrimineringsbyråerna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Kwoko3mB3hBy6S5kdCi6Tt">
+            den 21 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UQn4JcKmoDXV2Qz1LJ9v9d">
-          Antidiskrimineringsbyråerna har vuxit upp runtom i landet som
-          en folkrörelse. Successivt har dock antidiskrimineringsbyråerna
-          blivit beroende av statsbidrag beviljade av Integrationsverket.
-          Effekten har blivit att den statliga myndigheten avgör vilka folkrörelser
-          som får ingå i de olika antidiskrimineringsbyråerna. Därmed har
-          staten makten över övervakningen av diskriminering inom bland
-          annat statliga myndigheter. Detta är en olycklig utveckling.
-        </p>
-        <p xml:id="i-M5W28e2zRgakinZ5CrdsvW">
-          Vad avser statsrådet att göra för att säkerställa antidiskrimineringsbyråernas
-          oberoende gentemot stat, kommuner, landsting och privat sektor?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-XS2YBH9NZvPAWJqq6bnRHm">
+            Antidiskrimineringsbyråerna har vuxit upp runtom i landet som
+            en folkrörelse. Successivt har dock antidiskrimineringsbyråerna
+            blivit beroende av statsbidrag beviljade av Integrationsverket.
+            Effekten har blivit att den statliga myndigheten avgör vilka folkrörelser
+            som får ingå i de olika antidiskrimineringsbyråerna. Därmed har
+            staten makten över övervakningen av diskriminering inom bland
+            annat statliga myndigheter. Detta är en olycklig utveckling.
+          </p>
+          <p xml:id="i-FKBWKVfmVU46gsqa37c2dN">
+            Vad avser statsrådet att göra för att säkerställa antidiskrimineringsbyråernas
+            oberoende gentemot stat, kommuner, landsting och privat sektor?
+          </p>
+        </div>
       </div>
     </body>
   </text>

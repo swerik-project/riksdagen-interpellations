@@ -3,147 +3,214 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kvinnors sjukskrivningar</title>
+        <author>Schyman, Gudrun (-)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kvinnors sjukskrivningar till statsrådet Ylva Johansson om kvinnors sjukskrivningar</title>
+          <idno type="rdwebb">GS10395</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10395/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10395</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10395</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-LzYBGnvuhNHdQ7LQKPA6UJ</idno>
+            <persName>Gudrun Schyman</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>-</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-5otkT3eNSmG7obRxUSKtmp">
+          <date when="2005-02-17"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-BroJZky3EoSNZ5hx6d8sJE" corresp="i-LzYBGnvuhNHdQ7LQKPA6UJ">
+          <date when="2005-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-AkaqMNaZhQ4T6b9ABh9qm1">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VbNeDoGiXERzKHnfgx8dLo" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QJWYyYWAqt91CDuCjeZezG" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspContext corresp="i-QJWYyYWAqt91CDuCjeZezG">
+          <ref type="record" target="prot-200405--082">Riksdagens protokoll 2004/05:82 Tisdagen den 1 mars</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellationerna 2004/05:395 och 400 om kvinnors sjukskrivningar</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0395</head>
-        <author who="i-LzYBGnvuhNHdQ7LQKPA6UJ">Gudrun Schyman</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>kvinnors sjukskrivningar</topic>
-        <docDate when="2005-02-17">den 17 februari</docDate>
-        <status when="2005-03-01" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10395</external_id>
-        <debate>
-          <turn when="2005-03-01 14:32:08" duration="306">Hans Karlsson (S)</turn>
-          <turn when="2005-03-01 14:37:11" duration="250">Gudrun Schyman (-)</turn>
-          <turn when="2005-03-01 14:41:17" duration="260">Kalle Larsson (V)</turn>
-          <turn when="2005-03-01 14:45:35" duration="259">Hans Karlsson (S)</turn>
-          <turn when="2005-03-01 14:49:50" duration="265">Gudrun Schyman (-)</turn>
-          <turn when="2005-03-01 14:54:11" duration="140">Kalle Larsson (V)</turn>
-          <turn when="2005-03-01 14:56:27" duration="266">Hans Karlsson (S)</turn>
-          <turn when="2005-03-01 15:00:50" duration="150">Gudrun Schyman (-)</turn>
-          <turn when="2005-03-01 15:03:16" duration="163">Hans Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:395 av Gudrun Schyman (-) till statsrådet
-          Ylva Johansson om kvinnors sjukskrivningar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LTFLkX5ifrBdrFuhdizFvS">
+            Interpellation 2004/05:395 av Gudrun Schyman (-) till statsrådet
+            Ylva Johansson om kvinnors sjukskrivningar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Tk2i1hDgPRXXJ5cs5Nj6Bv">
+            den 17 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-EXPHifUb8L5dXqQX39uMs1">
-          Den studie som presenterades på DN Debatt den 10 februari, som
-          tog upp långtidssjukskrivningarna utifrån kön, bjöd på en blixtbelysning
-          av det höga pris som kvinnor tvingas betala för att hela samhället
-          är ordnat på mäns villkor.
-        </p>
-        <p xml:id="i-Gu95Y1MkvdSqjY4umxDn9h">
-          Forskarna Hélène Sandmark och Monica Renstig har kartlagt vad
-          som skiljer de många långtidssjukskrivna kvinnorna från friska
-          kvinnor, och till detta hade man satt rubriken Nio av tio kvinnor
-          i landet förlorar på att yrkesarbeta. Rubriken passar säkerligen
-          för vissa politiska analyser, framför allt de nedskärningsivrare
-          som ställer krav på sänkta ersättningsnivåer i sjukförsäkringen.
-        </p>
-        <p xml:id="i-Xj75kf4MpKUo9KRe5LDhHs">
-          Men vad studien egentligen visar är hur kvinnor kläms mellan
-          ett arbetsliv som förutsätter fullt deltagande och en verklighet
-          på hemmaplan där män smiter från sitt ansvar för hem och barn.
-        </p>
-        <p xml:id="i-MeLnYSbqwYEasxTpgXMmu1">
-          Frågan om skillnader mellan kvinnor och män när det gäller sjukskrivningar
-          och förtidspensioneringar var i fokus i Riksförsäkringsverkets
-          rapport Socialförsäkringsboken 2004 som hade tema Kvinnor, män
-          och sjukfrånvaron. Där konstaterar man att kvinnor i strävan efter
-          en jämställd position har brutit mot det normsystem som råder
-          när det gäller livets begränsningar och möjligheter. Motsvarande
-          förändringar i mäns beteende och normsystem har inte skett. Män
-          har i stället bibehållit en överordnad position i förhållande
-          till kvinnor, såväl i hemmet som i arbetslivet. Därmed skiljer
-          sig livsvillkoren för kvinnor och män fortfarande väsentligt åt.
-          RFV:s generaldirektör Anna Hedborg konstaterar i förordet att
-          "skilda livsvillkor och brist på jämställdhet har sannolikt bidragit
-          till kvinnors höga sjukskrivning och förtidspensionering". De
-          olika livsvillkoren leder inte bara till ökad ohälsa för kvinnorna
-          utan också till sämre ekonomi. Eftersom kvinnorna oftare är hemma
-          på deltid med barnen och tar ansvar vid barnens sjukdom, får de
-          lägre inkomster. Frånvaron leder i sin tur till sämre karriärmöjligheter
-          och de lägre inkomsterna till sämre pension.
-        </p>
-        <p xml:id="i-CuM6YR8KRiot8rPVvMgaYZ">
-          Det som blir tydligt när man läser dessa rapporter är att verkligheten
-          bakom sjukskrivningarna, som vi vet är förödande för såväl individens
-          vardagsliv som arbetsmarknaden och statsfinanserna är att:
-        </p>
-        <p xml:id="i-UhQQNQV172518TR7v321yY">
-          Den nuvarande organiseringen av samhället och yrkeslivet är således
-          dysfunktionellt för halva Sveriges befolkning. Anledningen till
-          detta är att den norm som stått som förebild för organiseringen
-          är män. Det är män som har styrt, och det är mäns behov som stått
-          i fokus när vardagens rutiner lärts in, när arbetsmarknaden organiserats,
-          när lönerna förhandlats fram och när sjukvården dels bestämt vems
-          sjukdomar som är viktiga. Den kvinnodominerade arbetsmarknaden
-          behandlar kvinnor som "tillfälliga besökare" på arbetsplatserna.
-          Arbetsgivarna erbjuder osäkra tillfälliga, deltidsjobb och vikariat
-          @ som dessutom är grovt undervärderade och underbetalda.
-        </p>
-        <p xml:id="i-A6NCmspX5w2qetDNHSjLic">
-          Vad som bör göras är ur ett feministiskt perspektiv uppenbart:
-          Lönerna i de kvinnodominerade sektorerna @ vården, omsorgen, skolan,
-          handeln @ måste höjas radikalt. Fasta jobb och heltid måste bli
-          standard @ även för unga kvinnor i vården och handeln. Kvinnor
-          som vårdar människor och lokaler ska ges samma lön, teknisk backup
-          och möjligheter till fysisk träning som de män som släcker bränder
-          och lagar elledningar.
-        </p>
-        <p xml:id="i-E9xdT4M3KGkvZPSiXcZmQn">
-          Den andra sidan av myntet är naturligtvis att höja kraven på
-          männen att ta sitt ansvar för hem och barn. Kvinnors livsvillkor
-          förblir orimliga om män inte tar sin del av det obetalda arbetet.
-          Heltid och fast jobb är klen tröst om man är ensam om huvudansvaret
-          för barn och hem. Statistiken visar att det inte går ihop och
-          detta erfar kvinnor bittert i onda nackar och utbrändhet.
-        </p>
-        <p xml:id="i-BKFh4r1ePqr2BkB2ALppvq">
-          Sammantaget kan vi se att vi i dag har den orimliga situationen
-          att kvinnor i princip betalar för att få jobba. De betalar ur
-          egen portmonnä för de arbetstidsförkortningar som är nödvändiga
-          för samhället om barnen ska få rum, betalar med sina utslitna
-          kroppar för de omänskliga och okänsliga nedskärningarna i välfärden,
-          betalar med sina liv för att den patriarkala maktordningen ska
-          kunna stå stark genom modernitetens förändringar.
-        </p>
-        <p xml:id="i-48n5a5xkXFj9LMiQaWfgbd">
-          Riksförsäkringsverket efterlyser en bred samhällsdebatt och politisk
-          debatt i dessa frågor. Jag delar deras syn och vill gärna initiera
-          denna debatt med frågor till de statsråd som bär det yttersta
-          ansvaret.
-        </p>
-        <p xml:id="i-K5eWGgvJr9YCVCQ6boLSBE">
-          Jag vill därför ställa följande frågor:
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-T83Uu4HVVaM8XEfCNcK3WS">
+            Den studie som presenterades på DN Debatt den 10 februari, som
+            tog upp långtidssjukskrivningarna utifrån kön, bjöd på en blixtbelysning
+            av det höga pris som kvinnor tvingas betala för att hela samhället
+            är ordnat på mäns villkor.
+          </p>
+          <p xml:id="i-8Sa2BAqGH4M4pWDd5nW6JZ">
+            Forskarna Hélène Sandmark och Monica Renstig har kartlagt vad
+            som skiljer de många långtidssjukskrivna kvinnorna från friska
+            kvinnor, och till detta hade man satt rubriken Nio av tio kvinnor
+            i landet förlorar på att yrkesarbeta. Rubriken passar säkerligen
+            för vissa politiska analyser, framför allt de nedskärningsivrare
+            som ställer krav på sänkta ersättningsnivåer i sjukförsäkringen.
+          </p>
+          <p xml:id="i-BrdjBJoCCaiNrNXxVw8Wvo">
+            Men vad studien egentligen visar är hur kvinnor kläms mellan
+            ett arbetsliv som förutsätter fullt deltagande och en verklighet
+            på hemmaplan där män smiter från sitt ansvar för hem och barn.
+          </p>
+          <p xml:id="i-NPnqrKrW1eHwFiPE8cwNb5">
+            Frågan om skillnader mellan kvinnor och män när det gäller sjukskrivningar
+            och förtidspensioneringar var i fokus i Riksförsäkringsverkets
+            rapport Socialförsäkringsboken 2004 som hade tema Kvinnor, män
+            och sjukfrånvaron. Där konstaterar man att kvinnor i strävan efter
+            en jämställd position har brutit mot det normsystem som råder
+            när det gäller livets begränsningar och möjligheter. Motsvarande
+            förändringar i mäns beteende och normsystem har inte skett. Män
+            har i stället bibehållit en överordnad position i förhållande
+            till kvinnor, såväl i hemmet som i arbetslivet. Därmed skiljer
+            sig livsvillkoren för kvinnor och män fortfarande väsentligt åt.
+            RFV:s generaldirektör Anna Hedborg konstaterar i förordet att
+            "skilda livsvillkor och brist på jämställdhet har sannolikt bidragit
+            till kvinnors höga sjukskrivning och förtidspensionering". De
+            olika livsvillkoren leder inte bara till ökad ohälsa för kvinnorna
+            utan också till sämre ekonomi. Eftersom kvinnorna oftare är hemma
+            på deltid med barnen och tar ansvar vid barnens sjukdom, får de
+            lägre inkomster. Frånvaron leder i sin tur till sämre karriärmöjligheter
+            och de lägre inkomsterna till sämre pension.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-LHSMMoG1wQT95KYyE3m76Y">
+            Det som blir tydligt när man läser dessa rapporter är att verkligheten
+            bakom sjukskrivningarna, som vi vet är förödande för såväl individens
+            vardagsliv som arbetsmarknaden och statsfinanserna är att:
+            <list rend="unordered">
+              <item>
+                Arbetsmarknaden fungerar inte för kvinnor.
+              </item>
+              <item>
+                Lönesättningen fungerar inte för kvinnor.
+              </item>
+              <item>
+                Sjukvården fungerar inte för kvinnor.
+              </item>
+              <item>
+                Fördelningen av arbete efter kön, det vill säga de traditionella
+                könsrollerna, är destruktiv för kvinnor.
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-8nZioGw3WkUGnb6matmR4N">
+            Den nuvarande organiseringen av samhället och yrkeslivet är således
+            dysfunktionellt för halva Sveriges befolkning. Anledningen till
+            detta är att den norm som stått som förebild för organiseringen
+            är män. Det är män som har styrt, och det är mäns behov som stått
+            i fokus när vardagens rutiner lärts in, när arbetsmarknaden organiserats,
+            när lönerna förhandlats fram och när sjukvården dels bestämt vems
+            sjukdomar som är viktiga. Den kvinnodominerade arbetsmarknaden
+            behandlar kvinnor som "tillfälliga besökare" på arbetsplatserna.
+            Arbetsgivarna erbjuder osäkra tillfälliga, deltidsjobb och vikariat
+            @ som dessutom är grovt undervärderade och underbetalda.
+          </p>
+          <p xml:id="i-MW2dT5PRxM37fkCG3EDJXG">
+            Vad som bör göras är ur ett feministiskt perspektiv uppenbart:
+            Lönerna i de kvinnodominerade sektorerna @ vården, omsorgen, skolan,
+            handeln @ måste höjas radikalt. Fasta jobb och heltid måste bli
+            standard @ även för unga kvinnor i vården och handeln. Kvinnor
+            som vårdar människor och lokaler ska ges samma lön, teknisk backup
+            och möjligheter till fysisk träning som de män som släcker bränder
+            och lagar elledningar.
+          </p>
+          <p xml:id="i-C3ZEqzGtABKFvQfnvxUAaW">
+            Den andra sidan av myntet är naturligtvis att höja kraven på
+            männen att ta sitt ansvar för hem och barn. Kvinnors livsvillkor
+            förblir orimliga om män inte tar sin del av det obetalda arbetet.
+            Heltid och fast jobb är klen tröst om man är ensam om huvudansvaret
+            för barn och hem. Statistiken visar att det inte går ihop och
+            detta erfar kvinnor bittert i onda nackar och utbrändhet.
+          </p>
+          <p xml:id="i-Q6M8PQ1G1A9GKbRdjtshwW">
+            Sammantaget kan vi se att vi i dag har den orimliga situationen
+            att kvinnor i princip betalar för att få jobba. De betalar ur
+            egen portmonnä för de arbetstidsförkortningar som är nödvändiga
+            för samhället om barnen ska få rum, betalar med sina utslitna
+            kroppar för de omänskliga och okänsliga nedskärningarna i välfärden,
+            betalar med sina liv för att den patriarkala maktordningen ska
+            kunna stå stark genom modernitetens förändringar.
+          </p>
+          <p xml:id="i-K5UjtDvy7YGr8jofL21mS1">
+            Riksförsäkringsverket efterlyser en bred samhällsdebatt och politisk
+            debatt i dessa frågor. Jag delar deras syn och vill gärna initiera
+            denna debatt med frågor till de statsråd som bär det yttersta
+            ansvaret.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-NeiCFYHX68hfjM8M7vb5zM">
+            Jag vill därför ställa följande frågor:
+            <list rend="unordered">
+              <item>
+                Avser statsrådet att vidta några åtgärder med anledning av analysen
+                att grunden till kvinnors sjukskrivningar hänger samman med den
+                rådande könsmaktsordningen?
+              </item>
+              <item>
+                Vilka förändringar, inom det egna ansvarsområdet, avser statsrådet
+                att genomföra för att försvaga och bryta ned denna könsmaktsordning?
+              </item>
+              <item>
+                Vad bedömer statsrådet som den enskilt viktigaste frågan för
+                att undvika en fortsatt ökning av kvinnors sjukskrivningar?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

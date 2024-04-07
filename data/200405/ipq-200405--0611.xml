@@ -3,113 +3,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>barns inomhusmiljö</title>
+        <author>Wahlgren, Marie (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>barns inomhusmiljö till samhällsbyggnadsminister Mona Sahlin om barns inomhusmiljö</title>
+          <idno type="rdwebb">GS10611</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10611/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10611</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10611</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-ASHgRusN9GoHAH8eioxicP</idno>
+            <persName>Marie Wahlgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-KVcqmEfczymWbG7o8e69xi">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-YNENudV5oP2pX1tFjTbWjr" corresp="i-ASHgRusN9GoHAH8eioxicP">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CVgkqxjS1PHvxHB6XwxVeX">
+          <date when="2005-05-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LwPbCwiMvfCJjP9nofUpLD" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Aqpt8iwQiBHC2ujLR9U4k3" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-05-31"/>
+        </correspAction>
+        <correspContext corresp="i-Aqpt8iwQiBHC2ujLR9U4k3">
+          <ref type="record" target="prot-200405--130">Riksdagens protokoll 2004/05:130 Tisdagen den 31 maj</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:611 om barns inomhusmiljö</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0611</head>
-        <author who="i-ASHgRusN9GoHAH8eioxicP">Marie Wahlgren</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>barns inomhusmiljö</topic>
-        <docDate when="2005-05-19">den 19 maj</docDate>
-        <status when="2005-05-31" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10611</external_id>
-        <debate>
-          <turn when="2005-05-31 19:10:21" duration="305">Mona Sahlin (S)</turn>
-          <turn when="2005-05-31 19:15:21" duration="253">Marie Wahlgren (Fp)</turn>
-          <turn when="2005-05-31 19:19:31" duration="238">Christer Nylander (Fp)</turn>
-          <turn when="2005-05-31 19:23:25" duration="261">Mona Sahlin (S)</turn>
-          <turn when="2005-05-31 19:27:42" duration="240">Marie Wahlgren (Fp)</turn>
-          <turn when="2005-05-31 19:31:38" duration="138">Christer Nylander (Fp)</turn>
-          <turn when="2005-05-31 19:33:53" duration="228">Mona Sahlin (S)</turn>
-          <turn when="2005-05-31 19:37:37" duration="113">Marie Wahlgren (Fp)</turn>
-          <turn when="2005-05-31 19:39:26" duration="70">Mona Sahlin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:611 av Marie Wahlgren (fp) till samhällsbyggnadsminister
-          Mona Sahlin om barns inomhusmiljö
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-SXaWJmK7vVXyGZ4mU3LYeg">
+            Interpellation 2004/05:611 av Marie Wahlgren (fp) till samhällsbyggnadsminister
+            Mona Sahlin om barns inomhusmiljö
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GfHP9xYA9TcjcJuxhSm3M6">
+            den 19 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-HsuUM7SuN7DHudgtbVxcgD">
-          Inomhusmiljöerna där barn vistas är ofta alltför undermåliga,
-          framför allt i skolor och förskolor. Problemen spänner över radon,
-          mögel och andra allergener, buller och trängsel. Per Kling på
-          arbetsmiljöinspektionen i Malmö har skrivit en rapport över arbetsmiljön
-          i skolorna i Skåne åren 2000 och 2002. Han drar där ett antal
-          viktiga slutsatser:
-        </p>
-        <p xml:id="i-6mpisq2x4bLrA132hd95kr">
-          Arbetsmiljöverket har uppmärksammat bullerproblemen i förskolan.
-          Bullret i flera skånska förskolor var långt större än vad som
-          anses tillåtet för till exempel trafikbuller i bostadsområden.
-          Bullernivån beskrevs i vissa fall som högre än det som uppstår
-          vid hårdrockkonserter. Gränserna för buller i bostadsområden har
-          satts med utgångspunkt från att barns förmåga till inlärning störs
-          vid högre bullervärden. Det finns därför all anledning att ta
-          problemen på allvar.
-        </p>
-        <p xml:id="i-Tyo142DF7kDHLM79ty6KdC">
-          Trots att problemen är kända har hälften av de 105 kommuner som
-          svarat på en enkät om barns inomhusmiljö som Folkpartiet genomfört,
-          inte någon systematisk uppföljning eller undersökning av inomhusmiljön
-          på skolor och förskolor. Skälen till att arbetet inte görs tillräckligt
-          systematiskt kan vara många. Följande förklaring, från en av de
-          tillfrågade, speglar situationen i många kommuner: "Tyvärr har
-          inte mycket gjorts från vår sida, inte systematisk tillsyn i alla
-          fall, på grund av bristande resurser. I kommande verksamhetsplanering
-          är det tyvärr också lågprioriterat. Vi har inte pengar och hinner
-          inte med tillsynen med nuvarande personalstyrka. Tyvärr ser det
-          nog likadant ut i många kommuner."
-        </p>
-        <p xml:id="i-6Rkn6SsNyjXFDhPCXG2ska">
-          Problemen kan inte avhjälpas enbart med åtgärder i själva byggnaderna.
-          Buller och dålig luft måste också åtgärdas genom att studera verksamheten.
-          För att ta ytterligare ett citat ur undersökningen: "Vad som är
-          ett stort problem från vårt perspektiv är att skolornas nya pedagogik
-          inte stämmer överens med de gamla skolbyggnaderna. Elever sitter
-          ofta och grupparbetar ute i korridorer eller i förråd. Det är
-          miljöer som inte är anpassade för undervisning när det gäller
-          ventilation och bullerdämpning."
-        </p>
-        <p xml:id="i-H36huXMhmRXAF24ZpWbeGb">
-          Det finns trots allt åtgärder som kan åtgärdas också byggnadstekniskt.
-          Mina frågor blir därför:
-        </p>
-        <p xml:id="i-JtzugdbDVTchoPDzuAMf4J">
-          Är ministern beredd att låta barns inomhusmiljö bli ett särskilt
-          delmål inom miljömålet God bebyggd miljö?
-        </p>
-        <p xml:id="i-L6Wifg5qrbKgtWUvZHQ5y9">
-          Vad avser ministern att vidta för åtgärder för att förbättra
-          inomhusmiljön i skolor och förskolor?
-        </p>
-        <p xml:id="i-WpUcQDrpN9qjhfV8GcRpPy">
-          Vad avser ministern att vidta för åtgärder för att öka det kommunala
-          engagemanget och kunskapen kring inomhusmiljön i skolor och förskolor?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-DUhmiGesSNLnszspYQjPv4">
+            Inomhusmiljöerna där barn vistas är ofta alltför undermåliga,
+            framför allt i skolor och förskolor. Problemen spänner över radon,
+            mögel och andra allergener, buller och trängsel. Per Kling på
+            arbetsmiljöinspektionen i Malmö har skrivit en rapport över arbetsmiljön
+            i skolorna i Skåne åren 2000 och 2002. Han drar där ett antal
+            viktiga slutsatser:
+            <list rend="unordered">
+              <item>
+                Skyddsronderna ute på arbetsställena har en tendens att bli "fastighetsunderhållsronder".
+                Ibland nämns brister i målningsunderhåll @ färgen flagnar på väggen
+                @ i skyddsrondsprotokollen.
+              </item>
+              <item>
+                Det är alltför ofta den tekniska avdelningen som ska lösa (läs:
+                bygga bort) problem i arbetsmiljön. Endast ett begränsat antal
+                kommuner har försökt lösa problemet på organisatorisk väg.
+              </item>
+              <item>
+                På grund av organisatoriska problem tar det ofta lång tid att
+                åtgärda brister.
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-H6a4sYmLmeCzMg4E9wugAX">
+            Arbetsmiljöverket har uppmärksammat bullerproblemen i förskolan.
+            Bullret i flera skånska förskolor var långt större än vad som
+            anses tillåtet för till exempel trafikbuller i bostadsområden.
+            Bullernivån beskrevs i vissa fall som högre än det som uppstår
+            vid hårdrockkonserter. Gränserna för buller i bostadsområden har
+            satts med utgångspunkt från att barns förmåga till inlärning störs
+            vid högre bullervärden. Det finns därför all anledning att ta
+            problemen på allvar.
+          </p>
+          <p xml:id="i-V3JD64UmVtHCb41Ye5GZ7j">
+            Trots att problemen är kända har hälften av de 105 kommuner som
+            svarat på en enkät om barns inomhusmiljö som Folkpartiet genomfört,
+            inte någon systematisk uppföljning eller undersökning av inomhusmiljön
+            på skolor och förskolor. Skälen till att arbetet inte görs tillräckligt
+            systematiskt kan vara många. Följande förklaring, från en av de
+            tillfrågade, speglar situationen i många kommuner: "Tyvärr har
+            inte mycket gjorts från vår sida, inte systematisk tillsyn i alla
+            fall, på grund av bristande resurser. I kommande verksamhetsplanering
+            är det tyvärr också lågprioriterat. Vi har inte pengar och hinner
+            inte med tillsynen med nuvarande personalstyrka. Tyvärr ser det
+            nog likadant ut i många kommuner."
+          </p>
+          <p xml:id="i-ELPRcYg3KFagU172jVs1cu">
+            Problemen kan inte avhjälpas enbart med åtgärder i själva byggnaderna.
+            Buller och dålig luft måste också åtgärdas genom att studera verksamheten.
+            För att ta ytterligare ett citat ur undersökningen: "Vad som är
+            ett stort problem från vårt perspektiv är att skolornas nya pedagogik
+            inte stämmer överens med de gamla skolbyggnaderna. Elever sitter
+            ofta och grupparbetar ute i korridorer eller i förråd. Det är
+            miljöer som inte är anpassade för undervisning när det gäller
+            ventilation och bullerdämpning."
+          </p>
+          <p xml:id="i-V9AeXysP29jmXNAhw6d11X">
+            Det finns trots allt åtgärder som kan åtgärdas också byggnadstekniskt.
+            Mina frågor blir därför:
+          </p>
+          <p xml:id="i-CHE5KqRH775J1TuTfgbktW">
+            Är ministern beredd att låta barns inomhusmiljö bli ett särskilt
+            delmål inom miljömålet God bebyggd miljö?
+          </p>
+          <p xml:id="i-4bszZYGwfKYtag4u9dwFrT">
+            Vad avser ministern att vidta för åtgärder för att förbättra
+            inomhusmiljön i skolor och förskolor?
+          </p>
+          <p xml:id="i-4MsrHXvjBX5b93ZeKRsxVN">
+            Vad avser ministern att vidta för åtgärder för att öka det kommunala
+            engagemanget och kunskapen kring inomhusmiljön i skolor och förskolor?
+          </p>
+        </div>
       </div>
     </body>
   </text>

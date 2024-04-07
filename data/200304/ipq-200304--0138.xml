@@ -3,106 +3,143 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>löneskillnader mellan könen</title>
+        <author>Pilsäter, Karin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>löneskillnader mellan könen till statsrådet Mona Sahlin om löneskillnader mellan könen</title>
+          <idno type="rdwebb">GR10138</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10138/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10138</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10138</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-6kLJbGLpwB9hYxDrVrkcqF</idno>
+            <persName>Karin Pilsäter</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GKrA85U22MCzaoy4XCVdrT" corresp="i-6kLJbGLpwB9hYxDrVrkcqF">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TtH55yQuA1NZR3yx8ESymY">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-E9sNjDtBxmsrNnWHFLZYem">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5kgiCRNZLN5FEk7No7nKjG" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WCmiwQkqQ4qNyTJeRnWiqw" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-WCmiwQkqQ4qNyTJeRnWiqw">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:138 om löneskillnader mellan könen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0138</head>
-        <author who="i-6kLJbGLpwB9hYxDrVrkcqF">Karin Pilsäter</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>löneskillnader mellan könen</topic>
-        <docDate when="2003-11-20">den 20 november</docDate>
-        <status when="2003-12-12" byWhom="Lars-Erik Lövdén" byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10138</external_id>
-        <debate>
-          <turn when="2003-12-12 09:35:27" duration="39">Lars-Erik Lövdén (S)</turn>
-          <turn when="2003-12-12 09:36:01" duration="213">Nina Lundström (Fp)</turn>
-          <turn when="2003-12-12 09:39:30" duration="127">Lars-Erik Lövdén (S)</turn>
-          <turn when="2003-12-12 09:41:33" duration="237">Nina Lundström (Fp)</turn>
-          <turn when="2003-12-12 09:48:09" duration="151">Nina Lundström (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:138 av Karin Pilsäter (fp) till statsrådet
-          Mona Sahlin om löneskillnader mellan könen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9KauTSXJNa4tNqrZg7Eodn">
+            Interpellation 2003/04:138 av Karin Pilsäter (fp) till statsrådet
+            Mona Sahlin om löneskillnader mellan könen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-RKhL64VVqigiiqNebtHedy">
+            den 20 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-9TUFp1tPXjya95atgipi4k">
-          Rålönegapet, den totala skillnaden mellan mäns och kvinnors löner,
-          har bitit sig fast på bortåt 20 %, för varje tia en man i genomsnitt
-          tjänar får kvinnan drygt 8 kr. Rålönegapet är ett uttryck för
-          att samhället inte är jämställt. Huvudorsaken är inte direkt diskriminering,
-          även om den sannerligen existerar. De främsta orsakerna till det
-          stora rålönegapet är i stället det faktum att den svenska arbetsmarknaden
-          är starkt könssegregerad, och att det totala lönegapet till mycket
-          stor del förklaras av befattningssegregation och arbetsplatssegregation.
-          Det faktum att kvinnor finns i andra arbeten som värderas lägre
-          än de arbeten män utför är alltså en viktig orsak till de orättvisa
-          löneskillnaderna. Dessa kan som bekant inte pratas bort, de måste
-          betalas bort.
-        </p>
-        <p xml:id="i-mQDBNyvr9TybB6aRsebEJ">
-          I storstadsregionerna, särskilt Storstockholm, har lönenivåerna
-          för sjuksköterskor, lärare och förskollärare, men även för undersköterskor
-          och barnskötare ökat påtagligt relativt resten av landet. Detta
-          är naturligtvis en kombination av den rena marknadssituationen,
-          man har behövt betala mer helt enkelt för att få folk på plats,
-          och politiska ambitioner att bättre värdera dessa yrkesinsatser.
-        </p>
-        <p xml:id="i-XVicyySTELks6qWtRRrXLX">
-          När marknadskrafterna och den politiska ambitionen för en gångs
-          skull har dragit åt samma håll, så att löner för förskollärare,
-          sjuksköterskor, barnmorskor, undersköterskor och barnskötare är
-          högre i Stockholmsregionen än i riket, innebär detta med nödvändighet
-          högre kommunala utgifter. Men detta högre kostnadsläge är inte
-          en del i kostnadsutjämningen. Samtidigt får dessa kommuner och
-          landsting sända i väg runt hundra procent (ibland strax under,
-          ibland strax över!) av de extra skatteinkomster som kommer från
-          dessa högre kvinnolöner till andra kommuner och landsting.
-        </p>
-        <p xml:id="i-Mg2Yu29m6NvGjfdmifTRqu">
-          I den aktuella debatten, såväl som i det senaste utredningsförslaget
-          kring utjämningssystemet, avvisas tanken på att kostnadsutjämningen
-          ska ta hänsyn till det högre kostnadsläget. Dessutom bibehåll
-          i förslaget den mycket långtgående inkomstutjämningen. Ledande
-          företrädare för Socialdemokraterna, exempelvis statsråd, är helt
-          oförstående och menar snarast att Stockholmsregionens kommuner
-          och landstinget får skylla sig själva som har höjt kvinnolönerna
-          i vården och skolan.
-        </p>
-        <p xml:id="i-SQo4XMH6PTwaLKtiZ3m2Si">
-          Men hur ska vi få rättvisa kvinnolöner om kostnaden inte får
-          räknas för kommunerna utan de höjda skatteinkomsterna ska skickas
-          vidare till andra regioner?
-        </p>
-        <p xml:id="i-UT1tqmXkofoASSRTnJo6yt">
-          Med anledning av detta vill jag fråga jämställdhetsministern
-          vilka insatser hon planerar för att få utjämningssystemet att
-          uppmuntra, inte motverka, en utveckling mot minskade löneskillnader
-          mellan könen.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-NwT56dHSvM9J5dujPihh5Z">
+            Rålönegapet, den totala skillnaden mellan mäns och kvinnors löner,
+            har bitit sig fast på bortåt 20 %, för varje tia en man i genomsnitt
+            tjänar får kvinnan drygt 8 kr. Rålönegapet är ett uttryck för
+            att samhället inte är jämställt. Huvudorsaken är inte direkt diskriminering,
+            även om den sannerligen existerar. De främsta orsakerna till det
+            stora rålönegapet är i stället det faktum att den svenska arbetsmarknaden
+            är starkt könssegregerad, och att det totala lönegapet till mycket
+            stor del förklaras av befattningssegregation och arbetsplatssegregation.
+            Det faktum att kvinnor finns i andra arbeten som värderas lägre
+            än de arbeten män utför är alltså en viktig orsak till de orättvisa
+            löneskillnaderna. Dessa kan som bekant inte pratas bort, de måste
+            betalas bort.
+          </p>
+          <p xml:id="i-R5PFkMp1ju9rhWKmdFU8Tw">
+            I storstadsregionerna, särskilt Storstockholm, har lönenivåerna
+            för sjuksköterskor, lärare och förskollärare, men även för undersköterskor
+            och barnskötare ökat påtagligt relativt resten av landet. Detta
+            är naturligtvis en kombination av den rena marknadssituationen,
+            man har behövt betala mer helt enkelt för att få folk på plats,
+            och politiska ambitioner att bättre värdera dessa yrkesinsatser.
+          </p>
+          <p xml:id="i-6DTuResLSMSiT2KL2UCXhX">
+            När marknadskrafterna och den politiska ambitionen för en gångs
+            skull har dragit åt samma håll, så att löner för förskollärare,
+            sjuksköterskor, barnmorskor, undersköterskor och barnskötare är
+            högre i Stockholmsregionen än i riket, innebär detta med nödvändighet
+            högre kommunala utgifter. Men detta högre kostnadsläge är inte
+            en del i kostnadsutjämningen. Samtidigt får dessa kommuner och
+            landsting sända i väg runt hundra procent (ibland strax under,
+            ibland strax över!) av de extra skatteinkomster som kommer från
+            dessa högre kvinnolöner till andra kommuner och landsting.
+          </p>
+          <p xml:id="i-ANnPXz2sfBzvasYKPu4vJ3">
+            I den aktuella debatten, såväl som i det senaste utredningsförslaget
+            kring utjämningssystemet, avvisas tanken på att kostnadsutjämningen
+            ska ta hänsyn till det högre kostnadsläget. Dessutom bibehåll
+            i förslaget den mycket långtgående inkomstutjämningen. Ledande
+            företrädare för Socialdemokraterna, exempelvis statsråd, är helt
+            oförstående och menar snarast att Stockholmsregionens kommuner
+            och landstinget får skylla sig själva som har höjt kvinnolönerna
+            i vården och skolan.
+          </p>
+          <p xml:id="i-ExEWhSU7Kk4jK57nnmv7s9">
+            Men hur ska vi få rättvisa kvinnolöner om kostnaden inte får
+            räknas för kommunerna utan de höjda skatteinkomsterna ska skickas
+            vidare till andra regioner?
+          </p>
+          <p xml:id="i-8SoLJJqkEGYx4Mogufq226">
+            Med anledning av detta vill jag fråga jämställdhetsministern
+            vilka insatser hon planerar för att få utjämningssystemet att
+            uppmuntra, inte motverka, en utveckling mot minskade löneskillnader
+            mellan könen.
+          </p>
+        </div>
       </div>
     </body>
   </text>

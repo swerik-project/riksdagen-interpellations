@@ -3,74 +3,114 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Telia som inkassoföretag</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Telia som inkassoföretag till näringsminister Leif Pagrotsky om Telia som inkassoföretag</title>
+          <idno type="rdwebb">GQ10111</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10111/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10111</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10111</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Yvonne Andersson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-27JckZxPVAgy65VNxPJLJ7" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2002-12-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EtEZztxkeZs3XiTcFp8FbK">
+          <date when="2002-12-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ASXJfNpG2dUBP8tEpR69e3">
+          <date when="2003-01-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DVaJ2HZCiyPtgv9zTxEXt2" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2002-12-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Lq56hgRTSSm6L7tZ7WBgq9" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2003-01-31"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0111</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Yvonne Andersson</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>Telia som inkassoföretag</topic>
-        <docDate when="2002-12-19">den 19 december</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10111</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:111 av Yvonne Andersson (kd) till näringsminister
-          Leif Pagrotsky om Telia som inkassoföretag
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QjKb42gMbp9EGUqtvG4JmN">
+            Interpellation 2002/03:111 av Yvonne Andersson (kd) till näringsminister
+            Leif Pagrotsky om Telia som inkassoföretag
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Qbig2Bz7SCFGsAeqD1CvhU">
+            den 19 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FogN16ubaGxbPZFic7Tbs">
-          En ung man boende hemma hos sina föräldrar får ett meddelande
-          på mejlen. Han öppnar och erbjuds titta på några utvalda bilder.
-          Han svarar ja och får upp en bild där han ska trycka på safety
-          eller liknande. Han är så nyfiken att han missar att läsa det
-          finstilta och observerar därmed inte att han genom ett litet klick
-          övergår från en tjänst som ingår i Internetabonnemanget till en
-          tjänst inom kategorin betaltelefonitjänst.
-        </p>
-        <p xml:id="i-EFosBQBV4eQUPZX3b4bqVq">
-          Några veckor senare står föräldrarna med en telefonräkning på
-          15 000 kr. De hävdar att de inte kan ha ringt för denna summa.
-          Avtalet är heller inte enligt gällande regler, tecknat med någon
-          producent. Men avtalet anses ingånget genom abonnemanget med Telia.
-          Det finns således ingen möjlighet att bestrida beloppet i räkningen.
-        </p>
-        <p xml:id="i-AEBFBy76PrVaPhqCttSrD6">
-          I det beskrivna fallet ersätts kravet på avtal mellan två personer
-          genom att det hävdas att avtal finns genom Telias försorg. Fallet
-          innehåller två problem, nämligen att avtal kan anses vara tecknat
-          genom Telia och att Telia därmed träder in i rollen som inkassoföretag
-          till oseriösa näringsidkare. Det andra problemet är att det inte
-          noga tydliggörs för konsumenten att tjänsten genom ett litet klick
-          övergår från att vara kostnadsfri till att bli betaltjänst.
-        </p>
-        <p xml:id="i-W7dTbPho1QSe7fGLP1EfZD">
-          Vilka åtgärder avser ministern att vidta för att det klart ska
-          tydliggöras för Internetabonnenter när man går in på en betalsida?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PJuG8LWKLxxescxggCPqTf">
+            En ung man boende hemma hos sina föräldrar får ett meddelande
+            på mejlen. Han öppnar och erbjuds titta på några utvalda bilder.
+            Han svarar ja och får upp en bild där han ska trycka på safety
+            eller liknande. Han är så nyfiken att han missar att läsa det
+            finstilta och observerar därmed inte att han genom ett litet klick
+            övergår från en tjänst som ingår i Internetabonnemanget till en
+            tjänst inom kategorin betaltelefonitjänst.
+          </p>
+          <p xml:id="i-UHQChLeSviWmjVhcM5Xmj5">
+            Några veckor senare står föräldrarna med en telefonräkning på
+            15 000 kr. De hävdar att de inte kan ha ringt för denna summa.
+            Avtalet är heller inte enligt gällande regler, tecknat med någon
+            producent. Men avtalet anses ingånget genom abonnemanget med Telia.
+            Det finns således ingen möjlighet att bestrida beloppet i räkningen.
+          </p>
+          <p xml:id="i-RPUoj55VsKbgjKurQfe8Gg">
+            I det beskrivna fallet ersätts kravet på avtal mellan två personer
+            genom att det hävdas att avtal finns genom Telias försorg. Fallet
+            innehåller två problem, nämligen att avtal kan anses vara tecknat
+            genom Telia och att Telia därmed träder in i rollen som inkassoföretag
+            till oseriösa näringsidkare. Det andra problemet är att det inte
+            noga tydliggörs för konsumenten att tjänsten genom ett litet klick
+            övergår från att vara kostnadsfri till att bli betaltjänst.
+          </p>
+          <p xml:id="i-XSNHbwXuE5uPLGoTBqoxv5">
+            Vilka åtgärder avser ministern att vidta för att det klart ska
+            tydliggöras för Internetabonnenter när man går in på en betalsida?
+          </p>
+        </div>
       </div>
     </body>
   </text>

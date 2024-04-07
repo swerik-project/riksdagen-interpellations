@@ -3,129 +3,166 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>resurserna inom polisen</title>
+        <author>Strandberg, Torkild (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>resurserna inom polisen till justitieminister Thomas Bodström om resurserna inom polisen</title>
+          <idno type="rdwebb">GS10336</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10336/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10336</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10336</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ewi7Lwy3h4DBNJ2zradbNt</idno>
+            <persName>Torkild Strandberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Mzade8eRjLq54GtCofKwxz" corresp="i-Ewi7Lwy3h4DBNJ2zradbNt">
+          <date when="2005-01-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Y2b1Uom5gSUBaDqq5g5cN3">
+          <date when="2005-01-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-YGduPEHz2QqciBRV45Ejun">
+          <date when="2005-02-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GcgfRNvnw8im7JAWvGQxEP" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-01-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-G73AzsGHr7oezrG7WLkp6b" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-02-10"/>
+        </correspAction>
+        <correspContext corresp="i-G73AzsGHr7oezrG7WLkp6b">
+          <ref type="record" target="prot-200405--073">Riksdagens protokoll 2004/05:73 Torsdagen den 10 februari</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:336 om resurserna inom Polisen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0336</head>
-        <author who="i-Ewi7Lwy3h4DBNJ2zradbNt">Torkild Strandberg</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>resurserna inom polisen</topic>
-        <docDate when="2005-01-28">den 28 januari</docDate>
-        <status when="2005-02-10" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10336</external_id>
-        <debate>
-          <turn when="2005-02-10 15:36:55" duration="139">Thomas Bodström (S)</turn>
-          <turn when="2005-02-10 15:39:09" duration="237">Torkild Strandberg (Fp)</turn>
-          <turn when="2005-02-10 15:42:00" duration="269">Johan Pehrson (Fp)</turn>
-          <turn when="2005-02-10 15:46:18" duration="261">Thomas Bodström (S)</turn>
-          <turn when="2005-02-10 15:50:35" duration="166">Torkild Strandberg (Fp)</turn>
-          <turn when="2005-02-10 15:53:17" duration="147">Johan Pehrson (Fp)</turn>
-          <turn when="2005-02-10 15:55:38" duration="252">Thomas Bodström (S)</turn>
-          <turn when="2005-02-10 15:59:44" duration="120">Torkild Strandberg (Fp)</turn>
-          <turn when="2005-02-10 16:01:38" duration="129">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:336 av Torkild Strandberg (fp) till justitieminister
-          Thomas Bodström om resurserna inom Polisen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-NBTeDvHxZHbyULSaUz557">
+            Interpellation 2004/05:336 av Torkild Strandberg (fp) till justitieminister
+            Thomas Bodström om resurserna inom Polisen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8Kgbcqmepk3V5YUZ61Lgiv">
+            den 28 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6cQMtxPGfATUFjtTHLcwvK">
-          Ansvaret för Polisens arbete, utveckling och resultat åvilar
-          enligt regeringsformen regeringen. Polisens effektivitet bestäms
-          av flera faktorer. Det handlar om ekonomiska ramar, planeringsförutsättning,
-          lagstiftning, regleringsbrev, utnämningsmakten, den informella
-          styrningen samt inte minst det politiska ledarskapet. Dessa verktyg
-          gör regeringen till ansvariga för Polisen.
-        </p>
-        <p xml:id="i-TGJwozLpL66QXEt1ewrdPg">
-          I en interpellationsdebatt den 21 januari 2005 sade justitieministern:
-          "Fyra år i rad har polisen till och med haft ett överskott i sin
-          budget." och vidare: "Eftersom vi nu hänvisar till RPS kan jag
-          ge de allra färskaste uppgifterna, och det är att polisen under
-          2004 hade ett överskott med 358 miljoner kronor." Förutsättningarna
-          för hur detta överskott ska hanteras har nu ändrats. I sin debatt
-          den 21 januari finns hos justitieministern ingen antydan om denna
-          förändring.
-        </p>
-        <p xml:id="i-SNajmmJn2nVrcZctcMW1ep">
-          Polisens budget baseras på de anslag som riksdagen beslutar om.
-          Den 16 december 2004 utökade riksdagens majoritet Polisens budget
-          med 100 miljoner kronor. Detta är visserligen en alltför liten
-          ökning i förhållande till behov som finns, men trots allt en ökning.
-          Ökningen är också liten i förhållande till andra partiers budgetyrkanden.
-        </p>
-        <p xml:id="i-E7LS51wWM8SNqcV3HzP2gd">
-          Redan den 22 december ändrades de ekonomiska förutsättningarna
-          för Polisen. I sitt regleringsbrev har befintliga anslagsbesparingar
-          om 300 miljoner av totalt 358 miljoner, det vill säga Polisens
-          samlade överskott för 2004, dragits in från Polisen. Av det som
-          skulle bli en liten anslagsökning för svensk polis blev det i
-          stället en indragning, större än den så kallade satsningen.
-        </p>
-        <p xml:id="i-LzMGzMaWz5CA5moxfYJ4g7">
-          Utöver detta drar regeringen i samma regleringsbrev in 0,6 %
-          av Polisens anslag till regeringens disposition. Detta innebär
-          en indragning från Polisen på ytterligare 90 miljoner. Dessutom
-          meddelas att möjligheterna till så kallade anslagskrediter dras
-          in, vilket kommer att påverka Polisens möjligheter till långsiktiga
-          investeringar.
-        </p>
-        <p xml:id="i-AAQo8rMVkFtt9HSV4Cx7Ff">
-          Dessa förändrade förutsättningar kommer snabbt att innebära försämringar
-          i hela Sverige. I Skåne var Polisens överskott 66 miljoner kronor
-          år 2004, i Stockholm 106 miljoner, i Norrbotten 16 miljoner och
-          i Värmland 35 miljoner. Detta är resurser som har sparats, ofta
-          med smärtsamma konsekvenser, för att kunna satsas på bland annat
-          nya poliser i 2005 års budget. Dessa pengar drar nu regeringen
-          in. Det finns en överhängande risk att civilanställd personal
-          kommer att få sluta, polisstationer stängas och att antalet nya
-          poliser kommer att minska då pengar saknas för löner. Stockholms
-          län har redan meddelat att man tvingas tacka nej till nya poliser
-          redan i sommar. I Skåne län råder nu ovisshet om hur rekryteringarna
-          av poliser ska kunna fullföljas, då regeringen dragit in den tänkta
-          finansieringen. Situationen tycks vara likartad i hela landet.
-        </p>
-        <p xml:id="i-knPBivaCyDLm7T9mUR7Cv">
-          Jag vill fråga justitieministern:
-        </p>
-        <p xml:id="i-Nm6qE29jVKgdzJ9H5QBmKH">
-          1. Vad avser justitieministern att göra för att riksdagens beslutade
-          anslagsförstärkning till Polisen ska bli verklighet?
-        </p>
-        <p xml:id="i-UK1jTpPm2HsiqjuXLRc2fp">
-          2. Vad avser justitieministern att göra för att nyrekryteringarna
-          till Polisen ska kunna fullföljas utan att detta drabbar annan
-          verksamhet eller civilanställd personal?
-        </p>
-        <p xml:id="i-RRGH1621qAJ45tFRfaDzmp">
-          3. Vad avser justitieministern att göra för att ett system, där
-          varje års anslag måste förbrukas till sista kronan eftersom det
-          annars dras in av regeringen, undviks?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-KJvy5X8RBb982ui1CPDa4i">
+            Ansvaret för Polisens arbete, utveckling och resultat åvilar
+            enligt regeringsformen regeringen. Polisens effektivitet bestäms
+            av flera faktorer. Det handlar om ekonomiska ramar, planeringsförutsättning,
+            lagstiftning, regleringsbrev, utnämningsmakten, den informella
+            styrningen samt inte minst det politiska ledarskapet. Dessa verktyg
+            gör regeringen till ansvariga för Polisen.
+          </p>
+          <p xml:id="i-HhJeSfjXdeW3TvvEhdftyq">
+            I en interpellationsdebatt den 21 januari 2005 sade justitieministern:
+            "Fyra år i rad har polisen till och med haft ett överskott i sin
+            budget." och vidare: "Eftersom vi nu hänvisar till RPS kan jag
+            ge de allra färskaste uppgifterna, och det är att polisen under
+            2004 hade ett överskott med 358 miljoner kronor." Förutsättningarna
+            för hur detta överskott ska hanteras har nu ändrats. I sin debatt
+            den 21 januari finns hos justitieministern ingen antydan om denna
+            förändring.
+          </p>
+          <p xml:id="i-9Qi9RSAuLy7uDZqvVasNGY">
+            Polisens budget baseras på de anslag som riksdagen beslutar om.
+            Den 16 december 2004 utökade riksdagens majoritet Polisens budget
+            med 100 miljoner kronor. Detta är visserligen en alltför liten
+            ökning i förhållande till behov som finns, men trots allt en ökning.
+            Ökningen är också liten i förhållande till andra partiers budgetyrkanden.
+          </p>
+          <p xml:id="i-BnRcNYyN4nQa5YqN9rAvTL">
+            Redan den 22 december ändrades de ekonomiska förutsättningarna
+            för Polisen. I sitt regleringsbrev har befintliga anslagsbesparingar
+            om 300 miljoner av totalt 358 miljoner, det vill säga Polisens
+            samlade överskott för 2004, dragits in från Polisen. Av det som
+            skulle bli en liten anslagsökning för svensk polis blev det i
+            stället en indragning, större än den så kallade satsningen.
+          </p>
+          <p xml:id="i-MF3XDZy5W7ghpzZ7FRfWHr">
+            Utöver detta drar regeringen i samma regleringsbrev in 0,6 %
+            av Polisens anslag till regeringens disposition. Detta innebär
+            en indragning från Polisen på ytterligare 90 miljoner. Dessutom
+            meddelas att möjligheterna till så kallade anslagskrediter dras
+            in, vilket kommer att påverka Polisens möjligheter till långsiktiga
+            investeringar.
+          </p>
+          <p xml:id="i-V2VdaEvuYYTcZ3repuAVmp">
+            Dessa förändrade förutsättningar kommer snabbt att innebära försämringar
+            i hela Sverige. I Skåne var Polisens överskott 66 miljoner kronor
+            år 2004, i Stockholm 106 miljoner, i Norrbotten 16 miljoner och
+            i Värmland 35 miljoner. Detta är resurser som har sparats, ofta
+            med smärtsamma konsekvenser, för att kunna satsas på bland annat
+            nya poliser i 2005 års budget. Dessa pengar drar nu regeringen
+            in. Det finns en överhängande risk att civilanställd personal
+            kommer att få sluta, polisstationer stängas och att antalet nya
+            poliser kommer att minska då pengar saknas för löner. Stockholms
+            län har redan meddelat att man tvingas tacka nej till nya poliser
+            redan i sommar. I Skåne län råder nu ovisshet om hur rekryteringarna
+            av poliser ska kunna fullföljas, då regeringen dragit in den tänkta
+            finansieringen. Situationen tycks vara likartad i hela landet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-MAn4dHowiXcX7WX9e3rumY">
+            Jag vill fråga justitieministern:
+            <list rend="unordered">
+              <item>
+                1. Vad avser justitieministern att göra för att riksdagens beslutade
+                anslagsförstärkning till Polisen ska bli verklighet?
+              </item>
+              <item>
+                2. Vad avser justitieministern att göra för att nyrekryteringarna
+                till Polisen ska kunna fullföljas utan att detta drabbar annan
+                verksamhet eller civilanställd personal?
+              </item>
+              <item>
+                3. Vad avser justitieministern att göra för att ett system, där
+                varje års anslag måste förbrukas till sista kronan eftersom det
+                annars dras in av regeringen, undviks?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

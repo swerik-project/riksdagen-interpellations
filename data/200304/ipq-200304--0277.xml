@@ -3,82 +3,126 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>åldersgränser och ersättningsetableringar för läkare och sjukgymnaster</title>
+        <author>Johansson, Carl-Axel (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>åldersgränser och ersättningsetableringar för läkare och sjukgymnaster till socialminister Lars Engqvist om åldersgränser och ersättningsetableringar för läkare och sjukgymnaster</title>
+          <idno type="rdwebb">GR10277</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10277/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10277</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10277</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-6Lf4ZWSEWXurZm4mkDAE7B</idno>
+            <persName>Carl-Axel Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-mHUWSp3NDoBPUXGtKSh6b" corresp="i-6Lf4ZWSEWXurZm4mkDAE7B">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LksQdtFndZ1eXEZDjkxzif">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-gedRC4b65DSVV3Td27xhc">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-T8ayzHhw4F1gXUxsPBnKVw" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Tj62UsmosttpJbqMsrF4qm" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspContext corresp="i-Tj62UsmosttpJbqMsrF4qm">
+          <ref type="record" target="prot-200304--070">Riksdagens protokoll 2003/04:70 Tisdagen den 17 februari</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2003/04:277 om åldersgränser och ersättningsetableringar för läkare och sjukgymnaster</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0277</head>
-        <author who="i-6Lf4ZWSEWXurZm4mkDAE7B">Carl-Axel Johansson</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>åldersgränser och ersättningsetableringar för läkare och sjukgymnaster</topic>
-        <docDate when="2004-02-04">den 4 februari</docDate>
-        <status when="unknown" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10277</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:277 av Carl-Axel Johansson (m) till socialminister
-          Lars Engqvist om åldersg ränser och ersättningsetableringar för
-          läkare och sjukgymnaster
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Bjdhdd5ayRfbxUDEW7KbQD">
+            Interpellation 2003/04:277 av Carl-Axel Johansson (m) till socialminister
+            Lars Engqvist om åldersgränser och ersättningsetableringar för
+            läkare och sjukgymnaster
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4B7v5YFdjHBxwQcVXZMSjW">
+            den 4 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-K47nV1xZZHXZFeZhspU6Db">
-          I maj kommer ett förslag angående åldersgränser för läkare och
-          sjukgymnaster från socialministern till riksdagen. Det är en anmärkningsvärt
-          lång tid sedan riksdagen beslutade om en översyn av detta regelverk.
-          Just nu lever ett antal patienter med oro för hur det blir med
-          den verksamhet framöver som de brukar anlita och har förtroende
-          för. Kommer den att finnas kvar eller inte?
-        </p>
-        <p xml:id="i-WBGXFKtfQScyh6Vr2hKMFU">
-          Ett antal privata etableringar riskerar bli utan offentlig finansiering
-          @ inte på grund av att kvaliteten är dålig @ för att läkaren och
-          sjukgymnasten uppnår pensionsålder och för att regeringens förslag
-          har dröjt och fortfarande dröjer alltför länge.
-        </p>
-        <p xml:id="i-HdrHhHvwFKJnvi1RUYuT3a">
-          Dessa verksamheter är en tillgång för samhället i dagens sjuvård.
-          Åldern är enligt mitt sätt att se en förkastlig finansieringsprincip
-          och är närmast att betrakta som yrkesförbud och borde inte kunna
-          förekomma i dagens Sverige.
-        </p>
-        <p xml:id="i-B4PjbGsWCGcVYFJ23sbjeF">
-          Det är dessutom viktigt att etablerade, fungerande verksamheter
-          som drivs i privat regi med offentlig finansiering kan överlåtas
-          med bibehållen finansiering. Detta är viktigt för patienterna
-          då den dagen kommer när läkaren och sjukgymnasten inte kan arbeta
-          längre antingen på grund av ålder eller sjukdom. Det måste då
-          finnas möjligheter att överlåta en fungerande verksamhet till
-          annan vårdgivare med bibehållen offentlig finansiering.
-        </p>
-        <p xml:id="i-4nhT1QkHhg2j77D5YPhS38">
-          Vilken bedömning gör socialministern om åldersgränserna för läkare
-          och sjukgymnaster?
-        </p>
-        <p xml:id="i-WDkkrX69y3oHTzA86oFtbz">
-          Vilken bedömning gör socialministern om ersättningsetableringar?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-YNfEv56poDWQPD28hW9bDh">
+            I maj kommer ett förslag angående åldersgränser för läkare och
+            sjukgymnaster från socialministern till riksdagen. Det är en anmärkningsvärt
+            lång tid sedan riksdagen beslutade om en översyn av detta regelverk.
+            Just nu lever ett antal patienter med oro för hur det blir med
+            den verksamhet framöver som de brukar anlita och har förtroende
+            för. Kommer den att finnas kvar eller inte?
+          </p>
+          <p xml:id="i-MUGQCBnwCtLsVgbnAAMrBQ">
+            Ett antal privata etableringar riskerar bli utan offentlig finansiering
+            @ inte på grund av att kvaliteten är dålig @ för att läkaren och
+            sjukgymnasten uppnår pensionsålder och för att regeringens förslag
+            har dröjt och fortfarande dröjer alltför länge.
+          </p>
+          <p xml:id="i-Pu7tpfqVxdB5yjNnceR1XQ">
+            Dessa verksamheter är en tillgång för samhället i dagens sjuvård.
+            Åldern är enligt mitt sätt att se en förkastlig finansieringsprincip
+            och är närmast att betrakta som yrkesförbud och borde inte kunna
+            förekomma i dagens Sverige.
+          </p>
+          <p xml:id="i-3AE824UKUkvDHdfaDUM92y">
+            Det är dessutom viktigt att etablerade, fungerande verksamheter
+            som drivs i privat regi med offentlig finansiering kan överlåtas
+            med bibehållen finansiering. Detta är viktigt för patienterna
+            då den dagen kommer när läkaren och sjukgymnasten inte kan arbeta
+            längre antingen på grund av ålder eller sjukdom. Det måste då
+            finnas möjligheter att överlåta en fungerande verksamhet till
+            annan vårdgivare med bibehållen offentlig finansiering.
+          </p>
+          <p xml:id="i-SVDz2Nx6BPqunfSCMHTftv">
+            Vilken bedömning gör socialministern om åldersgränserna för läkare
+            och sjukgymnaster?
+          </p>
+          <p xml:id="i-2PLQjsTiXgqtR9U2ZULdiz">
+            Vilken bedömning gör socialministern om ersättningsetableringar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

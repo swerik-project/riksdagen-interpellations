@@ -3,108 +3,144 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>överförmyndare </title>
+        <author>Larsson, Hillevi (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>överförmyndare  till justitieminister Thomas Bodström om överförmyndare </title>
+          <idno type="rdwebb">GS10402</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10402/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10402</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10402</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-E8m9VCS9jypt3LnjqnbmFQ" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
+          <date when="2005-02-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MbqVnakNKqpdAwbyPp2Wnv">
+          <date when="2005-02-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-B66Wq3QKXtCGTE4uCYAWqz">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Cm1ziQQPgiu5iE8SegrurG" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-02-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-JXTmdgzSXWbTCPUiwg7Uz4" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspContext corresp="i-JXTmdgzSXWbTCPUiwg7Uz4">
+          <ref type="record" target="prot-200405--089">Riksdagens protokoll 2004/05:89 Fredagen den 11 mars</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:402 om överförmyndare</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0402</head>
-        <author who="i-EgqHRHVoW5y9USDYuNoYuA">Hillevi Larsson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>överförmyndare </topic>
-        <docDate when="2005-02-18">den 18 februari</docDate>
-        <status when="2005-03-11" byWhom="Jens Orback" byWhomId="i-UEQA68w6PM78ttj4KfvgwE" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10402</external_id>
-        <debate>
-          <turn when="2005-03-11 10:54:39" duration="251">Jens Orback (S)</turn>
-          <turn when="2005-03-11 10:58:47" duration="243">Hillevi Larsson (S)</turn>
-          <turn when="2005-03-11 11:02:46" duration="160">Jens Orback (S)</turn>
-          <turn when="2005-03-11 11:05:22" duration="195">Hillevi Larsson (S)</turn>
-          <turn when="2005-03-11 11:08:33" duration="104">Jens Orback (S)</turn>
-          <turn when="2005-03-11 11:10:13" duration="146">Hillevi Larsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:402 av Hillevi Larsson (s) till justitieminister
-          Thomas Bodström om överförmyndare
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9ahPYzZT6JA5kGTC2GFx9w">
+            Interpellation 2004/05:402 av Hillevi Larsson (s) till justitieminister
+            Thomas Bodström om överförmyndare
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PXRM3vTNJyCAjpEode6cCz">
+            den 18 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AfdqsuUHhmdc6P41C9Tkff">
-          I varje kommun ska det finnas en överförmyndare eller en överförmyndarnämnd.
-          Denna myndighet har till uppgift att utöva tillsynen över förmyndares,
-          förvaltares och gode mäns förvaltning.
-        </p>
-        <p xml:id="i-82n3C71v5gAByzL5foQEZt">
-          En god man fungerar som ställföreträdare för den som inte själv
-          kan tillvarata sina intressen. Den som får god man behåller sin
-          rättsliga handlingsförmåga och den gode mannen ska inhämta huvudmannens
-          samtycke till alla större rättshandlingar utom de som berör den
-          dagliga hushållningen. Fråga om god man uppstår ofta när en person
-          inte klarar att själv sköta sina ekonomiska angelägenheter eller
-          förvalta sina tillgångar. Det kan gälla senildementa, psykiskt
-          sjuka, utvecklingsstörda, förståndshandikappade med flera. När
-          det gäller förvaltare ska personen i fråga även vara ur stånd
-          att vårda sig själv eller sin egendom. Förvaltaren har rätt att
-          ingå rättshandlingar för sin huvudmans räkning. Förvaltaren är
-          inte beroende av huvudmannens samtycke för att kunna vidta olika
-          åtgärder och handlar således på eget ansvar för huvudmannens räkning.
-        </p>
-        <p xml:id="i-8nWT4PmTTYESmNgnKF6zGd">
-          Flera av de personer som har god man eller förvaltare finns även
-          som klienter hos socialtjänsten eller som patient inom sjukvården
-          @ ofta på grund av sjukdom, psykisk störning eller ekonomiskt
-          obestånd. På sina håll i landet förekommer det hot och våld mot
-          tjänstemän vid överförmyndaren.
-        </p>
-        <p xml:id="i-4BoDQdozgkucUtNo2a8XWq">
-          Överförmyndarnämnden i Malmö har som exempel rapporterat om dödshot
-          och obehagliga och hotfulla situationer i fall där huvudmannen
-          motsätter sig beslut i samband med förvaltarskap eller god man.
-          I vissa fall har huvudmannen valt att rikta sitt missnöje direkt
-          mot överförmyndarnämnden i form av hot, trakasserier och hot om
-          våld. Sådana trakasserier har även förekommit utanför överförmyndarens
-          lokaler, det vill säga i anknytning till anställdas hem eller
-          på offentliga platser och har medfört obehag för såväl tjänstemän
-          som deras familjer. Bakgrunden är att personliga uppgifter @ såsom
-          personnummer, telefonnummer, hemadresser och även meritförteckningar
-          @ har lämnats ut då dessa tjänstemän inte omfattas av samma sekretesskydd
-          som exempelvis anställda inom socialtjänsten. Mot bakgrund av
-          detta bör det vara rimligt att även överförmyndarverksamheten
-          ska omfattas av ett visst sekretesskydd.
-        </p>
-        <p xml:id="i-H4VpThtygnnHuoecnrRfHC">
-          Med anledning av detta vill jag fråga statsrådet följande:
-        </p>
-        <p xml:id="i-GB9GuqeEqma9PJHujczK34">
-          Vilka åtgärder avser statsrådet att vidta för att bekämpa hot
-          och andra former av trakasserier mot tjänstemän vid kommunernas
-          överförmyndarmyndigheter?
-        </p>
-        <p xml:id="i-6iXRwVLWqQstbBV85yqUwQ">
-          Avser statsrådet att se över möjligheten att tjänstemän vid dessa
-          kommunala myndigheter ska komma att omfattas av ett sekretesskydd?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Wi5hvG3f1joJ2CDQuRKZhh">
+            I varje kommun ska det finnas en överförmyndare eller en överförmyndarnämnd.
+            Denna myndighet har till uppgift att utöva tillsynen över förmyndares,
+            förvaltares och gode mäns förvaltning.
+          </p>
+          <p xml:id="i-Du9RGh9YKZqSkw4EupnqnF">
+            En god man fungerar som ställföreträdare för den som inte själv
+            kan tillvarata sina intressen. Den som får god man behåller sin
+            rättsliga handlingsförmåga och den gode mannen ska inhämta huvudmannens
+            samtycke till alla större rättshandlingar utom de som berör den
+            dagliga hushållningen. Fråga om god man uppstår ofta när en person
+            inte klarar att själv sköta sina ekonomiska angelägenheter eller
+            förvalta sina tillgångar. Det kan gälla senildementa, psykiskt
+            sjuka, utvecklingsstörda, förståndshandikappade med flera. När
+            det gäller förvaltare ska personen i fråga även vara ur stånd
+            att vårda sig själv eller sin egendom. Förvaltaren har rätt att
+            ingå rättshandlingar för sin huvudmans räkning. Förvaltaren är
+            inte beroende av huvudmannens samtycke för att kunna vidta olika
+            åtgärder och handlar således på eget ansvar för huvudmannens räkning.
+          </p>
+          <p xml:id="i-Py1gigmHijRirARNN3tppA">
+            Flera av de personer som har god man eller förvaltare finns även
+            som klienter hos socialtjänsten eller som patient inom sjukvården
+            @ ofta på grund av sjukdom, psykisk störning eller ekonomiskt
+            obestånd. På sina håll i landet förekommer det hot och våld mot
+            tjänstemän vid överförmyndaren.
+          </p>
+          <p xml:id="i-93teaCmogoxy7Ry6jDayfi">
+            Överförmyndarnämnden i Malmö har som exempel rapporterat om dödshot
+            och obehagliga och hotfulla situationer i fall där huvudmannen
+            motsätter sig beslut i samband med förvaltarskap eller god man.
+            I vissa fall har huvudmannen valt att rikta sitt missnöje direkt
+            mot överförmyndarnämnden i form av hot, trakasserier och hot om
+            våld. Sådana trakasserier har även förekommit utanför överförmyndarens
+            lokaler, det vill säga i anknytning till anställdas hem eller
+            på offentliga platser och har medfört obehag för såväl tjänstemän
+            som deras familjer. Bakgrunden är att personliga uppgifter @ såsom
+            personnummer, telefonnummer, hemadresser och även meritförteckningar
+            @ har lämnats ut då dessa tjänstemän inte omfattas av samma sekretesskydd
+            som exempelvis anställda inom socialtjänsten. Mot bakgrund av
+            detta bör det vara rimligt att även överförmyndarverksamheten
+            ska omfattas av ett visst sekretesskydd.
+          </p>
+          <p xml:id="i-Ghbfp7YS9ZxGrAmCtWhLFy">
+            Med anledning av detta vill jag fråga statsrådet följande:
+          </p>
+          <p xml:id="i-RExQYMteiPz98ybym5GJsL">
+            Vilka åtgärder avser statsrådet att vidta för att bekämpa hot
+            och andra former av trakasserier mot tjänstemän vid kommunernas
+            överförmyndarmyndigheter?
+          </p>
+          <p xml:id="i-QXrfUiZkseg57vPzciRkE3">
+            Avser statsrådet att se över möjligheten att tjänstemän vid dessa
+            kommunala myndigheter ska komma att omfattas av ett sekretesskydd?
+          </p>
+        </div>
       </div>
     </body>
   </text>

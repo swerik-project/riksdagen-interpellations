@@ -3,92 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>värnandet av den svenska tryck- och yttrandefriheten</title>
+        <author>Krantz, Tobias (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>värnandet av den svenska tryck- och yttrandefriheten till statsminister Göran Persson om värnandet av den svenska tryck- och yttrandefriheten</title>
+          <idno type="rdwebb">GS10661</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10661/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10661</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10661</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-7KkBfQh7eXcpoTNP4qsdmn">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-FZ6ShKzR5F6aUfax58qsSe" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
+          <date when="2005-05-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7H5K2NBTi12rXdaZdUpC1X">
+          <date when="2005-06-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-K5iuUZTfWEG5E4m6c5tu1J" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-J3BzUpyFK47RiT4CwgLBTc" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2005-06-07"/>
+        </correspAction>
+        <correspContext corresp="i-J3BzUpyFK47RiT4CwgLBTc">
+          <ref type="record" target="prot-200405--134">Riksdagens protokoll 2004/05:134 Tisdagen den 7 juni</ref>
+          <ref type="recordSection" target="unsetDivId">26 § Svar på interpellation 2004/05:661 om värnandet av den svenska tryck- och yttrandefriheten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0661</head>
-        <author who="i-UnkrZ3NAvoWXY6Krxbkudq">Tobias Krantz</author>
-        <recipient who="i-3kVCtR7mCK6mW2F6oaBMR5">Göran Persson</recipient>
-        <topic>värnandet av den svenska tryck- och yttrandefriheten</topic>
-        <docDate when="2005-05-23">den 23 maj</docDate>
-        <status when="unknown" byWhom="Jens Orback" byWhomId="i-UEQA68w6PM78ttj4KfvgwE" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10661</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:661 av Tobias Krantz (fp) till statsminister
-          Göran Persson om värnandet av den svenska tryck- och yttrandefriheten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EzQJv6jVbmgGqdmCy9jSom">
+            Interpellation 2004/05:661 av Tobias Krantz (fp) till statsminister
+            Göran Persson om värnandet av den svenska tryck- och yttrandefriheten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9RrBQEZFzd2Jh9v3pza1Bb">
+            den 23 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JwYrM4J7UBn3gN5jjSehn6">
-          Sverige har en lång tradition av starkt värn för yttrande- och
-          tryckfriheten. Redan 1766 infördes den första svenska tryckfrihetsförordningen.
-          Tryckfrihetens grundbult är att slå vakt om det fria ordet i tryckt
-          form. Var och en ska ha rätt att framföra sina åsikter och att
-          sprida dem utan att utsättas för förhandscensur.
-        </p>
-        <p xml:id="i-XhJVQrDTpzUFHWhqt9UyMC">
-          Tryckfrihetsförordningens portalparagraf (TF 1:1, första stycket)
-          anger: "Med tryckfrihet förstås varje svensk medborgares rätt
-          att, utan några av myndighet eller annat allmänt organ i förväg
-          lagda hinder, utgiva skrifter, att sedermera endast inför laglig
-          domstol kunna tilltalas för deras innehåll, och att icke i annat
-          fall kunna straffas därför, än om detta innehåll strider mot tydlig
-          lag, given att bevara allmänt lugn, utan att återhålla allmän
-          upplysning."
-        </p>
-        <p xml:id="i-R22NeNiNp4Ufty5aReYDqH">
-          Men det fria ordet utsätts ständigt för nya hot. I samband med
-          ett tal till Socialdemokratiska kvinnoförbundets kongress i Eskilstuna
-          nyligen öppnade statsminister Göran Persson för lagstiftning i
-          syfte att komma åt det som han betecknade som sexualisering i
-          medierna och det offentliga rummet. En utredning ska, enligt statsministern,
-          få i uppdrag att se över hur en sådan ny lagstiftning ska se ut
-          (DN den 22 maj 2005).
-        </p>
-        <p xml:id="i-Y7K6pZm3DBZrZ9KGMLPJdZ">
-          Om en ny lagstiftning i enlighet med vad statsministern har antytt
-          infördes skulle det innebära en allvarlig inskränkning av den
-          grundlagsfästa tryckfriheten. Staten skulle i realiteten ägna
-          sig åt att genomföra en mycket långtgående reglering av innehållet
-          i tryckta skrifter. Statsministerns utspel är mycket anmärkningsvärt.
-          Det är iögonenfallande i sak; kring värdet av en vidsträckt tryckfrihet
-          har det rått stor politisk enighet i Sverige.
-        </p>
-        <p xml:id="i-NLWUtiVdxd2kuSjABdpQ67">
-          Men det är också häpnadsväckande eftersom det sker samma vecka
-          som riksdagens konstitutionsutskott, KU, i full enighet riktar
-          kritik mot vissa delar av Socialdepartementets så kallade Flickakampanj
-          utifrån yttrande- och tryckfrihetsrättsliga aspekter (bet. 2004/05:KU20).
-          Utspelet väcker viktiga principiella frågor om hur regeringen
-          värnar den svenska yttrande- och tryckfriheten.
-        </p>
-        <p xml:id="i-H9pcaTfQMRN5hWeeztGaNA">
-          Jag vill därför fråga statsministern vilka åtgärder han avser
-          att vidta i syfte att värna den svenska yttrande- och tryckfriheten.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-W2fuMNSxaVMpk6MoBztBNf">
+            Sverige har en lång tradition av starkt värn för yttrande- och
+            tryckfriheten. Redan 1766 infördes den första svenska tryckfrihetsförordningen.
+            Tryckfrihetens grundbult är att slå vakt om det fria ordet i tryckt
+            form. Var och en ska ha rätt att framföra sina åsikter och att
+            sprida dem utan att utsättas för förhandscensur.
+          </p>
+          <p xml:id="i-QZ8ucb2pStsJxCroHZJXZc">
+            Tryckfrihetsförordningens portalparagraf (TF 1:1, första stycket)
+            anger: "Med tryckfrihet förstås varje svensk medborgares rätt
+            att, utan några av myndighet eller annat allmänt organ i förväg
+            lagda hinder, utgiva skrifter, att sedermera endast inför laglig
+            domstol kunna tilltalas för deras innehåll, och att icke i annat
+            fall kunna straffas därför, än om detta innehåll strider mot tydlig
+            lag, given att bevara allmänt lugn, utan att återhålla allmän
+            upplysning."
+          </p>
+          <p xml:id="i-RWV9muM8Y5BjBV326diqDh">
+            Men det fria ordet utsätts ständigt för nya hot. I samband med
+            ett tal till Socialdemokratiska kvinnoförbundets kongress i Eskilstuna
+            nyligen öppnade statsminister Göran Persson för lagstiftning i
+            syfte att komma åt det som han betecknade som sexualisering i
+            medierna och det offentliga rummet. En utredning ska, enligt statsministern,
+            få i uppdrag att se över hur en sådan ny lagstiftning ska se ut
+            (DN den 22 maj 2005).
+          </p>
+          <p xml:id="i-99DmTkkv8sopbiD3ryB8Th">
+            Om en ny lagstiftning i enlighet med vad statsministern har antytt
+            infördes skulle det innebära en allvarlig inskränkning av den
+            grundlagsfästa tryckfriheten. Staten skulle i realiteten ägna
+            sig åt att genomföra en mycket långtgående reglering av innehållet
+            i tryckta skrifter. Statsministerns utspel är mycket anmärkningsvärt.
+            Det är iögonenfallande i sak; kring värdet av en vidsträckt tryckfrihet
+            har det rått stor politisk enighet i Sverige.
+          </p>
+          <p xml:id="i-77HUV7QQXQ81Mu5tZQVSKe">
+            Men det är också häpnadsväckande eftersom det sker samma vecka
+            som riksdagens konstitutionsutskott, KU, i full enighet riktar
+            kritik mot vissa delar av Socialdepartementets så kallade Flickakampanj
+            utifrån yttrande- och tryckfrihetsrättsliga aspekter (bet. 2004/05:KU20).
+            Utspelet väcker viktiga principiella frågor om hur regeringen
+            värnar den svenska yttrande- och tryckfriheten.
+          </p>
+          <p xml:id="i-MQCwyCLonctqrbCikBKfuB">
+            Jag vill därför fråga statsministern vilka åtgärder han avser
+            att vidta i syfte att värna den svenska yttrande- och tryckfriheten.
+          </p>
+        </div>
       </div>
     </body>
   </text>

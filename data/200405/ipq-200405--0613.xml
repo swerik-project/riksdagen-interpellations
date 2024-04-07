@@ -3,93 +3,128 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>upphandling av tjänster i statliga myndigheter</title>
+        <author>Fernández, Rocío (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>upphandling av tjänster i statliga myndigheter till statsrådet Sven-Erik Österberg om upphandling av tjänster i statliga myndigheter</title>
+          <idno type="rdwebb">GS10613</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10613/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10613</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10613</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-P4eb32pJuMuR38f1bgmB9P</idno>
+            <persName>Rocio Fernández</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-YYUZt7ZNP3UFf12pLnXmeC">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-4j2JQWzwgE83SB3AdFCjyi" corresp="i-P4eb32pJuMuR38f1bgmB9P">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Xc9pbWLfxwXpAHYcpCk4mj">
+          <date when="2005-05-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HagS5U4RGWkpK2QyvuKxxx" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4qxrLMh7QAr8vJYupjCYH5" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2005-05-30"/>
+        </correspAction>
+        <correspContext corresp="i-4qxrLMh7QAr8vJYupjCYH5">
+          <ref type="record" target="prot-200405--129">Riksdagens protokoll 2004/05:129 Måndagen den 30 maj</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:613 om upphandling av tjänster i statliga myndigheter</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0613</head>
-        <author who="i-P4eb32pJuMuR38f1bgmB9P">Rocio Fernández</author>
-        <recipient who="i-9fdWbFK67588CD12XaNZBq">Sven-Erik Österberg</recipient>
-        <topic>upphandling av tjänster i statliga myndigheter</topic>
-        <docDate when="2005-05-19">den 19 maj</docDate>
-        <status when="2005-05-30" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10613</external_id>
-        <debate>
-          <turn when="2005-05-30 11:23:48" duration="231">Sven-Erik Österberg (S)</turn>
-          <turn when="2005-05-30 11:27:34" duration="174">Rocio Fernández (Fp)</turn>
-          <turn when="2005-05-30 11:30:20" duration="258">Sven-Erik Österberg (S)</turn>
-          <turn when="2005-05-30 11:34:33" duration="144">Rocio Fernández (Fp)</turn>
-          <turn when="2005-05-30 11:36:53" duration="241">Sven-Erik Österberg (S)</turn>
-          <turn when="2005-05-30 11:40:50" duration="103">Rocio Fernández (Fp)</turn>
-          <turn when="2005-05-30 11:42:30" duration="144">Sven-Erik Österberg (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:613 av Rocío Fernández (fp) till statsrådet
-          Sven-Erik Österberg om upphandling av tjänster i statliga myndigheter
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-HbSCg1neiDQHpiaGD7W8Du">
+            Interpellation 2004/05:613 av Rocío Fernández (fp) till statsrådet
+            Sven-Erik Österberg om upphandling av tjänster i statliga myndigheter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-7UjKH892rQdqSj4UbLVWty">
+            den 19 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UTK73GrujA4fGzC9Z9VrxD">
-          Regeringen har misslyckats med att förhindra att svartarbete
-          sprider sig in i statsförvaltningen. I SVT:s Uppdrag granskning
-          den 18 maj framkom att även statliga myndigheter använder sig
-          av svart och illegal arbetskraft. Det här är upprörande och reser
-          en rad frågetecken kring hur den offentliga upphandlingen fungerar.
-        </p>
-        <p xml:id="i-SMmmzqRuKAaMWCsFGNYypT">
-          Jag blir arg och upprörd över att det verkar så lätt för företag,
-          som profiterar på människors utsatthet, att få uppdrag även i
-          statsförvaltningen och att det inte upptäcks förrän SVT granskar
-          detta. Staten bidrar till att försätta människor i en ohållbar
-          situation, utan rätt pension, sjukvård med mera. Vilket annat
-          företag som helst som anlitar svart arbetskraft kan åtalas. Vem
-          åtalar staten?
-        </p>
-        <p xml:id="i-UTDa3KKJ2uacXyudPesoVr">
-          Jag blir också rädd för vad det kan innebära i ett vidare perspektiv
-          som säkerhet. Vet vi vilka som rör sig i våra statliga korridorer?
-          Kan våra medborgare och anställda känna sig säkra på att känsliga
-          uppgifter inte är tillgängliga för vem som helst, att de kan känna
-          sig trygga på sin arbetsplats?
-        </p>
-        <p xml:id="i-93b7P32Pe6TXEX8EBcHQgx">
-          En policy för upphandling är verkningslös utan rutiner för kontroller
-          och uppföljningar. Vad mer är det som missas vid upphandlingar?
-          Hur viktar man vad som är avgörande för vilket anbud som vinner
-          upphandlingen? Stirrar man sig blind på priset?
-        </p>
-        <p xml:id="i-ViwMpyN9gABMhcEZe7UTr7">
-          Nu undrar jag hur det ansvariga statsrådet ska hantera situationen.
-          Det är oacceptabelt att statliga myndigheter bedriver olaglig
-          verksamhet och det innebär samtidigt en fruktansvärd situation
-          för den svart anställde som är helt oförsvarbar.
-        </p>
-        <p xml:id="i-BokH67d9LfS55KZ6ALSyx">
-          Vilka åtgärder kommer statsrådet att vidta för att åtgärda de
-          svagheter som dagens offentliga upphandling har?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QZ2fbGkbbkRTdgUaXr7cd2">
+            Regeringen har misslyckats med att förhindra att svartarbete
+            sprider sig in i statsförvaltningen. I SVT:s Uppdrag granskning
+            den 18 maj framkom att även statliga myndigheter använder sig
+            av svart och illegal arbetskraft. Det här är upprörande och reser
+            en rad frågetecken kring hur den offentliga upphandlingen fungerar.
+          </p>
+          <p xml:id="i-759at627reYdtv1NGXVEpm">
+            Jag blir arg och upprörd över att det verkar så lätt för företag,
+            som profiterar på människors utsatthet, att få uppdrag även i
+            statsförvaltningen och att det inte upptäcks förrän SVT granskar
+            detta. Staten bidrar till att försätta människor i en ohållbar
+            situation, utan rätt pension, sjukvård med mera. Vilket annat
+            företag som helst som anlitar svart arbetskraft kan åtalas. Vem
+            åtalar staten?
+          </p>
+          <p xml:id="i-FbU2BwcdAyYzJhryULkTb8">
+            Jag blir också rädd för vad det kan innebära i ett vidare perspektiv
+            som säkerhet. Vet vi vilka som rör sig i våra statliga korridorer?
+            Kan våra medborgare och anställda känna sig säkra på att känsliga
+            uppgifter inte är tillgängliga för vem som helst, att de kan känna
+            sig trygga på sin arbetsplats?
+          </p>
+          <p xml:id="i-WDFcDzReqm4V5JbnHe6kuq">
+            En policy för upphandling är verkningslös utan rutiner för kontroller
+            och uppföljningar. Vad mer är det som missas vid upphandlingar?
+            Hur viktar man vad som är avgörande för vilket anbud som vinner
+            upphandlingen? Stirrar man sig blind på priset?
+          </p>
+          <p xml:id="i-UxvKdcAaio1GWYhfMP7ojz">
+            Nu undrar jag hur det ansvariga statsrådet ska hantera situationen.
+            Det är oacceptabelt att statliga myndigheter bedriver olaglig
+            verksamhet och det innebär samtidigt en fruktansvärd situation
+            för den svart anställde som är helt oförsvarbar.
+          </p>
+          <p xml:id="i-RnRFMkrQUs66WqUhYw1cG9">
+            Vilka åtgärder kommer statsrådet att vidta för att åtgärda de
+            svagheter som dagens offentliga upphandling har?
+          </p>
+        </div>
       </div>
     </body>
   </text>

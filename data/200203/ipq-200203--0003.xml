@@ -3,62 +3,102 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>driftstörningar</title>
+        <author>Bill, Per (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>driftstörningar till näringsminister Björn Rosengren om driftstörningar</title>
+          <idno type="rdwebb">GQ103</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ103/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ103</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ103</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-R9MuNkxgtjYredKHhh6ujV</idno>
+            <persName>Per Bill</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <persName>Björn Rosengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-FLE4gDP1rTr6s2RVmVdZor" corresp="i-R9MuNkxgtjYredKHhh6ujV">
+          <date when="2002-10-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-21MT3tAB6djEB6CkRt1vY1">
+          <date when="2002-10-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9R7TDT9WFqSMHYTEEZueGA">
+          <date when="2002-10-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-iBjNXhenxjDqyFkq6PKzg" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
+          <date when="2002-10-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TiQFixQdF2VXLkwnCewVZy" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2002-10-17"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0003</head>
-        <author who="i-R9MuNkxgtjYredKHhh6ujV">Per Bill</author>
-        <recipient who="i-HP26Ex6XfZD2gozC8P6pdm">Björn Rosengren</recipient>
-        <topic>driftstörningar</topic>
-        <docDate when="2002-10-04">den 4 oktober</docDate>
-        <status when="unknown" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ103</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:3 av Per Bill (m) till näringsminister
-          Björn Rosengren om driftstörningar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ad2AjHjP6Wq7gF2YUc6PVt">
+            Interpellation 2002/03:3 av Per Bill (m) till näringsminister
+            Björn Rosengren om driftstörningar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-5P716FhBheAZ46gYLTeQ2v">
+            den 4 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-VkHpENL3sFRGWW39KQYXJp">
-          Nästan en kvarts miljon människor i Uppsalaområdet blev onsdagen
-          den 2 oktober 2002 utan telefonförbindelse under flera timmar.
-          Avbrottet som skedde under seneftermiddagen innebar också att
-          det inte gick att nå larmnumret 112 eller på annat sätt nå brandkår,
-          polis och ambulans. Vidare slogs en lång rad centrala samhällssystem
-          såsom larm och bankomater ut. Vid 18-tiden slogs dessutom TV-nätet
-          ut.
-        </p>
-        <p xml:id="i-HZLSAUMjCmhA5ws3dJifi6">
-          Preliminära uppgifter pekar på att den mycket kraftiga störningen
-          berodde på ett kraftfel hos Skanova som sköter Telias drift.
-        </p>
-        <p xml:id="i-2Nr62SWMXEkYfmx3QFqUos">
-          Vilka åtgärder tänker stadsrådet vidta för att säkerställa att
-          liknande driftstörningar inte sker i framtiden?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JQ1aNCT3yQTLfWB9cJb5nh">
+            Nästan en kvarts miljon människor i Uppsalaområdet blev onsdagen
+            den 2 oktober 2002 utan telefonförbindelse under flera timmar.
+            Avbrottet som skedde under seneftermiddagen innebar också att
+            det inte gick att nå larmnumret 112 eller på annat sätt nå brandkår,
+            polis och ambulans. Vidare slogs en lång rad centrala samhällssystem
+            såsom larm och bankomater ut. Vid 18-tiden slogs dessutom TV-nätet
+            ut.
+          </p>
+          <p xml:id="i-6cnUz8e23QF9EmtUAv5JkZ">
+            Preliminära uppgifter pekar på att den mycket kraftiga störningen
+            berodde på ett kraftfel hos Skanova som sköter Telias drift.
+          </p>
+          <p xml:id="i-2kcEuAxsaaoCcP5Eq8xaXr">
+            Vilka åtgärder tänker stadsrådet vidta för att säkerställa att
+            liknande driftstörningar inte sker i framtiden?
+          </p>
+        </div>
       </div>
     </body>
   </text>

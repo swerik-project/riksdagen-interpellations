@@ -3,104 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förkunskapskrav för gymnasiet</title>
+        <author>Darvik, Axel (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förkunskapskrav för gymnasiet till utbildningsminister Thomas Östros om förkunskapskrav för gymnasiet</title>
+          <idno type="rdwebb">GR10125</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10125/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10125</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10125</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-HYPXDg3UHMpdyrSgBez4mQ</idno>
+            <persName>Axel Darvik</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Xh3c9SNTRyeXKkxjD95M99" corresp="i-HYPXDg3UHMpdyrSgBez4mQ">
+          <date when="2003-11-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YbaQqAMVXQgZvK4fBRyjhW" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-11-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-G13vqi27PrDjASNhKNd1hu">
+          <date when="2003-12-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Hzq1UHDDUfbMH1Z1hnMmMe" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-12-01"/>
+        </correspAction>
+        <correspContext corresp="i-Hzq1UHDDUfbMH1Z1hnMmMe">
+          <ref type="record" target="prot-200304--039">Riksdagens protokoll 2003/04:39 Måndagen den 1 december</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2003/04:125 om förkunskapskrav för gymnasiet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0125</head>
-        <author who="i-HYPXDg3UHMpdyrSgBez4mQ">Axel Darvik</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>förkunskapskrav för gymnasiet</topic>
-        <docDate when="2003-11-18">den 18 november</docDate>
-        <status when="2003-12-01" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10125</external_id>
-        <debate>
-          <turn when="2003-12-01 10:29:45" duration="245">Axel Darvik (Fp)</turn>
-          <turn when="2003-12-01 10:33:50" duration="261">Thomas Östros (S)</turn>
-          <turn when="2003-12-01 10:42:22" duration="247">Thomas Östros (S)</turn>
-          <turn when="2003-12-01 10:46:25" duration="136">Axel Darvik (Fp)</turn>
-          <turn when="2003-12-01 10:48:41" duration="139">Thomas Östros (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:125 av Axel Darvik (fp) till utbildningsminister
-          Thomas Östros om förkunskapskrav för gymnasiet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-7hj55P5YiaKQJTNDcBmGQn">
+            Interpellation 2003/04:125 av Axel Darvik (fp) till utbildningsminister
+            Thomas Östros om förkunskapskrav för gymnasiet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-H6ApPY1Rt32gvRtTtd71Ms">
+            den 18 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AgXcuamqDm8J9Ynatp4YkV">
-          Gymnasieskolan måste vara ett gångbart alternativ även för de
-          elever som vill börja arbeta direkt efter utbildningen. Dagens
-          krav på högskolebehörighet har lett till mycket stora avhopp.
-          Bara 59 % av landets 20-åringar har godkända betyg i flertalet
-          gymnasiekurser. Gymnasiet för alla har blivit ett gymnasium för
-          drygt hälften.
-        </p>
-        <p xml:id="i-ECvEsYvBquiGvRE9ew8rBx">
-          För dem som börjar första årskursen har det så kallade individuella
-          programmet blivit det näst största programmet. Det individuella
-          programmet var tänkt som ett undantag för dem som inte klarar
-          förkunskapskraven till de nationella programmen, nämligen att
-          ha godkända betyg i svenska, engelska och matematik. Det här visar
-          att problemen inte bara är gymnasiets utan måste åtgärdas långt
-          tidigare, i de första åren i grundskolan. Det är ju då man ska
-          lära sig läsa, skriva och räkna. Det individuella programmet lurar
-          eleverna att tro att de kan klara gymnasiestudier utan att ha
-          fått med sig de mest grundläggande kunskaperna från grundskolan.
-        </p>
-        <p xml:id="i-XWyiy2jpa1ZCQUTmkdz4yb">
-          Folkpartiet liberalerna vill avskaffa det individuella programmet
-          för att kommunerna ska ges incitament att sätta in stödinsatserna
-          tidigare. Nu verkar det som om regeringen också vill avskaffa
-          det individuella programmet, men det kommer i själva verket bara
-          att byta namn till preparandår. Fortfarande ska elever i praktiken
-          tas in på gymnasiet utan tillräckliga förkunskaper.
-        </p>
-        <p xml:id="i-3QdtRzwP4WAVuTFWrvQypB">
-          Gymnasiekommittén vill gå ytterligare ett steg längre: "Också
-          elever som saknar godkända betyg i något eller några av de behörighetsgivande
-          ämnena från grundskolan... skall erbjudas heltidsstudier inom
-          ramen för en reguljär studieväg i gymnasieskolan." Så står det
-          i kommitténs betänkande och vad det i klartext betyder, är att
-          inte bara det individuella utan även de nationella programmen,
-          till exempel det naturvetenskapliga, ska vara tillgängligt för
-          elever som inte har godkända grundskolebetyg i svenska, matematik
-          och engelska.
-        </p>
-        <p xml:id="i-FvbxrtKTdVSQmXuWbePVsH">
-          Skolverket har redan påbörjat förberedelserna för att förverkliga
-          Gymnasiekommitténs förslag. Med tanke på detta vore det värdefullt
-          om Thomas Östros kunde slå fast att förkunskapskraven till gymnasiet
-          ligger fast och då behövs inget nytt individuellt program. Grundskolan
-          måste var den plats där man lär sig grundläggande kunskaper, det
-          kan inte bli en uppgift för gymnasiet.
-        </p>
-        <p xml:id="i-GX3uCStj9ziFbWdg6RDEu5">
-          Med andledning av vad jag anför ovan vill jag fråga utbildningsministern
-          om han avser att verka för att ingen elev ska börja gymnasiet
-          utan att nå upp till förkunskapskraven?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-F3thhDbBxeRHbqmKSMuf1i">
+            Gymnasieskolan måste vara ett gångbart alternativ även för de
+            elever som vill börja arbeta direkt efter utbildningen. Dagens
+            krav på högskolebehörighet har lett till mycket stora avhopp.
+            Bara 59 % av landets 20-åringar har godkända betyg i flertalet
+            gymnasiekurser. Gymnasiet för alla har blivit ett gymnasium för
+            drygt hälften.
+          </p>
+          <p xml:id="i-CLTLrWboiWiihKFkD9vZSK">
+            För dem som börjar första årskursen har det så kallade individuella
+            programmet blivit det näst största programmet. Det individuella
+            programmet var tänkt som ett undantag för dem som inte klarar
+            förkunskapskraven till de nationella programmen, nämligen att
+            ha godkända betyg i svenska, engelska och matematik. Det här visar
+            att problemen inte bara är gymnasiets utan måste åtgärdas långt
+            tidigare, i de första åren i grundskolan. Det är ju då man ska
+            lära sig läsa, skriva och räkna. Det individuella programmet lurar
+            eleverna att tro att de kan klara gymnasiestudier utan att ha
+            fått med sig de mest grundläggande kunskaperna från grundskolan.
+          </p>
+          <p xml:id="i-W3iAKEBe68zBiajNQXzsZ4">
+            Folkpartiet liberalerna vill avskaffa det individuella programmet
+            för att kommunerna ska ges incitament att sätta in stödinsatserna
+            tidigare. Nu verkar det som om regeringen också vill avskaffa
+            det individuella programmet, men det kommer i själva verket bara
+            att byta namn till preparandår. Fortfarande ska elever i praktiken
+            tas in på gymnasiet utan tillräckliga förkunskaper.
+          </p>
+          <p xml:id="i-GZBeWKoqg9X4wmCUmXqe8w">
+            Gymnasiekommittén vill gå ytterligare ett steg längre: "Också
+            elever som saknar godkända betyg i något eller några av de behörighetsgivande
+            ämnena från grundskolan... skall erbjudas heltidsstudier inom
+            ramen för en reguljär studieväg i gymnasieskolan." Så står det
+            i kommitténs betänkande och vad det i klartext betyder, är att
+            inte bara det individuella utan även de nationella programmen,
+            till exempel det naturvetenskapliga, ska vara tillgängligt för
+            elever som inte har godkända grundskolebetyg i svenska, matematik
+            och engelska.
+          </p>
+          <p xml:id="i-QNfZKTk63nwDFBeiYMXt5A">
+            Skolverket har redan påbörjat förberedelserna för att förverkliga
+            Gymnasiekommitténs förslag. Med tanke på detta vore det värdefullt
+            om Thomas Östros kunde slå fast att förkunskapskraven till gymnasiet
+            ligger fast och då behövs inget nytt individuellt program. Grundskolan
+            måste var den plats där man lär sig grundläggande kunskaper, det
+            kan inte bli en uppgift för gymnasiet.
+          </p>
+          <p xml:id="i-HxJVUqoPZBEgorh1vh31n6">
+            Med andledning av vad jag anför ovan vill jag fråga utbildningsministern
+            om han avser att verka för att ingen elev ska börja gymnasiet
+            utan att nå upp till förkunskapskraven?
+          </p>
+        </div>
       </div>
     </body>
   </text>

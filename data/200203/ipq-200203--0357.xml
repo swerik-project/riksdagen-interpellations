@@ -3,116 +3,140 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Riksväg 50</title>
+        <author>Lindgren, Ulrik (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Riksväg 50 till statsrådet Ulrica Messing om Riksväg 50</title>
+          <idno type="rdwebb">GQ10357</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10357/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10357</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10357</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-XSoE59R8vSeGm31iRSvpAz</idno>
+            <persName>Ulrik Lindgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GF5FoXjbKAYUCa4RU9DFnN" corresp="i-XSoE59R8vSeGm31iRSvpAz">
+          <date when="2003-05-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-M5nTVF4e1762FtJmiSoLnd">
+          <date when="2003-05-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-W4Xvf3mWs6Qp7pTfTsVgFf">
+          <date when="2003-05-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-32Cts66vbBadq6gFrbFvY7">
+          <date when="2003-05-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KQzB9igKR1FjsKvxjZm6Mp" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2003-05-09"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0357</head>
-        <author who="i-XSoE59R8vSeGm31iRSvpAz">Ulrik Lindgren</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>Riksväg 50</topic>
-        <docDate when="2003-05-09">den 9 maj</docDate>
-        <status when="2003-05-20" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10357</external_id>
-        <debate>
-          <turn when="2003-05-20 14:22:06" duration="224">Ulrica Messing (S)</turn>
-          <turn when="2003-05-20 14:25:39" duration="147">Ulrik Lindgren (Kd)</turn>
-          <turn when="2003-05-20 14:28:01" duration="234">Ulrica Messing (S)</turn>
-          <turn when="2003-05-20 14:31:47" duration="188">Ulrik Lindgren (Kd)</turn>
-          <turn when="2003-05-20 14:34:45" duration="137">Ulrica Messing (S)</turn>
-          <turn when="2003-05-20 14:36:57" duration="126">Ulrik Lindgren (Kd)</turn>
-          <turn when="2003-05-20 14:38:53" duration="73">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:357 av Ulrik Lindgren (kd) till statsrådet
-          Ulrica Messing om Riksväg 50
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Pgs9Twwj93ibVpZ92PujRM">
+            Interpellation 2002/03:357 av Ulrik Lindgren (kd) till statsrådet
+            Ulrica Messing om Riksväg 50
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-QBGQ9b8ooPNPWCqfFiRLPt">
+            den 9 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NSX9RPKeJSxZYA5DLxT2d9">
-          Med förslaget till planeringsram för regional infrastruktur för
-          de närmaste tolv åren, på 367 miljoner kronor, har Dalarna tilldelats
-          näst minst resurser. Endast Gotland får mindre, trots Dalarnas
-          stora yta och stora vägnät.
-        </p>
-        <p xml:id="i-UnitKDoGQAx3MfN5o47tpu">
-          Som motiv för den begränsade tilldelningen till Dalarna har anförts
-          att utöver dessa 367 miljoner kronor får länet utbyggnad till
-          fyrfiligt sträckan Falun-Borlänge. Dock med det förbehållet att
-          om kostnaderna överstiger Vägverkets beräkning får merkostnaderna
-          tas av den högst begränsade planeringsramen för länet.
-        </p>
-        <p xml:id="i-R689wXt8HDLDSjXfvrFonA">
-          I samband med Dalaregementets nedläggning ställde regeringen
-          ut ett klart löfte till regionen att vägsträckan Falun-Borlänge
-          skulle bli fyrfilig. 14 mars 2002 uppdrog regeringen åt Vägverket,
-          Banverket och länen att upprätta långsiktiga infrastrukturplaner.
-          Av de 30 miljarder kronor som tidigare avsatts för den regionala
-          transportinfrastrukturen, reserverades i regeringens beslut 5
-          636 miljoner kronor för sex särskilt utpekade objekt. Två av dessa
-          var Riksväg 50 Gruvan-Tallen respektive Riksväg 50 Ornäs-Tallen.
-          Om dessa sträckor, som ligger mellan Borlänge och Falun, slår
-          regeringsbeslutet fast: "Länsplanen i Dalarnas län skall innefatta
-          följande åtgärder under de första åren av planperioden."
-        </p>
-        <p xml:id="i-7tfMm3mid3vVwp52tjVpb2">
-          Med anledning av regeringens sänkta väganslag på 1,2 miljarder
-          kronor för åren 2003@2004 i den ekonomiska vårpropositionen har
-          Vägverket aviserat att vissa projekt måste senareläggas. Ett av
-          de hotade projekten är enligt Vägverket utbyggnaden av sträckan
-          Ornäs-Tallen på Riksväg 50.
-        </p>
-        <p xml:id="i-M48dsVUt6dUeWSSxcb6kvt">
-          Planeringsuppdragets formulering "de första åren av planperioden"
-          innebär definitionsmässigt år 2004 och därpå följande år. Vägverkets
-          uttryckta nedprioritering av åtgärden skulle därmed innebära att
-          regeringsbeslutet av den 14 mars 2002 frångås.
-        </p>
-        <p xml:id="i-Abk3LDWTWeEYTKaCmGShmu">
-          Statsrådet har under senare tid vid upprepade tillfällen hänvisat
-          till att Vägverket och Banverket i augusti avlämnar sina remissbehandlade
-          förslag till planer, när frågor ställts om enstaka infrastrukturprojekts
-          vidare öden i planeringsprocessen. Samma avvaktande attityd kan
-          rimligtvis inte anläggas i förhållande till av regeringen redan
-          beslutade infrastrukturåtgärder. Det slutgiltiga fastställandet
-          av nationella och regionala planer kommer ske sent under hösten
-          2003. Det vore högst otillfredsställande om klartecken för projekt
-          som inplanerats under 2004 fördröjs på ett sådant sätt att osäkerheten
-          blir en i sig försenande omständighet.
-        </p>
-        <p xml:id="i-6Sy7xFRuhMfcqEZRHkdXCb">
-          Vilka åtgärder avser statsrådet att vidta för att de särskilt
-          utpekade projekten i länsplanerna inte nedprioriteras i Vägverkets
-          planering?
-        </p>
-        <p xml:id="i-SnPdx9AJXfEnHwZVU7fSbT">
-          Vilka åtgärder avser statsrådet att vidta för att det så snart
-          som möjligt i planeringsprocessen slås fast att länsplanen i Dalarnas
-          län redan under de första åren ska innefatta åtgärder på Riksväg
-          50 Gruvan-Tallen och Ornäs-Tallen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-XcpUtYvWRPhk1MZwPrb7rE">
+            Med förslaget till planeringsram för regional infrastruktur för
+            de närmaste tolv åren, på 367 miljoner kronor, har Dalarna tilldelats
+            näst minst resurser. Endast Gotland får mindre, trots Dalarnas
+            stora yta och stora vägnät.
+          </p>
+          <p xml:id="i-KFNAtL93D4MYVJvUVihC1">
+            Som motiv för den begränsade tilldelningen till Dalarna har anförts
+            att utöver dessa 367 miljoner kronor får länet utbyggnad till
+            fyrfiligt sträckan Falun-Borlänge. Dock med det förbehållet att
+            om kostnaderna överstiger Vägverkets beräkning får merkostnaderna
+            tas av den högst begränsade planeringsramen för länet.
+          </p>
+          <p xml:id="i-t82e7wHyV28Nz7p7p6KGA">
+            I samband med Dalaregementets nedläggning ställde regeringen
+            ut ett klart löfte till regionen att vägsträckan Falun-Borlänge
+            skulle bli fyrfilig. 14 mars 2002 uppdrog regeringen åt Vägverket,
+            Banverket och länen att upprätta långsiktiga infrastrukturplaner.
+            Av de 30 miljarder kronor som tidigare avsatts för den regionala
+            transportinfrastrukturen, reserverades i regeringens beslut 5
+            636 miljoner kronor för sex särskilt utpekade objekt. Två av dessa
+            var Riksväg 50 Gruvan-Tallen respektive Riksväg 50 Ornäs-Tallen.
+            Om dessa sträckor, som ligger mellan Borlänge och Falun, slår
+            regeringsbeslutet fast: "Länsplanen i Dalarnas län skall innefatta
+            följande åtgärder under de första åren av planperioden."
+          </p>
+          <p xml:id="i-jRqSC9GuDiBUMeV7UNvgJ">
+            Med anledning av regeringens sänkta väganslag på 1,2 miljarder
+            kronor för åren 2003@2004 i den ekonomiska vårpropositionen har
+            Vägverket aviserat att vissa projekt måste senareläggas. Ett av
+            de hotade projekten är enligt Vägverket utbyggnaden av sträckan
+            Ornäs-Tallen på Riksväg 50.
+          </p>
+          <p xml:id="i-MaZzgZXS4Ezv5PqwWrrxnp">
+            Planeringsuppdragets formulering "de första åren av planperioden"
+            innebär definitionsmässigt år 2004 och därpå följande år. Vägverkets
+            uttryckta nedprioritering av åtgärden skulle därmed innebära att
+            regeringsbeslutet av den 14 mars 2002 frångås.
+          </p>
+          <p xml:id="i-9tgsKziHjC27cPwRNSCTs4">
+            Statsrådet har under senare tid vid upprepade tillfällen hänvisat
+            till att Vägverket och Banverket i augusti avlämnar sina remissbehandlade
+            förslag till planer, när frågor ställts om enstaka infrastrukturprojekts
+            vidare öden i planeringsprocessen. Samma avvaktande attityd kan
+            rimligtvis inte anläggas i förhållande till av regeringen redan
+            beslutade infrastrukturåtgärder. Det slutgiltiga fastställandet
+            av nationella och regionala planer kommer ske sent under hösten
+            2003. Det vore högst otillfredsställande om klartecken för projekt
+            som inplanerats under 2004 fördröjs på ett sådant sätt att osäkerheten
+            blir en i sig försenande omständighet.
+          </p>
+          <p xml:id="i-T58B5kpgzYEKJGtVyarzgK">
+            Vilka åtgärder avser statsrådet att vidta för att de särskilt
+            utpekade projekten i länsplanerna inte nedprioriteras i Vägverkets
+            planering?
+          </p>
+          <p xml:id="i-6tYfi2ZdfvAKowS9NvYxmP">
+            Vilka åtgärder avser statsrådet att vidta för att det så snart
+            som möjligt i planeringsprocessen slås fast att länsplanen i Dalarnas
+            län redan under de första åren ska innefatta åtgärder på Riksväg
+            50 Gruvan-Tallen och Ornäs-Tallen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

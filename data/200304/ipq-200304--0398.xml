@@ -3,86 +3,130 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Kalmars läns tingsrätter</title>
+        <author>Pålsson, Chatrine (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Kalmars läns tingsrätter till justitieminister Thomas Bodström om Kalmars läns tingsrätter</title>
+          <idno type="rdwebb">GR10398</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10398/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10398</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10398</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
+            <persName>Chatrine Pålsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-FdUYxTAEqdjQ58JYrYCXcg" corresp="i-WJM6edqhGfBK1ijhNxfgoj">
+          <date when="2004-03-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GN3fvLxMAcxj4ZJpC6FAwY">
+          <date when="2004-03-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5xy72waXwx9ZBgmyYeLC8d">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GKyUW6JFm3yDxc5WqZCYi3" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-03-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9BqLoKKtFwBHGvxyrTUZyT" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspContext corresp="i-9BqLoKKtFwBHGvxyrTUZyT">
+          <ref type="record" target="prot-200304--094">Riksdagens protokoll 2003/04:94 Tisdagen den 13 april</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellationerna 2003/04:372 om domstolarna och rättsväsendet i Skåne och 398 om Kalmar läns tingsrätter</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0398</head>
-        <author who="i-WJM6edqhGfBK1ijhNxfgoj">Chatrine Pålsson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>Kalmars läns tingsrätter</topic>
-        <docDate when="2004-03-31">den 31 mars</docDate>
-        <status when="unknown" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10398</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:398 av Chatrine Pålsson (kd) till justitieminister
-          Thomas Bodström om Kalmar läns tingsrätter
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9CNRBmmbucsNcQ4d38U2fA">
+            Interpellation 2003/04:398 av Chatrine Pålsson (kd) till justitieminister
+            Thomas Bodström om Kalmar läns tingsrätter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MLvgMFWmscf625mApJM8mX">
+            den 31 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ALkXrNgB5i9Uyjagy32n3i">
-          Ett rättssamhälle kräver fungerande domstolar. Vår tidigare så
-          väl fungerande tingsrättsorganisation är på god väg att raseras
-          av Socialdemokraternas reformiver. Kristdemokraterna har sedan
-          många år tillbaka kämpat mot att den svenska tingsrättsorganisationen
-          ska reduceras till att bestå av en tingsrätt per län. Socialdemokraterna
-          å sin sida har med en rasande fart lagt ned tingsrätt efter tingsrätt.
-          Däremot har Socialdemokraterna aldrig vågat lägga fram en enhetlig
-          och översiktlig plan över de planerade nedläggningarna. Förra
-          gången en sådan plan lades fram mötte den så starkt motstånd ute
-          i landet att kommittédirektivet till slut fick dras tillbaka.
-        </p>
-        <p xml:id="i-Ag75CuxLrTUpseNatXBERx">
-          I budgetpropositionen för år 2004 redogörs för några av Socialdemokraternas
-          planerade förändringar i tingsrättsorganisationen. Bland annat
-          anser regeringen att Kalmar, Oskarshamns och Västerviks tingsrätter
-          ska läggas samman till en tingsrätt med kansliort i Kalmar och
-          tingsställen i Oskarshamn och Västervik.
-        </p>
-        <p xml:id="i-KB3YBF4YjHzBDJ6psCfeVD">
-          Riksdagen har tidigare som oeftergivligt krav framhållit betydelsen
-          av en lokalt förankrad domstolsverksamhet. Genom det nu aktuella
-          förslaget lämnas en region med drygt 100 000 invånare utan egen
-          domstol i närområdet. Som exempel kan nämnas att avståndet mellan
-          Kalmar och Västervik är 15 mil enkel resa. Lösningen med tingsställen
-          i Oskarshamn och Västervik är inte en hållbar lösning ens i ett
-          kort perspektiv.
-        </p>
-        <p xml:id="i-8UPeX2ChyE5U9PLtmkxeiK">
-          Mina frågor till justitieministern är:
-        </p>
-        <p xml:id="i-Tqo7ai5pr4JsbAKamRn5DF">
-          På vilket sätt menar justitieministern att behovet av lokal förankring
-          har beaktats vad gäller den planerade tingsrättsnedläggningen
-          i Kalmar län?
-        </p>
-        <p xml:id="i-4yjY4sDWyHDCPeTdJhSifC">
-          Avser ministern att verka för att regeringen ändrar sin ståndpunkt
-          vad avser antalet tingsrätter i Kalmar län efter den folkliga
-          reaktion som varit?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BAusnEQUz2DBxYqeFyeEdc">
+            Ett rättssamhälle kräver fungerande domstolar. Vår tidigare så
+            väl fungerande tingsrättsorganisation är på god väg att raseras
+            av Socialdemokraternas reformiver. Kristdemokraterna har sedan
+            många år tillbaka kämpat mot att den svenska tingsrättsorganisationen
+            ska reduceras till att bestå av en tingsrätt per län. Socialdemokraterna
+            å sin sida har med en rasande fart lagt ned tingsrätt efter tingsrätt.
+            Däremot har Socialdemokraterna aldrig vågat lägga fram en enhetlig
+            och översiktlig plan över de planerade nedläggningarna. Förra
+            gången en sådan plan lades fram mötte den så starkt motstånd ute
+            i landet att kommittédirektivet till slut fick dras tillbaka.
+          </p>
+          <p xml:id="i-MqQqq99xkPABaaZzwAAoAP">
+            I budgetpropositionen för år 2004 redogörs för några av Socialdemokraternas
+            planerade förändringar i tingsrättsorganisationen. Bland annat
+            anser regeringen att Kalmar, Oskarshamns och Västerviks tingsrätter
+            ska läggas samman till en tingsrätt med kansliort i Kalmar och
+            tingsställen i Oskarshamn och Västervik.
+          </p>
+          <p xml:id="i-4qNtormyMu7xkf7zZwPFwU">
+            Riksdagen har tidigare som oeftergivligt krav framhållit betydelsen
+            av en lokalt förankrad domstolsverksamhet. Genom det nu aktuella
+            förslaget lämnas en region med drygt 100 000 invånare utan egen
+            domstol i närområdet. Som exempel kan nämnas att avståndet mellan
+            Kalmar och Västervik är 15 mil enkel resa. Lösningen med tingsställen
+            i Oskarshamn och Västervik är inte en hållbar lösning ens i ett
+            kort perspektiv.
+          </p>
+          <p xml:id="i-XarJdUaYXCtmS9R1F1BUsc">
+            Mina frågor till justitieministern är:
+          </p>
+          <p xml:id="i-J5hFcKM3vADa4kWLQEv7DW">
+            På vilket sätt menar justitieministern att behovet av lokal förankring
+            har beaktats vad gäller den planerade tingsrättsnedläggningen
+            i Kalmar län?
+          </p>
+          <p xml:id="i-AvxEsLN2dmo5Lb3XxazJTb">
+            Avser ministern att verka för att regeringen ändrar sin ståndpunkt
+            vad avser antalet tingsrätter i Kalmar län efter den folkliga
+            reaktion som varit?
+          </p>
+        </div>
       </div>
     </body>
   </text>

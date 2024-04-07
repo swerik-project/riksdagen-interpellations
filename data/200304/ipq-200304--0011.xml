@@ -3,101 +3,145 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Tullverket som en del av rättsväsendet</title>
+        <author>Sjösten, Ulf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Tullverket som en del av rättsväsendet till finansminister Bosse Ringholm om Tullverket som en del av rättsväsendet</title>
+          <idno type="rdwebb">GR1011</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1011/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1011</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1011</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-D6hrZCxPVTQxPgXvGFfuJ7</idno>
+            <persName>Ulf Sjösten</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Rjt7X1pMUmh8Az6zcMLDMA" corresp="i-D6hrZCxPVTQxPgXvGFfuJ7">
+          <date when="2003-09-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DWmEabMGKpa8t4EqMdieQL">
+          <date when="2003-09-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-V2Vw8BBzEKVuyh8fy5cyrA">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WBFkLhRotwKWrfb8BrJRgV" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-09-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GyHUcFEMGZHZtECHvgCBv3" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspContext corresp="i-GyHUcFEMGZHZtECHvgCBv3">
+          <ref type="record" target="prot-200304--016">Riksdagens protokoll 2003/04:16 Tisdagen den 21 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellationerna 2003/04:11, 13 och 28 om Tullverket som en del av rättsväsendet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0011</head>
-        <author who="i-D6hrZCxPVTQxPgXvGFfuJ7">Ulf Sjösten</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>Tullverket som en del av rättsväsendet</topic>
-        <docDate when="2003-09-29">den 29 september</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1011</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:11 av Ulf Sjösten (m) till finansminister
-          Bosse Ringholm om Tullverket som en del av rättsväsendet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-B7BMNgn5WN18fcZUisDaY6">
+            Interpellation 2003/04:11 av Ulf Sjösten (m) till finansminister
+            Bosse Ringholm om Tullverket som en del av rättsväsendet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-DUopzi32AaLdr3tvQNXqKt">
+            den 29 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-HCoNrc3ECP5cbfqq1ygpsc">
-          Smuggling av narkotika, dopningspreparat, alkohol och cigaretter
-          till Sverige har ökat kraftigt. Ett mycket tydligt exempel är
-          de stora mängder Rohypnol som sedan lång tid tillbaka väller in
-          över Sveriges gränser. Tullens beslag har också ökat trots ansträngda
-          resurser.
-        </p>
-        <p xml:id="i-9wdJEzSNSStUhFuCACR3Pn">
-          I en kommande utredning "Framtidens Tullverk" föreslås enligt
-          uppgift omfattande och drastiska neddragningar av tullens resurser.
-        </p>
-        <p xml:id="i-Gv7e8te2Bz5rQ9pj15dWyJ">
-          Enligt tullpersonal innebär förslaget en stor fara för att verksamheten
-          inte kan fullgöras på ett bra sätt och utgör ett hot mot det svenska
-          samhället.
-        </p>
-        <p xml:id="i-TJF2FTjgMuyZfzFSoN3SgA">
-          Inom kort utvidgas EU med tio nya medlemsstater, vilket kan innebära
-          att illegala varor i större utsträckning kan komma in till Sverige
-          från dessa länder.
-        </p>
-        <p xml:id="i-RmBz9jr2QZojEKWzqGAfqF">
-          I budgetpropositionen för 2004 sägs att: "Inom gränsskyddets
-          kontrollverksamhet skall narkotikakontrollen ges fortsatt högsta
-          prioritet. Bekämpning av den organiserade narkotikasmugglingen
-          skall därvid prioriteras. Hög prioritet skall också ges kontroller
-          mot storskalig illegal införsel av sprit och tobak. Det är av
-          speciell vikt att gränsskyddsverksamheten utvecklas och effektiviseras".
-        </p>
-        <p xml:id="i-FvyVXVZS8dFJdohv1CQJuF">
-          Anslagen till tullverksamheten står i skarp kontrast mot ovanstående
-          uttalande om politikens inriktning. Anslaget kommer att innebära
-          en kraftig nedskärning av antalet tulltjänstemän. Personal som
-          arbetar med klarering av legala varor i samspel med importföretag
-          men även förmodligen också personal som arbetar med brottsbekämpning
-          kommer att få gå.
-        </p>
-        <p xml:id="i-AvVKJg8QysBLYXpsNRGdAA">
-          Det kommer att minska tullens möjligheter till en bra reell och
-          personell kontrollverksamhet och därigenom minska slagkraften
-          i en viktig brottsbekämpande verksamhet.
-        </p>
-        <p xml:id="i-JCATK3WxtmgQgdZRMniStx">
-          På en av mig ställd skriftlig fråga säger finansministern att
-          det inte finns skäl att vidta några ytterligare åtgärder från
-          regeringens sida.
-        </p>
-        <p xml:id="i-3eQtEVHXiN6H3YJhBM9n5d">
-          När nu konsekvenserna av regeringens budgetförslag blir alltmer
-          tydliga ställer jag återigen frågan.
-        </p>
-        <p xml:id="i-HcA5RVj687f9U7UaZkobdY">
-          Vilka åtgärder avser statsrådet att vidta för att tullens brottsbekämpande
-          verksamhet ska kunna prioriteras i enlighet med regeringens egna
-          inriktning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-GajNnAQ25y1APVYUtnQrVs">
+            Smuggling av narkotika, dopningspreparat, alkohol och cigaretter
+            till Sverige har ökat kraftigt. Ett mycket tydligt exempel är
+            de stora mängder Rohypnol som sedan lång tid tillbaka väller in
+            över Sveriges gränser. Tullens beslag har också ökat trots ansträngda
+            resurser.
+          </p>
+          <p xml:id="i-Nb1241Nc1homEen84Fys4e">
+            I en kommande utredning "Framtidens Tullverk" föreslås enligt
+            uppgift omfattande och drastiska neddragningar av tullens resurser.
+          </p>
+          <p xml:id="i-DDRYoGD53b8ppvsQdzc8DZ">
+            Enligt tullpersonal innebär förslaget en stor fara för att verksamheten
+            inte kan fullgöras på ett bra sätt och utgör ett hot mot det svenska
+            samhället.
+          </p>
+          <p xml:id="i-PQFnfMPvLYrPVa5mDvG6h2">
+            Inom kort utvidgas EU med tio nya medlemsstater, vilket kan innebära
+            att illegala varor i större utsträckning kan komma in till Sverige
+            från dessa länder.
+          </p>
+          <p xml:id="i-WZgxnTUZ2CjECPF6NwfREv">
+            I budgetpropositionen för 2004 sägs att: "Inom gränsskyddets
+            kontrollverksamhet skall narkotikakontrollen ges fortsatt högsta
+            prioritet. Bekämpning av den organiserade narkotikasmugglingen
+            skall därvid prioriteras. Hög prioritet skall också ges kontroller
+            mot storskalig illegal införsel av sprit och tobak. Det är av
+            speciell vikt att gränsskyddsverksamheten utvecklas och effektiviseras".
+          </p>
+          <p xml:id="i-QagNvUjchX6g7FpkUoA5c8">
+            Anslagen till tullverksamheten står i skarp kontrast mot ovanstående
+            uttalande om politikens inriktning. Anslaget kommer att innebära
+            en kraftig nedskärning av antalet tulltjänstemän. Personal som
+            arbetar med klarering av legala varor i samspel med importföretag
+            men även förmodligen också personal som arbetar med brottsbekämpning
+            kommer att få gå.
+          </p>
+          <p xml:id="i-5uDSs4u9yUKRPo1keqNFPH">
+            Det kommer att minska tullens möjligheter till en bra reell och
+            personell kontrollverksamhet och därigenom minska slagkraften
+            i en viktig brottsbekämpande verksamhet.
+          </p>
+          <p xml:id="i-EBoDhudLBisGtoFat2FpcW">
+            På en av mig ställd skriftlig fråga säger finansministern att
+            det inte finns skäl att vidta några ytterligare åtgärder från
+            regeringens sida.
+          </p>
+          <p xml:id="i-55p5euWadYkUHNr2g2GjkZ">
+            När nu konsekvenserna av regeringens budgetförslag blir alltmer
+            tydliga ställer jag återigen frågan.
+          </p>
+          <p xml:id="i-7HnJBy9VUnyPvniNaZtrpn">
+            Vilka åtgärder avser statsrådet att vidta för att tullens brottsbekämpande
+            verksamhet ska kunna prioriteras i enlighet med regeringens egna
+            inriktning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

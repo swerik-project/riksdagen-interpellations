@@ -3,78 +3,113 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>psykiatrivården</title>
+        <author>Lindblad, Göran (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>psykiatrivården till statsrådet Ylva Johansson om psykiatrivården</title>
+          <idno type="rdwebb">GS1018</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1018/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1018</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1018</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
+            <persName>Göran Lindblad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-SXhppNPjcgaZgRFxon6w6X" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
+          <date when="2004-09-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9VxWSyQxLQQDnEfYHmNtdC">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8pYYKLLcADW8vjyXeW5YFj">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BekYpk6wD87YzXSXZvTdqx" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5DqAGThBaoP576uCrqqCkF" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspContext corresp="i-5DqAGThBaoP576uCrqqCkF">
+          <ref type="record" target="prot-200405--012">Riksdagens protokoll 2004/05:12 Tisdagen den 12 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:18 om psykiatrivården</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0018</head>
-        <author who="i-KdNZEf7wb1MAJv58QEHYrr">Göran Lindblad</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>psykiatrivården</topic>
-        <docDate when="2004-09-21">den 21 september</docDate>
-        <status when="2004-10-12" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1018</external_id>
-        <debate>
-          <turn when="2004-10-12 15:10:08" duration="222">Ylva Johansson (S)</turn>
-          <turn when="2004-10-12 15:13:36" duration="225">Göran Lindblad (M)</turn>
-          <turn when="2004-10-12 15:17:12" duration="155">Ylva Johansson (S)</turn>
-          <turn when="2004-10-12 15:19:37" duration="178">Göran Lindblad (M)</turn>
-          <turn when="2004-10-12 15:22:25" duration="112">Ylva Johansson (S)</turn>
-          <turn when="2004-10-12 15:24:08" duration="49">Göran Lindblad (M)</turn>
-          <turn when="2004-10-12 15:24:48" duration="73">Ylva Johansson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:18 av Göran Lindblad (m) till statsrådet
-          Ylva Johansson om psykiatrivården
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LhUW8R7pfbRaJGqbW3tXsi">
+            Interpellation 2004/05:18 av Göran Lindblad (m) till statsrådet
+            Ylva Johansson om psykiatrivården
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Xb2xB3d3n5HUkEjMhXTrAX">
+            den 21 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KgKAxkwbUY3Ljm3KsF18EY">
-          För ganska precis ett år sedan ställde jag en interpellation
-          till statsrådet Engqvist om psykiatrivårdens sammanbrott. Statsrådet
-          svarade under debatten i kammaren att psykiatrin var en för regeringen
-          prioriterad utvecklingsfråga. Nu när ett år förflutit är förhållandena
-          inom psykiatrin oförändrat katastrofala. Dessutom rapporterar
-          massmedierna fortlöpande om psykiatripatienter vilka ej erhållit
-          nödvändig vård utan i stället utgör en fara för sig själva och
-          sin omgivning. Senast häromveckan gick en man bärsärkagång i tunnelbanan
-          med en stor bergborr som tillhygge. Den av regeringen städslade
-          psykiatrisamordnaren förordade mer pengar till psykiatrin. Men
-          fortfarande har inga medel synts till.
-        </p>
-        <p xml:id="i-5oswVtA5UzZb6Si1wT48CS">
-          Många goda förslag framkom under förra årets allmänna motionstid,
-          men fortfarande synes förbättring i vården utebli.
-        </p>
-        <p xml:id="i-AvwzJbHa1TK1HirJaspxa9">
-          Jag upprepar alltså förra årets fråga:
-        </p>
-        <p xml:id="i-H4PZpVfyAWVeSYSBKTxe7C">
-          Vad avser statsrådet att göra för att långsiktigt, men också
-          omedelbart rätta till de värsta problemen inom psykiatrin?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QBbnvqc3WRPMV9qvvVQmp">
+            För ganska precis ett år sedan ställde jag en interpellation
+            till statsrådet Engqvist om psykiatrivårdens sammanbrott. Statsrådet
+            svarade under debatten i kammaren att psykiatrin var en för regeringen
+            prioriterad utvecklingsfråga. Nu när ett år förflutit är förhållandena
+            inom psykiatrin oförändrat katastrofala. Dessutom rapporterar
+            massmedierna fortlöpande om psykiatripatienter vilka ej erhållit
+            nödvändig vård utan i stället utgör en fara för sig själva och
+            sin omgivning. Senast häromveckan gick en man bärsärkagång i tunnelbanan
+            med en stor bergborr som tillhygge. Den av regeringen städslade
+            psykiatrisamordnaren förordade mer pengar till psykiatrin. Men
+            fortfarande har inga medel synts till.
+          </p>
+          <p xml:id="i-NBc1Zv3Vki95MoWLPLGCDX">
+            Många goda förslag framkom under förra årets allmänna motionstid,
+            men fortfarande synes förbättring i vården utebli.
+          </p>
+          <p xml:id="i-Ngqoig7QdfsbjaeT5dVs7i">
+            Jag upprepar alltså förra årets fråga:
+          </p>
+          <p xml:id="i-NdmPccRJEPLeCoqJ3iuvDz">
+            Vad avser statsrådet att göra för att långsiktigt, men också
+            omedelbart rätta till de värsta problemen inom psykiatrin?
+          </p>
+        </div>
       </div>
     </body>
   </text>

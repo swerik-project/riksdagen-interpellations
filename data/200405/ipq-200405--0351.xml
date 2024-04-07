@@ -3,84 +3,128 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldre som lever i ensamhet</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>äldre som lever i ensamhet till statsrådet Ylva Johansson om äldre som lever i ensamhet</title>
+          <idno type="rdwebb">GS10351</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10351/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10351</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10351</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Yvonne Andersson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GKe7NyjXfsuBVLvM9pZ5Tn" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2005-02-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-12vPyupiQMcarx1MpaoAcm">
+          <date when="2005-02-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HJTSPf2dNNJ2zEAWp551tC">
+          <date when="2005-02-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-T5EoFFJ4DDKjocBESt5PYT" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-02-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5DbJywgsycfayWh5k8dtEu" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-02-15"/>
+        </correspAction>
+        <correspContext corresp="i-5DbJywgsycfayWh5k8dtEu">
+          <ref type="record" target="prot-200405--076">Riksdagens protokoll 2004/05:76 Tisdagen den 15 februari</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:351 om äldre som lever i ensamhet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0351</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Yvonne Andersson</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>äldre som lever i ensamhet</topic>
-        <docDate when="2005-02-02">den 2 februari</docDate>
-        <status when="unknown" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10351</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:351 av Yvonne Andersson (kd) till statsrådet
-          Ylva Johansson om äldre som lever i ensamhet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-R5FoqNaNGJrsGvkQyBubWg">
+            Interpellation 2004/05:351 av Yvonne Andersson (kd) till statsrådet
+            Ylva Johansson om äldre som lever i ensamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-NnAi2ybPoW9N2vcbHUx33w">
+            den 2 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-M6e9MzLMV9K2JY2Sq8o4fJ">
-          Utvecklingen mot en ökad medellivslängd och ett allt större tillgodosett
-          vårdbehov i hemmet har inneburit en ökad livskvalitet för många
-          människor, en utveckling som vi kan vara stolta över. Med ökad
-          ålder ökar risken för ensamhet. Vänner och släktingar dör och
-          kanske till och med barn som ändå uppnått en aktningsvärd ålder.
-          Jag har sett exempel på hur mycket hög ålder inte spelat någon
-          som helst roll för den äldres möjlighet att få komma till ett
-          gruppboende. Ensamhet är inte och kan inte vara en grund för att
-          få vårdbostad. Det är ju inte vård man är i behov av när ensamheten
-          blir jobbig utan gemenskap med andra.
-        </p>
-        <p xml:id="i-CfPL1vfoHgCmPRXmpBDFad">
-          Att möta andra människor är ett viktigt och grundläggande mänskligt
-          behov. Men mötet handlar inte enbart om att se andra människor
-          utan att faktiskt möta dem i dialog och gemenskap.
-        </p>
-        <p xml:id="i-JdK7cdqY2e4vPkbpuf9otC">
-          Att få bo kvar i sin bostad och få all tänkbar hjälp och vård
-          är livskvalitet för många. I hemmet är man van, kan ta emot besök
-          av släktingar och vänner. Den möjligheten vill vi ha kvar. Men
-          för dem som inte har några anhöriga eller någon som vill besöka
-          blir ensamheten och boendet i det egna hemmet en plåga.
-        </p>
-        <p xml:id="i-7whUCcutRa4kt5hxW4mTfV">
-          Som äldre, liksom i alla andra livsskeden, har vi människor olika
-          behov som måste kunna tillgodoses. Det fanns goda delar i de gamla
-          ålderdomshemmen, såsom möjligheten till vardaglig social kontakt
-          med andra i liknande situation. Jag finner att det måste tillskapas
-          alternativ för de äldre som finner ensamheten svår men som i övrigt
-          inte behöver särskild vård eller omsorg. Det ska finnas möjligheter
-          för alla, också de äldre, att få ett boende som passar just deras
-          behov.
-        </p>
-        <p xml:id="i-RM6WLLj9ARZ2zrnmwkuE3t">
-          Vilka åtgärder avser statsrådet att vidta för att ensamboende
-          som saknar behov av vård, får en vardaglig social kontakt om de
-          så önskar?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2xSfjVi9WCwekT4HURZDkJ">
+            Utvecklingen mot en ökad medellivslängd och ett allt större tillgodosett
+            vårdbehov i hemmet har inneburit en ökad livskvalitet för många
+            människor, en utveckling som vi kan vara stolta över. Med ökad
+            ålder ökar risken för ensamhet. Vänner och släktingar dör och
+            kanske till och med barn som ändå uppnått en aktningsvärd ålder.
+            Jag har sett exempel på hur mycket hög ålder inte spelat någon
+            som helst roll för den äldres möjlighet att få komma till ett
+            gruppboende. Ensamhet är inte och kan inte vara en grund för att
+            få vårdbostad. Det är ju inte vård man är i behov av när ensamheten
+            blir jobbig utan gemenskap med andra.
+          </p>
+          <p xml:id="i-P8dWgQ7muBqY8CD4GXiFwC">
+            Att möta andra människor är ett viktigt och grundläggande mänskligt
+            behov. Men mötet handlar inte enbart om att se andra människor
+            utan att faktiskt möta dem i dialog och gemenskap.
+          </p>
+          <p xml:id="i-8BFKxSMyVL9MWhobVnFEQP">
+            Att få bo kvar i sin bostad och få all tänkbar hjälp och vård
+            är livskvalitet för många. I hemmet är man van, kan ta emot besök
+            av släktingar och vänner. Den möjligheten vill vi ha kvar. Men
+            för dem som inte har några anhöriga eller någon som vill besöka
+            blir ensamheten och boendet i det egna hemmet en plåga.
+          </p>
+          <p xml:id="i-3uG2zKxTAtggm1RpaEnMZr">
+            Som äldre, liksom i alla andra livsskeden, har vi människor olika
+            behov som måste kunna tillgodoses. Det fanns goda delar i de gamla
+            ålderdomshemmen, såsom möjligheten till vardaglig social kontakt
+            med andra i liknande situation. Jag finner att det måste tillskapas
+            alternativ för de äldre som finner ensamheten svår men som i övrigt
+            inte behöver särskild vård eller omsorg. Det ska finnas möjligheter
+            för alla, också de äldre, att få ett boende som passar just deras
+            behov.
+          </p>
+          <p xml:id="i-2FjecedTC1AA2J7rtxp4RY">
+            Vilka åtgärder avser statsrådet att vidta för att ensamboende
+            som saknar behov av vård, får en vardaglig social kontakt om de
+            så önskar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,97 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nytt hot mot sjöräddningen</title>
+        <author>Adelsohn Liljeroth, Lena (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>nytt hot mot sjöräddningen till försvarsminister Leni Björklund om nytt hot mot sjöräddningen</title>
+          <idno type="rdwebb">GS10450</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10450/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10450</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10450</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-EwdCYuFh3Gzq6EkjHQqyHp" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-No81BZPRg1ZKpxAjh6BiiG">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2aQwJgGUx6PhWFiLddGXhM">
+          <date when="2005-04-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VhNJ9pDAnENhDW8jfhMUSp" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MLfRxRmRQWz9hHeVm4bK7U" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-04-12"/>
+        </correspAction>
+        <correspContext corresp="i-MLfRxRmRQWz9hHeVm4bK7U">
+          <ref type="record" target="prot-200405--103">Riksdagens protokoll 2004/05:103 Tisdagen den 12 april</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:450 om nytt hot mot sjöräddningen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0450</head>
-        <author who="i-TGAeNgQV9rZoovTn5C8JAd">Lena Adelsohn Liljeroth</author>
-        <recipient who="i-CcdZckB2ErC625pmVtogZg">Leni Björklund</recipient>
-        <topic>nytt hot mot sjöräddningen</topic>
-        <docDate when="2005-03-09">den 9 mars</docDate>
-        <status when="2005-04-12" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10450</external_id>
-        <debate>
-          <turn when="2005-04-12 18:00:23" duration="120">Ulrica Messing (S)</turn>
-          <turn when="2005-04-12 18:02:19" duration="249">Lena Adelsohn Liljeroth (M)</turn>
-          <turn when="2005-04-12 18:06:23" duration="87">Ulrica Messing (S)</turn>
-          <turn when="2005-04-12 18:07:46" duration="158">Lena Adelsohn Liljeroth (M)</turn>
-          <turn when="2005-04-12 18:10:20" duration="143">Ulrica Messing (S)</turn>
-          <turn when="2005-04-12 18:12:40" duration="77">Lena Adelsohn Liljeroth (M)</turn>
-          <turn when="2005-04-12 18:13:54" duration="51">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:450 av Lena Adelsohn Liljeroth (m) till
-          försvarsminister Leni Björklund om nytt hot mot sjöräddningen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-FHSn5HcMnVFEvV4TaNPs16">
+            Interpellation 2004/05:450 av Lena Adelsohn Liljeroth (m) till
+            försvarsminister Leni Björklund om nytt hot mot sjöräddningen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MxF32ZRnExkbJSwK9XQpFj">
+            den 9 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SnnFih9DTW9JmVdrQuZoEZ">
-          Svenska Sjöräddningssällskapet, SSRS, är en ideell förening som
-          funnits i nästan 100 år, och vars viktigaste uppgift är att rädda
-          liv runt Sveriges kuster och i de stora sjöarna.
-        </p>
-        <p xml:id="i-BBkbSSojnQNGKRSk4AGBQe">
-          Föreningen har i dag 57 räddningsstationer med tillgång till
-          över 100 båtar och ca 1 200 frivilliga.
-        </p>
-        <p xml:id="i-EHwuUGM8CpsUGeUbsA5HBS">
-          Sedan 1999 har SSRS gratis fått låna de stridsbåtar som Försvarsmakten
-          inte haft användning för. Totalt har det handlat om tio båtar
-          av typerna 90 H och 90 E.
-        </p>
-        <p xml:id="i-JCxtSkEbpjJ9vofYwK2KqE">
-          Redan i fjol krävde Sjöfartsverket, som uppenbarligen agerar
-          på uppdrag av Försvarsmakten, att få full kostnadstäckning från
-          SSRS för lånet av de båtar som försvaret inte behövde! Totalt
-          handlar det om en summa på nästan 3,8 miljoner kronor. Trots att
-          till exempel stridsbåt 90 E tagits ur försvarsorganisationen @
-          och i många fall ligger på varv @ vill staten ändå ha betalt.
-          Detta är inte rimligt.
-        </p>
-        <p xml:id="i-E9yxMYauCdhZUWYoqkJH8x">
-          I fjol beslöt Sjöfartsverket, efter påtryckningar, att inte ta
-          ut hyra. Men nu, under 2005, återkommer kravet. Försvarshögkvarteret
-          hävdar att de har ett avtal med SSRS om att få "full kostnadstäckning".
-          Detta förnekas i sin tur bestämt av Sjöfartsverket. Ord står mot
-          ord @ och klämda där emellan står Sjöräddningssällskapet.
-        </p>
-        <p xml:id="i-Uax9yM5rMvi8TABANtzVkA">
-          Med anledning av detta vill jag fråga försvarsminister Leni Björklund:
-        </p>
-        <p xml:id="i-ToSxsWCdwCJ3RGcUpE2LfU">
-          1. Är det försvarsministerns uppfattning att det är rimligt att
-          Sjöfartsverket ska ta betalt av ideella föreningen Svenska Sjöräddningssällskapet
-          för båtar som Försvarsmakten uppenbarligen ändå inte har för avsikt
-          att använda?
-        </p>
-        <p xml:id="i-WjijTd8TvQhcnAYjNFsMSo">
-          2. Avser försvarsministern att ta några initiativ med anledning
-          av Svenska Sjöräddningssällskapets uppgift och insats?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-914nyCfZWs4caHBMoPKRaq">
+            Svenska Sjöräddningssällskapet, SSRS, är en ideell förening som
+            funnits i nästan 100 år, och vars viktigaste uppgift är att rädda
+            liv runt Sveriges kuster och i de stora sjöarna.
+          </p>
+          <p xml:id="i-Rkh7aMkmqZh3zdJ76YFoGX">
+            Föreningen har i dag 57 räddningsstationer med tillgång till
+            över 100 båtar och ca 1 200 frivilliga.
+          </p>
+          <p xml:id="i-MmuJYuVEgF2WRHnVu5NiHX">
+            Sedan 1999 har SSRS gratis fått låna de stridsbåtar som Försvarsmakten
+            inte haft användning för. Totalt har det handlat om tio båtar
+            av typerna 90 H och 90 E.
+          </p>
+          <p xml:id="i-6Yo8gHwkHx87cqN6nsMwPo">
+            Redan i fjol krävde Sjöfartsverket, som uppenbarligen agerar
+            på uppdrag av Försvarsmakten, att få full kostnadstäckning från
+            SSRS för lånet av de båtar som försvaret inte behövde! Totalt
+            handlar det om en summa på nästan 3,8 miljoner kronor. Trots att
+            till exempel stridsbåt 90 E tagits ur försvarsorganisationen @
+            och i många fall ligger på varv @ vill staten ändå ha betalt.
+            Detta är inte rimligt.
+          </p>
+          <p xml:id="i-HqPqQYP9JCGdTDiLef5Jq6">
+            I fjol beslöt Sjöfartsverket, efter påtryckningar, att inte ta
+            ut hyra. Men nu, under 2005, återkommer kravet. Försvarshögkvarteret
+            hävdar att de har ett avtal med SSRS om att få "full kostnadstäckning".
+            Detta förnekas i sin tur bestämt av Sjöfartsverket. Ord står mot
+            ord @ och klämda där emellan står Sjöräddningssällskapet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-WWrbshc32Cvk7RaGYqFuhb">
+            Med anledning av detta vill jag fråga försvarsminister Leni Björklund:
+            <list rend="unordered">
+              <item>
+                1.Är det försvarsministerns uppfattning att det är rimligt att
+                Sjöfartsverket ska ta betalt av ideella föreningen Svenska Sjöräddningssällskapet
+                för båtar som Försvarsmakten uppenbarligen ändå inte har för avsikt
+                att använda?
+              </item>
+              <item>
+                2.Avser försvarsministern att ta några initiativ med anledning
+                av Svenska Sjöräddningssällskapets uppgift och insats?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

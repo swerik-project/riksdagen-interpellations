@@ -3,74 +3,118 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>skyddad identitet</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>skyddad identitet till justitieminister Thomas Bodström om skyddad identitet</title>
+          <idno type="rdwebb">GS10272</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10272/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10272</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10272</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Yvonne Andersson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JgRPPBgW4QHtuFK5VduvrS" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2004-12-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2kvP5JtwXh3C99gJAw1izm">
+          <date when="2004-12-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9mxuLyGaJWtJMerk7XNjXT">
+          <date when="2005-01-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QHLcVr3c91DpD8JPYnar92" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-12-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5rA7dmtdBTE1CJZMGqG2iE" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-01-21"/>
+        </correspAction>
+        <correspContext corresp="i-5rA7dmtdBTE1CJZMGqG2iE">
+          <ref type="record" target="prot-200405--062">Riksdagens protokoll 2004/05:62 Fredagen den 21 januari</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2004/05:272 om skyddad identitet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0272</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Yvonne Andersson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>skyddad identitet</topic>
-        <docDate when="2004-12-17">den 17 december</docDate>
-        <status when="unknown" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10272</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:272 av Yvonne Andersson (kd) till justitieminister
-          Thomas Bodström om skyddad identitet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Dj8YehXscB4QVvRfY4tfre">
+            Interpellation 2004/05:272 av Yvonne Andersson (kd) till justitieminister
+            Thomas Bodström om skyddad identitet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-AqPk85QwfKNN3YyWN5DYaf">
+            den 17 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KmizWLG5zu65SWcWSua6TR">
-          Det finns i dag möjlighet att ge skyddad identitet till människor
-          som av olika skäl känner sig hotade. Tanken är att skapa trygghet
-          för dessa människor. Detta skydd får dock märkliga och oförutsedda
-          konsekvenser.
-        </p>
-        <p xml:id="i-QG9EK44GpkGC2MRcDPGZqF">
-          Enligt uppgift från Säpo kan polisen inte spana efter en person
-          i dennes bostad om personen i fråga har skyddad identitet och
-          på sannolika skäl misstänks för ett brott som inte har ett straffvärde
-          över två års frihetsberövande. Polisen får inte kännedom om adressen
-          och kan följaktligen varken spana eller hämta den misstänkte för
-          rättegång.
-        </p>
-        <p xml:id="i-9sYtVDVmyQMYdLjpk6B8UZ">
-          Konsekvensen blir att en misstänkt person skyddas från polisen
-          och rättssamhället @ en ordning som självklart inte kan accepteras.
-          Så snart en människa är misstänkt för ett brott ska polisen kunna
-          utföra sitt arbete på ett effektivt sätt. I annat fall slår rättssamhället
-          knut på sig själv!
-        </p>
-        <p xml:id="i-XrzKzvHoMyGa2vPpWqtd31">
-          Med anledning av det som ovan sagts vill jag ställa följande
-          fråga:
-        </p>
-        <p xml:id="i-LuUDfpqD6z9wHJjFtWXPPe">
-          Vilka åtgärder avser ministern att vidta för att förhindra att
-          sekretesslagen skyddar misstänkta gärningsmän från polisiära ingripanden?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-78feVCwMk9CfaLpvDAeKYh">
+            Det finns i dag möjlighet att ge skyddad identitet till människor
+            som av olika skäl känner sig hotade. Tanken är att skapa trygghet
+            för dessa människor. Detta skydd får dock märkliga och oförutsedda
+            konsekvenser.
+          </p>
+          <p xml:id="i-NkM3ZLidTt6LtiszvNDgwU">
+            Enligt uppgift från Säpo kan polisen inte spana efter en person
+            i dennes bostad om personen i fråga har skyddad identitet och
+            på sannolika skäl misstänks för ett brott som inte har ett straffvärde
+            över två års frihetsberövande. Polisen får inte kännedom om adressen
+            och kan följaktligen varken spana eller hämta den misstänkte för
+            rättegång.
+          </p>
+          <p xml:id="i-GV11N9vdiwcsVzjkd3LTkZ">
+            Konsekvensen blir att en misstänkt person skyddas från polisen
+            och rättssamhället @ en ordning som självklart inte kan accepteras.
+            Så snart en människa är misstänkt för ett brott ska polisen kunna
+            utföra sitt arbete på ett effektivt sätt. I annat fall slår rättssamhället
+            knut på sig själv!
+          </p>
+          <p xml:id="i-QjYpkST76ZvP6rbdiqyt5T">
+            Med anledning av det som ovan sagts vill jag ställa följande
+            fråga:
+          </p>
+          <p xml:id="i-F4UGH5zUz6YW1ZqTbDrdyw">
+            Vilka åtgärder avser ministern att vidta för att förhindra att
+            sekretesslagen skyddar misstänkta gärningsmän från polisiära ingripanden?
+          </p>
+        </div>
       </div>
     </body>
   </text>

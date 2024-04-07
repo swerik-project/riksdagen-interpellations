@@ -3,97 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>myndighetsexpansionen</title>
+        <author>Krantz, Tobias (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>myndighetsexpansionen till statsrådet Gunnar Lund om myndighetsexpansionen</title>
+          <idno type="rdwebb">GS1054</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1054/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1054</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1054</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-MXjXcn1xDs1C8VNq7bDjv5" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
+          <date when="2004-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TjHzPMYHcto1oKkzdQtwi7">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RrCy2rMab1gmai7yzeKsd">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GQapvSu6vJ7LVgrqpJHyTK" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VMWo4xn9SuiWhcBVXW3a2y" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspContext corresp="i-VMWo4xn9SuiWhcBVXW3a2y">
+          <ref type="record" target="prot-200405--029">Riksdagens protokoll 2004/05:29 Måndagen den 15 november</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:54 om myndighetsexpansionen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0054</head>
-        <author who="i-UnkrZ3NAvoWXY6Krxbkudq">Tobias Krantz</author>
-        <recipient who="i-GRX2GfDazmcwmcRyZSiKdA">Gunnar Lund</recipient>
-        <topic>myndighetsexpansionen</topic>
-        <docDate when="2004-10-11">den 11 oktober</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1054</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:54 av Tobias Krantz (fp) till statsrådet
-          Gunnar Lund om myndighetsexpansionen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-T8b6hGjuwuPPVMneaG2HpU">
+            Interpellation 2004/05:54 av Tobias Krantz (fp) till statsrådet
+            Gunnar Lund om myndighetsexpansionen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-SMjBgejnydURZvpSn4Hp45">
+            den 11 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BXsUXQEgQNmrzSsgEDuwsS">
-          Antalet statliga myndigheter växer kraftigt i Sverige. Under
-          enbart de tre senaste åren har vårt land fått 31 helt nya myndigheter.
-          Sverige har för tillfället 234 myndigheter som lämnar egen årsredovisning
-          till regeringen. Myndigheterna har tillsammans drygt 192 000 årsarbetskrafter
-          och omsätter 207 miljarder kronor, allt enligt en rapport från
-          Statskontoret nyligen (rapport 2004:9). Ytterligare 20 myndigheter
-          bildas i år, nästa år eller är på förslag, enligt en sammanställning
-          som tidningen Affärsvärlden har gjort (den 8 juni 2004).
-        </p>
-        <p xml:id="i-SCi2f4YyPoQHxuGAxya15m">
-          Många av de nybildade myndigheterna är mycket små: drygt hälften
-          av dem har under 30 årsarbetskrafter, tio av dem har under tio
-          årsarbetskrafter. Statskontoret riktar i sin rapport skarp kritik
-          mot den trenden. De nya, små myndigheterna dras med höga administrationskostnader
-          och de visar på en högre sårbarhet än större myndigheter, skriver
-          Statskontoret. Regeringen uppmanas att se över myndighetsstrukturen
-          i syfte att skapa större enheter.
-        </p>
-        <p xml:id="i-BUKV6Gf1b18NCR2t9Zafnv">
-          Den växande myndighetsbyråkratin ökar krånglet för enskilda och
-          företag. Varje ny myndighet måste naturligtvis motivera sin egen
-          existens. Det blir fler regler att följa, ibland regler som kan
-          gå stick i stäv med bestämmelser som andra myndigheter utfärdar.
-          Myndighetsexpansionen minskar effektiviteten i den offentliga
-          förvaltningen; medborgarnas skattepengar används inte på det mest
-          ändamålsenliga sättet. Men byråkratins tillväxt skapar också problem
-          från demokratisynpunkt. När den offentliga förvaltningen blir
-          alltmer omfattande och svåröverskådlig försvåras ansvarsutkrävande
-          och kontroll.
-        </p>
-        <p xml:id="i-UDXSnqcqusFTFaNw5YTVxV">
-          Sverige behöver, enligt min mening, en genomgripande myndighetsreform.
-          För det första bör det sättas ett tak vid nuvarande nivå på antalet
-          statliga myndigheter. Om regeringen vill inrätta en ny myndighet
-          måste den samtidigt lägga ned en existerande myndighet. Det tvingar
-          fram en seriös prövning av huruvida motiven för en ny myndighet
-          verkligen håller. För det andra bör en "solnedgångsparagraf" för
-          nya myndigheter införas. "Solnedgångsparagrafen" innebär att regeringen
-          eller riksdagen inom en viss tid måste fatta ett nytt beslut om
-          myndighetens existens; i annat fall avvecklas den automatiskt.
-          För det tredje bör rationaliseringar och nedläggningar göras vad
-          gäller redan existerande myndigheter. Myndigheter som kan läggas
-          ned är exempelvis Integrationsverket och Glesbygdsverket. De fyra
-          diskrimineringsombudsmännen borde kunna slås samman till en myndighet.
-          Listan skulle kunna göras längre.
-        </p>
-        <p xml:id="i-LswYcybX8Jw62gL3KEY5Y">
-          Med anledning av vad som ovan har anförts vill jag fråga statsrådet
-          vilka åtgärder han avser att vidta i syfte att stoppa myndighetsexpansionen
-          i Sverige.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-VdmYYN8DHpzbMsTvB7M7qK">
+            Antalet statliga myndigheter växer kraftigt i Sverige. Under
+            enbart de tre senaste åren har vårt land fått 31 helt nya myndigheter.
+            Sverige har för tillfället 234 myndigheter som lämnar egen årsredovisning
+            till regeringen. Myndigheterna har tillsammans drygt 192 000 årsarbetskrafter
+            och omsätter 207 miljarder kronor, allt enligt en rapport från
+            Statskontoret nyligen (rapport 2004:9). Ytterligare 20 myndigheter
+            bildas i år, nästa år eller är på förslag, enligt en sammanställning
+            som tidningen Affärsvärlden har gjort (den 8 juni 2004).
+          </p>
+          <p xml:id="i-Q7XtPWKGamxMY9UV7WPUyA">
+            Många av de nybildade myndigheterna är mycket små: drygt hälften
+            av dem har under 30 årsarbetskrafter, tio av dem har under tio
+            årsarbetskrafter. Statskontoret riktar i sin rapport skarp kritik
+            mot den trenden. De nya, små myndigheterna dras med höga administrationskostnader
+            och de visar på en högre sårbarhet än större myndigheter, skriver
+            Statskontoret. Regeringen uppmanas att se över myndighetsstrukturen
+            i syfte att skapa större enheter.
+          </p>
+          <p xml:id="i-QNMHonLwQcwZanvr3effQw">
+            Den växande myndighetsbyråkratin ökar krånglet för enskilda och
+            företag. Varje ny myndighet måste naturligtvis motivera sin egen
+            existens. Det blir fler regler att följa, ibland regler som kan
+            gå stick i stäv med bestämmelser som andra myndigheter utfärdar.
+            Myndighetsexpansionen minskar effektiviteten i den offentliga
+            förvaltningen; medborgarnas skattepengar används inte på det mest
+            ändamålsenliga sättet. Men byråkratins tillväxt skapar också problem
+            från demokratisynpunkt. När den offentliga förvaltningen blir
+            alltmer omfattande och svåröverskådlig försvåras ansvarsutkrävande
+            och kontroll.
+          </p>
+          <p xml:id="i-9xenukithoTkK3jGwjSkMz">
+            Sverige behöver, enligt min mening, en genomgripande myndighetsreform.
+            För det första bör det sättas ett tak vid nuvarande nivå på antalet
+            statliga myndigheter. Om regeringen vill inrätta en ny myndighet
+            måste den samtidigt lägga ned en existerande myndighet. Det tvingar
+            fram en seriös prövning av huruvida motiven för en ny myndighet
+            verkligen håller. För det andra bör en "solnedgångsparagraf" för
+            nya myndigheter införas. "Solnedgångsparagrafen" innebär att regeringen
+            eller riksdagen inom en viss tid måste fatta ett nytt beslut om
+            myndighetens existens; i annat fall avvecklas den automatiskt.
+            För det tredje bör rationaliseringar och nedläggningar göras vad
+            gäller redan existerande myndigheter. Myndigheter som kan läggas
+            ned är exempelvis Integrationsverket och Glesbygdsverket. De fyra
+            diskrimineringsombudsmännen borde kunna slås samman till en myndighet.
+            Listan skulle kunna göras längre.
+          </p>
+          <p xml:id="i-H6qU8c281FWs8ahD3NjqoF">
+            Med anledning av vad som ovan har anförts vill jag fråga statsrådet
+            vilka åtgärder han avser att vidta i syfte att stoppa myndighetsexpansionen
+            i Sverige.
+          </p>
+        </div>
       </div>
     </body>
   </text>

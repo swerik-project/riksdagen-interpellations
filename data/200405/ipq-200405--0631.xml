@@ -3,186 +3,219 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>socialtjänstens arbete med barn</title>
+        <author>Hellquist, Solveig (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>socialtjänstens arbete med barn till statsrådet Morgan Johansson om socialtjänstens arbete med barn</title>
+          <idno type="rdwebb">GS10631</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10631/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10631</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10631</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-BoRLrCqi4prCw3N11EyJPF</idno>
+            <persName>Solveig Hellquist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9WBfgHJ1Wz5ELHJ1McFQVN" corresp="i-BoRLrCqi4prCw3N11EyJPF">
+          <date when="2005-05-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-C6kwF9WMT4xjgL3UP86duH">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GZa78hfYTD1qZDqms8ExmY">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TsJ7bVYs89nnrdYLkh1Yr6" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-YPQPPasrcsYVZGxm762aFE" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspContext corresp="i-YPQPPasrcsYVZGxm762aFE">
+          <ref type="record" target="prot-200405--135">Riksdagens protokoll 2004/05:135 Onsdagen den 8 juni</ref>
+          <ref type="recordSection" target="unsetDivId">31 § Svar på interpellation 2004/05:631 om socialtjänstens arbete med barn</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0631</head>
-        <author who="i-BoRLrCqi4prCw3N11EyJPF">Solveig Hellquist</author>
-        <recipient who="i-UPW2cbGnTUbMZaKTrot5Bh">Morgan Johansson</recipient>
-        <topic>socialtjänstens arbete med barn</topic>
-        <docDate when="2005-05-23">den 23 maj</docDate>
-        <status when="2005-06-08" byWhom="Morgan Johansson" byWhomId="i-UPW2cbGnTUbMZaKTrot5Bh" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10631</external_id>
-        <debate>
-          <turn when="2005-06-08 20:15:37" duration="233">Morgan Johansson (S)</turn>
-          <turn when="2005-06-08 20:19:26" duration="253">Solveig Hellquist (Fp)</turn>
-          <turn when="2005-06-08 20:23:35" duration="204">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-06-08 20:26:54" duration="273">Morgan Johansson (S)</turn>
-          <turn when="2005-06-08 20:31:24" duration="264">Solveig Hellquist (Fp)</turn>
-          <turn when="2005-06-08 20:35:44" duration="127">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-06-08 20:37:47" duration="228">Morgan Johansson (S)</turn>
-          <turn when="2005-06-08 20:41:31" duration="126">Solveig Hellquist (Fp)</turn>
-          <turn when="2005-06-08 20:43:34" duration="132">Morgan Johansson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:631 av Solveig Hellquist (fp) till statsrådet
-          Morgan Johansson om socialtjänstens arbete med barn
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6fim9GZ264zzpWZj1XEUig">
+            Interpellation 2004/05:631 av Solveig Hellquist (fp) till statsrådet
+            Morgan Johansson om socialtjänstens arbete med barn
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-3FLg6iUinQzgpv5Aq99iJE">
+            den 23 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-9ewgEUePdBFE6LreSZjkoh">
-          Det har talats mycket om apatiska barn under senare tid. Det
-          är en grupp barn som vi tidigare inte haft kunskap om och som
-          far mycket illa i Sverige i dag. Hanteringen av de här barnen
-          innebär tyvärr att vi satt taket väldigt högt för hur mycket barn
-          ska tåla @ trots allt tal om barnkonventionen och barns bästa.
-          Om inte dessa barn behöver samhällets stöd och skydd är frågan
-          vilka barn som kan bedömas behöva det.
-        </p>
-        <p xml:id="i-QzBDQiYbysgTGspmWYKUuf">
-          I Sverige finns andra grupper av barn som far illa eller riskerar
-          att utvecklas ogynnsamt, vars problem vi känt till i decennier.
-          Det är barn till missbrukare, psykiskt sjuka eller barn som växer
-          upp med föräldrar med bristande förmåga att tillgodose deras behov.
-          Socialtjänsten har ett stort ansvar för alla dessa barn.
-        </p>
-        <p xml:id="i-2tfkY1T5Ky6KHx2EYKDVqL">
-          Hur ser då situationen ut i verkligheten? Vilket stöd får barnen
-          i praktiken? Jag vill peka på några (miss-)förhållanden som är
-          dokumenterade i olika rapporter, däribland Socialstyrelsens rapport
-          Social tillsyn 2003.
-        </p>
-        <p xml:id="i-PvCXiv57TRQhng6JHSY5Sa">
-          Personal som har anmälningsskyldighet enligt socialtjänstlagen
-          fullgör @ av olika skäl @ inte sin skyldighet i tillräcklig utsträckning.
-        </p>
-        <p xml:id="i-VqPPpHKyCS8nwFrP5t27HV">
-          Endast cirka hälften av alla anmälningar om att barn far illa
-          leder till utredning av kommunernas socialtjänster. Det uppgav
-          Ekot för något år sedan efter att ha kartlagt 200 av landets 290
-          kommuner. I fjol gjordes totalt 48 500 anmälningar i dessa kommuner.
-          24 700 ledde till utredning. Socialstyrelsen konstaterar också
-          i sin rapport att många anmälningar inte utreds.
-        </p>
-        <p xml:id="i-UwHNh5NLQdbDSitEMncmpU">
-          Barn inom familjehemsvården liksom placeringar på institutioner
-          följs inte upp.
-        </p>
-        <p xml:id="i-81gAnj1A1HDraxqCXkoQAP">
-          Barn som har behov av barnpsykiatriska insatser får inte den
-          hjälp de behöver. Vi känner alla till de långa köerna till barnpsyk.
-        </p>
-        <p xml:id="i-HULACVkpdouziKqrjB16S9">
-          Barnperspektivet har fortfarande inte fått genomslag. Barn där
-          vuxnas problem står i centrum har svårt att få stöd och behandling.
-        </p>
-        <p xml:id="i-RycJGb4JtToXzo5LM64fty">
-          Det är på sina håll svårt att rekrytera kvalificerad personal
-          till arbetet med barn och familjer inom socialtjänsten.
-        </p>
-        <p xml:id="i-FuXqTe5ov1vgzUwsU7M1ka">
-          Kommunerna väntar ibland alltför länge med att utreda barn som
-          far illa.
-        </p>
-        <p xml:id="i-LvgWmZ5pjMUisrjvt5hLAH">
-          I länsstyrelsens tillsyn visar verksamhetsområdet: barn och unga
-          familjer, flest brister. I drygt 40 % av tillsynsärendena konstateras
-          brister.
-        </p>
-        <p xml:id="i-PDPuGQJkyK8zePbN6C56HR">
-          Vidare finns en tendens att behovsbedömningen anpassas till de
-          resurser som finns inom socialtjänsten. Den sätts inte i relation
-          till det enskilda barnets behov av behandling. Trots att antalet
-          anmälningar ökar visar HSB-hemmen en minskad efterfrågan på behandlingshemsplatser.
-        </p>
-        <p xml:id="i-9uUFbQLRB7NPr1t5F5xq7v">
-          Förebyggande insatser för barn och ungdomar som socialtjänsten
-          finansierat dras in.
-        </p>
-        <p xml:id="i-RGRucrSK8dLqURxLSyJ46K">
-          Kommunerna har svårt att rekrytera och stödja kontaktpersoner
-          och kontaktfamiljer som tillsammans med stödsamtal är de vanligaste
-          insatserna för barn i den frivilliga socialtjänsten.
-        </p>
-        <p xml:id="i-XuGiLmpAcGjpgudzd1Dygr">
-          Kommunerna har också svårt att rekrytera familjehem @ särskilt
-          till barn med neuropsykiatriska funktionshinder.
-        </p>
-        <p xml:id="i-GSoTjUBqErtc9SpapxfVt6">
-          Man räknar också med att endast två av tio av anmälningar som
-          handlar om barnmisshandel och sexuella övergrepp mot barn leder
-          till åtal. Alltför många förundersökningar läggs ned. Alltför
-          många utsatta barn och namngivna gärningsmän förhörs inte.
-        </p>
-        <p xml:id="i-7odyjcm9m31w4UMCJaX8aP">
-          Barn som far illa, men då LVU inte är tillämplig, hamnar ofta
-          i en gråzon utan stöd.
-        </p>
-        <p xml:id="i-C21wthUfPXptL29yfniDHs">
-          I dag får barn och ungdomar ofta hjälp och stöd först när problemen
-          blivit befästa och svårlösta. Att sätta in åtgärder först i tonåren
-          är dessvärre ofta för sent. Ungdomarna har då redan många misslyckanden
-          bakom sig och har befäst ett destruktivt beteende. Vi måste också
-          återupprätta alla abdikerade föräldrar och vuxna. Vi kommer aldrig
-          att kunna hjälpa barn och ungdomar med problem om vi inte räknar
-          med föräldrarna.
-        </p>
-        <p xml:id="i-QKfr4ojGjDx2Dojh52tX8V">
-          Som politiker måste vi lägga problemen på bordet och se att socialtjänstens
-          arbete måste förändras i grunden.
-        </p>
-        <p xml:id="i-JcUjN8aUnVpF7SocSNLwHu">
-          Jag har pratat med några socialsekreterare den senaste tiden
-          som bekräftar att det är inte mycket socialtjänsten kan göra i
-          dag för att faktiskt hjälpa utsatta barn. Att erbjuda kontaktpersoner
-          @ som inte finns @ eller stödsamtal hos en kanske oerfaren sekreterare
-          är inte tillräckligt för att hjälpa utsatta barn.
-        </p>
-        <p xml:id="i-8BNBgeX1Lt59SoLgfTTi9d">
-          Det finns förstås även goda exempel på hur socialtjänsten arbetar.
-          Många arbetar dock ofta på ungefär samma sätt som för 20 år sedan.
-          Man brottas med samma problem som då och som i viss mån har förvärrats.
-        </p>
-        <p xml:id="i-QpMwdRQKdDFNZuQsjVFto8">
-          Jag vet att det pågår en parlamentarisk utredning för närvarande
-          och jag hoppas verkligen att den mynnar ut i att de förebyggande
-          och de tidiga insatserna kommer att prioriteras liksom att socialtjänsten
-          får bättre "muskler" i framtiden.
-        </p>
-        <p xml:id="i-4jcbZoKB7BWurP8FrvBMGg">
-          Mina frågor till statsrådet är:
-        </p>
-        <p xml:id="i-XPTGVmoYouiVvjhHd7rijQ">
-          Vilka åtgärder avser statsrådet att vidta med anledning av ovan
-          beskrivna problembilder?
-        </p>
-        <p xml:id="i-DwDdANVRc2PnXAmBHNq24V">
-          Avser statsrådet att vidta några åtgärder för att påskynda förändringsarbetet
-          inom socialtjänsten?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-XWtwtJ4YnMatuESvbaL4Ce">
+            Det har talats mycket om apatiska barn under senare tid. Det
+            är en grupp barn som vi tidigare inte haft kunskap om och som
+            far mycket illa i Sverige i dag. Hanteringen av de här barnen
+            innebär tyvärr att vi satt taket väldigt högt för hur mycket barn
+            ska tåla @ trots allt tal om barnkonventionen och barns bästa.
+            Om inte dessa barn behöver samhällets stöd och skydd är frågan
+            vilka barn som kan bedömas behöva det.
+          </p>
+          <p xml:id="i-7ZM8RB9RstmQzTyv5dVPzd">
+            I Sverige finns andra grupper av barn som far illa eller riskerar
+            att utvecklas ogynnsamt, vars problem vi känt till i decennier.
+            Det är barn till missbrukare, psykiskt sjuka eller barn som växer
+            upp med föräldrar med bristande förmåga att tillgodose deras behov.
+            Socialtjänsten har ett stort ansvar för alla dessa barn.
+          </p>
+          <p xml:id="i-G52PqjKDGjKwF3ecK2qbXU">
+            Hur ser då situationen ut i verkligheten? Vilket stöd får barnen
+            i praktiken? Jag vill peka på några (miss-)förhållanden som är
+            dokumenterade i olika rapporter, däribland Socialstyrelsens rapport
+            Social tillsyn 2003.
+          </p>
+          <p xml:id="i-KQt5nBuX4duHDoUA3nQmnL">
+            Personal som har anmälningsskyldighet enligt socialtjänstlagen
+            fullgör @ av olika skäl @ inte sin skyldighet i tillräcklig utsträckning.
+          </p>
+          <p xml:id="i-9wFSBiRmqTHa9NxErCHTbG">
+            Endast cirka hälften av alla anmälningar om att barn far illa
+            leder till utredning av kommunernas socialtjänster. Det uppgav
+            Ekot för något år sedan efter att ha kartlagt 200 av landets 290
+            kommuner. I fjol gjordes totalt 48 500 anmälningar i dessa kommuner.
+            24 700 ledde till utredning. Socialstyrelsen konstaterar också
+            i sin rapport att många anmälningar inte utreds.
+          </p>
+          <p xml:id="i-Nk1NktSDrK6Bd17r8A391d">
+            Barn inom familjehemsvården liksom placeringar på institutioner
+            följs inte upp.
+          </p>
+          <p xml:id="i-FCSLgopRx918KUSdF7ZpTG">
+            Barn som har behov av barnpsykiatriska insatser får inte den
+            hjälp de behöver. Vi känner alla till de långa köerna till barnpsyk.
+          </p>
+          <p xml:id="i-3Jd2bs8AAfAV5Aapyg4Qz9">
+            Barnperspektivet har fortfarande inte fått genomslag. Barn där
+            vuxnas problem står i centrum har svårt att få stöd och behandling.
+          </p>
+          <p xml:id="i-SWo6UgxUwf5otpVWULTUex">
+            Det är på sina håll svårt att rekrytera kvalificerad personal
+            till arbetet med barn och familjer inom socialtjänsten.
+          </p>
+          <p xml:id="i-VsBPwGzg2jaHjTjYMhvX5a">
+            Kommunerna väntar ibland alltför länge med att utreda barn som
+            far illa.
+          </p>
+          <p xml:id="i-HW8AiTPgGU9sZRCJSnaQXX">
+            I länsstyrelsens tillsyn visar verksamhetsområdet: barn och unga
+            familjer, flest brister. I drygt 40 % av tillsynsärendena konstateras
+            brister.
+          </p>
+          <p xml:id="i-3JE8Ghurhjmccf2zuFqqUK">
+            Vidare finns en tendens att behovsbedömningen anpassas till de
+            resurser som finns inom socialtjänsten. Den sätts inte i relation
+            till det enskilda barnets behov av behandling. Trots att antalet
+            anmälningar ökar visar HSB-hemmen en minskad efterfrågan på behandlingshemsplatser.
+          </p>
+          <p xml:id="i-QY51DFKQtwBXmf1oDm5WMj">
+            Förebyggande insatser för barn och ungdomar som socialtjänsten
+            finansierat dras in.
+          </p>
+          <p xml:id="i-2GcWjJH9aorotpgEbaeQ1G">
+            Kommunerna har svårt att rekrytera och stödja kontaktpersoner
+            och kontaktfamiljer som tillsammans med stödsamtal är de vanligaste
+            insatserna för barn i den frivilliga socialtjänsten.
+          </p>
+          <p xml:id="i-UdVuoC27TouRNWTX1NcqMD">
+            Kommunerna har också svårt att rekrytera familjehem @ särskilt
+            till barn med neuropsykiatriska funktionshinder.
+          </p>
+          <p xml:id="i-3vPZfwMcS3wAtBGC1UvtCN">
+            Man räknar också med att endast två av tio av anmälningar som
+            handlar om barnmisshandel och sexuella övergrepp mot barn leder
+            till åtal. Alltför många förundersökningar läggs ned. Alltför
+            många utsatta barn och namngivna gärningsmän förhörs inte.
+          </p>
+          <p xml:id="i-2giycER2pZ31yKxy59tgF5">
+            Barn som far illa, men då LVU inte är tillämplig, hamnar ofta
+            i en gråzon utan stöd.
+          </p>
+          <p xml:id="i-PCeK856FL684HGpwA4JHXa">
+            I dag får barn och ungdomar ofta hjälp och stöd först när problemen
+            blivit befästa och svårlösta. Att sätta in åtgärder först i tonåren
+            är dessvärre ofta för sent. Ungdomarna har då redan många misslyckanden
+            bakom sig och har befäst ett destruktivt beteende. Vi måste också
+            återupprätta alla abdikerade föräldrar och vuxna. Vi kommer aldrig
+            att kunna hjälpa barn och ungdomar med problem om vi inte räknar
+            med föräldrarna.
+          </p>
+          <p xml:id="i-Bfs2KxYYr8bdp2dv3EwNUf">
+            Som politiker måste vi lägga problemen på bordet och se att socialtjänstens
+            arbete måste förändras i grunden.
+          </p>
+          <p xml:id="i-JUU3mCqxhfobGKABhRbmz7">
+            Jag har pratat med några socialsekreterare den senaste tiden
+            som bekräftar att det är inte mycket socialtjänsten kan göra i
+            dag för att faktiskt hjälpa utsatta barn. Att erbjuda kontaktpersoner
+            @ som inte finns @ eller stödsamtal hos en kanske oerfaren sekreterare
+            är inte tillräckligt för att hjälpa utsatta barn.
+          </p>
+          <p xml:id="i-SMgm15YUga5EMs6veoL8pf">
+            Det finns förstås även goda exempel på hur socialtjänsten arbetar.
+            Många arbetar dock ofta på ungefär samma sätt som för 20 år sedan.
+            Man brottas med samma problem som då och som i viss mån har förvärrats.
+          </p>
+          <p xml:id="i-Dxpgp9necFWjNBiq9qdgnD">
+            Jag vet att det pågår en parlamentarisk utredning för närvarande
+            och jag hoppas verkligen att den mynnar ut i att de förebyggande
+            och de tidiga insatserna kommer att prioriteras liksom att socialtjänsten
+            får bättre "muskler" i framtiden.
+          </p>
+          <p xml:id="i-2MQ4o7NMRVoZcVBDXpAdXa">
+            Mina frågor till statsrådet är:
+          </p>
+          <p xml:id="i-Gz8DKM2MoFHw9zPCW2Uhb4">
+            Vilka åtgärder avser statsrådet att vidta med anledning av ovan
+            beskrivna problembilder?
+          </p>
+          <p xml:id="i-FfnhgTahUcPBBBEMxzRQZD">
+            Avser statsrådet att vidta några åtgärder för att påskynda förändringsarbetet
+            inom socialtjänsten?
+          </p>
+        </div>
       </div>
     </body>
   </text>

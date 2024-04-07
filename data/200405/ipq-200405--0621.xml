@@ -3,105 +3,140 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>lärarnas status</title>
+        <author>Lindström, Torsten (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>lärarnas status till statsrådet Ibrahim Baylan om lärarnas status</title>
+          <idno type="rdwebb">GS10621</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10621/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10621</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10621</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-BUsYTbnmyQrtHXSA2gEp9T</idno>
+            <persName>Torsten Lindström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-WopSXz2xueQ2JZhwserjQn" corresp="i-BUsYTbnmyQrtHXSA2gEp9T">
+          <date when="2005-05-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RtzC8HuM1rN9t9d85tesjQ">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QkmmKgAEWeoiBUi6iVR5DE">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HQX4FyPUWaX73F2TS73yRo" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-K39qQrXszbcVkabmv3x2Jf" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspContext corresp="i-K39qQrXszbcVkabmv3x2Jf">
+          <ref type="record" target="prot-200405--135">Riksdagens protokoll 2004/05:135 Onsdagen den 8 juni</ref>
+          <ref type="recordSection" target="unsetDivId">32 § Svar på interpellation 2004/05:621 om lärarnas status</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0621</head>
-        <author who="i-BUsYTbnmyQrtHXSA2gEp9T">Torsten Lindström</author>
-        <recipient who="i-A6T9WoUzRwW8LUK52znHwX">Ibrahim Baylan</recipient>
-        <topic>lärarnas status</topic>
-        <docDate when="2005-05-20">den 20 maj</docDate>
-        <status when="2005-06-08" byWhom="Ibrahim Baylan" byWhomId="i-A6T9WoUzRwW8LUK52znHwX" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10621</external_id>
-        <debate>
-          <turn when="2005-06-08 20:45:42" duration="304">Ibrahim Baylan (S)</turn>
-          <turn when="2005-06-08 20:50:43" duration="260">Torsten Lindström (Kd)</turn>
-          <turn when="2005-06-08 20:54:59" duration="213">Ibrahim Baylan (S)</turn>
-          <turn when="2005-06-08 20:58:28" duration="252">Torsten Lindström (Kd)</turn>
-          <turn when="2005-06-08 21:02:36" duration="259">Ibrahim Baylan (S)</turn>
-          <turn when="2005-06-08 21:06:51" duration="132">Torsten Lindström (Kd)</turn>
-          <turn when="2005-06-08 21:08:59" duration="146">Ibrahim Baylan (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:621 av Torsten Lindström (kd) till statsrådet
-          Ibrahim Baylan om lärarnas status
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Qj4PZWEwwecjRjHJZr24FS">
+            Interpellation 2004/05:621 av Torsten Lindström (kd) till statsrådet
+            Ibrahim Baylan om lärarnas status
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LiD7VnipicbBH8mupXREL5">
+            den 20 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8nK5oojZaBiBaABTxzzndk">
-          Enligt en ny undersökning bland 1 200 svenska lärare ägnar varje
-          dag fyra av tio lärare en betydande del av sin arbetstid till
-          att skapa lugn och ro i klassrummet. Svenska elever kommer för
-          sent, de får ingen arbetsro, lärare och annan personal blir utsatta
-          för våld på jobbet. Alltfler lärare @ särskilt kvinnliga lärare
-          @ går in i väggen, knäckta av åratal av slit och långsamt men
-          stadigt försämrade möjligheter att utföra sitt yrke. Detta är
-          larmsignaler som måste tas på allvar.
-        </p>
-        <p xml:id="i-AKLk5vNneQz6CKz4kwKrS5">
-          Trots att ca 20 % av samtliga läraranställda, det vill säga närmare
-          35 000 personer, var obehöriga 2004 utannonseras få lärartjänster
-          på arbetsmarknaden. Arbetslösheten har ökat bland utexaminerade
-          lärare, främst grundskollärare. De obehöriga lärarna har börjat
-          tränga ut de behöriga från arbetsmarknaden. Vid en jämförelse
-          med övriga nordiska länder, eller med genomsnittet för OECD-länder,
-          kan noteras att Sverige är sämst på att anställa behöriga lärare.
-        </p>
-        <p xml:id="i-UubR5efvcbvcsZDakroBZ7">
-          Ett system som väljer bort lärarutbildad personal är svårmotiverat
-          och riskerar att i sig ytterligare minska rekryteringen till lärarutbildning,
-          vilket naturligtvis bidrar till en ännu högre andel läraranställda
-          utan lärarexamen. Det är helt otillständigt. För att elever, föräldrar
-          och samhället i övrigt ska ha förtroende för skolan måste skolan
-          vara fylld av kompetent professionell personal. De som examineras
-          från lärarutbildningarna framöver kommer enbart att räcka till
-          att ersätta dem som går i pension, inte avhoppen, sjukskrivningarna
-          eller utökade behov. Med ambitionen att alla lärare i grundskolan
-          ska ha lärarexamen kommer behovet av lärare inte att kunna tillgodoses
-          till år 2010 om inga ytterligare åtgärder vidtas.
-        </p>
-        <p xml:id="i-BJsfYvhk7wuytiQ5beS9QC">
-          En rad insatser behövs för att öka attraktiviteten hos lärarutbildningarna
-          och läraryrket.
-        </p>
-        <p xml:id="i-HAU9m1y6VkH57Tea5QwGSa">
-          Mot bakgrund av det ovan anförda vill jag fråga skolministern:
-        </p>
-        <p xml:id="i-16rVw6qbwcEinnBj4xJVRf">
-          Vilka åtgärder avser statsrådet att vidta för att öka läraryrkets
-          attraktivitet och status?
-        </p>
-        <p xml:id="i-24tiwejiReqMKuCkWPTLxb">
-          Vilka åtgärder avser statsrådet att vidta för att säkerställa
-          att skolan har lärare med rätt utbildning?
-        </p>
-        <p xml:id="i-TJwg2r4Zvjut9xceCuLBDT">
-          Vilka åtgärder avser statsrådet att vidta för att minska antalet
-          sjukskrivna och utbrända lärare?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RgkPCzz1HegEEfHDp4MqD6">
+            Enligt en ny undersökning bland 1 200 svenska lärare ägnar varje
+            dag fyra av tio lärare en betydande del av sin arbetstid till
+            att skapa lugn och ro i klassrummet. Svenska elever kommer för
+            sent, de får ingen arbetsro, lärare och annan personal blir utsatta
+            för våld på jobbet. Alltfler lärare @ särskilt kvinnliga lärare
+            @ går in i väggen, knäckta av åratal av slit och långsamt men
+            stadigt försämrade möjligheter att utföra sitt yrke. Detta är
+            larmsignaler som måste tas på allvar.
+          </p>
+          <p xml:id="i-DGuHTMVggLM6D6f1aH53DP">
+            Trots att ca 20 % av samtliga läraranställda, det vill säga närmare
+            35 000 personer, var obehöriga 2004 utannonseras få lärartjänster
+            på arbetsmarknaden. Arbetslösheten har ökat bland utexaminerade
+            lärare, främst grundskollärare. De obehöriga lärarna har börjat
+            tränga ut de behöriga från arbetsmarknaden. Vid en jämförelse
+            med övriga nordiska länder, eller med genomsnittet för OECD-länder,
+            kan noteras att Sverige är sämst på att anställa behöriga lärare.
+          </p>
+          <p xml:id="i-MXhhNiu2u8CuHZyv6xu6p">
+            Ett system som väljer bort lärarutbildad personal är svårmotiverat
+            och riskerar att i sig ytterligare minska rekryteringen till lärarutbildning,
+            vilket naturligtvis bidrar till en ännu högre andel läraranställda
+            utan lärarexamen. Det är helt otillständigt. För att elever, föräldrar
+            och samhället i övrigt ska ha förtroende för skolan måste skolan
+            vara fylld av kompetent professionell personal. De som examineras
+            från lärarutbildningarna framöver kommer enbart att räcka till
+            att ersätta dem som går i pension, inte avhoppen, sjukskrivningarna
+            eller utökade behov. Med ambitionen att alla lärare i grundskolan
+            ska ha lärarexamen kommer behovet av lärare inte att kunna tillgodoses
+            till år 2010 om inga ytterligare åtgärder vidtas.
+          </p>
+          <p xml:id="i-LyCzNXEaSHJwFf558NKm3V">
+            En rad insatser behövs för att öka attraktiviteten hos lärarutbildningarna
+            och läraryrket.
+          </p>
+          <p xml:id="i-Uy9hbJCyVru6nneanYmrkZ">
+            Mot bakgrund av det ovan anförda vill jag fråga skolministern:
+          </p>
+          <p xml:id="i-BS91QXbMDxHukfp2rejne6">
+            Vilka åtgärder avser statsrådet att vidta för att öka läraryrkets
+            attraktivitet och status?
+          </p>
+          <p xml:id="i-End5vbuDAoRH7SDC9QZf5P">
+            Vilka åtgärder avser statsrådet att vidta för att säkerställa
+            att skolan har lärare med rätt utbildning?
+          </p>
+          <p xml:id="i-WzJ2bCvBsNx91Enridhq5T">
+            Vilka åtgärder avser statsrådet att vidta för att minska antalet
+            sjukskrivna och utbrända lärare?
+          </p>
+        </div>
       </div>
     </body>
   </text>

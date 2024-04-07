@@ -3,86 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>finlandssvenskarnas status</title>
+        <author>Lundgren, Kerstin (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>finlandssvenskarnas status till statsrådet Jens Orback om finlandssvenskarnas status</title>
+          <idno type="rdwebb">GS10418</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10418/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10418</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10418</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
+            <persName>Kerstin Lundgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-99Qe2EmcQGeZ278Zh4YYRA" corresp="i-H7qdW9GRQn7LaQ2UGGAvYC">
+          <date when="2005-02-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-723jn8pRHeh8fSG7ccMF7Q" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MmZKHEQdA53TahL4FN5nYg">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PyWhpLpHedokDonwrwLqyw" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspContext corresp="i-PyWhpLpHedokDonwrwLqyw">
+          <ref type="record" target="prot-200405--089">Riksdagens protokoll 2004/05:89 Fredagen den 11 mars</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2004/05:418 om finlandssvenskarnas status</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0418</head>
-        <author who="i-H7qdW9GRQn7LaQ2UGGAvYC">Kerstin Lundgren</author>
-        <recipient who="i-UEQA68w6PM78ttj4KfvgwE">Jens Orback</recipient>
-        <topic>finlandssvenskarnas status</topic>
-        <docDate when="2005-02-23">den 23 februari</docDate>
-        <status when="2005-03-11" byWhom="Jens Orback" byWhomId="i-UEQA68w6PM78ttj4KfvgwE" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10418</external_id>
-        <debate>
-          <turn when="2005-03-11 11:12:36" duration="184">Jens Orback (S)</turn>
-          <turn when="2005-03-11 11:15:36" duration="263">Kerstin Lundgren (C)</turn>
-          <turn when="2005-03-11 11:19:55" duration="197">Jens Orback (S)</turn>
-          <turn when="2005-03-11 11:23:08" duration="248">Kerstin Lundgren (C)</turn>
-          <turn when="2005-03-11 11:27:12" duration="94">Jens Orback (S)</turn>
-          <turn when="2005-03-11 11:28:43" duration="138">Kerstin Lundgren (C)</turn>
-          <turn when="2005-03-11 11:30:57" duration="137">Jens Orback (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:418 av Kerstin Lundgren (c) till statsrådet
-          Jens Orback om finlandssvenskarnas status
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BXZpoqgHCEW5VE4mH1PAvk">
+            Interpellation 2004/05:418 av Kerstin Lundgren (c) till statsrådet
+            Jens Orback om finlandssvenskarnas status
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-YDRbaFkRfvbyYs4soTYXg3">
+            den 23 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-9zPUzN3SpybwsfX9CFQJDA">
-          I dag finns runt 100 000 finlandssvenskar, det vill säga svenskspråkiga
-          finländare i Sverige. Det gör dem till vårt lands näst största
-          minoritetsgrupp, efter sverigefinnarna. När Sverige 1999 fattade
-          beslut om att ratificera Europarådets ramkonvention om skydd för
-          nationella minoriteter föll frågan om finlandssvenskarna mellan
-          stolarna, då endast sverigefinnarna, det vill säga de finskspråkiga
-          finländarna i Sverige kom att räknas som nationell minoritet.
-        </p>
-        <p xml:id="i-7c61SHYjDPRTb8dVqa89J6">
-          Detta trots att finlandssvenskarna uppfyller de kriterier för
-          minoritetsstatus som Europarådets ramkonvention för skydd av nationella
-          minoriteter ställer:
-        </p>
-        <p xml:id="i-LmmZgiytrVuaErwcB7QXLk">
-          Finlandssvenskarnas oklara status har nu fått till följd att
-          Finlandssvenskarnas riksförbund, med ca 4 000 medlemmar inte längre
-          är berättigade till verksamhetsbidrag från Integrationsverket,
-          eftersom de inte räknas som invandrare. De är inte heller berättigade
-          till bidrag från Justitiedepartementet eftersom de inte räknas
-          som nationell minoritet. Följden av detta blir att finlandssvenskarnas
-          möjligheter att bevara den finlandssvenska kulturen i stort sett
-          blivit obefintlig.
-        </p>
-        <p xml:id="i-KphFLY74sLM8ucGKFk2Zqu">
-          Mot bakgrund av ovanstående står det klart att finlandssvenskarnas
-          status en gång för alla måste klargöras.
-        </p>
-        <p xml:id="i-4vHiKFJE8EbDeX1Y6FjiAM">
-          Vad avser statsrådet att vidta för åtgärder för att klarlägga
-          finlandssvenskarnas status?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FeYjc2A9J32BCGwMtpUa8a">
+            I dag finns runt 100 000 finlandssvenskar, det vill säga svenskspråkiga
+            finländare i Sverige. Det gör dem till vårt lands näst största
+            minoritetsgrupp, efter sverigefinnarna. När Sverige 1999 fattade
+            beslut om att ratificera Europarådets ramkonvention om skydd för
+            nationella minoriteter föll frågan om finlandssvenskarna mellan
+            stolarna, då endast sverigefinnarna, det vill säga de finskspråkiga
+            finländarna i Sverige kom att räknas som nationell minoritet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-8MScT6qpkwLhg4mVjdsGsx">
+            Detta trots att finlandssvenskarna uppfyller de kriterier för
+            minoritetsstatus som Europarådets ramkonvention för skydd av nationella
+            minoriteter ställer:
+            <list rend="unordered">
+              <item>
+                Finlandssvenskarna har en uttalad samhörighet.
+              </item>
+              <item>
+                De är till antalet inte i en dominerande ställning till resten
+                av befolkningen.
+              </item>
+              <item>
+                De har en traditionell och kulturell särart.
+              </item>
+              <item>
+                De har historiska band till Sverige.
+              </item>
+              <item>
+                De har en självidentifikation där både individerna och finlandssvenskarna
+                som grupp vill behålla sin finlandssvenska identitet.
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-LszoqhinmytsPZxW9DTxJ3">
+            Finlandssvenskarnas oklara status har nu fått till följd att
+            Finlandssvenskarnas riksförbund, med ca 4 000 medlemmar inte längre
+            är berättigade till verksamhetsbidrag från Integrationsverket,
+            eftersom de inte räknas som invandrare. De är inte heller berättigade
+            till bidrag från Justitiedepartementet eftersom de inte räknas
+            som nationell minoritet. Följden av detta blir att finlandssvenskarnas
+            möjligheter att bevara den finlandssvenska kulturen i stort sett
+            blivit obefintlig.
+          </p>
+          <p xml:id="i-QdNKnC1T2BXKhiPbMY1T92">
+            Mot bakgrund av ovanstående står det klart att finlandssvenskarnas
+            status en gång för alla måste klargöras.
+          </p>
+          <p xml:id="i-YYV1bg2CJUnTsVPm3YnyuF">
+            Vad avser statsrådet att vidta för åtgärder för att klarlägga
+            finlandssvenskarnas status?
+          </p>
+        </div>
       </div>
     </body>
   </text>

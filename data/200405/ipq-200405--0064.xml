@@ -3,156 +3,189 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>åtgärder för regelförenkling</title>
+        <author>von Sydow, Henrik (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>åtgärder för regelförenkling till näringsminister Leif Pagrotsky om åtgärder för regelförenkling</title>
+          <idno type="rdwebb">GS1064</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1064/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1064</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1064</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-TSGehE1rwudkXFF6bgJHmH</idno>
+            <persName>Henrik von Sydow</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JALYYkZMVU4g2ufPNfT3Hb" corresp="i-TSGehE1rwudkXFF6bgJHmH">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Enc7Rg4nLP8NPRQ1uXJcoA">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PCbhHTa2jaYPbTXebNAQfb">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VaSrjide4oJtE6Wjd4gyx8" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HCW8KQVMqQbhCqjpFM9Qw1" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-HCW8KQVMqQbhCqjpFM9Qw1">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:64 om åtgärder för regelförenkling</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0064</head>
-        <author who="i-TSGehE1rwudkXFF6bgJHmH">Henrik von Sydow</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>åtgärder för regelförenkling</topic>
-        <docDate when="2004-10-21">den 21 oktober</docDate>
-        <status when="2004-11-23" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1064</external_id>
-        <debate>
-          <turn when="2004-11-23 18:59:23" duration="137">Thomas Östros (S)</turn>
-          <turn when="2004-11-23 19:01:36" duration="216">Henrik von Sydow (M)</turn>
-          <turn when="2004-11-23 19:05:09" duration="245">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-23 19:09:11" duration="238">Thomas Östros (S)</turn>
-          <turn when="2004-11-23 19:12:58" duration="149">Henrik von Sydow (M)</turn>
-          <turn when="2004-11-23 19:15:23" duration="138">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-23 19:17:38" duration="117">Thomas Östros (S)</turn>
-          <turn when="2004-11-23 19:19:32" duration="135">Henrik von Sydow (M)</turn>
-          <turn when="2004-11-23 19:21:39" duration="79">Thomas Östros (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:64 av Henrik von Sydow (m) till näringsminister
-          Leif Pagrotsky om åtgärder för regelförenkling
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KgGjsiAWCYpAoSdJnkbvDn">
+            Interpellation 2004/05:64 av Henrik von Sydow (m) till näringsminister
+            Leif Pagrotsky om åtgärder för regelförenkling
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FQi7N42hBg21KtM2s74YbN">
+            den 21 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ChVz8sQMPZHApaWLccKWp9">
-          I årets skrivelse från regeringen om regelförenklingsarbetet
-          framhålls att handlingsplaner, handlingsprogram och åtgärdsplaner
-          för att minska företagens administrativa börda ska tas fram, och
-          att ett kvantitativt mål för regelförenklingsarbetet ska sättas
-          upp. Regeringen beskriver hur seminarier genomförts med generaldirektörer
-          och tjänstemän från ett stort antal myndigheter, hur nya möten
-          planeras och vilka planer för regelförenkling som planeras. Regeringens
-          så kallade handlingsplan tycks bestå i att arbetet med regelförenkling
-          ska "fortgå med oförminskad kraft" och ha "hög prioritet".
-        </p>
-        <p xml:id="i-8TUhvNeShwMhntsEcHfmgc">
-          Regeringens egen beskrivning av arbetet står i bjärt kontrast
-          till den granskning som Riksrevisionen presenterade den 18 oktober.
-          Rapporten slår fast att regeringen lägger ned för lite kraft och
-          resurser på att på allvar försöka förenkla befintliga regler för
-          företagare i Sverige. Riksrevisionen framhåller att det i stort
-          sett saknas resurser för att förenkla de lagar och regler som
-          finns i dag och att det dessutom finns en brist på förståelse
-          hos de offentliga aktörerna var regelbördan och byråkratin för
-          företagare uppstår.
-        </p>
-        <p xml:id="i-46x3V3sEkxechXtALEj55a">
-          Därtill visar Näringslivets nämnd för regelförenkling att riksdag,
-          regering och myndigheter också det här året i en aldrig sinande
-          ström fortsätter att belasta företagarna med nya administrativa
-          krav som både tar tid och driver upp kostnaderna. I fler än hälften
-          av förslagen till nya företagsregler så ökar de administrativa
-          kostnaderna @ i bara 16 % av förslagen så minskar de. Trenden
-          är tydlig @ ökningstakten är tre gånger så stor som minskningstakten
-          räknat i antalet förslag.
-        </p>
-        <p xml:id="i-TnSoHDq9KxQzLGh7dLi8K1">
-          Det här måste ses mot bakgrund av tiotals år av kraftig regelinflation,
-          där företagsregler har ökat med ungefär 4 % per år, och där regeringen,
-          trots tillsättande av arbetsgrupper och utställda löften misslyckats
-          med att lätta på regelbördan. Den utveckling som pågår har fått
-          jurister att tala om "hyperlexi", som ett sätt att beskriva hur
-          politiker och tjänstemän gör varje aspekt av företagsamhet till
-          byråkrati, med regler som är svåra eller omöjliga att förstå sig
-          på utan expertkompetens.
-        </p>
-        <p xml:id="i-5oSshoxJWaCuntYFPBTPno">
-          Därför är det stora uppdraget för regeringen att minska den totala
-          regelmängden. Den blir en snårskog som ökar rättsosäkerheten och
-          otryggheten. Problemet är sällan att en enskild regel är krånglig
-          eller svår. Det är när regel adderas till regel, när förordning
-          adderas till förordning som det blir just en snårskog som det
-          är omöjligt att överblicka, även om de enskilda reglerna i sig
-          inte är speciellt svåra att begripa. Därför är ett mål för regelförenklingsarbetet
-          essentiellt.
-        </p>
-        <p xml:id="i-Y3fs1aC8kHETMkjrxocrqT">
-          Vi vet i dag att de omfattande och växande regelsystemen fjättrar
-          och binder företagarnas kreativitet. OECD (Businesses' views on
-          red tape, 2001) räknar med att kostnaden i Sverige för att administrera
-          lagar och regler är nästan 200 000 kr per företag. En oproportionerlig
-          del av kostnaden faller på små företag. Kostnaden är omkring 30
-          000 kr per anställd för företag med 1@19 anställda, medan den
-          för större företag är omkring 6 000 kr per år och anställd. För
-          samhället kan hela kostnaden uppskattas till 50 miljarder kronor
-          per år. Förmodligen är kostnaden än större, eftersom den mätbara
-          kostnaden endast är kostnaden för existerande företag för att
-          följa lagar och regler. Till detta kommer kostnaden för att många
-          företag aldrig blir till.
-        </p>
-        <p xml:id="i-155AG3HTEzJK9DPgfBAjS7">
-          Riksrevisionen föreslår i den ovan nämnda granskningen att regeringen
-          undersöker möjligheten att också räkna in övriga kostnader för
-          företagen att leva upp till reglerna. Tvingar till exempel arbetsmiljöregler
-          ett företag att byta ventilationssystem tillkommer kostnaderna
-          för inköpet av ett nytt system förutom pappersarbetet kring förändringen.
-        </p>
-        <p xml:id="i-JPj7iXjHVugGwFDMLWoPiN">
-          Till sist: Naturligtvis ska det finnas rimliga, rättvisa och
-          tydliga regler. Sådana regler som öppnar för konkurrens och effektiv
-          feedback, men som inte slår ut eller styr själva resultatet. Onödiga
-          eller otydliga regler betyder det motsatta: byråkrati som tar
-          tid och resurser från företagare att konkurrera och utmana genom
-          att erbjuda bättre produkter eller tjänster. Det är därför riksdagen
-          har beslutat att arbetet med förenklingar av reglerna för företag
-          ska prioriteras.
-        </p>
-        <p xml:id="i-FoqKf1hqsQbTT69qeUXNnw">
-          Mot bakgrund av ovanstående blir mina frågor till näringsministern:
-        </p>
-        <p xml:id="i-GJSDwaPx5gKELeB8LKPfR3">
-          När avser näringsministern att upprätta ett mål för att minska
-          regelmängden och företagens administrativa börda?
-        </p>
-        <p xml:id="i-66dUHRi1uty7og7hPwQXmM">
-          Vilka konkreta förslag avser näringsministern att lämna för att
-          minska företagens kostnader för administration och byråkrati som
-          är följden av statliga regleringar?
-        </p>
-        <p xml:id="i-PRktznXs9m3Mfe3LLHVQZV">
-          Vilka åtgärder avser näringsministern att vidta för att ge offentliga
-          beslutsfattare en bättre och mer sammanhållen bild av lagförslagens
-          konsekvenser för företagens kostnader och för konkurrensen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Qq2erkvWrU9jfcz9LMr2ra">
+            I årets skrivelse från regeringen om regelförenklingsarbetet
+            framhålls att handlingsplaner, handlingsprogram och åtgärdsplaner
+            för att minska företagens administrativa börda ska tas fram, och
+            att ett kvantitativt mål för regelförenklingsarbetet ska sättas
+            upp. Regeringen beskriver hur seminarier genomförts med generaldirektörer
+            och tjänstemän från ett stort antal myndigheter, hur nya möten
+            planeras och vilka planer för regelförenkling som planeras. Regeringens
+            så kallade handlingsplan tycks bestå i att arbetet med regelförenkling
+            ska "fortgå med oförminskad kraft" och ha "hög prioritet".
+          </p>
+          <p xml:id="i-XKg1DbgT8cyxi7f9qgXxWo">
+            Regeringens egen beskrivning av arbetet står i bjärt kontrast
+            till den granskning som Riksrevisionen presenterade den 18 oktober.
+            Rapporten slår fast att regeringen lägger ned för lite kraft och
+            resurser på att på allvar försöka förenkla befintliga regler för
+            företagare i Sverige. Riksrevisionen framhåller att det i stort
+            sett saknas resurser för att förenkla de lagar och regler som
+            finns i dag och att det dessutom finns en brist på förståelse
+            hos de offentliga aktörerna var regelbördan och byråkratin för
+            företagare uppstår.
+          </p>
+          <p xml:id="i-GgG2qA6YPuDoDojLPJCXG7">
+            Därtill visar Näringslivets nämnd för regelförenkling att riksdag,
+            regering och myndigheter också det här året i en aldrig sinande
+            ström fortsätter att belasta företagarna med nya administrativa
+            krav som både tar tid och driver upp kostnaderna. I fler än hälften
+            av förslagen till nya företagsregler så ökar de administrativa
+            kostnaderna @ i bara 16 % av förslagen så minskar de. Trenden
+            är tydlig @ ökningstakten är tre gånger så stor som minskningstakten
+            räknat i antalet förslag.
+          </p>
+          <p xml:id="i-LpQsnvhpNvfTFGrHHDSkHH">
+            Det här måste ses mot bakgrund av tiotals år av kraftig regelinflation,
+            där företagsregler har ökat med ungefär 4 % per år, och där regeringen,
+            trots tillsättande av arbetsgrupper och utställda löften misslyckats
+            med att lätta på regelbördan. Den utveckling som pågår har fått
+            jurister att tala om "hyperlexi", som ett sätt att beskriva hur
+            politiker och tjänstemän gör varje aspekt av företagsamhet till
+            byråkrati, med regler som är svåra eller omöjliga att förstå sig
+            på utan expertkompetens.
+          </p>
+          <p xml:id="i-H6kJUMh85U9TTSZDuRun2h">
+            Därför är det stora uppdraget för regeringen att minska den totala
+            regelmängden. Den blir en snårskog som ökar rättsosäkerheten och
+            otryggheten. Problemet är sällan att en enskild regel är krånglig
+            eller svår. Det är när regel adderas till regel, när förordning
+            adderas till förordning som det blir just en snårskog som det
+            är omöjligt att överblicka, även om de enskilda reglerna i sig
+            inte är speciellt svåra att begripa. Därför är ett mål för regelförenklingsarbetet
+            essentiellt.
+          </p>
+          <p xml:id="i-UAKPh7y9J8gBkDCJsbdNWF">
+            Vi vet i dag att de omfattande och växande regelsystemen fjättrar
+            och binder företagarnas kreativitet. OECD (Businesses' views on
+            red tape, 2001) räknar med att kostnaden i Sverige för att administrera
+            lagar och regler är nästan 200 000 kr per företag. En oproportionerlig
+            del av kostnaden faller på små företag. Kostnaden är omkring 30
+            000 kr per anställd för företag med 1@19 anställda, medan den
+            för större företag är omkring 6 000 kr per år och anställd. För
+            samhället kan hela kostnaden uppskattas till 50 miljarder kronor
+            per år. Förmodligen är kostnaden än större, eftersom den mätbara
+            kostnaden endast är kostnaden för existerande företag för att
+            följa lagar och regler. Till detta kommer kostnaden för att många
+            företag aldrig blir till.
+          </p>
+          <p xml:id="i-8tYiRdPpZ3xpMbiVSXHte6">
+            Riksrevisionen föreslår i den ovan nämnda granskningen att regeringen
+            undersöker möjligheten att också räkna in övriga kostnader för
+            företagen att leva upp till reglerna. Tvingar till exempel arbetsmiljöregler
+            ett företag att byta ventilationssystem tillkommer kostnaderna
+            för inköpet av ett nytt system förutom pappersarbetet kring förändringen.
+          </p>
+          <p xml:id="i-4GG5yHeFwym5hQwQoD1zCv">
+            Till sist: Naturligtvis ska det finnas rimliga, rättvisa och
+            tydliga regler. Sådana regler som öppnar för konkurrens och effektiv
+            feedback, men som inte slår ut eller styr själva resultatet. Onödiga
+            eller otydliga regler betyder det motsatta: byråkrati som tar
+            tid och resurser från företagare att konkurrera och utmana genom
+            att erbjuda bättre produkter eller tjänster. Det är därför riksdagen
+            har beslutat att arbetet med förenklingar av reglerna för företag
+            ska prioriteras.
+          </p>
+          <p xml:id="i-VG5uDDSoPvxacAozNtF9kA">
+            Mot bakgrund av ovanstående blir mina frågor till näringsministern:
+          </p>
+          <p xml:id="i-9WjW2LRGNTC27BAPsbg2Rx">
+            När avser näringsministern att upprätta ett mål för att minska
+            regelmängden och företagens administrativa börda?
+          </p>
+          <p xml:id="i-HGzgMtahD61dKWagURJx5T">
+            Vilka konkreta förslag avser näringsministern att lämna för att
+            minska företagens kostnader för administration och byråkrati som
+            är följden av statliga regleringar?
+          </p>
+          <p xml:id="i-R9fgoRRe3WboaG57KuM8rM">
+            Vilka åtgärder avser näringsministern att vidta för att ge offentliga
+            beslutsfattare en bättre och mer sammanhållen bild av lagförslagens
+            konsekvenser för företagens kostnader och för konkurrensen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

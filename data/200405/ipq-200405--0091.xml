@@ -3,135 +3,179 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>regeringens ansvar för e-demokrati</title>
+        <author>Gylling, Johnny (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>regeringens ansvar för e-demokrati till statsrådet Gunnar Lund om regeringens ansvar för e-demokrati</title>
+          <idno type="rdwebb">GS1091</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1091/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1091</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1091</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-PsSysCdjrkuVBAo163T4KM</idno>
+            <persName>Johnny Gylling</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-3vvYg3QgCfjNahGJkUBRoU" corresp="i-PsSysCdjrkuVBAo163T4KM">
+          <date when="2004-10-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3nkiFehVk7yZPV6jjyUGmk">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Ut3SWsd1ZrSsRyefeGotoa">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MNVojt3AYv6RrDb6o3dNYZ" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XWfLe9gsnSFGw2zFwpGizf" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspContext corresp="i-XWfLe9gsnSFGw2zFwpGizf">
+          <ref type="record" target="prot-200405--029">Riksdagens protokoll 2004/05:29 Måndagen den 15 november</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellation 2004/05:91 om regeringens ansvar för e-demokrati</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0091</head>
-        <author who="i-PsSysCdjrkuVBAo163T4KM">Johnny Gylling</author>
-        <recipient who="i-GRX2GfDazmcwmcRyZSiKdA">Gunnar Lund</recipient>
-        <topic>regeringens ansvar för e-demokrati</topic>
-        <docDate when="2004-10-29">den 29 oktober</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1091</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:91 av Johnny Gylling (kd) till statsrådet
-          Gunnar Lund om regeringens ansvar för e-demokrati
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QfPc5vkBU9ZskNf52MnCZe">
+            Interpellation 2004/05:91 av Johnny Gylling (kd) till statsrådet
+            Gunnar Lund om regeringens ansvar för e-demokrati
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FCH5Y5pPnT5o4TaBER7obq">
+            den 29 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Y9YeQBog6ARsSxi5UGsLrs">
-          Begreppet e-demokrati används allt flitigare. I grunden handlar
-          det om hur informationstekniken (IT) kan användas för att stärka
-          demokratin i samhället. Det kan handla om att offentliga tjänster
-          underlättas via Internet eller helt enkelt att offentlig information
-          blir mer lättillgänglig för allmänheten samt att det kan bli lättare
-          för var och en att göra sin röst hörd.
-        </p>
-        <p xml:id="i-PfgUFLaWngaiZn7tEbmASM">
-          För denna utveckling har regeringen ett särskilt ansvar. IT-politiken
-          var till att börja med ett slags isolerad företeelse. Politiker
-          ville påskynda utvecklingen och spridningen av den nya tekniken
-          ut till medborgarna genom exempelvis bidrag till bredbandssatsningar.
-          När marknaden för att bygga bredband var som hetast i slutet av
-          90-talet så utlovade regeringen statliga bidrag för fibernät.
-          Eftersom detta tog lång tid att utreda så väntade många aktörer
-          med byggandet och därefter kom den allmänna nedgången av IT-branschen.
-          Man kan säga att det blev en avkylning av en lite för upphettad
-          verksamhet. Den dåvarande s-regeringens saktfärdighet bidrog alltså
-          till att utbyggnaden av bredband i Sverige har gått långsammare
-          än vad den kunde gjort. Detta är ett exempel på dåligt ledarskap.
-        </p>
-        <p xml:id="i-3aXLngAMier1P1FZztmg4X">
-          Ett annat exempel är det sätt på vilket regeringen har hanterat
-          utvecklingen av den så kallade 24-timmarsmyndigheten. Tanken bakom
-          24-timmarsmyndigheten är att fler tjänster ska vara tillgängliga
-          via Internet dygnet runt för allmänheten. Exempel på detta kan
-          vara skattemyndighetens strävan att fler ska kunna deklarera sin
-          inkomst via Internet eller Vägverkets nya hemsida där alltfler
-          uppgifter kan skötas direkt vid datorn av medborgaren eller de
-          företag som är beroende av myndighetens service. 24-timmars myndigheten
-          är alltså viktig också för vårt näringslivs möjligheter att konkurrera
-          och skapa tillväxt i landet. En utbyggd självservice hos myndigheterna
-          kan också innebära att resurser kan användas på bättre sätt, till
-          exempel utbyggd patientkontakt i sjukvården.
-        </p>
-        <p xml:id="i-82jdYTEtCWbZPLVkyZm4xJ">
-          Nu har emellertid regeringen fått skarp kritik för den långsamma
-          utvecklingen av 24-timmarsmyndigheten. Riksrevisionen har i rapporten
-          Vem styr den elektroniska förvaltningen? från juni 2004 granskat
-          regeringens och myndigheternas arbete med att införa elektronisk
-          förvaltning. Vid granskningen har man funnit att elektroniska
-          tjänster som i första hand medför nytta för medborgare och företag
-          inte prioriterats. Myndigheterna har främst satsat på enklare
-          informationstjänster som ger ökad intern kostnadseffektivitet.
-          Avancerade interaktiva e-tjänster är fortfarande relativt ovanliga.
-          Rapportens slutsats är att regeringens styrning av myndigheternas
-          arbete med att införa elektronisk förvaltning har varit otydlig
-          och att bättre förutsättningar behövs för myndigheternas utveckling
-          av e-tjänster. Riksrevisionen bedömer också att riksdagen fått
-          mycket begränsad information från regeringen beträffande den faktiska
-          utvecklingen av e-förvaltningen.
-        </p>
-        <p xml:id="i-GLFZh6LTCDgAmzgJd7s223">
-          Myndigheterna har inga tydliga direktiv från regeringen att verkligen
-          satsa på denna utbyggnad. Det räcker inte med uppmaningar och
-          hejarop från regeringens sida när myndigheterna samtidigt åläggs
-          besparingskrav. Den kortsiktiga lösningen kan då bli att man avstår
-          IT-satsningar som i längden är rationaliserande och uppfyller
-          kravet på utbyggda offentliga tjänster.
-        </p>
-        <p xml:id="i-KRQk88AykgJhx8uoZTkkVg">
-          Kristdemokraterna har flera år pekat på den brittiska ledarskapsmodellen
-          med en så kallad e-envoy. I Storbritannien har regeringen lyft
-          IT-frågorna på högsta nivå och inte låtit myndigheter satsa på
-          verktyg för e-demokrati enbart i mån av tid och lust. Den svenska
-          regeringen förtjänar kritik för att inte visat ett bra ledarskap
-          för utveckling av e-demokratin.
-        </p>
-        <p xml:id="i-PruEMnhNVFXFGgc4mraCAU">
-          Andra frågor som hör till begreppet e-demokrati handlar om att
-          hjälpa dem som vill men inte kan använda IT i vardagen. Många
-          saknar tillit till Internet på grund av bristande säkerhet, spridning
-          av pornografi, datavirus, oönskad e-postreklam (spam) och andra
-          negativa företeelser på nätet. Vi måste vara uppmärksamma på denna
-          utveckling, så att inte brottslingar och oseriösa människor tar
-          över det verktyg som vi vill använda till något positivt.
-        </p>
-        <p xml:id="i-GBTuy9QbsW1yZY1xTV6NGQ">
-          Vilka åtgärder avser statsrådet att vidta för att påskynda utvecklingen
-          av 24-timmarsmyndigheten?
-        </p>
-        <p xml:id="i-6AFBN96AswPEWMpvc5fGff">
-          Vilka åtgärder avser statsrådet att vidta för att utveckla IT
-          i folkets tjänst rent allmänt?
-        </p>
-        <p xml:id="i-Gbu5Zdp6Tnb6sxc2DN1tac">
-          Vilka åtgärder avser statsrådet att vidta för att bekämpa de
-          negativa sidor av Internet som nämns ovan?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-LQwNBig97xapFHko7S8mGr">
+            Begreppet e-demokrati används allt flitigare. I grunden handlar
+            det om hur informationstekniken (IT) kan användas för att stärka
+            demokratin i samhället. Det kan handla om att offentliga tjänster
+            underlättas via Internet eller helt enkelt att offentlig information
+            blir mer lättillgänglig för allmänheten samt att det kan bli lättare
+            för var och en att göra sin röst hörd.
+          </p>
+          <p xml:id="i-RVXCs9P4kvZ65zLvnSWZMx">
+            För denna utveckling har regeringen ett särskilt ansvar. IT-politiken
+            var till att börja med ett slags isolerad företeelse. Politiker
+            ville påskynda utvecklingen och spridningen av den nya tekniken
+            ut till medborgarna genom exempelvis bidrag till bredbandssatsningar.
+            När marknaden för att bygga bredband var som hetast i slutet av
+            90-talet så utlovade regeringen statliga bidrag för fibernät.
+            Eftersom detta tog lång tid att utreda så väntade många aktörer
+            med byggandet och därefter kom den allmänna nedgången av IT-branschen.
+            Man kan säga att det blev en avkylning av en lite för upphettad
+            verksamhet. Den dåvarande s-regeringens saktfärdighet bidrog alltså
+            till att utbyggnaden av bredband i Sverige har gått långsammare
+            än vad den kunde gjort. Detta är ett exempel på dåligt ledarskap.
+          </p>
+          <p xml:id="i-FRaZGf4KcPuweJxzoy6Ry2">
+            Ett annat exempel är det sätt på vilket regeringen har hanterat
+            utvecklingen av den så kallade 24-timmarsmyndigheten. Tanken bakom
+            24-timmarsmyndigheten är att fler tjänster ska vara tillgängliga
+            via Internet dygnet runt för allmänheten. Exempel på detta kan
+            vara skattemyndighetens strävan att fler ska kunna deklarera sin
+            inkomst via Internet eller Vägverkets nya hemsida där alltfler
+            uppgifter kan skötas direkt vid datorn av medborgaren eller de
+            företag som är beroende av myndighetens service. 24-timmars myndigheten
+            är alltså viktig också för vårt näringslivs möjligheter att konkurrera
+            och skapa tillväxt i landet. En utbyggd självservice hos myndigheterna
+            kan också innebära att resurser kan användas på bättre sätt, till
+            exempel utbyggd patientkontakt i sjukvården.
+          </p>
+          <p xml:id="i-4tPfeHNW5CZH6c4DubV7xj">
+            Nu har emellertid regeringen fått skarp kritik för den långsamma
+            utvecklingen av 24-timmarsmyndigheten. Riksrevisionen har i rapporten
+            Vem styr den elektroniska förvaltningen? från juni 2004 granskat
+            regeringens och myndigheternas arbete med att införa elektronisk
+            förvaltning. Vid granskningen har man funnit att elektroniska
+            tjänster som i första hand medför nytta för medborgare och företag
+            inte prioriterats. Myndigheterna har främst satsat på enklare
+            informationstjänster som ger ökad intern kostnadseffektivitet.
+            Avancerade interaktiva e-tjänster är fortfarande relativt ovanliga.
+            Rapportens slutsats är att regeringens styrning av myndigheternas
+            arbete med att införa elektronisk förvaltning har varit otydlig
+            och att bättre förutsättningar behövs för myndigheternas utveckling
+            av e-tjänster. Riksrevisionen bedömer också att riksdagen fått
+            mycket begränsad information från regeringen beträffande den faktiska
+            utvecklingen av e-förvaltningen.
+          </p>
+          <p xml:id="i-2LQ7twcXZkbiQ2CoY5dZSo">
+            Myndigheterna har inga tydliga direktiv från regeringen att verkligen
+            satsa på denna utbyggnad. Det räcker inte med uppmaningar och
+            hejarop från regeringens sida när myndigheterna samtidigt åläggs
+            besparingskrav. Den kortsiktiga lösningen kan då bli att man avstår
+            IT-satsningar som i längden är rationaliserande och uppfyller
+            kravet på utbyggda offentliga tjänster.
+          </p>
+          <p xml:id="i-8aTJ9s2z9aYeUwLeBz8KSk">
+            Kristdemokraterna har flera år pekat på den brittiska ledarskapsmodellen
+            med en så kallad e-envoy. I Storbritannien har regeringen lyft
+            IT-frågorna på högsta nivå och inte låtit myndigheter satsa på
+            verktyg för e-demokrati enbart i mån av tid och lust. Den svenska
+            regeringen förtjänar kritik för att inte visat ett bra ledarskap
+            för utveckling av e-demokratin.
+          </p>
+          <p xml:id="i-G1uURQyZCEupkySq6UVwov">
+            Andra frågor som hör till begreppet e-demokrati handlar om att
+            hjälpa dem som vill men inte kan använda IT i vardagen. Många
+            saknar tillit till Internet på grund av bristande säkerhet, spridning
+            av pornografi, datavirus, oönskad e-postreklam (spam) och andra
+            negativa företeelser på nätet. Vi måste vara uppmärksamma på denna
+            utveckling, så att inte brottslingar och oseriösa människor tar
+            över det verktyg som vi vill använda till något positivt.
+          </p>
+          <p xml:id="i-7nPTNTwCeip26hrJKCyzER">
+            Vilka åtgärder avser statsrådet att vidta för att påskynda utvecklingen
+            av 24-timmarsmyndigheten?
+          </p>
+          <p xml:id="i-4133TXes2F55D6QJVmbtjt">
+            Vilka åtgärder avser statsrådet att vidta för att utveckla IT
+            i folkets tjänst rent allmänt?
+          </p>
+          <p xml:id="i-8xePbgmPwBTaQpihrzZCNy">
+            Vilka åtgärder avser statsrådet att vidta för att bekämpa de
+            negativa sidor av Internet som nämns ovan?
+          </p>
+        </div>
       </div>
     </body>
   </text>

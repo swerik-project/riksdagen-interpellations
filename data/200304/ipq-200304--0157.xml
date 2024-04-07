@@ -3,77 +3,117 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Lex Linda</title>
+        <author>Stenmark, Rigmor (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Lex Linda till socialminister Lars Engqvist om Lex Linda</title>
+          <idno type="rdwebb">GR10157</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10157/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10157</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10157</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D33H5dL4TMdTn9ZXMMYEbb</idno>
+            <persName>Rigmor Stenmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-2Zxt3x57UbQFePzrxHn7uT" corresp="i-D33H5dL4TMdTn9ZXMMYEbb">
+          <date when="2003-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-B2TBx6UZhrzRc2L9NefM6u">
+          <date when="2003-11-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XVbso8U2bfb7p8BRrcV4r7">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GJj8i3TC8YPq5PFWtjjbTJ" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-11-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7KmYKRhyMAddWwyma5oeyg" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspContext corresp="i-7KmYKRhyMAddWwyma5oeyg">
+          <ref type="record" target="prot-200304--043">Riksdagens protokoll 2003/04:43 Fredagen den 5 december</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2003/04:157 om lex Linda</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0157</head>
-        <author who="i-D33H5dL4TMdTn9ZXMMYEbb">Rigmor Stenmark</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>Lex Linda</topic>
-        <docDate when="2003-11-26">den 26 november</docDate>
-        <status when="2003-12-05" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10157</external_id>
-        <debate>
-          <turn when="2003-12-05 11:58:32" duration="198">Rigmor Stenmark (C)</turn>
-          <turn when="2003-12-05 12:06:50" duration="129">Lars Engqvist (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:157 av Rigmor Stenmark (c) till socialminister
-          Lars Engqvist om Lex Linda
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KHvaHhZa1wSiTw6neY8mGY">
+            Interpellation 2003/04:157 av Rigmor Stenmark (c) till socialminister
+            Lars Engqvist om Lex Linda
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-BQJtRWTy4Ksjd14crDLnwy">
+            den 26 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MQTiJDPj3KMpT5Kdftvrd7">
-          Nu är det bråttom socialministern. Ca 70 000 personer är whiplash-skadade
-          i Sverige. Ett flertal av dem är kvinnor. Detta beror troligen
-          på att kvinnor är svagare i nackmuskulaturen och genom skador
-          som de fått via trafikolyckor och av andra våldshandlingar har
-          de dragit på sig en svår whiplash-skada. Oavsett om det är män
-          eller kvinnor som inte sällan helt oförskyllt blivit drabbade
-          av denna smärtsamma skada krävs det i dag omedelbara insatser
-          som leder till hjälp för de skadade.
-        </p>
-        <p xml:id="i-MrrLE5YWvsG7tE5hagpmDB">
-          Jag har varit i kontakt med fler av dessa offer och har blivit
-          djupt berörd av deras livsöde. Främst för att det i dag saknas
-          en rättighet till att få en reell rehabilitering. I dag skickas
-          många av de skadade fram och tillbaka mellan försäkringskassor,
-          privata försäkringsbolag och sjukhus. Många får på sjukhusen endast
-          smärtlindring. Detta är en kortvarig hjälp. Vad dessa personer
-          behöver och önskar är en personlig rehabilitering så att de så
-          långt som det är möjligt kan återgå till det liv som de hade innan
-          olyckshändelsen.
-        </p>
-        <p xml:id="i-4q6kpkKPg7MWYfKPrYRZZv">
-          Min fråga till socialministern är:
-        </p>
-        <p xml:id="i-V9cE9vW6SytwWnqVgdt74e">
-          Vad ämnar socialministern vidta för åtgärder så att alla whiplash-skadade
-          kan få en personligt utformad rehabilitering?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-N1iEcAc2rY5FZdU6kuCqy9">
+            Nu är det bråttom socialministern. Ca 70 000 personer är whiplash-skadade
+            i Sverige. Ett flertal av dem är kvinnor. Detta beror troligen
+            på att kvinnor är svagare i nackmuskulaturen och genom skador
+            som de fått via trafikolyckor och av andra våldshandlingar har
+            de dragit på sig en svår whiplash-skada. Oavsett om det är män
+            eller kvinnor som inte sällan helt oförskyllt blivit drabbade
+            av denna smärtsamma skada krävs det i dag omedelbara insatser
+            som leder till hjälp för de skadade.
+          </p>
+          <p xml:id="i-GL4NmYPai39qnFNxy28rXM">
+            Jag har varit i kontakt med fler av dessa offer och har blivit
+            djupt berörd av deras livsöde. Främst för att det i dag saknas
+            en rättighet till att få en reell rehabilitering. I dag skickas
+            många av de skadade fram och tillbaka mellan försäkringskassor,
+            privata försäkringsbolag och sjukhus. Många får på sjukhusen endast
+            smärtlindring. Detta är en kortvarig hjälp. Vad dessa personer
+            behöver och önskar är en personlig rehabilitering så att de så
+            långt som det är möjligt kan återgå till det liv som de hade innan
+            olyckshändelsen.
+          </p>
+          <p xml:id="i-6NtA8NvYe62j32wqXhG38k">
+            Min fråga till socialministern är:
+          </p>
+          <p xml:id="i-QMQ1rGbN4GEo65MKppgMxn">
+            Vad ämnar socialministern vidta för åtgärder så att alla whiplash-skadade
+            kan få en personligt utformad rehabilitering?
+          </p>
+        </div>
       </div>
     </body>
   </text>

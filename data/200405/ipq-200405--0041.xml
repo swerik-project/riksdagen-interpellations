@@ -3,120 +3,164 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nya droger</title>
+        <author>Sjösten, Ulf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>nya droger till statsrådet Morgan Johansson om nya droger</title>
+          <idno type="rdwebb">GS1041</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1041/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1041</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1041</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-D6hrZCxPVTQxPgXvGFfuJ7</idno>
+            <persName>Ulf Sjösten</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-RB5aHqeAxviCsAKZfg5W6N" corresp="i-D6hrZCxPVTQxPgXvGFfuJ7">
+          <date when="2004-09-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-C4BXsJ99nzq8RMRhAAe43r">
+          <date when="2004-09-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8t7c8TCYrTyuRZ1XcxmLoj">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QWrF1fMNb7Si2DutsgqfFp" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2004-09-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TZLynhyWiA5nk9xGkbUuhR" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspContext corresp="i-TZLynhyWiA5nk9xGkbUuhR">
+          <ref type="record" target="prot-200405--012">Riksdagens protokoll 2004/05:12 Tisdagen den 12 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellationerna 2004/05:33 och 41 om klassificering av ämnen som kan användas som narkotika</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0041</head>
-        <author who="i-D6hrZCxPVTQxPgXvGFfuJ7">Ulf Sjösten</author>
-        <recipient who="i-UPW2cbGnTUbMZaKTrot5Bh">Morgan Johansson</recipient>
-        <topic>nya droger</topic>
-        <docDate when="2004-09-28">den 28 september</docDate>
-        <status when="unknown" byWhom="Morgan Johansson" byWhomId="i-UPW2cbGnTUbMZaKTrot5Bh" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1041</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:41 av Ulf Sjösten (m) till statsrådet
-          Morgan Johansson om nya droger
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-7DPBvHLioSKrP2HLi1UiWp">
+            Interpellation 2004/05:41 av Ulf Sjösten (m) till statsrådet
+            Morgan Johansson om nya droger
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-UNkKFXExLRxrso33DJwRZ2">
+            den 28 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SoqgppVgaViusQ1SRW1xsg">
-          Nyligen rapporterade Borås Tidning om att Boråspolisen kunde
-          bli tvungen att återlämna ett större beslag av en drog som inte
-          är narkotikaklassad. Många uttryckte upprördhet och frustration
-          inför det orimliga att återlämna ett ämne som sålts och använts
-          som narkotika.
-        </p>
-        <p xml:id="i-MnFKeaesKs2kba556o8bM1">
-          Det är upprörande och stötande, men problematiken är inte ny
-          och det har funnits möjligheter att vidta åtgärder tidigare. Polis
-          och åklagare har gjort allt för att slippa lämna tillbaka 40 liter
-          av dödsdrogen BD (butandiol). En minut efter man förtärt BD omvandlas
-          det via kroppens ämnesomsättning till GHB.
-        </p>
-        <p xml:id="i-MsMmw9ybL6bH2UHeN9EXf8">
-          En tillåtande attityd till droger har smugit sig in hos alltför
-          många ungdomar. Det svenska samhället står fortfarande starkt
-          och samlat i sin kamp mot droger, trots att många drogliberala
-          krafter verkar ute i Europa.
-        </p>
-        <p xml:id="i-5tNTEntamHBbVxNnh9oLRV">
-          Trots det är det i dag många unga som ser de nya så kallade designade
-          drogerna, till exempel ecstasy och partypoppers, och för den delen
-          medel med ett helt annat användningsområde i grunden som GHB och
-          GBL som bara ett medel för att festa och ha kul.
-        </p>
-        <p xml:id="i-KxhAeYiGDSgbv5KTqhDBxr">
-          Man måste givetvis arbeta mycket aktivt med orsakerna till att
-          ungdomar över huvud taget använder droger, men det är också oerhört
-          viktigt att samhället och lagstiftande organ agerar snabbt och
-          tydligt när nya droger dyker upp på arenan. Det ska inte ta flera
-          år att narkotikaklassa en dödlig drog som exempelvis GHB.
-        </p>
-        <p xml:id="i-GK7TCLbEVKpUdwoR1rGK72">
-          Ett annat färskt exempel är den nya drogen A 2 som för något
-          år sedan dök upp bland ungdomar i Borås. Samhället måste i fall
-          som dessa agera kraftfullt och framför allt snabbt. Det har nu
-          vidtagits åtgärder som försvårar nyttjandet av A 2, men ofta kommer
-          åtgärderna för sent och med avsaknad av nödvändig kraft.
-        </p>
-        <p xml:id="i-SSNXmgv2T7Nbm3VTc6eRtD">
-          GBL kan i dag användas utan risk för rättsliga påföljder. Då
-          GBL kommer in i kroppen omvandlas den till GHB och får ofta samma
-          förödande följder för brukaren som det narkotikaklassade GHB.
-          De flesta människor som omhändertas för ringa narkotikabrott gällande
-          GHB uppger naturligt nog att de druckit GBL.
-        </p>
-        <p xml:id="i-3rC7X6vi3WPPcD1AF7faou">
-          De nya drogerna, av vilka många produceras inom EU:s gränser,
-          flödar i allt större utsträckning in över vår gräns i takt med
-          att uppfinningsrikedomen utvecklas.
-        </p>
-        <p xml:id="i-JdmRJdovEc9MBdTQKEGLCu">
-          Samhället behöver ett bättre regelverk, där snabbhet prioriteras
-          för att kunna möta denna anstormning. Vissa av de nya drogerna
-          är varianter av redan narkotikaklassade droger, där någon del
-          av den kemiska processen har förändrats för att undgå kriminalisering,
-          medan andra i grunden har ett helt annat användningsområde, såsom
-          starka rengöringsmedel.
-        </p>
-        <p xml:id="i-UgPPj8cwSPqFxPC3iaeoNT">
-          Problematiken med nya droger har flera sidor som kräver olika
-          angreppssätt. Den är också internationell, vilket kommer att kräva
-          samarbete och framför allt samordning inom Europeiska unionen.
-          Detta är ett av de områden där EU verkligen har en viktig roll
-          att spela. Tyvärr kan man konstatera att utvecklingen går mycket
-          sakta. Inte minst i ljuset av de tio nya medlemsländerna är det
-          mycket viktigt att Sverige agerar påtryckare både för lagstiftningsförändringar
-          och för att samarbetet mellan polis, åklagare och tull i vardagen
-          ska fungera bättre.
-        </p>
-        <p xml:id="i-J8WvSrQeWTfGFKDUbUmeYR">
-          Vilka åtgärder avser folkhälsoministern att vidta för att samhällets
-          reaktion på nya droger ska bli snabbare och effektivare?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-6ziBwb7WMQbj64ChRFus66">
+            Nyligen rapporterade Borås Tidning om att Boråspolisen kunde
+            bli tvungen att återlämna ett större beslag av en drog som inte
+            är narkotikaklassad. Många uttryckte upprördhet och frustration
+            inför det orimliga att återlämna ett ämne som sålts och använts
+            som narkotika.
+          </p>
+          <p xml:id="i-TFxa4b65Uv5hfyQTenDEog">
+            Det är upprörande och stötande, men problematiken är inte ny
+            och det har funnits möjligheter att vidta åtgärder tidigare. Polis
+            och åklagare har gjort allt för att slippa lämna tillbaka 40 liter
+            av dödsdrogen BD (butandiol). En minut efter man förtärt BD omvandlas
+            det via kroppens ämnesomsättning till GHB.
+          </p>
+          <p xml:id="i-KaS5XrD7c65ox1Qz3UPfeJ">
+            En tillåtande attityd till droger har smugit sig in hos alltför
+            många ungdomar. Det svenska samhället står fortfarande starkt
+            och samlat i sin kamp mot droger, trots att många drogliberala
+            krafter verkar ute i Europa.
+          </p>
+          <p xml:id="i-JMdd4DFAV7p4zUVyYDamvu">
+            Trots det är det i dag många unga som ser de nya så kallade designade
+            drogerna, till exempel ecstasy och partypoppers, och för den delen
+            medel med ett helt annat användningsområde i grunden som GHB och
+            GBL som bara ett medel för att festa och ha kul.
+          </p>
+          <p xml:id="i-Xnwd8BBkAbyX7pKX4GPjXm">
+            Man måste givetvis arbeta mycket aktivt med orsakerna till att
+            ungdomar över huvud taget använder droger, men det är också oerhört
+            viktigt att samhället och lagstiftande organ agerar snabbt och
+            tydligt när nya droger dyker upp på arenan. Det ska inte ta flera
+            år att narkotikaklassa en dödlig drog som exempelvis GHB.
+          </p>
+          <p xml:id="i-2L8a4oT2ivsS5eQmpLnzKR">
+            Ett annat färskt exempel är den nya drogen A 2 som för något
+            år sedan dök upp bland ungdomar i Borås. Samhället måste i fall
+            som dessa agera kraftfullt och framför allt snabbt. Det har nu
+            vidtagits åtgärder som försvårar nyttjandet av A 2, men ofta kommer
+            åtgärderna för sent och med avsaknad av nödvändig kraft.
+          </p>
+          <p xml:id="i-E6z2XYK3pY7Xf8TStLriwM">
+            GBL kan i dag användas utan risk för rättsliga påföljder. Då
+            GBL kommer in i kroppen omvandlas den till GHB och får ofta samma
+            förödande följder för brukaren som det narkotikaklassade GHB.
+            De flesta människor som omhändertas för ringa narkotikabrott gällande
+            GHB uppger naturligt nog att de druckit GBL.
+          </p>
+          <p xml:id="i-N35ECpwuyfpsG7ZoRVi1VU">
+            De nya drogerna, av vilka många produceras inom EU:s gränser,
+            flödar i allt större utsträckning in över vår gräns i takt med
+            att uppfinningsrikedomen utvecklas.
+          </p>
+          <p xml:id="i-Rei7G4vJ5CKdUaSxkWAu9r">
+            Samhället behöver ett bättre regelverk, där snabbhet prioriteras
+            för att kunna möta denna anstormning. Vissa av de nya drogerna
+            är varianter av redan narkotikaklassade droger, där någon del
+            av den kemiska processen har förändrats för att undgå kriminalisering,
+            medan andra i grunden har ett helt annat användningsområde, såsom
+            starka rengöringsmedel.
+          </p>
+          <p xml:id="i-3zN6xvP3QpK3uozn9m3ugL">
+            Problematiken med nya droger har flera sidor som kräver olika
+            angreppssätt. Den är också internationell, vilket kommer att kräva
+            samarbete och framför allt samordning inom Europeiska unionen.
+            Detta är ett av de områden där EU verkligen har en viktig roll
+            att spela. Tyvärr kan man konstatera att utvecklingen går mycket
+            sakta. Inte minst i ljuset av de tio nya medlemsländerna är det
+            mycket viktigt att Sverige agerar påtryckare både för lagstiftningsförändringar
+            och för att samarbetet mellan polis, åklagare och tull i vardagen
+            ska fungera bättre.
+          </p>
+          <p xml:id="i-UQbfpeSPwoHjg9mMcRaUX7">
+            Vilka åtgärder avser folkhälsoministern att vidta för att samhällets
+            reaktion på nya droger ska bli snabbare och effektivare?
+          </p>
+        </div>
       </div>
     </body>
   </text>

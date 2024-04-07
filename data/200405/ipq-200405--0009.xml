@@ -3,102 +3,150 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>stopplagen</title>
+        <author>Ullenhag, Erik (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>stopplagen till statsrådet Ylva Johansson om stopplagen</title>
+          <idno type="rdwebb">GS109</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS109/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS109</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS109</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-QKE6ihmLRJvwhV4neD6h7b</idno>
+            <persName>Erik Ullenhag</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-81SgA9jpuX4iT2zJDyb6HR" corresp="i-QKE6ihmLRJvwhV4neD6h7b">
+          <date when="2004-09-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4fRi8HAyp63ibwMdDwvPRa">
+          <date when="2004-09-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QfhiMg4JVtzgbY4Nz6VEtY">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YQmcpAteVd4xZWMPpVeAkv" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-09-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EaAD8R12rCNSo9TdY64fah" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspContext corresp="i-EaAD8R12rCNSo9TdY64fah">
+          <ref type="record" target="prot-200405--012">Riksdagens protokoll 2004/05:12 Tisdagen den 12 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellationerna 2004/05:6, 7, 8, 9 och 10 om stopplagen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0009</head>
-        <author who="i-QKE6ihmLRJvwhV4neD6h7b">Erik Ullenhag</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>stopplagen</topic>
-        <docDate when="2004-09-16">den 16 september</docDate>
-        <status when="unknown" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS109</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:9 av Erik Ullenhag (fp) till statsrådet
-          Ylva Johansson om stopplagen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PpTAMePM4exzeZj7bapuMZ">
+            Interpellation 2004/05:9 av Erik Ullenhag (fp) till statsrådet
+            Ylva Johansson om stopplagen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8YLserpr19BT9LYDjLkEEC">
+            den 16 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RfntuGNXQYoa8BrnjAxwvv">
-          Den socialdemokratiska riksdagsmannen Pär Axel Sahlberg föreslog
-          i en utredning (SOU 2003:23) att uppgiften att ansvara för driften
-          av hälso- och sjukvård inte ska kunna överlämnas till sjukhus
-          som är vinstdrivande bolag eller stiftelser om verksamheten innefattar
-          ett ansvar för regionsjukvård. Uppdraget till utredningen var
-          att föreslå åtgärder som skulle ersätta den tillfälliga så kallade
-          stopplagen som förbjöd landstingen att teckna nya avtal med akutsjukhus
-          som har vinstmotiv.
-        </p>
-        <p xml:id="i-K5fZg7MiSzrnzPEVZhemuL">
-          I slutet av juni i år föreslog regeringen i en promemoria (S2004/4905/HS)
-          att ansvaret för driften av ett sjukhus över huvud taget inte
-          får överlämnas till vårdgivare som skapar vinst åt ägaren. PM:et
-          baseras på en överenskommelse med v och mp. Det presenteras inga
-          förslag rörande primärvården, men en lagreglering kan enligt promemorian
-          träda i kraft efter år 2009.
-        </p>
-        <p xml:id="i-22DryqxUMaS97Dr9fJ2Svq">
-          De två dokumenten har olika karaktär. Förslagen inskränker i
-          bägge fallen det kommunala självstyret och förslagen är avsedda
-          att minska privat driven sjukvård. Det har dock i regeringens
-          och samarbetspartiernas promemoria skett en väsentlig tyngdpunktsförskjutning
-          där hela fokus nu ligger på vinstmotivet och där praktiska erfarenheter
-          av ökad mångfald i sjukvård inte beaktas.
-        </p>
-        <p xml:id="i-8DgPJQVRjALbEF8CrTNjXK">
-          Promemorian har remissbehandlats under sommaren och kritiken
-          har varit massiv @ inte minst från vårdpersonalens fackliga organisationer.
-          Men även Konkurrensverket och Statens beredning för medicinsk
-          utvärdering (SBU) har haft allvarliga invändningar. SBU konstaterar
-          att "promemorian är resultatet av politiska diskussioner i en
-          kontroversiell fråga, där det vetenskapliga faktaunderlaget är
-          starkt begränsat". Man fortsätter "Enligt SBU:s uppfattning finns
-          det, vilket för övrigt framhölls i betänkandena från utredningen
-          om vårdens ägarformer, goda skäl att eftersträva en ökad mångfald
-          i vården". SBU har en viktig poäng i att poängtera att det är
-          avtalens utformning och innehåll, samt inte minst krav på uppföljning,
-          som är avgörande för huruvida god hälso- och sjukvård på lika
-          villkor kan erbjudas medborgarna.
-        </p>
-        <p xml:id="i-9b1n7PaZvSnmRTZXptVZtn">
-          Mot bakgrund av det som här anförts vill jag fråga vård- och
-          äldreomsorgsministern:
-        </p>
-        <p xml:id="i-ST1kAgTivtftyoDw5D37NF">
-          1. Avser ministern att medverka till att regeringen lägger en
-          proposition angående sjukvårdshuvudmännens rätt att överlämna
-          driften av sjukhus till entreprenörer som driver verksamhet med
-          syfte att skapa vinst åt ägaren?
-        </p>
-        <p xml:id="i-CJazmZtKbYjf9QtuKenpUX">
-          2. Kommer enligt ministerns bedömning en eventuell proposition
-          att utformas enligt förslag i Pär Axel Sahlbergs utredning om
-          vårdens ägarformer eller enligt Socialdepartementets promemoria,
-          baserad på en politisk överenskommelse med v och mp?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UeiMCDSN31XxkpEGRuy3Ln">
+            Den socialdemokratiska riksdagsmannen Pär Axel Sahlberg föreslog
+            i en utredning (SOU 2003:23) att uppgiften att ansvara för driften
+            av hälso- och sjukvård inte ska kunna överlämnas till sjukhus
+            som är vinstdrivande bolag eller stiftelser om verksamheten innefattar
+            ett ansvar för regionsjukvård. Uppdraget till utredningen var
+            att föreslå åtgärder som skulle ersätta den tillfälliga så kallade
+            stopplagen som förbjöd landstingen att teckna nya avtal med akutsjukhus
+            som har vinstmotiv.
+          </p>
+          <p xml:id="i-CqUJXnG5kM45j9PQuub5Hq">
+            I slutet av juni i år föreslog regeringen i en promemoria (S2004/4905/HS)
+            att ansvaret för driften av ett sjukhus över huvud taget inte
+            får överlämnas till vårdgivare som skapar vinst åt ägaren. PM:et
+            baseras på en överenskommelse med v och mp. Det presenteras inga
+            förslag rörande primärvården, men en lagreglering kan enligt promemorian
+            träda i kraft efter år 2009.
+          </p>
+          <p xml:id="i-561P7kydaD6Dnyhm3RJCVy">
+            De två dokumenten har olika karaktär. Förslagen inskränker i
+            bägge fallen det kommunala självstyret och förslagen är avsedda
+            att minska privat driven sjukvård. Det har dock i regeringens
+            och samarbetspartiernas promemoria skett en väsentlig tyngdpunktsförskjutning
+            där hela fokus nu ligger på vinstmotivet och där praktiska erfarenheter
+            av ökad mångfald i sjukvård inte beaktas.
+          </p>
+          <p xml:id="i-NVRv8MhkKycX9kfDwhkMmh">
+            Promemorian har remissbehandlats under sommaren och kritiken
+            har varit massiv @ inte minst från vårdpersonalens fackliga organisationer.
+            Men även Konkurrensverket och Statens beredning för medicinsk
+            utvärdering (SBU) har haft allvarliga invändningar. SBU konstaterar
+            att "promemorian är resultatet av politiska diskussioner i en
+            kontroversiell fråga, där det vetenskapliga faktaunderlaget är
+            starkt begränsat". Man fortsätter "Enligt SBU:s uppfattning finns
+            det, vilket för övrigt framhölls i betänkandena från utredningen
+            om vårdens ägarformer, goda skäl att eftersträva en ökad mångfald
+            i vården". SBU har en viktig poäng i att poängtera att det är
+            avtalens utformning och innehåll, samt inte minst krav på uppföljning,
+            som är avgörande för huruvida god hälso- och sjukvård på lika
+            villkor kan erbjudas medborgarna.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-LpR4t547qELp1827JshazJ">
+            Mot bakgrund av det som här anförts vill jag fråga vård- och
+            äldreomsorgsministern:
+            <list rend="unordered">
+              <item>
+                1. Avser ministern att medverka till att regeringen lägger en
+                proposition angående sjukvårdshuvudmännens rätt att överlämna
+                driften av sjukhus till entreprenörer som driver verksamhet med
+                syfte att skapa vinst åt ägaren?
+              </item>
+              <item>
+                2. Kommer enligt ministerns bedömning en eventuell proposition
+                att utformas enligt förslag i Pär Axel Sahlbergs utredning om
+                vårdens ägarformer eller enligt Socialdepartementets promemoria,
+                baserad på en politisk överenskommelse med v och mp?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

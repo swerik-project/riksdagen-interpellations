@@ -3,95 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kollektivtrafik i glesbygd</title>
+        <author>Larsson, Håkan (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kollektivtrafik i glesbygd till statsrådet Ulrica Messing om kollektivtrafik i glesbygd</title>
+          <idno type="rdwebb">GR10310</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10310/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10310</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10310</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-XxqQtZTdHUTphXEbUJ35Ss</idno>
+            <persName>Håkan Larsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-58iv421374hg2VUwKAyozy" corresp="i-XxqQtZTdHUTphXEbUJ35Ss">
+          <date when="2004-02-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DpwXA5pHtFEhdVWbsb5Nvf">
+          <date when="2004-02-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4Jdx3v2us9EgfwgFmZQBQg">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ch6d7gDe3dVgeLpmsxmnia" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-02-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UgYrFmxfbnNVyjyeUwTLeQ" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspContext corresp="i-UgYrFmxfbnNVyjyeUwTLeQ">
+          <ref type="record" target="prot-200304--075">Riksdagens protokoll 2003/04:75 Tisdagen den 2 mars</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:310 om kollektivtrafik i glesbygd</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0310</head>
-        <author who="i-XxqQtZTdHUTphXEbUJ35Ss">Håkan Larsson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>kollektivtrafik i glesbygd</topic>
-        <docDate when="2004-02-19">den 19 februari</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10310</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:310 av Håkan Larsson (c) till statsrådet
-          Ulrica Messing om kollektivtrafik i glesbygd
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ea2cuFAUPcyp6NWpPfodpg">
+            Interpellation 2003/04:310 av Håkan Larsson (c) till statsrådet
+            Ulrica Messing om kollektivtrafik i glesbygd
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GbCRi9Q2VggwbDCvczA1LP">
+            den 19 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UudDxZ5xZqgBNmF1bVLeWn">
-          Även i de glesbebyggda delarna av Sverige är det viktigt med
-          en fungerande kollektivtrafik. Fungerande buss- eller tågförbindelser
-          är inte sällan avgörande för att människor ska kunna välja att
-          bo och leva i glesbygd. Det gäller exempelvis för arbetspendlare,
-          ungdomar och äldre. Även när det gäller godstransporter till lokala
-          företag har kollektivtrafiken en betydelsefull roll.
-        </p>
-        <p xml:id="i-ApMDnVifEiHzXVg7r7jd72">
-          Under senare år har staten minskat sitt stöd till kollektivtrafik
-          i de glesare delarna av landet, samtidigt som diesel- och fordonsskatterna
-          har höjts. Eftersom kommuner och landsting är ekonomiskt hårt
-          pressade har dessa i praktiken liten möjlighet att i detta läge
-          öka sitt stöd till länstrafikbolagen.
-        </p>
-        <p xml:id="i-WsRqPz1iZd1czYj2229u84">
-          I Jämtlands län har länstrafiken under åren 2001@2003 tvingats
-          skära bort en fjärdedel av det tidigare trafikutbudet. Detta är
-          mycket allvarligt. Därför var det en ljusglimt, om än en liten,
-          när det i årets statsbudget finns ett särskilt stöd om 10 (tio)
-          miljoner kronor för glesbygdstrafiken i de fyra nordligaste länen.
-          För Jämtlands län beräknas detta innebära ett tillskott på 2,3
-          miljoner kronor. (I sammanhanget kan nämnas att Centerpartiet
-          anslår 100 extra miljoner för att stärka kollektivtrafiken i glesbygd.)
-        </p>
-        <p xml:id="i-3YjygaYjwoykd32ZiwFqe4">
-          För några veckor sedan fick emellertid Länstrafiken i Jämtlands
-          län ett brev från Rikstrafiken, där man förklarar att man av besparingsskäl
-          måste skära ned stödet till Norrlandstrafiken med 8 (åtta) miljoner
-          kronor. Fullföljs dessa planer ger alltså staten ca 2,3 miljoner
-          kronor med ena handen för att sedan dra bort ca 2 miljoner kronor
-          med den andra, via Rikstrafiken.
-        </p>
-        <p xml:id="i-2cmGMWv5mbfUnvDR663LwC">
-          Ledningen för Länstrafiken i Jämtlands län är naturligtvis upprörd
-          över statens agerande och i ett brev till statsrådet Messing frågar
-          man sig: "På vilket sätt tror regeringen och Rikstrafiken att
-          vi genom dessa kombinerade åtgärder kommer att kunna stärka vår
-          finansiering och rätta trafikutbudet?" Länstrafiken upplever med
-          rätta detta som "ett tråkigt nollsummespel".
-        </p>
-        <p xml:id="i-7ZgYJS5M4ANA3MEHo5pi1i">
-          Mot denna bakgrund vill jag ställa följande fråga till statsrådet
-          Ulrica Messing:
-        </p>
-        <p xml:id="i-SecVhbmxBhKzuDF8DMnWfX">
-          Vilka åtgärder avser statsrådet att vidta för att ge länstrafikbolagen
-          i de glesbebyggda norra delarna av Sverige möjlighet att utveckla,
-          i stället för att som nu tvingas avveckla, sitt trafikutbud?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-J4Ec8tZmULHqQKsGcUDeV1">
+            Även i de glesbebyggda delarna av Sverige är det viktigt med
+            en fungerande kollektivtrafik. Fungerande buss- eller tågförbindelser
+            är inte sällan avgörande för att människor ska kunna välja att
+            bo och leva i glesbygd. Det gäller exempelvis för arbetspendlare,
+            ungdomar och äldre. Även när det gäller godstransporter till lokala
+            företag har kollektivtrafiken en betydelsefull roll.
+          </p>
+          <p xml:id="i-BSH1obEkcb9FwCk3txXNwG">
+            Under senare år har staten minskat sitt stöd till kollektivtrafik
+            i de glesare delarna av landet, samtidigt som diesel- och fordonsskatterna
+            har höjts. Eftersom kommuner och landsting är ekonomiskt hårt
+            pressade har dessa i praktiken liten möjlighet att i detta läge
+            öka sitt stöd till länstrafikbolagen.
+          </p>
+          <p xml:id="i-7tMpZQFxD5cdxsjAYDRLDA">
+            I Jämtlands län har länstrafiken under åren 2001@2003 tvingats
+            skära bort en fjärdedel av det tidigare trafikutbudet. Detta är
+            mycket allvarligt. Därför var det en ljusglimt, om än en liten,
+            när det i årets statsbudget finns ett särskilt stöd om 10 (tio)
+            miljoner kronor för glesbygdstrafiken i de fyra nordligaste länen.
+            För Jämtlands län beräknas detta innebära ett tillskott på 2,3
+            miljoner kronor. (I sammanhanget kan nämnas att Centerpartiet
+            anslår 100 extra miljoner för att stärka kollektivtrafiken i glesbygd.)
+          </p>
+          <p xml:id="i-4JiCMjocSnFNuM8sese9Dq">
+            För några veckor sedan fick emellertid Länstrafiken i Jämtlands
+            län ett brev från Rikstrafiken, där man förklarar att man av besparingsskäl
+            måste skära ned stödet till Norrlandstrafiken med 8 (åtta) miljoner
+            kronor. Fullföljs dessa planer ger alltså staten ca 2,3 miljoner
+            kronor med ena handen för att sedan dra bort ca 2 miljoner kronor
+            med den andra, via Rikstrafiken.
+          </p>
+          <p xml:id="i-8DJZLwJzSwDUJ1Z1tQ6zNZ">
+            Ledningen för Länstrafiken i Jämtlands län är naturligtvis upprörd
+            över statens agerande och i ett brev till statsrådet Messing frågar
+            man sig: "På vilket sätt tror regeringen och Rikstrafiken att
+            vi genom dessa kombinerade åtgärder kommer att kunna stärka vår
+            finansiering och rätta trafikutbudet?" Länstrafiken upplever med
+            rätta detta som "ett tråkigt nollsummespel".
+          </p>
+          <p xml:id="i-X162UBYNK7dP7vdd1b8bRu">
+            Mot denna bakgrund vill jag ställa följande fråga till statsrådet
+            Ulrica Messing:
+          </p>
+          <p xml:id="i-CC6P9podnYRD6MENzXA13E">
+            Vilka åtgärder avser statsrådet att vidta för att ge länstrafikbolagen
+            i de glesbebyggda norra delarna av Sverige möjlighet att utveckla,
+            i stället för att som nu tvingas avveckla, sitt trafikutbud?
+          </p>
+        </div>
       </div>
     </body>
   </text>

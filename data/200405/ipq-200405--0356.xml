@@ -3,106 +3,140 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>försvarsmaktens och riksdagens beslut</title>
+        <author>Wälivaara, Erling (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>försvarsmaktens och riksdagens beslut till försvarsminister Leni Björklund om försvarsmaktens och riksdagens beslut</title>
+          <idno type="rdwebb">GS10356</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10356/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10356</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10356</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-MerwJjA5PYKs4QYtgsoxJE</idno>
+            <persName>Erling Wälivaara</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-EW5xar2Yb3EW8KKdpWPF9S">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-F32tc4tg58i169yiGDnXLo" corresp="i-MerwJjA5PYKs4QYtgsoxJE">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7LaE5B1ty7Bs5T5r6xADT4">
+          <date when="2005-02-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-K3MYGCPEteJHtZAsohYirv" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-D3kcCYoSX4oA53ArzanfUX" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2005-02-17"/>
+        </correspAction>
+        <correspContext corresp="i-D3kcCYoSX4oA53ArzanfUX">
+          <ref type="record" target="prot-200405--078">Riksdagens protokoll 2004/05:78 Torsdagen den 17 februari</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2004/05:356 om försvarsmaktens och riksdagens beslut</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0356</head>
-        <author who="i-MerwJjA5PYKs4QYtgsoxJE">Erling Wälivaara</author>
-        <recipient who="i-CcdZckB2ErC625pmVtogZg">Leni Björklund</recipient>
-        <topic>försvarsmaktens och riksdagens beslut</topic>
-        <docDate when="2005-02-03">den 3 februari</docDate>
-        <status when="2005-02-17" byWhom="Leni Björklund" byWhomId="i-CcdZckB2ErC625pmVtogZg" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10356</external_id>
-        <debate>
-          <turn when="2005-02-17 15:30:44" duration="135">Leni Björklund (S)</turn>
-          <turn when="2005-02-17 15:32:55" duration="264">Erling Wälivaara (Kd)</turn>
-          <turn when="2005-02-17 15:37:16" duration="123">Ola Sundell (M)</turn>
-          <turn when="2005-02-17 15:39:15" duration="120">Leni Björklund (S)</turn>
-          <turn when="2005-02-17 15:41:11" duration="136">Erling Wälivaara (Kd)</turn>
-          <turn when="2005-02-17 15:43:24" duration="88">Leni Björklund (S)</turn>
-          <turn when="2005-02-17 15:44:49" duration="122">Erling Wälivaara (Kd)</turn>
-          <turn when="2005-02-17 15:46:46" duration="122">Leni Björklund (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:356 av Erling Wälivaara (kd) till försvarsminister
-          Leni Björklund om Försvarsmaktens och riksdagens beslut
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KJYcAxof8KZBfkRsYJWZWM">
+            Interpellation 2004/05:356 av Erling Wälivaara (kd) till försvarsminister
+            Leni Björklund om Försvarsmaktens och riksdagens beslut
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-RoZ9RPNpk8215p47EDcjZt">
+            den 3 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-StXZ7mSNbPFPyLiUsfrair">
-          Försvarsutskottet skrev i sammanfattningen i försvarsutskottets
-          betänkande 2004/05:FöU4 Sveriges försvarspolitik 2005@2007: "Det
-          är viktigt att behålla och utveckla förmåga och kompetens för
-          strid i bebyggd miljö och subarktiskt klimat". Vidare skriver
-          utskottet i betänkandet att: "Utskottet anser att vad som redovisats
-          i dessa delar tills vidare kan läggas till grund för förmågeutvecklingen
-          för de olika förbanden. Insatsorganisationen skall ha förmåga
-          att uppträda i hela landet och under förekommande klimatologiska
-          förhållanden. Det är viktigt att behålla och kunna utveckla förmåga
-          och kompetens för strid i bebyggd miljö och i subarktiskt klimat."
-          Betänkandet antogs av riksdagen den 16 december 2004.
-        </p>
-        <p xml:id="i-AheANRiJCd9qVFCf8LfzPA">
-          Enligt uppgift har helikopterflottiljchefen på Malmen föreslagit
-          att två helikopter 15 skulle placeras på F 21 i Luleå för att
-          säkerställa att den subarktiska förmågan bibehålls och kan utvecklas.
-          Den 18 januari 2005 skriver högkvarteret i sin skrivelse, HKV
-          den 18 januari 2005: "02 300:61073 Ramvillkor för organisationsarbete
-          vid förband, skolor och centra m a a Försvarsbeslut -04: Vid fortsatt
-          arbete i enlighet med styrkort gäller tidigare given inriktning
-          att endast Helikopter 10 baseras i Luleå/KAX
-        </p>
-        <p xml:id="i-J476yiJngHS2UcPM4bMXrm">
-          Helikopter 10 upprätthåller Flygräddningen/FRÄD och bibehåller
-          dagens förmåga att verka med Helikopter 10-systemet i subarktisk
-          miljö. Övriga helikoptersystem upprätthåller begränsad förmåga
-          att genomföra flyguppdrag under vinterförhållanden i fjäll- och
-          ödemarksterräng genom tillfällig basering. Helikopterflottiljen
-          kan därmed understödja olika typer av förband under dessa förhållanden,
-          men från 'fast bas'. Detta innebär att endast Helikopter 10-personal
-          skall ha arbetsort Luleå. Inriktningen innebär en ambitionssänkning
-          relativt dagens subarktiska förmåga."
-        </p>
-        <p xml:id="i-G42fRaPN4YKevmXp6gB87z">
-          Vidare skriver Högkvarteret Grundorganisation Flygvapnet/GRO
-          FV bland annat i sitt PM: "GRO FV föreslår att begreppet 'subarktisk
-          förmåga' utgår för helikopterflottiljen och att denna ändras till
-          "Förmåga att genomföra flyguppdrag under vinterförhållanden i
-          fjäll- och ödemarksterräng" och längre fram i PM:et: "Subarktisk
-          förmåga vidmakthålles ej".
-        </p>
-        <p xml:id="i-Z9HkAtq74dLCwyvxiLhaP">
-          Jag frågar mig vad vi har riksdagen till när en myndighet obstruerar
-          ett riksdagsbeslut på detta sätt.
-        </p>
-        <p xml:id="i-48F3dNBD1eLdt9QvxN2CZB">
-          Hur avser försvarsministern att tillse att Försvarsmakten uppfyller
-          riksdagens beslut i denna fråga och följer av riksdagen givna
-          direktiv?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Pt4EXMSGZ3yY6EVcHkVKqh">
+            Försvarsutskottet skrev i sammanfattningen i försvarsutskottets
+            betänkande 2004/05:FöU4 Sveriges försvarspolitik 2005@2007: "Det
+            är viktigt att behålla och utveckla förmåga och kompetens för
+            strid i bebyggd miljö och subarktiskt klimat". Vidare skriver
+            utskottet i betänkandet att: "Utskottet anser att vad som redovisats
+            i dessa delar tills vidare kan läggas till grund för förmågeutvecklingen
+            för de olika förbanden. Insatsorganisationen skall ha förmåga
+            att uppträda i hela landet och under förekommande klimatologiska
+            förhållanden. Det är viktigt att behålla och kunna utveckla förmåga
+            och kompetens för strid i bebyggd miljö och i subarktiskt klimat."
+            Betänkandet antogs av riksdagen den 16 december 2004.
+          </p>
+          <p xml:id="i-U6P9w5pSBRHCZTf2ipz33o">
+            Enligt uppgift har helikopterflottiljchefen på Malmen föreslagit
+            att två helikopter 15 skulle placeras på F 21 i Luleå för att
+            säkerställa att den subarktiska förmågan bibehålls och kan utvecklas.
+            Den 18 januari 2005 skriver högkvarteret i sin skrivelse, HKV
+            den 18 januari 2005: "02 300:61073 Ramvillkor för organisationsarbete
+            vid förband, skolor och centra m a a Försvarsbeslut -04: Vid fortsatt
+            arbete i enlighet med styrkort gäller tidigare given inriktning
+            att endast Helikopter 10 baseras i Luleå/KAX
+          </p>
+          <p xml:id="i-DXwaKSu8nLFxXwC2XHCD91">
+            Helikopter 10 upprätthåller Flygräddningen/FRÄD och bibehåller
+            dagens förmåga att verka med Helikopter 10-systemet i subarktisk
+            miljö. Övriga helikoptersystem upprätthåller begränsad förmåga
+            att genomföra flyguppdrag under vinterförhållanden i fjäll- och
+            ödemarksterräng genom tillfällig basering. Helikopterflottiljen
+            kan därmed understödja olika typer av förband under dessa förhållanden,
+            men från 'fast bas'. Detta innebär att endast Helikopter 10-personal
+            skall ha arbetsort Luleå. Inriktningen innebär en ambitionssänkning
+            relativt dagens subarktiska förmåga."
+          </p>
+          <p xml:id="i-7Ynfmt97v3n9BMSPCkpdAM">
+            Vidare skriver Högkvarteret Grundorganisation Flygvapnet/GRO
+            FV bland annat i sitt PM: "GRO FV föreslår att begreppet 'subarktisk
+            förmåga' utgår för helikopterflottiljen och att denna ändras till
+            "Förmåga att genomföra flyguppdrag under vinterförhållanden i
+            fjäll- och ödemarksterräng" och längre fram i PM:et: "Subarktisk
+            förmåga vidmakthålles ej".
+          </p>
+          <p xml:id="i-VxiNMSU4WbWbhXU2epCcBR">
+            Jag frågar mig vad vi har riksdagen till när en myndighet obstruerar
+            ett riksdagsbeslut på detta sätt.
+          </p>
+          <p xml:id="i-NEm9QV8eDwUPU9RYSGt8qu">
+            Hur avser försvarsministern att tillse att Försvarsmakten uppfyller
+            riksdagens beslut i denna fråga och följer av riksdagen givna
+            direktiv?
+          </p>
+        </div>
       </div>
     </body>
   </text>

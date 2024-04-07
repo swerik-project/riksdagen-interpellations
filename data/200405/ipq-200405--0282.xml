@@ -3,116 +3,164 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ensamstående föräldrar med nyfödda barn</title>
+        <author>Magnusson, Cecilia (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ensamstående föräldrar med nyfödda barn till socialminister Berit Andnor om ensamstående föräldrar med nyfödda barn</title>
+          <idno type="rdwebb">GS10282</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10282/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10282</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10282</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Evjo9hsKrPvb3KMyegAipb</idno>
+            <persName>Cecilia Magnusson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
+            <persName>Berit Andnor</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
+            <persName>Berit Andnor</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XrjpCXAWiHf7hK8u87rpmn" corresp="i-Evjo9hsKrPvb3KMyegAipb">
+          <date when="2004-12-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5sEbtM1WygYkUPAkTWh6h6">
+          <date when="2005-01-07"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GfhghVzJwqRtLVEPCgCiGH">
+          <date when="2005-01-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Hm3rF9azoPqxK35zuxQnFN" corresp="i-LdbVtbdPx3MQxR6GEgCqax">
+          <date when="2005-01-07"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8HehWLCjcn5KqHrkweY4Dq" corresp="i-LdbVtbdPx3MQxR6GEgCqax">
+          <date when="2005-01-27"/>
+        </correspAction>
+        <correspContext corresp="i-8HehWLCjcn5KqHrkweY4Dq">
+          <ref type="record" target="prot-200405--065">Riksdagens protokoll 2004/05:65 Torsdagen den 27 januari</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2004/05:282 om ensamstående föräldrar med nyfödda barn</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0282</head>
-        <author who="i-Evjo9hsKrPvb3KMyegAipb">Cecilia Magnusson</author>
-        <recipient who="i-LdbVtbdPx3MQxR6GEgCqax">Berit Andnor</recipient>
-        <topic>ensamstående föräldrar med nyfödda barn</topic>
-        <docDate when="2004-12-21">den 21 december</docDate>
-        <status when="unknown" byWhom="Berit Andnor" byWhomId="i-LdbVtbdPx3MQxR6GEgCqax" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10282</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:282 av Cecilia Magnusson (m) till socialminister
-          Berit Andnor om ensamstående föräldrar med nyfödda barn
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ly1gZjHBiwsvHxyud5tWd2">
+            Interpellation 2004/05:282 av Cecilia Magnusson (m) till socialminister
+            Berit Andnor om ensamstående föräldrar med nyfödda barn
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LnfT1i4zNqUBi68SoNz5BH">
+            den 21 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Ne2HvKfBn7fjErwE46j7Nk">
-          Regeringen har tillsatt en utredare för att göra en översyn av
-          föräldraförsäkringen. I direktiven har ett brett perspektiv tagits
-          för att se över försäkringens regler i förhållande till situationen
-          för dagens föräldrar. Det är viktigt att en rejäl översyn görs
-          och det är angeläget att den nya tidens alla familjekonstellationer
-          finns med i utredningens perspektiv. Tyvärr saknar jag en "gammal"
-          familjekonstellation i regeringens direktiv till utredaren.
-        </p>
-        <p xml:id="i-5zHLL8upD4SxGDgZ3ZWDN8">
-          I direktiven utgår regeringen från att det alltid finns två föräldrar.
-          Sådan är situationen i nio fall av tio, men det finns personer
-          som redan från barnets födelse står ensamma med föräldraansvaret.
-          Dessa behöver mer än andra ett starkt nätverk runtom sig. Men
-          också ett särskilt starkt stöd från stat och samhälle.
-        </p>
-        <p xml:id="i-Pnywvf86yaRdUbJZEcntbF">
-          Var kommer barnen till de ensamstående föräldrarna in i utvärderingen
-          av föräldraförsäkringen?
-        </p>
-        <p xml:id="i-5xPXHLgQg4ViD5u8hR65DA">
-          I många år har jag i motioner och interpellationer uppmärksammat
-          riksdagen och statsråd om denna grupp av föräldrar som behöver
-          ett bättre stöd. Förutom exemplen nedan finns det troligtvis fler
-          situationer där reglerna i föräldraförsäkringen hjälper de föräldrar
-          som är två, men ställer ensamföräldrar utanför. Därför anser jag
-          att den av regeringen tillsatta Föräldraförsäkringsutredningen
-          bör få tilläggsdirektiv som också ser över stödet för de barn
-          med ensamstående föräldrar.
-        </p>
-        <p xml:id="i-MSqXAThYXhP8qzrFPNE3TR">
-          Exempel:
-        </p>
-        <p xml:id="i-7Z1HwL6GHttTanDdBrb27F">
-          1. Sedan 2001 är det möjligt att överlåta de så kallade tio pappadagarna
-          på annan person än förälder, enligt särskilda regler. Denna regel
-          tillämpas på försäkringskassorna så att för att överlåtelse ska
-          kunna ske måste en man som bestrider ett faderskap skriva under
-          ett tillstånd av överlåtelse för att den nyblivna mamman ska få
-          hjälp av någon närstående under de viktiga dagarna i hennes och
-          barnets nya liv. Detta tillstånd ger inte den förmodade fadern
-          med resultat att mamman och barnet blir utan stöd. Enligt de uppgifter
-          som jag har från försäkringskassan måste det till en ändring i
-          lagstiftningen om reglerna ska tolkas på annat sätt.
-        </p>
-        <p xml:id="i-7Xp85aCwf9yfoYyud5SoZD">
-          2. Samma år infördes en möjlighet att överföra tillfällig föräldrapenning
-          på annan person i de fall att ordinarie vårdnadshavare själv är
-          sjuk. Detta var en välkommen förändring för ensamföräldrar som
-          drabbas av sjukdom och inte kan ta hand om sina barn. Är dock
-          barnet yngre än åtta månader får inte överlåtelse ske. Inte kan
-          det vara så att ett nyfött barn har ett mindre omsorgsbehov än
-          ett barn som är nio månader, eller?
-        </p>
-        <p xml:id="i-R1qkuYkctErfAgHPSthxrU">
-          Det senare exemplet behandlades i riksdagen så sent som den 8
-          december 2004. Majoriteten angav då som skäl att inte bifalla
-          en motion som krävde att man skulle ta bort den regel som omöjliggör
-          ett viktigt stöd för ensamföräldrar som blir sjuka att det ska
-          den tillsatta utredningen se över. Men i direktiven är denna föräldragrupp
-          över huvud taget inte nämnd.
-        </p>
-        <p xml:id="i-BWSR5FtDxgtZx6bcYg12Q9">
-          Avser statsrådet att ge utredaren i Föräldraförsäkringsutredningen
-          tilläggsdirektiv för att även barn med en förälder ska få ett
-          bättre stöd från föräldraförsäkringen?
-        </p>
-        <p xml:id="i-6Rf2jfigepYvWzaYDozLFv">
-          Avser statsrådet att vidta några andra åtgärder med anledning
-          av ovanstående?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RR5s1TcNT2v8ZkDxcTfnK5">
+            Regeringen har tillsatt en utredare för att göra en översyn av
+            föräldraförsäkringen. I direktiven har ett brett perspektiv tagits
+            för att se över försäkringens regler i förhållande till situationen
+            för dagens föräldrar. Det är viktigt att en rejäl översyn görs
+            och det är angeläget att den nya tidens alla familjekonstellationer
+            finns med i utredningens perspektiv. Tyvärr saknar jag en "gammal"
+            familjekonstellation i regeringens direktiv till utredaren.
+          </p>
+          <p xml:id="i-LueSfpSHSMYbghw32xp1J4">
+            I direktiven utgår regeringen från att det alltid finns två föräldrar.
+            Sådan är situationen i nio fall av tio, men det finns personer
+            som redan från barnets födelse står ensamma med föräldraansvaret.
+            Dessa behöver mer än andra ett starkt nätverk runtom sig. Men
+            också ett särskilt starkt stöd från stat och samhälle.
+          </p>
+          <p xml:id="i-Y952x21MQ7mG9vwQgWLzjv">
+            Var kommer barnen till de ensamstående föräldrarna in i utvärderingen
+            av föräldraförsäkringen?
+          </p>
+          <p xml:id="i-2RsMwv8FPhDdGogdh48R24">
+            I många år har jag i motioner och interpellationer uppmärksammat
+            riksdagen och statsråd om denna grupp av föräldrar som behöver
+            ett bättre stöd. Förutom exemplen nedan finns det troligtvis fler
+            situationer där reglerna i föräldraförsäkringen hjälper de föräldrar
+            som är två, men ställer ensamföräldrar utanför. Därför anser jag
+            att den av regeringen tillsatta Föräldraförsäkringsutredningen
+            bör få tilläggsdirektiv som också ser över stödet för de barn
+            med ensamstående föräldrar.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-SsJWqkUJzsrR8A6fW1CLYZ">
+            Exempel:
+            <list rend="unordered">
+              <item>
+                1. Sedan 2001 är det möjligt att överlåta de så kallade tio pappadagarna
+                på annan person än förälder, enligt särskilda regler. Denna regel
+                tillämpas på försäkringskassorna så att för att överlåtelse ska
+                kunna ske måste en man som bestrider ett faderskap skriva under
+                ett tillstånd av överlåtelse för att den nyblivna mamman ska få
+                hjälp av någon närstående under de viktiga dagarna i hennes och
+                barnets nya liv. Detta tillstånd ger inte den förmodade fadern
+                med resultat att mamman och barnet blir utan stöd. Enligt de uppgifter
+                som jag har från försäkringskassan måste det till en ändring i
+                lagstiftningen om reglerna ska tolkas på annat sätt.
+              </item>
+              <item>
+                2. Samma år infördes en möjlighet att överföra tillfällig föräldrapenning
+                på annan person i de fall att ordinarie vårdnadshavare själv är
+                sjuk. Detta var en välkommen förändring för ensamföräldrar som
+                drabbas av sjukdom och inte kan ta hand om sina barn. Är dock
+                barnet yngre än åtta månader får inte överlåtelse ske. Inte kan
+                det vara så att ett nyfött barn har ett mindre omsorgsbehov än
+                ett barn som är nio månader, eller?
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-BBYcKgbw6ER5dg7JGEuBcg">
+            Det senare exemplet behandlades i riksdagen så sent som den 8
+            december 2004. Majoriteten angav då som skäl att inte bifalla
+            en motion som krävde att man skulle ta bort den regel som omöjliggör
+            ett viktigt stöd för ensamföräldrar som blir sjuka att det ska
+            den tillsatta utredningen se över. Men i direktiven är denna föräldragrupp
+            över huvud taget inte nämnd.
+          </p>
+          <p xml:id="i-JzEebGPoiVvX3iELHvw9Q4">
+            Avser statsrådet att ge utredaren i Föräldraförsäkringsutredningen
+            tilläggsdirektiv för att även barn med en förälder ska få ett
+            bättre stöd från föräldraförsäkringen?
+          </p>
+          <p xml:id="i-5zE1agfmFMkMJ1zJF57qQ6">
+            Avser statsrådet att vidta några andra åtgärder med anledning
+            av ovanstående?
+          </p>
+        </div>
       </div>
     </body>
   </text>

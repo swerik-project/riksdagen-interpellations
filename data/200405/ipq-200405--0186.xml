@@ -3,94 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>delad vårdnad</title>
+        <author>Acketoft, Tina (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>delad vårdnad till statsrådet Jens Orback om delad vårdnad</title>
+          <idno type="rdwebb">GS10186</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10186/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10186</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10186</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-S7wLw9aynA5vbRCsqxxL3N</idno>
+            <persName>Tina Acketoft</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TjuoD8RyoxE7YhQRZrJaQy" corresp="i-S7wLw9aynA5vbRCsqxxL3N">
+          <date when="2004-11-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9FW42p9BrE9zduu5zorLAJ">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FqWJ5rPiec66HuKxa9jxYW">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LR8opeeUBe1nQYqgik8K7z" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-23oCHWGAkSwmg4DAkL8mGX" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspContext corresp="i-23oCHWGAkSwmg4DAkL8mGX">
+          <ref type="record" target="prot-200405--050">Riksdagens protokoll 2004/05:50 Tisdagen den 14 december</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:186 om delad vårdnad</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0186</head>
-        <author who="i-S7wLw9aynA5vbRCsqxxL3N">Tina Acketoft</author>
-        <recipient who="i-UEQA68w6PM78ttj4KfvgwE">Jens Orback</recipient>
-        <topic>delad vårdnad</topic>
-        <docDate when="2004-11-19">den 19 november</docDate>
-        <status when="2004-12-14" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10186</external_id>
-        <debate>
-          <turn when="2004-12-14 13:31:08" duration="115">Thomas Bodström (S)</turn>
-          <turn when="2004-12-14 13:33:00" duration="242">Tina Acketoft (Fp)</turn>
-          <turn when="2004-12-14 13:36:59" duration="211">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-12-14 13:40:26" duration="259">Thomas Bodström (S)</turn>
-          <turn when="2004-12-14 13:44:30" duration="238">Tina Acketoft (Fp)</turn>
-          <turn when="2004-12-14 13:48:24" duration="97">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-12-14 13:49:57" duration="140">Thomas Bodström (S)</turn>
-          <turn when="2004-12-14 13:52:03" duration="121">Tina Acketoft (Fp)</turn>
-          <turn when="2004-12-14 13:54:00" duration="86">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:186 av Tina Acketoft (fp) till statsrådet
-          Jens Orback om delad vårdnad
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QGXV9g4hwv8QZLwWsJYQfj">
+            Interpellation 2004/05:186 av Tina Acketoft (fp) till statsrådet
+            Jens Orback om delad vårdnad
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Uz1pRzwtjQymGopdommjsB">
+            den 19 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XDcBnoZu48qFhEtu4CZMaG">
-          Enligt mediernas rapportering har jämställdhetsministern ifrågasatt
-          den i Sverige härskande föreställningen att alla barn mår bäst
-          av delad vårdnad vid skilsmässa @ oavsett familjehistorik. Ministerns
-          inlägg är mycket välkommet i debatten och också möjligen en första
-          öppning till ett nytt synsätt med ett verkligt barnperspektiv
-          i vårdnadsfrågan.
-        </p>
-        <p xml:id="i-A2rqwg1wVUpvserx4qWeeE">
-          Många barn i dagens Sverige lever i en utsatt situation. Rädda
-          Barnen uppskattar att mellan 100 000 och 200 000 barn lever i
-          våldsamma förhållanden där de själva borde betraktas som brottsoffer
-          i lagens mening. I Sverige i dag är uppskattningsvis 200 mammor
-          på flykt med sina barn undan den "svenska rättvisan", som i dag,
-          enligt justitieministern "alltid (har) barnperspektivet och inte
-          den vuxnes intressen . i fokus." Mammor blir kriminella därför
-          att de inte ser någon annan utväg att skydda sina barn, från de
-          fäder som förgripit sig på dem, än att fly.
-        </p>
-        <p xml:id="i-HP2kZ8R3Jxzq1ghVnyv816">
-          I dag visar verkligheten att det i princip är omöjligt för en
-          man att diskvalificeras som vårdnadshavare. Den svenska modellen
-          i vårdnadsfrågor tar tydligt sitt avstamp i ett feltänkt jämställdhetsperspektiv
-          snarare än barnperspektivet. Detta blir synnerligen uppenbart
-          i de fall där barn vars fäder anmälts för sexuella övergrepp och
-          misshandel ändå får gemensam vårdnad och växelvis boende under
-          pågående brottsutredningar om incest och grov kvinnofridskränkning.
-          Även efter fällande dom anses det i många fall viktigare för barnets
-          fortsatta utveckling att kontakten med fadern, förövaren, upprätthålls,
-          och i de fall modern emotsätter sig detta anses hon inte sällan
-          utgöra ett större hot för barnets utveckling @ och kan då förlora
-          vårdnaden på grund av att hon obstruerar domslutet.
-        </p>
-        <p xml:id="i-UaM2vbkDTTiZ8r8GAF7pDB">
-          Vilka åtgärder avser statsrådet att vidta för att i grunden förändra
-          den rådande samhällssynen att delad vårdnad alltid är bäst för
-          barnen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-HVLWYUK5XL7pwuZPDcHfFc">
+            Enligt mediernas rapportering har jämställdhetsministern ifrågasatt
+            den i Sverige härskande föreställningen att alla barn mår bäst
+            av delad vårdnad vid skilsmässa @ oavsett familjehistorik. Ministerns
+            inlägg är mycket välkommet i debatten och också möjligen en första
+            öppning till ett nytt synsätt med ett verkligt barnperspektiv
+            i vårdnadsfrågan.
+          </p>
+          <p xml:id="i-BB4L3Z1p8EEGNmFpgYMgZx">
+            Många barn i dagens Sverige lever i en utsatt situation. Rädda
+            Barnen uppskattar att mellan 100 000 och 200 000 barn lever i
+            våldsamma förhållanden där de själva borde betraktas som brottsoffer
+            i lagens mening. I Sverige i dag är uppskattningsvis 200 mammor
+            på flykt med sina barn undan den "svenska rättvisan", som i dag,
+            enligt justitieministern "alltid (har) barnperspektivet och inte
+            den vuxnes intressen . i fokus." Mammor blir kriminella därför
+            att de inte ser någon annan utväg att skydda sina barn, från de
+            fäder som förgripit sig på dem, än att fly.
+          </p>
+          <p xml:id="i-Nz1L3oPxsyyJqPxktD4fxU">
+            I dag visar verkligheten att det i princip är omöjligt för en
+            man att diskvalificeras som vårdnadshavare. Den svenska modellen
+            i vårdnadsfrågor tar tydligt sitt avstamp i ett feltänkt jämställdhetsperspektiv
+            snarare än barnperspektivet. Detta blir synnerligen uppenbart
+            i de fall där barn vars fäder anmälts för sexuella övergrepp och
+            misshandel ändå får gemensam vårdnad och växelvis boende under
+            pågående brottsutredningar om incest och grov kvinnofridskränkning.
+            Även efter fällande dom anses det i många fall viktigare för barnets
+            fortsatta utveckling att kontakten med fadern, förövaren, upprätthålls,
+            och i de fall modern emotsätter sig detta anses hon inte sällan
+            utgöra ett större hot för barnets utveckling @ och kan då förlora
+            vårdnaden på grund av att hon obstruerar domslutet.
+          </p>
+          <p xml:id="i-UKD2SftNaZmVkrsKDU92p1">
+            Vilka åtgärder avser statsrådet att vidta för att i grunden förändra
+            den rådande samhällssynen att delad vårdnad alltid är bäst för
+            barnen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

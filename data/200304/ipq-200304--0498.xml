@@ -3,178 +3,218 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>lotsningsavgifter</title>
+        <author>Hagfeldt, Stefan (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>lotsningsavgifter till statsrådet Ulrica Messing om lotsningsavgifter</title>
+          <idno type="rdwebb">GR10498</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10498/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10498</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10498</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-RCNVVc6jFAU8YPdr6sW8jH</idno>
+            <persName>Stefan Hagfeldt</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-PBaKshEozTuAwCwgMQLosD" corresp="i-RCNVVc6jFAU8YPdr6sW8jH">
+          <date when="2004-05-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PdgyBxQuwEUfFwyVPBBwhh">
+          <date when="2004-05-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-11sKEHn8CkUa89Npx8UUA">
+          <date when="2004-06-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AMMmAktuvsbhnhzLvkCBj9" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-05-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EVeCyoDg1afJRdX1ScEdv4" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-06-15"/>
+        </correspAction>
+        <correspContext corresp="i-EVeCyoDg1afJRdX1ScEdv4">
+          <ref type="record" target="prot-200304--128">Riksdagens protokoll 2003/04:128 Tisdagen den 15 juni</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2003/04:498 om lotsningsavgifter</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0498</head>
-        <author who="i-RCNVVc6jFAU8YPdr6sW8jH">Stefan Hagfeldt</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>lotsningsavgifter</topic>
-        <docDate when="2004-05-14">den 14 maj</docDate>
-        <status when="2004-06-15" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10498</external_id>
-        <debate>
-          <turn when="2004-06-15 13:18:45" duration="197">Ulrica Messing (S)</turn>
-          <turn when="2004-06-15 13:21:58" duration="250">Stefan Hagfeldt (M)</turn>
-          <turn when="2004-06-15 13:26:05" duration="211">Ulrica Messing (S)</turn>
-          <turn when="2004-06-15 13:29:26" duration="262">Stefan Hagfeldt (M)</turn>
-          <turn when="2004-06-15 13:33:44" duration="204">Ulrica Messing (S)</turn>
-          <turn when="2004-06-15 13:37:00" duration="147">Stefan Hagfeldt (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:498 av Stefan Hagfeldt (m) till statsrådet
-          Ulrica Messing om lotsningsavgifter
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Eb52zSkvPfADXVM74kaw6A">
+            Interpellation 2003/04:498 av Stefan Hagfeldt (m) till statsrådet
+            Ulrica Messing om lotsningsavgifter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MguZ3HgCMfuFN1TB69gVEA">
+            den 14 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-B6r34exYZkCTvm1UcoAKRy">
-          Under de senaste fem åren har lotsavgifterna höjts med ca 120
-          %, beräknat enligt "ränta-på-ränta-metoden" (år 1999 +12 %, år
-          2000 +15 %, år 2001 +15 %, år 2002 +23 % och år 2003 +20 %). Enligt
-          Sjöfartsverket beräknas lotsavgifterna årligen fortsätta att öka
-          med 20 % de närmaste åren.
-        </p>
-        <p xml:id="i-BrEBYmcmh5i4h3eTLJgkXc">
-          Siffrorna visar med all tydlighet behovet av att finna konstruktiva
-          lösningar för utformningen av lotsningsverksamheten, exempelvis
-          nödvändigheten av att denna verksamhet utsätts för konkurrens.
-        </p>
-        <p xml:id="i-13tPR8NPvNs2Qam2MyoBU4">
-          Dagens system medverkar till att snedvrida konkurrensen, eftersom
-          lotsningen till en inlandshamn är betydligt dyrare än motsvarande
-          tjänst till en hamn belägen vid kusten. Systemet medför att Sjöfartsverket
-          styr konkurrensen mellan hamnarna med sitt monopol och sin prissättning.
-          Jag anser att under nuvarande monopolsituation ska priserna vara
-          regionalpolitiskt och konkurrensneutralt utformade och följaktligen
-          lika, oavsett om det gäller en kusthamn eller en inlandshamn.
-        </p>
-        <p xml:id="i-YzFYJXyKeb8xtpeyCngkP">
-          Den kommun som jag kommer från, Norrköping, drabbas mycket hårt
-          av de dramatiskt höjda lotsavgifterna.
-        </p>
-        <p xml:id="i-VnAbZE63Xi5tWuDrP4Z3XK">
-          Norrköpings hamn är en av landets största, där det hanterade
-          godsvärdet utgör en betydande del av det samlade varuvärdet av
-          import och export över Sveriges hamnar. Hamnen har av trafikverken
-          (Vägverket, Banverket, Sjöfartsverket och Luftfartsverket) och
-          näringslivet pekats ut som en av fyra betydelsefulla intermodala
-          noder inom den nordiska triangeln.
-        </p>
-        <p xml:id="i-JJjQzFXwi8XEVdVjyqfth">
-          Norrköpings hamn har som mål att bli den mest betydelsefulla
-          containerhamnen på ostkusten. Under innevarande år har volymen
-          mer än fördubblats, och inom en fyraårsperiod väntas volymen uppgå
-          till 100 000 containrar per år. För att kunna uppnå detta gör
-          Norrköpings hamn och Stuveri AB också en satsning på utökade hamnytor
-          och en kombiterminal vid Norrköpings djuphamn Pampus på Händelö.
-        </p>
-        <p xml:id="i-DkGKi4cQ9rQSmQ7FgVwLQP">
-          Under året har beslut fattats om att en ny gränskontrollstation
-          för import av animaliska produkter ska etableras i Norrköpings
-          hamn. Stationen är belägen i direkt anslutning till Norrköpings
-          djuphamn och drivs av Livsmedelsverket. Gränskontrollstationen
-          är en av få anläggningar i sitt slag i landet, och med Norrköpings
-          gynnsamma geografiska läge bedöms den få stor betydelse för möjligheterna
-          att betjäna de östra och mellersta delarna av landet med importerade
-          livsmedel.
-        </p>
-        <p xml:id="i-6b9XHi5n2Xg3tpkCCyxmdt">
-          Norrköpings hamn och Stuveri AB har låtit göra en jämförelse
-          över lotskostnaden i några olika hamnar. Lotsningen i exemplet
-          avser ett anlöp av ett fartyg på 21 000 bruttoton, vilket motsvarar
-          den typ av fartyg för transocean trafik som ofta anlöper Norrköping.
-          Bedömningen av lotsavgifterna i respektive hamn baseras på uppgifter
-          från lotskontoren i respektive hamn.
-        </p>
-        <p xml:id="i-W27Byds8RZWUZ2UTnCSWc9">
-          De utvalda hamnarna är Norrköping, Halmstad, Göteborg samt Ålborg
-          i Danmark. Till danska hamnar erläggs endast lotsavgift, medan
-          Sverige tillämpar ett annorlunda avgiftssystem som är baserat
-          på dels lotsad tid, dels fartygets bruttodräktighet.
-        </p>
-        <p xml:id="i-4oCaaM6Zhjm13GsxyuxPhS">
-          Enligt uppgift från Limfjordens Lodseri uppgår kostnaden för
-          fartyget till Ålborgs hamn till ca 33 928 danska kronor.
-        </p>
-        <p xml:id="i-CYViBM5kfUZrypsXH3XfRH">
-          Kostnaderna för lotsning till de svenska hamnarna är följande:
-        </p>
-        <p xml:id="i-Xy6bVLH62PavhfppMc6uAK">
-          Norrköping, lotsavgifter: 32 852 kr
-        </p>
-        <p xml:id="i-UVHy6NiZi8CvBYTSeDVa7a">
-          Halmstad, lotsavgifter: 15 792 kr
-        </p>
-        <p xml:id="i-LibeAvWtzp6fx3dPE6fDTr">
-          Göteborg, lotsavgifter: 21 478 kr
-        </p>
-        <p xml:id="i-CPqvJe6HK397Ttyd5SwFCr">
-          I ovanstående sammanställning är de totala kostnaderna för lotsning
-          till Norrköping 108 % högre än i Halmstad och 53 % högre än i
-          Göteborg.
-        </p>
-        <p xml:id="i-8haW6GR763EBwJe6Wg6cv">
-          I Sverige betalas utöver lotsavgifter även statliga farledsavgifter.
-          Dessa innefattar dels en avgift för fartyget baserad på fartygets
-          bruttodräktighet, dels en varuavgift baserad på godsets vikt.
-        </p>
-        <p xml:id="i-5an4nF93FCHsvu9qhmqZhM">
-          Farledsavgiften är i dag 4,10@5,00 svenska kronor per bruttoton,
-          beroende på fartygets bränsletyp. Varuavgiften är 3,60 kr per
-          lastat eller lossat godston.
-        </p>
-        <p xml:id="i-2xt3SPMrt7QbtdmGJPj5t3">
-          I exemplet ovan kan antas att båten, med en vikt på 21 000 ton,
-          lastar 10 000 ton papper. I detta fall belastas båten med statliga
-          avgifter på 122 100 kr. Till detta kommer kostnaderna för lotsning.
-        </p>
-        <p xml:id="i-MubD1ch7Fixn4yCo1kQ6wq">
-          Motsvarande avgifter tas inte ut i danska hamnar, vilket följaktligen
-          skapar stora snedvridningar i konkurrensen mellan länderna. Snedvridningarna
-          får också stora konsekvenser för svensk industri och visar behovet
-          av att se över Sjöfartsverkets roll som affärsdrivande verk i
-          ett sammanhang som detta, där verket har en ren monopolställning.
-        </p>
-        <p xml:id="i-SSdGkN161b14DjjnDpGKt8">
-          Med hänvisning till ovanstående ställer jag härmed följande frågor
-          till statsrådet Ulrica Messing:
-        </p>
-        <p xml:id="i-VTDfbq3zVJ63nHoTtxW9U7">
-          1. Är statsrådet beredd att se över lotsningsverksamheten i syfte
-          att få en effektivare verksamhet som medför lägre lotsningsavgifter?
-        </p>
-        <p xml:id="i-DZXWg212JChTD7QCc21kfN">
-          2. Kommer statsrådet att verka för att lotsningsavgifterna blir
-          konkurrensneutralt utformade mellan inlandshamnar och hamnar belägna
-          vid kusten?
-        </p>
-        <p xml:id="i-LKCASCcPbZx1tfBzP9z7pc">
-          3. Är statsrådet beredd att låta lotsningsverksamheten utsättas
-          för konkurrens?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-F3MrLpQWxGyTtF9FR61vKU">
+            Under de senaste fem åren har lotsavgifterna höjts med ca 120
+            %, beräknat enligt "ränta-på-ränta-metoden" (år 1999 +12 %, år
+            2000 +15 %, år 2001 +15 %, år 2002 +23 % och år 2003 +20 %). Enligt
+            Sjöfartsverket beräknas lotsavgifterna årligen fortsätta att öka
+            med 20 % de närmaste åren.
+          </p>
+          <p xml:id="i-D6wg2m2b4KG84KooWwq6nL">
+            Siffrorna visar med all tydlighet behovet av att finna konstruktiva
+            lösningar för utformningen av lotsningsverksamheten, exempelvis
+            nödvändigheten av att denna verksamhet utsätts för konkurrens.
+          </p>
+          <p xml:id="i-GqbrknCmdG6v7nXG57nBY4">
+            Dagens system medverkar till att snedvrida konkurrensen, eftersom
+            lotsningen till en inlandshamn är betydligt dyrare än motsvarande
+            tjänst till en hamn belägen vid kusten. Systemet medför att Sjöfartsverket
+            styr konkurrensen mellan hamnarna med sitt monopol och sin prissättning.
+            Jag anser att under nuvarande monopolsituation ska priserna vara
+            regionalpolitiskt och konkurrensneutralt utformade och följaktligen
+            lika, oavsett om det gäller en kusthamn eller en inlandshamn.
+          </p>
+          <p xml:id="i-MfyQaA39UuG8UXTWMckj1w">
+            Den kommun som jag kommer från, Norrköping, drabbas mycket hårt
+            av de dramatiskt höjda lotsavgifterna.
+          </p>
+          <p xml:id="i-5Zcg8FGtbPcic7LCkPX6f4">
+            Norrköpings hamn är en av landets största, där det hanterade
+            godsvärdet utgör en betydande del av det samlade varuvärdet av
+            import och export över Sveriges hamnar. Hamnen har av trafikverken
+            (Vägverket, Banverket, Sjöfartsverket och Luftfartsverket) och
+            näringslivet pekats ut som en av fyra betydelsefulla intermodala
+            noder inom den nordiska triangeln.
+          </p>
+          <p xml:id="i-CZDhhYrvXH4W3gNTJCRdDG">
+            Norrköpings hamn har som mål att bli den mest betydelsefulla
+            containerhamnen på ostkusten. Under innevarande år har volymen
+            mer än fördubblats, och inom en fyraårsperiod väntas volymen uppgå
+            till 100 000 containrar per år. För att kunna uppnå detta gör
+            Norrköpings hamn och Stuveri AB också en satsning på utökade hamnytor
+            och en kombiterminal vid Norrköpings djuphamn Pampus på Händelö.
+          </p>
+          <p xml:id="i-CPWBFgDQi6BmN4ut1UYot8">
+            Under året har beslut fattats om att en ny gränskontrollstation
+            för import av animaliska produkter ska etableras i Norrköpings
+            hamn. Stationen är belägen i direkt anslutning till Norrköpings
+            djuphamn och drivs av Livsmedelsverket. Gränskontrollstationen
+            är en av få anläggningar i sitt slag i landet, och med Norrköpings
+            gynnsamma geografiska läge bedöms den få stor betydelse för möjligheterna
+            att betjäna de östra och mellersta delarna av landet med importerade
+            livsmedel.
+          </p>
+          <p xml:id="i-5dsBY3v3xm1U6NRuYQcetW">
+            Norrköpings hamn och Stuveri AB har låtit göra en jämförelse
+            över lotskostnaden i några olika hamnar. Lotsningen i exemplet
+            avser ett anlöp av ett fartyg på 21 000 bruttoton, vilket motsvarar
+            den typ av fartyg för transocean trafik som ofta anlöper Norrköping.
+            Bedömningen av lotsavgifterna i respektive hamn baseras på uppgifter
+            från lotskontoren i respektive hamn.
+          </p>
+          <p xml:id="i-9E3kgCvzq3x7sVW79fkuT3">
+            De utvalda hamnarna är Norrköping, Halmstad, Göteborg samt Ålborg
+            i Danmark. Till danska hamnar erläggs endast lotsavgift, medan
+            Sverige tillämpar ett annorlunda avgiftssystem som är baserat
+            på dels lotsad tid, dels fartygets bruttodräktighet.
+          </p>
+          <p xml:id="i-Nqr9AvAwisWihCijTxC6VE">
+            Enligt uppgift från Limfjordens Lodseri uppgår kostnaden för
+            fartyget till Ålborgs hamn till ca 33 928 danska kronor.
+          </p>
+          <p xml:id="i-EgeGkT8N2kFNf44YPmTH96">
+            Kostnaderna för lotsning till de svenska hamnarna är följande:
+          </p>
+          <p xml:id="i-RMgGkfQaCY2V2SDbQJS5ju">
+            Norrköping, lotsavgifter: 32 852 kr
+          </p>
+          <p xml:id="i-TZmW3DAYRNBwJDiouaJrVz">
+            Halmstad, lotsavgifter: 15 792 kr
+          </p>
+          <p xml:id="i-e29x77ZewbsFMyyvvLWZo">
+            Göteborg, lotsavgifter: 21 478 kr
+          </p>
+          <p xml:id="i-3EQwPHfgZLQdu7xuZYu1Ew">
+            I ovanstående sammanställning är de totala kostnaderna för lotsning
+            till Norrköping 108 % högre än i Halmstad och 53 % högre än i
+            Göteborg.
+          </p>
+          <p xml:id="i-MAQiQwdWJFKNVGqwd6k29j">
+            I Sverige betalas utöver lotsavgifter även statliga farledsavgifter.
+            Dessa innefattar dels en avgift för fartyget baserad på fartygets
+            bruttodräktighet, dels en varuavgift baserad på godsets vikt.
+          </p>
+          <p xml:id="i-QgRmJ8VYxQ9TWmyZn5oWfm">
+            Farledsavgiften är i dag 4,10@5,00 svenska kronor per bruttoton,
+            beroende på fartygets bränsletyp. Varuavgiften är 3,60 kr per
+            lastat eller lossat godston.
+          </p>
+          <p xml:id="i-8XyMDXCMJFn2sCcYjrw1ps">
+            I exemplet ovan kan antas att båten, med en vikt på 21 000 ton,
+            lastar 10 000 ton papper. I detta fall belastas båten med statliga
+            avgifter på 122 100 kr. Till detta kommer kostnaderna för lotsning.
+          </p>
+          <p xml:id="i-UH34KkcHwHGH6Con71UCAr">
+            Motsvarande avgifter tas inte ut i danska hamnar, vilket följaktligen
+            skapar stora snedvridningar i konkurrensen mellan länderna. Snedvridningarna
+            får också stora konsekvenser för svensk industri och visar behovet
+            av att se över Sjöfartsverkets roll som affärsdrivande verk i
+            ett sammanhang som detta, där verket har en ren monopolställning.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-LALzBcoFmaLYQ2RyP1adZk">
+            Med hänvisning till ovanstående ställer jag härmed följande frågor
+            till statsrådet Ulrica Messing:
+            <list rend="unordered">
+              <item>
+                1. Är statsrådet beredd att se över lotsningsverksamheten i syfte
+                att få en effektivare verksamhet som medför lägre lotsningsavgifter?
+              </item>
+              <item>
+                2. Kommer statsrådet att verka för att lotsningsavgifterna blir
+                konkurrensneutralt utformade mellan inlandshamnar och hamnar belägna
+                vid kusten?
+              </item>
+              <item>
+                3. Är statsrådet beredd att låta lotsningsverksamheten utsättas
+                för konkurrens?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

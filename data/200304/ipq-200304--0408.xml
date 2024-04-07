@@ -3,127 +3,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>validering</title>
+        <author>Lindström, Torsten (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>validering till statsrådet Lena Hallengren om validering</title>
+          <idno type="rdwebb">GR10408</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10408/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10408</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10408</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-BUsYTbnmyQrtHXSA2gEp9T</idno>
+            <persName>Torsten Lindström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GDCzxBLvBxR6421RGgeHEs" corresp="i-BUsYTbnmyQrtHXSA2gEp9T">
+          <date when="2004-04-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Bb1aRHEiHsm1d3A5FehUbi">
+          <date when="2004-04-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QxGa6hLcrvub3rVrNQPF92">
+          <date when="2004-04-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-UiddqX8JaGsb3fvrmjzNcB" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-04-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BM7VwB22Q51mZGj4rE49NA" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-04-14"/>
+        </correspAction>
+        <correspContext corresp="i-BM7VwB22Q51mZGj4rE49NA">
+          <ref type="record" target="prot-200304--095">Riksdagens protokoll 2003/04:95 Onsdagen den 14 april</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:408 om validering</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0408</head>
-        <author who="i-BUsYTbnmyQrtHXSA2gEp9T">Torsten Lindström</author>
-        <recipient who="i-HxcQkHC9fDSzkJWgvdhDEF">Lena Hallengren</recipient>
-        <topic>validering</topic>
-        <docDate when="2004-04-02">den 2 april</docDate>
-        <status when="2004-04-14" byWhom="Lena Hallengren" byWhomId="i-HxcQkHC9fDSzkJWgvdhDEF" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10408</external_id>
-        <debate>
-          <turn when="2004-04-14 11:55:49" duration="241">Lena Hallengren (S)</turn>
-          <turn when="2004-04-14 11:59:46" duration="235">Torsten Lindström (Kd)</turn>
-          <turn when="2004-04-14 12:03:37" duration="163">Lena Hallengren (S)</turn>
-          <turn when="2004-04-14 12:06:16" duration="235">Torsten Lindström (Kd)</turn>
-          <turn when="2004-04-14 12:10:07" duration="219">Lena Hallengren (S)</turn>
-          <turn when="2004-04-14 12:13:42" duration="138">Torsten Lindström (Kd)</turn>
-          <turn when="2004-04-14 12:15:57" duration="108">Lena Hallengren (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:408 av Torsten Lindström (kd) till statsrådet
-          Lena Hallengren om validering
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GK2wPcbytTzbxMMQ4jpunr">
+            Interpellation 2003/04:408 av Torsten Lindström (kd) till statsrådet
+            Lena Hallengren om validering
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-TJMxGjU5wi1fPdD4zWS3or">
+            den 2 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MKi4ne9Vj6LtzN5MWJgaAx">
-          Dagens samhälle är och blir framöver i allt högre grad ett kunskapssamhälle.
-          I ett kunskapssamhälle är det avgörande att ta till vara människors
-          kunskaper. Det handlar om kunskaper både hos svenskar med lång
-          yrkeserfarenhet men utan formell dokumentation och hos de nya
-          svenskar som vill komma in på arbetsmarknaden men som i dag de
-          facto hindras att komma in på den.
-        </p>
-        <p xml:id="i-5HjvKoY9e6cSWPq2sWaPLE">
-          För att Sverige ska utvecklas som kunskapssamhälle är det också
-          nödvändigt att småföretagens behov av kvalificerad arbetskraft
-          tillgodoses. Bristen på arbetskraft är det enskilt största tillväxthindret
-          för mer än vart femte småföretag. Av de företag som anser sig
-          ha expansionsmöjligheter är det en än större andel, 28 %, som
-          betraktar arbetskraftsbristen som ett avgörande problem. Det handlar
-          om brister inom yrken som inte traditionellt setts som teoretiska
-          utan mer praktiska. Detta är utomordentligt allvarligt eftersom
-          företagens och därmed Sveriges ekonomiska utveckling hindras.
-        </p>
-        <p xml:id="i-HiDufWrE8d7w4RXCfTDa6p">
-          Kristdemokraterna menar att validering behöver utvecklas som
-          en metod för att faktiska kunskaper och reell kompetens ska tas
-          till vara. Det handlar om olika metoder för att uppskatta och
-          värdera människors kunskaper. Utmaningen att värdera och utgå
-          från människors varierande kunskaper rör flera olika grupper.
-          För Sveriges framtid som välfärdsstat är det nödvändigt att lösa
-          denna utmaning inte minst med tanke på den stora brist på arbetskraft
-          som kommer framöver.
-        </p>
-        <p xml:id="i-RFRPJ5Dn3mbc7TvNUqpQ1T">
-          Regeringen fick i oktober 2001 slutbetänkandet från Valideringsutredningen
-          med en rad förslag om hur valideringen kan utvecklas som ett instrument.
-          Regeringens respons på denna var en departementspromemoria, inte
-          den utlovade propositionen. En statlig delegation har nu inrättats,
-          med ett tidsbegränsat uppdrag från 2004 till 2007 att främja och
-          stödja metoder och system för validering. Centrum för flexibelt
-          lärande (CFL) är värdmyndighet för delegationen. Kristdemokraterna
-          menar att problemen kring validering inte löses genom att inrätta
-          en ny myndighet. Den 22 mars publicerades delegationens hemsida,
-          nära fyra månader efter att delegationen inlett sitt arbete. Hemsidan
-          är snygg men saknar svar på de innehållsmässiga frågeställningarna.
-          Vad gör delegationen och när kommer några resultat?
-        </p>
-        <p xml:id="i-U84mw5ikXSj2Zvf7na32xY">
-          Ett väl fungerande system för validering är av stor betydelse,
-          såväl för personer med låg formell utbildning och en hög grad
-          av erfarenhetsbaserad kunskap som för personer som har genomgått
-          utbildning i otraditionella former, här hemma eller utomlands.
-          I direktivens sparsmakade målformulering från 18 december 2004
-          saknas mycket. Det är den passiva politiken i ett nötskal.
-        </p>
-        <p xml:id="i-KzzxoW7eaTJERJocdtZJNk">
-          Ett område som är viktigt att uppmärksamma är rättssäkerheten.
-          Eftersom validering handlar om att bedöma reell kompetens, så
-          blir bedömningarna subjektiva. Det finns en risk för variationer
-          mellan bedömare om man sätter dem att bedöma samma reella kompetens.
-          Det måste därför rimligen finnas en instans för att pröva valideringar.
-        </p>
-        <p xml:id="i-7MX7qDNJWbcpcJ8nWvfc3Z">
-          Mot bakgrund av det ovan anförda vill jag fråga statsrådet:
-        </p>
-        <p xml:id="i-YFf23CBPgPfcJQLFHGRgV3">
-          Vad avser ministern att göra för att säkerställa rättssäkerheten
-          i validering av reell kompetens?
-        </p>
-        <p xml:id="i-UuEXZ44UD3x2EkA2PsBwFu">
-          Vad avser ministern att göra för att möjliggöra överprövning
-          av valideringar?
-        </p>
-        <p xml:id="i-Kyi7CrsHovtrgTBXhV34Ah">
-          Vad avser ministern att göra för att valideringsdelegationen
-          ska nå ut även på lokal nivå?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Ft4oD393qkEi2bRMUGnYPM">
+            Dagens samhälle är och blir framöver i allt högre grad ett kunskapssamhälle.
+            I ett kunskapssamhälle är det avgörande att ta till vara människors
+            kunskaper. Det handlar om kunskaper både hos svenskar med lång
+            yrkeserfarenhet men utan formell dokumentation och hos de nya
+            svenskar som vill komma in på arbetsmarknaden men som i dag de
+            facto hindras att komma in på den.
+          </p>
+          <p xml:id="i-2dLwsiaC6FcgX3DhCcqeQX">
+            För att Sverige ska utvecklas som kunskapssamhälle är det också
+            nödvändigt att småföretagens behov av kvalificerad arbetskraft
+            tillgodoses. Bristen på arbetskraft är det enskilt största tillväxthindret
+            för mer än vart femte småföretag. Av de företag som anser sig
+            ha expansionsmöjligheter är det en än större andel, 28 %, som
+            betraktar arbetskraftsbristen som ett avgörande problem. Det handlar
+            om brister inom yrken som inte traditionellt setts som teoretiska
+            utan mer praktiska. Detta är utomordentligt allvarligt eftersom
+            företagens och därmed Sveriges ekonomiska utveckling hindras.
+          </p>
+          <p xml:id="i-RNGP6v4PKYGHTBZhYTfuSy">
+            Kristdemokraterna menar att validering behöver utvecklas som
+            en metod för att faktiska kunskaper och reell kompetens ska tas
+            till vara. Det handlar om olika metoder för att uppskatta och
+            värdera människors kunskaper. Utmaningen att värdera och utgå
+            från människors varierande kunskaper rör flera olika grupper.
+            För Sveriges framtid som välfärdsstat är det nödvändigt att lösa
+            denna utmaning inte minst med tanke på den stora brist på arbetskraft
+            som kommer framöver.
+          </p>
+          <p xml:id="i-HL9gJFY2nmzW5pvAe6qFWG">
+            Regeringen fick i oktober 2001 slutbetänkandet från Valideringsutredningen
+            med en rad förslag om hur valideringen kan utvecklas som ett instrument.
+            Regeringens respons på denna var en departementspromemoria, inte
+            den utlovade propositionen. En statlig delegation har nu inrättats,
+            med ett tidsbegränsat uppdrag från 2004 till 2007 att främja och
+            stödja metoder och system för validering. Centrum för flexibelt
+            lärande (CFL) är värdmyndighet för delegationen. Kristdemokraterna
+            menar att problemen kring validering inte löses genom att inrätta
+            en ny myndighet. Den 22 mars publicerades delegationens hemsida,
+            nära fyra månader efter att delegationen inlett sitt arbete. Hemsidan
+            är snygg men saknar svar på de innehållsmässiga frågeställningarna.
+            Vad gör delegationen och när kommer några resultat?
+          </p>
+          <p xml:id="i-WYB363K3XNMk85SrADhCCu">
+            Ett väl fungerande system för validering är av stor betydelse,
+            såväl för personer med låg formell utbildning och en hög grad
+            av erfarenhetsbaserad kunskap som för personer som har genomgått
+            utbildning i otraditionella former, här hemma eller utomlands.
+            I direktivens sparsmakade målformulering från 18 december 2004
+            saknas mycket. Det är den passiva politiken i ett nötskal.
+          </p>
+          <p xml:id="i-3Ecat74b5zvYi3mmiUwD8y">
+            Ett område som är viktigt att uppmärksamma är rättssäkerheten.
+            Eftersom validering handlar om att bedöma reell kompetens, så
+            blir bedömningarna subjektiva. Det finns en risk för variationer
+            mellan bedömare om man sätter dem att bedöma samma reella kompetens.
+            Det måste därför rimligen finnas en instans för att pröva valideringar.
+          </p>
+          <p xml:id="i-3r7p9dz5TwsM7zrkLv5CvB">
+            Mot bakgrund av det ovan anförda vill jag fråga statsrådet:
+          </p>
+          <p xml:id="i-SG21bWRiEDz6JhDgQegb83">
+            Vad avser ministern att göra för att säkerställa rättssäkerheten
+            i validering av reell kompetens?
+          </p>
+          <p xml:id="i-3zhefwkqqbfPCi7H7yV7Bt">
+            Vad avser ministern att göra för att möjliggöra överprövning
+            av valideringar?
+          </p>
+          <p xml:id="i-XSu8mnbH8PpxtNNn94mitu">
+            Vad avser ministern att göra för att valideringsdelegationen
+            ska nå ut även på lokal nivå?
+          </p>
+        </div>
       </div>
     </body>
   </text>

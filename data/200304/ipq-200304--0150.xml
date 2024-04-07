@@ -3,81 +3,122 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>export av billiga läkemedel till u-länder</title>
+        <author>Nordmark, Gunnar (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>export av billiga läkemedel till u-länder till näringsminister Leif Pagrotsky om export av billiga läkemedel till u-länder</title>
+          <idno type="rdwebb">GR10150</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10150/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10150</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10150</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ga4FaAaNvVxH6nfoR7FVAe</idno>
+            <persName>Gunnar Nordmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-KNv8Vo2MW1Dxg1SnvwXstH" corresp="i-Ga4FaAaNvVxH6nfoR7FVAe">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MBWHd1A6mevwye7buW9hYT">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-R1j1bdydDPVc4fp8H4QMZo">
+          <date when="2003-12-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BF2uYsbTbWkWjE88jSYZ5z" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GMoG7E9UaHjGbgMWSUuT8X" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2003-12-16"/>
+        </correspAction>
+        <correspContext corresp="i-GMoG7E9UaHjGbgMWSUuT8X">
+          <ref type="record" target="prot-200304--050">Riksdagens protokoll 2003/04:50 Tisdagen den 16 december</ref>
+          <ref type="recordSection" target="unsetDivId">16 § Svar på interpellation 2003/04:150 om export av billiga läkemedel till u-länder</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0150</head>
-        <author who="i-Ga4FaAaNvVxH6nfoR7FVAe">Gunnar Nordmark</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>export av billiga läkemedel till u-länder</topic>
-        <docDate when="2003-11-24">den 24 november</docDate>
-        <status when="2003-12-16" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10150</external_id>
-        <debate>
-          <turn when="2022-01-01 01:00:00" duration="100" who="d7c31fc6-83e4-1111-ae60-0050040c9b55">Anf</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:150 av Gunnar Nordmark (fp) till näringsminister
-          Leif Pagrotsky om export av billiga läkemedel till u-länder
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-YAZtchsYN3tGenRNmb8r1P">
+            Interpellation 2003/04:150 av Gunnar Nordmark (fp) till näringsminister
+            Leif Pagrotsky om export av billiga läkemedel till u-länder
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LLAHopR9kWhXJoxtN74J8g">
+            den 24 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-46QknvAxsHrgdyiiUmRw99">
-          Den 5 november 2003 lade den kanadensiska regeringen fram ett
-          lagförslag som förändrar den kanadensiska patentlagstiftningen.
-          Syftet är att underlätta export av billiga kopior av läkemedel,
-          så kallade generika, till fattiga länder. Detta är en fråga av
-          stor betydelse för många u-länder. Bakgrunden är att WTO:s ministermöte
-          i Doha bekräftade att WTO:s regler ger alla länder möjlighet att
-          vid nationella hälsokriser genom tvångslicenser få tillgång till
-          mediciner mot sjukdomar som hiv/aids, tbc och malaria. Fattiga
-          länder med bristande inhemsk produktionskapacitet har svårt att
-          i praktiken dra nytta av denna möjlighet. Därför beslöt WTO:s
-          medlemmar i Doha att försöka finna lösningar på detta problem.
-          Efter långdragna förhandlingar kunde ett avtal presenteras i augusti
-          i år.
-        </p>
-        <p xml:id="i-E3BAbXGfanR27HAGeZL5Nn">
-          Syftet med avtalet är bland annat att ge människor i fattiga
-          länder tillgång till bromsmediciner mot hiv/aids. Enbart i Sydafrika
-          bär fem miljoner människor på hivviruset. Av Afrikas 30 miljoner
-          hivsmittade är drygt fyra miljoner i behov av bromsmediciner,
-          men endast 50 000 till 75 000 har tillgång till sådana.
-        </p>
-        <p xml:id="i-MZgTHGrTBuMRiLGyHDdcn8">
-          Det kanadensiska initiativet har mött positivt gensvar från såväl
-          länder i tredje världen, FN:s generalsekreterare Kofi Annan som
-          olika hjälporganisationer. Kanadas regering har uttryckt förhoppningar
-          om att andra länder ska följa efter.
-        </p>
-        <p xml:id="i-NLnk7eRTJGVoyRnicQde3j">
-          Vilka åtgärder är ministern beredd att vidta för att undersöka
-          möjligheten att underlätta svensk produktion och export av billiga
-          läkemedelskopior till fattiga länder med nationella hälsokriser?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-4i47ULgS8vL7RBp1epwcCX">
+            Den 5 november 2003 lade den kanadensiska regeringen fram ett
+            lagförslag som förändrar den kanadensiska patentlagstiftningen.
+            Syftet är att underlätta export av billiga kopior av läkemedel,
+            så kallade generika, till fattiga länder. Detta är en fråga av
+            stor betydelse för många u-länder. Bakgrunden är att WTO:s ministermöte
+            i Doha bekräftade att WTO:s regler ger alla länder möjlighet att
+            vid nationella hälsokriser genom tvångslicenser få tillgång till
+            mediciner mot sjukdomar som hiv/aids, tbc och malaria. Fattiga
+            länder med bristande inhemsk produktionskapacitet har svårt att
+            i praktiken dra nytta av denna möjlighet. Därför beslöt WTO:s
+            medlemmar i Doha att försöka finna lösningar på detta problem.
+            Efter långdragna förhandlingar kunde ett avtal presenteras i augusti
+            i år.
+          </p>
+          <p xml:id="i-MtdUUeoDnvLR9mfPdtDKg">
+            Syftet med avtalet är bland annat att ge människor i fattiga
+            länder tillgång till bromsmediciner mot hiv/aids. Enbart i Sydafrika
+            bär fem miljoner människor på hivviruset. Av Afrikas 30 miljoner
+            hivsmittade är drygt fyra miljoner i behov av bromsmediciner,
+            men endast 50 000 till 75 000 har tillgång till sådana.
+          </p>
+          <p xml:id="i-3MAKHc5vt5f1rqqGQPYkEt">
+            Det kanadensiska initiativet har mött positivt gensvar från såväl
+            länder i tredje världen, FN:s generalsekreterare Kofi Annan som
+            olika hjälporganisationer. Kanadas regering har uttryckt förhoppningar
+            om att andra länder ska följa efter.
+          </p>
+          <p xml:id="i-7koAjMYFkFgfxo64jKETmz">
+            Vilka åtgärder är ministern beredd att vidta för att undersöka
+            möjligheten att underlätta svensk produktion och export av billiga
+            läkemedelskopior till fattiga länder med nationella hälsokriser?
+          </p>
+        </div>
       </div>
     </body>
   </text>

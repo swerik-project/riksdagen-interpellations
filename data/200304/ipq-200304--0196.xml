@@ -3,82 +3,122 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>krångliga regler för småföretagen</title>
+        <author>Grönlund, Anna (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>krångliga regler för småföretagen till justitieminister Thomas Bodström om krångliga regler för småföretagen</title>
+          <idno type="rdwebb">GR10196</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10196/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10196</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10196</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-P9fVT6wJo29FgZWPQLxr6o</idno>
+            <persName>Anna Grönlund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-dfgaA5KVKomVL3RewTVYK" corresp="i-P9fVT6wJo29FgZWPQLxr6o">
+          <date when="2003-12-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-FKJbJSvGykSvrJCRGqrRvi">
+          <date when="2003-12-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-855JL6nZrgNFrT3pULXBre">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RbUMx9haDpAXUU57ZpKY4u" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-12-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MHjUb4oTu5y6grgSn29yXZ" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspContext corresp="i-MHjUb4oTu5y6grgSn29yXZ">
+          <ref type="record" target="prot-200304--054">Riksdagens protokoll 2003/04:54 Tisdagen den 20 januari</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2003/04:196 om krångliga regler för småföretagen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0196</head>
-        <author who="i-P9fVT6wJo29FgZWPQLxr6o">Anna Grönlund</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>krångliga regler för småföretagen</topic>
-        <docDate when="2003-12-11">den 11 december</docDate>
-        <status when="2004-01-20" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10196</external_id>
-        <debate>
-          <turn when="2004-01-20 15:05:19" duration="174">Thomas Bodström (S)</turn>
-          <turn when="2004-01-20 15:08:06" duration="168">Anna Grönlund (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:196 av Anna Grönlund (fp) till justitieminister
-          Thomas Bodström om krångliga regler för småföretagen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-FWAhjrAr3YUBXVMtHwKiJS">
+            Interpellation 2003/04:196 av Anna Grönlund (fp) till justitieminister
+            Thomas Bodström om krångliga regler för småföretagen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PZPHwkWq5JXzMgt21GSD1b">
+            den 11 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XLoPYmo8ZwnKDxR7DnHXGV">
-          Det är i dag mycket vanligt att revisionsbyråer också biträder
-          företag med råd och tjänster i samband med bokföringen. Små och
-          medelstora företag, och särskilt invandrarföretagare, är ofta
-          mycket beroende av den information och de råd de får från sin
-          revisor. Denna hjälp vill nu regeringen förbjuda.
-        </p>
-        <p xml:id="i-JQuX9cQuQMAJuUwPdb2qYV">
-          I promemorian Några frågor om revision framgår att Justitiedepartementet
-          vill skärpa aktiebolagens regler om så kallad byråjäv så att ett
-          företag i framtiden inte ska få bidra med bokföringsråd och bedriva
-          revision hos samma kund.
-        </p>
-        <p xml:id="i-7ZBmsxyPQ2EWdXpzmm95os">
-          Förslaget har nyligen varit ute på remiss och fått svidande kritik
-          från tunga remissinstanser som: Föreningen auktoriserade revisorer
-          (FAR), Revisorsnämnden och Företagarnas riksorganisation.
-        </p>
-        <p xml:id="i-S8m5JCgpRDz5gmYx4AU14w">
-          Svenska småföretag bär redan på en tung regelbörda. Skatte-,
-          arbetsmarknads- och miljöreglerna kostar i dag ett mindre svenskt
-          företag ca 30 000 kr per anställd varje år i administration. Ska
-          vi få fler små och växande företag i Sverige behöver vi färre
-          och enklare regler, inte fler och dyrare.
-        </p>
-        <p xml:id="i-Tzv9RLZMGB5y55xhB7dAtX">
-          Min fråga till justitieminister Thomas Bodström är därför:
-        </p>
-        <p xml:id="i-CD2n9ZB4oeKd9o72ftzggq">
-          Vad tänker Du göra för att se till att arbetet för starkare revision
-          inom näringslivet inte leder till en ännu tyngre regelbörda och
-          högre kostnader för Sveriges småföretagare?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QxhYWfTmsDf6drDBsdsgDR">
+            Det är i dag mycket vanligt att revisionsbyråer också biträder
+            företag med råd och tjänster i samband med bokföringen. Små och
+            medelstora företag, och särskilt invandrarföretagare, är ofta
+            mycket beroende av den information och de råd de får från sin
+            revisor. Denna hjälp vill nu regeringen förbjuda.
+          </p>
+          <p xml:id="i-GqdLjbdYfb1v1N5u6QX45y">
+            I promemorian Några frågor om revision framgår att Justitiedepartementet
+            vill skärpa aktiebolagens regler om så kallad byråjäv så att ett
+            företag i framtiden inte ska få bidra med bokföringsråd och bedriva
+            revision hos samma kund.
+          </p>
+          <p xml:id="i-382m5tt1edCvizUt7Vp9P4">
+            Förslaget har nyligen varit ute på remiss och fått svidande kritik
+            från tunga remissinstanser som: Föreningen auktoriserade revisorer
+            (FAR), Revisorsnämnden och Företagarnas riksorganisation.
+          </p>
+          <p xml:id="i-P49CXjg4dwHSC1VnwWdiFC">
+            Svenska småföretag bär redan på en tung regelbörda. Skatte-,
+            arbetsmarknads- och miljöreglerna kostar i dag ett mindre svenskt
+            företag ca 30 000 kr per anställd varje år i administration. Ska
+            vi få fler små och växande företag i Sverige behöver vi färre
+            och enklare regler, inte fler och dyrare.
+          </p>
+          <p xml:id="i-1QckBDANsh65uvB2Rhzej">
+            Min fråga till justitieminister Thomas Bodström är därför:
+          </p>
+          <p xml:id="i-M9qUUyLP2WRcyb8jdWHtUH">
+            Vad tänker Du göra för att se till att arbetet för starkare revision
+            inom näringslivet inte leder till en ännu tyngre regelbörda och
+            högre kostnader för Sveriges småföretagare?
+          </p>
+        </div>
       </div>
     </body>
   </text>

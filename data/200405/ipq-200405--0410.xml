@@ -3,108 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldres rätt att välja boende  </title>
+        <author>Lundström, Nina (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>äldres rätt att välja boende   till samhällsbyggnadsminister Mona Sahlin om äldres rätt att välja boende  </title>
+          <idno type="rdwebb">GS10410</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10410/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10410</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10410</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D6V9ti7ETxin1WbJjDaShE</idno>
+            <persName>Nina Lundström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-5TrFPrDU7cMNBEciQiwT4a">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-2h7dFunDsCzYyn2tJeBqfd" corresp="i-D6V9ti7ETxin1WbJjDaShE">
+          <date when="2005-02-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KqY5ADozos9Ywwiq1UGh2a">
+          <date when="2005-04-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PM7D64cmoyzgpWMN6QGxRk" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6RE2xhWVcWaJShvPdAgqPE" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-04-14"/>
+        </correspAction>
+        <correspContext corresp="i-6RE2xhWVcWaJShvPdAgqPE">
+          <ref type="record" target="prot-200405--105">Riksdagens protokoll 2004/05:105 Torsdagen den 14 april</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2004/05:410 om äldres rätt att välja boende</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0410</head>
-        <author who="i-D6V9ti7ETxin1WbJjDaShE">Nina Lundström</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>äldres rätt att välja boende  </topic>
-        <docDate when="2005-02-21">den 21 februari</docDate>
-        <status when="2005-04-14" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10410</external_id>
-        <debate>
-          <turn when="2005-04-14 15:51:25" duration="277">Ylva Johansson (S)</turn>
-          <turn when="2005-04-14 15:56:02" duration="250">Nina Lundström (Fp)</turn>
-          <turn when="2005-04-14 16:00:08" duration="239">Dan Kihlström (Kd)</turn>
-          <turn when="2005-04-14 16:04:03" duration="234">Ylva Johansson (S)</turn>
-          <turn when="2005-04-14 16:07:53" duration="249">Nina Lundström (Fp)</turn>
-          <turn when="2005-04-14 16:11:57" duration="127">Dan Kihlström (Kd)</turn>
-          <turn when="2005-04-14 16:13:59" duration="179">Ylva Johansson (S)</turn>
-          <turn when="2005-04-14 16:16:55" duration="128">Nina Lundström (Fp)</turn>
-          <turn when="2005-04-14 16:18:58" duration="130">Ylva Johansson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:410 av Nina Lundström (fp) till samhällsbyggnadsminister
-          Mona Sahlin om äldres rätt att välja boende
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KAgyYuZqZYyjWXzCq6UErj">
+            Interpellation 2004/05:410 av Nina Lundström (fp) till samhällsbyggnadsminister
+            Mona Sahlin om äldres rätt att välja boende
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-SjjfdvyXCHpp7f5wGxBtyJ">
+            den 21 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KNgfW5DV29GUydwFUcCzHJ">
-          Det finns flera exempel på att rätten för vuxna människor att
-          välja sin bostad inte gäller för äldre som behöver byta boendeform
-          och där även omsorgsbehov måste beaktas. Placeringssynsättet råder
-          och kommuner placerar ut äldre på de boenden som de finner lämpligt.
-          Hänsyn saknas till önskemål från den äldre och de anhöriga.
-        </p>
-        <p xml:id="i-pZmu7upx2xyGNiUVkt2fy">
-          Äldreboende är inte enbart en fråga om vård och omsorg. Det är
-          minst lika mycket en fråga om boende, då den äldre i vissa fall
-          kommer att tillbringa resten av livet där. Det borde vara lika
-          självklart att äldre kan påverka valet av boende, precis såsom
-          övriga vuxna kan påverka sitt.
-        </p>
-        <p xml:id="i-bWLDGBEXWKPTZbSbhieDt">
-          Särskilda boendeformer för äldre har på många håll varit ett
-          lokalt monopol. Även äldres möjligheter att själva @ eller genom
-          ombud @ kunna välja boende, service och vård kan och bör ökas.
-          Det behövs alltså en förbättrad valfrihet.
-        </p>
-        <p xml:id="i-PNHqNpEzYPzMiRtkGebBWH">
-          Det finns alldeles för mycket av den gamla handfasta metoden
-          att den som tiger, samtycker och är nöjd med det som erbjuds flyttas
-          ned i kön. En sådan förbättring blir möjlig om valfrihetsprincipen
-          skrivs in i socialtjänstlagen, för både boende och hemtjänst.
-        </p>
-        <p xml:id="i-Vvhu4HC2fBukPyAvEkoE8i">
-          I det särskilda boendet för äldre ska det finnas valfrihet. När
-          kommunen fastslagit att en person har behov av särskilt boende
-          bör den äldre och dennes anhöriga kunna välja även en annan hyresvärd
-          för det särskilda boendet, och det även utanför hemkommunen.
-        </p>
-        <p xml:id="i-3uXEMV9eNkF9VhFwdmjVbX">
-          I särskilt boende för äldre ska eget rum vara en rättighet för
-          den som vill det, och ingen ska tvingas att dela bostad med personer
-          som inte är släktingar och som det inte finns önskemål om att
-          få bo tillsammans med. Det måste vara möjligt att flytta, för
-          att till exempel komma närmare anhöriga.
-        </p>
-        <p xml:id="i-DfeeyUhxVsgH3w7AXvnW37">
-          Valfrihet handlar om människors egenmakt. Äldre människor är
-          vuxna nog att bestämma själva. Vi människor blir inte mer lika
-          varandra för att vi blir äldre, snarare tvärtom. Under livets
-          gång skapar vi vanor och livsmönster som vi ska ha rätt att behålla.
-          Valfriheten är också viktig för den som har sina rötter i en annan
-          kultur än den svenska.
-        </p>
-        <p xml:id="i-NHxoRae6FrWLFvJ57GjTo1">
-          Med anledning av detta vill jag fråga vad statsrådet Mona Sahlin
-          avser att göra för att möjliggöra äldres rätt till valfrihet i
-          boendet.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-P1T5koLDGrKsHFD3mW6VqY">
+            Det finns flera exempel på att rätten för vuxna människor att
+            välja sin bostad inte gäller för äldre som behöver byta boendeform
+            och där även omsorgsbehov måste beaktas. Placeringssynsättet råder
+            och kommuner placerar ut äldre på de boenden som de finner lämpligt.
+            Hänsyn saknas till önskemål från den äldre och de anhöriga.
+          </p>
+          <p xml:id="i-BN2cwZzU9qbiXf49o4dFm">
+            Äldreboende är inte enbart en fråga om vård och omsorg. Det är
+            minst lika mycket en fråga om boende, då den äldre i vissa fall
+            kommer att tillbringa resten av livet där. Det borde vara lika
+            självklart att äldre kan påverka valet av boende, precis såsom
+            övriga vuxna kan påverka sitt.
+          </p>
+          <p xml:id="i-AZF5b6YgeLsgp74EcAC7uR">
+            Särskilda boendeformer för äldre har på många håll varit ett
+            lokalt monopol. Även äldres möjligheter att själva @ eller genom
+            ombud @ kunna välja boende, service och vård kan och bör ökas.
+            Det behövs alltså en förbättrad valfrihet.
+          </p>
+          <p xml:id="i-Vrejzd9aLJZYwm4PAkkxm9">
+            Det finns alldeles för mycket av den gamla handfasta metoden
+            att den som tiger, samtycker och är nöjd med det som erbjuds flyttas
+            ned i kön. En sådan förbättring blir möjlig om valfrihetsprincipen
+            skrivs in i socialtjänstlagen, för både boende och hemtjänst.
+          </p>
+          <p xml:id="i-HJnSFSYiTv9MtTXfZ8D59p">
+            I det särskilda boendet för äldre ska det finnas valfrihet. När
+            kommunen fastslagit att en person har behov av särskilt boende
+            bör den äldre och dennes anhöriga kunna välja även en annan hyresvärd
+            för det särskilda boendet, och det även utanför hemkommunen.
+          </p>
+          <p xml:id="i-XcpKJ2dA1UtgUgwBezarAy">
+            I särskilt boende för äldre ska eget rum vara en rättighet för
+            den som vill det, och ingen ska tvingas att dela bostad med personer
+            som inte är släktingar och som det inte finns önskemål om att
+            få bo tillsammans med. Det måste vara möjligt att flytta, för
+            att till exempel komma närmare anhöriga.
+          </p>
+          <p xml:id="i-Qk8bek5LTAyixX4pejrGiU">
+            Valfrihet handlar om människors egenmakt. Äldre människor är
+            vuxna nog att bestämma själva. Vi människor blir inte mer lika
+            varandra för att vi blir äldre, snarare tvärtom. Under livets
+            gång skapar vi vanor och livsmönster som vi ska ha rätt att behålla.
+            Valfriheten är också viktig för den som har sina rötter i en annan
+            kultur än den svenska.
+          </p>
+          <p xml:id="i-VsfhhMvAaYCtiKu6be41fi">
+            Med anledning av detta vill jag fråga vad statsrådet Mona Sahlin
+            avser att göra för att möjliggöra äldres rätt till valfrihet i
+            boendet.
+          </p>
+        </div>
       </div>
     </body>
   </text>

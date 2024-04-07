@@ -3,102 +3,140 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>hjärnskador</title>
+        <author>Ericson, Lars-Ivar (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>hjärnskador till socialminister Lars Engqvist om hjärnskador</title>
+          <idno type="rdwebb">GR10425</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10425/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10425</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10425</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
+            <persName>Lars-Ivar Ericson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5aDhZ9PnKr3hPFBJuBVAEA" corresp="i-AktM7FqujRsJ6kGjNePGjq">
+          <date when="2004-04-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XqdkSAn6UuXH37NHgCrvEi">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UXs2BDCtNYgcXqTpt1VJk6">
+          <date when="2004-04-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BDjXSCqqcmKg83z7mAoQsV" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-17CbGEkBdRV5zw81eY4748" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-04-20"/>
+        </correspAction>
+        <correspContext corresp="i-17CbGEkBdRV5zw81eY4748">
+          <ref type="record" target="prot-200304--098">Riksdagens protokoll 2003/04:98 Tisdagen den 20 april</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2003/04:425 om hjärnskador</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0425</head>
-        <author who="i-AktM7FqujRsJ6kGjNePGjq">Lars-Ivar Ericson</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>hjärnskador</topic>
-        <docDate when="2004-04-07">den 7 april</docDate>
-        <status when="2004-04-20" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10425</external_id>
-        <debate>
-          <turn when="2004-04-20 18:56:09" duration="292">Lars Engqvist (S)</turn>
-          <turn when="2004-04-20 19:00:58" duration="240">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-04-20 19:04:55" duration="184">Carl-Axel Johansson (M)</turn>
-          <turn when="2004-04-20 19:07:56" duration="241">Lars Engqvist (S)</turn>
-          <turn when="2004-04-20 19:11:53" duration="224">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-04-20 19:15:33" duration="92">Carl-Axel Johansson (M)</turn>
-          <turn when="2004-04-20 19:16:53" duration="246">Lars Engqvist (S)</turn>
-          <turn when="2004-04-20 19:20:52" duration="101">Lars-Ivar Ericson (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:425 av Lars-Ivar Ericson (c) till socialminister
-          Lars Engqvist om hjärnskador
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-712fSjsA3G9A5uFRFAjGRV">
+            Interpellation 2003/04:425 av Lars-Ivar Ericson (c) till socialminister
+            Lars Engqvist om hjärnskador
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-RKToUy2Ly6JaBDVBws1mQK">
+            den 7 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-561qHshH5Ysz4auifkXcqQ">
-          Människans hjärna är den mest komplicerade strukturen som vi
-          känner till. Hjärnan består av mer än 100 miljarder nervceller
-          som var och en har så många som 10 000 kopplingar till andra nervceller.
-          Mer än en miljon svenskar är drabbade av sjukdom, skada eller
-          funktionshinder i hjärnan. Som exempel kan nämnas skada efter
-          trafikolycka, demens, autism, ALS, depression, huvudvärk, epilepsi
-          och så vidare. Många vet inte hur vanligt det är med hjärnrelaterade
-          sjukdomar och störningar. Därför behövs mera information om förebyggande
-          åtgärder och behandlingen av hjärnskador. Även om stora framsteg
-          har gjorts inom hjärnforskningen är fortfarande skador i hjärnan
-          och det centrala nervsystemet den främsta skadeorsaken i Sverige.
-          Dessa skador ligger bakom fler sjukhusvistelser och långa vårdtider
-          än nästan alla sjukdomar tillsammans.
-        </p>
-        <p xml:id="i-RY2qaTrB9mKbUfXyDde7Xw">
-          Neurovetenskap är läran om hjärnan och nervsystemen, deras struktur
-          och funktion samt störningar hos dem. Denna relativt nya vetenskap
-          har inte fått tillräckliga resurser för forskning. Vid hjärnskador
-          är det viktigt med snabb och effektiv rehabilitering för att ge
-          den drabbade ett så bra liv som möjligt. Ofta är vårdbehovet livslångt.
-          Patientens delaktighet i rehabiliteringsprocessen är tillsammans
-          med kompetent personal viktiga faktorer i vården. På många håll
-          i landet saknas tillräckligt med personal för att hjälpa den hjärnskadade.
-          Ett exempel är bristen på neuropsykologer.
-        </p>
-        <p xml:id="i-BAzbUJqJczQWgCc3X6wT6C">
-          Mer forskning och mer arbete måste läggas ned när det gäller
-          vård och eftervård av hjärnskadade. Det är även viktigt att uppmärksamma
-          den situation som uppstår för de drabbades anhöriga.
-        </p>
-        <p xml:id="i-YXbriX8D1ip2gcrbQxpyma">
-          Med hänvisning till det ovan anförda vill jag ställa följande
-          frågor till statsrådet:
-        </p>
-        <p xml:id="i-EetVMtYJpE4qdPYhUyiria">
-          1. Vilka åtgärder avser statsrådet att vidta för att informera
-          om och förebygga hjärnskador?
-        </p>
-        <p xml:id="i-K1jcKkfTwDQCbSLQiKcp4Q">
-          2. Är statsrådet beredd att verka för ökat anslag till neurovetenskaplig
-          forskning?
-        </p>
-        <p xml:id="i-Qi75ggTASzakooNJiTcph">
-          3. Vilka åtgärder avser statsrådet att vidta för att förbättra
-          rehabiliteringen för dem som drabbats av hjärnskador?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UXZsZj6yU1ULScmGV4T5C5">
+            Människans hjärna är den mest komplicerade strukturen som vi
+            känner till. Hjärnan består av mer än 100 miljarder nervceller
+            som var och en har så många som 10 000 kopplingar till andra nervceller.
+            Mer än en miljon svenskar är drabbade av sjukdom, skada eller
+            funktionshinder i hjärnan. Som exempel kan nämnas skada efter
+            trafikolycka, demens, autism, ALS, depression, huvudvärk, epilepsi
+            och så vidare. Många vet inte hur vanligt det är med hjärnrelaterade
+            sjukdomar och störningar. Därför behövs mera information om förebyggande
+            åtgärder och behandlingen av hjärnskador. Även om stora framsteg
+            har gjorts inom hjärnforskningen är fortfarande skador i hjärnan
+            och det centrala nervsystemet den främsta skadeorsaken i Sverige.
+            Dessa skador ligger bakom fler sjukhusvistelser och långa vårdtider
+            än nästan alla sjukdomar tillsammans.
+          </p>
+          <p xml:id="i-EswYNUo7LZ8aiqA7qpNPAd">
+            Neurovetenskap är läran om hjärnan och nervsystemen, deras struktur
+            och funktion samt störningar hos dem. Denna relativt nya vetenskap
+            har inte fått tillräckliga resurser för forskning. Vid hjärnskador
+            är det viktigt med snabb och effektiv rehabilitering för att ge
+            den drabbade ett så bra liv som möjligt. Ofta är vårdbehovet livslångt.
+            Patientens delaktighet i rehabiliteringsprocessen är tillsammans
+            med kompetent personal viktiga faktorer i vården. På många håll
+            i landet saknas tillräckligt med personal för att hjälpa den hjärnskadade.
+            Ett exempel är bristen på neuropsykologer.
+          </p>
+          <p xml:id="i-GTdiJWmhsyrWgXzX6UgUMi">
+            Mer forskning och mer arbete måste läggas ned när det gäller
+            vård och eftervård av hjärnskadade. Det är även viktigt att uppmärksamma
+            den situation som uppstår för de drabbades anhöriga.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-HmbEqBQr26tnzvTEDv8s9B">
+            Med hänvisning till det ovan anförda vill jag ställa följande
+            frågor till statsrådet:
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder avser statsrådet att vidta för att informera
+                om och förebygga hjärnskador?
+              </item>
+              <item>
+                2. Är statsrådet beredd att verka för ökat anslag till neurovetenskaplig
+                forskning?
+              </item>
+              <item>
+                3. Vilka åtgärder avser statsrådet att vidta för att förbättra
+                rehabiliteringen för dem som drabbats av hjärnskador?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

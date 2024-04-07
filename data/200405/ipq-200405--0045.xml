@@ -3,152 +3,184 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>etableringen av flygskolan i Linköping</title>
+        <author>Oscarsson, Mikael (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>etableringen av flygskolan i Linköping till försvarsminister Leni Björklund om etableringen av flygskolan i Linköping</title>
+          <idno type="rdwebb">GS1045</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1045/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1045</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1045</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
+            <persName>Mikael Oscarsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-YB2YWQ4XTK4qmwFfn3H7J2" corresp="i-Ybw8JnrmHGCsqpipBke8a7">
+          <date when="2004-10-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XbUfZvccgPHq3tZQzqbX5e">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QSaQb6by5yRckemaGSVNZF">
+          <date when="2004-10-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BjeaHJCFNmMK44ZUoqYYxV" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-JhuTu4LPpFBYntWrr6ZPHE" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2004-10-29"/>
+        </correspAction>
+        <correspContext corresp="i-JhuTu4LPpFBYntWrr6ZPHE">
+          <ref type="record" target="prot-200405--023">Riksdagens protokoll 2004/05:23 Fredagen den 29 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:45 om etableringen av flygskolan i Linköping</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0045</head>
-        <author who="i-Ybw8JnrmHGCsqpipBke8a7">Mikael Oscarsson</author>
-        <recipient who="i-CcdZckB2ErC625pmVtogZg">Leni Björklund</recipient>
-        <topic>etableringen av flygskolan i Linköping</topic>
-        <docDate when="2004-10-08">den 8 oktober</docDate>
-        <status when="2004-10-29" byWhom="Leni Björklund" byWhomId="i-CcdZckB2ErC625pmVtogZg" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1045</external_id>
-        <debate>
-          <turn when="2004-10-29 09:17:09" duration="157">Leni Björklund (S)</turn>
-          <turn when="2004-10-29 09:19:36" duration="255">Mikael Oscarsson (Kd)</turn>
-          <turn when="2004-10-29 09:23:47" duration="196">Lennart Hedquist (M)</turn>
-          <turn when="2004-10-29 09:26:54" duration="121">Cecilia Wikström (Fp)</turn>
-          <turn when="2004-10-29 09:28:51" duration="258">Leni Björklund (S)</turn>
-          <turn when="2004-10-29 09:33:06" duration="182">Mikael Oscarsson (Kd)</turn>
-          <turn when="2004-10-29 09:35:57" duration="177">Lennart Hedquist (M)</turn>
-          <turn when="2004-10-29 09:38:47" duration="229">Leni Björklund (S)</turn>
-          <turn when="2004-10-29 09:42:32" duration="141">Mikael Oscarsson (Kd)</turn>
-          <turn when="2004-10-29 09:44:34" duration="173">Leni Björklund (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:45 av Mikael Oscarsson (kd) till försvarsminister
-          Leni Björklund om etableringen av flygskolan i Linköping
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-WvtTLtm87JfsGKSWh2JWVB">
+            Interpellation 2004/05:45 av Mikael Oscarsson (kd) till försvarsminister
+            Leni Björklund om etableringen av flygskolan i Linköping
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JWaT7ckwhKScKxZ93YQkuX">
+            den 8 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UVRWCYrb9V5L1nYjLSzNJW">
-          Försvarsmaktens hela flygutbildning ska styras från Uppsala.
-          F 20 i Uppsala byter namn till Flygvapnets Luftstridsskola. Det
-          står klart i Göran Perssons försvarsproposition som kom i fredags.
-          Det sjuka är att regeringen framhärdar i att själva flygskolan
-          ska vara förlagd till Linköping. Flygskolan i Linköping ska alltså
-          styras 26 mil bort @ från Uppsala!
-        </p>
-        <p xml:id="i-GSF3XJNtnJvUAJxCRgaxxS">
-          Våren 2001 fanns ett väl underbyggt förslag om lokalisering av
-          flygskolan till Uppsala. Genom ett bedrövligt taktikspel i försvarsutskottet
-          avstyrktes propositionen. F 16, som dåvarande försvarsministern
-          och ÖB varit överens om skulle vara navet i flygvapnet, skulle
-          helt plötsligt läggas ned. Majoriteten snickrade i stället ihop
-          ett dåligt underbyggt förslag som sedan visade sig vara ogenomförbart.
-          Det gick nämligen inte att förlägga flygskolan till någon av de
-          kvarvarande flottiljerna.
-        </p>
-        <p xml:id="i-PQKtdS2bmMLZRCLjnC9Qnt">
-          Till sist beslutade regeringen att flygskolan skulle förläggas
-          till Linköping. Men miljöprövningen, som skulle ha varit färdig
-          våren 2003, är ännu inte klar. Och innan miljöprövningen är klar
-          kommer inte investeringarna att sättas i gång.
-        </p>
-        <p xml:id="i-2jxW3VXRFoVDS4fUndmYhK">
-          I en interpellationsdebatt i december 2003 fick försvarsministern
-          frågan av undertecknad vad kostnaden blir för lokaliseringen av
-          flygskolan till Malmen. Högst 174 miljoner kronor, sade försvarsministern.
-          Detta besked upprepade försvarsministern i en frågestund i riksdagen
-          i april 2004. Det visar sig nu vara galen beräkning. Leni Björklunds
-          eget försvarsdepartement säger nu i utredningen Försvarsmaktens
-          grundorganisation att kostnaden att förlägga flygskolan till Linköping
-          blir 250 miljoner.
-        </p>
-        <p xml:id="i-2hxLsMTyUhyNEfz8oH2XRm">
-          Samtidig kan vi konstatera att allt som krävs för flygskolan
-          finns i Uppsala. Uppsala har haft flygskolor i 50 år. Dessutom
-          finns närheten till Arlanda vilket är positivt för dem som reser
-          till och från andra delar av Sverige. Norrut har Uppsala samma
-          möjligheter som Söderhamn, dit regeringen nu märkligt nog säger
-          att man vill ha den gemensamma europeiska flygskolan inom åtta
-          år. I Uppsala har Flygvapnet ännu kvar den gamla konsessionen
-          där det finns tillräckligt med start och landningar för att kunna
-          inrymma flygskolan. Arbetet med konsessionsansökan för en flygskola
-          lades på is.
-        </p>
-        <p xml:id="i-RD7DBXx8xVnjW2HY2VKP14">
-          Kostnaderna för att låta flygskolan vara i Uppsala är ca 20 miljoner
-          för investeringar och 20 miljoner för underhållsåtgärder, det
-          vill säga ofantligt mycket mindre än Malmenalternativet.
-        </p>
-        <p xml:id="i-Me7CgexjBx9ixwQdGtoYLx">
-          Det finns anledning att påminna om att riksdagsbeslut har ändrats
-          förut med hänvisning till att kostnaderna blivit för stora. År
-          2000 skulle till exempel "specialflyg" flyttas från Malmen till
-          Uppsala. Men när det visade sig att prislappen blev 200 miljoner
-          kronor, det vill säga betydligt dyrare än vad man förutsett, ändrade
-          man riksdagsbeslutet med hänvisning till bland annat kostnadsaspekten.
-        </p>
-        <p xml:id="i-EApGE2fgVugFvPJkb9p62r">
-          Låt mig till sist påminna om den 11 september. Från Uppsalas
-          flygflottilj till Stockholm är under ordinarie beredskap bara
-          några få minuter just på grund av den korta distansen. Om någon
-          av de kvarvarande flottiljerna har beredskapen är bara anflygningstiden
-          uppåt en halvtimme. Detta ställdes på sin spets dagen efter att
-          det otänkbara hänt i USA den 11 september 2001, när F 16 i Uppsala
-          fick order om att sätta upp extra incidentberedskap med jaktflyg.
-        </p>
-        <p xml:id="i-UmwZMo5BE9ZqJ3rgAzzjNs">
-          De fruktansvärda terrordåd som genomförts i USA är en påminnelse
-          om att vi behöver ett starkt försvar. Inklusive ett luftförsvar
-          av Mälardalen. Något annat blir mycket svårt att förklara för
-          kommande generationer. Om vi förlägger flygskolan i Uppsala får
-          vi möjlighet till en snabb incidentberedskapsbasering eftersom
-          det kommer redan i utgångsläget finnas tillräckligt med teknisk,
-          räddnings- och fälthållningskapacitet på plats.
-        </p>
-        <p xml:id="i-XjDHLpSmsiUUCNPF6dfkVH">
-          Därför uppmanar jag försvarsministern att åter pröva möjligheten
-          att placera flygskolan i Uppsala. Här finns över 200 miljoner
-          att spara! Jag tror att att regeringen skulle få en bred majoritet
-          i riksdagen för detta. Än är det inte för sent att låta förnuftet
-          segra i denna fråga.
-        </p>
-        <p xml:id="i-D7YCAaJG4S5kXqs6LLMAj1">
-          Mina frågor till försvarsministern är:
-        </p>
-        <p xml:id="i-HoeBzp2FF2KYhqRGS4HC2c">
-          Vad kommer den totala kostnaden för etablering av flygskolan
-          på Malmen i Linköping att bli inklusive kringkostnader?
-        </p>
-        <p xml:id="i-WjUofND5bk9HpMtikvaDRD">
-          Kan försvarsministern tänka sig att ompröva beslutet att förlägga
-          flygskolan på Malmen till förmån för F 20 i Uppsala?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JsAZWUYQF9sfiEDnHuzJdj">
+            Försvarsmaktens hela flygutbildning ska styras från Uppsala.
+            F 20 i Uppsala byter namn till Flygvapnets Luftstridsskola. Det
+            står klart i Göran Perssons försvarsproposition som kom i fredags.
+            Det sjuka är att regeringen framhärdar i att själva flygskolan
+            ska vara förlagd till Linköping. Flygskolan i Linköping ska alltså
+            styras 26 mil bort @ från Uppsala!
+          </p>
+          <p xml:id="i-CWqgqYwAtkbgoWGcc2PQqk">
+            Våren 2001 fanns ett väl underbyggt förslag om lokalisering av
+            flygskolan till Uppsala. Genom ett bedrövligt taktikspel i försvarsutskottet
+            avstyrktes propositionen. F 16, som dåvarande försvarsministern
+            och ÖB varit överens om skulle vara navet i flygvapnet, skulle
+            helt plötsligt läggas ned. Majoriteten snickrade i stället ihop
+            ett dåligt underbyggt förslag som sedan visade sig vara ogenomförbart.
+            Det gick nämligen inte att förlägga flygskolan till någon av de
+            kvarvarande flottiljerna.
+          </p>
+          <p xml:id="i-7aVSaAdYQwj4VNJJwh9Zre">
+            Till sist beslutade regeringen att flygskolan skulle förläggas
+            till Linköping. Men miljöprövningen, som skulle ha varit färdig
+            våren 2003, är ännu inte klar. Och innan miljöprövningen är klar
+            kommer inte investeringarna att sättas i gång.
+          </p>
+          <p xml:id="i-UHoYFrXCLNUtMUsv7SUaiR">
+            I en interpellationsdebatt i december 2003 fick försvarsministern
+            frågan av undertecknad vad kostnaden blir för lokaliseringen av
+            flygskolan till Malmen. Högst 174 miljoner kronor, sade försvarsministern.
+            Detta besked upprepade försvarsministern i en frågestund i riksdagen
+            i april 2004. Det visar sig nu vara galen beräkning. Leni Björklunds
+            eget försvarsdepartement säger nu i utredningen Försvarsmaktens
+            grundorganisation att kostnaden att förlägga flygskolan till Linköping
+            blir 250 miljoner.
+          </p>
+          <p xml:id="i-CSRZM4H2ChGQdBCDeJmD69">
+            Samtidig kan vi konstatera att allt som krävs för flygskolan
+            finns i Uppsala. Uppsala har haft flygskolor i 50 år. Dessutom
+            finns närheten till Arlanda vilket är positivt för dem som reser
+            till och från andra delar av Sverige. Norrut har Uppsala samma
+            möjligheter som Söderhamn, dit regeringen nu märkligt nog säger
+            att man vill ha den gemensamma europeiska flygskolan inom åtta
+            år. I Uppsala har Flygvapnet ännu kvar den gamla konsessionen
+            där det finns tillräckligt med start och landningar för att kunna
+            inrymma flygskolan. Arbetet med konsessionsansökan för en flygskola
+            lades på is.
+          </p>
+          <p xml:id="i-RymfgJKGTakzoNwBcEbThv">
+            Kostnaderna för att låta flygskolan vara i Uppsala är ca 20 miljoner
+            för investeringar och 20 miljoner för underhållsåtgärder, det
+            vill säga ofantligt mycket mindre än Malmenalternativet.
+          </p>
+          <p xml:id="i-8Ga3kcPKxm4ExS3psuCJDU">
+            Det finns anledning att påminna om att riksdagsbeslut har ändrats
+            förut med hänvisning till att kostnaderna blivit för stora. År
+            2000 skulle till exempel "specialflyg" flyttas från Malmen till
+            Uppsala. Men när det visade sig att prislappen blev 200 miljoner
+            kronor, det vill säga betydligt dyrare än vad man förutsett, ändrade
+            man riksdagsbeslutet med hänvisning till bland annat kostnadsaspekten.
+          </p>
+          <p xml:id="i-7Tq7ADVkp2NprqLdYUFZPt">
+            Låt mig till sist påminna om den 11 september. Från Uppsalas
+            flygflottilj till Stockholm är under ordinarie beredskap bara
+            några få minuter just på grund av den korta distansen. Om någon
+            av de kvarvarande flottiljerna har beredskapen är bara anflygningstiden
+            uppåt en halvtimme. Detta ställdes på sin spets dagen efter att
+            det otänkbara hänt i USA den 11 september 2001, när F 16 i Uppsala
+            fick order om att sätta upp extra incidentberedskap med jaktflyg.
+          </p>
+          <p xml:id="i-5vMHDyFVeQ9Fa17PRhosP6">
+            De fruktansvärda terrordåd som genomförts i USA är en påminnelse
+            om att vi behöver ett starkt försvar. Inklusive ett luftförsvar
+            av Mälardalen. Något annat blir mycket svårt att förklara för
+            kommande generationer. Om vi förlägger flygskolan i Uppsala får
+            vi möjlighet till en snabb incidentberedskapsbasering eftersom
+            det kommer redan i utgångsläget finnas tillräckligt med teknisk,
+            räddnings- och fälthållningskapacitet på plats.
+          </p>
+          <p xml:id="i-2YCAGWvS1UxMF6QyCb7a8D">
+            Därför uppmanar jag försvarsministern att åter pröva möjligheten
+            att placera flygskolan i Uppsala. Här finns över 200 miljoner
+            att spara! Jag tror att att regeringen skulle få en bred majoritet
+            i riksdagen för detta. Än är det inte för sent att låta förnuftet
+            segra i denna fråga.
+          </p>
+          <p xml:id="i-7FxHH7eycjYpLXUJXEjqVj">
+            Mina frågor till försvarsministern är:
+          </p>
+          <p xml:id="i-LabF2PW6T8nZdpsVXSsYPT">
+            Vad kommer den totala kostnaden för etablering av flygskolan
+            på Malmen i Linköping att bli inklusive kringkostnader?
+          </p>
+          <p xml:id="i-AEYHFsSR5z3izTziP4Hpo1">
+            Kan försvarsministern tänka sig att ompröva beslutet att förlägga
+            flygskolan på Malmen till förmån för F 20 i Uppsala?
+          </p>
+        </div>
       </div>
     </body>
   </text>

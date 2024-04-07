@@ -3,127 +3,155 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>sjukskrivningsmålen</title>
+        <author>Könberg, Bo (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>sjukskrivningsmålen till statsrådet Hans Karlsson om sjukskrivningsmålen</title>
+          <idno type="rdwebb">GR1043</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1043/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1043</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1043</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-JZKa6caqdSKy8yhUyfEJeU</idno>
+            <persName>Bo Könberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DZHb75zqQXWbqchBjLMGQz" corresp="i-JZKa6caqdSKy8yhUyfEJeU">
+          <date when="2003-10-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2yxaMip1MRkAmJPFMfrWmy">
+          <date when="2003-10-22"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6UCAmZc8Z3ij34QGSzXkYR">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Lbip7G3CeH3GfJhnJXLxZX">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-UBkKJESphifJhkq4VMgjrj" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-10-22"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0043</head>
-        <author who="i-JZKa6caqdSKy8yhUyfEJeU">Bo Könberg</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>sjukskrivningsmålen</topic>
-        <docDate when="2003-10-22">den 22 oktober</docDate>
-        <status when="2003-11-11" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1043</external_id>
-        <debate>
-          <turn when="2003-11-11 21:21:11" duration="328">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 21:26:36" duration="244">Bo Könberg (Fp)</turn>
-          <turn when="2003-11-11 21:30:37" duration="172">Carl-Axel Johansson (M)</turn>
-          <turn when="2003-11-11 21:33:25" duration="266">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 21:37:48" duration="254">Bo Könberg (Fp)</turn>
-          <turn when="2003-11-11 21:41:59" duration="84">Carl-Axel Johansson (M)</turn>
-          <turn when="2003-11-11 21:43:20" duration="244">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 21:47:21" duration="130">Bo Könberg (Fp)</turn>
-          <turn when="2003-11-11 21:49:27" duration="170">Hans Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:43 av Bo Könberg (fp) till statsrådet
-          Hans Karlsson om sjukskrivningsmålen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ho6RPnfb8Bbnb7QPFmC9GX">
+            Interpellation 2003/04:43 av Bo Könberg (fp) till statsrådet
+            Hans Karlsson om sjukskrivningsmålen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-YAduHESrpVD1DvHDr7qwKT">
+            den 22 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-CyXEqTXpe6o5QZsXNdVQo5">
-          I TV-programmet Agenda den 12 oktober sade arbetslivsminister
-          Hans Karlsson så här: "För första gången så minskar sjukskrivningarna
-          på i stort sett alla punkter. Kortidsfrånvaron minskar, de långa
-          sjukskrivningarna börjar minska för första gången på fyra år och
-          kostnaderna minskar för första gången den här månaden jämfört
-          med samma period förra året." Tre konkreta påståenden som kan
-          jämföras med den officiella statistiken.
-        </p>
-        <p xml:id="i-2egFJiGyyaG8dsCwRXtkWC">
-          1. Det är sant att korttidsfrånvaron är en aning mindre nu än
-          för ett år sedan. Det kompenseras tyvärr mer än väl av att långtidssjukskrivningarna
-          och sjuk- och aktivitetsersättningen, det som tidigare kallades
-          för förtidspensionering, ökar.
-        </p>
-        <p xml:id="i-ViGDr8h599jGyhatFUrK7J">
-          2. Det är också sant att antalet långtidssjukskrivna minskade
-          mellan maj och juni i år, de senaste månaderna Riksförsäkringsverket
-          hade statistik för när Hans Karlsson uttalade sig. Men det gjorde
-          de mellan maj och juni förra året också, och alla andra år. Det
-          är en säsongsvariation som inte säger någonting om vad som händer
-          under året. I juli ökade antalet igen. En mer intressant siffra
-          är att antalet långtidssjukskrivna i juni i år var 16 % fler än
-          i juni 2002, 134 000 jämfört med 116 000.
-        </p>
-        <p xml:id="i-YBzpKDhra2Sa3esw6N7pgB">
-          3. Kostnaden för sjukpenningssystemet under augusti var en aning
-          lägre än i augusti förra året. Men det är bara en enskild månad,
-          summan hittills under året är högre än under motsvarande period
-          förra året. Räknar man in förtidspensionerna också så var kostnaden
-          för årets första åtta månader 9,8 % högre än för motsvarande period
-          2002.
-        </p>
-        <p xml:id="i-Ga9QbgX2gRc3eJWt9YCbvn">
-          Sedan Hans Karlssons TV-framträdande har det kommit nya siffror
-          från Riksförsäkringsverket. Nu är den som är sjuk tre veckor eller
-          mindre osynlig i statistiken, eftersom regeringen har infört en
-          tredje sjuklönevecka, som betalas av arbetsgivarna. Dessa människor
-          har inte blivit friska för att de inte registreras i statistiken.
-        </p>
-        <p xml:id="i-oBfkdAxAQTJaEvzCU7S8X">
-          Den lilla nedgång som syns i antalet sjukskrivna är till stor
-          del en överföring av långtidssjuka till förtidspensionssystemet.
-          Regeringen har satt upp ett mål om att minska antalet dagar med
-          sjukpenning, och det kan man tyvärr uppnå på det sättet. Vi har
-          i Folkpartiet motionerat om att regeringen i stället ska sätta
-          upp ett mål för den totala frånvaron på grund av sjukdom.
-        </p>
-        <p xml:id="i-YCKYLum5wc1fcnGrGGH32a">
-          Ett exempel kan vara ohälsotalet. Ohälsotalet är ett mått på
-          utbetalda dagar med sjukpenning, arbetsskadesjukpenning, rehabiliteringspenning,
-          förtidspension och sjukbidrag från socialförsäkringen. För detta
-          saknas i skrivande stund statistik efter november 2002.
-        </p>
-        <p xml:id="i-C722oDkHt3f4bo6GqLQMF8">
-          Vi behöver ett mål för den totala sjukfrånvaron, inte ett mål
-          som kan uppfyllas genom att man flyttar folk från en kolumn i
-          tabellen till en annan. Vi behöver klara besked från den ansvarige
-          ministern.
-        </p>
-        <p xml:id="i-2WdZEb5Vt68do2bSQutLte">
-          Mina frågor till arbetslivsminister Hans Karlsson är:
-        </p>
-        <p xml:id="i-R8ZHHTfPxZLyjfp4ABRVhR">
-          1. Har ministern gjort bedömningen att långtidssjukskrivningarna
-          minskat?
-        </p>
-        <p xml:id="i-CxbgkCTmeBAP2Un1smWjkb">
-          2. Är ministern beredd att ställa upp ett mål för den totala
-          frånvaron på grund av sjukdom?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-P7tTTjeeHTSBqhEDkHSGwo">
+            I TV-programmet Agenda den 12 oktober sade arbetslivsminister
+            Hans Karlsson så här: "För första gången så minskar sjukskrivningarna
+            på i stort sett alla punkter. Kortidsfrånvaron minskar, de långa
+            sjukskrivningarna börjar minska för första gången på fyra år och
+            kostnaderna minskar för första gången den här månaden jämfört
+            med samma period förra året." Tre konkreta påståenden som kan
+            jämföras med den officiella statistiken.
+            <list rend="unordered">
+              <item>
+                1. Det är sant att korttidsfrånvaron är en aning mindre nu än
+                för ett år sedan. Det kompenseras tyvärr mer än väl av att långtidssjukskrivningarna
+                och sjuk- och aktivitetsersättningen, det som tidigare kallades
+                för förtidspensionering, ökar.
+              </item>
+              <item>
+                2. Det är också sant att antalet långtidssjukskrivna minskade
+                mellan maj och juni i år, de senaste månaderna Riksförsäkringsverket
+                hade statistik för när Hans Karlsson uttalade sig. Men det gjorde
+                de mellan maj och juni förra året också, och alla andra år. Det
+                är en säsongsvariation som inte säger någonting om vad som händer
+                under året. I juli ökade antalet igen. En mer intressant siffra
+                är att antalet långtidssjukskrivna i juni i år var 16 % fler än
+                i juni 2002, 134 000 jämfört med 116 000.
+              </item>
+              <item>
+                3. Kostnaden för sjukpenningssystemet under augusti var en aning
+                lägre än i augusti förra året. Men det är bara en enskild månad,
+                summan hittills under året är högre än under motsvarande period
+                förra året. Räknar man in förtidspensionerna också så var kostnaden
+                för årets första åtta månader 9,8 % högre än för motsvarande period
+                2002.
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-DF7hQ46XxcibpuKBQj1k4R">
+            Sedan Hans Karlssons TV-framträdande har det kommit nya siffror
+            från Riksförsäkringsverket. Nu är den som är sjuk tre veckor eller
+            mindre osynlig i statistiken, eftersom regeringen har infört en
+            tredje sjuklönevecka, som betalas av arbetsgivarna. Dessa människor
+            har inte blivit friska för att de inte registreras i statistiken.
+          </p>
+          <p xml:id="i-HDNp2MHbAoKo9JLVqQNRTt">
+            Den lilla nedgång som syns i antalet sjukskrivna är till stor
+            del en överföring av långtidssjuka till förtidspensionssystemet.
+            Regeringen har satt upp ett mål om att minska antalet dagar med
+            sjukpenning, och det kan man tyvärr uppnå på det sättet. Vi har
+            i Folkpartiet motionerat om att regeringen i stället ska sätta
+            upp ett mål för den totala frånvaron på grund av sjukdom.
+          </p>
+          <p xml:id="i-QQXkYaGVdYe6sexN1UruQC">
+            Ett exempel kan vara ohälsotalet. Ohälsotalet är ett mått på
+            utbetalda dagar med sjukpenning, arbetsskadesjukpenning, rehabiliteringspenning,
+            förtidspension och sjukbidrag från socialförsäkringen. För detta
+            saknas i skrivande stund statistik efter november 2002.
+          </p>
+          <p xml:id="i-N12NwkFt47KTCqPbxMNogf">
+            Vi behöver ett mål för den totala sjukfrånvaron, inte ett mål
+            som kan uppfyllas genom att man flyttar folk från en kolumn i
+            tabellen till en annan. Vi behöver klara besked från den ansvarige
+            ministern.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-D8h6ZVAxdG8Vz3vypYiNSW">
+            Mina frågor till arbetslivsminister Hans Karlsson är:
+            <list rend="unordered">
+              <item>
+                1. Har ministern gjort bedömningen att långtidssjukskrivningarna
+                minskat?
+              </item>
+              <item>
+                2. Är ministern beredd att ställa upp ett mål för den totala
+                frånvaron på grund av sjukdom?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

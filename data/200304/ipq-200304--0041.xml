@@ -3,133 +3,177 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>vårdkostnaderna för gömda flyktingar</title>
+        <author>Wikström, Cecilia (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>vårdkostnaderna för gömda flyktingar till socialminister Lars Engqvist om vårdkostnaderna för gömda flyktingar</title>
+          <idno type="rdwebb">GR1041</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1041/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1041</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1041</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-XN7bgwBGaQixfiHi5Cbu8f</idno>
+            <persName>Cecilia Wikström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-CdQbjkg6jiVHxFstVy1Ttt" corresp="i-XN7bgwBGaQixfiHi5Cbu8f">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SDqMj15yENfUiJJjDmgdXR">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Vo6PgdJumzzXutGENjEbGD">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QQXnaz2cqCvReyyDNu6uDW" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KLNJSCkmLxspMy8AYvN1zX" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspContext corresp="i-KLNJSCkmLxspMy8AYvN1zX">
+          <ref type="record" target="prot-200304--024">Riksdagens protokoll 2003/04:24 Måndagen den 10 november</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellationerna 2003/04:40 och 41 om vårdkostnaderna för gömda flyktingar</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0041</head>
-        <author who="i-XN7bgwBGaQixfiHi5Cbu8f">Cecilia Wikström</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>vårdkostnaderna för gömda flyktingar</topic>
-        <docDate when="2003-10-21">den 21 oktober</docDate>
-        <status when="unknown" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1041</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:41 av Cecilia Wikström (fp) till socialminister
-          Lars Engqvist om vårdkostnaderna för gömda flyktingar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QFPKYzk7qgABofVRc9SYqZ">
+            Interpellation 2003/04:41 av Cecilia Wikström (fp) till socialminister
+            Lars Engqvist om vårdkostnaderna för gömda flyktingar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4iW4WQkuwxerJPbFXaANLu">
+            den 21 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8xtKon7Upqd8uunCFeYZwk">
-          Under senare tid har det blivit känt att flertalet av landstingen
-          i vårt land fakturerar kostnaden för akut sjukvård av personer
-          som fått beskedet att de inte kan få uppehållstillstånd i vårt
-          land och följaktligen, i avvaktan på nya skäl eller tyngre argument
-          att presentera, känt sig nödsakade att gå under jorden och gömma
-          sig i Sverige tills en ny sakframställan kan komma till stånd.
-        </p>
-        <p xml:id="i-FpSwiBWAMa8kVu9gXy8sQM">
-          I ett fall har kostnaden för en förlossning och efterföljande
-          vård av ett prematurt fött barn uppgått till 180 000 kr, vilket
-          fakturerats barnets föräldrar. Migrationsverket har vägrat betala
-          med motiveringen att den uppkomna situationen "är deras egna fria
-          val" (Anders Westerberg, stf generaldirektör vid Migrationsverket
-          våren 2003). Ett annat aktuellt fall gäller en kvinna i Uppsala
-          som år 2000, under den tid hon var utvisningshotad, vårdades på
-          sjukhus för ett livshotande sjukdomstillstånd.
-        </p>
-        <p xml:id="i-9ZCHzPDsRYaa9NwRC7fsCf">
-          Denna kvinna beviljades år 2000 tillsammans med sin familj uppehållstillstånd
-          och familjen är i dag väl integrerad i det svenska samhället.
-          I slutet av september 2003, tre år efter att hon vårdades vid
-          Uppsala Akademiska sjukhus, mottog hon en faktura från Landstinget
-          i Uppsala län om 254 000 kr.
-        </p>
-        <p xml:id="i-6pkP43kbbXXQpwvDkz3C8x">
-          Jag menar att det är ställt bortom varje tvivel att det inte
-          rör sig om frivilliga val i något av de fall som jag här kort
-          har redogjort för. Varken en allvarlig sjukdom eller en förlossning
-          kan karaktäriseras som onödig vård. Den sjukvård dessa personer
-          fick var sjukvård i enlighet med hälso- och sjukvårdslagen. Att
-          förvägra utsatta människor den vård de behöver vid ett akut sjukdomstillstånd
-          vore direkt inhumant och så har heller inte skett i de fall jag
-          refererar till.
-        </p>
-        <p xml:id="i-Vd6ukws9g7Tf7oqLSt22uX">
-          Att ge sjukvård och sedan, flera år i efterhand, kräva att människor
-          som lämnat sina hemländer utan några som helst materiella tillgångar
-          ska betala vårdräkningar om mycket stora belopp är djupt cyniskt
-          och motverkar varje form av integration.
-        </p>
-        <p xml:id="i-Fu7p7MSkkGE9dzHjEJ4EJ3">
-          Människor som börjat skapa sig ett liv här: ordnat bostad, fått
-          sina akademiska meriter från hemlandet validerade och kompletterat
-          med studier vid svenska universitet, ordnat dagis och skolor för
-          sina barn och fått jobb upplever det som tillintetgörande att
-          tvingas betala sjukvårdsräkningar i storleksordningen en kvarts
-          miljon kronor.
-        </p>
-        <p xml:id="i-UEFRRUnqsZjUKXS1bAeT4H">
-          Man har kommit hit för att göra rätt för sig, bidra till en positiv
-          utveckling för vårt land och vill inte hamna i en evig skuldsituation,
-          kanske till och med få betalningsanmärkningar för att man häftar
-          i skuld till landstinget. Det kan bli svårt med bostadslån och
-          svårt att köpa en bil på avbetalning, det blir en mycket tråkig
-          situation för hela familjen.
-        </p>
-        <p xml:id="i-LVUbpRkdqYTaHyfh1pniNh">
-          Jag frågar mig om regeringens tal om integration i själva verket
-          bara är tomma ord när jag tvingas konstatera att människors uppriktiga
-          vilja att skapa en positiv situation för sig själva och sina barn
-          så brutalt slås ner av den socialdemokratiska regeringen som inte
-          tycks förmögen att fatta beslutet att låta Migrationsverket eller
-          annan myndighet bära ansvaret för gömda flyktingars sjukvårdskostnader.
-        </p>
-        <p xml:id="i-GKxeC8tDBnJ9VLieUP21SN">
-          Att människor själva tvingas betala kostnaderna för vård kan
-          också leda till att man undviker att söka hjälp i tid och kommer
-          under behandling för sent, ofta med allvarliga sjukdomsförlopp.
-        </p>
-        <p xml:id="i-DP33jYjqGeS1enbN2iYd2i">
-          Bland de riktlinjer som sjukvården har att följa finns människovärdesprincipen
-          som säger att alla människor har lika värde och samma rätt, oberoende
-          av vem man är och vilken roll i samhället man har.
-        </p>
-        <p xml:id="i-MjbLueQ2u6qw8W1uGaBnE4">
-          Mot denna bakgrund vill jag fråga socialministern:
-        </p>
-        <p xml:id="i-NmcXd7Mar5t4GtSNd9UYRV">
-          Vilka åtgärder är socialministern beredd att vidtaga för att
-          få Migrationsverket eller annan myndighet att bära gömda flyktingars
-          sjukvårdskostnader?
-        </p>
-        <p xml:id="i-4Cja72cjx28Q4ptZQvkEs4">
-          Är socialministern beredd att agera för att medverka till att
-          kostnaderna för sjukvård avskrivs för de flyktingar som beviljats
-          permanent uppehållstillstånd i Sverige?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UZ6Rxj935zjJiqEPxoJHEs">
+            Under senare tid har det blivit känt att flertalet av landstingen
+            i vårt land fakturerar kostnaden för akut sjukvård av personer
+            som fått beskedet att de inte kan få uppehållstillstånd i vårt
+            land och följaktligen, i avvaktan på nya skäl eller tyngre argument
+            att presentera, känt sig nödsakade att gå under jorden och gömma
+            sig i Sverige tills en ny sakframställan kan komma till stånd.
+          </p>
+          <p xml:id="i-3KiD1ctVo3SrLmHJ6Tu6Yd">
+            I ett fall har kostnaden för en förlossning och efterföljande
+            vård av ett prematurt fött barn uppgått till 180 000 kr, vilket
+            fakturerats barnets föräldrar. Migrationsverket har vägrat betala
+            med motiveringen att den uppkomna situationen "är deras egna fria
+            val" (Anders Westerberg, stf generaldirektör vid Migrationsverket
+            våren 2003). Ett annat aktuellt fall gäller en kvinna i Uppsala
+            som år 2000, under den tid hon var utvisningshotad, vårdades på
+            sjukhus för ett livshotande sjukdomstillstånd.
+          </p>
+          <p xml:id="i-PWhgs7pe5BZHaCbPkHZLtx">
+            Denna kvinna beviljades år 2000 tillsammans med sin familj uppehållstillstånd
+            och familjen är i dag väl integrerad i det svenska samhället.
+            I slutet av september 2003, tre år efter att hon vårdades vid
+            Uppsala Akademiska sjukhus, mottog hon en faktura från Landstinget
+            i Uppsala län om 254 000 kr.
+          </p>
+          <p xml:id="i-EeJDtNtp3ssurELQsAZN3w">
+            Jag menar att det är ställt bortom varje tvivel att det inte
+            rör sig om frivilliga val i något av de fall som jag här kort
+            har redogjort för. Varken en allvarlig sjukdom eller en förlossning
+            kan karaktäriseras som onödig vård. Den sjukvård dessa personer
+            fick var sjukvård i enlighet med hälso- och sjukvårdslagen. Att
+            förvägra utsatta människor den vård de behöver vid ett akut sjukdomstillstånd
+            vore direkt inhumant och så har heller inte skett i de fall jag
+            refererar till.
+          </p>
+          <p xml:id="i-Cw5i35By9NJVusWbj5qsxb">
+            Att ge sjukvård och sedan, flera år i efterhand, kräva att människor
+            som lämnat sina hemländer utan några som helst materiella tillgångar
+            ska betala vårdräkningar om mycket stora belopp är djupt cyniskt
+            och motverkar varje form av integration.
+          </p>
+          <p xml:id="i-DgPVpmCTi4niDwoZv1NfYr">
+            Människor som börjat skapa sig ett liv här: ordnat bostad, fått
+            sina akademiska meriter från hemlandet validerade och kompletterat
+            med studier vid svenska universitet, ordnat dagis och skolor för
+            sina barn och fått jobb upplever det som tillintetgörande att
+            tvingas betala sjukvårdsräkningar i storleksordningen en kvarts
+            miljon kronor.
+          </p>
+          <p xml:id="i-5Lvd5TUwo4Fwt5PMvAoewK">
+            Man har kommit hit för att göra rätt för sig, bidra till en positiv
+            utveckling för vårt land och vill inte hamna i en evig skuldsituation,
+            kanske till och med få betalningsanmärkningar för att man häftar
+            i skuld till landstinget. Det kan bli svårt med bostadslån och
+            svårt att köpa en bil på avbetalning, det blir en mycket tråkig
+            situation för hela familjen.
+          </p>
+          <p xml:id="i-8BDwM2DDLvPParPrEQsjog">
+            Jag frågar mig om regeringens tal om integration i själva verket
+            bara är tomma ord när jag tvingas konstatera att människors uppriktiga
+            vilja att skapa en positiv situation för sig själva och sina barn
+            så brutalt slås ner av den socialdemokratiska regeringen som inte
+            tycks förmögen att fatta beslutet att låta Migrationsverket eller
+            annan myndighet bära ansvaret för gömda flyktingars sjukvårdskostnader.
+          </p>
+          <p xml:id="i-U8Hjy1ahQPb8G4JSmdQhmu">
+            Att människor själva tvingas betala kostnaderna för vård kan
+            också leda till att man undviker att söka hjälp i tid och kommer
+            under behandling för sent, ofta med allvarliga sjukdomsförlopp.
+          </p>
+          <p xml:id="i-YNxTgm2jiycmQRDJSECLFg">
+            Bland de riktlinjer som sjukvården har att följa finns människovärdesprincipen
+            som säger att alla människor har lika värde och samma rätt, oberoende
+            av vem man är och vilken roll i samhället man har.
+          </p>
+          <p xml:id="i-85e16EecbxxB94VgRRWyeN">
+            Mot denna bakgrund vill jag fråga socialministern:
+          </p>
+          <p xml:id="i-L1icZBE5buPnNfTwdZU5bw">
+            Vilka åtgärder är socialministern beredd att vidtaga för att
+            få Migrationsverket eller annan myndighet att bära gömda flyktingars
+            sjukvårdskostnader?
+          </p>
+          <p xml:id="i-GVjmANJSZkgUuWUTLC9UAo">
+            Är socialministern beredd att agera för att medverka till att
+            kostnaderna för sjukvård avskrivs för de flyktingar som beviljats
+            permanent uppehållstillstånd i Sverige?
+          </p>
+        </div>
       </div>
     </body>
   </text>

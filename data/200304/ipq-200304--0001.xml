@@ -3,86 +3,130 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>psykiatrivårdens sammanbrott</title>
+        <author>Lindblad, Göran (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>psykiatrivårdens sammanbrott till socialminister Lars Engqvist om psykiatrivårdens sammanbrott</title>
+          <idno type="rdwebb">GR101</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR101/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR101</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR101</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
+            <persName>Göran Lindblad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DuktDYqBK2BTx8hJ5y8ksi" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
+          <date when="2003-09-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RrbmVWwuHrzfFErCtpcE2a">
+          <date when="2003-09-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-N6KZDRYHBeis7KuCNXX7nr">
+          <date when="2003-10-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VoAd8W8FWPzU4RyhufnF96" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-09-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CNEYRtzFaEYjn2HvQGbJ6P" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-10-02"/>
+        </correspAction>
+        <correspContext corresp="i-CNEYRtzFaEYjn2HvQGbJ6P">
+          <ref type="record" target="prot-200304--009">Riksdagens protokoll 2003/04:9 Torsdagen den 2 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2003/04:1 om psykiatrivårdens sammanbrott</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0001</head>
-        <author who="i-KdNZEf7wb1MAJv58QEHYrr">Göran Lindblad</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>psykiatrivårdens sammanbrott</topic>
-        <docDate when="2003-09-18">den 18 september</docDate>
-        <status when="unknown" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR101</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:1 av Göran Lindblad (m) till socialminister
-          Lars Engqvist om psykiatrivårdens sammanbrott
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DBt73LgXkzTkJuciN88KDR">
+            Interpellation 2003/04:1 av Göran Lindblad (m) till socialminister
+            Lars Engqvist om psykiatrivårdens sammanbrott
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LtYc1FC4miD442GWu6a15W">
+            den 18 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3gEEHZF7nEHiPwMwQZzdh1">
-          Under de senaste månaderna har vi fått en mängd exempel på brott
-          begångna av psykiskt sjuka personer vilka inte erhållit adekvat
-          vård.
-        </p>
-        <p xml:id="i-2yzav731ghS8CP2GXMS7iv">
-          Yxmördaren i Göteborg, järnrörsmannen i Alvik, bilmassakern på
-          Västerlånggatan, och nu senast den knivmördare i Arvika som uppenbarligen
-          inspirerats av mordet på statsrådet Anna Lindh är alla exempel
-          på psykiatrins misslyckande. Dessa är då enbart toppen av ett
-          isberg, massor av mindre spektakulära våldsdåd begås i stort sett
-          dagligen av psykiskt instabila eller sjuka personer.
-        </p>
-        <p xml:id="i-PWcK4MLsry1wtaXzzQBy94">
-          Det finnes också en tydlig koppling till den katastrofalt dåliga
-          missbrukarvården och den otillräckliga narkotikabekämpningen.
-          Det är väl känt att många narkotiska preparat och droger orsakar
-          eller förvärrar psykiska sjukdomar.
-        </p>
-        <p xml:id="i-TDsAaUm9JV62WKb4s2fxkf">
-          Den slutna psykiatriska vården har under många år successivt
-          avlövats. Många psykiskt sjuka lever i dag i misär, kanske som
-          hemlösa, eller i ett ensamt eget boende ordnat av en socialtjänst
-          som saknar tillräckliga kunskaper för att rätt kunna vårda svårt
-          psykiskt sjuka. Såväl förövare som offer vid de ovan relaterade
-          våldsdåden hade fått ett bättre och längre liv med en fungerande
-          slutenvård för psykiskt sjuka.
-        </p>
-        <p xml:id="i-K4hEoFgXiFze3ZaiDVF3cQ">
-          Möjligheten till försöksutskrivning borde återinföras eftersom
-          flertalet psykiskt sjuka efter en alltför kort vårdtid på institution
-          i regel slutar medicinera när tvångsvård eller frivillig inläggning
-          upphör.
-        </p>
-        <p xml:id="i-NmtPkb24b3yN2h5kDRNDbe">
-          En haverikommission för psykiatrin borde inrättas.
-        </p>
-        <p xml:id="i-Rs1hkdicNtWaJbqapHqU5Y">
-          Vad avser statsrådet att göra för att långsiktigt, men också
-          omedelbart, rätta till de värsta problemen inom psykiatrin?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PBDjfFeYZvYkGcmRVmwNnz">
+            Under de senaste månaderna har vi fått en mängd exempel på brott
+            begångna av psykiskt sjuka personer vilka inte erhållit adekvat
+            vård.
+          </p>
+          <p xml:id="i-4WRxofzCRzQBt161PTXxw5">
+            Yxmördaren i Göteborg, järnrörsmannen i Alvik, bilmassakern på
+            Västerlånggatan, och nu senast den knivmördare i Arvika som uppenbarligen
+            inspirerats av mordet på statsrådet Anna Lindh är alla exempel
+            på psykiatrins misslyckande. Dessa är då enbart toppen av ett
+            isberg, massor av mindre spektakulära våldsdåd begås i stort sett
+            dagligen av psykiskt instabila eller sjuka personer.
+          </p>
+          <p xml:id="i-9AwaNKPDMkpfRVQZLEMDrG">
+            Det finnes också en tydlig koppling till den katastrofalt dåliga
+            missbrukarvården och den otillräckliga narkotikabekämpningen.
+            Det är väl känt att många narkotiska preparat och droger orsakar
+            eller förvärrar psykiska sjukdomar.
+          </p>
+          <p xml:id="i-PsLUtg5H3gZYM5BAVLCgSi">
+            Den slutna psykiatriska vården har under många år successivt
+            avlövats. Många psykiskt sjuka lever i dag i misär, kanske som
+            hemlösa, eller i ett ensamt eget boende ordnat av en socialtjänst
+            som saknar tillräckliga kunskaper för att rätt kunna vårda svårt
+            psykiskt sjuka. Såväl förövare som offer vid de ovan relaterade
+            våldsdåden hade fått ett bättre och längre liv med en fungerande
+            slutenvård för psykiskt sjuka.
+          </p>
+          <p xml:id="i-DVRoMTML3u531HBSDhKsJK">
+            Möjligheten till försöksutskrivning borde återinföras eftersom
+            flertalet psykiskt sjuka efter en alltför kort vårdtid på institution
+            i regel slutar medicinera när tvångsvård eller frivillig inläggning
+            upphör.
+          </p>
+          <p xml:id="i-XbcpY9kW6NqLKsne6kQz9Q">
+            En haverikommission för psykiatrin borde inrättas.
+          </p>
+          <p xml:id="i-nZn1y8wLhcbN23hWezV5a">
+            Vad avser statsrådet att göra för att långsiktigt, men också
+            omedelbart, rätta till de värsta problemen inom psykiatrin?
+          </p>
+        </div>
       </div>
     </body>
   </text>

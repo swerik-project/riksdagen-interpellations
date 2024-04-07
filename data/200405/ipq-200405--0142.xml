@@ -3,74 +3,105 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>svarthandel</title>
+        <author>Thalén-Finné, Ewa (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>svarthandel till statsrådet Mona Sahlin om svarthandel</title>
+          <idno type="rdwebb">GS10142</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10142/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10142</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10142</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Ev13DrJjHbo85jEmQ5EPLM</idno>
+            <persName>Ewa Thalén Finné</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JWS7EygMdFgWj3yyXQrmGk" corresp="i-Ev13DrJjHbo85jEmQ5EPLM">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-W1VzueU2TKLFkJxhVPKzhe">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CSmz43T121qNsuEwFo1wTJ">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6y9RkNg1cgLajm7KYyQj6U" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-A7BmAmcVZ9JAf7CLuM1UKi" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspContext corresp="i-A7BmAmcVZ9JAf7CLuM1UKi">
+          <ref type="record" target="prot-200405--050">Riksdagens protokoll 2004/05:50 Tisdagen den 14 december</ref>
+          <ref type="recordSection" target="unsetDivId">2 § Svar på interpellation 2004/05:142 om svarthandel</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0142</head>
-        <author who="i-Ev13DrJjHbo85jEmQ5EPLM">Ewa Thalén Finné</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>Svarthandel</topic>
-        <docDate when="2004-11-16">den 16 november</docDate>
-        <status when="2004-12-14" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10142</external_id>
-        <debate>
-          <turn when="2004-12-14 09:01:00" duration="146">Mona Sahlin (S)</turn>
-          <turn when="2004-12-14 09:03:14" duration="264">Ewa Thalén Finné (M)</turn>
-          <turn when="2004-12-14 09:07:34" duration="235">Nina Lundström (Fp)</turn>
-          <turn when="2004-12-14 09:11:17" duration="215">Mona Sahlin (S)</turn>
-          <turn when="2004-12-14 09:14:39" duration="164">Ewa Thalén Finné (M)</turn>
-          <turn when="2004-12-14 09:17:11" duration="135">Nina Lundström (Fp)</turn>
-          <turn when="2004-12-14 09:19:23" duration="230">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-12-14 09:23:09" duration="167">Mona Sahlin (S)</turn>
-          <turn when="2004-12-14 09:25:53" duration="92">Ewa Thalén Finné (M)</turn>
-          <turn when="2004-12-14 09:27:11" duration="148">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-12-14 09:29:26" duration="165">Mona Sahlin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:142 av Ewa Thalén-Finné (m) till statsrådet
-          Mona Sahlin om svarthandel
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ai4kYtc7Qb7xzdp1YPuXLA">
+            Interpellation 2004/05:142 av Ewa Thalén-Finné (m) till statsrådet
+            Mona Sahlin om svarthandel
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-UDi1ckfmRoEJ3SyHV9P1ic">
+            den 16 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DUewcDYTcCAw92fDoTNnPC">
-          Hyresregleringen har skapat en svartmarknad för hyresrätter på
-          flera orter i Sverige. Trots detta har vi inte sett några förslag
-          från regeringen i syfte att minska svarthandeln. Den närmast legendariska
-          inaktiviteten på det bostadspolitiska området hos statsrådsföreträdare
-          visade sig inte minst i propositionsförteckningen inför varje
-          riksmöte. Nu har statsminister Göran Persson meddelat att den
-          senaste regeringsombildningen ska ses som en toppning av laget
-          inför valet 2006. Vi ser därför med tillförsikt fram emot att
-          ett nytt statsråd med ansvar för bostadspolitik ska leverera de
-          kraftfulla åtgärder som hittills lyst med sin frånvaro.
-        </p>
-        <p xml:id="i-Cwq6PX3vpuBYmBgYcc1yiT">
-          Vilka åtgärder avser statsrådet att vidta för att avskaffa svarthandeln
-          med hyreskontrakt?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2AYBGHFLakDqk8gCT9Mjvm">
+            Hyresregleringen har skapat en svartmarknad för hyresrätter på
+            flera orter i Sverige. Trots detta har vi inte sett några förslag
+            från regeringen i syfte att minska svarthandeln. Den närmast legendariska
+            inaktiviteten på det bostadspolitiska området hos statsrådsföreträdare
+            visade sig inte minst i propositionsförteckningen inför varje
+            riksmöte. Nu har statsminister Göran Persson meddelat att den
+            senaste regeringsombildningen ska ses som en toppning av laget
+            inför valet 2006. Vi ser därför med tillförsikt fram emot att
+            ett nytt statsråd med ansvar för bostadspolitik ska leverera de
+            kraftfulla åtgärder som hittills lyst med sin frånvaro.
+          </p>
+          <p xml:id="i-Nmhhx5yLMF2WhtB6AEuL3R">
+            Vilka åtgärder avser statsrådet att vidta för att avskaffa svarthandeln
+            med hyreskontrakt?
+          </p>
+        </div>
       </div>
     </body>
   </text>

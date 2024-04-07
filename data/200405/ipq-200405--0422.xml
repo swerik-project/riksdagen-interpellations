@@ -3,105 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Citybanan</title>
+        <author>Andersson, Christina (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Citybanan till statsrådet Ulrica Messing om Citybanan</title>
+          <idno type="rdwebb">GS10422</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10422/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10422</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10422</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Botm2Gp8Nzu8PtrnVugd1N</idno>
+            <persName>Christina Andersson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-ReZ2P7x53SyAvRzHrFyHKL" corresp="i-Botm2Gp8Nzu8PtrnVugd1N">
+          <date when="2005-02-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3q1MBddWwA6dTGc1x3U28U" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SCFARFmaEw6uWBxaLfeNSG">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PX48dHQwoyp1N2YPZSkBR8" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspContext corresp="i-PX48dHQwoyp1N2YPZSkBR8">
+          <ref type="record" target="prot-200405--086">Riksdagens protokoll 2004/05:86 Tisdagen den 8 mars</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:422 om Citybanan</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0422</head>
-        <author who="i-Botm2Gp8Nzu8PtrnVugd1N">Christina Andersson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>Citybanan</topic>
-        <docDate when="2005-02-23">den 23 februari</docDate>
-        <status when="2005-03-08" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10422</external_id>
-        <debate>
-          <turn when="2005-03-08 13:56:10" duration="103">Ulrica Messing (S)</turn>
-          <turn when="2005-03-08 13:57:48" duration="202">Christina Andersson (C)</turn>
-          <turn when="2005-03-08 14:01:07" duration="187">Carl-Erik Skårman (M)</turn>
-          <turn when="2005-03-08 14:04:11" duration="184">Ulrica Messing (S)</turn>
-          <turn when="2005-03-08 14:07:11" duration="244">Christina Andersson (C)</turn>
-          <turn when="2005-03-08 14:11:12" duration="72">Carl-Erik Skårman (M)</turn>
-          <turn when="2005-03-08 14:12:20" duration="170">Ulrica Messing (S)</turn>
-          <turn when="2005-03-08 14:15:06" duration="107">Christina Andersson (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:422 av Christina Andersson (c) till statsrådet
-          Ulrica Messing om Citybanan
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-NSRyRobGpvT5VpyiKc2nYz">
+            Interpellation 2004/05:422 av Christina Andersson (c) till statsrådet
+            Ulrica Messing om Citybanan
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PA7KkUSbfYed9m3vbCWpe">
+            den 23 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-86DmyWth2H7jQDARm7fXXZ">
-          Citybanan ska bli en sex kilometer lång tunnel genom Stockholms
-          innerstad där pendeltrafiken får ett eget dubbelspår från och
-          med år 2011. Detta ger bättre plats för rikstrafik, regiontrafik
-          och godstrafik på redan befintliga spår förbi Stockholms central.
-          Tunnelprojektet är därför inte bara en angelägenhet för Stockholmsområdet,
-          utan för hela landet.
-        </p>
-        <p xml:id="i-UFNxxzLaeueHJG8jR2ZxMY">
-          Bristen på spårkapacitet genom centrala Stockholm är i dag ett
-          hinder för en fortsatt positiv utveckling av tågtrafiken i Mälardalen.
-          Den södra infarten till Stockholms central består av två spår,
-          samma antal som vid invigningen 1871. Spåren trafikeras i dag
-          av drygt 500 tåg varje dygn och kapaciteten är maximalt utnyttjad
-          i rusningstrafik. Stockholmsregionens pendeltåg och Mälardalens
-          regiontåg konkurrerar med långväga fjärrtåg och godståg om plats
-          på spåren. Efterfrågan på tätare trafik är betydligt större än
-          vad kapaciteten på den så kallade getingmidjan är.
-        </p>
-        <p xml:id="i-GCJ8GLnfmrfF1vRtBqDzqR">
-          Det är stor risk att den planerade pendeltågstunneln genom Stockholm
-          nu blir försenad. För några dagar sedan lämnade Banverket en rapport
-          till regeringen om hur planeringsarbetet för Citybanan fortskrider.
-          Där kan man läsa att "det är risk för att sluttiden förskjuts
-          framåt".
-        </p>
-        <p xml:id="i-2hwtiTqVijh8CAwvmygUei">
-          Anledningen till förseningen är framför allt att landstinget
-          och Stockholms stad inte kan komma överens med Banverket om hur
-          kostnaderna ska fördelas. Förhandlingarna skulle ha varit avslutade
-          före jul, men har försenats. En annan kritisk punkt för att programmet
-          ska hålla är regeringens tillståndsprövning. Även på den punkten
-          är tidsplaneringen osäker.
-        </p>
-        <p xml:id="i-GyVCiBU545EUbXXELE7uUa">
-          Planering för bättre spårkapacitet genom Stockholm har pågått
-          länge. Citybanan är ett prioriterat projekt för Stockholm, Mälardalen
-          och hela Sverige. I regeringsförklaringen 2002 framhöll statsministern
-          att "Citybanan var ett synnerligen angeläget projekt".
-        </p>
-        <p xml:id="i-TzWvMNCZhrr67YAyQWDZBk">
-          Mot bakgrund av att planeringsprocessen nu ser ut att förskjutas
-          framåt i tiden och därmed också byggandet av Citybanan vill jag
-          ställa följande fråga till statsrådet:
-        </p>
-        <p xml:id="i-JqeM7nGA65L39wP3xfaZLH">
-          Vilka åtgärder är statsrådet beredd att vidta för att undvika
-          förseningar i byggandet av den oerhört viktiga Citybanan genom
-          Stockholm?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-XtMBpqdHvXaWxGzLHrbafg">
+            Citybanan ska bli en sex kilometer lång tunnel genom Stockholms
+            innerstad där pendeltrafiken får ett eget dubbelspår från och
+            med år 2011. Detta ger bättre plats för rikstrafik, regiontrafik
+            och godstrafik på redan befintliga spår förbi Stockholms central.
+            Tunnelprojektet är därför inte bara en angelägenhet för Stockholmsområdet,
+            utan för hela landet.
+          </p>
+          <p xml:id="i-XtGhnWCgQ53yMxLutu8XyE">
+            Bristen på spårkapacitet genom centrala Stockholm är i dag ett
+            hinder för en fortsatt positiv utveckling av tågtrafiken i Mälardalen.
+            Den södra infarten till Stockholms central består av två spår,
+            samma antal som vid invigningen 1871. Spåren trafikeras i dag
+            av drygt 500 tåg varje dygn och kapaciteten är maximalt utnyttjad
+            i rusningstrafik. Stockholmsregionens pendeltåg och Mälardalens
+            regiontåg konkurrerar med långväga fjärrtåg och godståg om plats
+            på spåren. Efterfrågan på tätare trafik är betydligt större än
+            vad kapaciteten på den så kallade getingmidjan är.
+          </p>
+          <p xml:id="i-LvoyCVA19EubdzgbJm71oF">
+            Det är stor risk att den planerade pendeltågstunneln genom Stockholm
+            nu blir försenad. För några dagar sedan lämnade Banverket en rapport
+            till regeringen om hur planeringsarbetet för Citybanan fortskrider.
+            Där kan man läsa att "det är risk för att sluttiden förskjuts
+            framåt".
+          </p>
+          <p xml:id="i-GKuESCNCBb67xCik4ykA8R">
+            Anledningen till förseningen är framför allt att landstinget
+            och Stockholms stad inte kan komma överens med Banverket om hur
+            kostnaderna ska fördelas. Förhandlingarna skulle ha varit avslutade
+            före jul, men har försenats. En annan kritisk punkt för att programmet
+            ska hålla är regeringens tillståndsprövning. Även på den punkten
+            är tidsplaneringen osäker.
+          </p>
+          <p xml:id="i-3Uo3xEVpameNDc4b7YDUQu">
+            Planering för bättre spårkapacitet genom Stockholm har pågått
+            länge. Citybanan är ett prioriterat projekt för Stockholm, Mälardalen
+            och hela Sverige. I regeringsförklaringen 2002 framhöll statsministern
+            att "Citybanan var ett synnerligen angeläget projekt".
+          </p>
+          <p xml:id="i-UrmXgurYYuzARGjrKV6LUC">
+            Mot bakgrund av att planeringsprocessen nu ser ut att förskjutas
+            framåt i tiden och därmed också byggandet av Citybanan vill jag
+            ställa följande fråga till statsrådet:
+          </p>
+          <p xml:id="i-2UjSfAXZfumDyQdnCDwk22">
+            Vilka åtgärder är statsrådet beredd att vidta för att undvika
+            förseningar i byggandet av den oerhört viktiga Citybanan genom
+            Stockholm?
+          </p>
+        </div>
       </div>
     </body>
   </text>

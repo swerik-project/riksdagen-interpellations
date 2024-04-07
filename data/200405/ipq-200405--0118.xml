@@ -3,76 +3,115 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ägarlägenheter</title>
+        <author>de Pourbaix-Lundin, Marietta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ägarlägenheter till statsrådet Mona Sahlin om ägarlägenheter</title>
+          <idno type="rdwebb">GS10118</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10118/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10118</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10118</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
+            <persName>Marietta de Pourbaix-Lundin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Vq6i4eFkYfpFBx8xSYLHQ5" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
+          <date when="2004-11-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3WK5hmFERZeojXj6TJR7NK">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-JWNWsC97rECv86fMtgzCdH">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4mJ6eZwUojPELzzHR2CQM1" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FsjAcgfz6rHA7DQvpX1c3E" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspContext corresp="i-FsjAcgfz6rHA7DQvpX1c3E">
+          <ref type="record" target="prot-200405--034">Riksdagens protokoll 2004/05:34 Måndagen den 22 november</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:118 om ägarlägenheter</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0118</head>
-        <author who="i-9Kt7koTgzUZUA9ovNXYdWj">Marietta de Pourbaix-Lundin</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>ägarlägenheter</topic>
-        <docDate when="2004-11-02">den 2 november</docDate>
-        <status when="2004-11-22" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10118</external_id>
-        <debate>
-          <turn when="2004-11-22 12:37:53" duration="123">Thomas Bodström (S)</turn>
-          <turn when="2004-11-22 12:39:53" duration="175">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-22 12:42:45" duration="97">Thomas Bodström (S)</turn>
-          <turn when="2004-11-22 12:44:15" duration="155">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-22 12:46:47" duration="57">Thomas Bodström (S)</turn>
-          <turn when="2004-11-22 12:47:36" duration="84">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-22 12:48:55" duration="60">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:118 av Marietta de Pourbaix-Lundin (m)
-          till statsrådet Mona Sahlin om ägarlägenheter
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-96UFVig84gPc2V6LBxVqqp">
+            Interpellation 2004/05:118 av Marietta de Pourbaix-Lundin (m)
+            till statsrådet Mona Sahlin om ägarlägenheter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KCnCgXYPVcdW1xUa6ns8wF">
+            den 2 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-qvwvcKSFgkNYYxHye3yL8">
-          I de flesta länder går det att äga sin bostad/lägenhet i form
-          av ägarlägenhet. Detta är dock omöjligt i Sverige. Man kan äga
-          om huset ligger ned på marken, till exempel som radhus, men man
-          kan inte äga sin bostad/lägenhet om huset står upp på höjden,
-          till exempel som ett flerfamiljshus
-        </p>
-        <p xml:id="i-TzMQgfY1sMMBAXsA9e76KS">
-          Faktum är att ägarlägenheter är uppskattade och tillåtna i väldigt
-          många andra länder, till exempel våra grannländer. Tredimensionell
-          fastighetsbildning är numera tillåten och detta är en bra förutsättning
-          för att också tillåta ägarlägenheter. Hittills har dock regeringen
-          och socialdemokratin vägrat att tillåta ägarlägenheter i Sverige.
-        </p>
-        <p xml:id="i-FEUZfj7fwkPQgLNRqghwbz">
-          1. Avser statsrådet att vidta åtgärder för att göra det möjligt
-          för fler upplåtelseformer i boendet än i dag?
-        </p>
-        <p xml:id="i-E71tx2fo3bVnVhbR9mwoY4">
-          2. Avser statsrådet att lägga fram förslag till riksdagen om
-          att tillåta ägarlägenheter?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JrLSsNUFFfMtmDtdQBb1du">
+            I de flesta länder går det att äga sin bostad/lägenhet i form
+            av ägarlägenhet. Detta är dock omöjligt i Sverige. Man kan äga
+            om huset ligger ned på marken, till exempel som radhus, men man
+            kan inte äga sin bostad/lägenhet om huset står upp på höjden,
+            till exempel som ett flerfamiljshus
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-GW9UchEYqWbNARuZfEkUwZ">
+            Faktum är att ägarlägenheter är uppskattade och tillåtna i väldigt
+            många andra länder, till exempel våra grannländer. Tredimensionell
+            fastighetsbildning är numera tillåten och detta är en bra förutsättning
+            för att också tillåta ägarlägenheter. Hittills har dock regeringen
+            och socialdemokratin vägrat att tillåta ägarlägenheter i Sverige.
+            <list rend="unordered">
+              <item>
+                1.Avser statsrådet att vidta åtgärder för att göra det möjligt
+                för fler upplåtelseformer i boendet än i dag?
+              </item>
+              <item>
+                2.Avser statsrådet att lägga fram förslag till riksdagen om att
+                tillåta ägarlägenheter?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

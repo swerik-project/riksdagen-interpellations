@@ -3,87 +3,120 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kriminalvårdens ekonomi</title>
+        <author>Granbom, Karin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kriminalvårdens ekonomi till justitieminister Thomas Bodström om kriminalvårdens ekonomi</title>
+          <idno type="rdwebb">GS10545</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10545/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10545</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10545</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-SS4MgL3HhkwCjKYAxgBPkd</idno>
+            <persName>Karin Granbom</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-CGaXvmdaHMvwH9WRDvmpEe" corresp="i-SS4MgL3HhkwCjKYAxgBPkd">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BN7EcsgBz5agndELp84gWd">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-P7YYVspk9yPZYxdPbPDvry">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Wwk4XfjfChG22gR5Azk7eN" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Fr73QsYBNi4MkSPGVmxhdE" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspContext corresp="i-Fr73QsYBNi4MkSPGVmxhdE">
+          <ref type="record" target="prot-200405--120">Riksdagens protokoll 2004/05:120 Fredagen den 13 maj</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2004/05:545 om kriminalvårdens ekonomi</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0545</head>
-        <author who="i-SS4MgL3HhkwCjKYAxgBPkd">Karin Granbom</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>kriminalvårdens ekonomi</topic>
-        <docDate when="2005-04-21">den 21 april</docDate>
-        <status when="2005-05-13" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10545</external_id>
-        <debate>
-          <turn when="2005-05-13 10:06:47" duration="159">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 10:09:21" duration="268">Karin Granbom (Fp)</turn>
-          <turn when="2005-05-13 10:13:45" duration="255">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 10:17:56" duration="223">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 10:21:35" duration="233">Karin Granbom (Fp)</turn>
-          <turn when="2005-05-13 10:25:24" duration="147">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 10:27:47" duration="221">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 10:31:25" duration="129">Karin Granbom (Fp)</turn>
-          <turn when="2005-05-13 10:33:31" duration="100">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:545 av Karin Granbom (fp) till justitieminister
-          Thomas Bodström om kriminalvårdens ekonomi
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-16xPxk5uWTYZxNdYQMAE1X">
+            Interpellation 2004/05:545 av Karin Granbom (fp) till justitieminister
+            Thomas Bodström om kriminalvårdens ekonomi
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-UkkGvromoaoTxWkDD8gjK1">
+            den 21 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XrLZb9KEq7vkW8NG73Vgzv">
-          Kriminalvårdens budget är totalt ur balans. Verksamheten gick
-          in i år 2005 med en skuld på 400 miljoner kronor och i år väntas
-          verksamheten gå ytterligare 400 miljoner kronor back. Detta innebär
-          att när året är slut har kriminalvården utnyttjat en 16-procentig
-          anslagskredit.
-        </p>
-        <p xml:id="i-VtzxiQ5EMfLR8qWEZpreem">
-          Trots ett mycket svårt läge fick kriminalvården inget påslag
-          i vårens tilläggsproposition. I stället skrivs det att regeringen
-          kommer att fortsätta följa kriminalvårdens verksamhet för att
-          i budgetpropositionen för 2006 återkomma med förslag på åtgärder.
-          Under 2005 verkar det alltså som att inga extra anslag kommer
-          ges.
-        </p>
-        <p xml:id="i-31AMBDHqgQvqL6nwSa217J">
-          Denna mycket besvärliga situation leder till att verksamhetens
-          handlingsutrymme begränsas starkt. Många frågor uppkommer och
-          står obesvarade. Ska planerad utbyggnad fortsätta? Vilka satsningar
-          på säkerhet och behandling ska stoppas? Får kriminalvården ökad
-          räntekontokredit för att klara av att betala löpande kostnader
-          såsom hyra och löner?
-        </p>
-        <p xml:id="i-S46YDzL3ktLoH3MMRWGs6o">
-          Min fråga till justitieministern med anledning av ovanstående
-          är:
-        </p>
-        <p xml:id="i-VgqRwTta23WPKWcHALoNBB">
-          Vilka åtgärder avser ministern att vidta för att få kriminalvårdens
-          budget i balans?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-SmxGd8gsgykNWNQhoNZgJa">
+            Kriminalvårdens budget är totalt ur balans. Verksamheten gick
+            in i år 2005 med en skuld på 400 miljoner kronor och i år väntas
+            verksamheten gå ytterligare 400 miljoner kronor back. Detta innebär
+            att när året är slut har kriminalvården utnyttjat en 16-procentig
+            anslagskredit.
+          </p>
+          <p xml:id="i-8BUaDdvTUQ5mJpy6bTV6s8">
+            Trots ett mycket svårt läge fick kriminalvården inget påslag
+            i vårens tilläggsproposition. I stället skrivs det att regeringen
+            kommer att fortsätta följa kriminalvårdens verksamhet för att
+            i budgetpropositionen för 2006 återkomma med förslag på åtgärder.
+            Under 2005 verkar det alltså som att inga extra anslag kommer
+            ges.
+          </p>
+          <p xml:id="i-5QdZWmqNZGEHEJ8K9Bwdqb">
+            Denna mycket besvärliga situation leder till att verksamhetens
+            handlingsutrymme begränsas starkt. Många frågor uppkommer och
+            står obesvarade. Ska planerad utbyggnad fortsätta? Vilka satsningar
+            på säkerhet och behandling ska stoppas? Får kriminalvården ökad
+            räntekontokredit för att klara av att betala löpande kostnader
+            såsom hyra och löner?
+          </p>
+          <p xml:id="i-GYrxJipgaNVZdpsfybuL2Z">
+            Min fråga till justitieministern med anledning av ovanstående
+            är:
+          </p>
+          <p xml:id="i-Rz6yxXWyAUaTNCDxDYokmu">
+            Vilka åtgärder avser ministern att vidta för att få kriminalvårdens
+            budget i balans?
+          </p>
+        </div>
       </div>
     </body>
   </text>

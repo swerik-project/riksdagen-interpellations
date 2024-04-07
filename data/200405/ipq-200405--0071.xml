@@ -3,161 +3,187 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tågtrafiken mellan Norge och Sverige </title>
+        <author>Bergström, Sven (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>tågtrafiken mellan Norge och Sverige  till statsrådet Ulrica Messing om tågtrafiken mellan Norge och Sverige </title>
+          <idno type="rdwebb">GS1071</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1071/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1071</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1071</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
+            <persName>Sven Bergström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-T1beppwnq4fj869dxHbkdX" corresp="i-KtELEJ9HytY7HFgQExEzLq">
+          <date when="2004-10-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KCkaekZWKtfi227BJfZ4jK">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3aCTVHkB3qBpzKvGM6aMpY">
+          <date when="2004-11-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2eGTz5QpLhEHrzg9VJjb3C" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MbhNwmTuVC4GBSpGygPXcB" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-09"/>
+        </correspAction>
+        <correspContext corresp="i-MbhNwmTuVC4GBSpGygPXcB">
+          <ref type="record" target="prot-200405--025">Riksdagens protokoll 2004/05:25 Tisdagen den 9 november</ref>
+          <ref type="recordSection" target="unsetDivId">1 § Svar på interpellation 2004/05:71 om tågtrafiken mellan Norge och Sverige</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0071</head>
-        <author who="i-KtELEJ9HytY7HFgQExEzLq">Sven Bergström</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>tågtrafiken mellan Norge och Sverige </topic>
-        <docDate when="2004-10-22">den 22 oktober</docDate>
-        <status when="2004-11-09" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1071</external_id>
-        <debate>
-          <turn when="2004-11-09 13:30:40" duration="107">Ulrica Messing (S)</turn>
-          <turn when="2004-11-09 13:32:24" duration="265">Sven Bergström (C)</turn>
-          <turn when="2004-11-09 13:36:40" duration="220">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-09 13:40:16" duration="253">Viviann Gerdin (C)</turn>
-          <turn when="2004-11-09 13:44:23" duration="221">Karin Thorborg (V)</turn>
-          <turn when="2004-11-09 13:48:01" duration="267">Börje Vestlund (S)</turn>
-          <turn when="2004-11-09 13:52:21" duration="218">Håkan Larsson (C)</turn>
-          <turn when="2004-11-09 13:55:51" duration="249">Runar Patriksson (Fp)</turn>
-          <turn when="2004-11-09 13:59:54" duration="144">Claes Roxbergh (Mp)</turn>
-          <turn when="2004-11-09 14:02:13" duration="308">Ulrica Messing (S)</turn>
-          <turn when="2004-11-09 14:07:12" duration="251">Sven Bergström (C)</turn>
-          <turn when="2004-11-09 14:11:19" duration="131">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-09 14:13:19" duration="134">Viviann Gerdin (C)</turn>
-          <turn when="2004-11-09 14:15:28" duration="145">Karin Thorborg (V)</turn>
-          <turn when="2004-11-09 14:17:46" duration="175">Börje Vestlund (S)</turn>
-          <turn when="2004-11-09 14:20:37" duration="134">Håkan Larsson (C)</turn>
-          <turn when="2004-11-09 14:22:47" duration="147">Runar Patriksson (Fp)</turn>
-          <turn when="2004-11-09 14:25:06" duration="259">Ulrica Messing (S)</turn>
-          <turn when="2004-11-09 14:29:18" duration="149">Sven Bergström (C)</turn>
-          <turn when="2004-11-09 14:31:38" duration="52">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:71 av Sven Bergström (c) till statsrådet
-          Ulrica Messing om tågtrafiken mellan Norge och Sverige
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2C4KpvL7jQmdHR7wKCUVBC">
+            Interpellation 2004/05:71 av Sven Bergström (c) till statsrådet
+            Ulrica Messing om tågtrafiken mellan Norge och Sverige
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-21YMcLB9R6z8sEc7uGFPdB">
+            den 22 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BxFwfuhCHsAv52HratMhZQ">
-          År 2005 är det 100 år sedan unionen med Norge upplöstes. Det
-          uppmärksammas bland annat genom invigningen av en ny Svinesundsbro
-          för vägtrafiken längs Europaväg 6. Men när det gäller järnvägstrafiken
-          kommer 2005 snarast att markera något av ett fiasko när det gäller
-          tågtrafiken mellan våra båda länder. Den 1 januari 2005 ska nämligen
-          den tågtrafik som upprätthållits i 133 år mellan Oslo och Stockholm
-          avvecklas, helt i strid med en rad högtidliga deklarationer från
-          ansvariga ministrar.
-        </p>
-        <p xml:id="i-D4VQo3Sq2nA2U1DXiafLns">
-          Avvecklingen av tågtrafiken Oslo@Stockholm framstår som särskilt
-          märklig med tanke på de utfästelser som gjorts i samband med diskussionerna
-          om den så kallade Nordiska triangeln. Det är ett prioriterat projekt
-          i de transeuropeiska transportnäten (TEN-T). Syftet är att skapa
-          snabba och trafiksäkra väg- och järnvägsförbindelser mellan de
-          nordiska huvudstäderna. Triangeln tillhör den infrastruktur i
-          EU som är viktigast för de gränsöverskridande transporterna. Enligt
-          riktlinjerna för TEN-T ska triangelns väg- och järnvägsprojekt
-          prioriteras särskilt.
-        </p>
-        <p xml:id="i-7tLPxZHSv12fX7GgwT7Pu1">
-          Mellan Sverige och Norge finns fyra järnvägsförbindelser, nämligen
-          Göteborg@Oslo över Kornsjö (Norge@Vänerlänken), Stockholm@Karlstad@Oslo
-          via Charlottenberg (Värmlandsbanan), Östersund@Trondheim (Mittbanan)
-          och Kiruna@Narvik (Malmbanan). Förbindelsen Östersund@Trondheim
-          har anslutningar både söderut via Ånge@Ljusdal@Bollnäs, den så
-          kallade Atlantbanan, och österut mot Sundsvall, den så kallade
-          Mittlinjen.
-        </p>
-        <p xml:id="i-FsJzgPbyj3BVxRhi2xozKR">
-          I februari 2000 undertecknade transportministrarna i Sverige,
-          Norge och Danmark en avsiktsförklaring om den framtida snabbtågstrafiken
-          mellan Stockholm, Oslo och Köpenhamn. Ett mål var att det vid
-          utgången av 2001 skulle finnas dagliga snabbtågsförbindelser mellan
-          städerna och att restiden mellan Göteborg och Oslo skulle vara
-          max 3 timmar och 20 minuter. För att nå ned till den tiden krävdes
-          snabbtågsanpassning av Norge/Vänernbanan i Sverige samt Östfoldbanan
-          i Norge.
-        </p>
-        <p xml:id="i-menWGxBa1dpfi88tARZu4">
-          Ministrarna var också överens om att bland annat förbättra samordningen
-          av de nationella banhållningsplanerna och fördjupa samarbetet
-          kring tidtabellsutformning med mera. Inför avsiktsförklaringen
-          hade en gemensam svensk-norsk-dansk arbetsgrupp kartlagt bristerna.
-          Trots detta är restiden mellan Oslo och Göteborg i dag fortfarande
-          4 timmar.
-        </p>
-        <p xml:id="i-HnUiz1BY4XJa3D7mtUWcL7">
-          Inspirerad av intentionerna i trelandsöverenskommelsen startades
-          tågkonceptet LINX. Detta drivs av företaget LINX som SJ AB och
-          NSB gemensamt bildat för den gränsöverskridande trafiken på linjerna
-          Oslo@Karlstad@Stockholm och Oslo@Göteborg@Köpenhamn.
-        </p>
-        <p xml:id="i-9KDk2RjWru7Uag2yVPsk6R">
-          Persontågstrafiken mellan Sverige och Norge har dock, trots alla
-          goda föresatser, utvecklats negativt. LINX-trafiken har totalt
-          sett varit olönsam och samarbetet mellan de båda nationella tågoperatörerna
-          förefaller att gnissla betänkligt. Tågtrafiken Oslo@Göteborg går
-          dåligt och mellan Oslo och Stockholm kommer trafiken enligt beslut
-          från SJ AB och NSB att försvinna vid årsskiftet. Det betyder att
-          tågtrafiken mellan huvudstäderna kommer att upphöra efter 133
-          års trafik.
-        </p>
-        <p xml:id="i-DLXcpzHpNMahh7HroehZS7">
-          Ett viktigt skäl till tågtrafikens negativa utveckling är uppenbarligen
-          att de utlovade banförbättringarna inte kommit till stånd och
-          att restiden med järnväg därmed inte kunnat krympas enligt planerna.
-          Enligt uppgift är det järnvägsnätets dåliga standard främst på
-          den norska sidan som inte åtgärdats. Samtidigt har lågprisflyg
-          mellan Oslo@Stockholm erbjudit attraktiva restider och priser.
-        </p>
-        <p xml:id="i-YD9amwRoKqhXHQHcUp1UFP">
-          I en tid när samarbetet över svensk-norska gränsen utvecklas
-          positivt i berörda regioner och betyder alltmer när det gäller
-          pendling till arbete och studier är det mycket illa att tågtrafiken
-          inte utvecklas på motsvarande sätt. Man tvingas i stället att
-          lita till bil- och busstrafik. Nedläggningen av tågtrafiken mellan
-          de båda huvudstäderna kan inte betraktas som något annat än ett
-          stort misslyckande vad gäller nordiskt samarbete.
-        </p>
-        <p xml:id="i-2UG37uPboL5AAnRzx3nUt6">
-          Mot bakgrund av ovanstående vill jag fråga statsrådet Ulrica
-          Messing:
-        </p>
-        <p xml:id="i-NrXK7VvvhKPGgXaUWgB9S2">
-          1. Vilka åtgärder avser statsrådet att vidta för att få till
-          stånd en utvecklad tågtrafik på berörda banor mellan Norge och
-          Sverige?
-        </p>
-        <p xml:id="i-AKX88tMT3FkAU9HWecaJRw">
-          2. Vilka åtgärder avser statsrådet att vidta för att säkra en
-          fortsatt direktlinje mellan Oslo och Stockholm?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PoLgVRYjWpAi7woxAuLf8q">
+            År 2005 är det 100 år sedan unionen med Norge upplöstes. Det
+            uppmärksammas bland annat genom invigningen av en ny Svinesundsbro
+            för vägtrafiken längs Europaväg 6. Men när det gäller järnvägstrafiken
+            kommer 2005 snarast att markera något av ett fiasko när det gäller
+            tågtrafiken mellan våra båda länder. Den 1 januari 2005 ska nämligen
+            den tågtrafik som upprätthållits i 133 år mellan Oslo och Stockholm
+            avvecklas, helt i strid med en rad högtidliga deklarationer från
+            ansvariga ministrar.
+          </p>
+          <p xml:id="i-joYtetdpdiUkkGhxktUcD">
+            Avvecklingen av tågtrafiken Oslo@Stockholm framstår som särskilt
+            märklig med tanke på de utfästelser som gjorts i samband med diskussionerna
+            om den så kallade Nordiska triangeln. Det är ett prioriterat projekt
+            i de transeuropeiska transportnäten (TEN-T). Syftet är att skapa
+            snabba och trafiksäkra väg- och järnvägsförbindelser mellan de
+            nordiska huvudstäderna. Triangeln tillhör den infrastruktur i
+            EU som är viktigast för de gränsöverskridande transporterna. Enligt
+            riktlinjerna för TEN-T ska triangelns väg- och järnvägsprojekt
+            prioriteras särskilt.
+          </p>
+          <p xml:id="i-BmVjV2LpFVtGAJauVK126V">
+            Mellan Sverige och Norge finns fyra järnvägsförbindelser, nämligen
+            Göteborg@Oslo över Kornsjö (Norge@Vänerlänken), Stockholm@Karlstad@Oslo
+            via Charlottenberg (Värmlandsbanan), Östersund@Trondheim (Mittbanan)
+            och Kiruna@Narvik (Malmbanan). Förbindelsen Östersund@Trondheim
+            har anslutningar både söderut via Ånge@Ljusdal@Bollnäs, den så
+            kallade Atlantbanan, och österut mot Sundsvall, den så kallade
+            Mittlinjen.
+          </p>
+          <p xml:id="i-Ri5gGcLG2p4pS87CgJ8V1G">
+            I februari 2000 undertecknade transportministrarna i Sverige,
+            Norge och Danmark en avsiktsförklaring om den framtida snabbtågstrafiken
+            mellan Stockholm, Oslo och Köpenhamn. Ett mål var att det vid
+            utgången av 2001 skulle finnas dagliga snabbtågsförbindelser mellan
+            städerna och att restiden mellan Göteborg och Oslo skulle vara
+            max 3 timmar och 20 minuter. För att nå ned till den tiden krävdes
+            snabbtågsanpassning av Norge/Vänernbanan i Sverige samt Östfoldbanan
+            i Norge.
+          </p>
+          <p xml:id="i-RzcUTRq3Myj9tSne5xyjde">
+            Ministrarna var också överens om att bland annat förbättra samordningen
+            av de nationella banhållningsplanerna och fördjupa samarbetet
+            kring tidtabellsutformning med mera. Inför avsiktsförklaringen
+            hade en gemensam svensk-norsk-dansk arbetsgrupp kartlagt bristerna.
+            Trots detta är restiden mellan Oslo och Göteborg i dag fortfarande
+            4 timmar.
+          </p>
+          <p xml:id="i-GFKqKZJwo84VHpRLdD3XeZ">
+            Inspirerad av intentionerna i trelandsöverenskommelsen startades
+            tågkonceptet LINX. Detta drivs av företaget LINX som SJ AB och
+            NSB gemensamt bildat för den gränsöverskridande trafiken på linjerna
+            Oslo@Karlstad@Stockholm och Oslo@Göteborg@Köpenhamn.
+          </p>
+          <p xml:id="i-SJFk9N3Qoe3izdCqWm6SfN">
+            Persontågstrafiken mellan Sverige och Norge har dock, trots alla
+            goda föresatser, utvecklats negativt. LINX-trafiken har totalt
+            sett varit olönsam och samarbetet mellan de båda nationella tågoperatörerna
+            förefaller att gnissla betänkligt. Tågtrafiken Oslo@Göteborg går
+            dåligt och mellan Oslo och Stockholm kommer trafiken enligt beslut
+            från SJ AB och NSB att försvinna vid årsskiftet. Det betyder att
+            tågtrafiken mellan huvudstäderna kommer att upphöra efter 133
+            års trafik.
+          </p>
+          <p xml:id="i-Q8bhFrSHXtmu3BVNkTQ9qr">
+            Ett viktigt skäl till tågtrafikens negativa utveckling är uppenbarligen
+            att de utlovade banförbättringarna inte kommit till stånd och
+            att restiden med järnväg därmed inte kunnat krympas enligt planerna.
+            Enligt uppgift är det järnvägsnätets dåliga standard främst på
+            den norska sidan som inte åtgärdats. Samtidigt har lågprisflyg
+            mellan Oslo@Stockholm erbjudit attraktiva restider och priser.
+          </p>
+          <p xml:id="i-FWctMwxYAfkEuk8CPvg5Pz">
+            I en tid när samarbetet över svensk-norska gränsen utvecklas
+            positivt i berörda regioner och betyder alltmer när det gäller
+            pendling till arbete och studier är det mycket illa att tågtrafiken
+            inte utvecklas på motsvarande sätt. Man tvingas i stället att
+            lita till bil- och busstrafik. Nedläggningen av tågtrafiken mellan
+            de båda huvudstäderna kan inte betraktas som något annat än ett
+            stort misslyckande vad gäller nordiskt samarbete.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-QYPnmBYDo6d6RfrmNd5y6s">
+            Mot bakgrund av ovanstående vill jag fråga statsrådet Ulrica
+            Messing:
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder avser statsrådet att vidta för att få till
+                stånd en utvecklad tågtrafik på berörda banor mellan Norge och
+                Sverige?
+              </item>
+              <item>
+                2. Vilka åtgärder avser statsrådet att vidta för att säkra en
+                fortsatt direktlinje mellan Oslo och Stockholm?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

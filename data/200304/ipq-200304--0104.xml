@@ -3,88 +3,129 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>försvarets situation</title>
+        <author>Gunnarsson, Rolf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>försvarets situation till försvarsminister Leni Björklund om försvarets situation</title>
+          <idno type="rdwebb">GR10104</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10104/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10104</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10104</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-3TzUjUVop5GV6tpKYjGYGr</idno>
+            <persName>Rolf Gunnarsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-22PiKp1TqWn3jCRGsVTZrp" corresp="i-3TzUjUVop5GV6tpKYjGYGr">
+          <date when="2003-11-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WuT5u7wiSzFtsPVxZbJA9s">
+          <date when="2003-11-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Vf3HivWNDSAzyQ7eLjD7hB">
+          <date when="2003-11-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-L5onGojSvf8c4sUUdTVCak" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2003-11-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6T4BMnVx9pVSUi2C1G6xZJ" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2003-11-27"/>
+        </correspAction>
+        <correspContext corresp="i-6T4BMnVx9pVSUi2C1G6xZJ">
+          <ref type="record" target="prot-200304--037">Riksdagens protokoll 2003/04:37 Torsdagen den 27 november</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:104 om försvarets situation</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0104</head>
-        <author who="i-3TzUjUVop5GV6tpKYjGYGr">Rolf Gunnarsson</author>
-        <recipient who="i-CcdZckB2ErC625pmVtogZg">Leni Björklund</recipient>
-        <topic>försvarets situation</topic>
-        <docDate when="2003-11-12">den 12 november</docDate>
-        <status when="2003-11-27" byWhom="Leni Björklund" byWhomId="i-CcdZckB2ErC625pmVtogZg" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10104</external_id>
-        <debate>
-          <turn when="2022-01-01 01:00:00" duration="100" who="d7c31fc6-83e4-1111-ae60-0050040c9b55">Anf</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:104 av Rolf Gunnarsson (m) till försvarsminister
-          Leni Björklund om försvarets situation
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KhtpSaYHUpZna3b6t8QhkG">
+            Interpellation 2003/04:104 av Rolf Gunnarsson (m) till försvarsminister
+            Leni Björklund om försvarets situation
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Njqf7MWfMbLGDYmhuJSSQ4">
+            den 12 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-H31vqS3HxGz8RiE2MFdVci">
-          Ur Aftonbladet den 10 november 2003:
-        </p>
-        <p xml:id="i-ETGhBbf8Wcj35sJMhdHiR1">
-          "I årets budget riktar regeringen skarp kritik mot hur försvaret
-          sköts. Förändringarna har gått för långsamt, ambitionsnivån är
-          för låg, materielbeställningarna har blivit för vidlyftiga, bristerna
-          i den interna kontrollen är allvarliga".
-        </p>
-        <p xml:id="i-T1DNAMYY1oyK7Dzx5t44LY">
-          Det dras slutsatsen i Aftonbladet att "försvaret är nu en av
-          våra värsta krisbranscher".
-        </p>
-        <p xml:id="i-3dn8b1WSmrjFsjpa7opF92">
-          Vi har ju också i försvarsutskottet analyserat och låtit utreda
-          vad som hänt med de beslut vi fattat. Vad som förvånar mig är
-          att statsrådet tycks tveka och starkt ifrågasätta den utredningen.
-          Statsrådet sade i riksdagens frågestund den 6 november 2003:
-        </p>
-        <p xml:id="i-KEUZ1ocYc1DgTkJUQWZQmZ">
-          "Jag vill säga att jag är rätt tveksam till en del av de slutsatser
-          som jag hört redovisas".
-        </p>
-        <p xml:id="i-AmKjgJ4WHsewYy3JLmb5PD">
-          Det här ser jag som allvarligt. Statsrådet säger vidare i den
-          aktuella debatten att hon vill "titta på underlagen" i nämnda
-          utredning.
-        </p>
-        <p xml:id="i-M4uWNtAHzUaSbivSP7j4HR">
-          Som ledamot av utskottet ser jag allvarligt på de slutsatser
-          som utredaren Jörgen Thulstrup presenterat. Jag känner Thulstrup
-          som en person som är mycket kunnig inom försvarsområdet, som är
-          mycket noggrann med vad han skriver och en person som inte tar
-          till överord i sina beskrivningar.
-        </p>
-        <p xml:id="i-7S5grGVvMe44vEZn2BHjdY">
-          Med anledning av vad som nu framkommit undrar jag vilka åtgärder
-          som statsrådet tänker vidtaga för att åtgärda de brister som framkommit
-          i nämnda utredning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2mM4aLhD3pZuuSWZGfKcSU">
+            Ur Aftonbladet den 10 november 2003:
+          </p>
+          <p xml:id="i-As9LVSr3f5WVyoeKimRFpq">
+            "I årets budget riktar regeringen skarp kritik mot hur försvaret
+            sköts. Förändringarna har gått för långsamt, ambitionsnivån är
+            för låg, materielbeställningarna har blivit för vidlyftiga, bristerna
+            i den interna kontrollen är allvarliga".
+          </p>
+          <p xml:id="i-CPvk22YEq7asw8nVnYkuKR">
+            Det dras slutsatsen i Aftonbladet att "försvaret är nu en av
+            våra värsta krisbranscher".
+          </p>
+          <p xml:id="i-L7jTBDyUECroqMqUkUVs1M">
+            Vi har ju också i försvarsutskottet analyserat och låtit utreda
+            vad som hänt med de beslut vi fattat. Vad som förvånar mig är
+            att statsrådet tycks tveka och starkt ifrågasätta den utredningen.
+            Statsrådet sade i riksdagens frågestund den 6 november 2003:
+          </p>
+          <p xml:id="i-U9XeFpwkLDuhvEmNZHL55B">
+            "Jag vill säga att jag är rätt tveksam till en del av de slutsatser
+            som jag hört redovisas".
+          </p>
+          <p xml:id="i-DoVp3vXxMauYBmsAroJoBW">
+            Det här ser jag som allvarligt. Statsrådet säger vidare i den
+            aktuella debatten att hon vill "titta på underlagen" i nämnda
+            utredning.
+          </p>
+          <p xml:id="i-TLiYaatRtReDdLqfWrQmCd">
+            Som ledamot av utskottet ser jag allvarligt på de slutsatser
+            som utredaren Jörgen Thulstrup presenterat. Jag känner Thulstrup
+            som en person som är mycket kunnig inom försvarsområdet, som är
+            mycket noggrann med vad han skriver och en person som inte tar
+            till överord i sina beskrivningar.
+          </p>
+          <p xml:id="i-95ix9zrQ7SJeYEwH8bGdKz">
+            Med anledning av vad som nu framkommit undrar jag vilka åtgärder
+            som statsrådet tänker vidtaga för att åtgärda de brister som framkommit
+            i nämnda utredning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

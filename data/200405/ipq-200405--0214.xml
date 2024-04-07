@@ -3,88 +3,123 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Danvikslösen</title>
+        <author>Andreasson, Martin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Danvikslösen till statsrådet Ulrica Messing om Danvikslösen</title>
+          <idno type="rdwebb">GS10214</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10214/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10214</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10214</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-LDb1GxQGG47N4mNNZ13jSZ</idno>
+            <persName>Martin Andreasson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9t2vWKp3pfBkkZ45aQuHLX" corresp="i-LDb1GxQGG47N4mNNZ13jSZ">
+          <date when="2004-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3x2UNsRgtwGP1kyFGy7PqP">
+          <date when="2004-11-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PMQDCuKungtVSDE1dP8Qjp">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-98gpdQEnyP4VzrLHkK5kAX" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4Pg6Muvd4WwjiMFCZZ45tW" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspContext corresp="i-4Pg6Muvd4WwjiMFCZZ45tW">
+          <ref type="record" target="prot-200405--063">Riksdagens protokoll 2004/05:63 Tisdagen den 25 januari</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:214 om Danvikslösen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0214</head>
-        <author who="i-LDb1GxQGG47N4mNNZ13jSZ">Martin Andreasson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>Danvikslösen</topic>
-        <docDate when="2004-11-26">den 26 november</docDate>
-        <status when="2005-01-25" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10214</external_id>
-        <debate>
-          <turn when="2005-01-25 14:57:04" duration="144">Ulrica Messing (S)</turn>
-          <turn when="2005-01-25 14:59:11" duration="275">Martin Andreasson (Fp)</turn>
-          <turn when="2005-01-25 15:03:35" duration="137">Ulrica Messing (S)</turn>
-          <turn when="2005-01-25 15:05:41" duration="258">Martin Andreasson (Fp)</turn>
-          <turn when="2005-01-25 15:09:47" duration="161">Ulrica Messing (S)</turn>
-          <turn when="2005-01-25 15:12:11" duration="149">Martin Andreasson (Fp)</turn>
-          <turn when="2005-01-25 15:14:29" duration="68">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:214 av Martin Andreasson (fp) till statsrådet
-          Ulrica Messing om Danvikslösen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PVzF9q17wxDxzeeTpKrM8S">
+            Interpellation 2004/05:214 av Martin Andreasson (fp) till statsrådet
+            Ulrica Messing om Danvikslösen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-XDdkgwTG27nTTqi93ehZGV">
+            den 26 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-5RFcnwmreQzZCpJWoBqBpt">
-          I gränsområdet mellan Hammarby Sjöstad i Stockholm och västra
-          Nacka planeras ett större infrastrukturprojekt, Danvikslösen.
-          Dess bärande idé är att dra Värmdöleden i tunnel genom Henriksdalsberget.
-          Projektet medför mycket stor samhällsnytta. Mark frigörs till
-          flera tusentals nya bostäder och arbetsplatser @ direkt eller
-          indirekt beräknas projektet medverka till att skapa utrymme för
-          7 000 nya bostäder. Till detta ska läggas nya arbetsplatser för
-          ca 5 000 personer. Detta stadsbyggnadsprojekt, ett av de största
-          i Norden, innebär att förbättringar för alla trafikslag förenas
-          med rejäla miljövinster.
-        </p>
-        <p xml:id="i-LppcKtHrE8yuNzLDHDd4PA">
-          Det nålsöga för kollektivtrafiken som Danvikstull innebär för
-          hela den snabbt växande Nacka-Värmdösektorn vidgas om Tvärbanan
-          och Saltsjöbanan kan länkas samman in mot Slussen. Den kritiska
-          faktorn är finansieringen. Även om kommunerna och landstinget
-          täcker huvuddelen av kostnaderna @ ca 2 av 3 miljarder kronor
-          @ behövs ett större statligt engagemang, inte minst med tanke
-          på att statliga Vägverket är väghållare för Värmdöleden och Hammarby
-          Fabriksväg inklusive cirka halva nuvarande Lugnets trafikplats.
-        </p>
-        <p xml:id="i-Jkuv3d3sZFMZmPUMKE3oRC">
-          En annan komplikation är att de statliga medlen ligger så sent
-          så att hela genomförandet kan komma att förskjutas åtskilliga
-          år framåt i tiden.
-        </p>
-        <p xml:id="i-YLSBUAmS7CEZJCBB91Deb7">
-          Jag vill därför fråga statsrådet:
-        </p>
-        <p xml:id="i-Lgp6G5LSJPSqZxPQYxyCc7">
-          Är statsrådet beredd att verka för en aktivare statlig medverkan
-          för genomförandet av projektet Danvikslösen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-21JNfxiKDh3Z6RAcRqnaop">
+            I gränsområdet mellan Hammarby Sjöstad i Stockholm och västra
+            Nacka planeras ett större infrastrukturprojekt, Danvikslösen.
+            Dess bärande idé är att dra Värmdöleden i tunnel genom Henriksdalsberget.
+            Projektet medför mycket stor samhällsnytta. Mark frigörs till
+            flera tusentals nya bostäder och arbetsplatser @ direkt eller
+            indirekt beräknas projektet medverka till att skapa utrymme för
+            7 000 nya bostäder. Till detta ska läggas nya arbetsplatser för
+            ca 5 000 personer. Detta stadsbyggnadsprojekt, ett av de största
+            i Norden, innebär att förbättringar för alla trafikslag förenas
+            med rejäla miljövinster.
+          </p>
+          <p xml:id="i-VQ3VDQWMCxbkSAfaBCLn2p">
+            Det nålsöga för kollektivtrafiken som Danvikstull innebär för
+            hela den snabbt växande Nacka-Värmdösektorn vidgas om Tvärbanan
+            och Saltsjöbanan kan länkas samman in mot Slussen. Den kritiska
+            faktorn är finansieringen. Även om kommunerna och landstinget
+            täcker huvuddelen av kostnaderna @ ca 2 av 3 miljarder kronor
+            @ behövs ett större statligt engagemang, inte minst med tanke
+            på att statliga Vägverket är väghållare för Värmdöleden och Hammarby
+            Fabriksväg inklusive cirka halva nuvarande Lugnets trafikplats.
+          </p>
+          <p xml:id="i-8Yz3KxQT8MtGpzNrb6iVA7">
+            En annan komplikation är att de statliga medlen ligger så sent
+            så att hela genomförandet kan komma att förskjutas åtskilliga
+            år framåt i tiden.
+          </p>
+          <p xml:id="i-FYkRhAvJwt2PnsZ5wTuXKq">
+            Jag vill därför fråga statsrådet:
+          </p>
+          <p xml:id="i-UDAoXHX3TKJf3DN1eqjkaA">
+            Är statsrådet beredd att verka för en aktivare statlig medverkan
+            för genomförandet av projektet Danvikslösen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

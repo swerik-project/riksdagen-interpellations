@@ -3,79 +3,123 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>skattebefrielse för vissa stiftelser</title>
+        <author>Runegrund, Rosita (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>skattebefrielse för vissa stiftelser till finansminister Bosse Ringholm om skattebefrielse för vissa stiftelser</title>
+          <idno type="rdwebb">GR10188</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10188/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10188</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10188</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-43NmWWYd8vEgZrkoXWWCXx</idno>
+            <persName>Rosita Runegrund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-RhioQ5kYRX2KwgfjZzTCMK" corresp="i-43NmWWYd8vEgZrkoXWWCXx">
+          <date when="2003-12-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PGY8omhmwceGSWNAtsBtpa">
+          <date when="2003-12-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3Mnmkd36jWtackpzkp1Wgk">
+          <date when="2004-01-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-FNRgiTxr1mHqJwunDzyXR1" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-12-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2GY7PaodMWwQBa8KpimL5Y" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-01-27"/>
+        </correspAction>
+        <correspContext corresp="i-2GY7PaodMWwQBa8KpimL5Y">
+          <ref type="record" target="prot-200304--058">Riksdagens protokoll 2003/04:58 Tisdagen den 27 januari</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellationerna 2003/04:187, 188 och 202 om skattebefrielse för allmännyttiga fonder och stiftelser</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0188</head>
-        <author who="i-43NmWWYd8vEgZrkoXWWCXx">Rosita Runegrund</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>skattebefrielse för vissa stiftelser</topic>
-        <docDate when="2003-12-09">den 9 december</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10188</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:188 av Rosita Runegrund (kd) till finansminister
-          Bosse Ringholm om skattebefrielse för vissa stiftelser
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-TJvkmmoNHMQ3ZLrKTnXgB3">
+            Interpellation 2003/04:188 av Rosita Runegrund (kd) till finansminister
+            Bosse Ringholm om skattebefrielse för vissa stiftelser
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Ggrc12UjzGQV4r9Mzsvz2e">
+            den 9 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FNJfDaJo3uigpWHtA6RAcW">
-          Efter en dom om Stockholms Sjömanshem i Regeringsrätten (RÅ 2001
-          ref. 17) har skattemyndigheterna i Sverige börjat ifrågasätta
-          de ändamål som stiftelser delar ut bidrag till. Tidigare har skattemyndigheterna
-          inriktat sig på att kontrollera till vilken grad stiftelserna
-          delar ut bidrag. Enligt lagen finns det sex olika områden som
-          är så kvalificerade att skattefrihet medges. Dessa är: vård och
-          uppfostran av barn, undervisning och utbildning, vetenskaplig
-          forskning, hjälpverksamhet bland behövande, nordiskt samarbete
-          samt stärkande av Sveriges försvar.
-        </p>
-        <p xml:id="i-5fZS22iQ2C27kE5UXL9w93">
-          Med anledning av att skattemyndigheterna börjat kontrollera ändamål
-          i stället för grad av givande har en rad underliga effekter uppstått.
-          Organisationer som främjar vård och uppfostran av funktionshandikappade
-          och sjuka barn har underkänts som kvalificerade, medan organisationer
-          som främjar vård av friska barn fortfarande är kvalificerade till
-          skattefrihet. Andra organisationer som drabbats av den nya och
-          hårdare bedömningen är de organisationer som främjar människor
-          med sjukdomar, äldre och organisationer mot kvinnomisshandel.
-        </p>
-        <p xml:id="i-Lb91YNjh32M9zKV38oxE1u">
-          Mina frågor till finansministern är därför:
-        </p>
-        <p xml:id="i-2K56UofknQHz8ba5oPVrkQ">
-          Vad avser finansministern att göra för att även ändamål som rör
-          funktionshindrade och sjuka barn, misshandlade kvinnor, gamla
-          och sjuka ska betecknas som kvalificerade och därför få bidrag
-          från begränsat skattskyldiga stiftelser?
-        </p>
-        <p xml:id="i-SyV9pv2d5EBjAeKJLwBzAk">
-          Avser ministern att se över lagstiftningen för vilka ändamål
-          som ska avses som kvalificerade?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-WCb6bUEpeN5S4BbkRoLc6A">
+            Efter en dom om Stockholms Sjömanshem i Regeringsrätten (RÅ 2001
+            ref. 17) har skattemyndigheterna i Sverige börjat ifrågasätta
+            de ändamål som stiftelser delar ut bidrag till. Tidigare har skattemyndigheterna
+            inriktat sig på att kontrollera till vilken grad stiftelserna
+            delar ut bidrag. Enligt lagen finns det sex olika områden som
+            är så kvalificerade att skattefrihet medges. Dessa är: vård och
+            uppfostran av barn, undervisning och utbildning, vetenskaplig
+            forskning, hjälpverksamhet bland behövande, nordiskt samarbete
+            samt stärkande av Sveriges försvar.
+          </p>
+          <p xml:id="i-W2MBSpxRa3H2fkreUWQysk">
+            Med anledning av att skattemyndigheterna börjat kontrollera ändamål
+            i stället för grad av givande har en rad underliga effekter uppstått.
+            Organisationer som främjar vård och uppfostran av funktionshandikappade
+            och sjuka barn har underkänts som kvalificerade, medan organisationer
+            som främjar vård av friska barn fortfarande är kvalificerade till
+            skattefrihet. Andra organisationer som drabbats av den nya och
+            hårdare bedömningen är de organisationer som främjar människor
+            med sjukdomar, äldre och organisationer mot kvinnomisshandel.
+          </p>
+          <p xml:id="i-SdVaC8V7YvxxgbJMJWiTgY">
+            Mina frågor till finansministern är därför:
+          </p>
+          <p xml:id="i-CNjT9bCWKGYBHBqc2L5zuk">
+            Vad avser finansministern att göra för att även ändamål som rör
+            funktionshindrade och sjuka barn, misshandlade kvinnor, gamla
+            och sjuka ska betecknas som kvalificerade och därför få bidrag
+            från begränsat skattskyldiga stiftelser?
+          </p>
+          <p xml:id="i-6n2vJNqnyNcrBojPhQ9tQ7">
+            Avser ministern att se över lagstiftningen för vilka ändamål
+            som ska avses som kvalificerade?
+          </p>
+        </div>
       </div>
     </body>
   </text>

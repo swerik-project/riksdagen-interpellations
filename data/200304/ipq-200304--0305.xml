@@ -3,99 +3,147 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>utbyggnad av 3 G</title>
+        <author>Torstensson, Åsa (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>utbyggnad av 3 G till statsrådet Ulrica Messing om utbyggnad av 3 G</title>
+          <idno type="rdwebb">GR10305</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10305/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10305</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10305</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-K2oqCC94QhEHX8HbMKkAGs" corresp="i-J74sVAjCTSxzD8rbnxRRA">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RZfAng3ZuwZvUbcyeh3GVN">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9WgqZdVaJ41iDZxJdAmv7B">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DbWqB113X9s6DxrT9K7Nc4" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6Z8iaiwqiii2PwZ75d2Se4" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspContext corresp="i-6Z8iaiwqiii2PwZ75d2Se4">
+          <ref type="record" target="prot-200304--075">Riksdagens protokoll 2003/04:75 Tisdagen den 2 mars</ref>
+          <ref type="recordSection" target="unsetDivId">2 § Svar på interpellation 2003/04:305 om utbyggnad av 3 G</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0305</head>
-        <author who="i-J74sVAjCTSxzD8rbnxRRA">Åsa Torstensson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>utbyggnad av 3 G</topic>
-        <docDate when="2004-02-17">den 17 februari</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10305</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:305 av Åsa Torstensson (c) till statsrådet
-          Ulrica Messing om utbyggnad av 3 G
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-E2zvKFkQVV7oDBF5Cz5RrP">
+            Interpellation 2003/04:305 av Åsa Torstensson (c) till statsrådet
+            Ulrica Messing om utbyggnad av 3 G
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-QVoZ6MMFaLP5HdYQQ69DFT">
+            den 17 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-27AaxZ4z1Xqyy28SAjn1eL">
-          Enligt uppgifter (Dagens Nyheter den 16 februari 2004) visar
-          statistik från PTS att två tredjedelar av alla 3 G-master som
-          beviljats bygglov fortfarande inte har byggts. Branschens ständiga
-          hänvisningar till problem med bygglov, samt starka lokala opinioner
-          mot mastutbyggnaden, visar sig vara en ogiltig anledning till
-          att hela landet inte kan ta del av den nya tekniken.
-        </p>
-        <p xml:id="i-D3QhE6iQz4ea2h54y2PMY9">
-          Den försenade nätutbyggnaden drabbar framför allt de delar av
-          landet som redan i dag är eftersatta vad gäller övrig infrastruktur,
-          till exempel vägar och bredband. Den regionala klyvningen vad
-          gäller förutsättningar för tillväxt riskerar därmed att förstärkas.
-        </p>
-        <p xml:id="i-DjCGzufjHwT88N8fQLF7MG">
-          Centerpartiet är starkt kritiskt till att vissa delar av landet
-          får bidrag i stället för att få en chans att bidra till den nationella
-          tillväxten. Regional utveckling kräver likvärdiga förutsättningar,
-          inte permanenta allmosor. Vi tror därför att det är långsiktigt
-          ekonomiskt riktigt att fullfölja nätutbyggnaden, både för näringsliv
-          och för statskassan.
-        </p>
-        <p xml:id="i-5q9Agxzvx5DYj2DzEJNubp">
-          För att företag ska kunna etableras och verka i hela landet kommer
-          det att krävas tillgång till ny infrastruktur och teknik som 3
-          G. UMTS, eller 3 G som det kallas dagligdags, innebär väsentligt
-          ökad bandbredd för mobil överföring av data. PTS karakteriserar
-          därför 3 G som 'mobilt bredband' via vilket man förutom ljud och
-          text även kan skicka och ta emot grafik och rörliga bilder samt
-          använda andra avancerade tjänster, exempelvis sådana som är baserade
-          på användarens position.
-        </p>
-        <p xml:id="i-DA4jqdnwcUWvPZ5ySkczJx">
-          3 G var inledningsvis en kritiserad teknik, dess användningsområde
-          och nytta ifrågasattes. Nu väntas emellertid de professionella
-          användarna få en omedelbar nytta av 3 G. Ericsson lanserar sin
-          3 G-telefon om en månad, Siemens och Samsung är också på gång
-          medan Motorola och Nokia redan har telefoner ute på marknaden.
-          Operatörernas påtalade brist på telefoner är därför inte heller
-          trovärdig som anledning till försenad nätutbyggnad.
-        </p>
-        <p xml:id="i-9C6pnesuBh1UaQDVYy684o">
-          Därför vill jag fråga statsrådet Messing:
-        </p>
-        <p xml:id="i-RHhizCrYkJnCVtLk5N5qwN">
-          1. Vad avser statsrådet att göra för att tillse likvärdiga konkurrensvillkor
-          för företag i hela landet vad gäller tillgång till modern informations-
-          och kommunikationsteknik?
-        </p>
-        <p xml:id="i-7EajhJFFbpFgwaoXA8orR2">
-          2. Vad avser statsrådet att göra för att tillse att operatörerna
-          lever upp till ingångna avtal vad gäller täckning för 99,98 %
-          av befolkningen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-DUZsXY3H2cHg2PVfZxD34s">
+            Enligt uppgifter (Dagens Nyheter den 16 februari 2004) visar
+            statistik från PTS att två tredjedelar av alla 3 G-master som
+            beviljats bygglov fortfarande inte har byggts. Branschens ständiga
+            hänvisningar till problem med bygglov, samt starka lokala opinioner
+            mot mastutbyggnaden, visar sig vara en ogiltig anledning till
+            att hela landet inte kan ta del av den nya tekniken.
+          </p>
+          <p xml:id="i-AzTFuHmUXYVGVyutU2cgBU">
+            Den försenade nätutbyggnaden drabbar framför allt de delar av
+            landet som redan i dag är eftersatta vad gäller övrig infrastruktur,
+            till exempel vägar och bredband. Den regionala klyvningen vad
+            gäller förutsättningar för tillväxt riskerar därmed att förstärkas.
+          </p>
+          <p xml:id="i-UuKhxoru46j77YAzfQzDfy">
+            Centerpartiet är starkt kritiskt till att vissa delar av landet
+            får bidrag i stället för att få en chans att bidra till den nationella
+            tillväxten. Regional utveckling kräver likvärdiga förutsättningar,
+            inte permanenta allmosor. Vi tror därför att det är långsiktigt
+            ekonomiskt riktigt att fullfölja nätutbyggnaden, både för näringsliv
+            och för statskassan.
+          </p>
+          <p xml:id="i-WfUUZg5thanMbmcj8T28sd">
+            För att företag ska kunna etableras och verka i hela landet kommer
+            det att krävas tillgång till ny infrastruktur och teknik som 3
+            G. UMTS, eller 3 G som det kallas dagligdags, innebär väsentligt
+            ökad bandbredd för mobil överföring av data. PTS karakteriserar
+            därför 3 G som 'mobilt bredband' via vilket man förutom ljud och
+            text även kan skicka och ta emot grafik och rörliga bilder samt
+            använda andra avancerade tjänster, exempelvis sådana som är baserade
+            på användarens position.
+          </p>
+          <p xml:id="i-GdnQhjvzvjxSLB6GzbNiV7">
+            3 G var inledningsvis en kritiserad teknik, dess användningsområde
+            och nytta ifrågasattes. Nu väntas emellertid de professionella
+            användarna få en omedelbar nytta av 3 G. Ericsson lanserar sin
+            3 G-telefon om en månad, Siemens och Samsung är också på gång
+            medan Motorola och Nokia redan har telefoner ute på marknaden.
+            Operatörernas påtalade brist på telefoner är därför inte heller
+            trovärdig som anledning till försenad nätutbyggnad.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-JppSn9V86mesTb6tNihpQj">
+            Därför vill jag fråga statsrådet Messing:
+            <list rend="unordered">
+              <item>
+                1. Vad avser statsrådet att göra för att tillse likvärdiga konkurrensvillkor
+                för företag i hela landet vad gäller tillgång till modern informations-
+                och kommunikationsteknik?
+              </item>
+              <item>
+                2. Vad avser statsrådet att göra för att tillse att operatörerna
+                lever upp till ingångna avtal vad gäller täckning för 99,98 %
+                av befolkningen?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

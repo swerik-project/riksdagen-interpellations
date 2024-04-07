@@ -3,156 +3,189 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>betygsfrågan </title>
+        <author>Billström, Tobias (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>betygsfrågan  till Statsrådet Ibrahim Baylan om betygsfrågan </title>
+          <idno type="rdwebb">GS10256</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10256/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10256</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10256</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-C3yv5XcjQkFQBuZfQyLmQp" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6bQ54255VjKdy4fLrbn4aX">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4gZ3LEVmN7jo1RHw9DF9LW">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XsXQtCdAADMteiMCSet4dv" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4hCXtfR4MxzqgpZzCxvTrA" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspContext corresp="i-4hCXtfR4MxzqgpZzCxvTrA">
+          <ref type="record" target="prot-200405--063">Riksdagens protokoll 2004/05:63 Tisdagen den 25 januari</ref>
+          <ref type="recordSection" target="unsetDivId">20 § Svar på interpellation 2004/05:256 om betygsfrågan</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0256</head>
-        <author who="i-KPGvtK4s6Zp3E6XH6vj18n">Tobias Billström</author>
-        <recipient who="i-A6T9WoUzRwW8LUK52znHwX">Ibrahim Baylan</recipient>
-        <topic>betygsfrågan </topic>
-        <docDate when="2004-12-13">den 13 december</docDate>
-        <status when="2005-01-25" byWhom="Ibrahim Baylan" byWhomId="i-A6T9WoUzRwW8LUK52znHwX" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10256</external_id>
-        <debate>
-          <turn when="2005-01-25 21:24:15" duration="353">Ibrahim Baylan (S)</turn>
-          <turn when="2005-01-25 21:29:53" duration="200">Tobias Billström (M)</turn>
-          <turn when="2005-01-25 21:33:01" duration="226">Axel Darvik (Fp)</turn>
-          <turn when="2005-01-25 21:36:27" duration="239">Ibrahim Baylan (S)</turn>
-          <turn when="2005-01-25 21:40:14" duration="241">Tobias Billström (M)</turn>
-          <turn when="2005-01-25 21:44:02" duration="150">Axel Darvik (Fp)</turn>
-          <turn when="2005-01-25 21:46:15" duration="163">Ibrahim Baylan (S)</turn>
-          <turn when="2005-01-25 21:48:40" duration="135">Tobias Billström (M)</turn>
-          <turn when="2005-01-25 21:50:42" duration="130">Ibrahim Baylan (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:256 av Tobias Billström (m) till statsrådet
-          Ibrahim Baylan om betygsfrågan
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EQQ2SbJVsqtY5rsfKFF9r2">
+            Interpellation 2004/05:256 av Tobias Billström (m) till statsrådet
+            Ibrahim Baylan om betygsfrågan
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-CHg7A4v256xUkEm3pQjR8Z">
+            den 13 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-7a5skEozfZKSaYjfVJRDA3">
-          Betygsfrågan är lika aktuell som alltid.
-        </p>
-        <p xml:id="i-X6iUnqr8rp2EP1jGRG4N8b">
-          Enligt statsrådet i en intervju i DN den 10 december 2004: "Tidigt
-          på vårterminen i både nian och gymnasiets sista år kommer eleverna
-          att få reda på sitt preliminära slutbetyg. Är de missnöjda ska
-          de få rätt att få det omprövat under våren."
-        </p>
-        <p xml:id="i-AwZ9yMB4VpKP9QoeNDPELG">
-          Det anges tre syften med detta. Det handlar för det första om
-          att stärka rättssäkerheten.
-        </p>
-        <p xml:id="i-LsGcxpWiD3Yr8qKLTLFQ3">
-          Hur avser statsrådet att detta kommer att stärka rättssäkerheten?
-          Eleven kommer att tvingas överklaga ett icke fattat beslut. Är
-          det meningen att det ska leda till en överprövning av lärarens
-          förhandsbesked eller en omprövning av elevens kunskaper?
-        </p>
-        <p xml:id="i-XR6N32X1NRHe3dBv7CYRUF">
-          Som förslaget nu beskrivs förefaller det som om processen sker
-          organiskt och det inte finns tydliga avgränsningar. Enligt intervjun
-          skulle den kunna pågå under elevens hela sista termin. Det ger
-          en dålig förutsägbarhet och därmed en dålig rättssäkerhet.
-        </p>
-        <p xml:id="i-PDBQPfQMA9bL2rE3HbnXiW">
-          Det handlar för det andra om att "öka dialogen vid betygssättningen".
-        </p>
-        <p xml:id="i-DKjX5etZH4VD8m65CsqECa">
-          Om syftet är att öka dialogen vore fler betyg oftare väl en bättre
-          lösning. På så vis skulle eleven redan tidigt i skolåren veta
-          vilken nivå han eller hon befinner sig i och vad som krävs för
-          att höja eller behålla nivån. Att stärka dialogen när en termin
-          kvarstår verkar sent påkommet.
-        </p>
-        <p xml:id="i-ELq94qne6T5NJENmzaqecb">
-          Det handlar för det tredje om att "man har något slags samverkan
-          när man sätter betygen" säger statsrådet i samma intervju.
-        </p>
-        <p xml:id="i-8fFN5pA83txBfHfHKpqwSH">
-          Vem är "man"? Ska läraren som undervisat eleven eller en behörig
-          lärare som ska sätta betyget? Ska eleven samverka med läraren
-          om det egna betyget, eller avses att läraren bör samverka med
-          andra lärare?
-        </p>
-        <p xml:id="i-DA6BNRN3BBdLELiZ5UkTpc">
-          Det finns en inbyggd konflikt inom förslaget. Om det nu är så
-          att samverkan och dialogen kring betygen ska öka genom den här
-          förändringen så måste eleven ha möjlighet att påverka slutbetyget.
-          Men statsrådet säger i samma artikel:"Jag är definitivt säker
-          på att det inte är själva sista terminen eller sista veckan som
-          avgör vilket betyg man får eller inte." I så fall kan eleven inte
-          förändra betyget genom förändrad prestation utan bara genom att
-          peka på tidigare inträffade händelser?
-        </p>
-        <p xml:id="i-HKifBW9U26npiiZAEmgud8">
-          Kommer möjlighet att ges till att tentera av betygen under terminstid?
-        </p>
-        <p xml:id="i-XrNQR1Bihezk1JNi153aoU">
-          Förslaget ger kvasiinflytande och kvasirättssäkerhet. Det omfattar
-          inte de slutliga betygen och förslaget utgår ifrån att sista terminen
-          på gymnasiet helt saknar betydelse. Detta torde vara en verklighetsbeskrivning
-          som det är mycket tveksamt om gymnasielärarna eller eleverna håller
-          med om.
-        </p>
-        <p xml:id="i-SbVGpnLgoys9rmR3cHzBsw">
-          Till detta kommer att det nya betygssystemet för det nya gymnasiet
-          inte ens är färdigkonstruerat. Även i ett ämnesbetygssystem förefaller
-          det orimligt att ge förhandsbesked om slutbetyg när en sjättedel
-          av utbildningen kvarstår.
-        </p>
-        <p xml:id="i-AySPQArFiZWUkoybMbxdfz">
-          Det samlade greppet saknas fullkomligt. Denna fråga bör inte
-          ryckas ur sitt sammanhang och behandlas för sig. Skolans förutsättningar
-          har alltför länge, i alltför hög grad, behandlats styckevis och
-          delt.
-        </p>
-        <p xml:id="i-54Pv7UDxc9kUmADNk4y91K">
-          Såväl lärare som elever behöver klara förutsättningar i ett regelsystem
-          som är överblickbart och sammanhängande.
-        </p>
-        <p xml:id="i-ExVU1csAp9i8DqixeSouY7">
-          Mot denna bakgrund vill jag ställa följande frågor till statsrådet:
-        </p>
-        <p xml:id="i-RtB9wAHG3bJMS8bsm5GMWq">
-          Vilka åtgärder avser statsrådet att vidta för att säkerställa
-          att elever får möjlighet att få satta betyg överprövade?
-        </p>
-        <p xml:id="i-RPApWP7A2NPoUdw51P3oer">
-          Vilka åtgärder avser statsrådet att vidta för att säkerställa
-          att elever får möjlighet att få kunskaper omprövade?
-        </p>
-        <p xml:id="i-6w4YV8TMfuEhTvCQdXMmvt">
-          Vilka åtgärder avser statsrådet att vidta för att säkerställa
-          att elever får möjlighet till en rättssäker och förutsägbar omprövning?
-        </p>
-        <p xml:id="i-H2W3AGWtMFG1NWiegDDJew">
-          Vilka åtgärder avser statsrådet att vidta för att säkerställa
-          att elever får möjlighet till en rättssäker och förutsägbar överprövning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Xs4ZdZtHts4Wbzc3u3dWFh">
+            Betygsfrågan är lika aktuell som alltid.
+          </p>
+          <p xml:id="i-M22z9KM2BF2HB8DPaq8G8q">
+            Enligt statsrådet i en intervju i DN den 10 december 2004: "Tidigt
+            på vårterminen i både nian och gymnasiets sista år kommer eleverna
+            att få reda på sitt preliminära slutbetyg. Är de missnöjda ska
+            de få rätt att få det omprövat under våren."
+          </p>
+          <p xml:id="i-UbAJdMNQfGtwuq6ibGaD2x">
+            Det anges tre syften med detta. Det handlar för det första om
+            att stärka rättssäkerheten.
+          </p>
+          <p xml:id="i-F5PjJRh3cRw6Q5jZPYPFFP">
+            Hur avser statsrådet att detta kommer att stärka rättssäkerheten?
+            Eleven kommer att tvingas överklaga ett icke fattat beslut. Är
+            det meningen att det ska leda till en överprövning av lärarens
+            förhandsbesked eller en omprövning av elevens kunskaper?
+          </p>
+          <p xml:id="i-7EAQBeF6akrLeLqavxWFX3">
+            Som förslaget nu beskrivs förefaller det som om processen sker
+            organiskt och det inte finns tydliga avgränsningar. Enligt intervjun
+            skulle den kunna pågå under elevens hela sista termin. Det ger
+            en dålig förutsägbarhet och därmed en dålig rättssäkerhet.
+          </p>
+          <p xml:id="i-5Kz6kpuvRMXnY6UpumRX2x">
+            Det handlar för det andra om att "öka dialogen vid betygssättningen".
+          </p>
+          <p xml:id="i-RaBPtw3G2r8Y9sc67tc8Ri">
+            Om syftet är att öka dialogen vore fler betyg oftare väl en bättre
+            lösning. På så vis skulle eleven redan tidigt i skolåren veta
+            vilken nivå han eller hon befinner sig i och vad som krävs för
+            att höja eller behålla nivån. Att stärka dialogen när en termin
+            kvarstår verkar sent påkommet.
+          </p>
+          <p xml:id="i-PeYYDtASLcUTV8auuVKeu4">
+            Det handlar för det tredje om att "man har något slags samverkan
+            när man sätter betygen" säger statsrådet i samma intervju.
+          </p>
+          <p xml:id="i-6UJFx92h38mqegh4ZsYTEu">
+            Vem är "man"? Ska läraren som undervisat eleven eller en behörig
+            lärare som ska sätta betyget? Ska eleven samverka med läraren
+            om det egna betyget, eller avses att läraren bör samverka med
+            andra lärare?
+          </p>
+          <p xml:id="i-BwUWT9LPr7gupNJgkY9y5Q">
+            Det finns en inbyggd konflikt inom förslaget. Om det nu är så
+            att samverkan och dialogen kring betygen ska öka genom den här
+            förändringen så måste eleven ha möjlighet att påverka slutbetyget.
+            Men statsrådet säger i samma artikel:"Jag är definitivt säker
+            på att det inte är själva sista terminen eller sista veckan som
+            avgör vilket betyg man får eller inte." I så fall kan eleven inte
+            förändra betyget genom förändrad prestation utan bara genom att
+            peka på tidigare inträffade händelser?
+          </p>
+          <p xml:id="i-UrJbSho2F47z862q2Aj6ZR">
+            Kommer möjlighet att ges till att tentera av betygen under terminstid?
+          </p>
+          <p xml:id="i-V6oPZfn52iaVxnsmVYteyh">
+            Förslaget ger kvasiinflytande och kvasirättssäkerhet. Det omfattar
+            inte de slutliga betygen och förslaget utgår ifrån att sista terminen
+            på gymnasiet helt saknar betydelse. Detta torde vara en verklighetsbeskrivning
+            som det är mycket tveksamt om gymnasielärarna eller eleverna håller
+            med om.
+          </p>
+          <p xml:id="i-3bFFoMx1vo7YgeEfvhwD4q">
+            Till detta kommer att det nya betygssystemet för det nya gymnasiet
+            inte ens är färdigkonstruerat. Även i ett ämnesbetygssystem förefaller
+            det orimligt att ge förhandsbesked om slutbetyg när en sjättedel
+            av utbildningen kvarstår.
+          </p>
+          <p xml:id="i-2JMpTw1aFdHGP2H9jLjogn">
+            Det samlade greppet saknas fullkomligt. Denna fråga bör inte
+            ryckas ur sitt sammanhang och behandlas för sig. Skolans förutsättningar
+            har alltför länge, i alltför hög grad, behandlats styckevis och
+            delt.
+          </p>
+          <p xml:id="i-QZz7KvywnguYeNamy7LJjg">
+            Såväl lärare som elever behöver klara förutsättningar i ett regelsystem
+            som är överblickbart och sammanhängande.
+          </p>
+          <p xml:id="i-J5H5C7NaTLwM87VrdkQQMX">
+            Mot denna bakgrund vill jag ställa följande frågor till statsrådet:
+          </p>
+          <p xml:id="i-5Roiv5MSatJsFgAuiB2cd5">
+            Vilka åtgärder avser statsrådet att vidta för att säkerställa
+            att elever får möjlighet att få satta betyg överprövade?
+          </p>
+          <p xml:id="i-PiAha955NrZ7ibCVsxQksd">
+            Vilka åtgärder avser statsrådet att vidta för att säkerställa
+            att elever får möjlighet att få kunskaper omprövade?
+          </p>
+          <p xml:id="i-562YuQSbv3zaTYNsCuyfKT">
+            Vilka åtgärder avser statsrådet att vidta för att säkerställa
+            att elever får möjlighet till en rättssäker och förutsägbar omprövning?
+          </p>
+          <p xml:id="i-SASAdy3Vy5RTct9LQc88sf">
+            Vilka åtgärder avser statsrådet att vidta för att säkerställa
+            att elever får möjlighet till en rättssäker och förutsägbar överprövning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

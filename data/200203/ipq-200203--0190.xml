@@ -3,125 +3,156 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>utländska läkarlegitimationer</title>
+        <author>Wikström, Cecilia (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>utländska läkarlegitimationer till socialminister Lars Engqvist om utländska läkarlegitimationer</title>
+          <idno type="rdwebb">GQ10190</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10190/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10190</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10190</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-XN7bgwBGaQixfiHi5Cbu8f</idno>
+            <persName>Cecilia Wikström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TmmJ4BbGYn7i51JDdopFAp" corresp="i-XN7bgwBGaQixfiHi5Cbu8f">
+          <date when="2003-02-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KCw945KmS5Hv7AgrZZVfwa">
+          <date when="2003-02-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LqrCT9s7muzshgs3xkoe6d">
+          <date when="2003-03-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-FKdMwvteUnE8WxE7SGWJyt" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-02-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XN32pk6fESb59WLrTU3H4c" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-03-07"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0190</head>
-        <author who="i-XN7bgwBGaQixfiHi5Cbu8f">Cecilia Wikström</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>utländska läkarlegitimationer</topic>
-        <docDate when="2003-02-14">den 14 februari</docDate>
-        <status when="2003-03-07" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10190</external_id>
-        <debate>
-          <turn when="2003-03-07 10:27:46" duration="213">Lars Engqvist (S)</turn>
-          <turn when="2003-03-07 10:31:14" duration="255">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-03-07 10:35:26" duration="114">Lars Engqvist (S)</turn>
-          <turn when="2003-03-07 10:37:17" duration="209">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-03-07 10:40:43" duration="106">Lars Engqvist (S)</turn>
-          <turn when="2003-03-07 10:42:26" duration="78">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-03-07 10:43:40" duration="97">Lars Engqvist (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:190 av Cecilia Wikström (fp) till socialminister
-          Lars Engqvist om utländska läkarlegitimationer
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-W7Xi9WQYPTnozMu28XKkp3">
+            Interpellation 2002/03:190 av Cecilia Wikström (fp) till socialminister
+            Lars Engqvist om utländska läkarlegitimationer
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6A2tYEjRUmvY8gjKNz4hke">
+            den 14 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UEJkyzYJHmFzodacJTxsNA">
-          Socialstyrelsen försenar utländska läkares möjlighet att få svensk
-          legitimation. Det kunde vi senast läsa om i Dagens Industri den
-          3 februari.
-        </p>
-        <p xml:id="i-EkNdEnDBtw2DAysVh4CLzU">
-          Enligt Läkarförbundet fattas det ett stort antal läkare i Sverige
-          och det kommer att bli ännu värre i framtiden. Vi behöver ungefär
-          1 500 läkare ytterligare för att kunna erbjuda invånarna tillräcklig
-          vård. För att möta detta stora behov görs ansträngningar i flera
-          landsting att rekrytera läkare utomlands.
-        </p>
-        <p xml:id="i-DkHrii1sh7mwjiVrJsuBPA">
-          Om man som läkare från de nordiska länderna, EU och Schweiz söker
-          sig till Sverige är det ganska lätt att få arbeta här, men är
-          man läkare med legitimation från något annat land är det svårare.
-          Efter några års tjänstgöring inom sjukvården och ett prov i sjukvårdssvenska
-          ska läkarna, för att få sin legitimation, genomgå en kurs i samhälls-
-          och författningskunskap. Innan detta är klart kan de i praktiken
-          inte tjänstgöra som läkare @ även om de talar perfekt svenska
-          och är väl förtrogna med samhället och dess funktioner. Man kan
-          visserligen tillåtas att arbeta under handledning av en svensk
-          kollega, men det upplevs ofta negativt av båda parter eftersom
-          ingendera upplever detta befogat. Det enda som skiljer dem åt
-          är ju faktiskt att en av dem är svensk läkare och den andra utländsk.
-          Den medicinska kompetens de besitter är ju likvärdig.
-        </p>
-        <p xml:id="i-jbzzhQYm59gvNfaaSNknX">
-          Socialstyrelsen ger obligatoriska kurser om två veckor vid ett
-          par tillfällen om året för de utländska läkare som har för avsikt
-          att söka svensk läkarlegitimation. I vårens kurs utbildar man
-          80 läkare @ medan 46 kvalificerade läkare inte bereds plats! Dessa
-          46 läkare hänvisas nu kanske till att vänta ytterligare ett halvt
-          år tills nästa kurstillfälle erbjuds. Under tiden förväntas de
-          arbeta vidare "under handledning" av en svensk läkare. Men sanningen
-          är att många tröttnar på att vänta och i stället flyttar till
-          ett annat land där man mottas på ett bättre sätt än i Sverige.
-        </p>
-        <p xml:id="i-5qxiFaSLGMzGFuEd3MoNsZ">
-          Det är Socialstyrelsen som har beslutat att kursen ska vara ett
-          krav för legitimation, en kurs som läkare från EU-länder märkligt
-          nog inte behöver genomgå.
-        </p>
-        <p xml:id="i-UkQiGRoxeH7Jgh5w6QmkC9">
-          Det är inte rimligt att dessa krav inte ska ställas för en grekisktalande,
-          spansktalande eller fransktalande läkare men däremot för en kurdisktalande,
-          arabisktalande eller spansktalande filippinsk läkare
-        </p>
-        <p xml:id="i-iwCgFkT8xF8urVXXqdkoQ">
-          Kostnaderna för Socialstyrelsens kurser finansieras med myndighetens
-          ramanslag, men nu uppger Socialstyrelsen att man inte vet om man
-          ska ge ytterligare kurser under vårterminen, eftersom man inte
-          tycker sig fått tillräckliga resurser för detta.
-        </p>
-        <p xml:id="i-9RnGyexsg7MatNi6LDfWyF">
-          Samhällets kostnader för läkarbristen är enorma i förhållande
-          till kostnaderna för extra utbildningsplatser vid Socialstyrelsens
-          avslutande kurs.
-        </p>
-        <p xml:id="i-RwFP57U63LKnBccG1FQg6b">
-          Jag vill fråga socialministern:
-        </p>
-        <p xml:id="i-FBCedhsmDzQg8EEme5nBHV">
-          Vilka åtgärder har ministern för avsikt att vidta för att stävja
-          läkarbristen?
-        </p>
-        <p xml:id="i-L9xQoWD41HpusFPQZECnCg">
-          Avser ministern att vidta några åtgärder för att utländska läkare
-          ska slippa den avslutande kursen om den enskilde utländske läkaren
-          inte behöver denna kurs?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3U687uMxqsW9vhyWAVzkRA">
+            Socialstyrelsen försenar utländska läkares möjlighet att få svensk
+            legitimation. Det kunde vi senast läsa om i Dagens Industri den
+            3 februari.
+          </p>
+          <p xml:id="i-RnFFuZhVjevjff3jwUbHvM">
+            Enligt Läkarförbundet fattas det ett stort antal läkare i Sverige
+            och det kommer att bli ännu värre i framtiden. Vi behöver ungefär
+            1 500 läkare ytterligare för att kunna erbjuda invånarna tillräcklig
+            vård. För att möta detta stora behov görs ansträngningar i flera
+            landsting att rekrytera läkare utomlands.
+          </p>
+          <p xml:id="i-UCoFc6aqYC12oveV76au9B">
+            Om man som läkare från de nordiska länderna, EU och Schweiz söker
+            sig till Sverige är det ganska lätt att få arbeta här, men är
+            man läkare med legitimation från något annat land är det svårare.
+            Efter några års tjänstgöring inom sjukvården och ett prov i sjukvårdssvenska
+            ska läkarna, för att få sin legitimation, genomgå en kurs i samhälls-
+            och författningskunskap. Innan detta är klart kan de i praktiken
+            inte tjänstgöra som läkare @ även om de talar perfekt svenska
+            och är väl förtrogna med samhället och dess funktioner. Man kan
+            visserligen tillåtas att arbeta under handledning av en svensk
+            kollega, men det upplevs ofta negativt av båda parter eftersom
+            ingendera upplever detta befogat. Det enda som skiljer dem åt
+            är ju faktiskt att en av dem är svensk läkare och den andra utländsk.
+            Den medicinska kompetens de besitter är ju likvärdig.
+          </p>
+          <p xml:id="i-8r2QtZYFFc76tbuaFGnZph">
+            Socialstyrelsen ger obligatoriska kurser om två veckor vid ett
+            par tillfällen om året för de utländska läkare som har för avsikt
+            att söka svensk läkarlegitimation. I vårens kurs utbildar man
+            80 läkare @ medan 46 kvalificerade läkare inte bereds plats! Dessa
+            46 läkare hänvisas nu kanske till att vänta ytterligare ett halvt
+            år tills nästa kurstillfälle erbjuds. Under tiden förväntas de
+            arbeta vidare "under handledning" av en svensk läkare. Men sanningen
+            är att många tröttnar på att vänta och i stället flyttar till
+            ett annat land där man mottas på ett bättre sätt än i Sverige.
+          </p>
+          <p xml:id="i-TnzJgszJkd5feQAidVMk8j">
+            Det är Socialstyrelsen som har beslutat att kursen ska vara ett
+            krav för legitimation, en kurs som läkare från EU-länder märkligt
+            nog inte behöver genomgå.
+          </p>
+          <p xml:id="i-EvaqV36Z5p6q5qc17GtETX">
+            Det är inte rimligt att dessa krav inte ska ställas för en grekisktalande,
+            spansktalande eller fransktalande läkare men däremot för en kurdisktalande,
+            arabisktalande eller spansktalande filippinsk läkare
+          </p>
+          <p xml:id="i-YYEcJVk2PsdQvfbRjUXVSj">
+            Kostnaderna för Socialstyrelsens kurser finansieras med myndighetens
+            ramanslag, men nu uppger Socialstyrelsen att man inte vet om man
+            ska ge ytterligare kurser under vårterminen, eftersom man inte
+            tycker sig fått tillräckliga resurser för detta.
+          </p>
+          <p xml:id="i-WeEY91y7D9eiMH1d8kstNN">
+            Samhällets kostnader för läkarbristen är enorma i förhållande
+            till kostnaderna för extra utbildningsplatser vid Socialstyrelsens
+            avslutande kurs.
+          </p>
+          <p xml:id="i-EtWJrbEAppmNMG7DyS3qNY">
+            Jag vill fråga socialministern:
+          </p>
+          <p xml:id="i-C6s2qvv5yUyAcCfkD6eWqf">
+            Vilka åtgärder har ministern för avsikt att vidta för att stävja
+            läkarbristen?
+          </p>
+          <p xml:id="i-FkUCZiU22QsfSg4hk8Zxve">
+            Avser ministern att vidta några åtgärder för att utländska läkare
+            ska slippa den avslutande kursen om den enskilde utländske läkaren
+            inte behöver denna kurs?
+          </p>
+        </div>
       </div>
     </body>
   </text>

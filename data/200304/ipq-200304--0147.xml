@@ -3,70 +3,109 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>underhåll av bostäder</title>
+        <author>Pålsson, Margareta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>underhåll av bostäder till statsrådet Lars-Erik Lövdén om underhåll av bostäder</title>
+          <idno type="rdwebb">GR10147</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10147/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10147</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10147</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-BTT4KmhANXmGX5MoaLfFg9</idno>
+            <persName>Margareta Pålsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8cEcRFJErw311ezCnSkngh" corresp="i-BTT4KmhANXmGX5MoaLfFg9">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Eig7kJxwMyUF1rGZGPZDKU">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UaEHSeY78GVfcUhZV8w4gR">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LXBisvHee7TW3R4Jt9vDRJ" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-K1hu81xXkwPEmigtUYi6cR" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-K1hu81xXkwPEmigtUYi6cR">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2003/04:147 om underhåll av bostäder</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0147</head>
-        <author who="i-BTT4KmhANXmGX5MoaLfFg9">Margareta Pålsson</author>
-        <recipient who="i-6qjD2tsSCtsrmXQjy7mtCJ">Lars-Erik Lövdén</recipient>
-        <topic>underhåll av bostäder</topic>
-        <docDate when="2003-11-24">den 24 november</docDate>
-        <status when="2003-12-12" byWhom="Lars-Erik Lövdén" byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10147</external_id>
-        <debate>
-          <turn when="2003-12-12 10:06:29" duration="222">Margareta Pålsson (M)</turn>
-          <turn when="2003-12-12 10:12:21" duration="94">Margareta Pålsson (M)</turn>
-          <turn when="2003-12-12 10:13:52" duration="274">Marietta de Pourbaix-Lun (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:147 av Margareta Pålsson (m) till statsrådet
-          Lars-Erik Lövdén om underhåll av bostäder
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-U1BuZLPDjjzKWAcT1C3wbf">
+            Interpellation 2003/04:147 av Margareta Pålsson (m) till statsrådet
+            Lars-Erik Lövdén om underhåll av bostäder
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9iP9Czs8zyrn9kkBxFZDMK">
+            den 24 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3PM6YNCMsVPxAdnH9JuDfF">
-          Enligt Boverket behöver en miljon lägenheter renoveras inom 20
-          år, och då framför allt inom miljonprogrammets bestånd. Stammar,
-          el, ventilation, fönster, balkonger och fasader måste underhållas
-          på uppemot 65 000 lägenheter per år, vilket är ungefär en tredubbling
-          jämfört med dagsläget.
-        </p>
-        <p xml:id="i-MjunryGFPH2EWsPwB2r2px">
-          Boverket med flera anser att detta kräver ändrade regler för
-          underhåll av fastigheter för att det ska bli ekonomiskt möjligt
-          för fastighetsägarna. Då statsrådet aviserat att byggindustrin
-          och fastighetsägarna inte kan påräkna mer bidrag än vad som är
-          fallet i dag återstår ändrade skatteregler för renoveringar, så
-          kallade ROT-avdrag. Flera aktörer och utredningar har föreslagit
-          någon form av skatteavdrag för renoveringar av fastighetsbeståndet.
-        </p>
-        <p xml:id="i-9VYGBaBYk5DNTtLYmHnjED">
-          Avser statsrådet att föreslå några åtgärder för att stimulera
-          ökad renovering av fastighetsbeståndet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RMKVSjgFbhdLZRuX2jEjuN">
+            Enligt Boverket behöver en miljon lägenheter renoveras inom 20
+            år, och då framför allt inom miljonprogrammets bestånd. Stammar,
+            el, ventilation, fönster, balkonger och fasader måste underhållas
+            på uppemot 65 000 lägenheter per år, vilket är ungefär en tredubbling
+            jämfört med dagsläget.
+          </p>
+          <p xml:id="i-TT3H9a4yJeTSVvd2ktfhyN">
+            Boverket med flera anser att detta kräver ändrade regler för
+            underhåll av fastigheter för att det ska bli ekonomiskt möjligt
+            för fastighetsägarna. Då statsrådet aviserat att byggindustrin
+            och fastighetsägarna inte kan påräkna mer bidrag än vad som är
+            fallet i dag återstår ändrade skatteregler för renoveringar, så
+            kallade ROT-avdrag. Flera aktörer och utredningar har föreslagit
+            någon form av skatteavdrag för renoveringar av fastighetsbeståndet.
+          </p>
+          <p xml:id="i-NLpfpzwLRiTSNRKtcThHJm">
+            Avser statsrådet att föreslå några åtgärder för att stimulera
+            ökad renovering av fastighetsbeståndet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,121 +3,160 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>likvärdighet i förskolan</title>
+        <author>Nylander, Christer (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>likvärdighet i förskolan till statsrådet Lena Hallengren om likvärdighet i förskolan</title>
+          <idno type="rdwebb">GS1016</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1016/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1016</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1016</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-U6F8gqiuV2DEZN1aMhyDnJ</idno>
+            <persName>Christer Nylander</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GyQSgNs8G1wXHFNAPTaES6" corresp="i-U6F8gqiuV2DEZN1aMhyDnJ">
+          <date when="2004-09-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4SZASCmJ7ExySowY1oJuQg">
+          <date when="2004-09-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XkH9xFfjvQnkywnJC4iimo">
+          <date when="2004-09-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-REv83jM2BJsssFQSbvG3Bg" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-09-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7EWH1q89S4ALasoUEvji5S" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-09-30"/>
+        </correspAction>
+        <correspContext corresp="i-7EWH1q89S4ALasoUEvji5S">
+          <ref type="record" target="prot-200405--010">Riksdagens protokoll 2004/05:10 Torsdagen den 30 september</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2004/05:16 om likvärdighet i förskolan</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0016</head>
-        <author who="i-U6F8gqiuV2DEZN1aMhyDnJ">Christer Nylander</author>
-        <recipient who="i-HxcQkHC9fDSzkJWgvdhDEF">Lena Hallengren</recipient>
-        <topic>likvärdighet i förskolan</topic>
-        <docDate when="2004-09-20">den 20 september</docDate>
-        <status when="2004-09-30" byWhom="Lena Hallengren" byWhomId="i-HxcQkHC9fDSzkJWgvdhDEF" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1016</external_id>
-        <debate>
-          <turn when="2004-09-30 12:59:49" duration="203">Lena Hallengren (S)</turn>
-          <turn when="2004-09-30 13:03:09" duration="221">Christer Nylander (Fp)</turn>
-          <turn when="2004-09-30 13:06:46" duration="177">Lena Hallengren (S)</turn>
-          <turn when="2004-09-30 13:09:40" duration="253">Christer Nylander (Fp)</turn>
-          <turn when="2004-09-30 13:13:49" duration="160">Lena Hallengren (S)</turn>
-          <turn when="2004-09-30 13:16:25" duration="130">Christer Nylander (Fp)</turn>
-          <turn when="2004-09-30 13:18:32" duration="2550">Lena Hallengren (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:16 av Christer Nylander (fp) till statsrådet
-          Lena Hallengren om likvärdighet i förskolan
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-TXAGHhyVk8UMtQw8GgDiSA">
+            Interpellation 2004/05:16 av Christer Nylander (fp) till statsrådet
+            Lena Hallengren om likvärdighet i förskolan
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6jhAetxp9Hzxqrujm4Cvq2">
+            den 20 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ELJRg6LULCmPt47n84LZQv">
-          I skollagen 2 § slås fast att "utbildningen skall inom varje
-          skolform vara likvärdig, varhelst den anordnas i landet". Kommunerna
-          äger förvisso rätt att avgöra vilka förutsättningar och resurser
-          man ger förskolorna, men skollagen stipulerar tydligt att barnen
-          ska få likvärdiga pedagogiska möjligheter och likvärdiga chanser
-          att finna trygghet i förskolan.
-        </p>
-        <p xml:id="i-TvDQXJgS5xrFGvZFcFqeoV">
-          Enligt Skolverkets Jämförelsetal om förskoleverksamhet, skolbarnsomsorg,
-          skola och vuxenutbildning är skillnaderna mellan hur mycket olika
-          kommuner satsar på förskolan mycket stora.
-        </p>
-        <p xml:id="i-WyariKzvnxxaWr6ymghXF5">
-          Den kommun som satsar mest ger förskolan 135 000 per inskrivet
-          barn medan den kommun som satsar minst ger mindre än hälften,
-          eller 64 000. Det skiljer alltså 71 000 kr per barn mellan den
-          kommun i Sverige som satsar mest på barnen och den som satsar
-          minst. Även om man rensar totalkostnaderna från lokalkostnader
-          kvarstår de stora skillnaderna.
-        </p>
-        <p xml:id="i-Hy5YjcRoUGD3PDeu2XGX4R">
-          Differensen i resurser lyser också igenom när man studerar personaltätheten.
-          I en kommun kan det vara tre barn per vuxen medan det i en annan
-          kan vara nio barn per vuxen. På motsvarande sätt kan man se mycket
-          stora skillnader mellan olika kommuners genomsnittliga storlek
-          på barngrupperna.
-        </p>
-        <p xml:id="i-5KEWXkTsp6H9jbs86cCNEE">
-          Men det är inte bara när man jämför resurser som likvärdigheten
-          kan ifrågasättas. Skolverkets studier visar att det finns tydliga
-          skillnader vilken chans till vidareutbildning personalen ges,
-          hur läroplanen implementeras etcetera.
-        </p>
-        <p xml:id="i-PjYFh7wEjFzD94fAqQdh3Z">
-          Även kommunernas förmåga att erbjuda plats i barnomsorgen skiftar.
-          Nyligen kritiserade Justitieombudsmannen Malmö kommun för att
-          man låtit en förälder med behov av förskoleplats för sitt barn
-          vänta sju månader.
-        </p>
-        <p xml:id="i-XhHksev476UESMNqt5961D">
-          Sammantaget ger detta en bild av ett Sverige med mycket stora
-          skillnader i förskolans kvalitet. Skillnader finns både mellan
-          kommuner och inom kommuner.
-        </p>
-        <p xml:id="i-CMS8MfnJNypK2KSaxaVs22">
-          Förskolan är för många barn ett viktigt första steg i det offentliga
-          utbildningsväsendet. En bra förskola kan ge barnen större chans
-          att klara skolans pedagogiska mål och ge ett bra stöd för den
-          personliga och sociala utvecklingen. De orimligt stora skillnaderna
-          mellan olika kommuners förmåga att prioritera förskolan som beskrivs
-          ovan innebär att likvärdigheten satts på undantag. I praktiken
-          bestäms ett barns chans till utveckling, kunskap och trygghet
-          till stor del av i vilken kommun han eller hon är född.
-        </p>
-        <p xml:id="i-4UnQ4hHezGx3j29aQ6VnkX">
-          Med anledning av vad som ovan anförs vill jag ställa följande
-          frågor till statsrådet:
-        </p>
-        <p xml:id="i-LCmgQUvVe3TgYNDjEryEaf">
-          1. Vilka åtgärder avser statsrådet att vidta för att säkra likvärdigheten
-          i förskolan?
-        </p>
-        <p xml:id="i-WUtVsn7KNAsjKVyENUNCm1">
-          2. Avser statsrådet att förtydliga innehållet i skollagens bestämmelser
-          om likvärdighet i förskolan?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-CjL9FHTqDU7eLhMkuu4XDA">
+            I skollagen 2 § slås fast att "utbildningen skall inom varje
+            skolform vara likvärdig, varhelst den anordnas i landet". Kommunerna
+            äger förvisso rätt att avgöra vilka förutsättningar och resurser
+            man ger förskolorna, men skollagen stipulerar tydligt att barnen
+            ska få likvärdiga pedagogiska möjligheter och likvärdiga chanser
+            att finna trygghet i förskolan.
+          </p>
+          <p xml:id="i-57LcPXunsUUFpGSVGJqGA2">
+            Enligt Skolverkets Jämförelsetal om förskoleverksamhet, skolbarnsomsorg,
+            skola och vuxenutbildning är skillnaderna mellan hur mycket olika
+            kommuner satsar på förskolan mycket stora.
+          </p>
+          <p xml:id="i-XimNod1U1UhFQBaKuNHL8A">
+            Den kommun som satsar mest ger förskolan 135 000 per inskrivet
+            barn medan den kommun som satsar minst ger mindre än hälften,
+            eller 64 000. Det skiljer alltså 71 000 kr per barn mellan den
+            kommun i Sverige som satsar mest på barnen och den som satsar
+            minst. Även om man rensar totalkostnaderna från lokalkostnader
+            kvarstår de stora skillnaderna.
+          </p>
+          <p xml:id="i-3GYJoTSpFmMgsZULwCqNTC">
+            Differensen i resurser lyser också igenom när man studerar personaltätheten.
+            I en kommun kan det vara tre barn per vuxen medan det i en annan
+            kan vara nio barn per vuxen. På motsvarande sätt kan man se mycket
+            stora skillnader mellan olika kommuners genomsnittliga storlek
+            på barngrupperna.
+          </p>
+          <p xml:id="i-WnpLY6xkNkfnwgnVYq7EeJ">
+            Men det är inte bara när man jämför resurser som likvärdigheten
+            kan ifrågasättas. Skolverkets studier visar att det finns tydliga
+            skillnader vilken chans till vidareutbildning personalen ges,
+            hur läroplanen implementeras etcetera.
+          </p>
+          <p xml:id="i-G88RvaHYKhM96SxfyP3JSn">
+            Även kommunernas förmåga att erbjuda plats i barnomsorgen skiftar.
+            Nyligen kritiserade Justitieombudsmannen Malmö kommun för att
+            man låtit en förälder med behov av förskoleplats för sitt barn
+            vänta sju månader.
+          </p>
+          <p xml:id="i-UKbcbcJJ94XtDMgzadTcBH">
+            Sammantaget ger detta en bild av ett Sverige med mycket stora
+            skillnader i förskolans kvalitet. Skillnader finns både mellan
+            kommuner och inom kommuner.
+          </p>
+          <p xml:id="i-V7dozorCeRKJZv65tDCRSE">
+            Förskolan är för många barn ett viktigt första steg i det offentliga
+            utbildningsväsendet. En bra förskola kan ge barnen större chans
+            att klara skolans pedagogiska mål och ge ett bra stöd för den
+            personliga och sociala utvecklingen. De orimligt stora skillnaderna
+            mellan olika kommuners förmåga att prioritera förskolan som beskrivs
+            ovan innebär att likvärdigheten satts på undantag. I praktiken
+            bestäms ett barns chans till utveckling, kunskap och trygghet
+            till stor del av i vilken kommun han eller hon är född.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-NSrEKdcy7heRh8DFJGvE5r">
+            Med anledning av vad som ovan anförs vill jag ställa följande
+            frågor till statsrådet:
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder avser statsrådet att vidta för att säkra likvärdigheten
+                i förskolan?
+              </item>
+              <item>
+                2. Avser statsrådet att förtydliga innehållet i skollagens bestämmelser
+                om likvärdighet i förskolan?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

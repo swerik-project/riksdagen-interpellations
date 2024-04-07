@@ -3,101 +3,145 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>antalet förskollärare</title>
+        <author>Nilsson, Ulf (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>antalet förskollärare till statsrådet Lena Hallengren om antalet förskollärare</title>
+          <idno type="rdwebb">GR10325</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10325/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10325</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10325</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
+            <persName>Ulf Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AzP8maLb9SbkTFEGNrdSaa" corresp="i-nX9ipUS8FhkbQHkWWytwf">
+          <date when="2004-03-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Pq9H3r7gUiiBJTjpxW7CeL">
+          <date when="2004-03-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DCu6qHvdcbAEQCwmWVZcrR">
+          <date when="2004-03-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-E5U3B5cSVvwJSvfWRWbUMY" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-03-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Hr9fYbvFAbkVFf2XsqsXJ3" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
+          <date when="2004-03-12"/>
+        </correspAction>
+        <correspContext corresp="i-Hr9fYbvFAbkVFf2XsqsXJ3">
+          <ref type="record" target="prot-200304--082">Riksdagens protokoll 2003/04:82 Fredagen den 12 mars</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2003/04:325 om antalet förskollärare</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0325</head>
-        <author who="i-nX9ipUS8FhkbQHkWWytwf">Ulf Nilsson</author>
-        <recipient who="i-HxcQkHC9fDSzkJWgvdhDEF">Lena Hallengren</recipient>
-        <topic>antalet förskollärare</topic>
-        <docDate when="2004-03-03">den 3 mars</docDate>
-        <status when="unknown" byWhom="Lena Hallengren" byWhomId="i-HxcQkHC9fDSzkJWgvdhDEF" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10325</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:325 av Ulf Nilsson (fp) till statsrådet
-          Lena Hallengren om antalet förskollärare
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-cMtTVpmanyDcAphegLxLj">
+            Interpellation 2003/04:325 av Ulf Nilsson (fp) till statsrådet
+            Lena Hallengren om antalet förskollärare
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JxDSPwvoo5v1SJQL6wDpDL">
+            den 3 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-UGkyLW7uyuc9DDAxsEkfoj">
-          Folkpartiet har länge drivit att utbildade förskollärare ska
-          vara ansvariga för den pedagogiska verksamheten i förskolan. Att
-          begreppet "dagis" har ersatts av en pedagogisk förskola med egen
-          läroplan måste självfallet innebära att huvuddelen av personalen
-          har en pedagogisk utbildning.
-        </p>
-        <p xml:id="i-K3LYePRF1N621qMCREb8Jj">
-          Regeringen har @ ibland @ framfört samma tankegångar. Men ibland
-          svävar man på målet. Nu har regeringen infört en kort eftergymnasial
-          utbildning för dem som arbetar i förskolan. Enligt min mening
-          riskerar vi att åter hamna i det tänkande som fanns förr, när
-          man kunde utbilda sig på gymnasiet eller gå i kortkurser för att
-          "passa barn". Samtidigt finns en risk att den typen av kortutbildning
-          mera tillfredsställer behovet av arbetsmarknadsåtgärder än behovet
-          av utbildad personal i förskolan.
-        </p>
-        <p xml:id="i-Bj4poSxHoHNNvwGU8HCxuR">
-          Den snabbutbildning som nu införs riskerar att ytterligare minska
-          förskollärarrekryteringen, om den ger nästan samma lön och status
-          som tre och ett halvt års utbildning. Risken är att statusen på
-          förskolläraryrket sjunker och att bristen på förskollärarna förvärras.
-          Färre förskollärare kan inte ersättas av fler barnskötare.
-        </p>
-        <p xml:id="i-4zz5syazV9vKNWiXRJFH7U">
-          Folkpartiet anser att olika yrkesgrupper behövs i förskolan och
-          att barnskötare gör en viktig insats, men det måste göras tydligt
-          att förskollärarna har en annan roll och att de ska vara ansvariga
-          för den pedagogiska verksamheten. Därför är det viktigt att underlätta
-          för barnskötare att vidareutbilda sig till förskollärare.
-        </p>
-        <p xml:id="i-9gFegGGBVX9fjoCeLDcbUQ">
-          Visst återfinns förskollärarutbildningen fortfarande på högskolenivå,
-          men den har blivit anonym genom att den ingår som ett av många
-          yrkesval i ett och samma block. Antalet personer som vill bli
-          förskollärare har minskat sedan den nya lärarutbildningen infördes.
-          Förskolan tar allt mindre plats i utbildningen och därmed även
-          i studenternas diskussioner.
-        </p>
-        <p xml:id="i-NqLeopifTxZtzUQ3n4R68Y">
-          Det är viktigt att förskollärarutbildningen ges en ordentlig
-          plats i lärarutbildningen. Bland alla lärarstudenter i den nya
-          lärarutbildningen är blivande förskollärare en liten grupp studenter.
-          Detta innebär att frågor som rör förskolan lätt kommer bort under
-          de terminer då alla lärarinriktningar läser gemensamt. Folkpartiet
-          vill helst återinföra förskollärarutbildningen som en egen utbildning
-          men skulle se positivt också på om regeringen ville ta åtminstone
-          något steg i rätt riktning. Exempelvis borde man kunna överväga
-          att göra förskolläraryrket till en tydlig ingång i lärarutbildningen
-          eller att skapa en inriktning som är inriktad mot förskolan. Då
-          görs valet tydligare för studenterna.
-        </p>
-        <p xml:id="i-CA2EziMgGdmpyPZ65Q7gpr">
-          Jag vill därför fråga ministern vilka åtgärder hon ämnar vidta
-          för att öka antalet förskollärare.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-14ec7gp98DwH5Sr7RMo7tp">
+            Folkpartiet har länge drivit att utbildade förskollärare ska
+            vara ansvariga för den pedagogiska verksamheten i förskolan. Att
+            begreppet "dagis" har ersatts av en pedagogisk förskola med egen
+            läroplan måste självfallet innebära att huvuddelen av personalen
+            har en pedagogisk utbildning.
+          </p>
+          <p xml:id="i-YnTiRv5bmnvnYgbUw9Xax">
+            Regeringen har @ ibland @ framfört samma tankegångar. Men ibland
+            svävar man på målet. Nu har regeringen infört en kort eftergymnasial
+            utbildning för dem som arbetar i förskolan. Enligt min mening
+            riskerar vi att åter hamna i det tänkande som fanns förr, när
+            man kunde utbilda sig på gymnasiet eller gå i kortkurser för att
+            "passa barn". Samtidigt finns en risk att den typen av kortutbildning
+            mera tillfredsställer behovet av arbetsmarknadsåtgärder än behovet
+            av utbildad personal i förskolan.
+          </p>
+          <p xml:id="i-JErc9B6AwsfrS1m8X877c9">
+            Den snabbutbildning som nu införs riskerar att ytterligare minska
+            förskollärarrekryteringen, om den ger nästan samma lön och status
+            som tre och ett halvt års utbildning. Risken är att statusen på
+            förskolläraryrket sjunker och att bristen på förskollärarna förvärras.
+            Färre förskollärare kan inte ersättas av fler barnskötare.
+          </p>
+          <p xml:id="i-T3Zm6mTUSoHN5M4JsiiakA">
+            Folkpartiet anser att olika yrkesgrupper behövs i förskolan och
+            att barnskötare gör en viktig insats, men det måste göras tydligt
+            att förskollärarna har en annan roll och att de ska vara ansvariga
+            för den pedagogiska verksamheten. Därför är det viktigt att underlätta
+            för barnskötare att vidareutbilda sig till förskollärare.
+          </p>
+          <p xml:id="i-JRvtpish2GLBG9if5KkJPD">
+            Visst återfinns förskollärarutbildningen fortfarande på högskolenivå,
+            men den har blivit anonym genom att den ingår som ett av många
+            yrkesval i ett och samma block. Antalet personer som vill bli
+            förskollärare har minskat sedan den nya lärarutbildningen infördes.
+            Förskolan tar allt mindre plats i utbildningen och därmed även
+            i studenternas diskussioner.
+          </p>
+          <p xml:id="i-PQftBDWkBQpsUz8rAtUyeT">
+            Det är viktigt att förskollärarutbildningen ges en ordentlig
+            plats i lärarutbildningen. Bland alla lärarstudenter i den nya
+            lärarutbildningen är blivande förskollärare en liten grupp studenter.
+            Detta innebär att frågor som rör förskolan lätt kommer bort under
+            de terminer då alla lärarinriktningar läser gemensamt. Folkpartiet
+            vill helst återinföra förskollärarutbildningen som en egen utbildning
+            men skulle se positivt också på om regeringen ville ta åtminstone
+            något steg i rätt riktning. Exempelvis borde man kunna överväga
+            att göra förskolläraryrket till en tydlig ingång i lärarutbildningen
+            eller att skapa en inriktning som är inriktad mot förskolan. Då
+            görs valet tydligare för studenterna.
+          </p>
+          <p xml:id="i-Xh3sD4bqdFdSbHSnfbANgr">
+            Jag vill därför fråga ministern vilka åtgärder hon ämnar vidta
+            för att öka antalet förskollärare.
+          </p>
+        </div>
       </div>
     </body>
   </text>

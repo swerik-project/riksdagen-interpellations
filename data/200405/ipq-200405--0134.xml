@@ -3,121 +3,152 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tågtrafiken mellan Gävle och Stockholm</title>
+        <author>Marcelind, Ragnwi (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>tågtrafiken mellan Gävle och Stockholm till statsrådet Ulrica Messing om tågtrafiken mellan Gävle och Stockholm</title>
+          <idno type="rdwebb">GS10134</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10134/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10134</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10134</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Ha5uZXGHudhTidCuW8UjXN</idno>
+            <persName>Ragnwi Marcelind</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-2RZhcGWbMzv3aJrTGtHeq1" corresp="i-Ha5uZXGHudhTidCuW8UjXN">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4fN5mwgh5upxxsUjEZRqX9">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7StuFms3uPzYi3x6GjfjjA">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KxQaBWu6eQmcWmwPtV3eLd" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TPyFzYHPh9BQdooJgU63fP" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-TPyFzYHPh9BQdooJgU63fP">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:134 om tågtrafiken mellan Gävle och Stockholm</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0134</head>
-        <author who="i-Ha5uZXGHudhTidCuW8UjXN">Ragnwi Marcelind</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>tågtrafiken mellan Gävle och Stockholm</topic>
-        <docDate when="2004-11-11">den 11 november</docDate>
-        <status when="2004-11-23" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10134</external_id>
-        <debate>
-          <turn when="2004-11-23 19:37:18" duration="188">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 19:40:22" duration="260">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2004-11-23 19:44:32" duration="252">Rigmor Stenmark (C)</turn>
-          <turn when="2004-11-23 19:48:37" duration="231">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-23 19:52:25" duration="257">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 19:56:39" duration="248">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2004-11-23 20:00:38" duration="147">Rigmor Stenmark (C)</turn>
-          <turn when="2004-11-23 20:03:01" duration="120">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-23 20:04:54" duration="243">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 20:08:47" duration="128">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2004-11-23 20:10:47" duration="56">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:134 av Ragnwi Marcelind (kd) till statsrådet
-          Ulrica Messing om tågtrafiken mellan Gävle och Stockholm
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-TkWeEGE3Q86C5whz5yD4MM">
+            Interpellation 2004/05:134 av Ragnwi Marcelind (kd) till statsrådet
+            Ulrica Messing om tågtrafiken mellan Gävle och Stockholm
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-824ags5j9zQNpXN7nyzgvu">
+            den 11 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-L7NJoj6fU7cbGMH7is2zdt">
-          Järnvägslinjen Stockholm@Gävle trafikeras för närvarande av SJ
-          och Connex nattågslinje på övre Norrland. Under sommaren och hösten
-          har medierna i Gävleregionen belyst de stora svårigheter som upplevs
-          med indragna tågturer och höga biljettpriser. SJ:s prissättning,
-          med enligt uppgift landets högsta kilometertaxa på sträckan Stockholm@Gävle,
-          vållar bekymmer för dagens pendlare och är ett hinder för regionförstoring.
-          När gävleborna ska åka tåg med SJ till Stockholm kan resande köpa
-          en biljett för sträckan Falun@Stockholm via Gävle, för att på
-          det sättet kunna åka billigare. Taxan innehåller således märkliga
-          konstruktioner.
-        </p>
-        <p xml:id="i-VZUuVsh2xSKuZL3J5Eykmo">
-          I Gävleregionen råder en mycket stor arbetslöshet. Sedan september
-          2002 har arbetslösheten ökat med nästan 50 %. I Uppsala@Arlanda@Stockholms-området
-          finns ett stort antal arbetsplatser och svårigheter att rekrytera
-          personal. Med SJ:s tåg tar det till exempel 60 minuter att åka
-          till Arlanda. De höga biljettpriserna försvårar dock väsentligt
-          för arbetslösa gävlebor att söka jobb på arbetsplatser lokaliserade
-          till Arlanda.
-        </p>
-        <p xml:id="i-B4mXbrEz21z1MPzut4eyS7">
-          Mälardalsrådet, till vilket både Gävle och Sandvikens kommuner
-          ansökt om medlemskap, har genom sitt rådsmöte i maj 2004 krävt
-          att SJ tar på sig rollen som partner när det gäller utvecklingen
-          i Mälardalsregionen. Rådet uppmanar regering och riksdag att tydliggöra
-          SJ:s roll när det gäller utveckling och regionförstoring. Av storstadsregionerna
-          är det enbart i Stockholm@Mälardals-regionen som SJ har kvar sitt
-          monopol för regional trafik.
-        </p>
-        <p xml:id="i-JuiQAgMsEZfvstr81kALQ8">
-          Mälardalsrådet kräver vidare att regering och riksdag anpassar
-          SJ:s avkastningskrav för trafiken i Mälardalsregionen till följd
-          av den unika ställning som företaget har i regionen och att SJ
-          offentligt ska särredovisa intäkter och kostnader för den regionala
-          trafiken i området.
-        </p>
-        <p xml:id="i-3KD96LzsSqrGnfXYYLP7rL">
-          Konkurrensverket kritiserade i somras en rapport angående SJ:s
-          hantering av sin monopolställning. I rapporten Monopolmarknader
-          i förändring konstateras: "Ett betydande hinder för en mer utvecklad
-          konkurrens, som bättre tillgodoser resenärernas och medborgarnas
-          önskemål, är SJ AB:s monopol på linjer som bolaget bedömer som
-          lönsamma. SJ har betydande möjligheter att från ett företagsekonomiskt
-          perspektiv ta ut höga priser på flera linjer, vilket bland annat
-          innebär att efterfrågan från resenärer med en lägre betalningsförmåga
-          och andra mer breda resenärsgrupper löper stor risk att trängas
-          undan."
-        </p>
-        <p xml:id="i-QJbzaRp2QyCW6XVXixR5gf">
-          Dessa förhållanden talar för att SJ:s monopol på dagtrafiken
-          på sträckan Stockholm@Gävle bör upphöra. Fram till det sker bör,
-          till följd av den unika ställning som företaget har i regionen,
-          SJ:s avkastningskrav för trafiken anpassas.
-        </p>
-        <p xml:id="i-W9LEcG8gnaPKFTo4kyVLUd">
-          Vilka åtgärder avser statsrådet att vidta för att förbättra konkurrensen
-          inom tågtrafiken på sträckan Stockholm@Gävle?
-        </p>
-        <p xml:id="i-RFAFKqdzWKZPK19BzWAMyd">
-          Vilka åtgärder avser statsrådet att vidta för att SJ AB:s avkastningskrav
-          för trafiken på sträckan Stockholm@Gävle ska anpassas efter transportbehoven?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-AyvwkUBW9VwQKSrptXQaxP">
+            Järnvägslinjen Stockholm@Gävle trafikeras för närvarande av SJ
+            och Connex nattågslinje på övre Norrland. Under sommaren och hösten
+            har medierna i Gävleregionen belyst de stora svårigheter som upplevs
+            med indragna tågturer och höga biljettpriser. SJ:s prissättning,
+            med enligt uppgift landets högsta kilometertaxa på sträckan Stockholm@Gävle,
+            vållar bekymmer för dagens pendlare och är ett hinder för regionförstoring.
+            När gävleborna ska åka tåg med SJ till Stockholm kan resande köpa
+            en biljett för sträckan Falun@Stockholm via Gävle, för att på
+            det sättet kunna åka billigare. Taxan innehåller således märkliga
+            konstruktioner.
+          </p>
+          <p xml:id="i-JjiyKr1p6FJnEbsu2nY9aN">
+            I Gävleregionen råder en mycket stor arbetslöshet. Sedan september
+            2002 har arbetslösheten ökat med nästan 50 %. I Uppsala@Arlanda@Stockholms-området
+            finns ett stort antal arbetsplatser och svårigheter att rekrytera
+            personal. Med SJ:s tåg tar det till exempel 60 minuter att åka
+            till Arlanda. De höga biljettpriserna försvårar dock väsentligt
+            för arbetslösa gävlebor att söka jobb på arbetsplatser lokaliserade
+            till Arlanda.
+          </p>
+          <p xml:id="i-8ifPpnpp2Bi7U6PFWCr4Ey">
+            Mälardalsrådet, till vilket både Gävle och Sandvikens kommuner
+            ansökt om medlemskap, har genom sitt rådsmöte i maj 2004 krävt
+            att SJ tar på sig rollen som partner när det gäller utvecklingen
+            i Mälardalsregionen. Rådet uppmanar regering och riksdag att tydliggöra
+            SJ:s roll när det gäller utveckling och regionförstoring. Av storstadsregionerna
+            är det enbart i Stockholm@Mälardals-regionen som SJ har kvar sitt
+            monopol för regional trafik.
+          </p>
+          <p xml:id="i-V8d7yevFmFPXPGAYCBRuf5">
+            Mälardalsrådet kräver vidare att regering och riksdag anpassar
+            SJ:s avkastningskrav för trafiken i Mälardalsregionen till följd
+            av den unika ställning som företaget har i regionen och att SJ
+            offentligt ska särredovisa intäkter och kostnader för den regionala
+            trafiken i området.
+          </p>
+          <p xml:id="i-WjMExL8ZJJyySV5EnGp6eh">
+            Konkurrensverket kritiserade i somras en rapport angående SJ:s
+            hantering av sin monopolställning. I rapporten Monopolmarknader
+            i förändring konstateras: "Ett betydande hinder för en mer utvecklad
+            konkurrens, som bättre tillgodoser resenärernas och medborgarnas
+            önskemål, är SJ AB:s monopol på linjer som bolaget bedömer som
+            lönsamma. SJ har betydande möjligheter att från ett företagsekonomiskt
+            perspektiv ta ut höga priser på flera linjer, vilket bland annat
+            innebär att efterfrågan från resenärer med en lägre betalningsförmåga
+            och andra mer breda resenärsgrupper löper stor risk att trängas
+            undan."
+          </p>
+          <p xml:id="i-5hMZk4sgYFU3fcDhQVezYA">
+            Dessa förhållanden talar för att SJ:s monopol på dagtrafiken
+            på sträckan Stockholm@Gävle bör upphöra. Fram till det sker bör,
+            till följd av den unika ställning som företaget har i regionen,
+            SJ:s avkastningskrav för trafiken anpassas.
+          </p>
+          <p xml:id="i-FfSfSQakA396PNKB5brdSL">
+            Vilka åtgärder avser statsrådet att vidta för att förbättra konkurrensen
+            inom tågtrafiken på sträckan Stockholm@Gävle?
+          </p>
+          <p xml:id="i-WRozUiDzeekhjxShgLSSRR">
+            Vilka åtgärder avser statsrådet att vidta för att SJ AB:s avkastningskrav
+            för trafiken på sträckan Stockholm@Gävle ska anpassas efter transportbehoven?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,146 +3,177 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>strandskyddsbestämmelserna</title>
+        <author>Bergström, Sven (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>strandskyddsbestämmelserna till statsrådet Lena Sommestad om strandskyddsbestämmelserna</title>
+          <idno type="rdwebb">GS10385</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10385/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10385</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10385</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
+            <persName>Sven Bergström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-71GaA5cTNc5xMKCNasxyGZ">
+          <date when="2005-02-16"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-9BBx948mmLm9fQnqLXKNRQ" corresp="i-KtELEJ9HytY7HFgQExEzLq">
+          <date when="2005-02-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WkEr7FphXs8H8aHGZHGsxS">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Q9s5ymPvT3gdXD8ReiDtWP" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-02-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3wRj9zScTQhaSmhSUdJH23" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspContext corresp="i-3wRj9zScTQhaSmhSUdJH23">
+          <ref type="record" target="prot-200405--082">Riksdagens protokoll 2004/05:82 Tisdagen den 1 mars</ref>
+          <ref type="recordSection" target="unsetDivId">2 § Svar på interpellation 2004/05:385 om strandskyddsbestämmelserna</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0385</head>
-        <author who="i-KtELEJ9HytY7HFgQExEzLq">Sven Bergström</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>strandskyddsbestämmelserna</topic>
-        <docDate when="2005-02-16">den 16 februari</docDate>
-        <status when="2005-03-01" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10385</external_id>
-        <debate>
-          <turn when="2005-03-01 13:32:18" duration="241">Lena Sommestad (S)</turn>
-          <turn when="2005-03-01 13:36:16" duration="242">Sven Bergström (C)</turn>
-          <turn when="2005-03-01 13:40:15" duration="160">Harald Nordlund (Fp)</turn>
-          <turn when="2005-03-01 13:42:51" duration="254">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-01 13:47:00" duration="218">Lena Sommestad (S)</turn>
-          <turn when="2005-03-01 13:50:34" duration="257">Sven Bergström (C)</turn>
-          <turn when="2005-03-01 13:54:47" duration="116">Harald Nordlund (Fp)</turn>
-          <turn when="2005-03-01 13:56:39" duration="135">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-01 13:58:49" duration="259">Lena Sommestad (S)</turn>
-          <turn when="2005-03-01 14:03:06" duration="146">Sven Bergström (C)</turn>
-          <turn when="2005-03-01 14:05:28" duration="162">Lena Sommestad (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:385 av Sven Bergström (c) till statsrådet
-          Lena Sommestad om strandskyddsbestämmelserna
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LnXZKmRZzog5jnzif2asAF">
+            Interpellation 2004/05:385 av Sven Bergström (c) till statsrådet
+            Lena Sommestad om strandskyddsbestämmelserna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-BJQBEJEwrKmozFBtPPozGF">
+            den 16 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Y3HDE9Z3UHqJ1LN7qKXNiA">
-          Gävleborg har i grunden goda förutsättningar att utvecklas positivt.
-          Men den 10 februari kom ännu en gång dystra siffror från SCB över
-          befolkningsutvecklingen i Sverige under 2004. De visar inte oväntat
-          att det är storstads- och universitetsorterna som fortsätter att
-          växa, medan landsortsregioner som Gävleborg, Kalmar, Värmland,
-          Dalarna med flera minskar.
-        </p>
-        <p xml:id="i-VwEWoUqNjPrhuXi9PNxhDg">
-          I Mälardalen finns en starkare arbetsmarknad än i Gävleborg.
-          Och nu kan många storstadsområden också erbjuda ett attraktivt
-          boende nära vattnet. Hammarby Sjöstad i Stockholm är ett exempel
-          och motsvarande finns också i Göteborg och Malmö.
-        </p>
-        <p xml:id="i-2dTV5Em5zT39LG3Bk8kcYu">
-          Men vill man bosätta sig nära vattnet i Gävleborg är man hänvisad
-          till ett boende långt från sjöar och vattendrag.
-        </p>
-        <p xml:id="i-f4VtHatftnXu7FpAStFjG">
-          Detta kunde det ha blivit ändring på. I full politisk enighet
-          bestämde Länsstyrelsen i Gävleborg i juni 2003 att lätta något
-          på strandskyddet, från 300 meter till 100 meter. Socialdemokrater,
-          moderater, centerpartister med flera var eniga om detta.
-        </p>
-        <p xml:id="i-HeuMpBX4FP1pDBHUCKUGuj">
-          Många människor såg plötsligt en möjlighet till höjd livskvalitet
-          i ett boende nära naturen med tillgång till tystnad, sjöutsikt
-          och närhet till vattnet. Men säg den glädje som varar.
-        </p>
-        <p xml:id="i-MGUCfbZZXJ8bao4qTon5yq">
-          Naturvårdsverket i Solna överklagade de eniga politikernas beslut
-          i Gävleborg. Och socialdemokraterna i regeringen lyssnade mer
-          på Naturvårdsverkets nitiska tjänstemän än partikamraterna i Gävleborg.
-          I ett beslut den 20 januari i år upphävde helt sonika regeringen
-          det beslut som gävleborgarna var ense om. Nu har vi den paradoxala
-          situationen att i Gävleborg med riklig tillgång till sjöar och
-          vattendrag får boende hålla sig på 300 meters avstånd från vattenlinjen,
-          medan i tätbefolkade storstadsområden får man bygga direkt på
-          strandkanten.
-        </p>
-        <p xml:id="i-AcFCaaJyceoi2aWKueYGiT">
-          De regler om strandskydd som finns stadgade i miljöbalken fyller
-          enligt min mening en viktig funktion i att bevara den möjlighet
-          att bada och idka friluftsliv inom strandområden som allmänheten
-          har, enligt allemansrätten. Strandskyddet kan även, särskilt i
-          tätbefolkade områden, ha betydelse för djur- och växtliv. Men
-          Sverige är ett stort land där befolkningen är ojämnt fördelad
-          över landet. Inte minst Gävleborgs län har enormt många mil stränder
-          där inte varje del måste vara skyddad av ett fyrkantigt regelverk
-          styrt från Stockholm.
-        </p>
-        <p xml:id="i-3LtxvJ9qPzxHS1pQL7RRZ5">
-          Miljöbalken har dessvärre inneburit en skärpning av strandskyddet
-          så att det blivit ett av de största hindren för regional utveckling.
-          Den skärpning av reglerna som kom i mitten av 90-talet innebärande
-          att hänsynen till djur- och växtlivet togs in i regelverket har
-          fullföljts genom miljöbalken, som i princip satt stopp för byggnation
-          utmed alla vattendrag, stora som små, över hela landet. Reglerna
-          och därmed gällande praxis belastas i dag av betydande rester
-          av gammalt förmynderi från 1970-talet då det generella strandskyddet
-          tillkom.
-        </p>
-        <p xml:id="i-MkVCxgDH49mpgHix3eJNcU">
-          Ett flexiblare strandskydd skulle medföra att kommunerna själva
-          kunde få avgöra vilka sjöar och vattendrag som ska skyddas. Detta
-          skulle bland annat medföra ett stärkande av det kommunala självstyret
-          och möjliggöra för kommunerna att skapa attraktiva boendemiljöer.
-        </p>
-        <p xml:id="i-G6ibjszE582RWF5YjGs794">
-          Det är enligt min mening ett otillständigt omyndigförklarande
-          av kommunerna att se strandskyddet som ett statligt intresse.
-          Eftersom kommunerna har ansvar för planering och byggande borde
-          man rimligen ges full rätt att besluta även om strandskydd.
-        </p>
-        <p xml:id="i-5pwvG3JcS2ejP4pkjwqz33">
-          I riksdagens frågestund den 10 februari antydde samhällsbyggnadsminister
-          Mona Sahlin att regeringen håller på med att se över dessa frågor.
-          Hon höll dessutom med om att det bör vara lättare att få bygga
-          strandnära på landsbygden än i storstäderna.
-        </p>
-        <p xml:id="i-TDKUi7eid8JvSrLo6QAWtf">
-          Mot bakgrund av ovanstående vill jag fråga miljöministern:
-        </p>
-        <p xml:id="i-MDqXa4fURPfZNPbeECnmYi">
-          Vilka åtgärder avser statsrådet att vidta för att göra de nuvarande
-          strandskyddsbestämmelserna bättre anpassade till ett ökat lokalt
-          och regionalt självbestämmande?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-N2DVAZwBpmBBSwrj9ZzE3U">
+            Gävleborg har i grunden goda förutsättningar att utvecklas positivt.
+            Men den 10 februari kom ännu en gång dystra siffror från SCB över
+            befolkningsutvecklingen i Sverige under 2004. De visar inte oväntat
+            att det är storstads- och universitetsorterna som fortsätter att
+            växa, medan landsortsregioner som Gävleborg, Kalmar, Värmland,
+            Dalarna med flera minskar.
+          </p>
+          <p xml:id="i-F5JwJFGSXavb36rqqrNZTD">
+            I Mälardalen finns en starkare arbetsmarknad än i Gävleborg.
+            Och nu kan många storstadsområden också erbjuda ett attraktivt
+            boende nära vattnet. Hammarby Sjöstad i Stockholm är ett exempel
+            och motsvarande finns också i Göteborg och Malmö.
+          </p>
+          <p xml:id="i-Ktqohqa3djV1vPEMmhLqC7">
+            Men vill man bosätta sig nära vattnet i Gävleborg är man hänvisad
+            till ett boende långt från sjöar och vattendrag.
+          </p>
+          <p xml:id="i-Suso1kcZ2tnzmpYPzQJY56">
+            Detta kunde det ha blivit ändring på. I full politisk enighet
+            bestämde Länsstyrelsen i Gävleborg i juni 2003 att lätta något
+            på strandskyddet, från 300 meter till 100 meter. Socialdemokrater,
+            moderater, centerpartister med flera var eniga om detta.
+          </p>
+          <p xml:id="i-RdsGCkbxWXNcjujuh1VkXh">
+            Många människor såg plötsligt en möjlighet till höjd livskvalitet
+            i ett boende nära naturen med tillgång till tystnad, sjöutsikt
+            och närhet till vattnet. Men säg den glädje som varar.
+          </p>
+          <p xml:id="i-KmUcUvTXiFBTVchMfeCcx4">
+            Naturvårdsverket i Solna överklagade de eniga politikernas beslut
+            i Gävleborg. Och socialdemokraterna i regeringen lyssnade mer
+            på Naturvårdsverkets nitiska tjänstemän än partikamraterna i Gävleborg.
+            I ett beslut den 20 januari i år upphävde helt sonika regeringen
+            det beslut som gävleborgarna var ense om. Nu har vi den paradoxala
+            situationen att i Gävleborg med riklig tillgång till sjöar och
+            vattendrag får boende hålla sig på 300 meters avstånd från vattenlinjen,
+            medan i tätbefolkade storstadsområden får man bygga direkt på
+            strandkanten.
+          </p>
+          <p xml:id="i-8BbeGor43vknGPHax39rB9">
+            De regler om strandskydd som finns stadgade i miljöbalken fyller
+            enligt min mening en viktig funktion i att bevara den möjlighet
+            att bada och idka friluftsliv inom strandområden som allmänheten
+            har, enligt allemansrätten. Strandskyddet kan även, särskilt i
+            tätbefolkade områden, ha betydelse för djur- och växtliv. Men
+            Sverige är ett stort land där befolkningen är ojämnt fördelad
+            över landet. Inte minst Gävleborgs län har enormt många mil stränder
+            där inte varje del måste vara skyddad av ett fyrkantigt regelverk
+            styrt från Stockholm.
+          </p>
+          <p xml:id="i-K8X3ViFFem6jRfqTKb6Wx3">
+            Miljöbalken har dessvärre inneburit en skärpning av strandskyddet
+            så att det blivit ett av de största hindren för regional utveckling.
+            Den skärpning av reglerna som kom i mitten av 90-talet innebärande
+            att hänsynen till djur- och växtlivet togs in i regelverket har
+            fullföljts genom miljöbalken, som i princip satt stopp för byggnation
+            utmed alla vattendrag, stora som små, över hela landet. Reglerna
+            och därmed gällande praxis belastas i dag av betydande rester
+            av gammalt förmynderi från 1970-talet då det generella strandskyddet
+            tillkom.
+          </p>
+          <p xml:id="i-LXZGSjxgzXkg4AwFw4LaLD">
+            Ett flexiblare strandskydd skulle medföra att kommunerna själva
+            kunde få avgöra vilka sjöar och vattendrag som ska skyddas. Detta
+            skulle bland annat medföra ett stärkande av det kommunala självstyret
+            och möjliggöra för kommunerna att skapa attraktiva boendemiljöer.
+          </p>
+          <p xml:id="i-WjzLJDppTo1a5iDCd3QRvC">
+            Det är enligt min mening ett otillständigt omyndigförklarande
+            av kommunerna att se strandskyddet som ett statligt intresse.
+            Eftersom kommunerna har ansvar för planering och byggande borde
+            man rimligen ges full rätt att besluta även om strandskydd.
+          </p>
+          <p xml:id="i-CtbMtpDJJwPrSE2dkRfRH9">
+            I riksdagens frågestund den 10 februari antydde samhällsbyggnadsminister
+            Mona Sahlin att regeringen håller på med att se över dessa frågor.
+            Hon höll dessutom med om att det bör vara lättare att få bygga
+            strandnära på landsbygden än i storstäderna.
+          </p>
+          <p xml:id="i-XwcTnJ9XNBRwUAdhA8XJFT">
+            Mot bakgrund av ovanstående vill jag fråga miljöministern:
+          </p>
+          <p xml:id="i-DMzyrYgmJKmSU9idZMAZRu">
+            Vilka åtgärder avser statsrådet att vidta för att göra de nuvarande
+            strandskyddsbestämmelserna bättre anpassade till ett ökat lokalt
+            och regionalt självbestämmande?
+          </p>
+        </div>
       </div>
     </body>
   </text>

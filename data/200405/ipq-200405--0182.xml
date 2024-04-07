@@ -3,87 +3,131 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldres färdtjänst inom Norden</title>
+        <author>Skånberg, Tuve (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>äldres färdtjänst inom Norden till statsrådet Ulrica Messing om äldres färdtjänst inom Norden</title>
+          <idno type="rdwebb">GS10182</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10182/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10182</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10182</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-4BTx6VbUNJDqLqfkYqjnsE</idno>
+            <persName>Tuve Skånberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Vqu48iLLVDn4u6cfpPV4Ng" corresp="i-4BTx6VbUNJDqLqfkYqjnsE">
+          <date when="2004-11-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4GRKUEdgCTrhoyK4yij99E">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-45EjnLjbBueNQRrovWRTik">
+          <date when="2004-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-M73zXvJA5YoSBFuJo6ZRB5" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6buK9z5NGUwhomhnj9invX" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-26"/>
+        </correspAction>
+        <correspContext corresp="i-6buK9z5NGUwhomhnj9invX">
+          <ref type="record" target="prot-200405--038">Riksdagens protokoll 2004/05:38 Fredagen den 26 november</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:182 om äldres färdtjänst inom Norden</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0182</head>
-        <author who="i-4BTx6VbUNJDqLqfkYqjnsE">Tuve Skånberg</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>äldres färdtjänst inom Norden</topic>
-        <docDate when="2004-11-19">den 19 november</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10182</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:182 av Tuve Skånberg (kd) till statsrådet
-          Ulrica Messing om äldres färdtjänst inom Norden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Afb9pdo6hNHGJFdqAYPFwm">
+            Interpellation 2004/05:182 av Tuve Skånberg (kd) till statsrådet
+            Ulrica Messing om äldres färdtjänst inom Norden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Aoc9otfreZcaQLkJ8Bumvc">
+            den 19 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-izVzMdfgZPFHQf8tJQvt6">
-          Färdtjänst och riksfärdtjänst kan inte utnyttjas för resor över
-          nationsgränserna i Norden. En person som är bosatt i till exempel
-          Danmark kan ha rätt till dansk färdtjänst "fram till gränsen"
-          men har därefter inte rätt till färdtjänst i Sverige. Detta förhållande
-          strider mot den gränslöshet som de nordiska länderna arbetar för
-          inom ramen för Nordiska Rådet, och utgör en begränsning av de
-          äldres rörelsefrihet.
-        </p>
-        <p xml:id="i-RXGomMTCWXucBxwtjiyCaz">
-          I Allmänna bestämmelser om färdtjänst och riksfärdtjänst står
-          det skrivet att: "Den som på grund av funktionshinder har stora
-          svårigheter att förflytta sig eller att åka kollektivt kan ha
-          rätt till färdtjänst. Färdtjänst är ett komplement till den övriga
-          kollektivtrafiken och innebär att man färdas med taxi eller specialfordon.
-          Kommunen ansvarar för färdtjänsten i kommunen. Om det finns särskilda
-          skäl måste kommunen också anordna resor mellan den egna kommunen
-          och andra kommuner. Ansökan om färdtjänst görs hos kommunen där
-          man är folkbokförd. Rätten till färdtjänst regleras i lagen (1997:736)
-          om färdtjänst."
-        </p>
-        <p xml:id="i-Qjs7Sr8VMZLWToorSn5kKh">
-          Personer som har mycket svårt att använda vanlig kollektivtrafik
-          kan få riksfärdtjänst för resor från en kommun till en annan inom
-          Sverige. Ändamålet med resan kan till exempel vara semester, fritidsverksamhet
-          eller något annat. Resan kan göras med taxi, ett särskilt anpassat
-          fordon eller med allmänna kommunikationer tillsammans med en ledsagare.
-          Riksfärdtjänst innebär att kommunen lämnar en ersättning som motsvarar
-          skillnaden mellan den faktiska reskostnaden och den normala reskostnaden
-          med kollektivtrafik. Rätten till riksfärdtjänst regleras i lagen
-          (1997:735) om riksfärdtjänst samt i förordning (1993:1148) om
-          egenavgifter vid resor med riksfärdtjänst.
-        </p>
-        <p xml:id="i-NSpjMbthNCihZrN9meRPNa">
-          Jag anser att det är angeläget att äldre inte diskrimineras inom
-          Norden, utan att färdtjänst även över de nordiska ländernas gränser
-          görs möjligt. Min fråga till statsrådet är därmed:
-        </p>
-        <p xml:id="i-EjeXQwQLaRJjGkhe879DBJ">
-          Vad avser statsrådet att göra för att färdtjänst över de nordiska
-          gränserna möjliggörs?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-KB13DKNjUDLvHJ2sobd5WG">
+            Färdtjänst och riksfärdtjänst kan inte utnyttjas för resor över
+            nationsgränserna i Norden. En person som är bosatt i till exempel
+            Danmark kan ha rätt till dansk färdtjänst "fram till gränsen"
+            men har därefter inte rätt till färdtjänst i Sverige. Detta förhållande
+            strider mot den gränslöshet som de nordiska länderna arbetar för
+            inom ramen för Nordiska Rådet, och utgör en begränsning av de
+            äldres rörelsefrihet.
+          </p>
+          <p xml:id="i-TRS5jDK6j7JsnNDW56ruCY">
+            I Allmänna bestämmelser om färdtjänst och riksfärdtjänst står
+            det skrivet att: "Den som på grund av funktionshinder har stora
+            svårigheter att förflytta sig eller att åka kollektivt kan ha
+            rätt till färdtjänst. Färdtjänst är ett komplement till den övriga
+            kollektivtrafiken och innebär att man färdas med taxi eller specialfordon.
+            Kommunen ansvarar för färdtjänsten i kommunen. Om det finns särskilda
+            skäl måste kommunen också anordna resor mellan den egna kommunen
+            och andra kommuner. Ansökan om färdtjänst görs hos kommunen där
+            man är folkbokförd. Rätten till färdtjänst regleras i lagen (1997:736)
+            om färdtjänst."
+          </p>
+          <p xml:id="i-KHsa1TXoHBMSieoPLbcYa2">
+            Personer som har mycket svårt att använda vanlig kollektivtrafik
+            kan få riksfärdtjänst för resor från en kommun till en annan inom
+            Sverige. Ändamålet med resan kan till exempel vara semester, fritidsverksamhet
+            eller något annat. Resan kan göras med taxi, ett särskilt anpassat
+            fordon eller med allmänna kommunikationer tillsammans med en ledsagare.
+            Riksfärdtjänst innebär att kommunen lämnar en ersättning som motsvarar
+            skillnaden mellan den faktiska reskostnaden och den normala reskostnaden
+            med kollektivtrafik. Rätten till riksfärdtjänst regleras i lagen
+            (1997:735) om riksfärdtjänst samt i förordning (1993:1148) om
+            egenavgifter vid resor med riksfärdtjänst.
+          </p>
+          <p xml:id="i-DRf8fSguCCqFVdJCzB8L2s">
+            Jag anser att det är angeläget att äldre inte diskrimineras inom
+            Norden, utan att färdtjänst även över de nordiska ländernas gränser
+            görs möjligt. Min fråga till statsrådet är därmed:
+          </p>
+          <p xml:id="i-Dyi41qPhcXq7wzT8ciuYEB">
+            Vad avser statsrådet att göra för att färdtjänst över de nordiska
+            gränserna möjliggörs?
+          </p>
+        </div>
       </div>
     </body>
   </text>

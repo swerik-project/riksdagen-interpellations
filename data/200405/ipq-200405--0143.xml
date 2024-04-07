@@ -3,178 +3,222 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>mål och ställning för Sveriges Riksbank</title>
+        <author>Hamilton, Carl B (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>mål och ställning för Sveriges Riksbank till finansminister Pär Nuder om mål och ställning för Sveriges Riksbank</title>
+          <idno type="rdwebb">GS10143</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10143/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10143</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10143</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
+            <persName>Carl B Hamilton</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5i6pnfUAaAAbSEwuhext6R" corresp="i-Ry3pP9VZKrW87Vcxq73jQG">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8zve3gCvBJSsRuX6vj4775">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3ece6Ysa122maX8w6uFZxF">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9NMXmgmmBzfyePFoNBLoKe" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-W78hu65SWu3tpTrCkxqrpg" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspContext corresp="i-W78hu65SWu3tpTrCkxqrpg">
+          <ref type="record" target="prot-200405--050">Riksdagens protokoll 2004/05:50 Tisdagen den 14 december</ref>
+          <ref type="recordSection" target="unsetDivId">22 § Svar på interpellation 2004/05:143 om mål och ställning för Sveriges riksbank</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0143</head>
-        <author who="i-Ry3pP9VZKrW87Vcxq73jQG">Carl B Hamilton</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>mål och ställning för Sveriges Riksbank</topic>
-        <docDate when="2004-11-16">den 16 november</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10143</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:143 av Carl B Hamilton (fp) till finansminister
-          Pär Nuder om mål och ställning för Sveriges Riksbank
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-C1Hqr6Mgw9ZVMXxL7RDmFu">
+            Interpellation 2004/05:143 av Carl B Hamilton (fp) till finansminister
+            Pär Nuder om mål och ställning för Sveriges Riksbank
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-UaChScUN7KRLwh7p2RjE7D">
+            den 16 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-LQZAy1M7LZnPhZCaF3E9rj">
-          Denna interpellation rör inte frågan om Riksbankens räntepolitik,
-          eller frågor om den aktuella styrräntan är bra eller dålig. Den
-          här interpellationen rör principerna för statliga myndigheters
-          ifrågasättande av Riksbankens i lag fastlagda mål, självständiga
-          ställning, och förda penningpolitik.
-        </p>
-        <p xml:id="i-AorQ28Y83McU5eEHExU9hC">
-          Interpellationen aktualiseras främst av AMS återkommande kritik
-          av Riksbanken, men gäller vidare än så.
-        </p>
-        <p xml:id="i-M9JEnrHiniA6JHr6H3Y3G9">
-          "Ingen myndighet får bestämma hur Riksbanken skall besluta i
-          frågor som rör penningpolitik" står det i rikets grundlag (RF
-          9 kap. 13 §). Är det mot denna bakgrund lämpligt, och inte snarast
-          i strid med tanken med denna föreskrift i grundlagen, att en annan
-          del av staten @ som en statlig myndighet @ återkommande agerar
-          för att genom aktiv opinionsbildning påverka Riksbanken att driva
-          en annorlunda penningpolitik?
-        </p>
-        <p xml:id="i-N7V3CyWs1PC16uDVPSNf3P">
-          "Målet för Riksbankens verksamhet skall vara att upprätthålla
-          ett fast penningvärde" anges det i riksbankslagen (1 kap. 2 §).
-          Målet för Riksbanken får alltså inte vara något annat, till exempel
-          att maximera sysselsättningen eller minimera arbetslösheten. Det
-          blir då en besynnerlig ordning, ägnad att skapa osäkerhet om Riksbankens
-          ställning och mål, om en tung statlig myndighet som AMS återkommande
-          kräver att riksbanken ska ta mera lätt på det mål som Riksbanken
-          i lag av riksdagen är ålagd att styra efter, nämligen fast penningvärde,
-          utan förespråkar att andra, arbetsmarknadsrelaterade, mål bör
-          vara mera styrande för Riksbankens penningpolitik.
-        </p>
-        <p xml:id="i-C1MAVoJwR2So4ex7Mrko8z">
-          Självklart är detta viktiga frågor för riksdagen och regeringen
-          att begrunda, och för riksdagen att i sista hand klargöra, eftersom
-          Riksbanken är "en myndighet under riksdagen" (RF 9 kap. 13 §),
-          medan andra statliga myndigheter, med undantag för Riksrevisionen,
-          lyder under regeringen och kan antas agera på sådant sätt som
-          myndigheten uppfattar ligga i linje med regeringens kortsiktiga
-          mål och långsiktiga ambitioner. En viss ordning och reda måste
-          råda även inom staten.
-        </p>
-        <p xml:id="i-5ugRbbMiUJ8WUn1tjrzm2f">
-          Det är självklart att Riksbankens räntesättning är föremål för
-          kontinuerlig offentlig intensiv debatt och kritik av bankekonomer,
-          forskare, intresseorganisationer, medier, företagsledare och så
-          vidare. Samma sak gäller debatt i de institutionella och konstitutionella
-          frågorna, det vill säga Riksbankens ställning och mål såsom de
-          finns nedlagda i Riksbankslagen och grundlagen. Det är inte denna
-          debatt som denna interpellation avser, naturligtvis.
-        </p>
-        <p xml:id="i-9G8xJxkx9nM4bjxuopfsnB">
-          Låt mig sålunda illustrera med en TT-intervju den 5 november
-          2004 given av en av AMS allra högsta tjänstemän, som får förutsättas
-          tala å denna tunga myndighet och generaldirektörs vägnar:
-        </p>
-        <p xml:id="i-JbtWpDDkVG4hnnjHPJwvjU">
-          "Riksbanken har i praktiken ansvaret för arbetslöshetsnivån,
-          säger (analyschefen vid AMS) Sandro Scocco.
-        </p>
-        <p xml:id="i-YRyozfDXEKGkNHHvWdWTHx">
-          Ams har tidigare kritiserat Riksbanken för att hålla styrräntan
-          för högt. Enligt Ams har det lett till att arbetslösheten blivit
-          onödigt hög och att tiotusentals jobb gått förlorade. . AMS analyschef
-          Sandro Scocco tycker att Riksbanken ska ta hänsyn till arbetslösheten,
-          inte bara till inflationen.
-        </p>
-        <p xml:id="i-5AXw6J9zHRaDPtN1GfEuES">
-          - Riksbanken har i praktiken ansvaret för arbetslöshetsnivån.
-          Man gjorde en oberoende Riksbank just för att regeringar tenderade
-          att inte klara av att ta ansvar för arbetslöshetsnivån, säger
-          Scocco.
-        </p>
-        <p xml:id="i-CRrLsNxhcweKC2YrRcPZyF">
-          Men eftersom Riksbanken bara har ett vapen, styrräntan, kan det
-          bli svårt att välja om banken ska ha flera mål. Vad är viktigast
-          om Riksbanken ser en konflikt mellan arbetslöshetsnivå och inflation?
-        </p>
-        <p xml:id="i-MZvKvwYz6AReqBme4fzBEy">
-          - Inflation, där är det ingen tvetydighet. Hela den här diskussionen
-          handlar om att Riksbanken drivit fram en alltför låg inflation
-          som inte är förenlig med deras mål. Sedan är frågan hur mycket
-          den underskjutningen kostat i form av sysselsättning. De väldigt
-          enkla beräkningar vi gjort på Ams motsvarar ungefär 70 000 personer.
-        </p>
-        <p xml:id="i-LbWAnB8Z8YbCWbshLqDqxZ">
-          Riksbankschefen Villy Bergström är mycket kritisk mot den uträkningen.
-          Enligt Riksbanken skulle det handla om högst några tusen jobb,
-          även om styrräntan låg en hel procentenhet för högt under ett
-          helt år. Scocco vill dock inte kritisera den beräkningen.
-        </p>
-        <p xml:id="i-8Ydmo36R6ctvQmtggpBRAe">
-          - Det är en ren elasticitetsberäkning, men den viktiga frågan
-          är ansvarsfrågan. Om det sedan handlar om 10 000 eller 70 000
-          jobb kan man diskutera i all oändlighet. .
-        </p>
-        <p xml:id="i-HVYbv8uLNtcVexNhUURyYJ">
-          - Jag blir orolig över den argumentation som kommer från Riksbanken
-          när de säger att de inte har ansvar för arbetsmarknaden. Inflationsmålet
-          har en väldig direkt inverkan på arbetslöshetsnivåerna, säger
-          Scocco. "
-        </p>
-        <p xml:id="i-NALVWSptjoCPpDkS5UbzBV">
-          Så långt TT-intervjun.
-        </p>
-        <p xml:id="i-LuVMgELdAnhiAWhBfUp2nT">
-          Om Riksbankens trovärdighet som självständig centralbank kommer
-          i gungning medför detta att en högre styrränta måste tillgripas
-          vid tendenser till att inflationsmålet hotas. Detta gynnar inte
-          sysselsättningen. Det gynnar inte heller en kontinuerlig, snarare
-          en ryckig, stabiliseringspolitik (se till exempel resonemangen
-          i SOU 1993:20 eller standardläroböcker i makroekonomi).
-        </p>
-        <p xml:id="i-XiEKzAuTTNB48pzg9rEd7a">
-          Frågor:
-        </p>
-        <p xml:id="i-AtCSGRTFSeBaiTNkYnpM1B">
-          Avser finansministern att vidtaga några åtgärder för att söka
-          förändra dagens operativa innehåll enligt riksbanklagen 3 § om
-          att "Riksbanken skall inför alla viktiga penningpolitiska beslut
-          informera det statsråd som regeringen utser"?
-        </p>
-        <p xml:id="i-Q8gkS4UcBLh5ReEGDQBWFb">
-          Vilka åtgärder avser finansministern att vidta, till exempel
-          utarbeta riktlinjer, beträffande statliga myndigheters agerande
-          som riskerar att underminera tilltron till Riksbankens mål?
-        </p>
-        <p xml:id="i-AyF3j54ktm7F2bEJkT5t1R">
-          Vilka åtgärder avser finansministern att vidta, till exempel
-          utarbetande av riktlinjer, för att statliga myndigheters agerande
-          inte ska riskera att underminera tilltron till Riksbankens självständiga
-          ställning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3gbKgV534koj5u3uKr6mMu">
+            Denna interpellation rör inte frågan om Riksbankens räntepolitik,
+            eller frågor om den aktuella styrräntan är bra eller dålig. Den
+            här interpellationen rör principerna för statliga myndigheters
+            ifrågasättande av Riksbankens i lag fastlagda mål, självständiga
+            ställning, och förda penningpolitik.
+          </p>
+          <p xml:id="i-FVhqFL6Bzc6PBBtngmsBcq">
+            Interpellationen aktualiseras främst av AMS återkommande kritik
+            av Riksbanken, men gäller vidare än så.
+          </p>
+          <p xml:id="i-3hbxozHq1dhhbbsoBVbz8g">
+            "Ingen myndighet får bestämma hur Riksbanken skall besluta i
+            frågor som rör penningpolitik" står det i rikets grundlag (RF
+            9 kap. 13 §). Är det mot denna bakgrund lämpligt, och inte snarast
+            i strid med tanken med denna föreskrift i grundlagen, att en annan
+            del av staten @ som en statlig myndighet @ återkommande agerar
+            för att genom aktiv opinionsbildning påverka Riksbanken att driva
+            en annorlunda penningpolitik?
+          </p>
+          <p xml:id="i-4us4nWp1b2kHJACGxY7Pdi">
+            "Målet för Riksbankens verksamhet skall vara att upprätthålla
+            ett fast penningvärde" anges det i riksbankslagen (1 kap. 2 §).
+            Målet för Riksbanken får alltså inte vara något annat, till exempel
+            att maximera sysselsättningen eller minimera arbetslösheten. Det
+            blir då en besynnerlig ordning, ägnad att skapa osäkerhet om Riksbankens
+            ställning och mål, om en tung statlig myndighet som AMS återkommande
+            kräver att riksbanken ska ta mera lätt på det mål som Riksbanken
+            i lag av riksdagen är ålagd att styra efter, nämligen fast penningvärde,
+            utan förespråkar att andra, arbetsmarknadsrelaterade, mål bör
+            vara mera styrande för Riksbankens penningpolitik.
+          </p>
+          <p xml:id="i-3CFUTMUQ6EEEbGFZ4pxGvG">
+            Självklart är detta viktiga frågor för riksdagen och regeringen
+            att begrunda, och för riksdagen att i sista hand klargöra, eftersom
+            Riksbanken är "en myndighet under riksdagen" (RF 9 kap. 13 §),
+            medan andra statliga myndigheter, med undantag för Riksrevisionen,
+            lyder under regeringen och kan antas agera på sådant sätt som
+            myndigheten uppfattar ligga i linje med regeringens kortsiktiga
+            mål och långsiktiga ambitioner. En viss ordning och reda måste
+            råda även inom staten.
+          </p>
+          <p xml:id="i-NJw8KJHu9m4k48mX9QTNdh">
+            Det är självklart att Riksbankens räntesättning är föremål för
+            kontinuerlig offentlig intensiv debatt och kritik av bankekonomer,
+            forskare, intresseorganisationer, medier, företagsledare och så
+            vidare. Samma sak gäller debatt i de institutionella och konstitutionella
+            frågorna, det vill säga Riksbankens ställning och mål såsom de
+            finns nedlagda i Riksbankslagen och grundlagen. Det är inte denna
+            debatt som denna interpellation avser, naturligtvis.
+          </p>
+          <p xml:id="i-Kbv35wpVxESUtqVxT3p6ES">
+            Låt mig sålunda illustrera med en TT-intervju den 5 november
+            2004 given av en av AMS allra högsta tjänstemän, som får förutsättas
+            tala å denna tunga myndighet och generaldirektörs vägnar:
+          </p>
+          <p xml:id="i-5wJfyg6dQ9S7STYSYoFqNC">
+            "Riksbanken har i praktiken ansvaret för arbetslöshetsnivån,
+            säger (analyschefen vid AMS) Sandro Scocco.
+          </p>
+          <p xml:id="i-AgBnmFt2ahEHUpGzNHRypo">
+            Ams har tidigare kritiserat Riksbanken för att hålla styrräntan
+            för högt. Enligt Ams har det lett till att arbetslösheten blivit
+            onödigt hög och att tiotusentals jobb gått förlorade. . AMS analyschef
+            Sandro Scocco tycker att Riksbanken ska ta hänsyn till arbetslösheten,
+            inte bara till inflationen.
+          </p>
+          <p xml:id="i-PgBqoFuFbHgRkLYZLmw99X">
+            - Riksbanken har i praktiken ansvaret för arbetslöshetsnivån.
+            Man gjorde en oberoende Riksbank just för att regeringar tenderade
+            att inte klara av att ta ansvar för arbetslöshetsnivån, säger
+            Scocco.
+          </p>
+          <p xml:id="i-GELBjzGp9ZLKi5NoX3CeuY">
+            Men eftersom Riksbanken bara har ett vapen, styrräntan, kan det
+            bli svårt att välja om banken ska ha flera mål. Vad är viktigast
+            om Riksbanken ser en konflikt mellan arbetslöshetsnivå och inflation?
+          </p>
+          <p xml:id="i-Uph98myWtU2WNiBNbtE35d">
+            - Inflation, där är det ingen tvetydighet. Hela den här diskussionen
+            handlar om att Riksbanken drivit fram en alltför låg inflation
+            som inte är förenlig med deras mål. Sedan är frågan hur mycket
+            den underskjutningen kostat i form av sysselsättning. De väldigt
+            enkla beräkningar vi gjort på Ams motsvarar ungefär 70 000 personer.
+          </p>
+          <p xml:id="i-LrZPmHEhYY4ZuD8vRqzDdo">
+            Riksbankschefen Villy Bergström är mycket kritisk mot den uträkningen.
+            Enligt Riksbanken skulle det handla om högst några tusen jobb,
+            även om styrräntan låg en hel procentenhet för högt under ett
+            helt år. Scocco vill dock inte kritisera den beräkningen.
+          </p>
+          <p xml:id="i-WHWWE6RDp7yW41KzqKxcft">
+            - Det är en ren elasticitetsberäkning, men den viktiga frågan
+            är ansvarsfrågan. Om det sedan handlar om 10 000 eller 70 000
+            jobb kan man diskutera i all oändlighet. .
+          </p>
+          <p xml:id="i-Jx5fczkhwydjibRLW5z76W">
+            - Jag blir orolig över den argumentation som kommer från Riksbanken
+            när de säger att de inte har ansvar för arbetsmarknaden. Inflationsmålet
+            har en väldig direkt inverkan på arbetslöshetsnivåerna, säger
+            Scocco. "
+          </p>
+          <p xml:id="i-FKfFPoYPxVNXyavJncWWQM">
+            Så långt TT-intervjun.
+          </p>
+          <p xml:id="i-9WH5CUMVa6LzEsaEpJkxij">
+            Om Riksbankens trovärdighet som självständig centralbank kommer
+            i gungning medför detta att en högre styrränta måste tillgripas
+            vid tendenser till att inflationsmålet hotas. Detta gynnar inte
+            sysselsättningen. Det gynnar inte heller en kontinuerlig, snarare
+            en ryckig, stabiliseringspolitik (se till exempel resonemangen
+            i SOU 1993:20 eller standardläroböcker i makroekonomi).
+          </p>
+          <p xml:id="i-QZja64fsZ9uCGobuCtkt2G">
+            Frågor:
+          </p>
+          <p xml:id="i-NxzoohdNPXuPK4YCh2t4Ly">
+            Avser finansministern att vidtaga några åtgärder för att söka
+            förändra dagens operativa innehåll enligt riksbanklagen 3 § om
+            att "Riksbanken skall inför alla viktiga penningpolitiska beslut
+            informera det statsråd som regeringen utser"?
+          </p>
+          <p xml:id="i-Cydp6jSECsZmV5kvFTzrdh">
+            Vilka åtgärder avser finansministern att vidta, till exempel
+            utarbeta riktlinjer, beträffande statliga myndigheters agerande
+            som riskerar att underminera tilltron till Riksbankens mål?
+          </p>
+          <p xml:id="i-NNmsGDJY7fjRui92vj6sTg">
+            Vilka åtgärder avser finansministern att vidta, till exempel
+            utarbetande av riktlinjer, för att statliga myndigheters agerande
+            inte ska riskera att underminera tilltron till Riksbankens självständiga
+            ställning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

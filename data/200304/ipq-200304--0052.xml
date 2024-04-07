@@ -3,105 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>högkostnadsskyddet för småföretagen</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>högkostnadsskyddet för småföretagen till statsrådet Hans Karlsson om högkostnadsskyddet för småföretagen</title>
+          <idno type="rdwebb">GR1052</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1052/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1052</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1052</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-52oFh4maP2mdSBaDM9AEi6" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2003-10-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-X4XccXjhyq6mfCkX3EdppA">
+          <date when="2003-10-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9JF2WSpE2Zcjmi3e8vwSxV">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Q3qpNKtGzRKrLy4XMWHn9T" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-10-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LcgPY3X81HPxNyzadimgBS" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspContext corresp="i-LcgPY3X81HPxNyzadimgBS">
+          <ref type="record" target="prot-200304--025">Riksdagens protokoll 2003/04:25 Tisdagen den 11 november</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellation 2003/04:52 om högkostnadsskyddet för småföretagen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0052</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>högkostnadsskyddet för småföretagen</topic>
-        <docDate when="2003-10-24">den 24 oktober</docDate>
-        <status when="2003-11-11" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1052</external_id>
-        <debate>
-          <turn when="2003-11-11 20:56:08" duration="157">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 20:58:41" duration="242">Linnéa Darell (Fp)</turn>
-          <turn when="2003-11-11 21:02:40" duration="136">Sven Gunnar Persson (Kd)</turn>
-          <turn when="2003-11-11 21:04:53" duration="270">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 21:09:19" duration="245">Linnéa Darell (Fp)</turn>
-          <turn when="2003-11-11 21:13:20" duration="38">Sven Gunnar Persson (Kd)</turn>
-          <turn when="2003-11-11 21:13:55" duration="206">Hans Karlsson (S)</turn>
-          <turn when="2003-11-11 21:17:18" duration="134">Linnéa Darell (Fp)</turn>
-          <turn when="2003-11-11 21:19:28" duration="107">Hans Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:52 av Linnéa Darell (fp) till statsrådet
-          Hans Karlsson om högkostnadsskyddet för småföretagen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Lqzuw75L5dS1fdvZNyo8GW">
+            Interpellation 2003/04:52 av Linnéa Darell (fp) till statsrådet
+            Hans Karlsson om högkostnadsskyddet för småföretagen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-3PwFQzmSqefkpc6d6dTYXS">
+            den 24 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JX3w2Rto7GFwgtYhtuNZwb">
-          I samband med riksdagens beslut om införandet av den tredje sjuklöneveckan
-          utlovades också ett högkostnadsskydd för småföretagen. Lagrådet
-          gav rådet att avvakta med beslutet i väntan på EU-kommissionens
-          utlåtande över förslaget. En riksdagsmajoritet valde ändå att
-          ta beslutet trots oklarhet kring huruvida högkostnadsskyddet skulle
-          godkännas eller icke. Sedan dess har ett antal skriftväxlingar
-          ägt rum, såvitt man kan utläsa ur olika referat.
-        </p>
-        <p xml:id="i-49UScnJPFRCvNgbNkJokwz">
-          Fortfarande synes det oklart om riksdagens beslut att införa
-          ett högkostnadsskydd för småföretagen kan genomföras. För att
-          övertyga EU-kommissionen tycks nu regeringen beskriva det beslutade
-          högkostnadsskyddet som en tillfällig åtgärd. Motivet skulle vara
-          att ett nytt sjuklönesystem ska träda i kraft årsskiftet 2004/05
-          och att ett högkostnadsskydd för småföretagen då blir överflödigt.
-          Allt enligt referat i tidskriften Från Riksdag och Departement.
-          Den nyligen framlagda budgetpropositionen är fattig på upplysningar
-          i ämnet, men på andra vägar kan det alltså komma fram till riksdagen
-          vad regeringen tycks hålla på med när det gäller såväl fattade
-          beslut som planerade åtgärder.
-        </p>
-        <p xml:id="i-GRBiJH1ACTquoh8xzBjBvb">
-          Vid beslutet våren 2003 om högkostnadsskyddet förutsattes att
-          regeringen skulle efterhöra EU-kommissionens utlåtande och, om
-          möjligt, få ett godkännande av det beslut som riksdagen tog i
-          juni 2003. Det är då så mycket mer märkligt att regeringen i sitt
-          svar till Bryssel tar ut inteckningar i beslut, som riksdagen
-          eventuellt kan komma att fatta under kommande år, men som regeringen
-          inte kan veta om riksdagen är beredd att godkänna. Vilket nytt,
-          och för riksdagen okänt, system för sjuklön har regeringen redovisat
-          till EU-kommissionen? Inte heller har riksdagen fått något besked
-          om regeringen nu bedömer det som möjligt eller omöjligt att verkställa
-          riksdagens beslut om införande av högkostnadsskydd för småföretagen.
-        </p>
-        <p xml:id="i-4cT1AHhKAeVibd393bMwZe">
-          Mot denna bakgrund vill jag fråga statsrådet Hans Karlsson:
-        </p>
-        <p xml:id="i-mjWMLEXFWwJGqodz9NHYc">
-          Kommer statsrådet att snarast redovisa för riksdagen vad det
-          är för planerade åtgärder regeringen till EU använt som skäl för
-          att högkostnadsskydd för småföretag åtminstone tillfälligt ska
-          godtas?
-        </p>
-        <p xml:id="i-6dPBgomEd8JYJodDywXoPo">
-          Kommer statsrådet att verka för ett förslag till riksdagen i
-          höst om ändringar i beslutet från juni om tredje sjuklönevecka
-          och högkostnadsskydd?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3pNTeJo7vZbs2AXaGdxdgZ">
+            I samband med riksdagens beslut om införandet av den tredje sjuklöneveckan
+            utlovades också ett högkostnadsskydd för småföretagen. Lagrådet
+            gav rådet att avvakta med beslutet i väntan på EU-kommissionens
+            utlåtande över förslaget. En riksdagsmajoritet valde ändå att
+            ta beslutet trots oklarhet kring huruvida högkostnadsskyddet skulle
+            godkännas eller icke. Sedan dess har ett antal skriftväxlingar
+            ägt rum, såvitt man kan utläsa ur olika referat.
+          </p>
+          <p xml:id="i-RvUg9Mo8XFiRn8j9aP2hkx">
+            Fortfarande synes det oklart om riksdagens beslut att införa
+            ett högkostnadsskydd för småföretagen kan genomföras. För att
+            övertyga EU-kommissionen tycks nu regeringen beskriva det beslutade
+            högkostnadsskyddet som en tillfällig åtgärd. Motivet skulle vara
+            att ett nytt sjuklönesystem ska träda i kraft årsskiftet 2004/05
+            och att ett högkostnadsskydd för småföretagen då blir överflödigt.
+            Allt enligt referat i tidskriften Från Riksdag och Departement.
+            Den nyligen framlagda budgetpropositionen är fattig på upplysningar
+            i ämnet, men på andra vägar kan det alltså komma fram till riksdagen
+            vad regeringen tycks hålla på med när det gäller såväl fattade
+            beslut som planerade åtgärder.
+          </p>
+          <p xml:id="i-RReiqmbDpbRx4BVPKCQUMG">
+            Vid beslutet våren 2003 om högkostnadsskyddet förutsattes att
+            regeringen skulle efterhöra EU-kommissionens utlåtande och, om
+            möjligt, få ett godkännande av det beslut som riksdagen tog i
+            juni 2003. Det är då så mycket mer märkligt att regeringen i sitt
+            svar till Bryssel tar ut inteckningar i beslut, som riksdagen
+            eventuellt kan komma att fatta under kommande år, men som regeringen
+            inte kan veta om riksdagen är beredd att godkänna. Vilket nytt,
+            och för riksdagen okänt, system för sjuklön har regeringen redovisat
+            till EU-kommissionen? Inte heller har riksdagen fått något besked
+            om regeringen nu bedömer det som möjligt eller omöjligt att verkställa
+            riksdagens beslut om införande av högkostnadsskydd för småföretagen.
+          </p>
+          <p xml:id="i-FoTajwnmBJXaX5VSEmyJMT">
+            Mot denna bakgrund vill jag fråga statsrådet Hans Karlsson:
+          </p>
+          <p xml:id="i-L9BDv6at178VNpQQ2bRFoq">
+            Kommer statsrådet att snarast redovisa för riksdagen vad det
+            är för planerade åtgärder regeringen till EU använt som skäl för
+            att högkostnadsskydd för småföretag åtminstone tillfälligt ska
+            godtas?
+          </p>
+          <p xml:id="i-FSA4ygbQt9e8BhxJnybpxa">
+            Kommer statsrådet att verka för ett förslag till riksdagen i
+            höst om ändringar i beslutet från juni om tredje sjuklönevecka
+            och högkostnadsskydd?
+          </p>
+        </div>
       </div>
     </body>
   </text>

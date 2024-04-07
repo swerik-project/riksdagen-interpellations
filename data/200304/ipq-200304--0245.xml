@@ -3,91 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>treterminssystem vid högskolan</title>
+        <author>Nilsson, Ulf (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>treterminssystem vid högskolan till utbildningsminister Thomas Östros om treterminssystem vid högskolan</title>
+          <idno type="rdwebb">GR10245</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10245/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10245</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10245</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
+            <persName>Ulf Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-BiWW35NRnHyox4BZWRSAHh" corresp="i-nX9ipUS8FhkbQHkWWytwf">
+          <date when="2004-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HNrhHpNQNyerTFC2u5rQWP">
+          <date when="2004-01-27"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NH6zuEPEwy8obFEuAmcxiL">
+          <date when="2004-02-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-L7aPwVmhw1mwULE2WVDg7L" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-01-27"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7iZV3eohRJ1zrfu8e9QRiW" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-02-05"/>
+        </correspAction>
+        <correspContext corresp="i-7iZV3eohRJ1zrfu8e9QRiW">
+          <ref type="record" target="prot-200304--064">Riksdagens protokoll 2003/04:64 Torsdagen den 5 februari</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:245 om treterminssystem vid högskolan</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0245</head>
-        <author who="i-nX9ipUS8FhkbQHkWWytwf">Ulf Nilsson</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>treterminssystem vid högskolan</topic>
-        <docDate when="2004-01-26">den 26 januari</docDate>
-        <status when="2004-02-05" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10245</external_id>
-        <debate>
-          <turn when="2022-01-01 01:00:00" duration="100" who="d7c31fc6-83e4-1111-ae60-0050040c9b55">Anf</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:245 av Ulf Nilsson (fp) till utbildningsminister
-          Thomas Östros om treterminssystem vid högskolan
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5Bi7nyp4drBUD3xzmMqxbW">
+            Interpellation 2003/04:245 av Ulf Nilsson (fp) till utbildningsminister
+            Thomas Östros om treterminssystem vid högskolan
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WZEED1v6YYuwPfS5FmvHMU">
+            den 26 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ACyCiChAy6DvWFcwvdWq1f">
-          Under många år har frågan om treterminssystem vid högskolan diskuterats.
-          Studentföreträdare har i olika sammanhang uttryckt önskemål om
-          att ändra den nuvarande svenska terminsindelningen, som har ett
-          nästan tre månaders studieuppehåll. Visserligen anordnar högskolorna
-          ibland sommarkurser, men dessa är ofta fristående kurser som inte
-          passar till studenternas ordinarie studier för examen.
-        </p>
-        <p xml:id="i-LUZaonGctvRthFqQN9ngAW">
-          Nackdelarna med dagens terminsindelning är uppenbara. En nackdel
-          är den onödigt långa studietiden. Svenska studenter tar mycket
-          lång tid på sig genom utbildningssystemet, jämfört med andra europeiska
-          studenter. I dag uppnår 15 % av studenterna 120 poäng på den beräknade
-          normaltiden tre år. Det finns olika orsaker till detta, men en
-          uppenbar anledning är just terminsindelningen, som gör det omöjligt
-          att drastiskt förkorta studietiden. En annan nackdel med ett långt
-          sommaruppehåll är problemen för studenterna att hitta en försörjning.
-          I högskolestäderna lever periodvis många studenter på socialbidrag
-          under sommarmånaderna.
-        </p>
-        <p xml:id="i-R62KDe79xv7HqMvmNJECig">
-          Ett system med tre terminer skulle innebära att studenten får
-          större möjlighet att själv bestämma hur långt studieuppehåll han
-          eller hon vill ha. Den som önskar ett längre studieuppehåll utan
-          studiemedel skulle då kunna välja att stå över en termin och i
-          stället ta upp studierna nästa termin.
-        </p>
-        <p xml:id="i-9yijpdH2tUMSkSP2ZQXEKr">
-          Högskolorna har i dag formell rätt att ändra terminsindelningen.
-          I verkligheten sker dock inte detta, eftersom högskolorna inte
-          vill genomföra en så stor förändring utan aktivt stöd av regeringen.
-          Om ett nytt system infördes borde en utredning följa utvecklingen
-          och utvärdera följderna för studieresultat, studieekonomi och
-          lärarnas arbetsbelastning. Lämpligt vore inledningsvis att några
-          högskolor fick bedriva en försöksverksamhet som följdes noga av
-          Utbildningsdepartementet. Utbildningsministern har uttalat sympati
-          för tanken att införa ett treterminssystem. Däremot har ännu inte
-          några konkreta förslag kommit från regeringen.
-        </p>
-        <p xml:id="i-VJLL8azZ2DSTwAHCnTsno9">
-          Avser utbildningsministern att vidta några åtgärder för att underlätta
-          försöksverksamhet med treterminssystem vid svenska högskolor?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-YFLkFfsQV4f9j5VPUjoU8Z">
+            Under många år har frågan om treterminssystem vid högskolan diskuterats.
+            Studentföreträdare har i olika sammanhang uttryckt önskemål om
+            att ändra den nuvarande svenska terminsindelningen, som har ett
+            nästan tre månaders studieuppehåll. Visserligen anordnar högskolorna
+            ibland sommarkurser, men dessa är ofta fristående kurser som inte
+            passar till studenternas ordinarie studier för examen.
+          </p>
+          <p xml:id="i-WSaCcG6bG8T84EvXJ6ZtXh">
+            Nackdelarna med dagens terminsindelning är uppenbara. En nackdel
+            är den onödigt långa studietiden. Svenska studenter tar mycket
+            lång tid på sig genom utbildningssystemet, jämfört med andra europeiska
+            studenter. I dag uppnår 15 % av studenterna 120 poäng på den beräknade
+            normaltiden tre år. Det finns olika orsaker till detta, men en
+            uppenbar anledning är just terminsindelningen, som gör det omöjligt
+            att drastiskt förkorta studietiden. En annan nackdel med ett långt
+            sommaruppehåll är problemen för studenterna att hitta en försörjning.
+            I högskolestäderna lever periodvis många studenter på socialbidrag
+            under sommarmånaderna.
+          </p>
+          <p xml:id="i-Tc88cbG4fdgRik27tj7ovC">
+            Ett system med tre terminer skulle innebära att studenten får
+            större möjlighet att själv bestämma hur långt studieuppehåll han
+            eller hon vill ha. Den som önskar ett längre studieuppehåll utan
+            studiemedel skulle då kunna välja att stå över en termin och i
+            stället ta upp studierna nästa termin.
+          </p>
+          <p xml:id="i-BjWFYHAZqdwubjC6jbnfcD">
+            Högskolorna har i dag formell rätt att ändra terminsindelningen.
+            I verkligheten sker dock inte detta, eftersom högskolorna inte
+            vill genomföra en så stor förändring utan aktivt stöd av regeringen.
+            Om ett nytt system infördes borde en utredning följa utvecklingen
+            och utvärdera följderna för studieresultat, studieekonomi och
+            lärarnas arbetsbelastning. Lämpligt vore inledningsvis att några
+            högskolor fick bedriva en försöksverksamhet som följdes noga av
+            Utbildningsdepartementet. Utbildningsministern har uttalat sympati
+            för tanken att införa ett treterminssystem. Däremot har ännu inte
+            några konkreta förslag kommit från regeringen.
+          </p>
+          <p xml:id="i-7feKTpGfrw5Js7szQ4MWVu">
+            Avser utbildningsministern att vidta några åtgärder för att underlätta
+            försöksverksamhet med treterminssystem vid svenska högskolor?
+          </p>
+        </div>
       </div>
     </body>
   </text>
