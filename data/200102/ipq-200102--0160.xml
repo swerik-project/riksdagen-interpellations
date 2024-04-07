@@ -3,113 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>flyktingar från Bosnien</title>
+        <author>Larsson, Maria (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>flyktingar från Bosnien till utrikesminister Anna Lindh om flyktingar från Bosnien</title>
+          <idno type="rdwebb">GP10160</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GP10160/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GP10160</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GP10160</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Larsson, Maria (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <persName>utrikesminister Anna Lindh </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3MwbJPjHpsScrukDj5ohhN</idno>
+            <persName>statsrådet Jan O Karlsson </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-7h9kYvtSLQcYcWd9cCngHh" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
+          <date when="2002-01-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GcADADjDQK2XMSHNPj7B89" corresp="i-3MwbJPjHpsScrukDj5ohhN">
+          <date when="2002-01-24"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-Kz7xeF2eRnyz2RvYc5Czh" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
+          <date when="2001-12-27"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200102--0160</head>
-        <author who="i-SKjAmNScZ7eZ3a8Xy1J8hs">Larsson, Maria (kd) </author>
-        <recipient who="i-S7LcGmD5NuSMrFDW8LBeJ1">utrikesminister Anna Lindh </recipient>
-        <topic>flyktingar från Bosnien</topic>
-        <docDate when="2001-12-27">den 27 december</docDate>
-        <status when="2002-01-24" byWhom="statsrådet Jan O Karlsson " byWhomId="i-3MwbJPjHpsScrukDj5ohhN" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP10160</external_id>
-        <debate>
-          <turn when="2002-01-24 19:25:56" duration="394">Statsråd Jan O Karlsson (S)</turn>
-          <turn when="2002-01-24 19:32:27" duration="181">Rosita Runegrund (Kd)</turn>
-          <turn when="2002-01-24 19:35:25" duration="239">Statsråd Jan O Karlsson (S)</turn>
-          <turn when="2002-01-24 19:39:21" duration="128">Rosita Runegrund (Kd)</turn>
-          <turn when="2002-01-24 19:41:25" duration="238">Statsråd Jan O Karlsson (S)</turn>
-          <turn when="2002-01-24 19:45:19" duration="143">Rosita Runegrund (Kd)</turn>
-          <turn when="2002-01-24 19:47:39" duration="155">Statsråd Jan O Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2001/02:160 av Maria Larsson (kd) till utrikesminister
-          Anna Lindh om flyktingar från Bosnien
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-8MTvWg7Cq3hFucX98bt6TM">
+            Interpellation 2001/02:160 av Maria Larsson (kd) till utrikesminister
+            Anna Lindh om flyktingar från Bosnien
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-BwjeSCgq4pW5zwsVpHxp3W">
+            den 27 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-VNGAmXQ6kKxZvQamexk2nf">
-          I Bosnien råder nu formellt fred. Det är flera år sedan fredsavtalet
-          slöts i Dayton.
-        </p>
-        <p xml:id="i-RQAEoJaJPNhAdASF1SHpqD">
-          Regeringen beslöt 29 juni 2000 att minoritetsbosnier i vissa
-          fall kan återvända då en tillfredsställande säkerhetsnivå finns.
-          "Fortsättningsvis bör personer som, när de lämnade Bosnien-Herzegovina,
-          var bosatta i ett sådant minoritetsområde inte generellt ges uppehållstillstånd."
-          Vidare sägs i Migrationsverkets bedömningsunderlag "Personer som
-          inte kan återvända till sina ursprungsorter kan i och för sig
-          finna en fristad inom stora delar av Bosnien-Hercegovina. Den
-          ökade stabiliteten i Bosnien-Hercegovina tillsammans med att freden
-          har befästs under den långa tid som gått sedan Dayton-överenskommelsen
-          leder till att Bosnien-Hercegovina i och för sig kan betraktas
-          som ett land i strikt flyktingsrättsligt perspektiv. Situationen
-          är numera inte sådan att den ger grund för skydd enligt 3 kap
-          2 § eller 3 § i utlänningslagen. Snarare är skälen förbundna med
-          Sveriges önskan att inte försvåra genomförande av Daytonöverenskommelsen
-          och därmed av politiskt-humanitärt slag. För personer som ursprungligen
-          kommer från orter där den egna etniska gruppen är i minoritet
-          kan råda en situation som är av sådant slag att den utgör grund
-          för att bevilja uppehållstillstånd i Sverige av humanitära skäl.
-          Förhållandena för de personer som lever som internflyktingar måste
-          lösas inom landet."
-        </p>
-        <p xml:id="i-WAJ2Kk8CQtbj9tQY4jmTEE">
-          Flera människorättsorganisationer kommer med alarmerande rapporter
-          om situationen i Bosnien. Återuppbyggnaden står still och etnisk
-          fiendskap finns kvar. Förra året fanns 800 000 internflyktingar
-          i landet. Återvändande, som ej var i landet under kriget, upplever
-          sig trakasserade och klart diskriminerade vad gäller att få arbete
-          och bostad.
-        </p>
-        <p xml:id="i-6rySySpk5RpTDwVzc3sbg8">
-          Trots att kriget nu är över i Bosnien och Hercegovina, har under
-          de två senaste åren mer än 5 000 män, kvinnor och barn kommit
-          till Sverige, och ansökt om permanent uppehållstillstånd. De flesta
-          är bosniska muslimer men några är romer. Många av dem har posttraumatiska
-          stressymtom och är i behov av psykisk vård. I Jönköpings län är
-          trycket stort på samtliga psykmottagningar från asylsökande bosnier.
-          På en mottagning uppges att en tredjedel av samtliga vårdsökande
-          är bosnier.
-        </p>
-        <p xml:id="i-W1otC95WDDYMZPjNSTsmiK">
-          En del av de bosnier som kom förra året har redan återvänt. Flertalet
-          har fått avslag med standardformulering: De har inte skyddsbehov
-          därför att återuppbyggnaden pågår enligt Daytonavtalets riklinjer.
-          Mycket talar för att det inte längre är relevant att åberopa Daytonavtalet
-          då dess riktlinjer uppenbarligen inte längre följs.
-        </p>
-        <p xml:id="i-2b7JNYCGEgJ3cQemDDvKoy">
-          Med hänvisning till det anförda vill jag ställa följande fråga
-          till utrikesminister Anna Lindh:
-        </p>
-        <p xml:id="i-Ja5A8SwwXvdhiRmKiAFEwk">
-          Avser statsrådet förändra den svenska regeringens hållning till
-          flyktingar från Bosnien?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-N6zuho8XyLQsixXX37RwFp">
+            I Bosnien råder nu formellt fred. Det är flera år sedan fredsavtalet
+            slöts i Dayton.
+          </p>
+          <p xml:id="i-XvUVgshm19APh28NMffuTz">
+            Regeringen beslöt 29 juni 2000 att minoritetsbosnier i vissa
+            fall kan återvända då en tillfredsställande säkerhetsnivå finns.
+            "Fortsättningsvis bör personer som, när de lämnade Bosnien-Herzegovina,
+            var bosatta i ett sådant minoritetsområde inte generellt ges uppehållstillstånd."
+            Vidare sägs i Migrationsverkets bedömningsunderlag "Personer som
+            inte kan återvända till sina ursprungsorter kan i och för sig
+            finna en fristad inom stora delar av Bosnien-Hercegovina. Den
+            ökade stabiliteten i Bosnien-Hercegovina tillsammans med att freden
+            har befästs under den långa tid som gått sedan Dayton-överenskommelsen
+            leder till att Bosnien-Hercegovina i och för sig kan betraktas
+            som ett land i strikt flyktingsrättsligt perspektiv. Situationen
+            är numera inte sådan att den ger grund för skydd enligt 3 kap
+            2 § eller 3 § i utlänningslagen. Snarare är skälen förbundna med
+            Sveriges önskan att inte försvåra genomförande av Daytonöverenskommelsen
+            och därmed av politiskt-humanitärt slag. För personer som ursprungligen
+            kommer från orter där den egna etniska gruppen är i minoritet
+            kan råda en situation som är av sådant slag att den utgör grund
+            för att bevilja uppehållstillstånd i Sverige av humanitära skäl.
+            Förhållandena för de personer som lever som internflyktingar måste
+            lösas inom landet."
+          </p>
+          <p xml:id="i-R9kSdX8carBjmzWNzNXfzj">
+            Flera människorättsorganisationer kommer med alarmerande rapporter
+            om situationen i Bosnien. Återuppbyggnaden står still och etnisk
+            fiendskap finns kvar. Förra året fanns 800 000 internflyktingar
+            i landet. Återvändande, som ej var i landet under kriget, upplever
+            sig trakasserade och klart diskriminerade vad gäller att få arbete
+            och bostad.
+          </p>
+          <p xml:id="i-SNXJQeFjkgEsSDFsMgAXLM">
+            Trots att kriget nu är över i Bosnien och Hercegovina, har under
+            de två senaste åren mer än 5 000 män, kvinnor och barn kommit
+            till Sverige, och ansökt om permanent uppehållstillstånd. De flesta
+            är bosniska muslimer men några är romer. Många av dem har posttraumatiska
+            stressymtom och är i behov av psykisk vård. I Jönköpings län är
+            trycket stort på samtliga psykmottagningar från asylsökande bosnier.
+            På en mottagning uppges att en tredjedel av samtliga vårdsökande
+            är bosnier.
+          </p>
+          <p xml:id="i-5wyrBDiCJ5nQZx3CDL1GxB">
+            En del av de bosnier som kom förra året har redan återvänt. Flertalet
+            har fått avslag med standardformulering: De har inte skyddsbehov
+            därför att återuppbyggnaden pågår enligt Daytonavtalets riklinjer.
+            Mycket talar för att det inte längre är relevant att åberopa Daytonavtalet
+            då dess riktlinjer uppenbarligen inte längre följs.
+          </p>
+          <p xml:id="i-TMNmHzvY9Ch6g8ZsxeYtoL">
+            Med hänvisning till det anförda vill jag ställa följande fråga
+            till utrikesminister Anna Lindh:
+          </p>
+          <p xml:id="i-YMKw5zqRK2Y2ZkryAfJuF1">
+            Avser statsrådet förändra den svenska regeringens hållning till
+            flyktingar från Bosnien?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,65 +3,99 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>studentinflytande</title>
+        <author>Axén, Gunnar (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>studentinflytande till utbildningsminister Thomas Östros om studentinflytande</title>
+          <idno type="rdwebb">GO1060</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO1060/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO1060</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO1060</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
+            <persName>Axén, Gunnar (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-F5vpgbun61M7PwwDxdW869" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-11-07"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RZmYo2DtuSG6TsTYBSaKhx" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-11-28"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-LtqMaBK93vQVg9Pz6saEKk" corresp="i-W6BJ44rcZjp5pD28NhHrCf">
+          <date when="2000-10-24"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0060</head>
-        <author who="i-W6BJ44rcZjp5pD28NhHrCf">Axén, Gunnar (m) </author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">utbildningsminister Thomas Östros </recipient>
-        <topic>studentinflytande</topic>
-        <docDate when="2000-10-24">den 24 oktober</docDate>
-        <status when="unknown" byWhom="utbildningsminister Thomas Östros " byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO1060</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:60 av Gunnar Axén (m) till utbildningsminister
-          Thomas Östros om studentinflytande
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JjwKq4FA86sNd4ayK6M9zV">
+            Interpellation 2000/01:60 av Gunnar Axén (m) till utbildningsminister
+            Thomas Östros om studentinflytande
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-5VHa3UmppPnrMzB7VSa8sf">
+            den 24 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SXThFZowhdivS3EomquRpr">
-          Jag menar att det är principiellt felaktigt att någon tvingas
-          till medlemskap i någon organisation.
-        </p>
-        <p xml:id="i-JfFeByPvfzjMossnK1aCMq">
-          Argumenten mot kårobligatoriet är väl kända. Kårobligatoriet
-          innebär att studentkårerna inte kan verka med en fungerande legitimitet.
-          Valdeltagandet i kårvalen har också nått extremt låga nivåer.
-          Jag menar att ett avvecklande av obligatoriet inte bara skulle
-          vara principiellt riktigt utan även ge det organiserade studentfackliga
-          arbetet en nödvändig vitamininjektion.
-        </p>
-        <p xml:id="i-W88MLWduMXKrEsBYVtMLxP">
-          Det obligatoriska medlemskapet har inte varit till fördel för
-          en aktiv studentfacklig verksamhet.
-        </p>
-        <p xml:id="i-LtqnwQszWPmZLeS4dYGJFu">
-          Vad avser utbildningsministern vidta för åtgärder för att avskaffa
-          kårobligatoriet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9zH5zDJiF42icLN5KGEcQ9">
+            Jag menar att det är principiellt felaktigt att någon tvingas
+            till medlemskap i någon organisation.
+          </p>
+          <p xml:id="i-QKTfALakcfzR7qK4gGtA83">
+            Argumenten mot kårobligatoriet är väl kända. Kårobligatoriet
+            innebär att studentkårerna inte kan verka med en fungerande legitimitet.
+            Valdeltagandet i kårvalen har också nått extremt låga nivåer.
+            Jag menar att ett avvecklande av obligatoriet inte bara skulle
+            vara principiellt riktigt utan även ge det organiserade studentfackliga
+            arbetet en nödvändig vitamininjektion.
+          </p>
+          <p xml:id="i-2Yr7pCuGBMjrjSVcbVy9nS">
+            Det obligatoriska medlemskapet har inte varit till fördel för
+            en aktiv studentfacklig verksamhet.
+          </p>
+          <p xml:id="i-WBaQkghkc6FbRwNYY1m8qE">
+            Vad avser utbildningsministern vidta för åtgärder för att avskaffa
+            kårobligatoriet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

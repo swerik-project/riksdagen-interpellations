@@ -3,66 +3,100 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>uppehållstillstånd</title>
+        <author>Lindblad, Göran (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>uppehållstillstånd till statsrådet Maj-Inger Klingvall om uppehållstillstånd</title>
+          <idno type="rdwebb">GO10108</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO10108/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO10108</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO10108</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
+            <persName>Lindblad, Göran (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <persName>statsrådet Maj-Inger Klingvall </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <persName>statsrådet Maj-Inger Klingvall </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-4FeUV5n2zbGfuyTfKvk81j" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
+          <date when="2000-11-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Dgj7EZCTDCNset794u9pHm" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
+          <date when="2000-11-27"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-8TLsccPdkynC17mbbXNyKo" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
+          <date when="2000-11-13"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0108</head>
-        <author who="i-KdNZEf7wb1MAJv58QEHYrr">Lindblad, Göran (m) </author>
-        <recipient who="i-NxhWABYZtDAg5RbsxD7VBv">statsrådet Maj-Inger Klingvall </recipient>
-        <topic>uppehållstillstånd</topic>
-        <docDate when="2000-11-13">den 13 november</docDate>
-        <status when="unknown" byWhom="statsrådet Maj-Inger Klingvall " byWhomId="i-NxhWABYZtDAg5RbsxD7VBv" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO10108</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:108 av Göran Lindblad (m) till statsrådet
-          Maj-Inger Klingvall om uppehållstillstånd
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-RtNzWMUD8df6FXumLkBhLY">
+            Interpellation 2000/01:108 av Göran Lindblad (m) till statsrådet
+            Maj-Inger Klingvall om uppehållstillstånd
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-D2LWGqP8y8np9SkWP1LL3n">
+            den 13 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-T2i4hnHUqKWfzfVv1okxSP">
-          I dag måste flyktingar som har fått arbete i Sverige åka utomlands
-          för att söka uppehållstillstånd. Av utlänningslagen framgår att
-          "en utlänning som vill ha uppehållstillstånd i Sverige skall ha
-          utverkat ett sådant tillstånd före inresan i landet. En ansökan
-          om uppehållstillstånd får inte bifallas efter inresan". Denna
-          huvudregel medger dock undantag om "synnerliga skäl" föreligger.
-        </p>
-        <p xml:id="i-TUjGhZxgCRH9KQnRFYYk8J">
-          Eftersom Sverige lider brist på kvalificerad arbetskraft, och
-          statsrådets kollega Mona Sahlin uttryckt sin frustration över
-          att högutbildade invandrare kör taxi, finns således utrymme för
-          bistånds- och migrationsministern att hjälpa flyktingar in på
-          arbetsmarknaden i Sverige.
-        </p>
-        <p xml:id="i-6KEUPeZ8iW5EBXzY6RUY2S">
-          Med anledning av vad som ovan anförs vill jag fråga vad statsrådet
-          avser att vidta för åtgärder för att flyktingar lättare ska komma
-          in på arbetsmarknaden genom att låta dem söka uppehållstillstånd
-          i Sverige utan utlandsvistelse.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-SxPyEBkETnhXNNKAZ3MUEu">
+            I dag måste flyktingar som har fått arbete i Sverige åka utomlands
+            för att söka uppehållstillstånd. Av utlänningslagen framgår att
+            "en utlänning som vill ha uppehållstillstånd i Sverige skall ha
+            utverkat ett sådant tillstånd före inresan i landet. En ansökan
+            om uppehållstillstånd får inte bifallas efter inresan". Denna
+            huvudregel medger dock undantag om "synnerliga skäl" föreligger.
+          </p>
+          <p xml:id="i-5nSpaZ8WHjAkwxPj1DZS8u">
+            Eftersom Sverige lider brist på kvalificerad arbetskraft, och
+            statsrådets kollega Mona Sahlin uttryckt sin frustration över
+            att högutbildade invandrare kör taxi, finns således utrymme för
+            bistånds- och migrationsministern att hjälpa flyktingar in på
+            arbetsmarknaden i Sverige.
+          </p>
+          <p xml:id="i-DwYzTauLQBQ5nEmKUr7cFD">
+            Med anledning av vad som ovan anförs vill jag fråga vad statsrådet
+            avser att vidta för åtgärder för att flyktingar lättare ska komma
+            in på arbetsmarknaden genom att låta dem söka uppehållstillstånd
+            i Sverige utan utlandsvistelse.
+          </p>
+        </div>
       </div>
     </body>
   </text>
