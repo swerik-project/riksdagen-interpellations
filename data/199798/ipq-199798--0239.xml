@@ -3,66 +3,90 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>MAI-avtalet</title>
+        <author>Yvonne Ruwaida (mp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:239 av Yvonne Ruwaida (mp) till miljöministern om MAI-avtalet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_242.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Yvonne Ruwaida (mp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>mp</desc>
+            </state>
+            <idno>i-C44sMEE9ocAndjedeN9fLp</idno>
+          </person>
+          <person>
+            <persName>miljöministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-S5H8LPRvXy2737qaoBXxd2" corresp="i-C44sMEE9ocAndjedeN9fLp">
+          <date when="1997-03-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-7ourKWHp33YCW6bVotWKSm">
+          <note>date unknown</note>
+          <name>miljöministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-5u3mVP5CLaJCFBJx5m4XU7">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MUnfk6mptnosxHg3fGTfGy">
+          <date when="1997-03-27"/>
+        </correspAction>
+        <correspContext corresp="i-MUnfk6mptnosxHg3fGTfGy">
+          <ref type="record" target="prot-199798--088">Prot. 1997/98:88</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:239</head>
-        <author who="i-C44sMEE9ocAndjedeN9fLp">Yvonne Ruwaida (mp)</author>
-        <minister who="unknown">miljöministern</minister>
-        <topic>MAI-avtalet</topic>
-        <docDate when="1998-03-19">Inkom den 19 mars</docDate>
-        <status inProtocol="199798/prot-199798--088.xml" when="1998-03-27" status="answered">Besvarad den 27 mars, Prot. 1997/98:88</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:239 av Yvonne Ruwaida (mp) till miljöministern
-          om MAI-avtalet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 19 marsBesvarad den 27 mars Prot. 1997/98:88
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Mh2vWk2cwGnaek4YMSTDzM">
+            Interpellation 1997/98:239 av Yvonne Ruwaida (mp) till miljöministern
+            om MAI-avtalet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-DhfWVrU5jLVD85tSK8Sw4x">
+            Inkom den 19 mars : Besvarad den 27 mars Prot. 1997/98:88
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-9QYTYfvXYJngo5amMR3XvL">
-          Regeringen talar om en ekologiskt hållbar utveckling. För att
-          kunna åstadkomma en ekologiskt hållbar utveckling måste olika
-          länder ha möj­ligheten att driva en egen miljöpolitik. MAI, det
-          multinationella investe­ringsavtal som regerings- och näringslivsrepresentanter
-          i OECD-ländema arbetat med innebär enligt uppgifter att regeringen
-          i ett land kan bli ska- deståndsskyldig om ett land bryter mot
-          bestämmelserna i MAI. T.ex. om Sverige inför miljöskydd med anledning
-          av ny forskning så skall ett före­tag som investerat i Sverige
-          kunna väcka en tvist mot staten Sverige. Det absurda är att MAI-avtalet
-          innebär att demokratiskt fattade beslut kan leda till skadeståndskrav
-          mot stater.
-        </p>
-        <p xml:id="i-92LWn1xoAJJcdzvDiX8JeZ">
-          Avser regeringen att avstå från att skriva under MAI-avtalet
-          om avta­let innebär att olika länder blir skadeståndsskyldiga
-          gentemot företag när dessa länder demokratiskt tar politiska beslut?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_243.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JQFssG9ixLb3DdYM8tmUyd">
+            Regeringen talar om en ekologiskt hållbar utveckling. För att
+            kunna åstadkomma en ekologiskt hållbar utveckling måste olika
+            länder ha möj­ligheten att driva en egen miljöpolitik. MAI, det
+            multinationella investe­ringsavtal som regerings- och näringslivsrepresentanter
+            i OECD-ländema arbetat med innebär enligt uppgifter att regeringen
+            i ett land kan bli ska- deståndsskyldig om ett land bryter mot
+            bestämmelserna i MAI. T.ex. om Sverige inför miljöskydd med anledning
+            av ny forskning så skall ett före­tag som investerat i Sverige
+            kunna väcka en tvist mot staten Sverige. Det absurda är att MAI-avtalet
+            innebär att demokratiskt fattade beslut kan leda till skadeståndskrav
+            mot stater.
+          </p>
+          <p xml:id="i-5GP4DLfCWRaef1EG8cH1Mn">
+            Avser regeringen att avstå från att skriva under MAI-avtalet
+            om avta­let innebär att olika länder blir skadeståndsskyldiga
+            gentemot företag när dessa länder demokratiskt tar politiska beslut?
+          </p>
+        </div>
       </div>
     </body>
   </text>

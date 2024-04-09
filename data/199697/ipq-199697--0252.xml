@@ -3,81 +3,105 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>lobbyverksamhet</title>
+        <author>Göthe Knutson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:252 av Göthe Knutson (m) till kommunika­tionsministern om lobbyverksamhet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_252.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Göthe Knutson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-V193Sbzem4fs1MBp32cuww</idno>
+          </person>
+          <person>
+            <persName>kommunika­tionsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-3L3PK2fe7o58vNAnysygwA" corresp="i-V193Sbzem4fs1MBp32cuww">
+          <date when="1996-03-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BAUKimzGNz9qdfgXKL1rMc">
+          <note>date unknown</note>
+          <name>kommunika­tionsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-BCER7LjXWrGyWgTUztJXi6">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PBDiSkNVxUot9erVTKGMtn">
+          <date when="1996-04-08"/>
+        </correspAction>
+        <correspContext corresp="i-PBDiSkNVxUot9erVTKGMtn">
+          <ref type="record" target="prot-199697--085">Prot. 1996/97:85</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:252</head>
-        <author who="i-V193Sbzem4fs1MBp32cuww">Göthe Knutson (m)</author>
-        <minister who="unknown">kommunika­tionsministern</minister>
-        <topic>lobbyverksamhet</topic>
-        <docDate when="1997-03-26">Inkom den 26 mars</docDate>
-        <status inProtocol="199697/prot-199697--085.xml" when="1997-04-08" status="answered">Besvarad den 8 april, Prot. 1996/97:85</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:252 av Göthe Knutson (m) till kommunika­tionsministern
-          om lobbyverksamhet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 26 marsBesvarad den 8 april Prot. 1996/97:85
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5XZo5frG1gKwXtHNHdJfif">
+            Interpellation 1996/97:252 av Göthe Knutson (m) till kommunika­tionsministern
+            om lobbyverksamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6UARoiZbhtwD8nW3qAsgRY">
+            Inkom den 26 mars : Besvarad den 8 april Prot. 1996/97:85
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-WcmhE6s2eRRv4Z262cVaqg">
-          Dagens Nyheter avslöjar i en detaljerad artikel att Statens järnvägar,
-          SJ, i hemlighet betalat miljontals kronor till lobbyverksamhet
-          för att på­verka svenska folkets inställning till bl.a. tjänstebilar.
-        </p>
-        <p xml:id="i-9zsw6jcZ8jK7Xym6H45Hj5">
-          Miljonbelopp betalas årligen ut till Naturskyddsföreningen i
-          syfte att bedriva SJ-kampanjer utan att SJ syns som beställare
-          och betalande. SJ har anlitat en konsultfirma för lobbyverksamheten
-          som under senaste åren inneburit en strid mot de svenska biltillverkarna
-          Volvo och Saab. Dessa företag har varit hotade av en kraftigt
-          höjd skatt på s.k. förmånsbilar.
-        </p>
-        <p xml:id="i-ThtJfu2LFXvaEvsA7TYsSu">
-          Naturskyddsföreningens ekonomichef bekräftar DN:s uppgifter:
-          ”Hela vårt trafikprojekt är finansierat av SJ-pengar”, säger ekonomiche­fen.
-          Detta har skett i det fördolda.
-        </p>
-        <p xml:id="i-PJtpFwLgqfhBHkizyzpM12">
-          SJ, ”hela folkets järnväg”, har således i hemlighet och i åratal
-          bedrivit och betalat en politisk kampanj för att påverka svenska
-          folket i speciellt syfte. En särskild målgrupp för SJ:s anonyma
-          påverkan torde vara riks­dagsmän och statsråd men främst har lobbykampanjerna
-          haft sin politiska bredd riktad mot folkopinionen.
-        </p>
-        <p xml:id="i-2G8gCQCwipGCiBg44XBtjY">
-          Det måste betecknas som anmärkningsvärt att ett statsägt affärsdri-
-          vande verk i lönndom betalar dyrbara politiska kampanjer.
-        </p>
-        <p xml:id="i-KtdtwUdv6kTUwmjnggw1bq">
-          Vilka åtgärder avser kommunikationsministern att vidta med anled­ning
-          av den verksamhet som avslöjats?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_253.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RuUcphgQi8gZusqe7FaZKY">
+            Dagens Nyheter avslöjar i en detaljerad artikel att Statens järnvägar,
+            SJ, i hemlighet betalat miljontals kronor till lobbyverksamhet
+            för att på­verka svenska folkets inställning till bl.a. tjänstebilar.
+          </p>
+          <p xml:id="i-3931bpxmsp9RCURJWJtVaF">
+            Miljonbelopp betalas årligen ut till Naturskyddsföreningen i
+            syfte att bedriva SJ-kampanjer utan att SJ syns som beställare
+            och betalande. SJ har anlitat en konsultfirma för lobbyverksamheten
+            som under senaste åren inneburit en strid mot de svenska biltillverkarna
+            Volvo och Saab. Dessa företag har varit hotade av en kraftigt
+            höjd skatt på s.k. förmånsbilar.
+          </p>
+          <p xml:id="i-PyDfYgRstcvJoU28TMaypi">
+            Naturskyddsföreningens ekonomichef bekräftar DN:s uppgifter:
+            ”Hela vårt trafikprojekt är finansierat av SJ-pengar”, säger ekonomiche­fen.
+            Detta har skett i det fördolda.
+          </p>
+          <p xml:id="i-Lt3JDGNcNyzNYPHrfmbhFD">
+            SJ, ”hela folkets järnväg”, har således i hemlighet och i åratal
+            bedrivit och betalat en politisk kampanj för att påverka svenska
+            folket i speciellt syfte. En särskild målgrupp för SJ:s anonyma
+            påverkan torde vara riks­dagsmän och statsråd men främst har lobbykampanjerna
+            haft sin politiska bredd riktad mot folkopinionen.
+          </p>
+          <p xml:id="i-LfWgVFhtGzwqaR1dL5KEW8">
+            Det måste betecknas som anmärkningsvärt att ett statsägt affärsdri-
+            vande verk i lönndom betalar dyrbara politiska kampanjer.
+          </p>
+          <p xml:id="i-UhR99LWEhHYwt1mzwzQxJ6">
+            Vilka åtgärder avser kommunikationsministern att vidta med anled­ning
+            av den verksamhet som avslöjats?
+          </p>
+        </div>
       </div>
     </body>
   </text>

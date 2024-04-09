@@ -3,62 +3,86 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Bromma flygplats</title>
+        <author>Birgitta Wistrand (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:201 av Birgitta Wistrand (m) till kommunika­tionsministern om Bromma flygplats</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_207.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Birgitta Wistrand (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-81m3LpgjLj7yUBADMeYZjV</idno>
+          </person>
+          <person>
+            <persName>kommunika­tionsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8q8qvcSjJsPuo7Att1bv2j" corresp="i-81m3LpgjLj7yUBADMeYZjV">
+          <date when="1997-02-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-CaqUaVT1FCEmHttrU4Bq6Q">
+          <note>date unknown</note>
+          <name>kommunika­tionsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-AwnLLQpBTaxRvEpNVyn9KB">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CVJeb4bcVfojdiWdwotSB5">
+          <date when="1997-03-05"/>
+        </correspAction>
+        <correspContext corresp="i-CVJeb4bcVfojdiWdwotSB5">
+          <ref type="record" target="prot-199798--075">Prot. 1997/98:75</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:201</head>
-        <author who="i-81m3LpgjLj7yUBADMeYZjV">Birgitta Wistrand (m)</author>
-        <minister who="unknown">kommunika­tionsministern</minister>
-        <topic>Bromma flygplats</topic>
-        <docDate when="1998-02-20">Inkom den 20 februari</docDate>
-        <status inProtocol="199798/prot-199798--075.xml" when="1998-03-05" status="answered">Besvarad den 5 mars, Prot. 1997/98:75</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:201 av Birgitta Wistrand (m) till kommunika­tionsministern
-          om Bromma flygplats
-        </IPQ_title>
-        <submission_info>
-          Inkom den 20 februari Besvarad den 5 mars Prot. 1997/98:75
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-AZE8cJ4vCYA3BdfaqT3jho">
+            Interpellation 1997/98:201 av Birgitta Wistrand (m) till kommunika­tionsministern
+            om Bromma flygplats
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-VQshvDqXVm8SmtmpvMe9xp">
+            Inkom den 20 februari : Besvarad den 5 mars Prot. 1997/98:75
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XDkA8LUjyYG2MXUVTrAYER">
-          Så har då ytterligare en utredning om Bromma lagts till det omfattan­de
-          utredningsmaterialet. Utredarens uppgifter stämmer som väntat
-          inte överens med andra när det gäller vad en nedläggning kostar,
-          men han inser problemets allvar och anser att det tar cirka tio
-          år innan en ned­läggning över huvud taget är möjlig.
-        </p>
-        <p xml:id="i-F9YLMYwi39X8r4Z33jLQFB">
-          I slutet av året kommer Luftfartsverkets utredning.
-        </p>
-        <p xml:id="i-N2RuPM2kaQSrZ74cTbA8FY">
-          Avser kommunikationsministern att avvakta med ett nedläggningsbe­slut
-          till även denna utredning är klar?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_208.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BJ7Ka6G1wRiBaXyk4FVm8Y">
+            Så har då ytterligare en utredning om Bromma lagts till det omfattan­de
+            utredningsmaterialet. Utredarens uppgifter stämmer som väntat
+            inte överens med andra när det gäller vad en nedläggning kostar,
+            men han inser problemets allvar och anser att det tar cirka tio
+            år innan en ned­läggning över huvud taget är möjlig.
+          </p>
+          <p xml:id="i-5T6iZqz2UXqm7mU94ZTsTd">
+            I slutet av året kommer Luftfartsverkets utredning.
+          </p>
+          <p xml:id="i-PT9Fm2fXz6XZQwGSniHAH7">
+            Avser kommunikationsministern att avvakta med ett nedläggningsbe­slut
+            till även denna utredning är klar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,70 +3,94 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Estoniakatastrofen</title>
+        <author>Rigmor Ahlstedt (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1994/95:30 av Rigmor Ahlstedt (c) till kommunikationsministern om Estoniakatastrofen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_24.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_25.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person>
+            <persName>Rigmor Ahlstedt (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+          </person>
+          <person>
+            <persName>kommunikationsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-J1CkVMLDQxHm3Cq3WsSFgN">
+          <name/>
+          <date when="1994-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-S2SMAbNj24GnCtsCYRW7vQ">
+          <note>date unknown</note>
+          <name>kommunikationsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-QPSs1aJcZiFuKzTwPDU376">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WXBgrP5ZjEMHo4BiqYGCAh">
+          <date when="1994-12-01"/>
+        </correspAction>
+        <correspContext corresp="i-WXBgrP5ZjEMHo4BiqYGCAh">
+          <ref type="record" target="prot-199495--033">Prot. 1994/95:33</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1994/95:30</head>
-        <author who="unknown">Rigmor Ahlstedt (c)</author>
-        <minister who="unknown">kommunikationsministern</minister>
-        <topic>Estoniakatastrofen</topic>
-        <docDate when="1994-11-23">Inkom den 23 november</docDate>
-        <status inProtocol="199495/prot-199495--033.xml" when="1994-12-01" status="answered">Besvarad den 1 december, Prot. 1994/95:33</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1994/95:30 av Rigmor Ahlstedt (c) till kommunikationsministern
-          om Estoniakatastrofen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 23 novemberBesvarad den 1 december Prot. 1994/95:33
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2ayEZ2xqP2SpKy5EhqiteJ">
+            1994/95:30 av Rigmor Ahlstedt (c) till kommunikationsministern
+            om Estoniakatastrofen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-NZ6qzLH2QyK4UcBXMwY6sQ">
+            Inkom den 23 november : Besvarad den 1 december Prot. 1994/95:33
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QxHqvJ4ShYQBtgEcEr6yvv">
-          Anhöriga till offren i Estoniakatastrofen har vid olika tillfällen
-          framfört krav och synpunkter på bärgning av fartyget eller att
-          på annat sätt få hem sina anhöriga som ej har påträffats. Andra
-          har haft motsatta önskemål och synpunkter.
-        </p>
-        <p xml:id="i-5MTyXAqELU3oRiMpcYZhHw">
-          Den ovisshet som de alla känner om vad myndigheterna har för
-          av­sikter i den här frågan är för dem djupt otillfredsställande.
-        </p>
-        <p xml:id="i-NN7HbxntTK4LvRp6EZdDyG">
-          För att möta oro och osäkerhet och i någon mån lindra sorgearbetet
-          borde man möta de anhörigas behov av att vara delaktiga och inform-
-          nerade om det utvecklingsarbete som pågår kring denna svåra fråga.
-        </p>
-        <p xml:id="i-4XJf3f2eXtn1cLFwF8RicL">
-          På vilket sätt avser statsrådet Ines Uusmann att möta dessa önske­mål?
-        </p>
-        <note type="pageNumber" xml:id="i-GQAsb84ZTCVFZR3VLbFSm8">
-          24
-        </note>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_25.pdf"/>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_26.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UTuUa1gMZyyLCbVNQcLLq3">
+            Anhöriga till offren i Estoniakatastrofen har vid olika tillfällen
+            framfört krav och synpunkter på bärgning av fartyget eller att
+            på annat sätt få hem sina anhöriga som ej har påträffats. Andra
+            har haft motsatta önskemål och synpunkter.
+          </p>
+          <p xml:id="i-WsxHeAnoeKBXfJ9VkofanC">
+            Den ovisshet som de alla känner om vad myndigheterna har för
+            av­sikter i den här frågan är för dem djupt otillfredsställande.
+          </p>
+          <p xml:id="i-N4AwSxsHGkqp3foLs3kh9q">
+            För att möta oro och osäkerhet och i någon mån lindra sorgearbetet
+            borde man möta de anhörigas behov av att vara delaktiga och inform-
+            nerade om det utvecklingsarbete som pågår kring denna svåra fråga.
+          </p>
+          <p xml:id="i-Bi9MmSH8DqczcNYrh8upPm">
+            På vilket sätt avser statsrådet Ines Uusmann att möta dessa önske­mål?
+          </p>
+          <note xml:id="i-6NedKLoEqHKzHetJ2dbSMw" type="pageNumber">
+            24
+          </note>
+        </div>
       </div>
     </body>
   </text>

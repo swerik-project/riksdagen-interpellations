@@ -3,67 +3,91 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>asylprövning av tortyrskadade</title>
+        <author>Lennart Rohdin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:241 av Lennart Rohdin (fp) till statsrådet Pierre Schori om asylprövning av tortyrskadade</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_247.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Rohdin (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-T576BDaw5pvVYLHtf4Pt4X</idno>
+          </person>
+          <person>
+            <persName>statsrådet Pierre Schori</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-EzSJuJC89v2Uzm3GLo1ATN" corresp="i-T576BDaw5pvVYLHtf4Pt4X">
+          <date when="1995-05-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-qRfHCAyraxN81rojEGib9">
+          <note>date unknown</note>
+          <name>statsrådet Pierre Schori</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-WzfhxKhRZf6mpB5oNA1k6p">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Ny4k1f7a9gXEbEwSW9k54j">
+          <date when="1995-06-03"/>
+        </correspAction>
+        <correspContext corresp="i-Ny4k1f7a9gXEbEwSW9k54j">
+          <ref type="record" target="prot-199596--104">Prot. 1995/96:104</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:241</head>
-        <author who="i-T576BDaw5pvVYLHtf4Pt4X">Lennart Rohdin (fp)</author>
-        <minister who="unknown">statsrådet Pierre Schori</minister>
-        <topic>asylprövning av tortyrskadade</topic>
-        <docDate when="1996-05-21">Inkom den 21 maj</docDate>
-        <status inProtocol="199596/prot-199596--104.xml" when="1996-06-03" status="answered">Besvarad den 3 juni, Prot. 1995/96:104</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:241 av Lennart Rohdin (fp) till statsrådet Pierre Schori
-          om asylprövning av tortyrskadade
-        </IPQ_title>
-        <submission_info>
-          Inkom den 21 majBesvarad den 3 juni Prot. 1995/96:104
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-M2Ks8aVSP1NwbeFFyvaAjs">
+            1995/96:241 av Lennart Rohdin (fp) till statsrådet Pierre Schori
+            om asylprövning av tortyrskadade
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FfxfzErHJXR6tyDcv3eKeN">
+            Inkom den 21 maj : Besvarad den 3 juni Prot. 1995/96:104
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-WAsD4NMsWPRD8tVZAY6ScK">
-          Allt fler rapporter dyker upp om att asylsökande som uppger sig
-          ha blivit utsatta för tortyr inte får dessa uppgifter seriöst
-          prövade av svenska utlänningsmyndigheter. Inte heller när det
-          föreligger medicins­ka intyg från svenska läkare med specialkompetens.
-          Ofta för Invand­rarverket och Utlänningsnämnden allmänna resonemang
-          om den poli­tiska situationen i ursprungslandet i fråga. Mot denna
-          bakgrund bedöms som regel den asylsökande som ”icke trovärdig”.
-          Därefter anser sig myndigheten tämligen summariskt kunna avfärda
-          även styrkta tor­tyrskador, eftersom den asylsökande ju är ”icke
-          trovärdig”. Uppgiften om tortyr kommer ju endast från den asylsökande
-          som är ”icke trovär­dig”. Vederbörande saknar som regel intyg
-          från torterare eller deras överordnade om den genomförda ”behandlingen”.
-        </p>
-        <p xml:id="i-BcDmHVqQDpdPtv9wMBdnES">
-          Vad avser regeringen vidta för åtgärder för att tortyrskador
-          av svenska utlänningsmyndigheter skall behandlas som en huvudpunkt
-          i avgörandet om asylsökandes rätt till uppehållstillstånd i Sverige?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_248.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-mxdbRm684ub3kZhCdHogq">
+            Allt fler rapporter dyker upp om att asylsökande som uppger sig
+            ha blivit utsatta för tortyr inte får dessa uppgifter seriöst
+            prövade av svenska utlänningsmyndigheter. Inte heller när det
+            föreligger medicins­ka intyg från svenska läkare med specialkompetens.
+            Ofta för Invand­rarverket och Utlänningsnämnden allmänna resonemang
+            om den poli­tiska situationen i ursprungslandet i fråga. Mot denna
+            bakgrund bedöms som regel den asylsökande som ”icke trovärdig”.
+            Därefter anser sig myndigheten tämligen summariskt kunna avfärda
+            även styrkta tor­tyrskador, eftersom den asylsökande ju är ”icke
+            trovärdig”. Uppgiften om tortyr kommer ju endast från den asylsökande
+            som är ”icke trovär­dig”. Vederbörande saknar som regel intyg
+            från torterare eller deras överordnade om den genomförda ”behandlingen”.
+          </p>
+          <p xml:id="i-NncFhTSQCoS8fESFk8vWxj">
+            Vad avser regeringen vidta för åtgärder för att tortyrskador
+            av svenska utlänningsmyndigheter skall behandlas som en huvudpunkt
+            i avgörandet om asylsökandes rätt till uppehållstillstånd i Sverige?
+          </p>
+        </div>
       </div>
     </body>
   </text>

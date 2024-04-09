@@ -3,85 +3,109 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>servicecheckar</title>
+        <author>Isa Halvarsson (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:306 av Isa Halvarsson (fp) till statsrådet Thomas Östros om servicecheckar</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_299.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Isa Halvarsson (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-VQ8e4QWrW7Gvhr9MwK6fQ9</idno>
+          </person>
+          <person>
+            <persName>statsrådet Thomas Östros</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-UyTfixFPTru371r1ezPhTf" corresp="i-VQ8e4QWrW7Gvhr9MwK6fQ9">
+          <date when="1996-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ncz6cUFdu6v5cYe7J2PvCq">
+          <note>date unknown</note>
+          <name>statsrådet Thomas Östros</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-AdHERHi7VbXxZVhVnixDZL">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7C4E1DjZoxDy3kmz3ST11p">
+          <date when="1996-05-30"/>
+        </correspAction>
+        <correspContext corresp="i-7C4E1DjZoxDy3kmz3ST11p">
+          <ref type="record" target="prot-199697--111">Prot. 1996/97:111</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:306</head>
-        <author who="i-VQ8e4QWrW7Gvhr9MwK6fQ9">Isa Halvarsson (fp)</author>
-        <minister who="unknown">statsrådet Thomas Östros</minister>
-        <topic>servicecheckar</topic>
-        <docDate when="1997-05-13">Inkom den 13 maj</docDate>
-        <status inProtocol="199697/prot-199697--111.xml" when="1997-05-30" status="answered">Besvarad den 30 maj, Prot. 1996/97:111</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:306 av Isa Halvarsson (fp) till statsrådet
-          Thomas Östros om servicecheckar
-        </IPQ_title>
-        <submission_info>
-          Inkom den 13 maj Besvarad den 30 maj Prot. 1996/97:111
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Kccxwp3QquEg2stvxs9i9L">
+            Interpellation 1996/97:306 av Isa Halvarsson (fp) till statsrådet
+            Thomas Östros om servicecheckar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-31LUo3N2UAsyMveX5ktEKj">
+            Inkom den 13 maj : Besvarad den 30 maj Prot. 1996/97:111
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Utx2PGq4VxCPCUM1T6MYuR">
-          I Sverige har det i flera år pågått en intensiv debatt om möjligheterna
-          till fler tjänstejobb. I centrum för intresset har hushållssektorn
-          stått. Även om hushållssektorn är för liten som arbetsmarknad
-          existerar den trots allt. Men den är till mycket stor del ”svart”.
-          Detta är ett problem och det bor­de vara oacceptabelt i ett välfärdssamhälle
-          att många arbetar utan pen­sionsrättigheter och försäkringsskydd.
-          Det är också olyckligt att tusentals ”arbetsgivare” vänjer sig
-          vid att leva vid sidan av lagen.
-        </p>
-        <p xml:id="i-K8nKCzssc5L1T7MGTXbCt">
-          Det är säkert så att många av de familjer som anlitar ”svart”
-          städhjälp och liknande tjänster ofta skulle vilja vara inordnade
-          i ett legalt system om det var ekonomiskt möjligt och byråkratiskt
-          hanterligt. Tyvärr anser många att det just nu varken är det ena
-          eller det andra.
-        </p>
-        <p xml:id="i-QjdMPJDcZS9VyQxGNs1C94">
-          Vi har från Folkpartiet liberalernas sida skissat på ett system
-          som skall göra det enklare att vara ärlig. Modellen är ursprungligen
-          fransk, tanken är att man får ett betalningsmedel där byråkratin
-          så att säga redan är inkluderad. För den som skall köpa en tjänst
-          innebär detta att använder man de speciella checkarna som betalning
-          så sköter sedan myndigheterna inbetalning av skatt och avgifter
-          samt allt sådant som kontrolluppgifter och annan byråkrati. Sedan
-          vi lanserade denna idé förra våren har Riks­skatteverket fått
-          i uppdrag av regeringen att analysera den franska model­len och
-          överväga möjligheten att införa den i Sverige. Därefter har ing­enting
-          skett.
-        </p>
-        <p xml:id="i-XMPQnogTEDvwB1nrFHoEQQ">
-          Jag vill mot denna bakgrund fråga statsrådet:
-        </p>
-        <p xml:id="i-BR6nPViyi8kiK1NYUpZw6X">
-          Vilka åtgärder är regeringen beredd att vidta för att införa
-          ett system med s.k. servicecheckar?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_300.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Nk4VYEYY55LqUr8hyX67Yf">
+            I Sverige har det i flera år pågått en intensiv debatt om möjligheterna
+            till fler tjänstejobb. I centrum för intresset har hushållssektorn
+            stått. Även om hushållssektorn är för liten som arbetsmarknad
+            existerar den trots allt. Men den är till mycket stor del ”svart”.
+            Detta är ett problem och det bor­de vara oacceptabelt i ett välfärdssamhälle
+            att många arbetar utan pen­sionsrättigheter och försäkringsskydd.
+            Det är också olyckligt att tusentals ”arbetsgivare” vänjer sig
+            vid att leva vid sidan av lagen.
+          </p>
+          <p xml:id="i-AaXKmQ3sF4otNgFurn7DBV">
+            Det är säkert så att många av de familjer som anlitar ”svart”
+            städhjälp och liknande tjänster ofta skulle vilja vara inordnade
+            i ett legalt system om det var ekonomiskt möjligt och byråkratiskt
+            hanterligt. Tyvärr anser många att det just nu varken är det ena
+            eller det andra.
+          </p>
+          <p xml:id="i-GLB6fAxFkSfFjdqPkNGWty">
+            Vi har från Folkpartiet liberalernas sida skissat på ett system
+            som skall göra det enklare att vara ärlig. Modellen är ursprungligen
+            fransk, tanken är att man får ett betalningsmedel där byråkratin
+            så att säga redan är inkluderad. För den som skall köpa en tjänst
+            innebär detta att använder man de speciella checkarna som betalning
+            så sköter sedan myndigheterna inbetalning av skatt och avgifter
+            samt allt sådant som kontrolluppgifter och annan byråkrati. Sedan
+            vi lanserade denna idé förra våren har Riks­skatteverket fått
+            i uppdrag av regeringen att analysera den franska model­len och
+            överväga möjligheten att införa den i Sverige. Därefter har ing­enting
+            skett.
+          </p>
+          <p xml:id="i-Xfy73sYTdjVQe9XeFhszTu">
+            Jag vill mot denna bakgrund fråga statsrådet:
+          </p>
+          <p xml:id="i-Bsb18wFaRN5PdN4qQDLFXx">
+            Vilka åtgärder är regeringen beredd att vidta för att införa
+            ett system med s.k. servicecheckar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

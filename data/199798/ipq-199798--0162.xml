@@ -3,69 +3,93 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>utredningen En livsmedelsstrategi för Sverige</title>
+        <author>Göte Jonsson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:162 av Göte Jonsson (m) till näringsministern om utredningen En livsmedelsstrategi för Sverige</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_167.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Göte Jonsson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-TZikyr5QETx1Srqmhk827L</idno>
+          </person>
+          <person>
+            <persName>näringsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Kf7DgSQh9gp17ErgtT1Aki" corresp="i-TZikyr5QETx1Srqmhk827L">
+          <date when="1997-02-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Gs7hSD1SYckfAKjAsJTY7o">
+          <note>date unknown</note>
+          <name>näringsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-Nh1vDULB4HZVKWkmJekQgz">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UFrnTjSRx8ou6eANwPKDVp">
+          <date when="1997-02-13"/>
+        </correspAction>
+        <correspContext corresp="i-UFrnTjSRx8ou6eANwPKDVp">
+          <ref type="record" target="prot-199798--067">Prot. 1997/98:67</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:162</head>
-        <author who="i-TZikyr5QETx1Srqmhk827L">Göte Jonsson (m)</author>
-        <minister who="unknown">näringsministern</minister>
-        <topic>utredningen En livsmedelsstrategi för Sverige</topic>
-        <docDate when="1998-02-05">Inkom den 5 februari</docDate>
-        <status inProtocol="199798/prot-199798--067.xml" when="1998-02-13" status="answered">Besvarad den 13 februari, Prot. 1997/98:67</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:162 av Göte Jonsson (m) till näringsministern
-          om utredningen En livsmedelsstrategi för Sverige
-        </IPQ_title>
-        <submission_info>
-          Inkom den 5 februariBesvarad den 13 februari Prot. 1997/98:67
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Bxi39JTLPAgX24VFne2wkw">
+            Interpellation 1997/98:162 av Göte Jonsson (m) till näringsministern
+            om utredningen En livsmedelsstrategi för Sverige
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-EU3uBsEfVasNC8C7yAaoMW">
+            Inkom den 5 februari : Besvarad den 13 februari Prot. 1997/98:67
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AZhdvRoY8gforgsZqofoXa">
-          Det har varit känt länge att svensk jordbruksnäring har dåliga
-          konkur­rensförutsättningar i förhållande till viktiga konkurrentländer
-          inom EU. Detta har nu klart vidimerats genom utredningen En livsmedelsstrategi
-          för Sverige, som överlämnats till näringsministern. Utredningsmannen
-          klarlägger där bl.a. hur de inhemska kostnaderna i form av skatter
-          och avgifter negativt påverkar konkurrenskraften för svenska jordbrukare
-          och för livsmedelsproduktionen. Jordbruket lever i dag i en hård
-          konkur­renssituation och de politiskt förorsakade kostnaderna
-          jämfört med kon­kurrensen i närliggande länder är mycket negativa
-          för Sveriges bönder.
-        </p>
-        <p xml:id="i-S6FhfEHciqotq9cEcoUJj3">
-          Det är nu angeläget att de konkurrensnegativa kostnaderna som
-          belas­tar svenskt jordbruk undanröjs och jag vill med anledning
-          av detta fråga näringsminister Anders Sundström:
-        </p>
-        <p xml:id="i-YMDpne9ergqe6jccBnNKaJ">
-          När kommer förslag från regeringen om bättre konkurrensförutsätt­ningar
-          för den svenska livsmedelssektorn?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_168.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-ECkLidDe3ma97AGBoz2BW">
+            Det har varit känt länge att svensk jordbruksnäring har dåliga
+            konkur­rensförutsättningar i förhållande till viktiga konkurrentländer
+            inom EU. Detta har nu klart vidimerats genom utredningen En livsmedelsstrategi
+            för Sverige, som överlämnats till näringsministern. Utredningsmannen
+            klarlägger där bl.a. hur de inhemska kostnaderna i form av skatter
+            och avgifter negativt påverkar konkurrenskraften för svenska jordbrukare
+            och för livsmedelsproduktionen. Jordbruket lever i dag i en hård
+            konkur­renssituation och de politiskt förorsakade kostnaderna
+            jämfört med kon­kurrensen i närliggande länder är mycket negativa
+            för Sveriges bönder.
+          </p>
+          <p xml:id="i-SiL3DPKA9w6m5c89AM5kye">
+            Det är nu angeläget att de konkurrensnegativa kostnaderna som
+            belas­tar svenskt jordbruk undanröjs och jag vill med anledning
+            av detta fråga näringsminister Anders Sundström:
+          </p>
+          <p xml:id="i-MRz5wF2BqYveu1aqznokTu">
+            När kommer förslag från regeringen om bättre konkurrensförutsätt­ningar
+            för den svenska livsmedelssektorn?
+          </p>
+        </div>
       </div>
     </body>
   </text>

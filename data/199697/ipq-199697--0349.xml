@@ -3,63 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>repatriering</title>
+        <author>Yvonne Ruwaida (mp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:349 av Yvonne Ruwaida (mp) till statsrådet Pierre Schori om repatriering</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_345.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Yvonne Ruwaida (mp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>mp</desc>
+            </state>
+            <idno>i-C44sMEE9ocAndjedeN9fLp</idno>
+          </person>
+          <person>
+            <persName>statsrådet Pierre Schori</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-ED5w3LrqtS89YqXWDdx543" corresp="i-C44sMEE9ocAndjedeN9fLp">
+          <date when="1996-05-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-NLpgT6fKoPpivbzfbfJRwi">
+          <note>date unknown</note>
+          <name>statsrådet Pierre Schori</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-Sp2Neoa4G5McYtAVtJdmY4">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MoPRfT8NqwXwpXTp7KhcfK">
+          <date when="1996-05-30"/>
+        </correspAction>
+        <correspContext corresp="i-MoPRfT8NqwXwpXTp7KhcfK">
+          <ref type="record" target="prot-199697--000">Prot. 1996/97: 111</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:349</head>
-        <author who="i-C44sMEE9ocAndjedeN9fLp">Yvonne Ruwaida (mp)</author>
-        <minister who="unknown">statsrådet Pierre Schori</minister>
-        <topic>repatriering</topic>
-        <docDate when="1997-05-16">Inkom den 16 maj</docDate>
-        <status inProtocol="unknown" when="1997-05-30" status="answered">Besvarad den 30 maj</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:349 av Yvonne Ruwaida (mp) till statsrådet
-          Pierre Schori om repatriering
-        </IPQ_title>
-        <submission_info>
-          Inkom den 16 maj Besvarad den 30 maj Prot. 1996/97: 111
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-8N8uL2K5XXcEB6ViNTcrb1">
+            Interpellation 1996/97:349 av Yvonne Ruwaida (mp) till statsrådet
+            Pierre Schori om repatriering
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-L2ftfkuetfFXPGUAcJzV15">
+            Inkom den 16 maj : Besvarad den 30 maj Prot. 1996/97: 111
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-U8D6vtAYgBYWKuzZy43vq4">
-          I debatten har det framförts att vi till Sverige har haft en
-          massinvand- ring som skulle ha skapat allvarliga samhällsproblem.
-          Det har framförts åsikter om att människor bör repatrieras. Ministern
-          har inte deltagit i debatten för att ge sin eller regeringens
-          syn i frågan.
-        </p>
-        <p xml:id="i-QB3urtTRZ9zUnvGRL2ubJf">
-          Därför frågar jag:
-        </p>
-        <p xml:id="i-357nBnpCqGNYx72sGuQJrh">
-          Hur avser ministern agera för att möta kraven på repatriering?Varför
-          har ministern inte varit ute i debatten för att visa på regering­ens
-          ståndpunkt i dessa frågor?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_346.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-WaYDuUe2HJytNWukdtzFqf">
+            I debatten har det framförts att vi till Sverige har haft en
+            massinvand- ring som skulle ha skapat allvarliga samhällsproblem.
+            Det har framförts åsikter om att människor bör repatrieras. Ministern
+            har inte deltagit i debatten för att ge sin eller regeringens
+            syn i frågan.
+          </p>
+          <p xml:id="i-Am7LL7UUgAbpVK3n2nZqC2">
+            Därför frågar jag:
+          </p>
+          <p xml:id="i-8NyWn7P7amv9QjC3t2ZTci">
+            Hur avser ministern agera för att möta kraven på repatriering?Varför
+            har ministern inte varit ute i debatten för att visa på regering­ens
+            ståndpunkt i dessa frågor?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,68 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>PVC</title>
+        <author>Lennart Daléus (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:112 av Lennart Daléus (c) till miljöministern om PVC</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_107.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Daléus (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
+          </person>
+          <person>
+            <persName>miljöministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9q849vgULYxeAPuABMrmYn" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
+          <date when="1997-01-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-CuM2EyGaQ7BGdHh8Z2KkZr">
+          <note>date unknown</note>
+          <name>miljöministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-9X6qxqFX3QaXooYt8iJjeU">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QPdxDLUbn6VKJxU4BxDhaW">
+          <date when="1997-01-27"/>
+        </correspAction>
+        <correspContext corresp="i-QPdxDLUbn6VKJxU4BxDhaW">
+          <ref type="record" target="prot-199798--056">Prot. 1997/98:56</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:112</head>
-        <author who="i-GSfuaZB2iKY7EQ9cNr63sp">Lennart Daléus (c)</author>
-        <minister who="unknown">miljöministern</minister>
-        <topic>PVC</topic>
-        <docDate when="1998-01-12">Inkom den 12 januari</docDate>
-        <status inProtocol="199798/prot-199798--056.xml" when="1998-01-27" status="answered">Besvarad den 27 januari, Prot. 1997/98:56</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:112 av Lennart Daléus (c) till miljöministern
-          om PVC
-        </IPQ_title>
-        <submission_info>
-          Inkom den 12 januariBesvarad den 27 januari Prot. 1997/98:56
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LdFKf1MMeAoCNMm5en4f5M">
+            Interpellation 1997/98:112 av Lennart Daléus (c) till miljöministern
+            om PVC
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-N76VQaKtjygwpCTAgqp1Lg">
+            Inkom den 12 januari : Besvarad den 27 januari Prot. 1997/98:56
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-5VmneQR2ce5dBV6JRVnRmx">
-          Frågan om PVC-plasten, inkluderande såväl PVC som de aktuella
-          till­satserna, har under flera år varit föremål för debatt och
-          utredande. I dag finns uttalanden och beslut från bl.a. Kretsloppsdelegationen,
-          Kemi­kommittén och riksdagen (!) som kan sammanfattas i: ”PVC
-          hör inte hemma i ett kretsloppssamhälle”.
-        </p>
-        <p xml:id="i-qCKiSFHi1898rLydbnHRe">
-          Skall bl.a. riksdagens beslut - och övergripande bedömningar
-          och överväganden - förverkligas så krävs ett agerande från regeringens
-          sida såväl vad gäller förslag till lagstiftning som andra åtgärder.
-          Till de senare kan höra Kemikommitténs förslag om att regeringen
-          ”snarast inleder överläggningar med berörda parter och vidtar
-          i övrigt åtgärder för en utfasning av all nyanvändning av PVC-plast”.
-        </p>
-        <p xml:id="i-VkRFAh5vNy9MeiUo94jPJ9">
-          Vilken strategi avser regeringen att tillämpa och vilka åtgärder
-          avser regeringen att vidta för att förverkliga riksdagens beslut,
-          övergripande bedömningar och överväganden i PVC-frågan?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_108.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-SZJTrWMsFwP8e1U8VQcA5Q">
+            Frågan om PVC-plasten, inkluderande såväl PVC som de aktuella
+            till­satserna, har under flera år varit föremål för debatt och
+            utredande. I dag finns uttalanden och beslut från bl.a. Kretsloppsdelegationen,
+            Kemi­kommittén och riksdagen (!) som kan sammanfattas i: ”PVC
+            hör inte hemma i ett kretsloppssamhälle”.
+          </p>
+          <p xml:id="i-VoMfWd1hvpC6XqpCtpK7u3">
+            Skall bl.a. riksdagens beslut - och övergripande bedömningar
+            och överväganden - förverkligas så krävs ett agerande från regeringens
+            sida såväl vad gäller förslag till lagstiftning som andra åtgärder.
+            Till de senare kan höra Kemikommitténs förslag om att regeringen
+            ”snarast inleder överläggningar med berörda parter och vidtar
+            i övrigt åtgärder för en utfasning av all nyanvändning av PVC-plast”.
+          </p>
+          <p xml:id="i-5t1UnDeew6UFcU5wBcsLDr">
+            Vilken strategi avser regeringen att tillämpa och vilka åtgärder
+            avser regeringen att vidta för att förverkliga riksdagens beslut,
+            övergripande bedömningar och överväganden i PVC-frågan?
+          </p>
+        </div>
       </div>
     </body>
   </text>

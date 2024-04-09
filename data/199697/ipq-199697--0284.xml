@@ -3,69 +3,93 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>dödsstraff</title>
+        <author>Håkan Holmberg (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:284 av Håkan Holmberg (fp) till utrikesminis­tern om dödsstraff</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_280.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Håkan Holmberg (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-SohYLAuWsbMU8CyYucDha1</idno>
+          </person>
+          <person>
+            <persName>utrikesminis­tern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-6Scjuc1iARaSctmGTTYUhf" corresp="i-SohYLAuWsbMU8CyYucDha1">
+          <date when="1996-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-CWywH8FB6DZs1iqzmiV25F">
+          <note>date unknown</note>
+          <name>utrikesminis­tern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-QKZymGXxnYUT5qRVtaeRcf">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MGqCWg9dXzc3g23hymqtu9">
+          <date when="1996-05-27"/>
+        </correspAction>
+        <correspContext corresp="i-MGqCWg9dXzc3g23hymqtu9">
+          <ref type="record" target="prot-199697--108">Prot. 1996/97:108</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:284</head>
-        <author who="i-SohYLAuWsbMU8CyYucDha1">Håkan Holmberg (fp)</author>
-        <minister who="unknown">utrikesminis­tern</minister>
-        <topic>dödsstraff</topic>
-        <docDate when="1997-04-25">Inkom den 25 april</docDate>
-        <status inProtocol="199697/prot-199697--108.xml" when="1997-05-27" status="answered">Besvarad den 27 maj, Prot. 1996/97:108</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:284 av Håkan Holmberg (fp) till utrikesminis­tern
-          om dödsstraff
-        </IPQ_title>
-        <submission_info>
-          Inkom den 25 aprilBesvarad den 27 maj Prot. 1996/97:108
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-81W88PQMCH5mJnwYF9eDUP">
+            Interpellation 1996/97:284 av Håkan Holmberg (fp) till utrikesminis­tern
+            om dödsstraff
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WRDb4gR2kUYSSSoSzrLyAb">
+            Inkom den 25 april : Besvarad den 27 maj Prot. 1996/97:108
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-L8DKGUkSJVQhhnMKL3AMGi">
-          I Europaparlamentets två utlåtanden inför och under EU:s regerings­konferens
-          (Bourlange/Martin antagen den 17 maj och Dury/Maij-Weggen antagen
-          den 13 mars 1996) framförs parlamentets krav på införande i EU:s
-          nya författning av ”en artikel som uttryckligen förbjuder döds­straff’.
-        </p>
-        <p xml:id="i-Ly6rrCaMrrXk8d6E4F5kUg">
-          Jag utgår från att den svenska regeringen delar Europaparlamentets
-          uppfattning i sakfrågan.
-        </p>
-        <p xml:id="i-UbmiVV57Mt3pwVuxbzujvw">
-          Med anledning härav vill jag fråga:
-        </p>
-        <p xml:id="i-SN4EAs4QXhg7PhtCQFvXHF">
-          På vilket sätt har regeringen under regeringsförhandlingarna
-          verkat för införande av en artikel med förbud mot dödsstraff?
-        </p>
-        <p xml:id="i-vwaDNhym5mYnj1n6q6XFn">
-          Vilken reaktion har regeringen fått bland övriga medlemsstater
-          för framstötar i denna riktning?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_281.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3CaymeQkSPWq4zcJM4CAD2">
+            I Europaparlamentets två utlåtanden inför och under EU:s regerings­konferens
+            (Bourlange/Martin antagen den 17 maj och Dury/Maij-Weggen antagen
+            den 13 mars 1996) framförs parlamentets krav på införande i EU:s
+            nya författning av ”en artikel som uttryckligen förbjuder döds­straff’.
+          </p>
+          <p xml:id="i-DbzzxW56pe98HbcJ9pBoon">
+            Jag utgår från att den svenska regeringen delar Europaparlamentets
+            uppfattning i sakfrågan.
+          </p>
+          <p xml:id="i-MM6CRpAWSdmj1Et4JvSNWx">
+            Med anledning härav vill jag fråga:
+          </p>
+          <p xml:id="i-WfEDHoLHrbWzgcTDTn5wra">
+            På vilket sätt har regeringen under regeringsförhandlingarna
+            verkat för införande av en artikel med förbud mot dödsstraff?
+          </p>
+          <p xml:id="i-JiWgNzTZmR4oDSHGoaRAhT">
+            Vilken reaktion har regeringen fått bland övriga medlemsstater
+            för framstötar i denna riktning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

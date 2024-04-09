@@ -3,68 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Sveriges lantbruksuniversitets verksamhet i Bispgården</title>
+        <author>Lennart Daléus (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1994/95:52 av Lennart Daléus (c) till jordbruksministern om Sveriges lantbruksuniversitets verksamhet i Bispgården</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_51.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Daléus (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
+          </person>
+          <person>
+            <persName>jordbruksministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Qz6mjR8xkj53x526mkUKzH" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
+          <date when="1994-01-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Bt4TDp6wgS8ZNu2usnNJhY">
+          <note>date unknown</note>
+          <name>jordbruksministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-82pv9gDWavmJwRwwDaj2ab">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-YS8R6pBGpK15rWeR2PSCNx">
+          <date when="1994-02-17"/>
+        </correspAction>
+        <correspContext corresp="i-YS8R6pBGpK15rWeR2PSCNx">
+          <ref type="record" target="prot-199495--062">Prot. 1994/95:62</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1994/95:52</head>
-        <author who="i-GSfuaZB2iKY7EQ9cNr63sp">Lennart Daléus (c)</author>
-        <minister who="unknown">jordbruksministern</minister>
-        <topic>Sveriges lantbruksuniversitets verksamhet i Bispgården</topic>
-        <docDate when="1995-01-31">Inkom den 31 januari</docDate>
-        <status inProtocol="199495/prot-199495--062.xml" when="1995-02-17" status="answered">Besvarad den 17 februari, Prot. 1994/95:62</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1994/95:52 av Lennart Daléus (c) till jordbruksministern om Sveriges
-          lantbruksuniversitets verksamhet i Bispgården
-        </IPQ_title>
-        <submission_info>
-          Inkom den 31 januariBesvarad den 17 februari Prot. 1994/95:62
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LDKfV91Us8ahhcrVeComme">
+            1994/95:52 av Lennart Daléus (c) till jordbruksministern om Sveriges
+            lantbruksuniversitets verksamhet i Bispgården
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Uu7rVdaTajoqXmpgki2cFE">
+            Inkom den 31 januari : Besvarad den 17 februari Prot. 1994/95:62
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RBAaM6mx2nNXD7cLRz4v4g">
-          Sveriges lantbruksuniversitet står inför stora besparingar. Regering­en
-          räknar i sitt budgetförslag ned anslaget med 104 miljoner kronor.
-          Styrelsen vid Sveriges lantbruksuniversitet står följaktligen
-          inför svåra prioriteringar inom verksamheten.
-        </p>
-        <p xml:id="i-2VW3bGKhu6HQqLfPPaUR8f">
-          Regeringen bidrar till arbetet med prioriteringarna genom att
-          ange att det är ”viktigt att garantera fortsatt verksamhet av
-          något slag i Bisp­gården”.
-        </p>
-        <p xml:id="i-MVqiYGfiLCVR4xeyHQ5iPC">
-          Regeringen har uppenbarligen tillgång till ett prioriteringsunderlag
-          som kan vara värdefullt för styrelsens i Sveriges lantbruksuniversitet
-          arbete.
-        </p>
-        <p xml:id="i-JVNBr2oDuVDYHWAkwqmrWw">
-          På vilket sätt avser regeringen att göra prioriteringsunderlaget
-          för bl.a. Bispgården tillgängligt för styrelsen vid Sveriges lantbruksuni­versitet?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_52.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BcyChq3RdtnBa96MATSfY5">
+            Sveriges lantbruksuniversitet står inför stora besparingar. Regering­en
+            räknar i sitt budgetförslag ned anslaget med 104 miljoner kronor.
+            Styrelsen vid Sveriges lantbruksuniversitet står följaktligen
+            inför svåra prioriteringar inom verksamheten.
+          </p>
+          <p xml:id="i-JpRSV4rqgAmH8eRoR42xzF">
+            Regeringen bidrar till arbetet med prioriteringarna genom att
+            ange att det är ”viktigt att garantera fortsatt verksamhet av
+            något slag i Bisp­gården”.
+          </p>
+          <p xml:id="i-KR7PEiC9Z8pBhqewHUy8RC">
+            Regeringen har uppenbarligen tillgång till ett prioriteringsunderlag
+            som kan vara värdefullt för styrelsens i Sveriges lantbruksuniversitet
+            arbete.
+          </p>
+          <p xml:id="i-Lq3NMUNyqPKAtzPxnLvVJa">
+            På vilket sätt avser regeringen att göra prioriteringsunderlaget
+            för bl.a. Bispgården tillgängligt för styrelsen vid Sveriges lantbruksuni­versitet?
+          </p>
+        </div>
       </div>
     </body>
   </text>
