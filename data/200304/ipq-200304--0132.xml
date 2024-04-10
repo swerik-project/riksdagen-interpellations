@@ -3,115 +3,148 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>den nya instansordningen för asylärenden</title>
+        <author>Tolgfors, Sten (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>den nya instansordningen för asylärenden till statsrådet Barbro Holmberg om den nya instansordningen för asylärenden</title>
+          <idno type="rdwebb">GR10132</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10132/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10132</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10132</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-2R4j9ZqwmnreUHLkKECqti" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LWcG2txwuXYWdxywDpWV2s">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NQaQwYkxMHV8SdSCtR7nN8">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-W42YUVTE1HxQ4S8B9TAfaB" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2003-11-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NAyGdkZNJQXJ1CsKjc494s" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-NAyGdkZNJQXJ1CsKjc494s">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">16 § Svar på interpellation 2003/04:132 om den nya instansordningen för asylärenden</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0132</head>
-        <author who="i-Q6uWG1k3pbJio9CebNs3Cz">Sten Tolgfors</author>
-        <recipient who="i-8NR1Z8tejozuay7fUnQPDP">Barbro Holmberg</recipient>
-        <topic>den nya instansordningen för asylärenden</topic>
-        <docDate when="2003-11-20">den 20 november</docDate>
-        <status when="2003-12-12" byWhom="Barbro Holmberg" byWhomId="i-8NR1Z8tejozuay7fUnQPDP" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10132</external_id>
-        <debate>
-          <turn when="2003-12-12 13:20:13" duration="380">Barbro Holmberg (S)</turn>
-          <turn when="2003-12-12 13:26:30" duration="258">Sten Tolgfors (M)</turn>
-          <turn when="2003-12-12 13:30:45" duration="228">Anne-Marie Ekström (Fp)</turn>
-          <turn when="2003-12-12 13:34:30" duration="226">Barbro Holmberg (S)</turn>
-          <turn when="2003-12-12 13:38:12" duration="267">Sten Tolgfors (M)</turn>
-          <turn when="2003-12-12 13:42:35" duration="129">Anne-Marie Ekström (Fp)</turn>
-          <turn when="2003-12-12 13:44:40" duration="256">Barbro Holmberg (S)</turn>
-          <turn when="2003-12-12 13:48:53" duration="146">Sten Tolgfors (M)</turn>
-          <turn when="2003-12-12 13:51:15" duration="157">Barbro Holmberg (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:132 av Sten Tolgfors (m) till statsrådet
-          Barbro Holmberg om den nya instansordningen för asylärenden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5DSy59s57V68AjfRyEUt12">
+            Interpellation 2003/04:132 av Sten Tolgfors (m) till statsrådet
+            Barbro Holmberg om den nya instansordningen för asylärenden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-TmikirhRDwkvCYE5rdHxsg">
+            den 20 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JSdsnG7pYaw4MGY5UaTUTa">
-          I samband med Barbro Holmbergs tillträde som minister rapporterades
-          att Socialdemokraterna ville backa från sitt partibeslut om att
-          lägga ned Utlänningsnämnden och ersätta den med förvaltningsdomstol
-          vid överklagan i asylärenden. "Utlänningsnämnden kan inte vara
-          kvar i sin nuvarande form", sade Holmberg i DN, den 11 oktober
-          2003.
-        </p>
-        <p xml:id="i-EXCRCsTBc3PwNqTk9TpeGa">
-          Jan O Karlsson fick i höstas skarp kritik från sex partier för
-          att övergången till ny instansordning missköttes. Bland annat
-          för att halva tiden som stod till förfogande för att se över utlänningslagen
-          användes till att tillsätta utredningen.
-        </p>
-        <p xml:id="i-MmrLvHpWr4dxSNBZ2Xh4bi">
-          Holmbergs agerande skapar nya frågetecken. Hade regeringen menat
-          allvar med viljan att resonera om andra lösningar eller förändringar
-          i liggande förslag hade rimligen ett väl underbyggt underlag öppet
-          presenterats för partierna och kontakter tagits med partierna
-          för en seriös diskussion. Så skedde nu inte, utan i stället läcktes
-          ett fyrsidigt PM till massmedierna. Inga förslag om förändringar
-          presenterades dock. Har regeringen ytterligare information av
-          vikt för frågans bedömning måste den läggas på bordet omedelbart.
-        </p>
-        <p xml:id="i-Xn1hcVQR44dtt1emZeKXvy">
-          Moderaterna har under en lång period varit medvetna om att ökad
-          rättssäkerhet och en ny instansordning kostar pengar. Vad kostnaden
-          blir beror dock på hur instansordningen och lagen utformas. Kostnaden
-          för instansordningen kan inte ses isolerad från hur hela mottagningssystemet
-          fungerar. Även långa väntetider medför stora kostnader.
-        </p>
-        <p xml:id="i-BeqME32UYptYq8XACNS2t2">
-          Förtroendet för instansordningen, kvaliteten på utredningar och
-          beslut påverkar också kostnaderna. Ökat förtroende och bättre
-          motiverade beslut ger rimligen färre överklaganden och tydligare
-          praxis.
-        </p>
-        <p xml:id="i-Why5tHjedsuHXQWqhukTj5">
-          Alla partier @ även regeringen @ har varit överens om att rättssäkerheten
-          vid prövningen måste öka bland annat genom inslag av tvåpartsprocess
-          och muntlig förhandling. Huvuddelen av den kostnadsökning, som
-          beskrivs i den PM regeringen läckte, förklaras just med dessa
-          båda faktorer. I Svenska Dagbladet erkände UD att man för att
-          minska kostnaderna måste minska ambitionen om rättssäkerhet.
-        </p>
-        <p xml:id="i-MteVpMeQ5vvBSoFb69q2JH">
-          Regeringens ambivalens är skadlig för allmänhetens förtroende
-          för instansordningen, såväl den nuvarande som den kommande.
-        </p>
-        <p xml:id="i-AGFg9VdttFnh4rG9W5oXW5">
-          Mot bakgrund av ovanstående riktar jag följande frågor till statsrådet
-          Barbro Holmberg:
-        </p>
-        <p xml:id="i-5M8ybDsbWiZLLxyeuLzTfp">
-          Har statsrådet för avsikt att prioritera rättssäkerheten i asylsystemet?
-        </p>
-        <p xml:id="i-3foJk62Xk5BBJTE9DcJm5e">
-          Vad vill statsrådet göra med instansordningen i asylärenden?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-T4mgvPMxUjvQxV9iDDfpdE">
+            I samband med Barbro Holmbergs tillträde som minister rapporterades
+            att Socialdemokraterna ville backa från sitt partibeslut om att
+            lägga ned Utlänningsnämnden och ersätta den med förvaltningsdomstol
+            vid överklagan i asylärenden. "Utlänningsnämnden kan inte vara
+            kvar i sin nuvarande form", sade Holmberg i DN, den 11 oktober
+            2003.
+          </p>
+          <p xml:id="i-G5xqP5MeYoGLEd7NFNAX5">
+            Jan O Karlsson fick i höstas skarp kritik från sex partier för
+            att övergången till ny instansordning missköttes. Bland annat
+            för att halva tiden som stod till förfogande för att se över utlänningslagen
+            användes till att tillsätta utredningen.
+          </p>
+          <p xml:id="i-FwUaip7c4vuxJ8UWrPEHZB">
+            Holmbergs agerande skapar nya frågetecken. Hade regeringen menat
+            allvar med viljan att resonera om andra lösningar eller förändringar
+            i liggande förslag hade rimligen ett väl underbyggt underlag öppet
+            presenterats för partierna och kontakter tagits med partierna
+            för en seriös diskussion. Så skedde nu inte, utan i stället läcktes
+            ett fyrsidigt PM till massmedierna. Inga förslag om förändringar
+            presenterades dock. Har regeringen ytterligare information av
+            vikt för frågans bedömning måste den läggas på bordet omedelbart.
+          </p>
+          <p xml:id="i-VLuHQGyjTg1wL3DHgUVazC">
+            Moderaterna har under en lång period varit medvetna om att ökad
+            rättssäkerhet och en ny instansordning kostar pengar. Vad kostnaden
+            blir beror dock på hur instansordningen och lagen utformas. Kostnaden
+            för instansordningen kan inte ses isolerad från hur hela mottagningssystemet
+            fungerar. Även långa väntetider medför stora kostnader.
+          </p>
+          <p xml:id="i-Lx7r5y1MJrgry3w7S97t44">
+            Förtroendet för instansordningen, kvaliteten på utredningar och
+            beslut påverkar också kostnaderna. Ökat förtroende och bättre
+            motiverade beslut ger rimligen färre överklaganden och tydligare
+            praxis.
+          </p>
+          <p xml:id="i-XY47hMzMH98zMz5aCdn2hW">
+            Alla partier @ även regeringen @ har varit överens om att rättssäkerheten
+            vid prövningen måste öka bland annat genom inslag av tvåpartsprocess
+            och muntlig förhandling. Huvuddelen av den kostnadsökning, som
+            beskrivs i den PM regeringen läckte, förklaras just med dessa
+            båda faktorer. I Svenska Dagbladet erkände UD att man för att
+            minska kostnaderna måste minska ambitionen om rättssäkerhet.
+          </p>
+          <p xml:id="i-ZaLxsvAqvn1me4ZdUkBdY">
+            Regeringens ambivalens är skadlig för allmänhetens förtroende
+            för instansordningen, såväl den nuvarande som den kommande.
+          </p>
+          <p xml:id="i-6zC3vwaPVaqUBCNAxSMfyC">
+            Mot bakgrund av ovanstående riktar jag följande frågor till statsrådet
+            Barbro Holmberg:
+          </p>
+          <p xml:id="i-TwtijxyuiMjEVN21oD9YgX">
+            Har statsrådet för avsikt att prioritera rättssäkerheten i asylsystemet?
+          </p>
+          <p xml:id="i-X1Y52NpM48qNmXK4CBnj3G">
+            Vad vill statsrådet göra med instansordningen i asylärenden?
+          </p>
+        </div>
       </div>
     </body>
   </text>

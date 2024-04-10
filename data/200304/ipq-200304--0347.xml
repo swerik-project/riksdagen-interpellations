@@ -3,94 +3,128 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>häktet i Östersund</title>
+        <author>Sundell, Ola (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>häktet i Östersund till justitieminister Thomas Bodström om häktet i Östersund</title>
+          <idno type="rdwebb">GR10347</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10347/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10347</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10347</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-DKsVYU73WDtSTFEeLoboVx</idno>
+            <persName>Ola Sundell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-3F9hL4j8jbcDeSt3C4THyk" corresp="i-DKsVYU73WDtSTFEeLoboVx">
+          <date when="2004-03-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-UAB9GJ4VPDMhdyEfE5c3T4">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BaEhyNmPuhWVfLXYB3VTyF">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Cdx85QEa8okWJ9R2iB8yyg" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EMSK5SVq5ivMW4hQyWT7gA" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspContext corresp="i-EMSK5SVq5ivMW4hQyWT7gA">
+          <ref type="record" target="prot-200304--094">Riksdagens protokoll 2003/04:94 Tisdagen den 13 april</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellationerna 2003/04:347 och 352 om häktet i Östersund</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0347</head>
-        <author who="i-DKsVYU73WDtSTFEeLoboVx">Ola Sundell</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>häktet i Östersund</topic>
-        <docDate when="2004-03-12">den 12 mars</docDate>
-        <status when="2004-04-13" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10347</external_id>
-        <debate>
-          <turn when="2004-04-13 16:05:53" duration="123">Thomas Bodström (S)</turn>
-          <turn when="2004-04-13 16:07:52" duration="101">Ola Sundell (M)</turn>
-          <turn when="2004-04-13 16:09:29" duration="221">Camilla Sköld Jansson (V)</turn>
-          <turn when="2004-04-13 16:13:06" duration="189">Rune Berglund (S)</turn>
-          <turn when="2004-04-13 16:16:11" duration="75">Thomas Bodström (S)</turn>
-          <turn when="2004-04-13 16:17:22" duration="68">Ola Sundell (M)</turn>
-          <turn when="2004-04-13 16:18:27" duration="151">Camilla Sköld Jansson (V)</turn>
-          <turn when="2004-04-13 16:20:54" duration="5895">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:347 av Ola Sundell (m) till justitieminister
-          Thomas Bodström om häktet i Östersund
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BepMfzDK6VG3cPMjC1sqjP">
+            Interpellation 2003/04:347 av Ola Sundell (m) till justitieminister
+            Thomas Bodström om häktet i Östersund
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6Yqt1QE9mqxDmBdmS4nCPE">
+            den 12 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ETYvbSPnwvcP4AyAAxCRMv">
-          Den 1 januari år 1996 lades häktet i Östersund ned. Det bestod
-          då av 18 häktesplatser som inrymdes i polishuset. När Riksdagens
-          revisorer granskade nedläggningen var man mycket kritisk till
-          om det över huvud taget fanns någon samhällsekonomisk vinning
-          med nedläggning.
-        </p>
-        <p xml:id="i-GHndiFHnazv1XS2gy7jwVj">
-          I dag ser vi resultatet av nedläggningen. År 1994 gjordes 82
-          häktningsframställningar vid Östersunds tingsrätt. År 2000 hade
-          detta ökat till 129 stycken framställningar. Det genomsnittliga
-          antalet häktade per dag har ökat från sex stycken (1996) till
-          elva stycken (2001). Dessa måste i dag transporteras till häktet
-          i Härnösand, vilket har lett till att det där nu råder en konstant
-          överbeläggning.
-        </p>
-        <p xml:id="i-7aVX6Xm8SYAgoSHNZFoMEV">
-          Med anledning av nedläggningen i Östersund har det även uppstått
-          en merkostnad för staten som för närvarande uppgår till 4,5@5
-          miljoner kronor per år. Merkostnaden härrör från ökade kostnader
-          för åklagare, advokater, polis och kriminalvård.
-        </p>
-        <p xml:id="i-EJf7yeofztu9Yfu28dMjmH">
-          De överbelagda häktena och det långa avståndet till Härnösand
-          är ett hot mot rättssäkerheten. Utredningsarbeten som utförs på
-          distans blir kanske inte de allra bästa. Detta är ett problem
-          som måste lösas.
-        </p>
-        <p xml:id="i-5jcNejVMfMizD3DoJZ1RE6">
-          Utöver detta betvivlas om man uppnår en nettobesparing som kan
-          ställas mot rättssäkerheten och en god regionalpolitik för tillväxt,
-          sysselsättning och service i Jämtlands län.
-        </p>
-        <p xml:id="i-16sUsWfiRnBVBJKm8o43zE">
-          Mot bakgrund av att rättssäkerheten försämras och de verkliga
-          kostnaderna för staten skjuter i höjden vill jag fråga justitieministern
-          vilka åtgärder han tänker vidta för att Östersund ska få tillbaka
-          häktet.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-NyaTnhmfCgVwLAEYvzjMJK">
+            Den 1 januari år 1996 lades häktet i Östersund ned. Det bestod
+            då av 18 häktesplatser som inrymdes i polishuset. När Riksdagens
+            revisorer granskade nedläggningen var man mycket kritisk till
+            om det över huvud taget fanns någon samhällsekonomisk vinning
+            med nedläggning.
+          </p>
+          <p xml:id="i-PUCLJgjtaPf1iUDXCT84YK">
+            I dag ser vi resultatet av nedläggningen. År 1994 gjordes 82
+            häktningsframställningar vid Östersunds tingsrätt. År 2000 hade
+            detta ökat till 129 stycken framställningar. Det genomsnittliga
+            antalet häktade per dag har ökat från sex stycken (1996) till
+            elva stycken (2001). Dessa måste i dag transporteras till häktet
+            i Härnösand, vilket har lett till att det där nu råder en konstant
+            överbeläggning.
+          </p>
+          <p xml:id="i-2ECHWYzgkC1JXxMRJguqoo">
+            Med anledning av nedläggningen i Östersund har det även uppstått
+            en merkostnad för staten som för närvarande uppgår till 4,5@5
+            miljoner kronor per år. Merkostnaden härrör från ökade kostnader
+            för åklagare, advokater, polis och kriminalvård.
+          </p>
+          <p xml:id="i-KxryQUYSaPQUQgzP8DNS3K">
+            De överbelagda häktena och det långa avståndet till Härnösand
+            är ett hot mot rättssäkerheten. Utredningsarbeten som utförs på
+            distans blir kanske inte de allra bästa. Detta är ett problem
+            som måste lösas.
+          </p>
+          <p xml:id="i-6LTEmFBcH2X3G5yHdX1Dr1">
+            Utöver detta betvivlas om man uppnår en nettobesparing som kan
+            ställas mot rättssäkerheten och en god regionalpolitik för tillväxt,
+            sysselsättning och service i Jämtlands län.
+          </p>
+          <p xml:id="i-VGBJnpB5MaktJQfKiYuM41">
+            Mot bakgrund av att rättssäkerheten försämras och de verkliga
+            kostnaderna för staten skjuter i höjden vill jag fråga justitieministern
+            vilka åtgärder han tänker vidta för att Östersund ska få tillbaka
+            häktet.
+          </p>
+        </div>
       </div>
     </body>
   </text>

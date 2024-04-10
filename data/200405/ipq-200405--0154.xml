@@ -3,74 +3,118 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>israeliska bosättningar på palestinskt område</title>
+        <author>Qarlsson, Annika (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>israeliska bosättningar på palestinskt område till utrikesminister Laila Freivalds om israeliska bosättningar på palestinskt område</title>
+          <idno type="rdwebb">GS10154</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10154/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10154</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10154</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-NRb4HpaQ87qUwhLNcKt7Gz</idno>
+            <persName>Annika Qarlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <persName>Laila Freivalds</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <persName>Laila Freivalds</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DMyb7Y9X4ZRngUit3fci9D" corresp="i-NRb4HpaQ87qUwhLNcKt7Gz">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SGKVYx4xPs7WiSCkDWZDEN">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-U98VHW9dupGtsC1b4X5uY8">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8GwDiYVpo4p41aErN3Cdg5" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Ct7e2PNST6iVduGvGeuyDB" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-Ct7e2PNST6iVduGvGeuyDB">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellationerna 2004/05:122, 136, 138, 153, 154, 155 och 156 om förändrad Mellanösternpolitik</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0154</head>
-        <author who="i-NRb4HpaQ87qUwhLNcKt7Gz">Annika Qarlsson</author>
-        <recipient who="i-4CwyNH4xXJhZj5wdBAzmSY">Laila Freivalds</recipient>
-        <topic>israeliska bosättningar på palestinskt område</topic>
-        <docDate when="2004-11-18">den 18 november</docDate>
-        <status when="unknown" byWhom="Laila Freivalds" byWhomId="i-4CwyNH4xXJhZj5wdBAzmSY" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10154</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:154 av Annika Qarlsson (c) till utrikesminister
-          Laila Freivalds om israeliska bosättningar på palestinskt område
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9vssfjXCZHXafADh18YpAi">
+            Interpellation 2004/05:154 av Annika Qarlsson (c) till utrikesminister
+            Laila Freivalds om israeliska bosättningar på palestinskt område
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-HJz8o8XsWoW2DR42dqBTox">
+            den 18 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FMhPwojxrft2VCjBRp6Ez8">
-          Folkrätten och FN:s beslut innebär att både Israel och Palestina
-          har rätt att leva med erkända och säkra gränser. Men utvecklingen
-          i området med en negativ våldsspiral, med både självmordsbombare
-          på ena sidan och en politik som leder i helt motsatt riktning
-          på den andra, så ser det beslutet ut att stanna vid en dröm. En
-          palestinsk stat som själv kontrollerar ekonomi, handel och gränser
-          blir alltmer avlägsen för var dag som går. Ett underkuvat, fragmentiserat,
-          fattigt och splittrat Palestina gynnar inte en långsiktig hållbar
-          fred @ varken för Israels eller Palestinas folk.
-        </p>
-        <p xml:id="i-V5R2C1JZKv4wYj1ZRAsRxr">
-          Trots att fjärde Genèvekonventionen förbjuder inflyttning av
-          den egna befolkningen till ockuperad mark har den israeliska regeringen
-          ökat inflyttningstakten. 2003 ökade antalet beviljade tillstånd
-          för judiska bosättare att bygga bostäder med 35 %. Bara under
-          juli till augusti i år beviljades ytterligare 2 300 tillstånd.
-          Därför har antalet bosättare på Västbanken och i Gaza kunnat fördubblas
-          sedan Osloprocessen och är nu uppe i över 400 000. Bosättningarna
-          lägger samtidigt beslag på den bördigaste marken och de största
-          vattentillgångarna. Tidigare var bosättningarna som öar på Västbanken.
-          Nu är situationen den omvända; palestinierna tvingas leva instängda
-          i byar och städer.
-        </p>
-        <p xml:id="i-PwCjS3tGxaguNbtUyQznS4">
-          Vad avser utrikesministern att göra för att sätta internationell
-          press på Israel att stoppa expansionen och påbörja avvecklingen
-          av bosättningarna på palestinskt område?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-EQ1NbH3iEmksAf3EnnYURc">
+            Folkrätten och FN:s beslut innebär att både Israel och Palestina
+            har rätt att leva med erkända och säkra gränser. Men utvecklingen
+            i området med en negativ våldsspiral, med både självmordsbombare
+            på ena sidan och en politik som leder i helt motsatt riktning
+            på den andra, så ser det beslutet ut att stanna vid en dröm. En
+            palestinsk stat som själv kontrollerar ekonomi, handel och gränser
+            blir alltmer avlägsen för var dag som går. Ett underkuvat, fragmentiserat,
+            fattigt och splittrat Palestina gynnar inte en långsiktig hållbar
+            fred @ varken för Israels eller Palestinas folk.
+          </p>
+          <p xml:id="i-VTH9Lc2R7xZqmXPnt8LVqk">
+            Trots att fjärde Genèvekonventionen förbjuder inflyttning av
+            den egna befolkningen till ockuperad mark har den israeliska regeringen
+            ökat inflyttningstakten. 2003 ökade antalet beviljade tillstånd
+            för judiska bosättare att bygga bostäder med 35 %. Bara under
+            juli till augusti i år beviljades ytterligare 2 300 tillstånd.
+            Därför har antalet bosättare på Västbanken och i Gaza kunnat fördubblas
+            sedan Osloprocessen och är nu uppe i över 400 000. Bosättningarna
+            lägger samtidigt beslag på den bördigaste marken och de största
+            vattentillgångarna. Tidigare var bosättningarna som öar på Västbanken.
+            Nu är situationen den omvända; palestinierna tvingas leva instängda
+            i byar och städer.
+          </p>
+          <p xml:id="i-GBFn5QiVcvJb6QXjrkUcG2">
+            Vad avser utrikesministern att göra för att sätta internationell
+            press på Israel att stoppa expansionen och påbörja avvecklingen
+            av bosättningarna på palestinskt område?
+          </p>
+        </div>
       </div>
     </body>
   </text>

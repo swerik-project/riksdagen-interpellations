@@ -3,147 +3,186 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>rovdjursfrågan</title>
+        <author>Johansson, Bengt-Anders (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>rovdjursfrågan till jordbruksminister Ann-Christin Nykvist om rovdjursfrågan</title>
+          <idno type="rdwebb">GR10113</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10113/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10113</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10113</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-P2x4fiHNXrW2XTzJZRJeJJ</idno>
+            <persName>Bengt-Anders Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-6XH25Qoae9xMf49gh8Qoaj" corresp="i-P2x4fiHNXrW2XTzJZRJeJJ">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9VrHAuJagpKYe6No4o3CXL" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HsNTAmcpAbgtxcmEvV6Nq1">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3TMF9KuH3c9AUs7JpjnXjb" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspContext corresp="i-3TMF9KuH3c9AUs7JpjnXjb">
+          <ref type="record" target="prot-200304--043">Riksdagens protokoll 2003/04:43 Fredagen den 5 december</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2003/04:113 om rovdjursfrågan</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0113</head>
-        <author who="i-P2x4fiHNXrW2XTzJZRJeJJ">Bengt-Anders Johansson</author>
-        <recipient who="i-HhkgRHGRURfXTuftg1jHSf">Ann-Christin Nykvist</recipient>
-        <topic>rovdjursfrågan</topic>
-        <docDate when="2003-11-14">den 14 november</docDate>
-        <status when="2003-12-05" byWhom="Ann-Christin Nykvist" byWhomId="i-HhkgRHGRURfXTuftg1jHSf" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10113</external_id>
-        <debate>
-          <turn when="2003-12-05 14:33:10" duration="249">Bengt-Anders Johansson (M)</turn>
-          <turn when="2003-12-05 14:40:24" duration="232">Ann-Christin Nykvist (S)</turn>
-          <turn when="2003-12-05 14:44:13" duration="250">Bengt-Anders Johansson (M)</turn>
-          <turn when="2003-12-05 14:56:19" duration="162">Ann-Christin Nykvist (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:113 av Bengt-Anders Johansson (m) till
-          jordbruksminister Ann-Christin Nykvist om rovdjursfrågan
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PPjTWwiYBXD7WMV6P87sac">
+            Interpellation 2003/04:113 av Bengt-Anders Johansson (m) till
+            jordbruksminister Ann-Christin Nykvist om rovdjursfrågan
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MXHQ1kUzBzK6PWEkZoRP8b">
+            den 14 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-L4r1xG1unop7h7rYYAAQ5k">
-          Tre av de stora rovdjursarterna är under kraftig tillväxt i landet.
-          Björnstammen är betydligt större än vad tidigare forskningsrapporter
-          redovisat. Samma förhållande har varit för handen i fråga om lodjur.
-          Vargstammen ökar och sprider sig till alltfler områden, med ökat
-          antal skador på tamdjur och andra viltarter som följd.
-        </p>
-        <p xml:id="i-xgnEcXVyUG626GoQ6p3xv">
-          Vad gäller skador förorsakade av rovdjur intar vargen en särställning,
-          både i fråga om skador på tamdjur och andra viltarter. Samtidigt
-          som en etablerad vargstam ökar i antal, minskar bytesdjuren som
-          älg, hjort och rådjur i antal. Detta framgår klart av all samlad
-          erfarenhet vid förekomst av stora rovdjur.
-        </p>
-        <p xml:id="i-XvidFvMsnZaLHi4r3MUSwf">
-          I proposition 2000/01:57 anger regeringen att det för den svenska
-          vargstammen ska tillämpas en etableringsplan med etappnivåer för
-          antalet vargar. Första etappmålet har därvid satts till 20 föryngringar
-          per år (ca 200 djur). Detta etappmål kan förväntas vara uppfyllt
-          redan våren 2004. Skäl för denna bedömning är de genomgående alltför
-          låga antalsberäkningar som sedan länge förelegat i fråga om övriga
-          rovdjur exempelvis björn och lo. Till detta kommer att vargpopulationen
-          generellt har en betydligt högre föryngringstakt och etableringsförmåga
-          i nya områden, varför antalsökningen är svårare att förutse än
-          i fråga om exempelvis björn.
-        </p>
-        <p xml:id="i-3q3a2MXBa3qiePwD2NoxNo">
-          Proposition 2000/01:57 innehåller mycket vaga uppgifter om de
-          kostnader som en växande vargstam i Sverige kommer att förorsaka.
-          Inte heller Rovdjursutredningens betänkande (SOU 1999:146) innehåller
-          någon klar redovisning av de totala kostnaderna för enskilda och
-          samhället som växande rovdjursstammar kommer att framskapa vid
-          olika antalsnivåer. Institutionen för skogsekonomi vid Sveriges
-          lantbruksuniversitet i Umeå, genomförde 1993 en samhällsekonomisk
-          studie (arbetsrapport 165, 1993) benämnd Kostnader för de "fyra
-          stora" rovdjuren i svensk fauna. I sammanställningen av rapporten
-          anges att, med ett beräknat antal individer av vardera art av
-          de "fyra stora", kan den sammanlagda kostnaden per år beräknas
-          till 6 043 750 000 kronor (i 1993 års penningvärde). Antalet björnar
-          och lodjur beräknas i dagsläget vara ca 1 500 av vardera arten.
-          Vargstammen växer och kommer inom några år att passera andrahandsnivån
-          500 djur, som den till Rovdjursutredningen knutna forskargruppen
-          framhållit som minimiantal.
-        </p>
-        <p xml:id="i-LWBwyXTvg6CjRxcvUN5J52">
-          Under de två senaste åren har antalet rovdjurangrepp, främst
-          vargangrepp, drabbat landets tamdjursägare. En kraftig ökning
-          av dessa skador är att förvänta under kommande år med ökat antal
-          rovdjur, framför allt vargar.
-        </p>
-        <p xml:id="i-86x8A1qfX2YHE7ckR5ce7j">
-          Redan i nuläget har många tamdjursägare upphört med sin verksamhet
-          på grund av rovdjursangrepp som omöjliggjort deras tidigare djurhållning.
-          Att inhägna alla betesmarker med så kallade rovdjursäkra stängsel
-          är såväl en ekonomisk som praktisk omöjlighet. Det skulle dessutom
-          totalt förändra det svenska kulturlandskapet och dess tillgänglighet.
-          Den unika svenska allemansrätten skulle bli kraftigt inskränkt.
-          Med allt färre betande kreatur förbuskas och försvinner det öppna
-          kulturlandskapet.
-        </p>
-        <p xml:id="i-KsyrNB6MG4T7reqNTt52U9">
-          Ett annat problem med växande rovdjursstammar är hur dessa ska
-          kunna antalsregleras genom jakt. Detta gäller särskilt vargstammen,
-          där vanliga jaktmetoder endast i begränsad omfattning kan tillämpas.
-          Till skillnad från jakt efter alla andra djurarter kan inte hundar
-          användas vid vargjakt. Avsaknad av spårsnö medför att jakt efter
-          varg i praktiken är omöjlig att genomföra.
-        </p>
-        <p xml:id="i-YbcwCFZdHeStAutG8wzb3n">
-          Förhållandet är väl känt i områden med fast etablerade vargstammar
-          som exempelvis Ryssland och Kanada, där gift måste tillgripas
-          när andra medel och metoder inte räcker till för att reglera vargstammen
-          (s. 124 i Rovdjursutredningens betänkande SOU 1999:146). Därtill
-          kommer att den svenska jägarkåren minskar i antal år från år.
-          Förutsättningarna att kunna reglera en växande vargstam i Sverige
-          blir svårare att klara med allt färre jägare i framtiden.
-        </p>
-        <p xml:id="i-6PGrnTC34Z32iikXmCqW5V">
-          Mot bakgrund av vad regeringen angett i proposition 2000/01:57
-          om att Sverige ska ta ansvar för att livskraftiga rovdjursstammar
-          ska få växa till och sprida sig i landet, är det nu hög tid att
-          ställa följande frågor.
-        </p>
-        <p xml:id="i-TieteBZyugtJocsxVY7A3T">
-          1. Vad har ministern för planering för förvaltningen av landets
-          stora rovdjur björn, varg, lo och järv?
-        </p>
-        <p xml:id="i-5WqczdBovy55GPcUraa78j">
-          2. Hur avser ministern att reglera de växande rovdjursstammarna,
-          och då särskilt den mycket svårjagade vargstammen?
-        </p>
-        <p xml:id="i-Sg3zeZSBbrQriALu9Bn4zK">
-          3. Hur avser ministern att de stora skador och kostnader som
-          rovdjuren kommer att förorsaka under kommande år ska bestridas
-          och finansieras?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-D9Uc1ExC2AnD9qTeg1diNX">
+            Tre av de stora rovdjursarterna är under kraftig tillväxt i landet.
+            Björnstammen är betydligt större än vad tidigare forskningsrapporter
+            redovisat. Samma förhållande har varit för handen i fråga om lodjur.
+            Vargstammen ökar och sprider sig till alltfler områden, med ökat
+            antal skador på tamdjur och andra viltarter som följd.
+          </p>
+          <p xml:id="i-JzBBD1E1MjB9377cpnXLkt">
+            Vad gäller skador förorsakade av rovdjur intar vargen en särställning,
+            både i fråga om skador på tamdjur och andra viltarter. Samtidigt
+            som en etablerad vargstam ökar i antal, minskar bytesdjuren som
+            älg, hjort och rådjur i antal. Detta framgår klart av all samlad
+            erfarenhet vid förekomst av stora rovdjur.
+          </p>
+          <p xml:id="i-ScmCWZha838Kjuc6UHzaGg">
+            I proposition 2000/01:57 anger regeringen att det för den svenska
+            vargstammen ska tillämpas en etableringsplan med etappnivåer för
+            antalet vargar. Första etappmålet har därvid satts till 20 föryngringar
+            per år (ca 200 djur). Detta etappmål kan förväntas vara uppfyllt
+            redan våren 2004. Skäl för denna bedömning är de genomgående alltför
+            låga antalsberäkningar som sedan länge förelegat i fråga om övriga
+            rovdjur exempelvis björn och lo. Till detta kommer att vargpopulationen
+            generellt har en betydligt högre föryngringstakt och etableringsförmåga
+            i nya områden, varför antalsökningen är svårare att förutse än
+            i fråga om exempelvis björn.
+          </p>
+          <p xml:id="i-So1iDm8HB1tL7UEp3b6F6n">
+            Proposition 2000/01:57 innehåller mycket vaga uppgifter om de
+            kostnader som en växande vargstam i Sverige kommer att förorsaka.
+            Inte heller Rovdjursutredningens betänkande (SOU 1999:146) innehåller
+            någon klar redovisning av de totala kostnaderna för enskilda och
+            samhället som växande rovdjursstammar kommer att framskapa vid
+            olika antalsnivåer. Institutionen för skogsekonomi vid Sveriges
+            lantbruksuniversitet i Umeå, genomförde 1993 en samhällsekonomisk
+            studie (arbetsrapport 165, 1993) benämnd Kostnader för de "fyra
+            stora" rovdjuren i svensk fauna. I sammanställningen av rapporten
+            anges att, med ett beräknat antal individer av vardera art av
+            de "fyra stora", kan den sammanlagda kostnaden per år beräknas
+            till 6 043 750 000 kronor (i 1993 års penningvärde). Antalet björnar
+            och lodjur beräknas i dagsläget vara ca 1 500 av vardera arten.
+            Vargstammen växer och kommer inom några år att passera andrahandsnivån
+            500 djur, som den till Rovdjursutredningen knutna forskargruppen
+            framhållit som minimiantal.
+          </p>
+          <p xml:id="i-2Qar6UbdEgxg9tH4bwLNWK">
+            Under de två senaste åren har antalet rovdjurangrepp, främst
+            vargangrepp, drabbat landets tamdjursägare. En kraftig ökning
+            av dessa skador är att förvänta under kommande år med ökat antal
+            rovdjur, framför allt vargar.
+          </p>
+          <p xml:id="i-E3dzGXzYzfgLUZdiNgwTx6">
+            Redan i nuläget har många tamdjursägare upphört med sin verksamhet
+            på grund av rovdjursangrepp som omöjliggjort deras tidigare djurhållning.
+            Att inhägna alla betesmarker med så kallade rovdjursäkra stängsel
+            är såväl en ekonomisk som praktisk omöjlighet. Det skulle dessutom
+            totalt förändra det svenska kulturlandskapet och dess tillgänglighet.
+            Den unika svenska allemansrätten skulle bli kraftigt inskränkt.
+            Med allt färre betande kreatur förbuskas och försvinner det öppna
+            kulturlandskapet.
+          </p>
+          <p xml:id="i-Hw39bv5GW7gf7z48boMPfB">
+            Ett annat problem med växande rovdjursstammar är hur dessa ska
+            kunna antalsregleras genom jakt. Detta gäller särskilt vargstammen,
+            där vanliga jaktmetoder endast i begränsad omfattning kan tillämpas.
+            Till skillnad från jakt efter alla andra djurarter kan inte hundar
+            användas vid vargjakt. Avsaknad av spårsnö medför att jakt efter
+            varg i praktiken är omöjlig att genomföra.
+          </p>
+          <p xml:id="i-5NxFyWewWanjHv5my9APp2">
+            Förhållandet är väl känt i områden med fast etablerade vargstammar
+            som exempelvis Ryssland och Kanada, där gift måste tillgripas
+            när andra medel och metoder inte räcker till för att reglera vargstammen
+            (s. 124 i Rovdjursutredningens betänkande SOU 1999:146). Därtill
+            kommer att den svenska jägarkåren minskar i antal år från år.
+            Förutsättningarna att kunna reglera en växande vargstam i Sverige
+            blir svårare att klara med allt färre jägare i framtiden.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-WhbPTn9Gq3efCUKUNEe8Lx">
+            Mot bakgrund av vad regeringen angett i proposition 2000/01:57
+            om att Sverige ska ta ansvar för att livskraftiga rovdjursstammar
+            ska få växa till och sprida sig i landet, är det nu hög tid att
+            ställa följande frågor.
+            <list rend="unordered">
+              <item>
+                1. Vad har ministern för planering för förvaltningen av landets
+                stora rovdjur björn, varg, lo och järv?
+              </item>
+              <item>
+                2. Hur avser ministern att reglera de växande rovdjursstammarna,
+                och då särskilt den mycket svårjagade vargstammen?
+              </item>
+              <item>
+                3. Hur avser ministern att de stora skador och kostnader som
+                rovdjuren kommer att förorsaka under kommande år ska bestridas
+                och finansieras?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

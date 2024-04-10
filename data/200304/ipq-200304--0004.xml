@@ -3,91 +3,159 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tullstationen i Gäddede</title>
+        <author>Larsson, Håkan (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>tullstationen i Gäddede till finansminister Bosse Ringholm om tullstationen i Gäddede</title>
+          <idno type="rdwebb">GR104</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR104/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR104</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR104</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-XxqQtZTdHUTphXEbUJ35Ss</idno>
+            <persName>Håkan Larsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-M3kXFh2RmsXkEupiyad3Q6" corresp="i-XxqQtZTdHUTphXEbUJ35Ss">
+          <date when="2003-09-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-G5qJaPSu1764NrJRVftuJa">
+          <date when="2003-09-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2sBikaTX6G3xsubCWXBGFm">
+          <date when="2003-10-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6gfj5ze8PiRiCeMikNNs5K" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-09-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2ebmNq9WDg2KFQA1ruD35i" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-10-02"/>
+        </correspAction>
+        <correspContext corresp="i-2ebmNq9WDg2KFQA1ruD35i">
+          <ref type="record" target="prot-200304--009">Riksdagens protokoll 2003/04:9 Torsdagen den 2 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:4 om tullstationen i Gäddede</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0004</head>
-        <author who="i-XxqQtZTdHUTphXEbUJ35Ss">Håkan Larsson</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>tullstationen i Gäddede</topic>
-        <docDate when="2003-09-24">den 24 september</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR104</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:4 av Håkan Larsson (c) till finansminister
-          Bosse Ringholm om tullstationen i Gäddede
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DoxJaXJha7ZwZZeKjZD914">
+            Interpellation 2003/04:4 av Håkan Larsson (c) till finansminister
+            Bosse Ringholm om tullstationen i Gäddede
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-81F1oUhAs7fMiEKaL45gHZ">
+            den 24 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AiBnRRMp4XQD9nVkrbRf37">
-          Enligt Tullverkets organisationsutredning, Det framtida Tullverket,
-          kommer bland annat tullstationen i Gäddede i nordligaste Jämtland
-          att läggas ned. Fullföljs planerna skulle detta få omfattande
-          negativa konsekvenser för utvecklingen i mellersta Norrlands inland.
-        </p>
-        <p xml:id="i-FpvFc6pm1xBTzcPFHtaubW">
-          I dag talas från alla politiska läger, inte minst från regeringens
-          sida, om vikten av att föra en offensiv politik för tillväxt.
-          Ska de fina ambitionerna om en politik för tillväxt kunna omsättas
-          i praktiken krävs en helhetssyn. Förslaget om att lägga ned tullstationen
-          i Gäddede visar att det finns mycket övrigt att önska på den punkten.
-          Utredningen har inte tagit hänsyn till vilka konsekvenser nedläggningsförslaget
-          får för det omgivande samhället. Inte heller verkar man förstå
-          vilka problem avståndet innebär, att närmaste tullstation skulle
-          finnas 30 mil bort om planerna fullföljs.
-        </p>
-        <p xml:id="i-X3UW4j4v57bu2p2owNF64a">
-          I Gäddede och Frostvikenområdet finns i dag en spirande framtidstro.
-          Här finns ungefär 120 företag. Handeln över gränsen till Norge
-          och det närbelägna Lierne är omfattande och har en stor framtidspotential.
-          Tillväxtförutsättningarna är goda, men det förutsätter att samhället
-          inte försvårar en positiv utveckling.
-        </p>
-        <p xml:id="i-3SrLE5PMfGHugRpALGqcw9">
-          Tullstationen i Gäddede har naturligtvis stor betydelse för näringslivet
-          i Frostvikenområdet, men också i stora delar av mellersta Norrlands
-          inland. En nedläggning av tullstationen innebär en marginell besparing
-          för Tullverket vid en jämförelse med näringslivets förluster i
-          form av uteblivna intäkter och ökade kostnader. En nedläggning
-          skulle vara ett direkt slag mot ambitionerna i området att stärka
-          och utveckla handeln över gränsen till Norge.
-        </p>
-        <p xml:id="i-NRsXQQ4CMbCNeZQmBNoZsP">
-          Näringslivet och kommunerna i området har bland annat pekat på
-          följande negativa effekter av en nedläggning av tullstationen
-          i Gäddede:
-        </p>
-        <p xml:id="i-4v2D8EiHeq6VE21qQxnT86">
-          Mot denna bakgrund vill jag fråga:
-        </p>
-        <p xml:id="i-UL9Xg7qY9f3xpCmkToYxbQ">
-          Vilka åtgärder är statsrådet beredd att vidta för att inte förändringar
-          i Tullverkets organisation ska försvåra en positiv utveckling
-          för näringslivet i mellersta Norrlands inland?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-HUmWBjbYrAVyHQT3rFr9EV">
+            Enligt Tullverkets organisationsutredning, Det framtida Tullverket,
+            kommer bland annat tullstationen i Gäddede i nordligaste Jämtland
+            att läggas ned. Fullföljs planerna skulle detta få omfattande
+            negativa konsekvenser för utvecklingen i mellersta Norrlands inland.
+          </p>
+          <p xml:id="i-39i6YFQG8geFZKD7Jr7Z4a">
+            I dag talas från alla politiska läger, inte minst från regeringens
+            sida, om vikten av att föra en offensiv politik för tillväxt.
+            Ska de fina ambitionerna om en politik för tillväxt kunna omsättas
+            i praktiken krävs en helhetssyn. Förslaget om att lägga ned tullstationen
+            i Gäddede visar att det finns mycket övrigt att önska på den punkten.
+            Utredningen har inte tagit hänsyn till vilka konsekvenser nedläggningsförslaget
+            får för det omgivande samhället. Inte heller verkar man förstå
+            vilka problem avståndet innebär, att närmaste tullstation skulle
+            finnas 30 mil bort om planerna fullföljs.
+          </p>
+          <p xml:id="i-YZQxMY7uFbMdMJrb4P55fR">
+            I Gäddede och Frostvikenområdet finns i dag en spirande framtidstro.
+            Här finns ungefär 120 företag. Handeln över gränsen till Norge
+            och det närbelägna Lierne är omfattande och har en stor framtidspotential.
+            Tillväxtförutsättningarna är goda, men det förutsätter att samhället
+            inte försvårar en positiv utveckling.
+          </p>
+          <p xml:id="i-958Z4UegdKCmSU8ZYoKy2Y">
+            Tullstationen i Gäddede har naturligtvis stor betydelse för näringslivet
+            i Frostvikenområdet, men också i stora delar av mellersta Norrlands
+            inland. En nedläggning av tullstationen innebär en marginell besparing
+            för Tullverket vid en jämförelse med näringslivets förluster i
+            form av uteblivna intäkter och ökade kostnader. En nedläggning
+            skulle vara ett direkt slag mot ambitionerna i området att stärka
+            och utveckla handeln över gränsen till Norge.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-39PLiu1Wmk3YuSma1cGQj5">
+            Näringslivet och kommunerna i området har bland annat pekat på
+            följande negativa effekter av en nedläggning av tullstationen
+            i Gäddede:
+            <list rend="unordered">
+              <item>
+                Företag i mellersta Norrlands inland förlorar kunder på den norska
+                sidan av gränsen på grund av längre transporter och därmed högre
+                kostnader.
+              </item>
+              <item>
+                De uppemot 50 mil längre transporterna för att passera en annan
+                tullstation leder till ökad miljöbelastning.
+              </item>
+              <item>
+                Den gränsnära handeln i Frostviken skulle försvåras och minska.
+                En del av de företag som i dag har en omfattande verksamhet på
+                andra sidan av gränsen skulle få problem att överleva.
+              </item>
+              <item>
+                Turismnäringen i Frostviken, särskilt när det gäller jakt, skulle
+                minska dramatiskt. (I dag jagar flera hundra norrmän i området,
+                men utan en tullstation där de kan deklarera sina vapen skulle
+                de knappast komma i samma omfattning.)
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-LQwRFR2Bk2QHECxNtJQuDY">
+            Mot denna bakgrund vill jag fråga:
+          </p>
+          <p xml:id="i-6RPkjy1fu6pCN3K2FwWxuk">
+            Vilka åtgärder är statsrådet beredd att vidta för att inte förändringar
+            i Tullverkets organisation ska försvåra en positiv utveckling
+            för näringslivet i mellersta Norrlands inland?
+          </p>
+        </div>
       </div>
     </body>
   </text>

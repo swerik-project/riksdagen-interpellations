@@ -3,110 +3,146 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>den enskildes makt över arbetstiden</title>
+        <author>Ullenhag, Erik (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>den enskildes makt över arbetstiden till statsrådet Hans Karlsson om den enskildes makt över arbetstiden</title>
+          <idno type="rdwebb">GR10112</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10112/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10112</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10112</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-QKE6ihmLRJvwhV4neD6h7b</idno>
+            <persName>Erik Ullenhag</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-HqdHhWiHgpTCcm67aH4a6J" corresp="i-QKE6ihmLRJvwhV4neD6h7b">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Mju4BoxCkXJzZYhsjGinZh" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SzYKgXP7M5ZD7Joazajc79">
+          <date when="2003-11-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-a9yHDN6iCpN5B7FUVBT51" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-28"/>
+        </correspAction>
+        <correspContext corresp="i-a9yHDN6iCpN5B7FUVBT51">
+          <ref type="record" target="prot-200304--038">Riksdagens protokoll 2003/04:38 Fredagen den 28 november</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:112 om den enskildes makt över arbetstiden</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0112</head>
-        <author who="i-QKE6ihmLRJvwhV4neD6h7b">Erik Ullenhag</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>den enskildes makt över arbetstiden</topic>
-        <docDate when="2003-11-14">den 14 november</docDate>
-        <status when="2003-11-28" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10112</external_id>
-        <debate>
-          <turn when="2003-11-28 09:31:30" duration="209">Hans Karlsson (S)</turn>
-          <turn when="2003-11-28 09:39:26" duration="225">Anders Wiklund (V)</turn>
-          <turn when="2003-11-28 09:43:12" duration="179">Hans Karlsson (S)</turn>
-          <turn when="2003-11-28 09:46:07" duration="259">Erik Ullenhag (Fp)</turn>
-          <turn when="2003-11-28 09:50:18" duration="128">Anders Wiklund (V)</turn>
-          <turn when="2003-11-28 09:54:22" duration="146">Erik Ullenhag (Fp)</turn>
-          <turn when="2003-11-28 09:56:44" duration="108">Hans Karlsson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:112 av Erik Ullenhag (fp) till statsrådet
-          Hans Karlsson om den enskildes makt över arbetstiden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JkMjPdVFEqqGPMjfVwuiBS">
+            Interpellation 2003/04:112 av Erik Ullenhag (fp) till statsrådet
+            Hans Karlsson om den enskildes makt över arbetstiden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-7PJ7wbympp2Mim1QkkX3gv">
+            den 14 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PMLdc44fCbC7uBPRRBt6s5">
-          I juni 2002 lämnade ordföranden för Kommittén för nya arbetstids-
-          och semesterregler (KNAS) Hans Karlsson över delbetänkandet Tid
-          @ för arbete och ledighet (SOU 2002:58) till statsrådet Mona Sahlin.
-          I betänkandet föreslogs bland annat en arbetstidsminskning samt
-          en möjlighet att ta ut semester som del av dag. Från Folkpartiet
-          liberalernas sida motsatte vi oss en arbetstidsminskning @ problemet
-          i Sverige är inte att vi arbetar för mycket utan att antalet arbetade
-          timmar minskar. Däremot välkomnade Folkpartiet liberalerna möjligheten
-          att ta ut semester som del av dag.
-        </p>
-        <p xml:id="i-VvR4FZCfnDFHcDutR3cjGg">
-          Folkpartiet liberalernas övertygelse är att stress i första hand
-          uppstår på grund av att människor saknar makt över sin vardag.
-          En del av lösningen är att ge människor en större makt över sin
-          arbetstid. En lag bör införas som ger den enskilde möjlighet att
-          ta ut ledighet i timmar. Den femte semesterveckan, inarbetad semester
-          och eventuellt ytterligare lediga dagar ska kunna läggas i en
-          timbank. Den som vill kan använda timbanken för att korta sin
-          normalarbetstid under längre eller kortare period. Samtidigt ska
-          det vara möjligt att ta ut tiden i timbanken som lön.
-        </p>
-        <p xml:id="i-KSJS5mBZuqkAaCBwVgmonW">
-          Majoriteten i KNAS kom också i det delbetänkande som ovan nämnts
-          fram till ett förslag som bygger på en timbank. Det finns dock
-          två centrala skillnader mellan kommitténs förslag och Folkpartiets.
-          För det första föreslår majoriteten att det ska lagstiftas om
-          fem nya lediga dagar; det rör sig således om en påtvingad arbetstidsförkortning.
-          För det andra betror majoriteten inte den enskilde att välja att
-          ta ut tiden i timbanken i form av lön.
-        </p>
-        <p xml:id="i-4q5oNucyjSEqBftfKgZsbc">
-          Trots de skillnader som föreligger mellan Folkpartiets förslag
-          och kommittémajoriteten är det bekymmersamt att arbetslivsministern
-          verkar ha lagt kommitténs förslag om en timbank i en byrålåda.
-          Det är dessutom en smula anmärkningsvärt att den Hans Karlsson,
-          som lade förslaget när han var ordförande i KNAS, nu som arbetslivsminister
-          verkar ha övergivit detsamma. Det brådskar med åtgärder som kan
-          göra något åt sjukskrivningarna. En mer flexibel arbetstid skulle
-          vara ett viktigt steg för att få det så kallade livspusslet att
-          gå ihop.
-        </p>
-        <p xml:id="i-Tcu8hit43uWEnmpoLwF285">
-          Mot bakgrund av det sagda vill jag ställa följande frågor till
-          arbetslivsministern:
-        </p>
-        <p xml:id="i-LHt76xws9mEvgsGeEwUjqd">
-          1. Ämnar ministern presentera något förslag om timbank utifrån
-          det betänkande som ordföranden för Kommittén för nya arbetstids-
-          och semesterregler (KNAS) Hans Karlsson för snart ett och ett
-          halvt år sedan lämnade över till statsrådet Mona Sahlin (SOU 2002:58)?
-        </p>
-        <p xml:id="i-DCEXrgKVcW2hhUSSyooaMZ">
-          2. Ämnar ministern vidta några andra åtgärder för att öka den
-          enskilde arbetstagarens inflytande över arbetstiden?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5T1Jh9oiQrXbNb2euybFtW">
+            I juni 2002 lämnade ordföranden för Kommittén för nya arbetstids-
+            och semesterregler (KNAS) Hans Karlsson över delbetänkandet Tid
+            @ för arbete och ledighet (SOU 2002:58) till statsrådet Mona Sahlin.
+            I betänkandet föreslogs bland annat en arbetstidsminskning samt
+            en möjlighet att ta ut semester som del av dag. Från Folkpartiet
+            liberalernas sida motsatte vi oss en arbetstidsminskning @ problemet
+            i Sverige är inte att vi arbetar för mycket utan att antalet arbetade
+            timmar minskar. Däremot välkomnade Folkpartiet liberalerna möjligheten
+            att ta ut semester som del av dag.
+          </p>
+          <p xml:id="i-4uqoL5VQu9aFAp4i7JYH3x">
+            Folkpartiet liberalernas övertygelse är att stress i första hand
+            uppstår på grund av att människor saknar makt över sin vardag.
+            En del av lösningen är att ge människor en större makt över sin
+            arbetstid. En lag bör införas som ger den enskilde möjlighet att
+            ta ut ledighet i timmar. Den femte semesterveckan, inarbetad semester
+            och eventuellt ytterligare lediga dagar ska kunna läggas i en
+            timbank. Den som vill kan använda timbanken för att korta sin
+            normalarbetstid under längre eller kortare period. Samtidigt ska
+            det vara möjligt att ta ut tiden i timbanken som lön.
+          </p>
+          <p xml:id="i-JzraQqEfp2QyBbyoe7Hfsk">
+            Majoriteten i KNAS kom också i det delbetänkande som ovan nämnts
+            fram till ett förslag som bygger på en timbank. Det finns dock
+            två centrala skillnader mellan kommitténs förslag och Folkpartiets.
+            För det första föreslår majoriteten att det ska lagstiftas om
+            fem nya lediga dagar; det rör sig således om en påtvingad arbetstidsförkortning.
+            För det andra betror majoriteten inte den enskilde att välja att
+            ta ut tiden i timbanken i form av lön.
+          </p>
+          <p xml:id="i-3PeqKDHQNBQHeBbxn7MWV7">
+            Trots de skillnader som föreligger mellan Folkpartiets förslag
+            och kommittémajoriteten är det bekymmersamt att arbetslivsministern
+            verkar ha lagt kommitténs förslag om en timbank i en byrålåda.
+            Det är dessutom en smula anmärkningsvärt att den Hans Karlsson,
+            som lade förslaget när han var ordförande i KNAS, nu som arbetslivsminister
+            verkar ha övergivit detsamma. Det brådskar med åtgärder som kan
+            göra något åt sjukskrivningarna. En mer flexibel arbetstid skulle
+            vara ett viktigt steg för att få det så kallade livspusslet att
+            gå ihop.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-MjF1brUiZhaaY5fPWGXzns">
+            Mot bakgrund av det sagda vill jag ställa följande frågor till
+            arbetslivsministern:
+            <list rend="unordered">
+              <item>
+                1. Ämnar ministern presentera något förslag om timbank utifrån
+                det betänkande som ordföranden för Kommittén för nya arbetstids-
+                och semesterregler (KNAS) Hans Karlsson för snart ett och ett
+                halvt år sedan lämnade över till statsrådet Mona Sahlin (SOU 2002:58)?
+              </item>
+              <item>
+                2. Ämnar ministern vidta några andra åtgärder för att öka den
+                enskilde arbetstagarens inflytande över arbetstiden?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

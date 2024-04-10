@@ -3,88 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Stockholms flygplatssituation</title>
+        <author>Hamilton, Björn (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Stockholms flygplatssituation till statsrådet Ulrica Messing om Stockholms flygplatssituation</title>
+          <idno type="rdwebb">GS10327</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10327/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10327</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10327</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AqZkPRg6HbbZ9nDzibdbp5</idno>
+            <persName>Björn Hamilton</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-2iWpXX9JtMmSSbYYWZ2amg" corresp="i-AqZkPRg6HbbZ9nDzibdbp5">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TyGJoZPYFeDFgp4ZtRQxGf">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Nd3kZqZcduSWzLifE1QGo8">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LCupjs5hnqKZvo3mucBNWh" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-S9dNgYzBbmfyXzPNuWS6Sz" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspContext corresp="i-S9dNgYzBbmfyXzPNuWS6Sz">
+          <ref type="record" target="prot-200405--071">Riksdagens protokoll 2004/05:71 Tisdagen den 8 februari</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:327 om Stockholms flygplatssituation</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0327</head>
-        <author who="i-AqZkPRg6HbbZ9nDzibdbp5">Björn Hamilton</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>Stockholms flygplatssituation</topic>
-        <docDate when="2005-01-25">den 25 januari</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10327</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:327 av Björn Hamilton (m) till statsrådet
-          Ulrica Messing om Stockholms flygplatssituation
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-FkHUGZeBYmn6tgxAktwCDw">
+            Interpellation 2004/05:327 av Björn Hamilton (m) till statsrådet
+            Ulrica Messing om Stockholms flygplatssituation
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-XruVQut2YuVzGTzJx5vzJB">
+            den 25 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-34eYPEgx5RMHFfHKhkySub">
-          I dagsläget håller Stockholms flygplatser på att försvinna en
-          efter en. Tullinge är nedlagt och beslut om Brommas nedläggning
-          har tagits. Sedan Göran Persson pekade ut Tullinge som ett lämpligt
-          bostadsområde är alternativen för småflyget i stort sett obefintliga
-          inom den södra Stockholmsregionen.
-        </p>
-        <p xml:id="i-AyGQ8W5UPjWVGzPDiX6uVW">
-          Anledningarna till behovet av en mindre flygplats i Stockholmsområdet
-          är många:
-        </p>
-        <p xml:id="i-Vdr58VTZABA7TgTmimLvBb">
-          Allmänflygets betydelse för utveckling av affärsverksamhet i
-          Norden och Baltikum är en faktor av ständigt ökande betydelse.
-          Möjligheten för Stockholm att bli ett ekonomiskt nav inom denna
-          del av EU försämras väsentligt utan en infrastruktur för allmänflyget.
-          Vidare innebär den föreslagna flygplatsavvecklingen klara försämringar
-          för skolflyget. Såväl linje- som charterflyget försörjs av piloter
-          från allmänflyget. Även ur flygsäkerhetssynpunkt är det viktigt
-          att allmänflyget har tillgång till flygplatser inom rimligt reseavstånd.
-          Ännu värre är också att det, just ur säkerhetssynpunkt, är direkt
-          olämpligt att på storflygplatser som Arlanda och det snabbväxande
-          Skavsta blanda reguljärtrafiken med det ofta långsammare allmänflyget.
-          Ytterligare en viktig aspekt är det faktum att Stockholm blir
-          än mer otillgängligt, inte minst i förhållande till andra europeiska
-          huvudstäder.
-        </p>
-        <p xml:id="i-MY5zCcNkeRJJTD6nryNXhu">
-          Bromma flygplats drivs under ett avtal med Stockholms stad som
-          löper ut 2011. Eftersom alla planer på en ny flygplats söder om
-          Stockholm är nedlagda kommer Bromma att behövas som citynära andra
-          flygplats i Stockholmsområdet även efter år 2011. Bromma tar hand
-          om lättare reguljärt flyg och allmänflyget, det vill säga taxiflyg
-          och företagsflyg. Även statens behov av icke-reguljärt flyg tillgodoses
-          på Bromma. Dessutom har flygverksamheten på Bromma bidragit till
-          konkurrens och att priserna har pressats markant till nytta för
-          flygresenärer.
-        </p>
-        <p xml:id="i-CpQTYFoVvYAumzMC14yABX">
-          Med hänvisning till det ovan anförda vill jag fråga vad Ulrica
-          Messing avser att vidta för åtgärder för att säkerställa att allmänflyget
-          har tillgång till flygplatser i Stockholmsområdet i framtiden.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-M4Pr1NwYrsCHpj3Ec5oRqg">
+            I dagsläget håller Stockholms flygplatser på att försvinna en
+            efter en. Tullinge är nedlagt och beslut om Brommas nedläggning
+            har tagits. Sedan Göran Persson pekade ut Tullinge som ett lämpligt
+            bostadsområde är alternativen för småflyget i stort sett obefintliga
+            inom den södra Stockholmsregionen.
+          </p>
+          <p xml:id="i-RKJPin1FN3YYoGoka2esWU">
+            Anledningarna till behovet av en mindre flygplats i Stockholmsområdet
+            är många:
+          </p>
+          <p xml:id="i-7ibcDY2JRdX3zvHTKp2wEL">
+            Allmänflygets betydelse för utveckling av affärsverksamhet i
+            Norden och Baltikum är en faktor av ständigt ökande betydelse.
+            Möjligheten för Stockholm att bli ett ekonomiskt nav inom denna
+            del av EU försämras väsentligt utan en infrastruktur för allmänflyget.
+            Vidare innebär den föreslagna flygplatsavvecklingen klara försämringar
+            för skolflyget. Såväl linje- som charterflyget försörjs av piloter
+            från allmänflyget. Även ur flygsäkerhetssynpunkt är det viktigt
+            att allmänflyget har tillgång till flygplatser inom rimligt reseavstånd.
+            Ännu värre är också att det, just ur säkerhetssynpunkt, är direkt
+            olämpligt att på storflygplatser som Arlanda och det snabbväxande
+            Skavsta blanda reguljärtrafiken med det ofta långsammare allmänflyget.
+            Ytterligare en viktig aspekt är det faktum att Stockholm blir
+            än mer otillgängligt, inte minst i förhållande till andra europeiska
+            huvudstäder.
+          </p>
+          <p xml:id="i-XhFi6aFvPcLDph83u1GP4E">
+            Bromma flygplats drivs under ett avtal med Stockholms stad som
+            löper ut 2011. Eftersom alla planer på en ny flygplats söder om
+            Stockholm är nedlagda kommer Bromma att behövas som citynära andra
+            flygplats i Stockholmsområdet även efter år 2011. Bromma tar hand
+            om lättare reguljärt flyg och allmänflyget, det vill säga taxiflyg
+            och företagsflyg. Även statens behov av icke-reguljärt flyg tillgodoses
+            på Bromma. Dessutom har flygverksamheten på Bromma bidragit till
+            konkurrens och att priserna har pressats markant till nytta för
+            flygresenärer.
+          </p>
+          <p xml:id="i-9EscWzmRkLk7qnqeTdANLu">
+            Med hänvisning till det ovan anförda vill jag fråga vad Ulrica
+            Messing avser att vidta för åtgärder för att säkerställa att allmänflyget
+            har tillgång till flygplatser i Stockholmsområdet i framtiden.
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,79 +3,123 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Stockholms läns landsting och omstruktureringsstödet</title>
+        <author>Axén, Gunnar (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Stockholms läns landsting och omstruktureringsstödet till finansminister Bosse Ringholm om Stockholms läns landsting och omstruktureringsstödet</title>
+          <idno type="rdwebb">GS1051</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1051/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1051</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1051</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
+            <persName>Gunnar Axén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8GrAn2JpwUqQ5nKYgox1oF" corresp="i-W6BJ44rcZjp5pD28NhHrCf">
+          <date when="2004-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-NF3uW29EmqoGWaNci8EycR">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MUCyLd3hLdrrVjhsgNdyQw">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-J2BAeWZ2DJ9khsF5verEDq" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UYcAXgp2J5euvcFiBrEqic" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspContext corresp="i-UYcAXgp2J5euvcFiBrEqic">
+          <ref type="record" target="prot-200405--020">Riksdagens protokoll 2004/05:20 Tisdagen den 26 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:51 om Stockholms läns landsting och omstruktureringsstödet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0051</head>
-        <author who="i-W6BJ44rcZjp5pD28NhHrCf">Gunnar Axén</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>Stockholms läns landsting och omstruktureringsstödet</topic>
-        <docDate when="2004-10-11">den 11 oktober</docDate>
-        <status when="unknown" byWhom="Lars-Erik Lövdén" byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1051</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:51 av Gunnar Axén (m) till finansminister
-          Bosse Ringholm om Stockholms läns landsting och omstruktureringsstödet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-8nPxtQVxp2PuW8v2Ur1tY9">
+            Interpellation 2004/05:51 av Gunnar Axén (m) till finansminister
+            Bosse Ringholm om Stockholms läns landsting och omstruktureringsstödet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KRQBBCJq9h29fCZh8nfKyQ">
+            den 11 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DDyepAjYX2RewKz3aJUkdq">
-          Den 6 maj 2004 beviljade regeringen Stockholms läns landsting
-          400 miljoner kronor i omstruktureringsstöd. Bidraget betalas ut
-          med 200 miljoner kronor i början av 2005 och med ytterligare 200
-          miljoner kronor när landstinget kan uppvisa att villkoren för
-          bidraget infriats.
-        </p>
-        <p xml:id="i-UZkSfk9Q72v3ySUriiwSHg">
-          Stockholms läns landsting har därför åtagit sig att bland annat
-          vidta åtgärder i syfte att sänka bruttokostnadsnivån med 1 700
-          miljoner kronor i enlighet med den av landstinget upprättade åtgärdsplanen.
-          Åtgärdsplanen innefattar bland annat en sammanslagning av Karolinska
-          sjukhuset och Huddinge sjukhus till Karolinska Universitetssjukhuset.
-          Som en följd av den sammanslagningen kommer drygt 1 000 vårdanställda
-          att förlora sina arbeten i Stockholms län.
-        </p>
-        <p xml:id="i-Eriu8DHV1zboFHKojV1HXr">
-          I budgetpropositionen föreslås ett anställningsstöd till kommun-
-          och landstingssektorn. Avsikten med stödet är att bland annat
-          Stockholms läns landsting ska anställa vårdpersonal. Om landstinget
-          agerade på så sätt skulle man inte uppfylla sina åtaganden gentemot
-          staten avseende det omstruktureringsbidrag som landstinget fått.
-          Den något märkliga situationen för landstinget i Stockholm är
-          att regeringen å ena sidan begär av landstinget att man ska friställa
-          vårdpersonal, och å den andra sidan begär av landstinget att man
-          ska nyrekrytera personal.
-        </p>
-        <p xml:id="i-J8DqM76Zj5PqfuGBNPcd4h">
-          Min fråga till finansministern blir därför:
-        </p>
-        <p xml:id="i-2eQrH2zigZxvvAaWbfPQw5">
-          Vad avser finansministern att göra för att klargöra situationen
-          för Stockholms läns landsting?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9xToHc8hrCTFEx2VFrCo87">
+            Den 6 maj 2004 beviljade regeringen Stockholms läns landsting
+            400 miljoner kronor i omstruktureringsstöd. Bidraget betalas ut
+            med 200 miljoner kronor i början av 2005 och med ytterligare 200
+            miljoner kronor när landstinget kan uppvisa att villkoren för
+            bidraget infriats.
+          </p>
+          <p xml:id="i-3TQHZDURBhVbkbnmYMLC2J">
+            Stockholms läns landsting har därför åtagit sig att bland annat
+            vidta åtgärder i syfte att sänka bruttokostnadsnivån med 1 700
+            miljoner kronor i enlighet med den av landstinget upprättade åtgärdsplanen.
+            Åtgärdsplanen innefattar bland annat en sammanslagning av Karolinska
+            sjukhuset och Huddinge sjukhus till Karolinska Universitetssjukhuset.
+            Som en följd av den sammanslagningen kommer drygt 1 000 vårdanställda
+            att förlora sina arbeten i Stockholms län.
+          </p>
+          <p xml:id="i-Uc9eaf9fHvZFu1h7T92Fzm">
+            I budgetpropositionen föreslås ett anställningsstöd till kommun-
+            och landstingssektorn. Avsikten med stödet är att bland annat
+            Stockholms läns landsting ska anställa vårdpersonal. Om landstinget
+            agerade på så sätt skulle man inte uppfylla sina åtaganden gentemot
+            staten avseende det omstruktureringsbidrag som landstinget fått.
+            Den något märkliga situationen för landstinget i Stockholm är
+            att regeringen å ena sidan begär av landstinget att man ska friställa
+            vårdpersonal, och å den andra sidan begär av landstinget att man
+            ska nyrekrytera personal.
+          </p>
+          <p xml:id="i-NaQmXduyQursvdxb3T4zAE">
+            Min fråga till finansministern blir därför:
+          </p>
+          <p xml:id="i-StF3p16KCUdi5Et9kLR4ap">
+            Vad avser finansministern att göra för att klargöra situationen
+            för Stockholms läns landsting?
+          </p>
+        </div>
       </div>
     </body>
   </text>

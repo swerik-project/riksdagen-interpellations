@@ -3,90 +3,134 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Polishögskolan i Växjö</title>
+        <author>G Högmark, Anders (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Polishögskolan i Växjö till justitieminister Thomas Bodström om Polishögskolan i Växjö</title>
+          <idno type="rdwebb">GS10432</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10432/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10432</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10432</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-McV8uzEvZdxJephaZbqN9X</idno>
+            <persName>Anders G Högmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-Wx7z3wpKbJsTGhVYhzFbQk">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-PD3JY6EBCAC1xBYF1YAek8" corresp="i-McV8uzEvZdxJephaZbqN9X">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UPVzd57MsNvzZYJrjxgDzb">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LbwMZL5Qzphf9mA5VaUU98" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Mgoy5Pf5k7Tm9X82jMQ1GX" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspContext corresp="i-Mgoy5Pf5k7Tm9X82jMQ1GX">
+          <ref type="record" target="prot-200405--090">Riksdagens protokoll 2004/05:90 Tisdagen den 15 mars</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellationerna 2004/05:432 om Polishögskolan i Växjö och 433 om Polishögskolan i Umeå</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0432</head>
-        <author who="i-McV8uzEvZdxJephaZbqN9X">Anders G Högmark</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>Polishögskolan i Växjö</topic>
-        <docDate when="2005-03-01">den 1 mars</docDate>
-        <status when="unknown" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10432</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:432 av Anders G Högmark (m) till justitieminister
-          Thomas Bodström om Polishögskolan i Växjö
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-V1nLtrZzag1qkQMq6KEcwJ">
+            Interpellation 2004/05:432 av Anders G Högmark (m) till justitieminister
+            Thomas Bodström om Polishögskolan i Växjö
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-NQHJuhaLJMdJPt3JXTjW7i">
+            den 1 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Go68ExyrBq3BuXFBnQqsU7">
-          Enligt rikspolischefen diskuteras just nu en eventuell nedläggning
-          av Polishögskolan i Växjö. Orsaken är att man om några år kommer
-          att ha utbildat det antal poliser som justitieministern och regeringen
-          har bestämt att Sverige ska ha.
-        </p>
-        <p xml:id="i-7LTbtiGXbrBNrJzs1VZXQf">
-          Socialdemokraternas strategi för polisen har länge präglats av
-          kortsiktighet. Man stängde ned polisutbildningen under 90-talet,
-          för att sedan öppna och öka antagningen när medborgarnas upprördhet
-          över brottsligheten blev en politisk belastning. Trots detta råder
-          en skriande brist på poliser när människor behöver hjälp. Nu talar
-          man alltså igen om att minska utbildningen. Regeringen har inget
-          lärt av sina misstag.
-        </p>
-        <p xml:id="i-DG3KnG8arGb7cFRHzzgQbj">
-          I takt med att nya poliser utbildas går gamla i pension. Poliser
-          lämnar också yrket för att arbeta med annat. Det har dessutom
-          framkommit att ett stort antal poliser riskerar förtidspension
-          enkom för att nya poliser ska kunna anställas. Detta kommer ytterligare
-          att urholka nettotillskottet av poliser, samt innebära förlust
-          av såväl arbetskraft som kompetens. Det måste finnas en fortsatt
-          beredskap för att försörja Sverige med poliser även efter 2008.
-          Brottsligheten kommer sannolikt inte att minska @ då kan man inte
-          minska på poliserna.
-        </p>
-        <p xml:id="i-6YxkPZEKmozZDbvvBrcFq7">
-          Polishögskolan i Växjö är en bra bas för att rekrytera nya poliser
-          till södra Sverige; det är en nog så viktig fråga i sammanhanget.
-          Flera polishögskolor, utplacerade på olika ställen i landet, borgar
-          för mångfald och lokal förankring. Utan detta minskar förtroendet
-          för polisen.
-        </p>
-        <p xml:id="i-FXqpLSVFY2xoSERr1bxenY">
-          Polishögskolan i Växjö är relativt nystartad och håller på att
-          bygga upp kompetens, med hittills goda resultat. Att ens diskutera
-          en nedläggning i detta skede är att underkänna det arbete som
-          läggs ned på polishögskolan och att riskera att kompetens och
-          erfarenhet går förlorad.
-        </p>
-        <p xml:id="i-96mCQzUGxefYCJeK8dVeHz">
-          Vilka åtgärder är justitieministern beredd att vidta för att
-          säkra att polisutbildningen även fortsättningsvis kommer att bedrivas
-          i Växjö?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-KGdcoaPbscF9hw87cYR1sr">
+            Enligt rikspolischefen diskuteras just nu en eventuell nedläggning
+            av Polishögskolan i Växjö. Orsaken är att man om några år kommer
+            att ha utbildat det antal poliser som justitieministern och regeringen
+            har bestämt att Sverige ska ha.
+          </p>
+          <p xml:id="i-NS4asAPuntKEyVRz1LPcii">
+            Socialdemokraternas strategi för polisen har länge präglats av
+            kortsiktighet. Man stängde ned polisutbildningen under 90-talet,
+            för att sedan öppna och öka antagningen när medborgarnas upprördhet
+            över brottsligheten blev en politisk belastning. Trots detta råder
+            en skriande brist på poliser när människor behöver hjälp. Nu talar
+            man alltså igen om att minska utbildningen. Regeringen har inget
+            lärt av sina misstag.
+          </p>
+          <p xml:id="i-GLTm2YCh1KmSVuSC7UTEao">
+            I takt med att nya poliser utbildas går gamla i pension. Poliser
+            lämnar också yrket för att arbeta med annat. Det har dessutom
+            framkommit att ett stort antal poliser riskerar förtidspension
+            enkom för att nya poliser ska kunna anställas. Detta kommer ytterligare
+            att urholka nettotillskottet av poliser, samt innebära förlust
+            av såväl arbetskraft som kompetens. Det måste finnas en fortsatt
+            beredskap för att försörja Sverige med poliser även efter 2008.
+            Brottsligheten kommer sannolikt inte att minska @ då kan man inte
+            minska på poliserna.
+          </p>
+          <p xml:id="i-Hbb1tudf6bV7SvDE2W95h6">
+            Polishögskolan i Växjö är en bra bas för att rekrytera nya poliser
+            till södra Sverige; det är en nog så viktig fråga i sammanhanget.
+            Flera polishögskolor, utplacerade på olika ställen i landet, borgar
+            för mångfald och lokal förankring. Utan detta minskar förtroendet
+            för polisen.
+          </p>
+          <p xml:id="i-DbAE41LJzyW5qNxjBWn4gk">
+            Polishögskolan i Växjö är relativt nystartad och håller på att
+            bygga upp kompetens, med hittills goda resultat. Att ens diskutera
+            en nedläggning i detta skede är att underkänna det arbete som
+            läggs ned på polishögskolan och att riskera att kompetens och
+            erfarenhet går förlorad.
+          </p>
+          <p xml:id="i-Rgu8vPLipSzH7R8uEJXSGR">
+            Vilka åtgärder är justitieministern beredd att vidta för att
+            säkra att polisutbildningen även fortsättningsvis kommer att bedrivas
+            i Växjö?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,118 +3,156 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förmögenhetsskatten</title>
+        <author>Sjösten, Ulf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förmögenhetsskatten till finansminister Bosse Ringholm om förmögenhetsskatten</title>
+          <idno type="rdwebb">GR10404</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10404/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10404</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10404</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-D6hrZCxPVTQxPgXvGFfuJ7</idno>
+            <persName>Ulf Sjösten</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-B1RFTR1o9BsL82EaF2WhHT" corresp="i-D6hrZCxPVTQxPgXvGFfuJ7">
+          <date when="2004-04-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-T3TcrSDwcqANeNFKSYe6YD">
+          <date when="2004-04-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KXhLVTVd3LfN3w7eZiK86o">
+          <date when="2004-04-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3KotXK4vkoVoUCRgA4fcXw" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-04-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LB1bE8PCXWfzZYLMgp2wy2" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-04-20"/>
+        </correspAction>
+        <correspContext corresp="i-LB1bE8PCXWfzZYLMgp2wy2">
+          <ref type="record" target="prot-200304--098">Riksdagens protokoll 2003/04:98 Tisdagen den 20 april</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:404 om förmögenhetsskatten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0404</head>
-        <author who="i-D6hrZCxPVTQxPgXvGFfuJ7">Ulf Sjösten</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>förmögenhetsskatten</topic>
-        <docDate when="2004-04-01">den 1 april</docDate>
-        <status when="2004-04-20" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10404</external_id>
-        <debate>
-          <turn when="2004-04-20 16:03:01" duration="89">Bosse Ringholm (S)</turn>
-          <turn when="2004-04-20 16:04:20" duration="251">Ulf Sjösten (M)</turn>
-          <turn when="2004-04-20 16:08:23" duration="255">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-04-20 16:12:30" duration="180">Lars Gustafsson (Kd)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:404 av Ulf Sjösten (m) till finansminister
-          Bosse Ringholm om förmögenhetsskatten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-AAeteEVRFcFNE6b4ZMszrE">
+            Interpellation 2003/04:404 av Ulf Sjösten (m) till finansminister
+            Bosse Ringholm om förmögenhetsskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Xicp77fsg3UK9p39uhDfJ7">
+            den 1 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6vrLD7CDFdaHFanQiKk5XE">
-          Förmögenhetsskatten hindrar tillväxt och utveckling i Sverige.
-          Den är en av landets mest skadliga skatter, och den hindrar investeringar
-          i Sverige och styr kapital till fel investeringar. Den driver
-          kapital ur landet, och beräkningar säger att svenskar i dag har
-          häpnadsväckande 500 miljarder kronor placerade någon annanstans
-          än i Sverige. Svenskt näringsliv bedömer att mer än 1 000 miljarder
-          kronor är placerade utomlands.
-        </p>
-        <p xml:id="i-UnbpYUY9szRhsJD773FJph">
-          Förmögenhetsskatten är godtycklig och öppnar oanade möjligheter
-          till skatteplanering. Den är orättvis, då några av landets rikaste
-          personer är delvis skattebefriade medan vanligt folk som råkat
-          bo in sig i ett hus som stigit kraftigt i värde tvingas betala.
-        </p>
-        <p xml:id="i-RxSd7oPhpDtqPsy8tKco8p">
-          Många länder har avskaffat förmögenhetsskatten. I dag finns det
-          endast fyra OECD-länder utanför Norden som beskattar förmögenheter.
-        </p>
-        <p xml:id="i-JvUZcTrTcsgt5n2sEvtdNp">
-          De flesta som betalar förmögenhetsskatt i dag är småhusägare.
-        </p>
-        <p xml:id="i-WLxZ3DYQJZS1vZHzPN1ve4">
-          Det bästa för tillväxt och utveckling i landet hade varit att
-          lyssna på de borgerliga partierna och inleda en avveckling av
-          förmögenhetsskatten som drabbar många normala egnahemsägare.
-        </p>
-        <p xml:id="i-5BwdU1WTXXdYjGUvzHUHUa">
-          Inte minst näringslivets organisationer har fört fram denna skatts
-          skadliga effekter för tillkomsten av nya jobb och försämrade investeringsförutsättningar.
-        </p>
-        <p xml:id="i-6Eb78tKZZ8oEDYZ1Awoz45">
-          I skattebasutredningens betänkande föreslogs att förmögenhetsskatten
-          skulle slopas, men regeringen har inte tagit några initiativ för
-          att ta bort den.
-        </p>
-        <p xml:id="i-7uTZUhs2VWF3Wc6suJDv1W">
-          I riksdagens debatt om förmögenhetsskatten den 24 mars sade den
-          socialdemokratiske representanten att förmögenhetsskatten hade
-          god effekt, och man fick ett tydligt intryck av att den skulle
-          bestå.
-        </p>
-        <p xml:id="i-6Z5mS82oTLXTxoYwtu79Vo">
-          Samma dag sade statsminister Göran Persson att han var beredd
-          att slopa förmögenhetsskatten.
-        </p>
-        <p xml:id="i-EkCQdFLNEfutXvmidRd7Po">
-          Egendomsskattekommittén föreslår att förmögenhetsskatten förändras
-          men också att skattebasen breddas.
-        </p>
-        <p xml:id="i-H1gjByqcmmTCTi1pLiQH8A">
-          Det råder i dag en bred enighet om förmögenhetsskattens skadliga
-          effekter för god utveckling och tillväxt i Sverige och vikten
-          av att ta bort den orättvisa och lotteribetonade skatten.
-        </p>
-        <p xml:id="i-FFFVCAdDG7UjPuNPAL4e3m">
-          Skiftande signaler med stor spännvidd den senaste tiden har skapat
-          många frågetecken kring regeringens inställning till förmögenhetsskattens
-          vara eller inte vara.
-        </p>
-        <p xml:id="i-WQCff1KZgvA5cqN68mXKjF">
-          Min fråga till finansministern blir därför:
-        </p>
-        <p xml:id="i-Avqq85GTt1FdhVoK7QAwNd">
-          Vilka åtgärder avser finansministern att vidta för att förmögenhetsskatten
-          ska kunna tas bort?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-L6a6SXU1eCTXu274P7r3UJ">
+            Förmögenhetsskatten hindrar tillväxt och utveckling i Sverige.
+            Den är en av landets mest skadliga skatter, och den hindrar investeringar
+            i Sverige och styr kapital till fel investeringar. Den driver
+            kapital ur landet, och beräkningar säger att svenskar i dag har
+            häpnadsväckande 500 miljarder kronor placerade någon annanstans
+            än i Sverige. Svenskt näringsliv bedömer att mer än 1 000 miljarder
+            kronor är placerade utomlands.
+          </p>
+          <p xml:id="i-GjF48Df3e5KHfAqbq2sXbF">
+            Förmögenhetsskatten är godtycklig och öppnar oanade möjligheter
+            till skatteplanering. Den är orättvis, då några av landets rikaste
+            personer är delvis skattebefriade medan vanligt folk som råkat
+            bo in sig i ett hus som stigit kraftigt i värde tvingas betala.
+          </p>
+          <p xml:id="i-QxgBbsxkhV5NjD3RTDjouR">
+            Många länder har avskaffat förmögenhetsskatten. I dag finns det
+            endast fyra OECD-länder utanför Norden som beskattar förmögenheter.
+          </p>
+          <p xml:id="i-6ks246DCiVRLUDA8qdYGx7">
+            De flesta som betalar förmögenhetsskatt i dag är småhusägare.
+          </p>
+          <p xml:id="i-F6f8dFn1UoUcocqtQcT2ct">
+            Det bästa för tillväxt och utveckling i landet hade varit att
+            lyssna på de borgerliga partierna och inleda en avveckling av
+            förmögenhetsskatten som drabbar många normala egnahemsägare.
+          </p>
+          <p xml:id="i-H4j1GpKk1cdnosEArM6WUM">
+            Inte minst näringslivets organisationer har fört fram denna skatts
+            skadliga effekter för tillkomsten av nya jobb och försämrade investeringsförutsättningar.
+          </p>
+          <p xml:id="i-YRqJNorWoABzgqSMVhAAer">
+            I skattebasutredningens betänkande föreslogs att förmögenhetsskatten
+            skulle slopas, men regeringen har inte tagit några initiativ för
+            att ta bort den.
+          </p>
+          <p xml:id="i-KgE6RtW3BwmUDYxNUFDzh2">
+            I riksdagens debatt om förmögenhetsskatten den 24 mars sade den
+            socialdemokratiske representanten att förmögenhetsskatten hade
+            god effekt, och man fick ett tydligt intryck av att den skulle
+            bestå.
+          </p>
+          <p xml:id="i-FjfLqHLDQn3wXfoxZhsofv">
+            Samma dag sade statsminister Göran Persson att han var beredd
+            att slopa förmögenhetsskatten.
+          </p>
+          <p xml:id="i-AabU6a3BDLsH6aX8DtNRvg">
+            Egendomsskattekommittén föreslår att förmögenhetsskatten förändras
+            men också att skattebasen breddas.
+          </p>
+          <p xml:id="i-LtsqPXbkMVCaV6my5vEjfN">
+            Det råder i dag en bred enighet om förmögenhetsskattens skadliga
+            effekter för god utveckling och tillväxt i Sverige och vikten
+            av att ta bort den orättvisa och lotteribetonade skatten.
+          </p>
+          <p xml:id="i-GRCm9ZgFtvK5zfEwj1VGr6">
+            Skiftande signaler med stor spännvidd den senaste tiden har skapat
+            många frågetecken kring regeringens inställning till förmögenhetsskattens
+            vara eller inte vara.
+          </p>
+          <p xml:id="i-XWuaU1nHktfypEYXpMDvyJ">
+            Min fråga till finansministern blir därför:
+          </p>
+          <p xml:id="i-Y7Ax4H8K7FqD5VtiTSgRKr">
+            Vilka åtgärder avser finansministern att vidta för att förmögenhetsskatten
+            ska kunna tas bort?
+          </p>
+        </div>
       </div>
     </body>
   </text>

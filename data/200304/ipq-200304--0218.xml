@@ -3,118 +3,166 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>åtgärder mot ungdomsarbetslöshet</title>
+        <author>Nylander, Christer (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>åtgärder mot ungdomsarbetslöshet till statsrådet Hans Karlsson om åtgärder mot ungdomsarbetslöshet</title>
+          <idno type="rdwebb">GR10218</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10218/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10218</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10218</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-U6F8gqiuV2DEZN1aMhyDnJ</idno>
+            <persName>Christer Nylander</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XNWSy2hAL6rZLBXEV4K4Wu" corresp="i-U6F8gqiuV2DEZN1aMhyDnJ">
+          <date when="2004-01-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LJi8Je988uNBAYMP5NkgSd">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-87g9AvdLWmEW4pB9Zy1inZ">
+          <date when="2004-01-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5tACJ8sBSBiickMmb2kWdb" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2004-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8f29xTYCLB7n318HuALFpN" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2004-01-29"/>
+        </correspAction>
+        <correspContext corresp="i-8f29xTYCLB7n318HuALFpN">
+          <ref type="record" target="prot-200304--060">Riksdagens protokoll 2003/04:60 Torsdagen den 29 januari</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellationerna 2003/04:209 och 218 om åtgärder mot ungdomsarbetslöshet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0218</head>
-        <author who="i-U6F8gqiuV2DEZN1aMhyDnJ">Christer Nylander</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>åtgärder mot ungdomsarbetslöshet</topic>
-        <docDate when="2004-01-08">den 8 januari</docDate>
-        <status when="unknown" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10218</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:218 av Christer Nylander (fp) till statsrådet
-          Hans Karlsson om åtgärder mot ungdomsarbetslöshet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LhqHp2yXnn1VQ1JpF24xtj">
+            Interpellation 2003/04:218 av Christer Nylander (fp) till statsrådet
+            Hans Karlsson om åtgärder mot ungdomsarbetslöshet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-5VyBFSJNrvo5Zgf1YssnLa">
+            den 8 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BdcVBmBfsssoBB1YZWdpRc">
-          År 2003 blev ett år med svag ekonomisk utveckling. Under 2004
-          väntas konjunkturen vända upp något, men tillväxten tar inte fart
-          ordentligt. Enligt de flesta bedömare, även regeringen i budgetpropositionen,
-          räcker inte årets förväntade tillväxttakt till att minska arbetslösheten.
-        </p>
-        <p xml:id="i-Vs5GAwb5wxgawaMAKewMFJ">
-          Arbetslösheten har successivt stigit sedan 2002. Regeringens
-          mål om 4 % arbetslöshet och 80 % av befolkningen i sysselsättning
-          ter sig alltmer avlägsna.
-        </p>
-        <p xml:id="i-JSdgQWFjsBAhhvzuFu8YNA">
-          Enligt AMS ökade den öppna arbetslösheten under 2003 med över
-          50 000 personer till dryga 5 % av arbetskraften. Enligt AMS är
-          nästan 274 000 personer just nu öppet arbetslösa. Man bedömer
-          vidare att den öppna arbetslösheten ökar med ytterligare 50 000
-          fram till sommaren 2004. I finansplanen räknar regeringen med
-          att sysselsättningsgraden sjunker under 2004.
-        </p>
-        <p xml:id="i-CbT4GZwV1XdybbpntLWfrS">
-          Det finns en risk att ett samhälle vänjer sig vid hög arbetslöshet.
-          Det är viktigt att vi inte låter det ske i Sverige. Därför måste
-          regeringen vidta rejäla åtgärder för att få fart på tillväxten
-          och jobben. De förslag som presenterades av samarbetspartierna
-          i december är inte på något sätt tillräckliga.
-        </p>
-        <p xml:id="i-F4HYaFwmqtcPuRybmaDiDv">
-          Särskilt viktigt är det att snabbt vidta åtgärder för att få
-          ner arbetslösheten bland ungdomar. Var tionde ungdom i Sverige
-          står utan jobb. Det är ingen bra start på vuxenlivet. Arbetslösheten
-          ökar i alla grupper, men för ungdomar under 25 år är det särskilt
-          markant. Antalet ungdomar som är arbetslösa eller deltar i olika
-          arbetsmarknadsprojekt har ökat med 8 000 personer på ett år. Totalt
-          står 58 000 ungdomar utan jobb.
-        </p>
-        <p xml:id="i-TseTjX5DYwV4Vc7WGJ741Z">
-          Även längden på arbetslöshetsperioden ökar. Även bland ungdomar.
-          Det innebär att alltfler ungdomar är långtidsarbetslösa.
-        </p>
-        <p xml:id="i-86vi8wzQpRF6vEa8ZFhYHN">
-          I detta läge krävs, förutom allmänna åtgärder för fler jobb,
-          också särskilda åtgärder för att få ner arbetslösheten bland ungdomar.
-          En hög ungdomsarbetslöshet är först och främst tragisk för alla
-          de ungdomar som drabbas. Men det är också ett stort, stort problem
-          för Sverige som helhet.
-        </p>
-        <p xml:id="i-K7LBCrRs7oHvL16yQ3Ek4D">
-          En arbetsmarknad där alltfler unga stängs ute är riktigt dålig
-          politik. Därför behövs särskilda, riktade insatser för att få
-          fram fler riktiga jobb till ungdomar. Det som behövs är riktiga
-          jobb inte nya AMS-insatser.
-        </p>
-        <p xml:id="i-3WrdBrGU7wzR23ZCcGD6Vo">
-          Det finns två sätt att snabbt få fram fler riktiga jobb för ungdomar.
-          Det ena är att sänka kostnaden för dem som anställer, det andra
-          är att minska riskerna med en ny anställning. En rimlig lösning
-          är därför att tillfälligt inrätta någon form av instegsjobb där
-          arbetsgivare kan anställa unga arbetslösa och i gengäld få rejält
-          sänkt arbetsgivaravgift och något enklare anställningsformer än
-          de gängse på arbetsmarknaden.
-        </p>
-        <p xml:id="i-QAGifmJ38eT8YjFYTZPbss">
-          Med anledning av ovanstående vill jag ställa följande frågor
-          till statsrådet:
-        </p>
-        <p xml:id="i-MRakXXfv2WkSv1RQtiY5ZW">
-          1. Avser statsrådet att återkomma till riksdagen med förslag
-          om instegsjobb för ungdomar?
-        </p>
-        <p xml:id="i-QbB9hLd6AskB2ptCy85Cx2">
-          2. Vilka ytterligare konkreta åtgärder avser statsrådet att vidta
-          för att specifikt bekämpa arbetslösheten bland ungdomar?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-K5ik6YwheWUnksXiGL77YE">
+            År 2003 blev ett år med svag ekonomisk utveckling. Under 2004
+            väntas konjunkturen vända upp något, men tillväxten tar inte fart
+            ordentligt. Enligt de flesta bedömare, även regeringen i budgetpropositionen,
+            räcker inte årets förväntade tillväxttakt till att minska arbetslösheten.
+          </p>
+          <p xml:id="i-VEUmiuViyqssjZmYi6XWyn">
+            Arbetslösheten har successivt stigit sedan 2002. Regeringens
+            mål om 4 % arbetslöshet och 80 % av befolkningen i sysselsättning
+            ter sig alltmer avlägsna.
+          </p>
+          <p xml:id="i-HTaPi8unFdCatDgYGks7c5">
+            Enligt AMS ökade den öppna arbetslösheten under 2003 med över
+            50 000 personer till dryga 5 % av arbetskraften. Enligt AMS är
+            nästan 274 000 personer just nu öppet arbetslösa. Man bedömer
+            vidare att den öppna arbetslösheten ökar med ytterligare 50 000
+            fram till sommaren 2004. I finansplanen räknar regeringen med
+            att sysselsättningsgraden sjunker under 2004.
+          </p>
+          <p xml:id="i-86xMhzYEJDA7bTxoZ2Tbo5">
+            Det finns en risk att ett samhälle vänjer sig vid hög arbetslöshet.
+            Det är viktigt att vi inte låter det ske i Sverige. Därför måste
+            regeringen vidta rejäla åtgärder för att få fart på tillväxten
+            och jobben. De förslag som presenterades av samarbetspartierna
+            i december är inte på något sätt tillräckliga.
+          </p>
+          <p xml:id="i-G96yFXmpB9c9XAsRurG3dW">
+            Särskilt viktigt är det att snabbt vidta åtgärder för att få
+            ner arbetslösheten bland ungdomar. Var tionde ungdom i Sverige
+            står utan jobb. Det är ingen bra start på vuxenlivet. Arbetslösheten
+            ökar i alla grupper, men för ungdomar under 25 år är det särskilt
+            markant. Antalet ungdomar som är arbetslösa eller deltar i olika
+            arbetsmarknadsprojekt har ökat med 8 000 personer på ett år. Totalt
+            står 58 000 ungdomar utan jobb.
+          </p>
+          <p xml:id="i-4GaBdjJXnGa9q76278bekV">
+            Även längden på arbetslöshetsperioden ökar. Även bland ungdomar.
+            Det innebär att alltfler ungdomar är långtidsarbetslösa.
+          </p>
+          <p xml:id="i-6kjDtKK8u7FkZatTzjzxRd">
+            I detta läge krävs, förutom allmänna åtgärder för fler jobb,
+            också särskilda åtgärder för att få ner arbetslösheten bland ungdomar.
+            En hög ungdomsarbetslöshet är först och främst tragisk för alla
+            de ungdomar som drabbas. Men det är också ett stort, stort problem
+            för Sverige som helhet.
+          </p>
+          <p xml:id="i-7weRMkJ2s4afkDqcgNBndu">
+            En arbetsmarknad där alltfler unga stängs ute är riktigt dålig
+            politik. Därför behövs särskilda, riktade insatser för att få
+            fram fler riktiga jobb till ungdomar. Det som behövs är riktiga
+            jobb inte nya AMS-insatser.
+          </p>
+          <p xml:id="i-28zt2T9giWtc39vpvbZsy2">
+            Det finns två sätt att snabbt få fram fler riktiga jobb för ungdomar.
+            Det ena är att sänka kostnaden för dem som anställer, det andra
+            är att minska riskerna med en ny anställning. En rimlig lösning
+            är därför att tillfälligt inrätta någon form av instegsjobb där
+            arbetsgivare kan anställa unga arbetslösa och i gengäld få rejält
+            sänkt arbetsgivaravgift och något enklare anställningsformer än
+            de gängse på arbetsmarknaden.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-E4PvLvYZ27V9oTg2Jeic7X">
+            Med anledning av ovanstående vill jag ställa följande frågor
+            till statsrådet:
+            <list rend="unordered">
+              <item>
+                1. Avser statsrådet att återkomma till riksdagen med förslag
+                om instegsjobb för ungdomar?
+              </item>
+              <item>
+                2. Vilka ytterligare konkreta åtgärder avser statsrådet att vidta
+                för att specifikt bekämpa arbetslösheten bland ungdomar?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,92 +3,130 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>riktade stöd till stormdrabbade skogsägare</title>
+        <author>Gunnar Persson, Sven (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>riktade stöd till stormdrabbade skogsägare till statsrådet Ulrica Messing om riktade stöd till stormdrabbade skogsägare</title>
+          <idno type="rdwebb">GS10444</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10444/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10444</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10444</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-CYXB5gc8UwhvnW3jqhdnoq</idno>
+            <persName>Sven Gunnar Persson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5NU2nj5fMfvxMsyr7dq7r4" corresp="i-CYXB5gc8UwhvnW3jqhdnoq">
+          <date when="2005-03-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EE5DYoPUnz8KKSX8bLEBM2">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DJbx2LZ6f1QbCZyCneaAx3">
+          <date when="2005-05-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HgwsRmFTv7oPgqPFRimaqM" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CaJ3tWY4Rim2sz1spHNys" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-05-10"/>
+        </correspAction>
+        <correspContext corresp="i-CaJ3tWY4Rim2sz1spHNys">
+          <ref type="record" target="prot-200405--117">Riksdagens protokoll 2004/05:117 Tisdagen den 10 maj</ref>
+          <ref type="recordSection" target="unsetDivId">2 § Svar på interpellation 2004/05:444 om riktade stöd till stormdrabbade skogsägare</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0444</head>
-        <author who="i-CYXB5gc8UwhvnW3jqhdnoq">Sven Gunnar Persson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>riktade stöd till stormdrabbade skogsägare</topic>
-        <docDate when="2005-03-07">den 7 mars</docDate>
-        <status when="2005-05-10" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10444</external_id>
-        <debate>
-          <turn when="2005-05-10 13:31:54" duration="136">Ulrica Messing (S)</turn>
-          <turn when="2005-05-10 13:34:06" duration="257">Sven Gunnar Persson (Kd)</turn>
-          <turn when="2005-05-10 13:38:19" duration="211">Bengt-Anders Johansson (M)</turn>
-          <turn when="2005-05-10 13:41:46" duration="263">Ulrica Messing (S)</turn>
-          <turn when="2005-05-10 13:46:05" duration="198">Sven Gunnar Persson (Kd)</turn>
-          <turn when="2005-05-10 13:49:20" duration="128">Bengt-Anders Johansson (M)</turn>
-          <turn when="2005-05-10 13:51:25" duration="222">Ulrica Messing (S)</turn>
-          <turn when="2005-05-10 13:55:02" duration="130">Sven Gunnar Persson (Kd)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:444 av Sven Gunnar Persson (kd) till statsrådet
-          Ulrica Messing om riktade stöd till stormdrabbade skogsägare
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2mFn9K5TrcRqbr5HQPnN2a">
+            Interpellation 2004/05:444 av Sven Gunnar Persson (kd) till statsrådet
+            Ulrica Messing om riktade stöd till stormdrabbade skogsägare
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-QnKFj66QJD8X75i6cTeSn9">
+            den 7 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MAr7UWDUUHhEYZR2tnyqEE">
-          Den storm som drabbade södra Sverige den 8@9 januari saknar motstycke
-          i modern tid. Skogsstyrelsen uppskattar att omkring 80 miljoner
-          kubikmeter träd fällts av stormen. Det motsvarar nästan hela den
-          totala årliga avverkningen i hela Sverige, som förra året var
-          83 miljoner kubikmeter. De ekonomiska värdet av den stormfällda
-          skogen beräknas till 30@40 miljarder kronor. Lokalt motsvarar
-          stormfällningarna upp till 30 årsavverkningar. Åtskilliga enskilda
-          skogsbrukare har fått se sitt livsverk spolierat.
-        </p>
-        <p xml:id="i-XJC1tnAvPWCsTVJLsep135">
-          Tre veckor efter stormen skrev Kristdemokraterna och flera andra
-          partier riksdagsmotioner med anledning av katastrofen. Ett antal
-          konstruktiva förslag framfördes för att underlätta de drabbades
-          situation praktiskt, ekonomiskt och socialt. Ännu efter två månader
-          har dock regeringen inte gett klara besked om vilket stöd man
-          är beredd att ge de drabbade skogsägarna.
-        </p>
-        <p xml:id="i-XTDYRj93UQppB53TxMViDa">
-          Lantbrukarnas riksförbund (LRF) har föreslagit att ett direktstöd
-          ska utgå med 50 kronor per skogskubikmeter uttransporterat virke
-          till skogsägare som drabbats av stormfällningar som överstiger
-          en normal årsavverkning.
-        </p>
-        <p xml:id="i-QCx99jAjb9gCEZuRPvsx2U">
-          Jag vill fråga statsrådet:
-        </p>
-        <p xml:id="i-DRJgMPYwvLZ2FHzxMZCEK7">
-          1. Avser statsrådet att vidta åtgärder för att införa ett direktstöd
-          baserat på uttransporterad virkesmängd till skogsägare som drabbats
-          svårt av stormfällningar?
-        </p>
-        <p xml:id="i-XeWiWfgcrUH87S3ZmCjwjU">
-          2. Vilka ytterligare åtgärder avser statsrådet att vidta för
-          att stödja de stormdrabbade skogsägarna ekonomiskt, praktiskt
-          och socialt?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-SSKS3afUTUWvpffDfA2Vmm">
+            Den storm som drabbade södra Sverige den 8@9 januari saknar motstycke
+            i modern tid. Skogsstyrelsen uppskattar att omkring 80 miljoner
+            kubikmeter träd fällts av stormen. Det motsvarar nästan hela den
+            totala årliga avverkningen i hela Sverige, som förra året var
+            83 miljoner kubikmeter. De ekonomiska värdet av den stormfällda
+            skogen beräknas till 30@40 miljarder kronor. Lokalt motsvarar
+            stormfällningarna upp till 30 årsavverkningar. Åtskilliga enskilda
+            skogsbrukare har fått se sitt livsverk spolierat.
+          </p>
+          <p xml:id="i-DYGYaA7Mft281YWSVjR2Kq">
+            Tre veckor efter stormen skrev Kristdemokraterna och flera andra
+            partier riksdagsmotioner med anledning av katastrofen. Ett antal
+            konstruktiva förslag framfördes för att underlätta de drabbades
+            situation praktiskt, ekonomiskt och socialt. Ännu efter två månader
+            har dock regeringen inte gett klara besked om vilket stöd man
+            är beredd att ge de drabbade skogsägarna.
+          </p>
+          <p xml:id="i-5P3x2Xsbw39X27PTypM4KB">
+            Lantbrukarnas riksförbund (LRF) har föreslagit att ett direktstöd
+            ska utgå med 50 kronor per skogskubikmeter uttransporterat virke
+            till skogsägare som drabbats av stormfällningar som överstiger
+            en normal årsavverkning.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-CxRigq8CsGmhJPUqLBeUT2">
+            Jag vill fråga statsrådet:
+            <list rend="unordered">
+              <item>
+                1. Avser statsrådet att vidta åtgärder för att införa ett direktstöd
+                baserat på uttransporterad virkesmängd till skogsägare som drabbats
+                svårt av stormfällningar?
+              </item>
+              <item>
+                2. Vilka ytterligare åtgärder avser statsrådet att vidta för
+                att stödja de stormdrabbade skogsägarna ekonomiskt, praktiskt
+                och socialt?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

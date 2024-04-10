@@ -3,97 +3,135 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>rättsväsendet i Västerbotten</title>
+        <author>Löfgren, Ulla (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>rättsväsendet i Västerbotten till justitieminister Thomas Bodström om rättsväsendet i Västerbotten</title>
+          <idno type="rdwebb">GS10435</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10435/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10435</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10435</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-YEdxJPN8cJMwnqfd9tHmTD</idno>
+            <persName>Ulla Löfgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8poiDMPypoR3xsrQv9n7PQ" corresp="i-YEdxJPN8cJMwnqfd9tHmTD">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GRP638zb55AsJ5m1UWWPnW">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NDnv6N2Fa6X72i1WC8884t">
+          <date when="2005-04-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KWcC7xWDB1BfZqn9xK1zVc" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6kSJz7YSAZYMeHmpk9ZeLN" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-04-05"/>
+        </correspAction>
+        <correspContext corresp="i-6kSJz7YSAZYMeHmpk9ZeLN">
+          <ref type="record" target="prot-200405--098">Riksdagens protokoll 2004/05:98 Tisdagen den 5 april</ref>
+          <ref type="recordSection" target="unsetDivId">3 § Svar på interpellation 2004/05:435 om rättsväsendet i Västerbotten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0435</head>
-        <author who="i-YEdxJPN8cJMwnqfd9tHmTD">Ulla Löfgren</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>rättsväsendet i Västerbotten</topic>
-        <docDate when="2005-03-02">den 2 mars</docDate>
-        <status when="2005-04-05" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10435</external_id>
-        <debate>
-          <turn when="2005-04-05 14:16:52" duration="132">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:16:52" duration="131">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:16:53" duration="131">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:16:54" duration="129">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:435 av Ulla Löfgren (m) till justitieminister
-          Thomas Bodström om rättsväsendet i Västerbotten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KwQLJ3uDiuubPNJUr22jPz">
+            Interpellation 2004/05:435 av Ulla Löfgren (m) till justitieminister
+            Thomas Bodström om rättsväsendet i Västerbotten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-RzSsr9JHbU29t5JwaZW9sy">
+            den 2 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MYzvHJBdSeUakWd423cR97">
-          Den 3 februari i år väckte jag frågan när utredningen om rättsväsendet
-          i Norrland skulle sjösättas. Justitieministern bekräftade då att
-          det skulle ske ett särskilt utredningsförfarande för att klargöra
-          rättsväsendets organisation i Norrland och att hur frågan bör
-          utredas för närvarande bereds i Regeringskansliet.
-        </p>
-        <p xml:id="i-NMRt7aDV7bD8kbXKuTkhwG">
-          Det är gott och väl att justitieministern står fast vid sitt
-          ord, men det var faktiskt den 23 september 2004 som justitieministern
-          utlovade utredningen. Nu har det snart gått sex månader och utredningen
-          har fortfarande inte kommit i gång. Departementet funderar på
-          direktiven och något svar på frågan när utredningen ska tillsättas
-          har inte kommit.
-        </p>
-        <p xml:id="i-FUNUKQeY7Sz1p6YVHFj7Bd">
-          Frågan gäller nu inte enbart hur tingsrättsorganisationen kommer
-          att se ut i framtiden. Den är faktiskt mycket större än så och
-          berör hela rättsväsendets funktion. Så länge som justitieministern
-          inte kommer med några besked kommer osäkerheten att vara stor.
-        </p>
-        <p xml:id="i-M6Wj97MGLoBhgbsMmK3FgG">
-          Skellefteå står helt utan åklagare. Där finns utrymme och även
-          behov av tre åklagare. Tingsrättsförhandlingar i Skellefteå kan
-          inte påbörjas förrän åklagare rest upp från Umeå, ibland inte
-          förrän kl. 10.30 på förmiddagen. Dessutom är det helt orimligt
-          att åklagare ska använda sin dyrbara arbetstid till bilkörning.
-          Tillsättandet av en åklagare i Skellefteå prioriteras inte på
-          grund av osäkerheterna med tingsrätten och vilken ung jurist skulle
-          för övrigt vilja ta plats på en ort där det råder osäkerhet om
-          tingsrätten kommer att bli kvar.
-        </p>
-        <p xml:id="i-LhqMh85n2c9vXnx1HZLe8z">
-          Oro uttalas även från polisens sida. Därifrån klagar man på att
-          avståndet till åklagare i vissa fall leder till undermåliga utredningar.
-          Kommunikation via e-post och telefon är inte det mest effektiva
-          i sådana här sammanhang.
-        </p>
-        <p xml:id="i-2ru66BEiUTN2RjtvZqhqxk">
-          Regeringens senfärdighet att fatta beslut om tingsrättsorganisationen
-          påverkar således hela rättsapparaten.
-        </p>
-        <p xml:id="i-Hdzw4PMrvfmz5TG7AGmSVg">
-          Vilka konkreta åtgärder avser justitieministern att vidta för
-          att hela rättsväsendet i Västerbotten ska fungera?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-61XzZdWrpFcQLF4wMBS7e2">
+            Den 3 februari i år väckte jag frågan när utredningen om rättsväsendet
+            i Norrland skulle sjösättas. Justitieministern bekräftade då att
+            det skulle ske ett särskilt utredningsförfarande för att klargöra
+            rättsväsendets organisation i Norrland och att hur frågan bör
+            utredas för närvarande bereds i Regeringskansliet.
+          </p>
+          <p xml:id="i-QNrTC8xqK6aag8kS2s9m4p">
+            Det är gott och väl att justitieministern står fast vid sitt
+            ord, men det var faktiskt den 23 september 2004 som justitieministern
+            utlovade utredningen. Nu har det snart gått sex månader och utredningen
+            har fortfarande inte kommit i gång. Departementet funderar på
+            direktiven och något svar på frågan när utredningen ska tillsättas
+            har inte kommit.
+          </p>
+          <p xml:id="i-VFahU3rLs7ZkY5W61ohvEQ">
+            Frågan gäller nu inte enbart hur tingsrättsorganisationen kommer
+            att se ut i framtiden. Den är faktiskt mycket större än så och
+            berör hela rättsväsendets funktion. Så länge som justitieministern
+            inte kommer med några besked kommer osäkerheten att vara stor.
+          </p>
+          <p xml:id="i-7zY5C1JcBaQwrSm8dYA59k">
+            Skellefteå står helt utan åklagare. Där finns utrymme och även
+            behov av tre åklagare. Tingsrättsförhandlingar i Skellefteå kan
+            inte påbörjas förrän åklagare rest upp från Umeå, ibland inte
+            förrän kl. 10.30 på förmiddagen. Dessutom är det helt orimligt
+            att åklagare ska använda sin dyrbara arbetstid till bilkörning.
+            Tillsättandet av en åklagare i Skellefteå prioriteras inte på
+            grund av osäkerheterna med tingsrätten och vilken ung jurist skulle
+            för övrigt vilja ta plats på en ort där det råder osäkerhet om
+            tingsrätten kommer att bli kvar.
+          </p>
+          <p xml:id="i-UbyJLqxz4To4yECvARfEJY">
+            Oro uttalas även från polisens sida. Därifrån klagar man på att
+            avståndet till åklagare i vissa fall leder till undermåliga utredningar.
+            Kommunikation via e-post och telefon är inte det mest effektiva
+            i sådana här sammanhang.
+          </p>
+          <p xml:id="i-TaoYhrth4jozkYDRBjBK7D">
+            Regeringens senfärdighet att fatta beslut om tingsrättsorganisationen
+            påverkar således hela rättsapparaten.
+          </p>
+          <p xml:id="i-j8mpnXHr9NruizENiimyv">
+            Vilka konkreta åtgärder avser justitieministern att vidta för
+            att hela rättsväsendet i Västerbotten ska fungera?
+          </p>
+        </div>
       </div>
     </body>
   </text>

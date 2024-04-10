@@ -3,109 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förbifart Motala</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förbifart Motala till statsrådet Ulrica Messing om förbifart Motala</title>
+          <idno type="rdwebb">GS10146</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10146/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10146</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10146</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-BbHkenLRw7sU2jqELZdr5w" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AycAgwpRWQUF34hS6SrnrF">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-F8nnHXi2HqVUa1f16Tc6vj">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-46cbvZZ1kjFFT2LiUuH9eY" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XWV4Dtuu16GT5qe3hK2Nam" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-XWV4Dtuu16GT5qe3hK2Nam">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2004/05:146 om förbifart Motala</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0146</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>förbifart Motala</topic>
-        <docDate when="2004-11-16">den 16 november</docDate>
-        <status when="2004-11-23" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10146</external_id>
-        <debate>
-          <turn when="2004-11-23 20:11:37" duration="146">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 20:14:00" duration="251">Linnéa Darell (Fp)</turn>
-          <turn when="2004-11-23 20:18:08" duration="241">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-23 20:22:03" duration="240">Sonia Karlsson (S)</turn>
-          <turn when="2004-11-23 20:25:56" duration="271">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 20:30:24" duration="239">Linnéa Darell (Fp)</turn>
-          <turn when="2004-11-23 20:34:18" duration="141">Jan-Evert Rådhström (M)</turn>
-          <turn when="2004-11-23 20:36:33" duration="158">Sonia Karlsson (S)</turn>
-          <turn when="2004-11-23 20:39:05" duration="196">Ulrica Messing (S)</turn>
-          <turn when="2004-11-23 20:42:13" duration="149">Linnéa Darell (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:146 av Linnéa Darell (fp) till statsrådet
-          Ulrica Messing om förbifart Motala
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LbdU4tTdJLXENTPmhbv9cZ">
+            Interpellation 2004/05:146 av Linnéa Darell (fp) till statsrådet
+            Ulrica Messing om förbifart Motala
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8xTqWvvhiZb9Ki3udAcKo5">
+            den 16 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RpQu5pBpafkjjHbnVpavMb">
-          Valåret 1998 lovade den socialdemokratiska regeringen att den
-          angelägna förbifarten Rv 50 vid Motala skulle börja byggas 2004.
-          Efter att detta vallöfte svikits har förbifarten upptagits i planen
-          för 2004@2015 med byggår 2008. När nu regeringen lovar vägsatsningar
-          för att rädda jobben i Trollhättan drabbas Motala återigen av
-          ett sviket löfte. Byggplanering för Rv 50 förbi Motala är nu framflyttad
-          ytterligare fyra år, till 2012!
-        </p>
-        <p xml:id="i-BchnkLBW1ba2iokEBy5yj1">
-          Genom centrala Motala passerar dagligen ca 20 000 fordon, till
-          stora delar mycket tung trafik. I det planeringsunderlag som finns
-          för den nya vägsträckningen anges en tung lastbil per minut eller
-          ca 1 500 per dygn. Rv 50 är en av de mest belastade vägarna i
-          Sverige med tung trafik. Få tätorter har en sådan genomfartstrafik
-          som Motala och därmed dåliga förutsättningar för en god miljö
-          och befolkningens hälsa.
-        </p>
-        <p xml:id="i-WxMvdsg5PFKn6zxRyz3DLj">
-          Dessutom kastas åtskilliga miljoner av planeringsresurser i sjön
-          gång efter annan. Vägverket har lagt ned ca 50 miljoner kronor
-          och Motala kommun 5 miljoner under de senaste tio åren. Det är
-          ett oerhört slöseri med redan knappa resurser. Det är ju inte
-          så att detta planarbete bara är att återuppta utan nya kostnader
-          den dag regeringen eventuellt ger klartecken igen.
-        </p>
-        <p xml:id="i-KLfFtS7LdaqkjkxBzjvubX">
-          Den västra delen av Östergötland drabbas hårt av regeringens
-          ändrade planer. Utöver förbifart Motala har upprustningen av Rv
-          50 mot Mjölby med anslutning till E 4 helt tagits bort ur nu gällande
-          plan till 2015. Det betyder att den hårt trafikerade sträckningen
-          inte inom överskådlig tid kan få 110 km-standard och att Vadstena
-          inte kan avlastas genomfartstrafiken. Om regeringen vidhåller
-          att den tidigare planerade upprustningen inte kommer att finnas
-          med under planperioden till 2015 bör kringfarten vid Vadstena
-          omedelbart påbörjas. Kostnaden för den är beräknad till ca 30
-          miljoner kronor, som får betraktas som felräkningspengar i detta
-          sammanhang. De framflyttade respektive strukna vägplanerna i övrigt
-          är beräknade till ca 1,3 miljarder kronor.
-        </p>
-        <p xml:id="i-4TbrVCRFSAv1uKhSBFw25E">
-          Mina frågor är:
-        </p>
-        <p xml:id="i-8YwMyVi2kgm9upm6bBxS12">
-          Vad avser infrastrukturministern att göra för att förbifart Motala
-          ska kunna börja byggas 2008 som tidigare utlovats?
-        </p>
-        <p xml:id="i-8HwyhM1K2vs3rLKGs5WxPd">
-          Avser infrastrukturministern att verka för en upprustning av
-          Rv 50 till en trafiksäker sträckning som knyter samman den västra
-          länsdelen med E 4-an vid Mjölby och när kan en upprustning ske?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-4awwKZ98HwPRNyNByY2jEK">
+            Valåret 1998 lovade den socialdemokratiska regeringen att den
+            angelägna förbifarten Rv 50 vid Motala skulle börja byggas 2004.
+            Efter att detta vallöfte svikits har förbifarten upptagits i planen
+            för 2004@2015 med byggår 2008. När nu regeringen lovar vägsatsningar
+            för att rädda jobben i Trollhättan drabbas Motala återigen av
+            ett sviket löfte. Byggplanering för Rv 50 förbi Motala är nu framflyttad
+            ytterligare fyra år, till 2012!
+          </p>
+          <p xml:id="i-3tmvyphwRpfq47sJCKk57E">
+            Genom centrala Motala passerar dagligen ca 20 000 fordon, till
+            stora delar mycket tung trafik. I det planeringsunderlag som finns
+            för den nya vägsträckningen anges en tung lastbil per minut eller
+            ca 1 500 per dygn. Rv 50 är en av de mest belastade vägarna i
+            Sverige med tung trafik. Få tätorter har en sådan genomfartstrafik
+            som Motala och därmed dåliga förutsättningar för en god miljö
+            och befolkningens hälsa.
+          </p>
+          <p xml:id="i-MPxLaoLuWgqWPijGGLQhve">
+            Dessutom kastas åtskilliga miljoner av planeringsresurser i sjön
+            gång efter annan. Vägverket har lagt ned ca 50 miljoner kronor
+            och Motala kommun 5 miljoner under de senaste tio åren. Det är
+            ett oerhört slöseri med redan knappa resurser. Det är ju inte
+            så att detta planarbete bara är att återuppta utan nya kostnader
+            den dag regeringen eventuellt ger klartecken igen.
+          </p>
+          <p xml:id="i-NmaznKKgLNtZ1tGziy565">
+            Den västra delen av Östergötland drabbas hårt av regeringens
+            ändrade planer. Utöver förbifart Motala har upprustningen av Rv
+            50 mot Mjölby med anslutning till E 4 helt tagits bort ur nu gällande
+            plan till 2015. Det betyder att den hårt trafikerade sträckningen
+            inte inom överskådlig tid kan få 110 km-standard och att Vadstena
+            inte kan avlastas genomfartstrafiken. Om regeringen vidhåller
+            att den tidigare planerade upprustningen inte kommer att finnas
+            med under planperioden till 2015 bör kringfarten vid Vadstena
+            omedelbart påbörjas. Kostnaden för den är beräknad till ca 30
+            miljoner kronor, som får betraktas som felräkningspengar i detta
+            sammanhang. De framflyttade respektive strukna vägplanerna i övrigt
+            är beräknade till ca 1,3 miljarder kronor.
+          </p>
+          <p xml:id="i-JmjEvhzbWZydUXSCjRSJVu">
+            Mina frågor är:
+          </p>
+          <p xml:id="i-G226MySyrkWQ8ndmKPQzDS">
+            Vad avser infrastrukturministern att göra för att förbifart Motala
+            ska kunna börja byggas 2008 som tidigare utlovats?
+          </p>
+          <p xml:id="i-Sg5hwn4243b4L54A2YgkVm">
+            Avser infrastrukturministern att verka för en upprustning av
+            Rv 50 till en trafiksäker sträckning som knyter samman den västra
+            länsdelen med E 4-an vid Mjölby och när kan en upprustning ske?
+          </p>
+        </div>
       </div>
     </body>
   </text>

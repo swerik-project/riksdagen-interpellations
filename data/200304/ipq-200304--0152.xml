@@ -3,122 +3,163 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>polisens användande av vapen</title>
+        <author>Johansson, Jörgen (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>polisens användande av vapen till justitieminister Thomas Bodström om polisens användande av vapen</title>
+          <idno type="rdwebb">GR10152</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10152/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10152</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10152</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
+            <persName>Jörgen Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Us1Yi5JM7PDrgNtwiK3KaK" corresp="i-AyN7HRP1y38PeQoLunJifb">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GkNsQeKynHjyjnTH4D8dw7">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Wp7sZP64dvqhKdJQdGwQtt">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-38Yiazuo14zVZHQF4S8dfN" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-R4cuaL2D4sPqhahHUhVnW4" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-R4cuaL2D4sPqhahHUhVnW4">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2003/04:152 om polisens användande av vapen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0152</head>
-        <author who="i-AyN7HRP1y38PeQoLunJifb">Jörgen Johansson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>polisens användande av vapen</topic>
-        <docDate when="2003-11-25">den 25 november</docDate>
-        <status when="2003-12-12" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10152</external_id>
-        <debate>
-          <turn when="2003-12-12 11:22:25" duration="151">Thomas Bodström (S)</turn>
-          <turn when="2003-12-12 11:24:52" duration="290">Jörgen Johansson (C)</turn>
-          <turn when="2003-12-12 11:29:39" duration="156">Beatrice Ask (M)</turn>
-          <turn when="2003-12-12 11:32:12" duration="154">Thomas Bodström (S)</turn>
-          <turn when="2003-12-12 11:34:42" duration="173">Jörgen Johansson (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:152 av Jörgen Johansson (c) till justitieminister
-          Thomas Bodström om polisens användande av vapen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BVDr5Jh7L8SswVh9DKNSne">
+            Interpellation 2003/04:152 av Jörgen Johansson (c) till justitieminister
+            Thomas Bodström om polisens användande av vapen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-EgybGqvSkkEhDDMWGqUwiE">
+            den 25 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2CwMsZ9nUEproNo299ASZL">
-          Polisen har under senare tid utrustats med en ny typ av ammunition
-          till sina tjänstevapen. Ett av skälen med ammunitionsbytet har
-          uppenbarligen varit att kulan ska stanna upp i kroppen på den
-          träffade individen och därmed inte utgöra något hot för bakomvarande
-          personer i till exempel en folksamling. Valet av kula och synen
-          på att skjuta då inte målet är tydligt avskilt från andra kan
-          diskuteras.
-        </p>
-        <p xml:id="i-M5B3e7UjnZE6VHq8HwBS1D">
-          Den aktuella patronen, en så kallad Speer Gold Dot med hålspetskula,
-          expanderar när den träffar sitt mål. Tekniskt innebär det att
-          kulan är en hålspetskula med sex brottanvisningar vilket innebär
-          att den svampar upp sig när den nått sitt mål. Det innebär att
-          kulan expanderar från 9 mm till närmare 36 mm och därmed får en
-          uppstoppande effekt i människokroppen. Följden av detta blir omfattande
-          skador på den träffade individen. Skulle kulan dessutom träffa
-          till exempel ett revben blir skadeeffekten mångdubbelt värre.
-          Valet av kula har alltså, vid sidan av den uppstoppande effekten,
-          en direkt dödande effekt.
-        </p>
-        <p xml:id="i-EyVS3VdMiU7JtikBTuDAZA">
-          Effekten i människokroppen av den nya ammunitionen är alltså
-          förödande. Med fog kan man fråga sig om användandet av den här
-          sortens ammunition innebär att polisen använder mer våld än vad
-          som krävs när den enskilde polismannen nödgas använda sitt vapen.
-          Man kan även ifrågasätta vilken känsla den enskilde polismannen
-          har när en individ stoppats med till exempel ett skott i låret
-          som med den nya ammunitionen uppenbart kan innebära en dödlig
-          utgång i stället för att innebära en operation och kortare tids
-          konvalescens.
-        </p>
-        <p xml:id="i-abjrGWmQhpbcxm1n4PBXL">
-          Enligt folkrätten finns ett femtiotal olika dokument, daterade
-          från den 16 april 1856 till den 25 maj 1993, som beskriver förhållningssätt
-          i samband med krig. En av dessa konventioner är nummer 5 från
-          den 29 juli 1899, den så kallade Haagdeklarationen, med ikraftträdandedatum
-          den 4 september år 1900, vilken förbjuder användande av kulor
-          som utvidgar sig (expanderar) eller tillplattas i människokroppen.
-          Konventionen ratificerades i Sverige samma dag, 1900:76. Frågan
-          är om inte denna typ av "humanitet" också bör gälla i fredstid
-          och tillämpas av svensk polis.
-        </p>
-        <p xml:id="i-EGYhod58eADcdcK1Zod15Z">
-          Användande av vapen ska ses som en extraordinär åtgärd inom polisens
-          verksamhet. Målet, när vapen ändock används, är att hindra eller
-          skada för att skydda annat liv, inte att döda. Ett eventuellt
-          dödsfall är att se som en olyckshändelse i dessa sammanhang. Införandet
-          av den nya ammunitionen gör dock att effekten att döda blir mer
-          framträdande. Det är alltså ett steg tillbaka utifrån ett humanistiskt
-          synsätt.
-        </p>
-        <p xml:id="i-MJEgKeacz4Fds1nJMDx5sb">
-          Mina frågor till justitieministern är:
-        </p>
-        <p xml:id="i-29E1Pd7HQV2vEAbGREcQV2">
-          1. Har justitieministern gjort bedömningen att det är förenligt
-          med en humanistisk grundsyn att inom den polisiära verksamheten
-          använda en ammunition som tillfogar offret den skada som användandet
-          av dumdumkulor gör?
-        </p>
-        <p xml:id="i-CyMCos22NuxqHnz7tj4sjy">
-          2. Har justitieministern gjort bedömningen att införandet av
-          den nya ammunitionen underlättar bedömningen av vad som är lämplig
-          nivå på våld i samband med polisiära ingripanden?
-        </p>
-        <p xml:id="i-7kLrZ7ZjXv2UqTk5pcQVeM">
-          3. Vad avser justitieministern att göra för att tilltron till
-          svensk polis stärks vid vapenanvändande i extraordinära situationer?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-7uNyfbBNg1LhfRgTEXEGQH">
+            Polisen har under senare tid utrustats med en ny typ av ammunition
+            till sina tjänstevapen. Ett av skälen med ammunitionsbytet har
+            uppenbarligen varit att kulan ska stanna upp i kroppen på den
+            träffade individen och därmed inte utgöra något hot för bakomvarande
+            personer i till exempel en folksamling. Valet av kula och synen
+            på att skjuta då inte målet är tydligt avskilt från andra kan
+            diskuteras.
+          </p>
+          <p xml:id="i-LNuRuFiZYySNjiuHg4mLzv">
+            Den aktuella patronen, en så kallad Speer Gold Dot med hålspetskula,
+            expanderar när den träffar sitt mål. Tekniskt innebär det att
+            kulan är en hålspetskula med sex brottanvisningar vilket innebär
+            att den svampar upp sig när den nått sitt mål. Det innebär att
+            kulan expanderar från 9 mm till närmare 36 mm och därmed får en
+            uppstoppande effekt i människokroppen. Följden av detta blir omfattande
+            skador på den träffade individen. Skulle kulan dessutom träffa
+            till exempel ett revben blir skadeeffekten mångdubbelt värre.
+            Valet av kula har alltså, vid sidan av den uppstoppande effekten,
+            en direkt dödande effekt.
+          </p>
+          <p xml:id="i-NYAzhYu2YTyTEUWXuC2Nwv">
+            Effekten i människokroppen av den nya ammunitionen är alltså
+            förödande. Med fog kan man fråga sig om användandet av den här
+            sortens ammunition innebär att polisen använder mer våld än vad
+            som krävs när den enskilde polismannen nödgas använda sitt vapen.
+            Man kan även ifrågasätta vilken känsla den enskilde polismannen
+            har när en individ stoppats med till exempel ett skott i låret
+            som med den nya ammunitionen uppenbart kan innebära en dödlig
+            utgång i stället för att innebära en operation och kortare tids
+            konvalescens.
+          </p>
+          <p xml:id="i-UykiH7u5fqWAi98k8dDozp">
+            Enligt folkrätten finns ett femtiotal olika dokument, daterade
+            från den 16 april 1856 till den 25 maj 1993, som beskriver förhållningssätt
+            i samband med krig. En av dessa konventioner är nummer 5 från
+            den 29 juli 1899, den så kallade Haagdeklarationen, med ikraftträdandedatum
+            den 4 september år 1900, vilken förbjuder användande av kulor
+            som utvidgar sig (expanderar) eller tillplattas i människokroppen.
+            Konventionen ratificerades i Sverige samma dag, 1900:76. Frågan
+            är om inte denna typ av "humanitet" också bör gälla i fredstid
+            och tillämpas av svensk polis.
+          </p>
+          <p xml:id="i-UGS4vhTb3fpyEym5BStvGv">
+            Användande av vapen ska ses som en extraordinär åtgärd inom polisens
+            verksamhet. Målet, när vapen ändock används, är att hindra eller
+            skada för att skydda annat liv, inte att döda. Ett eventuellt
+            dödsfall är att se som en olyckshändelse i dessa sammanhang. Införandet
+            av den nya ammunitionen gör dock att effekten att döda blir mer
+            framträdande. Det är alltså ett steg tillbaka utifrån ett humanistiskt
+            synsätt.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-F9GRYgcmqjPbRaDPKPnRqt">
+            Mina frågor till justitieministern är:
+            <list rend="unordered">
+              <item>
+                1. Har justitieministern gjort bedömningen att det är förenligt
+                med en humanistisk grundsyn att inom den polisiära verksamheten
+                använda en ammunition som tillfogar offret den skada som användandet
+                av dumdumkulor gör?
+              </item>
+              <item>
+                2. Har justitieministern gjort bedömningen att införandet av
+                den nya ammunitionen underlättar bedömningen av vad som är lämplig
+                nivå på våld i samband med polisiära ingripanden?
+              </item>
+              <item>
+                3. Vad avser justitieministern att göra för att tilltron till
+                svensk polis stärks vid vapenanvändande i extraordinära situationer?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

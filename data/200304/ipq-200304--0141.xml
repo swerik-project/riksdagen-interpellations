@@ -3,124 +3,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>en öppnare arbetsmarknad</title>
+        <author>Billström, Tobias (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>en öppnare arbetsmarknad till statsrådet Hans Karlsson om en öppnare arbetsmarknad</title>
+          <idno type="rdwebb">GR10141</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10141/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10141</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10141</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-WVFypZvmBe8aKoshmubXJU" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
+          <date when="2003-11-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-B1MxsSedGgeiKcdpkGMiDQ">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ACP9nYLB2NviZFw4bj5zVj">
+          <date when="2004-01-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XgiGr9B5Phdfnb2iRzS2zT" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Fi5fLf5VJk1YuVVmEjgzFb" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-01-23"/>
+        </correspAction>
+        <correspContext corresp="i-Fi5fLf5VJk1YuVVmEjgzFb">
+          <ref type="record" target="prot-200304--057">Riksdagens protokoll 2003/04:57 Fredagen den 23 januari</ref>
+          <ref type="recordSection" target="unsetDivId">3 § Svar på interpellation 2003/04:141 om en öppnare arbetsmarknad</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0141</head>
-        <author who="i-KPGvtK4s6Zp3E6XH6vj18n">Tobias Billström</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>en öppnare arbetsmarknad</topic>
-        <docDate when="2003-11-21">den 21 november</docDate>
-        <status when="2004-01-23" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10141</external_id>
-        <debate>
-          <turn when="2004-01-23 09:01:38" duration="360">Mona Sahlin (S)</turn>
-          <turn when="2004-01-23 09:07:35" duration="164">Tobias Billström (M)</turn>
-          <turn when="2004-01-23 09:10:15" duration="223">Ana Maria Narti (Fp)</turn>
-          <turn when="2004-01-23 09:13:54" duration="267">Mona Sahlin (S)</turn>
-          <turn when="2004-01-23 09:18:13" duration="196">Tobias Billström (M)</turn>
-          <turn when="2004-01-23 09:21:18" duration="128">Ana Maria Narti (Fp)</turn>
-          <turn when="2004-01-23 09:23:23" duration="188">Mona Sahlin (S)</turn>
-          <turn when="2004-01-23 09:26:28" duration="150">Tobias Billström (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:141 av Tobias Billström (m) till statsrådet
-          Hans Karlsson om en öppnare arbetsmarknad
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EEvypY8AJx9rF4udoGd5qW">
+            Interpellation 2003/04:141 av Tobias Billström (m) till statsrådet
+            Hans Karlsson om en öppnare arbetsmarknad
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Rruhu57upnfN1B5f4TMPGQ">
+            den 21 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-GEDspdyJfUr4RNFiVHcTmq">
-          Det finns tydliga indikationer på att det förekommer diskriminering
-          på arbetsmarknaden på grund av hudfärg. Även när faktorer som
-          språk, ålder, civilstånd och utbildning @ faktorer som ofta används
-          för att förklara varför invandrade har svårt att få arbete @ rensas
-          bort, kvarstår eller ökar skillnaderna.
-        </p>
-        <p xml:id="i-TvL3GZhk9fVUWAzKVVMBA">
-          Att människor särbehandlas eller diskrimineras på arbetsmarknaden
-          är oacceptabelt. Det är dessutom ett samhällsekonomiskt slöseri.
-        </p>
-        <p xml:id="i-TYosW6Ur24ntCFuWJ8M1du">
-          I Sverige finns en stor outnyttjad arbetskraftspotential i form
-          av omkring 10 000 högutbildade personer, som är födda i ett land
-          utanför EU/EES. Detta framgår av en uppmärksammad studie från
-          2001 som redovisas i Rapport Integration 2002. Vidare är chansen
-          för en person från Afrika att ha ett arbete, som han eller hon
-          är kvalificerad för, 60 % lägre än för infödda svenskar, med hänsyn
-          tagen till utbildning, ålder och kön. Även detta framgår av Rapport
-          Integration 2002.
-        </p>
-        <p xml:id="i-UEFpFmGjccPEiSidjJBAhS">
-          Grunden för den diskriminering som avses är kanske inte alltid
-          medveten rasism, utan underliggande attityder och föreställningar
-          om andra länders utbildning, kultur och personer. Det kan vara
-          fråga om att andra människor betraktas som problem eller bortsorteras
-          i arbetslivet. Ett näraliggande problem är de svenska myndigheternas
-          senfärdighet med validering av utländska utbildningar och examina.
-          Utbildning och även yrkeserfarenhet är en färskvara. Lång väntan
-          på myndigheters beslut minskar värdet av en utbildning och försvårar
-          introduktionen på den svenska arbetsmarknaden.
-        </p>
-        <p xml:id="i-DtNYfNcDSBoRu6msZgx3XU">
-          Men att ändra attityder kräver ett långsiktigt strategiskt arbete.
-          En väg mot detta är att öppna upp vår slutna svenska arbetsmarknad,
-          inte bara för arbetskraftsinvandrare utan självklart även för
-          de människor med utländsk bakgrund som kommer till Sverige av
-          andra orsaker. En åtgärd som skulle förbättra situationen avsevärt
-          för många som i dag stängs ute från arbetsmarknaden är förbättrad
-          validering av utländsk utbildning och examina. Regeringen har
-          i regeringsförklaringen aviserat att man tänker tillsätta en valideringsdelegation.
-          Validering av utländska examina anses i dag svåra att göra och
-          när den tar för lång tid blir den meningslös. Det krävs därför
-          fler konkreta åtgärder för att öppna upp arbetsmarknaden.
-        </p>
-        <p xml:id="i-NZ3LZ4eVaYgQ2bNmPVx1b1">
-          Möjligheten att arbeta och försörja sig är en av de viktigaste
-          vägarna mot integrering och delaktighet i samhället. Arbetsmarknaden
-          måste öppnas för människor som i dag stängs ute, eller hänvisas
-          till den oskyddade svarta arbetsmarknaden för att få jobb i Sverige.
-          Stat och kommun borde, som stora arbetsgivare kunna föregå med
-          goda exempel på detta område. Så ser emellertid inte verkligheten
-          ut. Sammantaget utgör personer med utländsk bakgrund 9,8 % av
-          de sysselsatta inom offentlig sektor och 12,5 % inom privat sektor,
-          detta framgår av en utredning genomförd av riksdagens utredningstjänst.
-        </p>
-        <p xml:id="i-SgPs78c6U2itmMbKu9EFZC">
-          Med anledning av ovanstående vill jag rikta följande frågor till
-          Hans Karlsson.
-        </p>
-        <p xml:id="i-GaG7KFMms5x6FNGNeHnVLb">
-          1. Vilka åtgärder avser statsrådet att vidta för att öppna arbetsmarknaden
-          för dem som i dag stängs ute?
-        </p>
-        <p xml:id="i-4E9FYSgk1T5seEgwfEpM1P">
-          2. Vilka åtgärder avser statsrådet att vidta för att stat och
-          kommun ska bli de förebilder de borde vara när det gäller att
-          anställa människor med utländsk bakgrund?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-CV6JqAoqHDSYkgc7F2FCAK">
+            Det finns tydliga indikationer på att det förekommer diskriminering
+            på arbetsmarknaden på grund av hudfärg. Även när faktorer som
+            språk, ålder, civilstånd och utbildning @ faktorer som ofta används
+            för att förklara varför invandrade har svårt att få arbete @ rensas
+            bort, kvarstår eller ökar skillnaderna.
+          </p>
+          <p xml:id="i-K1bo1JoSsdgDKDMsvGN4KX">
+            Att människor särbehandlas eller diskrimineras på arbetsmarknaden
+            är oacceptabelt. Det är dessutom ett samhällsekonomiskt slöseri.
+          </p>
+          <p xml:id="i-G5PS4FGnGWqdHVadyvs8Tq">
+            I Sverige finns en stor outnyttjad arbetskraftspotential i form
+            av omkring 10 000 högutbildade personer, som är födda i ett land
+            utanför EU/EES. Detta framgår av en uppmärksammad studie från
+            2001 som redovisas i Rapport Integration 2002. Vidare är chansen
+            för en person från Afrika att ha ett arbete, som han eller hon
+            är kvalificerad för, 60 % lägre än för infödda svenskar, med hänsyn
+            tagen till utbildning, ålder och kön. Även detta framgår av Rapport
+            Integration 2002.
+          </p>
+          <p xml:id="i-KGCQAaiJDMvU7zmXGJN7ZG">
+            Grunden för den diskriminering som avses är kanske inte alltid
+            medveten rasism, utan underliggande attityder och föreställningar
+            om andra länders utbildning, kultur och personer. Det kan vara
+            fråga om att andra människor betraktas som problem eller bortsorteras
+            i arbetslivet. Ett näraliggande problem är de svenska myndigheternas
+            senfärdighet med validering av utländska utbildningar och examina.
+            Utbildning och även yrkeserfarenhet är en färskvara. Lång väntan
+            på myndigheters beslut minskar värdet av en utbildning och försvårar
+            introduktionen på den svenska arbetsmarknaden.
+          </p>
+          <p xml:id="i-NgotvLJz6jqCPDqHp5CBTF">
+            Men att ändra attityder kräver ett långsiktigt strategiskt arbete.
+            En väg mot detta är att öppna upp vår slutna svenska arbetsmarknad,
+            inte bara för arbetskraftsinvandrare utan självklart även för
+            de människor med utländsk bakgrund som kommer till Sverige av
+            andra orsaker. En åtgärd som skulle förbättra situationen avsevärt
+            för många som i dag stängs ute från arbetsmarknaden är förbättrad
+            validering av utländsk utbildning och examina. Regeringen har
+            i regeringsförklaringen aviserat att man tänker tillsätta en valideringsdelegation.
+            Validering av utländska examina anses i dag svåra att göra och
+            när den tar för lång tid blir den meningslös. Det krävs därför
+            fler konkreta åtgärder för att öppna upp arbetsmarknaden.
+          </p>
+          <p xml:id="i-D7nWftmAQQfX2DYdu6wCMr">
+            Möjligheten att arbeta och försörja sig är en av de viktigaste
+            vägarna mot integrering och delaktighet i samhället. Arbetsmarknaden
+            måste öppnas för människor som i dag stängs ute, eller hänvisas
+            till den oskyddade svarta arbetsmarknaden för att få jobb i Sverige.
+            Stat och kommun borde, som stora arbetsgivare kunna föregå med
+            goda exempel på detta område. Så ser emellertid inte verkligheten
+            ut. Sammantaget utgör personer med utländsk bakgrund 9,8 % av
+            de sysselsatta inom offentlig sektor och 12,5 % inom privat sektor,
+            detta framgår av en utredning genomförd av riksdagens utredningstjänst.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-9dfeMFz4EWg8u7zGabr2y2">
+            Med anledning av ovanstående vill jag rikta följande frågor till
+            Hans Karlsson.
+            <list rend="unordered">
+              <item>
+                1.Vilka åtgärder avser statsrådet att vidta för att öppna arbetsmarknaden
+                för dem som i dag stängs ute?
+              </item>
+              <item>
+                2.Vilka åtgärder avser statsrådet att vidta för att stat och
+                kommun ska bli de förebilder de borde vara när det gäller att
+                anställa människor med utländsk bakgrund?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

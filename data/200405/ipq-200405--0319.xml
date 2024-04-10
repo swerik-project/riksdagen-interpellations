@@ -3,97 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>rovdjurspolitik</title>
+        <author>Johansson, Jörgen (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>rovdjurspolitik till statsrådet Lena Sommestad om rovdjurspolitik</title>
+          <idno type="rdwebb">GS10319</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10319/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10319</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10319</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
+            <persName>Jörgen Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-HbdaKyjg2xzJuw5y3qXHr3" corresp="i-AyN7HRP1y38PeQoLunJifb">
+          <date when="2005-01-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-H947PnZ6MzcUcYANq212Vi">
+          <date when="2005-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4Gpz5vDHZdKEZ7rnJ8RoCu">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Hpd2nkTTkgDuHoZjWuGNy" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-01-20"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3UMFh8eoJCT4uTEAJQeJr6" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspContext corresp="i-3UMFh8eoJCT4uTEAJQeJr6">
+          <ref type="record" target="prot-200405--069">Riksdagens protokoll 2004/05:69 Torsdagen den 3 februari</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2004/05:319 om rovdjurspolitik</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0319</head>
-        <author who="i-AyN7HRP1y38PeQoLunJifb">Jörgen Johansson</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>rovdjurspolitik</topic>
-        <docDate when="2005-01-20">den 20 januari</docDate>
-        <status when="2005-02-03" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10319</external_id>
-        <debate>
-          <turn when="2005-02-03 16:29:13" duration="239">Lena Sommestad (S)</turn>
-          <turn when="2005-02-03 16:33:08" duration="242">Jörgen Johansson (C)</turn>
-          <turn when="2005-02-03 16:37:06" duration="171">Harald Nordlund (Fp)</turn>
-          <turn when="2005-02-03 16:39:54" duration="258">Rigmor Stenmark (C)</turn>
-          <turn when="2005-02-03 16:44:08" duration="240">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-02-03 16:48:04" duration="259">Lena Sommestad (S)</turn>
-          <turn when="2005-02-03 16:52:18" duration="197">Jörgen Johansson (C)</turn>
-          <turn when="2005-02-03 16:55:32" duration="118">Harald Nordlund (Fp)</turn>
-          <turn when="2005-02-03 16:57:26" duration="124">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-02-03 16:59:26" duration="259">Lena Sommestad (S)</turn>
-          <turn when="2005-02-03 17:03:41" duration="110">Jörgen Johansson (C)</turn>
-          <turn when="2005-02-03 17:05:27" duration="163">Lena Sommestad (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:319 av Jörgen Johansson (c) till statsrådet
-          Lena Sommestad om rovdjurspolitik
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-3nFVyjpvtLMARHnXbsjKw3">
+            Interpellation 2004/05:319 av Jörgen Johansson (c) till statsrådet
+            Lena Sommestad om rovdjurspolitik
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-CJKpuJsdBiLBgudVxGevQk">
+            den 20 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JuZhNQEet8SNmtzyRbcdee">
-          Våren 2001 antog riksdagen propositionen om en sammanhållen rovdjurspolitik.
-          Det innebar att vargstammen skulle utökas till ett första etappmål
-          om 200 vargar i Sverige. Beslutet har kritiserats eftersom det
-          inte inkluderat vargpopulationens utbredning i hela Skandinavien,
-          fast det är samma population. Oviljan att se Skandinavien som
-          bas för vargstammen gör att Sverige bör göra bedömningar utifrån
-          "sin" stam och inte kritisera andra länders hantering av "deras"
-          vargstam. Den kritik som regeringens representant gjort av den
-          norska vargpolitiken är därför besvärande, såväl sakligt som etiskt.
-        </p>
-        <p xml:id="i-G996VyPLkz9QDPcsHdeAHM">
-          För att vinna gehör måste en aktiv rovdjurspolitik bygga på förståelse
-          människor emellan. I dag finns varken delaktighet i eller förståelse
-          för rovdjurspolitiken hos många invånare i drabbade vargbygder.
-          I stället präglas debatten av folklig vrede, ilska och frustration
-          i samband med statens agerande i vargfrågan. Sveriges inblandning
-          i norsk rovdjurspolitik har inte gjort frågan lättare att lösa.
-        </p>
-        <p xml:id="i-CWK1JSrNzHwV3iEbQ3UNgx">
-          Den inflammerade debatten gagnar ingen. En omprövning av rovdjurspolitiken
-          är därför nödvändig. Utgångspunkten bör vara att varje art har
-          rätt att existera. En annan utgångspunkt bör vara att ingen art
-          ska få växa på bekostnad av att annan art utrotas. Vid en utarbetning
-          av en reell rovdjurspolitik som accepteras av de flesta bör dessutom
-          hela Skandinavien räknas som bas för de stora rovdjursarterna.
-        </p>
-        <p xml:id="i-UDmEpJ5X6rvpw4CKZM9izy">
-          Mina frågor till statsrådet är:
-        </p>
-        <p xml:id="i-XteuFJ6oKGn1Hb1uE16WND">
-          Vad avser statsrådet att göra för att skapa en rovdjurspolitik
-          som uppfyller kravet på förtroende och delaktighet människor emellan?
-        </p>
-        <p xml:id="i-H5rcSk9xjSLigVp6TdAXQJ">
-          Vad avser statsrådet att göra för att skapa ett förtroende inom
-          rovdjurspolitiken mellan de skandinaviska länderna?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-VJDzgzHogEoxcKSNzsXtFA">
+            Våren 2001 antog riksdagen propositionen om en sammanhållen rovdjurspolitik.
+            Det innebar att vargstammen skulle utökas till ett första etappmål
+            om 200 vargar i Sverige. Beslutet har kritiserats eftersom det
+            inte inkluderat vargpopulationens utbredning i hela Skandinavien,
+            fast det är samma population. Oviljan att se Skandinavien som
+            bas för vargstammen gör att Sverige bör göra bedömningar utifrån
+            "sin" stam och inte kritisera andra länders hantering av "deras"
+            vargstam. Den kritik som regeringens representant gjort av den
+            norska vargpolitiken är därför besvärande, såväl sakligt som etiskt.
+          </p>
+          <p xml:id="i-FQUWuhtB7wPezcv1dVq4bw">
+            För att vinna gehör måste en aktiv rovdjurspolitik bygga på förståelse
+            människor emellan. I dag finns varken delaktighet i eller förståelse
+            för rovdjurspolitiken hos många invånare i drabbade vargbygder.
+            I stället präglas debatten av folklig vrede, ilska och frustration
+            i samband med statens agerande i vargfrågan. Sveriges inblandning
+            i norsk rovdjurspolitik har inte gjort frågan lättare att lösa.
+          </p>
+          <p xml:id="i-BqWFLGK9rw4JdkUxZYcT1J">
+            Den inflammerade debatten gagnar ingen. En omprövning av rovdjurspolitiken
+            är därför nödvändig. Utgångspunkten bör vara att varje art har
+            rätt att existera. En annan utgångspunkt bör vara att ingen art
+            ska få växa på bekostnad av att annan art utrotas. Vid en utarbetning
+            av en reell rovdjurspolitik som accepteras av de flesta bör dessutom
+            hela Skandinavien räknas som bas för de stora rovdjursarterna.
+          </p>
+          <p xml:id="i-N9ZFeggtbtdLwiouQdpiq9">
+            Mina frågor till statsrådet är:
+          </p>
+          <p xml:id="i-G58vFrRq1SdEToDpDtNhzE">
+            Vad avser statsrådet att göra för att skapa en rovdjurspolitik
+            som uppfyller kravet på förtroende och delaktighet människor emellan?
+          </p>
+          <p xml:id="i-XgW5GcCsJkP65HxweYb9CH">
+            Vad avser statsrådet att göra för att skapa ett förtroende inom
+            rovdjurspolitiken mellan de skandinaviska länderna?
+          </p>
+        </div>
       </div>
     </body>
   </text>

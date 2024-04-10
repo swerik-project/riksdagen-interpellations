@@ -3,108 +3,145 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>strategi för centralisering av rättsväsendet</title>
+        <author>Linander, Johan (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>strategi för centralisering av rättsväsendet till justitieminister Thomas Bodström om strategi för centralisering av rättsväsendet</title>
+          <idno type="rdwebb">GR1045</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1045/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1045</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1045</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-U5MhCo51MGLLY94GAGJZhY</idno>
+            <persName>Johan Linander</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XUvyq7ZavTm7PnuDF6C1wE" corresp="i-U5MhCo51MGLLY94GAGJZhY">
+          <date when="2003-10-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ld81c2o6TH6WYvvar9SSPG">
+          <date when="2003-10-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-JaPgGETkKgGyoyS1qyjfZj">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-NZr5a4b4G9YYtiR6AEx1ko" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-10-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-94TLfGGL5H6G2JYkJrJrZY" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspContext corresp="i-94TLfGGL5H6G2JYkJrJrZY">
+          <ref type="record" target="prot-200304--025">Riksdagens protokoll 2003/04:25 Tisdagen den 11 november</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2003/04:45 om strategi för centralisering av rättsväsendet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0045</head>
-        <author who="i-U5MhCo51MGLLY94GAGJZhY">Johan Linander</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>strategi för centralisering av rättsväsendet</topic>
-        <docDate when="2003-10-23">den 23 oktober</docDate>
-        <status when="2003-11-11" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1045</external_id>
-        <debate>
-          <turn when="2003-11-11 19:43:48" duration="244">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 19:47:49" duration="254">Johan Linander (C)</turn>
-          <turn when="2003-11-11 19:51:59" duration="167">Jan Ertsborn (Fp)</turn>
-          <turn when="2003-11-11 19:54:42" duration="113">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 19:56:31" duration="249">Johan Linander (C)</turn>
-          <turn when="2003-11-11 20:00:36" duration="88">Jan Ertsborn (Fp)</turn>
-          <turn when="2003-11-11 20:02:01" duration="112">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 20:03:49" duration="137">Johan Linander (C)</turn>
-          <turn when="2003-11-11 20:06:02" duration="84">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:45 av Johan Linander (c) till justitieminister
-          Thomas Bodström om strategi för centralisering av rättsväsendet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-SB4FcPpZarfFxTXeFdRadh">
+            Interpellation 2003/04:45 av Johan Linander (c) till justitieminister
+            Thomas Bodström om strategi för centralisering av rättsväsendet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8gm6smXNzCo2eM84PzrErN">
+            den 23 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-HVFVs7TdAwyHDky4vdD4Uj">
-          Det pågår en centralisering av det svenska rättsväsendet av sällan
-          skådat slag. Polisstationer läggs ned, tingsrätter avvecklas och
-          hälften av landets alla tingsrätter står på tur enligt Domstolsverket,
-          polisens kommunikationscentraler har centraliserats med längre
-          väntetider som följd, polisdistrikt vill slå sig samman till större
-          myndigheter, åklagarväsendet planerar centralisering och tullen
-          har långtgående planer på att göra detsamma.
-        </p>
-        <p xml:id="i-aW7rkvz6yMbVK86eX7sCT">
-          Det kan säkert finnas anledningar till att se över polisens,
-          domstolsväsendets med flera organisation. Men var finns analysen
-          som säger att centralisering av all verksamhet innebär förbättringar?
-          Vad innebär det för en ort att polisstationen försvinner? Hur
-          påverkas människors upplevda trygghet? Vad innebär det för näringslivet
-          och risken för rån och annan brottslighet? Hur påverkas en ort
-          när tingsrätten läggs ned, innebär det att möjlighet att få hjälp
-          med juridisk kompetens på orten också försvinner? Hur har tillgängligheten
-          påverkats av centraliseringen av kommunikationscentralerna?
-        </p>
-        <p xml:id="i-WGzFfYhM8njfJFBniorWyV">
-          Det finns väldigt många frågor som behöver ställas med anledning
-          av regeringens snabba centralisering av stora delar av rättsväsendet.
-          Grundsynen att centralisering alltid är bra sitter djupt i den
-          socialdemokratiska politiken. Inser man inte problembilden så
-          är det definitivt svårt att lösa problemet.
-        </p>
-        <p xml:id="i-4sD79YCdx2uVh8E61kt7mh">
-          Vi måste alla förstå att ett av de allvarligaste hoten mot en
-          fungerande rättsstat är om medborgarnas tilltro till statens möjligheter
-          att garantera trygghet och säkerhet försvinner. Tyvärr verkar
-          det som att regeringen har glömt bort ord som personkännedom,
-          närhet, tillgänglighet, lokalkännedom och trygghet.
-        </p>
-        <p xml:id="i-M2Z2BtRmLSUe5mvgNuG644">
-          1. Vilka fördelar ser justitieministern med regeringens valda
-          strategi att centralisera stora delar av rättsväsendet?
-        </p>
-        <p xml:id="i-XQN2UEhwXt2R82U31PfpGG">
-          2. Har justitieministern genomfört någon helhetsanalys av den
-          centralisering av rättsväsendet som pågår?
-        </p>
-        <p xml:id="i-WohHfysQWCZ5xeUbz44d8">
-          3. Vad avser justitieministern att vidtaga för åtgärder för att
-          mildra den oro som många människor känner när de rättsvårdande
-          myndigheterna försvinner allt längre bort?
-        </p>
-        <p xml:id="i-Q8UVKHPPbw8Q5Wh1Yr29ur">
-          4. Vilken strategi har justitieministern för att bekämpa narkotikainförseln
-          om Östersjökusten från Karlshamn till Stockholm blir helt utan
-          tullpersonal?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-L4FquEDcmNCHc6vBQKqFzQ">
+            Det pågår en centralisering av det svenska rättsväsendet av sällan
+            skådat slag. Polisstationer läggs ned, tingsrätter avvecklas och
+            hälften av landets alla tingsrätter står på tur enligt Domstolsverket,
+            polisens kommunikationscentraler har centraliserats med längre
+            väntetider som följd, polisdistrikt vill slå sig samman till större
+            myndigheter, åklagarväsendet planerar centralisering och tullen
+            har långtgående planer på att göra detsamma.
+          </p>
+          <p xml:id="i-AgExFbpSAzJ5r3SBjdPhyM">
+            Det kan säkert finnas anledningar till att se över polisens,
+            domstolsväsendets med flera organisation. Men var finns analysen
+            som säger att centralisering av all verksamhet innebär förbättringar?
+            Vad innebär det för en ort att polisstationen försvinner? Hur
+            påverkas människors upplevda trygghet? Vad innebär det för näringslivet
+            och risken för rån och annan brottslighet? Hur påverkas en ort
+            när tingsrätten läggs ned, innebär det att möjlighet att få hjälp
+            med juridisk kompetens på orten också försvinner? Hur har tillgängligheten
+            påverkats av centraliseringen av kommunikationscentralerna?
+          </p>
+          <p xml:id="i-Jez39xfS9g5CEY5p21iqhi">
+            Det finns väldigt många frågor som behöver ställas med anledning
+            av regeringens snabba centralisering av stora delar av rättsväsendet.
+            Grundsynen att centralisering alltid är bra sitter djupt i den
+            socialdemokratiska politiken. Inser man inte problembilden så
+            är det definitivt svårt att lösa problemet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-4Eof3wVRbSakMhgHF5eM2z">
+            Vi måste alla förstå att ett av de allvarligaste hoten mot en
+            fungerande rättsstat är om medborgarnas tilltro till statens möjligheter
+            att garantera trygghet och säkerhet försvinner. Tyvärr verkar
+            det som att regeringen har glömt bort ord som personkännedom,
+            närhet, tillgänglighet, lokalkännedom och trygghet.
+            <list rend="unordered">
+              <item>
+                1. Vilka fördelar ser justitieministern med regeringens valda
+                strategi att centralisera stora delar av rättsväsendet?
+              </item>
+              <item>
+                2. Har justitieministern genomfört någon helhetsanalys av den
+                centralisering av rättsväsendet som pågår?
+              </item>
+              <item>
+                3. Vad avser justitieministern att vidtaga för åtgärder för att
+                mildra den oro som många människor känner när de rättsvårdande
+                myndigheterna försvinner allt längre bort?
+              </item>
+              <item>
+                4. Vilken strategi har justitieministern för att bekämpa narkotikainförseln
+                om Östersjökusten från Karlshamn till Stockholm blir helt utan
+                tullpersonal?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,90 +3,134 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>samhällets övervakning och medborgarnas integritet</title>
+        <author>Hamilton, Björn (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>samhällets övervakning och medborgarnas integritet till justitieminister Thomas Bodström om samhällets övervakning och medborgarnas integritet</title>
+          <idno type="rdwebb">GS10255</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10255/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10255</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10255</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AqZkPRg6HbbZ9nDzibdbp5</idno>
+            <persName>Björn Hamilton</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-ECMc3XytuxAm4fY7QGcQ1B" corresp="i-AqZkPRg6HbbZ9nDzibdbp5">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PrTd4UiNBFasvRFpCvCCAA">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9eLNKeYpvXEwRAnmnb3FxX">
+          <date when="2005-01-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YUpEQxkXJNQ5KK1tFFWNgi" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2004-12-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ASMFEcMBvHdKL9N7a6Fu6e" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-01-21"/>
+        </correspAction>
+        <correspContext corresp="i-ASMFEcMBvHdKL9N7a6Fu6e">
+          <ref type="record" target="prot-200405--062">Riksdagens protokoll 2004/05:62 Fredagen den 21 januari</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:255 om samhällets övervakning och medborgarnas integritet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0255</head>
-        <author who="i-AqZkPRg6HbbZ9nDzibdbp5">Björn Hamilton</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>samhällets övervakning och medborgarnas integritet</topic>
-        <docDate when="2004-12-13">den 13 december</docDate>
-        <status when="unknown" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10255</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:255 av Björn Hamilton (m) till justitieminister
-          Thomas Bodström om samhällets övervakning och medborgarnas integritet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-874WCnepv9ZS39Auk4tS1n">
+            Interpellation 2004/05:255 av Björn Hamilton (m) till justitieminister
+            Thomas Bodström om samhällets övervakning och medborgarnas integritet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4tzXX2K1WNG5Gb7fUgfMGs">
+            den 13 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Ev5YoKmtTe7wKpAVZdBgGk">
-          Nu senast föreslog justitieministern EU- nämnden att godkänna
-          ett förslag om lagring av bland annat teleuppgifter. Detta skulle
-          innebära att det blir obligatoriskt inom hela EU att lagra information
-          kring telefonsamtal, mail, sms, Internetsidor och geografiska
-          rörelsemönster via mobil. Sverige är ett av de fyra länder som
-          ligger bakom förslaget. Det handlar om mycket känslig information
-          om EU-befolkningen som i så fall lagras. Registrering av Internetbesök
-          och lagring av mobiltrafik är ett kraftigt intrång i den privata
-          sfären. Det är fullt jämförbart med telefonavlyssning och brevöppning.
-          Det skapas möjligheter att kartlägga människors aktiviteter på
-          elektronisk väg.
-        </p>
-        <p xml:id="i-5r4SSAo7efFazjw9HDQXrG">
-          Det finns de som vill gå ännu längre genom obligatorisk registrering
-          av samtliga invånares DNA. Staten får då information om din troliga
-          livslängd, vad du kommer att drabbas av för sjukdomar och så vidare.
-          Är DNA-registrering nästa steg?
-        </p>
-        <p xml:id="i-UFX4i5bSppLXLJqgLokcep">
-          Övervakningskameror är något som redan funnits i årtionden, men
-          på senare år ökat i antal. Det gäller både i Sverige och internationellt.
-          Man övervakar bilister och kollektivresenärer, museibesökare och
-          taxiåkare. Bara i Stockholms innerstad finns ca 3 000 kameror.
-          Forskare i Storbritannien har konstaterat att missbruk är vanligt
-          bland operatörer av övervakningskameror. Enligt reglerna får man
-          bara använda filmmaterialet vid brott. Vissa operatörer har enligt
-          forskarna ägnat sig åt att bland annat närgånget studera kvinnor.
-          Internationellt har ett antal kameraoperatörer sagts upp från
-          sitt arbete på grund av avslöjat missbruk. Naturligtvis väcks
-          frågor som vad händer med bilderna eller filmsekvenserna? Kan
-          man lita på att filmerna inte hamnar i orätta händer? Det finns
-          oftast starka skäl i det enskilda fallet att införa olika former
-          av övervakning eller registrering med modern teknik. Det blir
-          billigare att ersätta poliser med kameror. Man kan jaga brottslingar
-          effektivare. Men kameror kan inte göra rationella bedömningar
-          som en polisman kan. Och var går gränsen för samhällets och statens
-          inblandning i den privata sfären? Och vad hade hänt om tekniken
-          funnits i 30-talets Tyskland eller Sovjet?
-        </p>
-        <p xml:id="i-51H5fbaBuCo2TaTJyqBMFo">
-          Mot bakgrund av ovanstående vill jag fråga vilka åtgärder statsrådet
-          tänker vidta för att garantera såväl den enskildes säkerhet som
-          integritet.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BovSCi5BtUJVQWiUtKyYzd">
+            Nu senast föreslog justitieministern EU- nämnden att godkänna
+            ett förslag om lagring av bland annat teleuppgifter. Detta skulle
+            innebära att det blir obligatoriskt inom hela EU att lagra information
+            kring telefonsamtal, mail, sms, Internetsidor och geografiska
+            rörelsemönster via mobil. Sverige är ett av de fyra länder som
+            ligger bakom förslaget. Det handlar om mycket känslig information
+            om EU-befolkningen som i så fall lagras. Registrering av Internetbesök
+            och lagring av mobiltrafik är ett kraftigt intrång i den privata
+            sfären. Det är fullt jämförbart med telefonavlyssning och brevöppning.
+            Det skapas möjligheter att kartlägga människors aktiviteter på
+            elektronisk väg.
+          </p>
+          <p xml:id="i-DR94x9b2HgGG6BewNu2Te5">
+            Det finns de som vill gå ännu längre genom obligatorisk registrering
+            av samtliga invånares DNA. Staten får då information om din troliga
+            livslängd, vad du kommer att drabbas av för sjukdomar och så vidare.
+            Är DNA-registrering nästa steg?
+          </p>
+          <p xml:id="i-4WkoiEYGKnNjZ8M7N618aA">
+            Övervakningskameror är något som redan funnits i årtionden, men
+            på senare år ökat i antal. Det gäller både i Sverige och internationellt.
+            Man övervakar bilister och kollektivresenärer, museibesökare och
+            taxiåkare. Bara i Stockholms innerstad finns ca 3 000 kameror.
+            Forskare i Storbritannien har konstaterat att missbruk är vanligt
+            bland operatörer av övervakningskameror. Enligt reglerna får man
+            bara använda filmmaterialet vid brott. Vissa operatörer har enligt
+            forskarna ägnat sig åt att bland annat närgånget studera kvinnor.
+            Internationellt har ett antal kameraoperatörer sagts upp från
+            sitt arbete på grund av avslöjat missbruk. Naturligtvis väcks
+            frågor som vad händer med bilderna eller filmsekvenserna? Kan
+            man lita på att filmerna inte hamnar i orätta händer? Det finns
+            oftast starka skäl i det enskilda fallet att införa olika former
+            av övervakning eller registrering med modern teknik. Det blir
+            billigare att ersätta poliser med kameror. Man kan jaga brottslingar
+            effektivare. Men kameror kan inte göra rationella bedömningar
+            som en polisman kan. Och var går gränsen för samhällets och statens
+            inblandning i den privata sfären? Och vad hade hänt om tekniken
+            funnits i 30-talets Tyskland eller Sovjet?
+          </p>
+          <p xml:id="i-Vb8SJ3vEqksVKZxXEGPjcS">
+            Mot bakgrund av ovanstående vill jag fråga vilka åtgärder statsrådet
+            tänker vidta för att garantera såväl den enskildes säkerhet som
+            integritet.
+          </p>
+        </div>
       </div>
     </body>
   </text>

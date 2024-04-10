@@ -3,105 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fastighetsskatten</title>
+        <author>Hagfeldt, Stefan (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>fastighetsskatten till finansminister Pär Nuder om fastighetsskatten</title>
+          <idno type="rdwebb">GS10616</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10616/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10616</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10616</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-RCNVVc6jFAU8YPdr6sW8jH</idno>
+            <persName>Stefan Hagfeldt</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-6NWrnaDAv7zCwZKvBWNs9X" corresp="i-RCNVVc6jFAU8YPdr6sW8jH">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-yjcGx5hxumzhzGnsegNUk">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-A3hFE3aswJoazQtf3EhBb8">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GtyYpFYpybbKc3GVftDsTU" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-L9bjUtkRLXSLgkXEE5Mizj" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspContext corresp="i-L9bjUtkRLXSLgkXEE5Mizj">
+          <ref type="record" target="prot-200405--135">Riksdagens protokoll 2004/05:135 Onsdagen den 8 juni</ref>
+          <ref type="recordSection" target="unsetDivId">24 § Svar på interpellationerna 2004/05:616 och 632 om fastighetsskatten samt 664 om kapitalavkastningen av bostäder</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0616</head>
-        <author who="i-RCNVVc6jFAU8YPdr6sW8jH">Stefan Hagfeldt</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>fastighetsskatten</topic>
-        <docDate when="2005-05-19">den 19 maj</docDate>
-        <status when="2005-06-08" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10616</external_id>
-        <debate>
-          <turn when="2005-06-08 16:13:15" duration="90">Pär Nuder (S)</turn>
-          <turn when="2005-06-08 16:14:40" duration="262">Stefan Hagfeldt (M)</turn>
-          <turn when="2005-06-08 16:18:57" duration="207">Inger René (M)</turn>
-          <turn when="2005-06-08 16:22:21" duration="264">Gunnar Andrén (Fp)</turn>
-          <turn when="2005-06-08 16:26:41" duration="214">Rosita Runegrund (Kd)</turn>
-          <turn when="2005-06-08 16:30:12" duration="236">Pär Nuder (S)</turn>
-          <turn when="2005-06-08 16:34:04" duration="261">Stefan Hagfeldt (M)</turn>
-          <turn when="2005-06-08 16:38:20" duration="242">Inger René (M)</turn>
-          <turn when="2005-06-08 16:42:19" duration="256">Gunnar Andrén (Fp)</turn>
-          <turn when="2005-06-08 16:46:31" duration="129">Rosita Runegrund (Kd)</turn>
-          <turn when="2005-06-08 16:48:34" duration="240">Pär Nuder (S)</turn>
-          <turn when="2005-06-08 16:52:31" duration="131">Stefan Hagfeldt (M)</turn>
-          <turn when="2005-06-08 16:54:39" duration="116">Inger René (M)</turn>
-          <turn when="2005-06-08 16:56:31" duration="140">Gunnar Andrén (Fp)</turn>
-          <turn when="2005-06-08 16:58:48" duration="180">Pär Nuder (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:616 av Stefan Hagfeldt (m) till finansminister
-          Pär Nuder om fastighetsskatten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-VhurBzoKFE27UftehNL8X8">
+            Interpellation 2004/05:616 av Stefan Hagfeldt (m) till finansminister
+            Pär Nuder om fastighetsskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LStsdsGJYQ2YuzGVwNZQ5o">
+            den 19 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-VfSQKqTfArbpBoKrcgp6y1">
-          För några veckor sedan kom det braskande rubriker om att fastighetsskatten
-          chockhöjs. I min hemkommun Norrköping ökar enligt uppgift taxeringsvärdet
-          på ett småhus med i genomsnitt 170 000 kr nästa år. En höjning
-          med 26 %. En beräkning från Villaägarnas Riksförbund visar att
-          skatten för den genomsnittliga småhusägaren ökar med över 7 000
-          kr om året i 24 av Sveriges kommuner. Nu handlar det inte längre
-          om kommunerna runt Stockholm, säger Elisabet Österman. Den största
-          skattehöjningen får man i Skåne. I Tomelilla höjs till exempel
-          taxeringsvärdet med 57 %. Enligt Villaägarnas Riksförbund har
-          taxeringsvärdet på småhus i många fall höjts med över 100 % under
-          de senaste åren. Det är inte märkligt att många människor känner
-          sig helt förtvivlade.
-        </p>
-        <p xml:id="i-5MbtjcLCyyJosPsHTEMcTP">
-          Jag har mottagit ett brev med rubriken "Varför skall vi tvingas
-          flytta när grannarna säljer?" Jag citerar ur brevet: "Vi fastighetsägare
-          känner en stor sorg och tomhet. Liksom en stor uppgivenhet och
-          vanmakt över reglerna för att kräva in beskattning för något som
-          inte ger intäkter. Åtminstone inte så länge man använder sitt
-          hus för att bo i. Det är mycket vi inte förstår. Vi förstår inte
-          varför vi skall drabbas av ökad skatt bara för att några av våra
-          grannar sålt. Vi får inte mer pengar att betala skatt med för
-          det. Vi förstår inte varför vi skall tvingas att leva under ständig
-          otrygghet och rädsla för att inte kunna bo kvar i våra hem. Vi
-          förstår inte varför flera av oss skall behöva bli uppryckta med
-          sina rötter, att våra barn skall tvingas byta skola och kamrater
-          och att vi själva kan tvingas söka ny arbetsplats. Hur länge ska
-          vi tvingas acceptera en skatt vars storlek är helt omöjlig att
-          förutse?"
-        </p>
-        <p xml:id="i-7fuDUKh2AmY5mEm3vKdViA">
-          Mot bakgrund av ovanstående ställer jag följande frågor till
-          finansministern.
-        </p>
-        <p xml:id="i-5zuApdwPxiE4vNebAeE63R">
-          1. Vad avser finansministern att göra för att förhindra att familjer
-          tvingas flytta när grannarna säljer?
-        </p>
-        <p xml:id="i-T8B9xiYvH99tiZWcEtX9pG">
-          2. Är finansministern beredd att fasa ut fastighetsskatten så
-          att tryggheten för de boende återställs?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-7wp98UvJLai9pTVQoWUQso">
+            För några veckor sedan kom det braskande rubriker om att fastighetsskatten
+            chockhöjs. I min hemkommun Norrköping ökar enligt uppgift taxeringsvärdet
+            på ett småhus med i genomsnitt 170 000 kr nästa år. En höjning
+            med 26 %. En beräkning från Villaägarnas Riksförbund visar att
+            skatten för den genomsnittliga småhusägaren ökar med över 7 000
+            kr om året i 24 av Sveriges kommuner. Nu handlar det inte längre
+            om kommunerna runt Stockholm, säger Elisabet Österman. Den största
+            skattehöjningen får man i Skåne. I Tomelilla höjs till exempel
+            taxeringsvärdet med 57 %. Enligt Villaägarnas Riksförbund har
+            taxeringsvärdet på småhus i många fall höjts med över 100 % under
+            de senaste åren. Det är inte märkligt att många människor känner
+            sig helt förtvivlade.
+          </p>
+          <p xml:id="i-WccgpyEy9vP8fDmoYgvFty">
+            Jag har mottagit ett brev med rubriken "Varför skall vi tvingas
+            flytta när grannarna säljer?" Jag citerar ur brevet: "Vi fastighetsägare
+            känner en stor sorg och tomhet. Liksom en stor uppgivenhet och
+            vanmakt över reglerna för att kräva in beskattning för något som
+            inte ger intäkter. Åtminstone inte så länge man använder sitt
+            hus för att bo i. Det är mycket vi inte förstår. Vi förstår inte
+            varför vi skall drabbas av ökad skatt bara för att några av våra
+            grannar sålt. Vi får inte mer pengar att betala skatt med för
+            det. Vi förstår inte varför vi skall tvingas att leva under ständig
+            otrygghet och rädsla för att inte kunna bo kvar i våra hem. Vi
+            förstår inte varför flera av oss skall behöva bli uppryckta med
+            sina rötter, att våra barn skall tvingas byta skola och kamrater
+            och att vi själva kan tvingas söka ny arbetsplats. Hur länge ska
+            vi tvingas acceptera en skatt vars storlek är helt omöjlig att
+            förutse?"
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-FM4rB8azmtuHnCfHiDg5HK">
+            Mot bakgrund av ovanstående ställer jag följande frågor till
+            finansministern.
+            <list rend="unordered">
+              <item>
+                1. Vad avser finansministern att göra för att förhindra att familjer
+                tvingas flytta när grannarna säljer?
+              </item>
+              <item>
+                2. Är finansministern beredd att fasa ut fastighetsskatten så
+                att tryggheten för de boende återställs?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

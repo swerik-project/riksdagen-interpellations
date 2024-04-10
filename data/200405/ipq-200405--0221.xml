@@ -3,85 +3,129 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>intyg om sjukhistorik</title>
+        <author>Brus, Sven (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>intyg om sjukhistorik till statsrådet Hans Karlsson om intyg om sjukhistorik</title>
+          <idno type="rdwebb">GS10221</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10221/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10221</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10221</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-839FvTzHpvrdX4J7ckfWSt</idno>
+            <persName>Sven Brus</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AL9ifnBYmpx7DXug2EyFim" corresp="i-839FvTzHpvrdX4J7ckfWSt">
+          <date when="2004-11-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YBAsCXLLrc2wUCu1mopz11">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XKrSZEmTYCzB1kmivYQXRS">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-J2BQiUJpQ2Nkht1S9T91Mi" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FFgM78AWSr3wETDPzxjiyQ" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspContext corresp="i-FFgM78AWSr3wETDPzxjiyQ">
+          <ref type="record" target="prot-200405--059">Riksdagens protokoll 2004/05:59 Tisdagen den 18 januari</ref>
+          <ref type="recordSection" target="unsetDivId">15 § Svar på interpellation 2004/05:221 om intyg om sjukhistorik</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0221</head>
-        <author who="i-839FvTzHpvrdX4J7ckfWSt">Sven Brus</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>intyg om sjukhistorik</topic>
-        <docDate when="2004-11-29">den 29 november</docDate>
-        <status when="unknown" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10221</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:221 av Sven Brus (kd) till statsrådet
-          Hans Karlsson om intyg om sjukhistorik
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Y45xruZ7fHpuyCb2rbTMTK">
+            Interpellation 2004/05:221 av Sven Brus (kd) till statsrådet
+            Hans Karlsson om intyg om sjukhistorik
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-3ah73PahUP4RDKQYZp4sP3">
+            den 29 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Cp4U1LKRY4RqwboLqUnHHm">
-          Det blir allt vanligare att arbetsgivare vill se intyg om sjukdagar
-          inför en eventuell nyanställning. Enligt Riksförsäkringsverket
-          uppger hälften av försäkringskassornas kundtjänster att antalet
-          personer som begär registeruttag av sjukhistorik ökat. De som
-          ringer säger, enligt uppgift, ofta att de ska på anställningsintervju
-          och uppmanats av arbetsgivaren att ta med detta intyg. Antalet
-          registeruttag har ökat avsevärt mellan 2002 och 2003. År 2002
-          gjordes 18 500 beställningar och år 2003 steg det till 25 500.
-          Enhetschefen på RFV har till tidningen RFV.se sagt att hon inte
-          förvånas över uppgifterna och att hon tror att det kommer att
-          bli ännu vanligare med registeruttag när arbetsgivaren ska vara
-          med att finansiera sjukförsäkringen med 15 %. I dag finns det
-          inte någon tydlig lagstiftning eller etiska riktlinjer för vad
-          arbetsgivare kan kräva eller inte. Den rättsliga regleringen när
-          det gäller personlig integritet i arbetslivet är eftersatt.
-        </p>
-        <p xml:id="i-Uki7SeTtMUE8EKdxPuoT5A">
-          Ökningen av antalet registeruttag om sjukhistorik skedde i samband
-          med att den socialdemokratiska regeringen införde en tredje sjuklönevecka
-          år 2003. Föga förvånande kritiserades förslaget om den tredje
-          sjuklöneveckan bland annat med utgångspunkt från att just de svagaste
-          grupperna på arbetsmarknaden skulle få det ännu svårare. Många
-          varnade för att funktionshindrade, kroniskt sjuka och långtidssjukskrivna
-          skulle riskera att sorteras bort från arbetsmarknaden. Arbetstagare
-          skulle, utifrån sin sjukhistorik, delas upp i ett A- och ett B-lag.
-          Samma kritik har riktats mot den socialdemokratiska regeringens
-          nya förslag om arbetsgivarnas medfinansering av sjukförsäkringen.
-        </p>
-        <p xml:id="i-5cbJ1FmNrUwpbi7kg2GEkF">
-          Jag vill fråga statsrådet hur denne bedömer risken för att de
-          människor som redan är svagast på arbetsmarknaden får det ännu
-          svårare på grund av regeringens nya förslag om arbetsgivarnas
-          medfinansiering av sjukförsäkringen.
-        </p>
-        <p xml:id="i-HkMzKqrcpUdhJavymJu1ES">
-          På vilket sätt skyddas, enligt statsrådets uppfattning, de svagaste
-          på arbetsmarknaden med det nya förslaget om arbetsgivarnas medfinansiering
-          av sjukförsäkringen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-KP5WnygkoHH21BCW8KXQqr">
+            Det blir allt vanligare att arbetsgivare vill se intyg om sjukdagar
+            inför en eventuell nyanställning. Enligt Riksförsäkringsverket
+            uppger hälften av försäkringskassornas kundtjänster att antalet
+            personer som begär registeruttag av sjukhistorik ökat. De som
+            ringer säger, enligt uppgift, ofta att de ska på anställningsintervju
+            och uppmanats av arbetsgivaren att ta med detta intyg. Antalet
+            registeruttag har ökat avsevärt mellan 2002 och 2003. År 2002
+            gjordes 18 500 beställningar och år 2003 steg det till 25 500.
+            Enhetschefen på RFV har till tidningen RFV.se sagt att hon inte
+            förvånas över uppgifterna och att hon tror att det kommer att
+            bli ännu vanligare med registeruttag när arbetsgivaren ska vara
+            med att finansiera sjukförsäkringen med 15 %. I dag finns det
+            inte någon tydlig lagstiftning eller etiska riktlinjer för vad
+            arbetsgivare kan kräva eller inte. Den rättsliga regleringen när
+            det gäller personlig integritet i arbetslivet är eftersatt.
+          </p>
+          <p xml:id="i-XavT12WBg1zjNY4tQ8Ehsd">
+            Ökningen av antalet registeruttag om sjukhistorik skedde i samband
+            med att den socialdemokratiska regeringen införde en tredje sjuklönevecka
+            år 2003. Föga förvånande kritiserades förslaget om den tredje
+            sjuklöneveckan bland annat med utgångspunkt från att just de svagaste
+            grupperna på arbetsmarknaden skulle få det ännu svårare. Många
+            varnade för att funktionshindrade, kroniskt sjuka och långtidssjukskrivna
+            skulle riskera att sorteras bort från arbetsmarknaden. Arbetstagare
+            skulle, utifrån sin sjukhistorik, delas upp i ett A- och ett B-lag.
+            Samma kritik har riktats mot den socialdemokratiska regeringens
+            nya förslag om arbetsgivarnas medfinansering av sjukförsäkringen.
+          </p>
+          <p xml:id="i-MY4z47HV3ShASw59wDwowB">
+            Jag vill fråga statsrådet hur denne bedömer risken för att de
+            människor som redan är svagast på arbetsmarknaden får det ännu
+            svårare på grund av regeringens nya förslag om arbetsgivarnas
+            medfinansiering av sjukförsäkringen.
+          </p>
+          <p xml:id="i-HFDa7bZ7j3zF9cQ6Zai4Nm">
+            På vilket sätt skyddas, enligt statsrådets uppfattning, de svagaste
+            på arbetsmarknaden med det nya förslaget om arbetsgivarnas medfinansiering
+            av sjukförsäkringen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,88 +3,119 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Internetbedrägerier</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Internetbedrägerier till justitieminister Thomas Bodström om Internetbedrägerier</title>
+          <idno type="rdwebb">GQ10210</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10210/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10210</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10210</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Yvonne Andersson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-N5xTEToDJspTSZwgibHo9X" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2003-02-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-T7zbCvjEST9gJVjqZ8ktkt">
+          <date when="2003-03-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Na4J1catAc6DauNsfAwkGt">
+          <date when="2003-04-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-ArmMjpShAHP84Lr5hxhx3w" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-03-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RcwQ2sSYTdDe4ws4frW7xi" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-04-04"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0210</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Yvonne Andersson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>Internetbedrägerier</topic>
-        <docDate when="2003-02-27">den 27 februari</docDate>
-        <status when="2003-04-04" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10210</external_id>
-        <debate>
-          <turn when="2003-04-04 09:24:29" duration="172">Thomas Bodström (S)</turn>
-          <turn when="2003-04-04 09:27:18" duration="256">Yvonne Andersson (Kd)</turn>
-          <turn when="2003-04-04 09:31:30" duration="131">Thomas Bodström (S)</turn>
-          <turn when="2003-04-04 09:33:37" duration="266">Yvonne Andersson (Kd)</turn>
-          <turn when="2003-04-04 09:38:00" duration="120">Thomas Bodström (S)</turn>
-          <turn when="2003-04-04 09:39:57" duration="142">Yvonne Andersson (Kd)</turn>
-          <turn when="2003-04-04 09:42:15" duration="95">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:210 av Yvonne Andersson (kd) till justitieminister
-          Thomas Bodström om Internetbedrägerier
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-HpTUZjggJLVexqpCgoStJx">
+            Interpellation 2002/03:210 av Yvonne Andersson (kd) till justitieminister
+            Thomas Bodström om Internetbedrägerier
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GxvFAQGfSPLu3EnCWn4DQ7">
+            den 27 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-LQEwx4Nf8gyQm7u14AZGwK">
-          Jag har tidigare interpellerat angående frågan om det var rimligt
-          att Telia fungerar som ett inkassoföretag till oseriösa näringsidkare.
-          Interpellationen tog upp de bedrägerier i samband med att man
-          använder modem och telefonuppkoppling till Internet där det förekommer
-          att konsumenten ovetandes klickar sig in på sajter som senare
-          visar sig vara betaltjänster. Detta uppdagas när Telia skickar
-          ut fakturan.
-        </p>
-        <p xml:id="i-PpNmGd55X1Ln9sATsNeYcB">
-          Jag debatterade med ministern den 31 januari. Tyvärr blev svaret
-          i den debatten att ministern inte avsåg att lagstifta för att
-          skydda de enskilda konsumenterna genom att sätta en spärr för
-          alltför höga telefonräkningar.
-        </p>
-        <p xml:id="i-XpSUmhukRsoWHJtGsLWYD4">
-          Sedan min förra interpellation skrevs och debatterades har ytterligare
-          ett problem uppdagats. Det handlar om företag som skickar ut fakturor
-          för påstådda besök på sexsidor. Bedragarna lever här på skamgreppet.
-          Många betalar fakturorna inför det fiktiva hotet att inför domstol
-          få bestrida en faktura som kommit till på grund av ett besök på
-          en sexsida. Om kunden inte betalar hotar man med en ny faktura
-          på 1 500 kr plus kostnader och så småningom med indrivning genom
-          kronofogdemyndigheten.
-        </p>
-        <p xml:id="i-BRds2hxMdd2BcQa93oAW8P">
-          Det är orimligt att samhället inte tar sitt ansvar och reagerar
-          trots att hundratals polisanmälningar finns och trots att adresser
-          till dessa näringsidkare finns.
-        </p>
-        <p xml:id="i-HNoqZFCWYH3fCV1j6maG69">
-          Vilka åtgärder avser ministern att vidta för att stoppa dessa
-          bedragares framfart?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-YbaPCp9cg2rPqgGyGe86Qz">
+            Jag har tidigare interpellerat angående frågan om det var rimligt
+            att Telia fungerar som ett inkassoföretag till oseriösa näringsidkare.
+            Interpellationen tog upp de bedrägerier i samband med att man
+            använder modem och telefonuppkoppling till Internet där det förekommer
+            att konsumenten ovetandes klickar sig in på sajter som senare
+            visar sig vara betaltjänster. Detta uppdagas när Telia skickar
+            ut fakturan.
+          </p>
+          <p xml:id="i-AUsqfNBHBF6mCiPA4Ts2ZJ">
+            Jag debatterade med ministern den 31 januari. Tyvärr blev svaret
+            i den debatten att ministern inte avsåg att lagstifta för att
+            skydda de enskilda konsumenterna genom att sätta en spärr för
+            alltför höga telefonräkningar.
+          </p>
+          <p xml:id="i-3Nrzj4DHT2md5wBVdXX6CF">
+            Sedan min förra interpellation skrevs och debatterades har ytterligare
+            ett problem uppdagats. Det handlar om företag som skickar ut fakturor
+            för påstådda besök på sexsidor. Bedragarna lever här på skamgreppet.
+            Många betalar fakturorna inför det fiktiva hotet att inför domstol
+            få bestrida en faktura som kommit till på grund av ett besök på
+            en sexsida. Om kunden inte betalar hotar man med en ny faktura
+            på 1 500 kr plus kostnader och så småningom med indrivning genom
+            kronofogdemyndigheten.
+          </p>
+          <p xml:id="i-8YHxcSH1j4T3VBycqBKqu5">
+            Det är orimligt att samhället inte tar sitt ansvar och reagerar
+            trots att hundratals polisanmälningar finns och trots att adresser
+            till dessa näringsidkare finns.
+          </p>
+          <p xml:id="i-KKHwpoP41MQPhqoHKWjcFE">
+            Vilka åtgärder avser ministern att vidta för att stoppa dessa
+            bedragares framfart?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,81 +3,125 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>blyhagel vid sportskytte</title>
+        <author>Rådhström, Jan-Evert (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>blyhagel vid sportskytte till statsrådet Lena Sommestad om blyhagel vid sportskytte</title>
+          <idno type="rdwebb">GS10413</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10413/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10413</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10413</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-9beYBFzEh8w1EjPQHXW3mC</idno>
+            <persName>Jan-Evert Rådhström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-VVfJVkmuNZtg74tb7MEany" corresp="i-9beYBFzEh8w1EjPQHXW3mC">
+          <date when="2005-02-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GhiPyFn24njSU6KnEynupX">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WJ1G6PqszNQwx3vEqCjxFd">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TXULmWUU45jNWoEfi3piGj" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FSaN7zUuJx8J5otTC9Nbqx" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspContext corresp="i-FSaN7zUuJx8J5otTC9Nbqx">
+          <ref type="record" target="prot-200405--090">Riksdagens protokoll 2004/05:90 Tisdagen den 15 mars</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:413 om blyhagel vid sportskytte</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0413</head>
-        <author who="i-9beYBFzEh8w1EjPQHXW3mC">Jan-Evert Rådhström</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>blyhagel vid sportskytte</topic>
-        <docDate when="2005-02-23">den 23 februari</docDate>
-        <status when="unknown" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10413</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:413 av Jan-Evert Rådhström (m) till statsrådet
-          Lena Sommestad om blyhagel vid sportskytte
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-ENnRHFtyEWU3LzpPrQL6Ei">
+            Interpellation 2004/05:413 av Jan-Evert Rådhström (m) till statsrådet
+            Lena Sommestad om blyhagel vid sportskytte
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6z8oFYR5bXkXahLWBprkHi">
+            den 23 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2LDQEJv3rAx8JhPotxV8QC">
-          Sverige är en framgångsrik nation i skytte, men det kommer tyvärr
-          med stor sannolikhet vara svårt att behålla denna position i framtiden.
-          Från den 1 januari 2005 är det förbjudet att använda blyhagel
-          vid sportskytte. Sveriges skyttar kan nationellt tävla med stålhagel,
-          men kommer inte att ha samma förutsättningar vid internationella
-          tävlingar.
-        </p>
-        <p xml:id="i-Fg6GJtAqETiChUkmUbGYbh">
-          I dag tvingas svenska skyttar använda stålhagel för träning i
-          Sverige medan andra nationaliteter använder blyhagel. För vissa
-          skyttar kan stålhagel vara ett fullgott alternativ. Detta beroende
-          på vilken skyttegren som är aktuell. För andra är det svårare
-          att hävda sig internationellt beroende på att denna gren kräver
-          användande av blyhagel. Ett ytterligare stort problem uppstår
-          när Sportskytteförbundet ska arrangera landskamper och Sweden
-          GP med övriga länder i de olympiska grenarna trap, dubbeltrap
-          och skeet. Utländska gäster tävlar och tränar med blyhagel, men
-          i och med den nya svenska lagstiftningen kommer många internationella
-          skyttar sannolikt att avstå från att tävla i Sverige.
-        </p>
-        <p xml:id="i-4MCkg5zK7aSZ2dk8aqwkn3">
-          Sveriges regelsystem förbjuder i dag våra utländska gäster att
-          deltaga i svenska tävlingar om de inte skjuter med stålhagel.
-          Även många svenska skyttar är diskriminerade om de satsar på en
-          internationell karriär och vill försöka erövra guldmedaljer i
-          stora tävlingar såsom OS och VM.
-        </p>
-        <p xml:id="i-ARuAVydmPUAXiX9pe3FPUL">
-          Mot denna bakgrund vill jag ställa följande fråga till statsrådet:
-        </p>
-        <p xml:id="i-V1WGqGqpy5ho2Ws4ra4j9X">
-          Avser statsrådet att omgående arbeta för att dispenser för detta
-          skytte införs i syfte att rädda internationellt skytte i Sverige
-          och möjligheten för framtida framgångar i de olympiska lerduvegrenarna?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5JL1JzdbSDiAjsQok5fVaC">
+            Sverige är en framgångsrik nation i skytte, men det kommer tyvärr
+            med stor sannolikhet vara svårt att behålla denna position i framtiden.
+            Från den 1 januari 2005 är det förbjudet att använda blyhagel
+            vid sportskytte. Sveriges skyttar kan nationellt tävla med stålhagel,
+            men kommer inte att ha samma förutsättningar vid internationella
+            tävlingar.
+          </p>
+          <p xml:id="i-B9nmJphbZJwBWtCnXE5wtG">
+            I dag tvingas svenska skyttar använda stålhagel för träning i
+            Sverige medan andra nationaliteter använder blyhagel. För vissa
+            skyttar kan stålhagel vara ett fullgott alternativ. Detta beroende
+            på vilken skyttegren som är aktuell. För andra är det svårare
+            att hävda sig internationellt beroende på att denna gren kräver
+            användande av blyhagel. Ett ytterligare stort problem uppstår
+            när Sportskytteförbundet ska arrangera landskamper och Sweden
+            GP med övriga länder i de olympiska grenarna trap, dubbeltrap
+            och skeet. Utländska gäster tävlar och tränar med blyhagel, men
+            i och med den nya svenska lagstiftningen kommer många internationella
+            skyttar sannolikt att avstå från att tävla i Sverige.
+          </p>
+          <p xml:id="i-VtB1mGGS3RZroNhgbaiWag">
+            Sveriges regelsystem förbjuder i dag våra utländska gäster att
+            deltaga i svenska tävlingar om de inte skjuter med stålhagel.
+            Även många svenska skyttar är diskriminerade om de satsar på en
+            internationell karriär och vill försöka erövra guldmedaljer i
+            stora tävlingar såsom OS och VM.
+          </p>
+          <p xml:id="i-LVhkw2Wpya6C2jG4Ji5nDw">
+            Mot denna bakgrund vill jag ställa följande fråga till statsrådet:
+          </p>
+          <p xml:id="i-T7eNg8hRKDF6tvpj15gCRh">
+            Avser statsrådet att omgående arbeta för att dispenser för detta
+            skytte införs i syfte att rädda internationellt skytte i Sverige
+            och möjligheten för framtida framgångar i de olympiska lerduvegrenarna?
+          </p>
+        </div>
       </div>
     </body>
   </text>

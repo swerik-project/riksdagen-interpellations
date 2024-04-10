@@ -3,118 +3,149 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>rättspsykiatrin</title>
+        <author>Marcelind, Ragnwi (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>rättspsykiatrin till justitieminister Thomas Bodström om rättspsykiatrin</title>
+          <idno type="rdwebb">GR1010</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1010/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1010</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1010</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Ha5uZXGHudhTidCuW8UjXN</idno>
+            <persName>Ragnwi Marcelind</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-SdMVGCoL4YcMZ5y53QwGsV" corresp="i-Ha5uZXGHudhTidCuW8UjXN">
+          <date when="2003-09-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RR6nfWskWwXzvgTYLbePxr">
+          <date when="2003-09-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5MyQ1xPbtuM7wT4eM5VSUD">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-NZ2atY8MTvWyqFdpdXxbbr" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-09-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FVXC7bB4vMEnQR8GAmkuVs" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-11"/>
+        </correspAction>
+        <correspContext corresp="i-FVXC7bB4vMEnQR8GAmkuVs">
+          <ref type="record" target="prot-200304--025">Riksdagens protokoll 2003/04:25 Tisdagen den 11 november</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2003/04:10 om rättspsykiatrin</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0010</head>
-        <author who="i-Ha5uZXGHudhTidCuW8UjXN">Ragnwi Marcelind</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>rättspsykiatrin</topic>
-        <docDate when="2003-09-29">den 29 september</docDate>
-        <status when="2003-11-11" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1010</external_id>
-        <debate>
-          <turn when="2003-11-11 18:19:57" duration="188">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 18:23:02" duration="258">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2003-11-11 18:27:17" duration="234">Johan Linander (C)</turn>
-          <turn when="2003-11-11 18:31:08" duration="170">Carl-Axel Johansson (M)</turn>
-          <turn when="2003-11-11 18:33:54" duration="114">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 18:35:45" duration="227">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2003-11-11 18:39:28" duration="108">Johan Linander (C)</turn>
-          <turn when="2003-11-11 18:41:12" duration="88">Carl-Axel Johansson (M)</turn>
-          <turn when="2003-11-11 18:42:37" duration="70">Thomas Bodström (S)</turn>
-          <turn when="2003-11-11 18:43:44" duration="126">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2003-11-11 18:45:46" duration="77">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:10 av Ragnwi Marcelind (kd) till justitieminister
-          Thomas Bodström om rättspsykiatrin
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Vev4CLCPzh8qnqhTxAgjbM">
+            Interpellation 2003/04:10 av Ragnwi Marcelind (kd) till justitieminister
+            Thomas Bodström om rättspsykiatrin
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-UP2Bmm9oSzAYe74qw9ZTXc">
+            den 29 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-K5imMWHcitrahiL67qhUeH">
-          Alltfler överlämnas till rättspsykiatrisk vård och rehabiliteringen
-          tar allt längre tid. För många landsting leder det till platsbrist
-          vilket i sin tur leder till att psykiskt sjuka kriminella tränger
-          undan andra patienter som behöver vård. Detta är en oroande trend.
-          Landstingen ansvarar i dag både för vården och för finansieringen
-          av rättspsykiatrin. Från mitten av 1990-talet ökade landstingens
-          kostnader för den rättspsykiatriska vården från 850 miljoner kronor
-          till 1,3 miljarder år 2000. Huvudproblemet är att landstingen
-          inte kan styra tillströmningen och inte planera för den.
-        </p>
-        <p xml:id="i-RETGaZWLZCuSTg8SkYTrur">
-          I exempelvis Västra Götaland har antalet dömda till vård ökat
-          med 40 % mellan 1998 och 2001. Staten utfärdar domarna, men landstingen
-          har vårdansvaret. Landstingen har ingen möjlighet att säga nej
-          till att ta emot dömda för vård. Följden blir att andra som behöver
-          psykiatrin inte får plats. Enligt uppgift från Västra Götaland
-          kan man direkt peka ut ett trettiotal fall i regionen som inte
-          fått plats då de som dömts till vård fått förtur. På universitetssjukhuset
-          i Umeå har rättspsykiatrin en låst avdelning med tio vårdplatser.
-          Den är ständigt fullbelagd. Avdelningen tar emot dömda från Umeå,
-          men också från övriga länet och Norrland. Patienter som begått
-          svåra våldsbrott dominerar och har ofta allvarliga psykiska sjukdomar,
-          till exempel schizofreni. Förutom att antalet personer som överlämnas
-          till rättspsykiatrisk vård har ökat har även vårdtiderna blivit
-          längre och de dömda har alltmer komplexa psykiska problem.
-        </p>
-        <p xml:id="i-9g1bARphZ1X99MRqiDJaC">
-          En undersökning på Rättsmedicinalverket visar att mellan 60 och
-          70 % av de åtalade i Stockholm som genomgått rättspsykiatrisk
-          undersökning sökt vård en kort tid, som mest ett halvår, innan
-          brottet. Det är en ökning på mellan 10 och 20 % sedan 1990-talet.
-        </p>
-        <p xml:id="i-F2ZnwnnjVx3eYW7e34ufu7">
-          Enligt Sten Levander, professor i rättspsykiatri, har 80 % av
-          psykvårdsplatserna i Sverige försvunnit sedan före 1960. Bara
-          sedan 1985 har drygt 15 000 vårdplatser försvunnit. Budgeten har
-          dragits ned till motsvarande nivå. De kraftiga reduceringarna
-          av antalet vårdplatser har gjorts utan att nya former för vård
-          utvecklats i tillräcklig omfattning. De vårdplatser som finns
-          i dag är på korttidsnivå. Sjuka patienter skrivs ut innan de är
-          färdigbehandlade @ till en öppenvård som inte fungerar. Därmed
-          ökar risken för att dessa personer begår brott på grund av sin
-          sjukdom.
-        </p>
-        <p xml:id="i-KecGvzcwaVz8LHtm4LktFs">
-          För att psykiatrivården ska kunna utvecklas och ge de behövande
-          hjälp i tid måste kraftfulla insatser och förändringsarbeten vidtas.
-          Om ansvaret för dem som överlämnats till rättspsykiatrisk vård
-          läggs under kriminalvården blir staten kostnadsansvarig. Detta
-          skulle ge möjligheter för landstingen att satsa mer på psykvården
-          på hemmaplan. Modellen skulle garantera rättspsykiatrisk vård
-          för dem som ska överlämnas till sådan och ge mer resurser till
-          övrig psykiatrisk vård.
-        </p>
-        <p xml:id="i-UsGwx2FgkaKGApzgfqsc1">
-          Vilka åtgärder har ministern för avsikt att vidta för att förhindra
-          att alltfler psykiskt sjuka på grund av utebliven vård begår grova
-          brott?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-G5KfvhQ1cJhU6JLCgErigy">
+            Alltfler överlämnas till rättspsykiatrisk vård och rehabiliteringen
+            tar allt längre tid. För många landsting leder det till platsbrist
+            vilket i sin tur leder till att psykiskt sjuka kriminella tränger
+            undan andra patienter som behöver vård. Detta är en oroande trend.
+            Landstingen ansvarar i dag både för vården och för finansieringen
+            av rättspsykiatrin. Från mitten av 1990-talet ökade landstingens
+            kostnader för den rättspsykiatriska vården från 850 miljoner kronor
+            till 1,3 miljarder år 2000. Huvudproblemet är att landstingen
+            inte kan styra tillströmningen och inte planera för den.
+          </p>
+          <p xml:id="i-HdENAF3eJEgmVB8rHibik7">
+            I exempelvis Västra Götaland har antalet dömda till vård ökat
+            med 40 % mellan 1998 och 2001. Staten utfärdar domarna, men landstingen
+            har vårdansvaret. Landstingen har ingen möjlighet att säga nej
+            till att ta emot dömda för vård. Följden blir att andra som behöver
+            psykiatrin inte får plats. Enligt uppgift från Västra Götaland
+            kan man direkt peka ut ett trettiotal fall i regionen som inte
+            fått plats då de som dömts till vård fått förtur. På universitetssjukhuset
+            i Umeå har rättspsykiatrin en låst avdelning med tio vårdplatser.
+            Den är ständigt fullbelagd. Avdelningen tar emot dömda från Umeå,
+            men också från övriga länet och Norrland. Patienter som begått
+            svåra våldsbrott dominerar och har ofta allvarliga psykiska sjukdomar,
+            till exempel schizofreni. Förutom att antalet personer som överlämnas
+            till rättspsykiatrisk vård har ökat har även vårdtiderna blivit
+            längre och de dömda har alltmer komplexa psykiska problem.
+          </p>
+          <p xml:id="i-R8kD4hMyFBTVwt6N7cQfTk">
+            En undersökning på Rättsmedicinalverket visar att mellan 60 och
+            70 % av de åtalade i Stockholm som genomgått rättspsykiatrisk
+            undersökning sökt vård en kort tid, som mest ett halvår, innan
+            brottet. Det är en ökning på mellan 10 och 20 % sedan 1990-talet.
+          </p>
+          <p xml:id="i-3MoKWqdpaES6xH8KBoVB8u">
+            Enligt Sten Levander, professor i rättspsykiatri, har 80 % av
+            psykvårdsplatserna i Sverige försvunnit sedan före 1960. Bara
+            sedan 1985 har drygt 15 000 vårdplatser försvunnit. Budgeten har
+            dragits ned till motsvarande nivå. De kraftiga reduceringarna
+            av antalet vårdplatser har gjorts utan att nya former för vård
+            utvecklats i tillräcklig omfattning. De vårdplatser som finns
+            i dag är på korttidsnivå. Sjuka patienter skrivs ut innan de är
+            färdigbehandlade @ till en öppenvård som inte fungerar. Därmed
+            ökar risken för att dessa personer begår brott på grund av sin
+            sjukdom.
+          </p>
+          <p xml:id="i-UzeYXhgYWhnREEqhyKL1yE">
+            För att psykiatrivården ska kunna utvecklas och ge de behövande
+            hjälp i tid måste kraftfulla insatser och förändringsarbeten vidtas.
+            Om ansvaret för dem som överlämnats till rättspsykiatrisk vård
+            läggs under kriminalvården blir staten kostnadsansvarig. Detta
+            skulle ge möjligheter för landstingen att satsa mer på psykvården
+            på hemmaplan. Modellen skulle garantera rättspsykiatrisk vård
+            för dem som ska överlämnas till sådan och ge mer resurser till
+            övrig psykiatrisk vård.
+          </p>
+          <p xml:id="i-RuHYJiaeVeEEddRZWt2RbY">
+            Vilka åtgärder har ministern för avsikt att vidta för att förhindra
+            att alltfler psykiskt sjuka på grund av utebliven vård begår grova
+            brott?
+          </p>
+        </div>
       </div>
     </body>
   </text>

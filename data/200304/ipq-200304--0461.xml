@@ -3,88 +3,122 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Sveriges rykte i Europa</title>
+        <author>Carlsson, Gunilla (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Sveriges rykte i Europa till utrikesminister Laila Freivalds om Sveriges rykte i Europa</title>
+          <idno type="rdwebb">GR10461</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10461/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10461</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10461</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
+            <persName>Gunilla Carlsson i Tyresö</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <persName>Laila Freivalds</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <persName>Laila Freivalds</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-SxY5ZpNmwPq8vA9D2irC9" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
+          <date when="2004-04-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ht7XsdnCgov1D58T22iMyi">
+          <date when="2004-04-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-E22ZZgHzTi1nC4KaxaqyQz">
+          <date when="2004-05-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-CD7njE9ioDT3fwbCJEPn2b" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
+          <date when="2004-04-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LWhDvKb5hzWztbP6a8j3ps" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
+          <date when="2004-05-14"/>
+        </correspAction>
+        <correspContext corresp="i-LWhDvKb5hzWztbP6a8j3ps">
+          <ref type="record" target="prot-200304--116">Riksdagens protokoll 2003/04:116 Fredagen den 14 maj</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:461 om Sveriges rykte i Europa</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0461</head>
-        <author who="i-W9g5g3nUh3Fu7mKUtFoBFH">Gunilla Carlsson i Tyresö</author>
-        <recipient who="i-4CwyNH4xXJhZj5wdBAzmSY">Laila Freivalds</recipient>
-        <topic>Sveriges rykte i Europa</topic>
-        <docDate when="2004-04-30">den 30 april</docDate>
-        <status when="2004-05-14" byWhom="Laila Freivalds" byWhomId="i-4CwyNH4xXJhZj5wdBAzmSY" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10461</external_id>
-        <debate>
-          <turn when="2004-05-14 09:13:10" duration="69">Laila Freivalds (S)</turn>
-          <turn when="2004-05-14 09:14:15" duration="165">Gunilla Carlsson (M)</turn>
-          <turn when="2004-05-14 09:16:51" duration="172">Laila Freivalds (S)</turn>
-          <turn when="2004-05-14 09:19:39" duration="115">Gunilla Carlsson (M)</turn>
-          <turn when="2004-05-14 09:21:30" duration="49">Laila Freivalds (S)</turn>
-          <turn when="2004-05-14 09:22:08" duration="91">Gunilla Carlsson (M)</turn>
-          <turn when="2004-05-14 09:23:36" duration="2247">Laila Freivalds (S)</turn>
-          <turn when="2004-05-14 09:43:01" duration="1081">Laila Freivalds (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:461 av Gunilla Carlsson i Tyresö (m) till
-          utrikesminister Laila Freivalds om Sveriges rykte i Europa
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DHijrnENLXjjdobBRwxrt4">
+            Interpellation 2003/04:461 av Gunilla Carlsson i Tyresö (m) till
+            utrikesminister Laila Freivalds om Sveriges rykte i Europa
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Xd4HVGq5ZzciWJr4UYYqLV">
+            den 30 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SDFtSuuxej1hzKQNrfT8yh">
-          Utvidgningen är det främsta exemplet där Sverige använt sitt
-          inflytande och framgångsrikt drivit en fråga. Vi har bidragit
-          till den frihets- och frigörelseprocess som slutligen ledde till
-          att muren föll och att våra grannländer Estland, Lettland och
-          Litauen kunde bli fria och självständiga demokratier. Som medlem
-          i EU bidrog Sverige till en tidig och omfattande utvidgning och
-          vi kan med rätta fira den 1 maj 2004, när tio nya stater tar plats
-          i unionen.
-        </p>
-        <p xml:id="i-BcE5vtR7eFqDzz3iTr4E5C">
-          Förväntningarna på vårt land är höga. Vi har, med rätta, uppfattats
-          som ett generöst och öppet land. Därför är riksdagens beslut om
-          att Sverige inte ska införa övergångsregler som begränsar arbetskraftens
-          rörlighet av betydelse för vår ställning i EU och framför allt
-          bland de nya medlemmarna. Det finns nu goda möjligheter att reparera
-          tidigare olyckliga uttalanden om "social turism" och regeringens
-          svek i frågan om övergångsregler. Sverige kan gå i täten för de
-          länder i EU som vill värna de fyra friheterna och ha en öppen
-          union, lika för alla.
-        </p>
-        <p xml:id="i-FK2qTdLZWmbeKnwqWEE9KM">
-          Med riksdagsbeslutet har möjlighet öppnats för att Sverige ska
-          kunna spela en större roll och utöva ledarskap i Östersjöregionen.
-          De nya medlemsstaterna tillsammans med Sverige kan bli ett levande
-          bevis på snabb och angelägen integration, till gagn för ömsesidigt
-          utbyte, säkerhet och välstånd.
-        </p>
-        <p xml:id="i-5LGn1JWYBeg5G92rmvZ8uy">
-          Avser utrikesministern att dra nytta av dessa förändrade förutsättningar
-          som möjliggörs med utvidgningen och riksdagens beslut vad gäller
-          övergångsregler?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-AMRGH5qAATBfqp6mamFb9A">
+            Utvidgningen är det främsta exemplet där Sverige använt sitt
+            inflytande och framgångsrikt drivit en fråga. Vi har bidragit
+            till den frihets- och frigörelseprocess som slutligen ledde till
+            att muren föll och att våra grannländer Estland, Lettland och
+            Litauen kunde bli fria och självständiga demokratier. Som medlem
+            i EU bidrog Sverige till en tidig och omfattande utvidgning och
+            vi kan med rätta fira den 1 maj 2004, när tio nya stater tar plats
+            i unionen.
+          </p>
+          <p xml:id="i-ERFxVn4zemGdyTKcod42Fz">
+            Förväntningarna på vårt land är höga. Vi har, med rätta, uppfattats
+            som ett generöst och öppet land. Därför är riksdagens beslut om
+            att Sverige inte ska införa övergångsregler som begränsar arbetskraftens
+            rörlighet av betydelse för vår ställning i EU och framför allt
+            bland de nya medlemmarna. Det finns nu goda möjligheter att reparera
+            tidigare olyckliga uttalanden om "social turism" och regeringens
+            svek i frågan om övergångsregler. Sverige kan gå i täten för de
+            länder i EU som vill värna de fyra friheterna och ha en öppen
+            union, lika för alla.
+          </p>
+          <p xml:id="i-WnfZE5ywCN6XR42EomFP1E">
+            Med riksdagsbeslutet har möjlighet öppnats för att Sverige ska
+            kunna spela en större roll och utöva ledarskap i Östersjöregionen.
+            De nya medlemsstaterna tillsammans med Sverige kan bli ett levande
+            bevis på snabb och angelägen integration, till gagn för ömsesidigt
+            utbyte, säkerhet och välstånd.
+          </p>
+          <p xml:id="i-5ZwyskPtAYpsZKmELvTJ23">
+            Avser utrikesministern att dra nytta av dessa förändrade förutsättningar
+            som möjliggörs med utvidgningen och riksdagens beslut vad gäller
+            övergångsregler?
+          </p>
+        </div>
       </div>
     </body>
   </text>

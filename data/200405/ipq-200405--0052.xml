@@ -3,94 +3,125 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>försäkringskassornas handläggningstider</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>försäkringskassornas handläggningstider till socialminister Berit Andnor om försäkringskassornas handläggningstider</title>
+          <idno type="rdwebb">GS1052</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1052/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1052</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1052</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
+            <persName>Berit Andnor</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
+            <persName>Berit Andnor</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DWeCbJsrXjbYwfSnHqB1ov" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2004-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9KdrPEAtoyPFThoJE4n5EJ">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2pQ1iRQ1FQqB6wBnqY3chn">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8htaQftLwZY8wvDke8ngtN" corresp="i-LdbVtbdPx3MQxR6GEgCqax">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-658uVtomcdGRyfmtDKQ39F" corresp="i-LdbVtbdPx3MQxR6GEgCqax">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspContext corresp="i-658uVtomcdGRyfmtDKQ39F">
+          <ref type="record" target="prot-200405--018">Riksdagens protokoll 2004/05:18 Torsdagen den 21 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:52 om försäkringskassornas handläggningstider</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0052</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-LdbVtbdPx3MQxR6GEgCqax">Berit Andnor</recipient>
-        <topic>försäkringskassornas handläggningstider</topic>
-        <docDate when="2004-10-11">den 11 oktober</docDate>
-        <status when="2004-10-21" byWhom="Berit Andnor" byWhomId="i-LdbVtbdPx3MQxR6GEgCqax" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1052</external_id>
-        <debate>
-          <turn when="2004-10-21 12:44:22" duration="230">Berit Andnor (S)</turn>
-          <turn when="2004-10-21 12:47:58" duration="214">Linnéa Darell (Fp)</turn>
-          <turn when="2004-10-21 12:51:28" duration="219">Ulrik Lindgren (Kd)</turn>
-          <turn when="2004-10-21 12:55:01" duration="109">Anna Lilliehöök (M)</turn>
-          <turn when="2004-10-21 12:56:47" duration="255">Berit Andnor (S)</turn>
-          <turn when="2004-10-21 13:00:43" duration="215">Linnéa Darell (Fp)</turn>
-          <turn when="2004-10-21 13:04:15" duration="135">Ulrik Lindgren (Kd)</turn>
-          <turn when="2004-10-21 13:06:20" duration="139">Anna Lilliehöök (M)</turn>
-          <turn when="2004-10-21 13:08:28" duration="257">Berit Andnor (S)</turn>
-          <turn when="2004-10-21 13:12:41" duration="165">Linnéa Darell (Fp)</turn>
-          <turn when="2004-10-21 13:15:13" duration="250">Berit Andnor (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:52 av Linnéa Darell (fp) till socialminister
-          Berit Andnor om försäkringskassornas handläggningstider
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Wxi1BGLXjLzdwMhtJoE7dk">
+            Interpellation 2004/05:52 av Linnéa Darell (fp) till socialminister
+            Berit Andnor om försäkringskassornas handläggningstider
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-XhvBdUL5H4ys7Vh5aF1fr">
+            den 11 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BgCC8d8n7AWMZfeKfKkX6A">
-          I dagarna har återigen rapporter kommit om att sjukskrivna får
-          vänta orimligt länge på sjukpenning. Riksförsäkringsverket skriver
-          i sitt pressmeddelande att försäkringskassorna är utsatta för
-          ett hårt tryck. Sjukskrivningarna är historiskt sett mycket höga
-          och kraven på att göra en noggrann bedömning är också stora.
-        </p>
-        <p xml:id="i-KsnwbVPkk3nUefzrroxks5">
-          Om förslaget till arbetsgivarnas medfinansiering av sjuklön,
-          som regeringen och dess samverkanspartier Vänsterpartiet och Miljöpartiet
-          planerar, genomförs redan den 1 januari nästa år, alltså om knappt
-          tre månader, kan arbetsbelastningen på kassorna förväntas öka
-          ytterligare. Utöver alla sjukskrivna, som väntar på pengar för
-          sin försörjning, riskerar också alla arbetsgivare att under långa
-          tider tvingas leva med krångel och ovisshet.
-        </p>
-        <p xml:id="i-DSaxoiwPZ3cEgDc1VstqhH">
-          En orsak till väntetiderna för utbetalning av sjukpenning är
-          att kassorna nu gör noggrannare utredningar och att underlagen
-          ibland är bristfälliga. När en ny lagstiftning införs, som till
-          exempel den om medfinansiering, tar det alltid tid för alla berörda
-          att finna ett effektivt arbetssätt. Med tanke på att kassorna
-          redan i dag bara når målet om handläggningstid i ca 50 % av alla
-          ärenden @ hos vissa kassor inte ens det, så är oron befogad för
-          hur de ska klara att hantera den nya lagstiftningen, om den genomförs,
-          inom rimliga tidsgränser. Risken för kaos är uppenbar.
-        </p>
-        <p xml:id="i-Kt2Q9Tj6fGAJfhD965nhie">
-          Min fråga till statsrådet är därför:
-        </p>
-        <p xml:id="i-TeNXUvwQnCejjAogppCawS">
-          Vilka åtgärder planerar statsrådet att vidta för att landets
-          försäkringskassor ska klara både nuvarande mål om handläggningstider
-          och de uppgifter som följer med en eventuellt ändrad lagstiftning
-          på sjuklöneområdet den 1 januari 2005?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BTvJbE5YR6uxYrKvS1VMse">
+            I dagarna har återigen rapporter kommit om att sjukskrivna får
+            vänta orimligt länge på sjukpenning. Riksförsäkringsverket skriver
+            i sitt pressmeddelande att försäkringskassorna är utsatta för
+            ett hårt tryck. Sjukskrivningarna är historiskt sett mycket höga
+            och kraven på att göra en noggrann bedömning är också stora.
+          </p>
+          <p xml:id="i-WjSgxvscW9M2gt6qdUcTz1">
+            Om förslaget till arbetsgivarnas medfinansiering av sjuklön,
+            som regeringen och dess samverkanspartier Vänsterpartiet och Miljöpartiet
+            planerar, genomförs redan den 1 januari nästa år, alltså om knappt
+            tre månader, kan arbetsbelastningen på kassorna förväntas öka
+            ytterligare. Utöver alla sjukskrivna, som väntar på pengar för
+            sin försörjning, riskerar också alla arbetsgivare att under långa
+            tider tvingas leva med krångel och ovisshet.
+          </p>
+          <p xml:id="i-34rexoE7GQa56ptAUREch8">
+            En orsak till väntetiderna för utbetalning av sjukpenning är
+            att kassorna nu gör noggrannare utredningar och att underlagen
+            ibland är bristfälliga. När en ny lagstiftning införs, som till
+            exempel den om medfinansiering, tar det alltid tid för alla berörda
+            att finna ett effektivt arbetssätt. Med tanke på att kassorna
+            redan i dag bara når målet om handläggningstid i ca 50 % av alla
+            ärenden @ hos vissa kassor inte ens det, så är oron befogad för
+            hur de ska klara att hantera den nya lagstiftningen, om den genomförs,
+            inom rimliga tidsgränser. Risken för kaos är uppenbar.
+          </p>
+          <p xml:id="i-HMadujYEjSfeWgHed6P7E4">
+            Min fråga till statsrådet är därför:
+          </p>
+          <p xml:id="i-S7Qgv6AukGDaNkDAt7cQJv">
+            Vilka åtgärder planerar statsrådet att vidta för att landets
+            försäkringskassor ska klara både nuvarande mål om handläggningstider
+            och de uppgifter som följer med en eventuellt ändrad lagstiftning
+            på sjuklöneområdet den 1 januari 2005?
+          </p>
+        </div>
       </div>
     </body>
   </text>

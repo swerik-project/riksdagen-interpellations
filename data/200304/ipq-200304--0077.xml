@@ -3,78 +3,122 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldres fallolyckor</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>äldres fallolyckor till socialminister Lars Engqvist om äldres fallolyckor</title>
+          <idno type="rdwebb">GR1077</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1077/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1077</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1077</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-KvndLP9A5X11eLNpeo8nZA" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2003-11-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BCrcgqBpoe3nAiu3ranQZH">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Xq3uYPk88yAF8ro34ds4Qx">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Khr7aY1qBq2fMpnMjMa65U" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ND6HSVdYXhCewHDSuHCSnK" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspContext corresp="i-ND6HSVdYXhCewHDSuHCSnK">
+          <ref type="record" target="prot-200304--029">Riksdagens protokoll 2003/04:29 Måndagen den 17 november</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2003/04:77 om äldres fallolyckor</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0077</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>äldres fallolyckor</topic>
-        <docDate when="2003-11-05">den 5 november</docDate>
-        <status when="unknown" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1077</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:77 av Linnéa Darell (fp) till socialminister
-          Lars Engqvist om äldres fallolyckor
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-7hC8o5sjNScyB6sYahyxg3">
+            Interpellation 2003/04:77 av Linnéa Darell (fp) till socialminister
+            Lars Engqvist om äldres fallolyckor
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-K9vkfxMktj9unYFLe6FX1V">
+            den 5 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FLYwABt1A4h8zXDRYtRgMP">
-          Nyligen presenterade Nationellt centrum för erfarenhetsåterföring
-          från olyckor (NCO) vid Räddningsverket en rapport som ånyo tar
-          upp frågan om riskerna för äldre människor att råka ut för fallolyckor.
-          Enligt rapporten dör 1 000 personer varje år i fallolyckor, 40
-          000 skadas så svårt att de behöver sjukhusvård och ytterligare
-          62 000 skadas lindrigt. Utöver det personliga lidandet så kostar
-          dessa olyckor samhället åtskilliga miljarder. För kommuner och
-          landsting anges beloppet till 4,7 miljarder.
-        </p>
-        <p xml:id="i-3UBxgMxTSvrrjtFHzoSCda">
-          Oroväckande är också att ökningen av fallolyckor med dödlig utgång
-          är större än vad som är motiverat av ökningen av antalet äldre.
-          Prognoserna tyder på fortsatta ökningar, vilket också då betyder
-          ökade samhällskostnader.
-        </p>
-        <p xml:id="i-H2aqCirpS914WgjJNyfWWN">
-          En del kommuner arbetar med säkerhetsfrågor för olika medborgargrupper,
-          där äldresäkerhet är en del. Men långt ifrån alla. Endast ett
-          fåtal kommuner är godkända enligt WHO:s "En säker och trygg kommun".
-          Länsstyrelserna fick häromåret möjlighet att anställa så kallade
-          äldreskyddsombud. Äldreombudsmän och äldreomsorgsinspektörer har
-          tillkommit efter folkpartiförslag på en del håll i landet. Och
-          ytterst har Socialstyrelsen ett tillsynsansvar. Men ändå så riskerar
-          1 000 äldre personer att dö varje år i fallolyckor.
-        </p>
-        <p xml:id="i-8R3qzT4FUgh3LKYCF8LT6j">
-          Min fråga är därför:
-        </p>
-        <p xml:id="i-SMJUhvMppQYw8ERq8UtJTf">
-          Kommer socialministern att ta initiativ till en översyn rörande
-          äldres säkerhet med anledning av ovanstående alarmerande siffror?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3fdSFYhpKmq9Q8WDEWhc5B">
+            Nyligen presenterade Nationellt centrum för erfarenhetsåterföring
+            från olyckor (NCO) vid Räddningsverket en rapport som ånyo tar
+            upp frågan om riskerna för äldre människor att råka ut för fallolyckor.
+            Enligt rapporten dör 1 000 personer varje år i fallolyckor, 40
+            000 skadas så svårt att de behöver sjukhusvård och ytterligare
+            62 000 skadas lindrigt. Utöver det personliga lidandet så kostar
+            dessa olyckor samhället åtskilliga miljarder. För kommuner och
+            landsting anges beloppet till 4,7 miljarder.
+          </p>
+          <p xml:id="i-D6ck88yVbCbitdNFWZ2Fun">
+            Oroväckande är också att ökningen av fallolyckor med dödlig utgång
+            är större än vad som är motiverat av ökningen av antalet äldre.
+            Prognoserna tyder på fortsatta ökningar, vilket också då betyder
+            ökade samhällskostnader.
+          </p>
+          <p xml:id="i-2rH2uk1t8Gqv6NkNjZzcwZ">
+            En del kommuner arbetar med säkerhetsfrågor för olika medborgargrupper,
+            där äldresäkerhet är en del. Men långt ifrån alla. Endast ett
+            fåtal kommuner är godkända enligt WHO:s "En säker och trygg kommun".
+            Länsstyrelserna fick häromåret möjlighet att anställa så kallade
+            äldreskyddsombud. Äldreombudsmän och äldreomsorgsinspektörer har
+            tillkommit efter folkpartiförslag på en del håll i landet. Och
+            ytterst har Socialstyrelsen ett tillsynsansvar. Men ändå så riskerar
+            1 000 äldre personer att dö varje år i fallolyckor.
+          </p>
+          <p xml:id="i-9g7Lp4TmG7o3Vo48DnNy9b">
+            Min fråga är därför:
+          </p>
+          <p xml:id="i-8XTiLCAFaqL41SJu6VoTBA">
+            Kommer socialministern att ta initiativ till en översyn rörande
+            äldres säkerhet med anledning av ovanstående alarmerande siffror?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,73 +3,108 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>studieresultat i friskolorna</title>
+        <author>Widman, Allan (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>studieresultat i friskolorna till statsminister Göran Persson om studieresultat i friskolorna</title>
+          <idno type="rdwebb">GS10305</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10305/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10305</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10305</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
+            <persName>Allan Widman</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4FsPW8KwgtcSnHicWuR1vw" corresp="i-BUYvEhrSc9gnHcd6iS4eDJ">
+          <date when="2005-01-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AZaZSoStghdXSutRDUxzp">
+          <date when="2005-01-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KEmzZRQmAU36xxroJu6s4n">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-N9cGkt7G1M8hyHUpJ6Jpqj" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
+          <date when="2005-01-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-W9n5EwDCjYpf4QkQUJecEb" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspContext corresp="i-W9n5EwDCjYpf4QkQUJecEb">
+          <ref type="record" target="prot-200405--069">Riksdagens protokoll 2004/05:69 Torsdagen den 3 februari</ref>
+          <ref type="recordSection" target="unsetDivId">18 § Svar på interpellation 2004/05:305 om studieresultat i friskolorna</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0305</head>
-        <author who="i-BUYvEhrSc9gnHcd6iS4eDJ">Allan Widman</author>
-        <recipient who="i-3kVCtR7mCK6mW2F6oaBMR5">Göran Persson</recipient>
-        <topic>studieresultat i friskolorna</topic>
-        <docDate when="2005-01-14">den 14 januari</docDate>
-        <status when="2005-02-03" byWhom="Ibrahim Baylan" byWhomId="i-A6T9WoUzRwW8LUK52znHwX" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10305</external_id>
-        <debate>
-          <turn when="2005-02-03 17:08:06" duration="337">Ibrahim Baylan (S)</turn>
-          <turn when="2005-02-03 17:13:38" duration="249">Allan Widman (Fp)</turn>
-          <turn when="2005-02-03 17:17:43" duration="217">Ibrahim Baylan (S)</turn>
-          <turn when="2005-02-03 17:21:16" duration="182">Allan Widman (Fp)</turn>
-          <turn when="2005-02-03 17:24:14" duration="235">Ibrahim Baylan (S)</turn>
-          <turn when="2005-02-03 17:28:05" duration="139">Allan Widman (Fp)</turn>
-          <turn when="2005-02-03 17:30:20" duration="475">Ibrahim Baylan (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:305 av Allan Widman (fp) till statsminister
-          Göran Persson om studieresultat i friskolorna
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CDkGwSepNaser5SQ5NuP5a">
+            Interpellation 2004/05:305 av Allan Widman (fp) till statsminister
+            Göran Persson om studieresultat i friskolorna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JrV3349dMV262ihWNMPKLg">
+            den 14 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-HkMBELvFtMyivVW2qEJUy4">
-          Strax före jul antydde statsministern i en TT-intervju att de
-          försämrade svenska studieresultaten kunde bero på de fristående
-          skolorna.
-        </p>
-        <p xml:id="i-8kRjWbeeE6Y8W77FTiwPgE">
-          Den statistik som Skolverket tar fram när det gäller utbildningsresultaten
-          i grundskolan och gymnasiet visar på ett rakt motsatt förhållande.
-          Läsåren 1998/99@2002/03 hade en större andel elever på de fristående
-          grundskolorna behörighet för gymnasiet än i den kommunala skolan.
-          I genomsnitt var betygen dessutom betydligt högre. Precis samma
-          avvikelser uppstår vid jämförelser inom gymnasieskolan.
-        </p>
-        <p xml:id="i-Jid5mNsS5YLeyVcCUiiJtb">
-          Med anledning härav undrar jag vilka åtgärder statsministern
-          är beredd till för att bättre tillgodogöra sig den information
-          om studieresultaten i grundskolan och gymnasiet som Skolverket
-          tar fram.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-A2SDqz9oP5fzBEBPDJc8oS">
+            Strax före jul antydde statsministern i en TT-intervju att de
+            försämrade svenska studieresultaten kunde bero på de fristående
+            skolorna.
+          </p>
+          <p xml:id="i-HacEekjcMRemXwputezGYe">
+            Den statistik som Skolverket tar fram när det gäller utbildningsresultaten
+            i grundskolan och gymnasiet visar på ett rakt motsatt förhållande.
+            Läsåren 1998/99@2002/03 hade en större andel elever på de fristående
+            grundskolorna behörighet för gymnasiet än i den kommunala skolan.
+            I genomsnitt var betygen dessutom betydligt högre. Precis samma
+            avvikelser uppstår vid jämförelser inom gymnasieskolan.
+          </p>
+          <p xml:id="i-SdRvK5BUr3gf1mYjEQsbaX">
+            Med anledning härav undrar jag vilka åtgärder statsministern
+            är beredd till för att bättre tillgodogöra sig den information
+            om studieresultaten i grundskolan och gymnasiet som Skolverket
+            tar fram.
+          </p>
+        </div>
       </div>
     </body>
   </text>

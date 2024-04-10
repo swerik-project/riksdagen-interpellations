@@ -3,76 +3,109 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förtroendet för polisen</title>
+        <author>Stenmark, Rigmor (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förtroendet för polisen till justitieminister Thomas Bodström om förtroendet för polisen</title>
+          <idno type="rdwebb">GS10330</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10330/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10330</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10330</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D33H5dL4TMdTn9ZXMMYEbb</idno>
+            <persName>Rigmor Stenmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-KjQsZPGC3KxMQVeeQRemEX" corresp="i-D33H5dL4TMdTn9ZXMMYEbb">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4rmTd1FpyHYzBs9LS3ewkP">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WkNaM2BBAWSVZdc2XbZNvo">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XG1eU22HZXm6mnmdrqKgXY" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Grj2xAWfdbBHr2rqTW7YnM" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-02-03"/>
+        </correspAction>
+        <correspContext corresp="i-Grj2xAWfdbBHr2rqTW7YnM">
+          <ref type="record" target="prot-200405--069">Riksdagens protokoll 2004/05:69 Torsdagen den 3 februari</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellation 2004/05:330 om förtroendet för polisen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0330</head>
-        <author who="i-D33H5dL4TMdTn9ZXMMYEbb">Rigmor Stenmark</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>förtroendet för polisen</topic>
-        <docDate when="2005-01-25">den 25 januari</docDate>
-        <status when="2005-02-03" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10330</external_id>
-        <debate>
-          <turn when="2005-02-03 15:19:29" duration="117">Thomas Bodström (S)</turn>
-          <turn when="2005-02-03 15:21:23" duration="278">Rigmor Stenmark (C)</turn>
-          <turn when="2005-02-03 15:25:56" duration="260">Viviann Gerdin (C)</turn>
-          <turn when="2005-02-03 15:30:12" duration="267">Thomas Bodström (S)</turn>
-          <turn when="2005-02-03 15:34:35" duration="260">Rigmor Stenmark (C)</turn>
-          <turn when="2005-02-03 15:38:51" duration="142">Viviann Gerdin (C)</turn>
-          <turn when="2005-02-03 15:41:10" duration="321">Thomas Bodström (S)</turn>
-          <turn when="2005-02-03 15:44:06" duration="147">Rigmor Stenmark (C)</turn>
-          <turn when="2005-02-03 15:46:27" duration="153">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:330 av Rigmor Stenmark (c) till justitieminister
-          Thomas Bodström om förtroendet för polisen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QCR4hDZfs2QyR3u3QYW9B1">
+            Interpellation 2004/05:330 av Rigmor Stenmark (c) till justitieminister
+            Thomas Bodström om förtroendet för polisen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LSmiXvVVZxVUtiXkuBAV73">
+            den 25 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3ZrJc5bD4aoZS77AkqVBP3">
-          I dag, den 24 januari, redovisades i massmedierna allmänhetens
-          inställning till några viktiga samhällsfunktioner. Glädjande får
-          anställda inom vård, skola och omsorg goda vitsord. Det som dock
-          stör bilden av ett gott samhälle är medborgarnas syn på svensk
-          polis. Poliskåren hamnar i bottenläge hos allmänheten. Detta är
-          en oerhört svår situation eftersom så många upplever att den grundläggande
-          rättstryggheten därmed är hotad.
-        </p>
-        <p xml:id="i-XXWWAEJxV57kyddAaYigwr">
-          Sverige måste ha en polisorganisation som kan få tillbaka folkets
-          förtroende. En polisorganisation som förmedlar tillit och trygghet.
-        </p>
-        <p xml:id="i-3a3smvat8ojMZRtdctx2gp">
-          Därför vill jag fråga justitieminister Thomas Bodström:
-        </p>
-        <p xml:id="i-6XygfnqUnHnSfn9gp5cLtg">
-          Vilka åtgärder avser justitieministern att vidta för att människor
-          i Sverige ska ha förtroende för poliskåren?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-YW8Um6oRpBU9gzdWr8vwXw">
+            I dag, den 24 januari, redovisades i massmedierna allmänhetens
+            inställning till några viktiga samhällsfunktioner. Glädjande får
+            anställda inom vård, skola och omsorg goda vitsord. Det som dock
+            stör bilden av ett gott samhälle är medborgarnas syn på svensk
+            polis. Poliskåren hamnar i bottenläge hos allmänheten. Detta är
+            en oerhört svår situation eftersom så många upplever att den grundläggande
+            rättstryggheten därmed är hotad.
+          </p>
+          <p xml:id="i-ShENZe6Ev8Xk9z7g24WQYb">
+            Sverige måste ha en polisorganisation som kan få tillbaka folkets
+            förtroende. En polisorganisation som förmedlar tillit och trygghet.
+          </p>
+          <p xml:id="i-MuQby1KiAvXGPnm46amSjt">
+            Därför vill jag fråga justitieminister Thomas Bodström:
+          </p>
+          <p xml:id="i-MuRwX1qGCueUek83geRLg">
+            Vilka åtgärder avser justitieministern att vidta för att människor
+            i Sverige ska ha förtroende för poliskåren?
+          </p>
+        </div>
       </div>
     </body>
   </text>

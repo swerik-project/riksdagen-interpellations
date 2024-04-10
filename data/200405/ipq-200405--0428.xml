@@ -3,118 +3,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>läsning i olika samhällsgrupper</title>
+        <author>Nylander, Christer (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>läsning i olika samhällsgrupper till utbildnings- och kulturminister Leif Pagrotsky om läsning i olika samhällsgrupper</title>
+          <idno type="rdwebb">GS10428</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10428/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10428</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10428</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-U6F8gqiuV2DEZN1aMhyDnJ</idno>
+            <persName>Christer Nylander</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-UmGnVp5WEXZnmV6BgH6Sss">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-7BfvzV6EiJD9qiRnfj6YZK" corresp="i-U6F8gqiuV2DEZN1aMhyDnJ">
+          <date when="2005-02-28"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8ahmhSxU6UVp1T1rY35WEi">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VMPjXLoTiNrVmaQWeXaxt9" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2005-03-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TvxW43XWCjyj7pjdpbQBk8" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspContext corresp="i-TvxW43XWCjyj7pjdpbQBk8">
+          <ref type="record" target="prot-200405--106">Riksdagens protokoll 2004/05:106 Fredagen den 15 april</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:428 om läsning i olika samhällsgrupper</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0428</head>
-        <author who="i-U6F8gqiuV2DEZN1aMhyDnJ">Christer Nylander</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>läsning i olika samhällsgrupper</topic>
-        <docDate when="2005-02-28">den 28 februari</docDate>
-        <status when="unknown" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10428</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:428 av Christer Nylander (fp) till utbildnings-
-          och kulturminister Leif Pagrotsky om läsning i olika samhällsgrupper
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-bLbjhJ2uPqiVg6v1adsxP">
+            Interpellation 2004/05:428 av Christer Nylander (fp) till utbildnings-
+            och kulturminister Leif Pagrotsky om läsning i olika samhällsgrupper
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-CBvgBEckVLx6v4sMTUsjxV">
+            den 28 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Rh46f8L7EHSCfRTtjMip7t">
-          Bokpriskommissionens slutrapport visar att sänkningen av bokmomsen
-          på många sätt varit lyckosam. Skattesänkningen har slagit igenom
-          i konsumentledet.
-        </p>
-        <p xml:id="i-5m4JxVTddpsNeVhEZnJobq">
-          Samtidigt har kommissionen inte kunnat visa att momssänkningen
-          påverkat läsvanorna i så motto att läsandet breddats. Det är fortfarande
-          samma skillnader vad gäller till exempel kön och utbildningsnivå.
-          "Några förändringar i de sociala och könsmässiga mönstren i läsandet
-          har inte kunnat avläsas", konstaterar kommissionen.
-        </p>
-        <p xml:id="i-XegeRY1fp9zgiGzWBFgsq4">
-          Fortfarande är det ungefär en sjundedel av befolkningen som aldrig
-          läser en bok. Man konstaterar dessutom att den statistik som finns
-          tillgänglig snarare pekar på att skillnaderna ökar. Bland manliga
-          LO-medlemmar där det redan tidigare är en hög andel som aldrig
-          öppnar en bok, ser utvecklingen ut att innebära att färre och
-          färre läser.
-        </p>
-        <p xml:id="i-V7aboe55QwKzuBeDWSR3Zc">
-          Denna statistik ska naturligtvis hittills betraktas som preliminär.
-          Likväl finns det anledning att fundera över vilka ytterligare
-          steg som kan tas för att stärka läsandet och höja bokens status
-          hos hela befolkningen.
-        </p>
-        <p xml:id="i-FfLwop4MNdT4utHjgqdENZ">
-          Enligt hjärnforskaren Martin Ingvar tycks de som ofta läser böcker
-          ha bättre minne, bättre uppmärksamhet, bättre faktaförståelse
-          och bättre förmåga till kritiskt tänkande.
-        </p>
-        <p xml:id="i-KkaMKfwcT2fGw92nYhCeAz">
-          I boken Hur du ska läsa och varför skriver den brittiske litteraturvetaren
-          Harold Bloom: "Ska den enskilda människan kunna bevara förmågan
-          att bilda sig egna åsikter och omdömen är det inte utan betydelse
-          att hon fortsätter att läsa på egen hand."
-        </p>
-        <p xml:id="i-3tW3mhU8QkKP7KzGJhbSAH">
-          Bokpriskommissionen har haft som utgångspunkt att deras direktiv
-          rymmer ett "kulturpolitiskt önskemål om att i princip alla skall
-          kunna få de fördelar för den personliga utvecklingen som läsning
-          antas ge". Nu är det ju så att man knappast kan tvinga någon människa
-          att läsa. Likväl måste man fundera kring vilka insatser som kan
-          göras och som är rimliga för att främja läsandet.
-        </p>
-        <p xml:id="i-AfKL1pZEUVS9tzQeVwrJo5">
-          Skolans arbete med läsning har en helt avgörande roll i en politik
-          för att sprida läsningen. Den som i skolåldern får god kunskap
-          i läsning och dessutom uppslukas av glädjen att läsa, har större
-          benägenhet att fortsätta vara läsare än den som inte lärt sig
-          läsa ordentligt. Därför är det mycket allvarligt när Skolverkets
-          undersökningar visar att resultaten på läsproven visar en minskande
-          läsförmåga jämfört med liknande studier 1992 och 1995. Skolverket
-          noterar också en större spridning av resultaten på läsförståelsen.
-          Det är fler elever än tidigare som har riktigt svaga resultat.
-          Skillnaderna ökar och killarna har större problem med läsförståelsen
-          än tjejerna.
-        </p>
-        <p xml:id="i-PuJvWEzJgDozVk8TCngFLy">
-          Om det är så att Martin Ingvars forskningsresultat är riktiga
-          och om det är så att Harold Bloom har rätt i att den som läser
-          har större förmåga att bilda egna uppfattningar och omdömen, då
-          är det ett stort bekymmer att läsförståelsen bland grundskoleeleverna
-          försämras. Om denna utveckling inte bryts riskerar vi att få en
-          växande klyfta mellan ett ökande antal som aldrig läser och den
-          delen av befolkningen som är läsare. En sådan utveckling kan inte
-          ens en fortsatt nedsättning av bokmomsen bryta.
-        </p>
-        <p xml:id="i-XsQWMnWNDa1uijYh7k84AQ">
-          Vilka initiativ avser ministern att vidta för att stärka och
-          bredda läsningen och ytterligare stärka bokens ställning i olika
-          samhällsgrupper?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-4jofHjM5iHzUpNXwqkzvq3">
+            Bokpriskommissionens slutrapport visar att sänkningen av bokmomsen
+            på många sätt varit lyckosam. Skattesänkningen har slagit igenom
+            i konsumentledet.
+          </p>
+          <p xml:id="i-L5X52tQZXQ1gDh59GATGrm">
+            Samtidigt har kommissionen inte kunnat visa att momssänkningen
+            påverkat läsvanorna i så motto att läsandet breddats. Det är fortfarande
+            samma skillnader vad gäller till exempel kön och utbildningsnivå.
+            "Några förändringar i de sociala och könsmässiga mönstren i läsandet
+            har inte kunnat avläsas", konstaterar kommissionen.
+          </p>
+          <p xml:id="i-8mNAeAt6Ygd8DefJALMEh7">
+            Fortfarande är det ungefär en sjundedel av befolkningen som aldrig
+            läser en bok. Man konstaterar dessutom att den statistik som finns
+            tillgänglig snarare pekar på att skillnaderna ökar. Bland manliga
+            LO-medlemmar där det redan tidigare är en hög andel som aldrig
+            öppnar en bok, ser utvecklingen ut att innebära att färre och
+            färre läser.
+          </p>
+          <p xml:id="i-54Z5YCZgUUhmDhy6KUSgh8">
+            Denna statistik ska naturligtvis hittills betraktas som preliminär.
+            Likväl finns det anledning att fundera över vilka ytterligare
+            steg som kan tas för att stärka läsandet och höja bokens status
+            hos hela befolkningen.
+          </p>
+          <p xml:id="i-4715eCQHat8i3UeiVpbUcP">
+            Enligt hjärnforskaren Martin Ingvar tycks de som ofta läser böcker
+            ha bättre minne, bättre uppmärksamhet, bättre faktaförståelse
+            och bättre förmåga till kritiskt tänkande.
+          </p>
+          <p xml:id="i-PcRV8VRnBidSZmrh2co2za">
+            I boken Hur du ska läsa och varför skriver den brittiske litteraturvetaren
+            Harold Bloom: "Ska den enskilda människan kunna bevara förmågan
+            att bilda sig egna åsikter och omdömen är det inte utan betydelse
+            att hon fortsätter att läsa på egen hand."
+          </p>
+          <p xml:id="i-Y11BBM6BN4V7af2AqmRPp7">
+            Bokpriskommissionen har haft som utgångspunkt att deras direktiv
+            rymmer ett "kulturpolitiskt önskemål om att i princip alla skall
+            kunna få de fördelar för den personliga utvecklingen som läsning
+            antas ge". Nu är det ju så att man knappast kan tvinga någon människa
+            att läsa. Likväl måste man fundera kring vilka insatser som kan
+            göras och som är rimliga för att främja läsandet.
+          </p>
+          <p xml:id="i-Kumo3y8GDmCY54N5xuqDN">
+            Skolans arbete med läsning har en helt avgörande roll i en politik
+            för att sprida läsningen. Den som i skolåldern får god kunskap
+            i läsning och dessutom uppslukas av glädjen att läsa, har större
+            benägenhet att fortsätta vara läsare än den som inte lärt sig
+            läsa ordentligt. Därför är det mycket allvarligt när Skolverkets
+            undersökningar visar att resultaten på läsproven visar en minskande
+            läsförmåga jämfört med liknande studier 1992 och 1995. Skolverket
+            noterar också en större spridning av resultaten på läsförståelsen.
+            Det är fler elever än tidigare som har riktigt svaga resultat.
+            Skillnaderna ökar och killarna har större problem med läsförståelsen
+            än tjejerna.
+          </p>
+          <p xml:id="i-Bbnn1NJiFDNB2mrCmRDhSr">
+            Om det är så att Martin Ingvars forskningsresultat är riktiga
+            och om det är så att Harold Bloom har rätt i att den som läser
+            har större förmåga att bilda egna uppfattningar och omdömen, då
+            är det ett stort bekymmer att läsförståelsen bland grundskoleeleverna
+            försämras. Om denna utveckling inte bryts riskerar vi att få en
+            växande klyfta mellan ett ökande antal som aldrig läser och den
+            delen av befolkningen som är läsare. En sådan utveckling kan inte
+            ens en fortsatt nedsättning av bokmomsen bryta.
+          </p>
+          <p xml:id="i-3SYvCW2DGFAPUx4CjMkpbc">
+            Vilka initiativ avser ministern att vidta för att stärka och
+            bredda läsningen och ytterligare stärka bokens ställning i olika
+            samhällsgrupper?
+          </p>
+        </div>
       </div>
     </body>
   </text>

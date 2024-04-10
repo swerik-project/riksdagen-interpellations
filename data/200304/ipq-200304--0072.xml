@@ -3,83 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Stockholm - Mälardalsregionen</title>
+        <author>Stenmark, Rigmor (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Stockholm - Mälardalsregionen till statsrådet Lars-Erik Lövdén om Stockholm - Mälardalsregionen</title>
+          <idno type="rdwebb">GR1072</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1072/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1072</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1072</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D33H5dL4TMdTn9ZXMMYEbb</idno>
+            <persName>Rigmor Stenmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-LJPeSAf9mJ3ydA3pytSsU7" corresp="i-D33H5dL4TMdTn9ZXMMYEbb">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-UzH3zR8u84RWbaZmpQGqMf">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KZodVhMkZs8iZs3XuNzHSC">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DSVryBk8QsVdvVVnYsD3mN" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3Rkw6sXEcePvRrE6oBA9PU" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspContext corresp="i-3Rkw6sXEcePvRrE6oBA9PU">
+          <ref type="record" target="prot-200304--035">Riksdagens protokoll 2003/04:35 Tisdagen den 25 november</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:72 om Stockholm-Mälardalsregionen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0072</head>
-        <author who="i-D33H5dL4TMdTn9ZXMMYEbb">Rigmor Stenmark</author>
-        <recipient who="i-6qjD2tsSCtsrmXQjy7mtCJ">Lars-Erik Lövdén</recipient>
-        <topic>Stockholm - Mälardalsregionen</topic>
-        <docDate when="2003-10-31">den 31 oktober</docDate>
-        <status when="unknown" byWhom="Lars-Erik Lövdén" byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1072</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:72 av Rigmor Stenmark (c) till statsrådet
-          Lars-Erik Lövdén om Stockholm @ Mälardalsregionen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-VnUW6UNBXtRJPX9MkY7gR5">
+            Interpellation 2003/04:72 av Rigmor Stenmark (c) till statsrådet
+            Lars-Erik Lövdén om Stockholm @ Mälardalsregionen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-79ZA54px7WYTmiadDLqwfU">
+            den 31 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JDSefS8pxSb4KrX3udQf1M">
-          Mälardalen står för drygt 33 % av befolkningen i Sverige. Nästan
-          50 % av rikets ekonomi samt ännu större andel av den ekonomi som
-          är i tillväxt finns här. Detta är ett vanligt sätt att beskriva
-          Stockholm @ Mälardalsregionen. Men om vi tittar lite närmare på
-          den geografiska kartbild som innefattar Mälardalen kan vi se att
-          även på den kartbilden ingår det kommuner som har problem och
-          som inte känner igen sig i en beskrivning som innefattar en allmän
-          tillväxt.
-        </p>
-        <p xml:id="i-C8hwFxGyTS9GwkBy5EDLM8">
-          Det vore positivt om dessa kommuner kunde få bättre förutsättningar
-          att också tillhöra denna beskrivning. Avståndet mellan kommuner
-          inom Mälardalen och de kommuner som gränsar till Mälardalsregionen
-          är inte stort. Det finns bra och någorlunda tillförlitliga kommunikationer
-          som kan användas för pendling.
-        </p>
-        <p xml:id="i-A9fRADbnQfiTckcQnQq6HR">
-          Jag menar att det inte kan vara tillväxtfrämjande att ensidigt
-          fokusera på att bygga bostäder på orter där det redan i dag är
-          för trångt. I stället bör boendet fördelas på fler orter i och
-          kring regionen. Det kan inte vara tillväxtfrämjande att ensidigt
-          stimulera boendet i Stockholmsregionen. Detta genom att lämna
-          ett större bidrag till att bygga lägenheter där, än i övriga delar
-          av Mälardalsregionen och angränsande orter.
-        </p>
-        <p xml:id="i-9U7h1aLu1V7hoH8ZY7oi21">
-          Därför vill jag fråga statsrådet:
-        </p>
-        <p xml:id="i-Gzb5WoJFLDCZUPEh84XDd9">
-          Vad avser statsrådet att göra för att utjämna situationen för
-          kommunerna i och i nära anslutning till Mälardalsregionen?
-        </p>
-        <p xml:id="i-XDn6kPGHWd5XiQDe1AgaC9">
-          Vad avser statsrådet att göra för att kommunerna i och i nära
-          anslutning till Mälardalsregionen på bästa sätt ska kunna samarbeta
-          om bostäder, kommunikationer samt arbetsplatser?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-WFWFpso6qoVYJc6Ek36DdZ">
+            Mälardalen står för drygt 33 % av befolkningen i Sverige. Nästan
+            50 % av rikets ekonomi samt ännu större andel av den ekonomi som
+            är i tillväxt finns här. Detta är ett vanligt sätt att beskriva
+            Stockholm @ Mälardalsregionen. Men om vi tittar lite närmare på
+            den geografiska kartbild som innefattar Mälardalen kan vi se att
+            även på den kartbilden ingår det kommuner som har problem och
+            som inte känner igen sig i en beskrivning som innefattar en allmän
+            tillväxt.
+          </p>
+          <p xml:id="i-GGRPbspxz8MSF4fgg9tQLj">
+            Det vore positivt om dessa kommuner kunde få bättre förutsättningar
+            att också tillhöra denna beskrivning. Avståndet mellan kommuner
+            inom Mälardalen och de kommuner som gränsar till Mälardalsregionen
+            är inte stort. Det finns bra och någorlunda tillförlitliga kommunikationer
+            som kan användas för pendling.
+          </p>
+          <p xml:id="i-93XF9XrAQH8piN7PkUHKDD">
+            Jag menar att det inte kan vara tillväxtfrämjande att ensidigt
+            fokusera på att bygga bostäder på orter där det redan i dag är
+            för trångt. I stället bör boendet fördelas på fler orter i och
+            kring regionen. Det kan inte vara tillväxtfrämjande att ensidigt
+            stimulera boendet i Stockholmsregionen. Detta genom att lämna
+            ett större bidrag till att bygga lägenheter där, än i övriga delar
+            av Mälardalsregionen och angränsande orter.
+          </p>
+          <p xml:id="i-3EJ5G8yxHKDiTzsmpoMWac">
+            Därför vill jag fråga statsrådet:
+          </p>
+          <p xml:id="i-USuEnCvXvgrQFeRr5fz3AB">
+            Vad avser statsrådet att göra för att utjämna situationen för
+            kommunerna i och i nära anslutning till Mälardalsregionen?
+          </p>
+          <p xml:id="i-NawUvgKFDd3MM1bpryNTJv">
+            Vad avser statsrådet att göra för att kommunerna i och i nära
+            anslutning till Mälardalsregionen på bästa sätt ska kunna samarbeta
+            om bostäder, kommunikationer samt arbetsplatser?
+          </p>
+        </div>
       </div>
     </body>
   </text>

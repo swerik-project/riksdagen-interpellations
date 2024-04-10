@@ -3,94 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kooperativa hyresrätter</title>
+        <author>Danielsson, Peter (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kooperativa hyresrätter till statsrådet Lars-Erik Lövdén om kooperativa hyresrätter</title>
+          <idno type="rdwebb">GR10148</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10148/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10148</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10148</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-4Cqdpnmue4GNQh6HSQGRHK</idno>
+            <persName>Peter Danielsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>Lars-Erik Lövdén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GiKf4gMRfwXCmtvUvSZ9eW" corresp="i-4Cqdpnmue4GNQh6HSQGRHK">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3hS44ih49YQpxc3W8Xa2sZ">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Q8p51d6tiSYkyEejv69eEi">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-7A64iWEoDARpcTs5Dxm3YH" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KhSDWDH2So5DsLXiEywXFb" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-KhSDWDH2So5DsLXiEywXFb">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2003/04:148 om kooperativa hyresrätter</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0148</head>
-        <author who="i-4Cqdpnmue4GNQh6HSQGRHK">Peter Danielsson</author>
-        <recipient who="i-6qjD2tsSCtsrmXQjy7mtCJ">Lars-Erik Lövdén</recipient>
-        <topic>kooperativa hyresrätter</topic>
-        <docDate when="2003-11-24">den 24 november</docDate>
-        <status when="unknown" byWhom="Lars-Erik Lövdén" byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10148</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:148 av Peter Danielsson (m) till statsrådet
-          Lars-Erik Lövdén om kooperativa hyresrätter
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-E3Lgx1BwUensqC7vw1sq5J">
+            Interpellation 2003/04:148 av Peter Danielsson (m) till statsrådet
+            Lars-Erik Lövdén om kooperativa hyresrätter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FKmnhCfqRcYX45LdASjyQe">
+            den 24 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RENXuNfucEiSUQJmT4W4tw">
-          I proposition 2001/02:62 Kooperativ hyresrätt fastslås att den
-          kooperativa hyresrättsföreningen själv ska bestämma hyran för
-          de lägenheter som har upplåtits med kooperativ hyresrätt. Det
-          vill säga att hyreslagens bestämmelser om skälig hyra (bruksvärdesreglerna)
-          inte ska gälla.
-        </p>
-        <p xml:id="i-Fw9SjXfehDLhYQDUx1Ju4j">
-          I proposition 2001/02:58 Allmännyttiga bostadsföretag fastställs
-          att endast kommunala bostadsföretag ska vara hyresnormerande enligt
-          hyreslagens bruksvärdesregel. Samtidigt infördes en tillståndsplikt
-          vid överlåtelse av vissa allmännyttiga bostadsföretag eller bostäder.
-          Motivet till tillståndsplikten var värnandet av bruksvärdessystemet.
-          Därför kan länsstyrelsen i dag avslå ansökningar om tillstånd
-          om det kan befaras att de allmännyttiga bostadsföretagens hyror
-          till följd av överlåtelsen inte kommer att få tillräckligt genomslag
-          vid tillämpning av bruksvärdesreglerna i 12 kap. 55 § jordabalken
-          eller de hyresförhandlingar som förs enligt hyresförhandlingslagen
-          (1978:304). Så har också skett i flera olika fall, exempelvis
-          i Östberga utanför Stockholm och nyligen i Höganäs strax norr
-          om Helsingborg i Skåne.
-        </p>
-        <p xml:id="i-UqibtNmsZHwptUS4krULG7">
-          I proposition 2001/02:58 Allmännyttiga bostadsföretag undantas
-          de kooperativa hyresrätterna från tillståndsplikten. I Östbergafallet
-          har ett argument i debatten varit att östbergaborna, som ville
-          ombilda sin hyresrätt till bostadsrätt, i stället skulle ombildat
-          till kooperativ hyresrätt. Då skulle de visa att de inte hade
-          kapitalistiska motiv och dessutom skulle de inte behöva tillstånd
-          från länsstyrelsen.
-        </p>
-        <p xml:id="i-HtiaHyhkc1hwcxsSmXLwBE">
-          Nu kommer vi till den springande punkten, nämligen att länsstyrelsens
-          motiv för att stoppa ombildningen till bostadsrätterna var att
-          de allmännyttiga bostadsföretagens hyror till följd av överlåtelsen
-          inte skulle få tillräckligt genomslag vid tillämpning av bruksvärdesreglerna.
-          Problemet är bara att om lägenheterna hade ombildats till kooperativa
-          hyresrätter hade inget tillstånd behövts, men effekten för bruksvärdessystemet
-          skulle bli densamma.
-        </p>
-        <p xml:id="i-J5snvc3WEfBoxL7DBc5imo">
-          Med hänvisning till dessa fakta vill jag till statsrådet Lars-Erik
-          Lövdén ställa följande fråga:
-        </p>
-        <p xml:id="i-XmXu1MVLhWYrSRuCVsvkJ7">
-          Vilka åtgärder avser statsrådet att vidta för att ombildning
-          av hyresrätter till bostadsrätter sker efter likvärdiga villkor
-          utan att gynna en särskild upplåtelseform som kooperativa hyresrätter?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Pay3QxR8HW93sw7JqxXwzL">
+            I proposition 2001/02:62 Kooperativ hyresrätt fastslås att den
+            kooperativa hyresrättsföreningen själv ska bestämma hyran för
+            de lägenheter som har upplåtits med kooperativ hyresrätt. Det
+            vill säga att hyreslagens bestämmelser om skälig hyra (bruksvärdesreglerna)
+            inte ska gälla.
+          </p>
+          <p xml:id="i-W9FwBy7jj2vSkqmeZWFTiG">
+            I proposition 2001/02:58 Allmännyttiga bostadsföretag fastställs
+            att endast kommunala bostadsföretag ska vara hyresnormerande enligt
+            hyreslagens bruksvärdesregel. Samtidigt infördes en tillståndsplikt
+            vid överlåtelse av vissa allmännyttiga bostadsföretag eller bostäder.
+            Motivet till tillståndsplikten var värnandet av bruksvärdessystemet.
+            Därför kan länsstyrelsen i dag avslå ansökningar om tillstånd
+            om det kan befaras att de allmännyttiga bostadsföretagens hyror
+            till följd av överlåtelsen inte kommer att få tillräckligt genomslag
+            vid tillämpning av bruksvärdesreglerna i 12 kap. 55 § jordabalken
+            eller de hyresförhandlingar som förs enligt hyresförhandlingslagen
+            (1978:304). Så har också skett i flera olika fall, exempelvis
+            i Östberga utanför Stockholm och nyligen i Höganäs strax norr
+            om Helsingborg i Skåne.
+          </p>
+          <p xml:id="i-K94rqqXcVeaP3VjiS5wWAj">
+            I proposition 2001/02:58 Allmännyttiga bostadsföretag undantas
+            de kooperativa hyresrätterna från tillståndsplikten. I Östbergafallet
+            har ett argument i debatten varit att östbergaborna, som ville
+            ombilda sin hyresrätt till bostadsrätt, i stället skulle ombildat
+            till kooperativ hyresrätt. Då skulle de visa att de inte hade
+            kapitalistiska motiv och dessutom skulle de inte behöva tillstånd
+            från länsstyrelsen.
+          </p>
+          <p xml:id="i-A4Uak7YtJ8i2JtkrEYxMA3">
+            Nu kommer vi till den springande punkten, nämligen att länsstyrelsens
+            motiv för att stoppa ombildningen till bostadsrätterna var att
+            de allmännyttiga bostadsföretagens hyror till följd av överlåtelsen
+            inte skulle få tillräckligt genomslag vid tillämpning av bruksvärdesreglerna.
+            Problemet är bara att om lägenheterna hade ombildats till kooperativa
+            hyresrätter hade inget tillstånd behövts, men effekten för bruksvärdessystemet
+            skulle bli densamma.
+          </p>
+          <p xml:id="i-SNf1azuKHDUyZ31AFnjWhV">
+            Med hänvisning till dessa fakta vill jag till statsrådet Lars-Erik
+            Lövdén ställa följande fråga:
+          </p>
+          <p xml:id="i-XruiKLxvWeHcLtDMuVb6VN">
+            Vilka åtgärder avser statsrådet att vidta för att ombildning
+            av hyresrätter till bostadsrätter sker efter likvärdiga villkor
+            utan att gynna en särskild upplåtelseform som kooperativa hyresrätter?
+          </p>
+        </div>
       </div>
     </body>
   </text>

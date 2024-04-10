@@ -3,117 +3,161 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>seniorforskare vid Sveriges Lantbruksuniversitet</title>
+        <author>Wahlgren, Marie (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>seniorforskare vid Sveriges Lantbruksuniversitet till jordbruksminister Ann-Christin Nykvist om seniorforskare vid Sveriges Lantbruksuniversitet</title>
+          <idno type="rdwebb">GR10301</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10301/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10301</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10301</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-ASHgRusN9GoHAH8eioxicP</idno>
+            <persName>Marie Wahlgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-LbRbTGWymGxnTrtycgQ8PE" corresp="i-ASHgRusN9GoHAH8eioxicP">
+          <date when="2004-02-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BUKDkpLaCjYEes6ttnTF6t">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FEZbq25wNLP3oYUVkZLxZZ">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DEfS4SZ35ts4uDcsG9b32n" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2004-02-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KWRz8vWG8BDsG2WLXz8tTm" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspContext corresp="i-KWRz8vWG8BDsG2WLXz8tTm">
+          <ref type="record" target="prot-200304--083">Riksdagens protokoll 2003/04:83 Tisdagen den 16 mars</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2003/04:301 om seniorforskare vid Sveriges lantbruksuniversitet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0301</head>
-        <author who="i-ASHgRusN9GoHAH8eioxicP">Marie Wahlgren</author>
-        <recipient who="i-HhkgRHGRURfXTuftg1jHSf">Ann-Christin Nykvist</recipient>
-        <topic>seniorforskare vid Sveriges Lantbruksuniversitet</topic>
-        <docDate when="2004-02-16">den 16 februari</docDate>
-        <status when="unknown" byWhom="Ann-Christin Nykvist" byWhomId="i-HhkgRHGRURfXTuftg1jHSf" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10301</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:301 av Marie Wahlgren (fp) till jordbruksminister
-          Ann-Christin Nykvist om seniorforskare vid Sveriges Lantbruksuniversitet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CfuVqCwAbQR1t7GqbXbecc">
+            Interpellation 2003/04:301 av Marie Wahlgren (fp) till jordbruksminister
+            Ann-Christin Nykvist om seniorforskare vid Sveriges Lantbruksuniversitet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GnxPqZEFqk7gTcLTkT7eGc">
+            den 16 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-N31jnNzYntuSS19u6idL5Z">
-          Alltfler signaler finns på att bristen på långsiktig finansiering
-          av seniorforskartjänster på ett negativt sätt påverkar forskning
-          och utbildning vid bland annat Sveriges Lantbruksuniversitet (SLU).
-          I skogspropositionen sägs angående möjligheten att deltaga i ansökan
-          för större projekt till exempel Formas, MISTRA eller EU-projekt:
-        </p>
-        <p xml:id="i-LJ6wg7zTivsS3wDqco432p">
-          "Eftersom forskarnas löner i allt högre grad också finansieras
-          med projektanslag och inte med långsiktiga tjänster blir det ett
-          problem att avsätta resurser för att förbereda större ansökningar."
-        </p>
-        <p xml:id="i-APLtjq6LqziqroqT9bH33P">
-          Än tydligare blir problemet när man ser på möjligheten att behålla
-          forskare på högskolan. Under förra året sades, enligt tidningen
-          Universitetsläraren, 22 anställda akademiker upp inom SLU. I huvudsak
-          var det lärare och forskare som fick sluta på grund av resursbrist.
-          Framför allt var det forskare inom veterinärvetenskap, naturvetenskap
-          och teknik.
-        </p>
-        <p xml:id="i-QnFyAbqaFqNrMpFwdmU5cS">
-          Bakgrunden är att alltfler seniora forskare är beroende av korta
-          anslag för sin försörjning och därmed innebär det att när fokus,
-          ofta tillfälligt, flyttas från ett forskningsområde till ett annat
-          kan inte försörjningen tryggas ens för etablerade seniora forskare.
-          SLU är långt ifrån den enda högskolan som drabbats av uppsägningar
-          men är den av högskolorna som under fjolåret hade flest uppsagda
-          forskare.
-        </p>
-        <p xml:id="i-MqeStLpX4pHeWiGnwHG6TM">
-          Uppsägningarna drabbar naturligtvis inte bara dem som förlorar
-          sina jobb utan skapar också en hög grad av osäkerhet hos den personal
-          som blir kvar. Otryggheten i den egna försörjningen leder till
-          ekonomisk stress för alla på arbetsplatsen och kanske i längden
-          en större följsamhet gentemot politiska nycker inom forskningen.
-          Risken blir alltmer uppenbar att man i huvudsak bedriver den forskning
-          som beställs, snarare än den forskning som samhället verkligen
-          behöver. Den fria nyfikenhetsbaserade forskningen får stå tillbaka
-          för ganska kortsiktig planering för att maximera forskningsmedlen.
-        </p>
-        <p xml:id="i-9KqLPMf3Z7FL7txoTJ1jUM">
-          Uppsägningarna och den allmänt tunga ekonomiska situationen blir
-          svårförståelig för många när regeringen samtidigt signalerar att
-          man lägger stor vikt vid forskning och utbildning. Det är uppenbart
-          när man talar med forskare och lärare från bland annat SLU att
-          man upplever att de politiska högtidstalen inte stämmer överens
-          med den ganska krassa verkligheten.
-        </p>
-        <p xml:id="i-LmsR6CZYGumaArnkHK1wUA">
-          Flera verksamma forskare har till och med vid tillfällen sagt
-          att man i dagsläget inte skulle rekommendera yngre personer att
-          starta en akademisk karriär eftersom förhållandena är så osäkra
-          som de är. Med tanke på ofta uttalade politiska ambitioner om
-          att Sverige ska vara en ledande kunskaps- och forskningsnation
-          är detta en mycket oroande utveckling.
-        </p>
-        <p xml:id="i-C85r6RGD5JgN2UrWRJ8hoW">
-          Med anledning av dessa förhållanden har jag ett antal frågor
-          till ministern:
-        </p>
-        <p xml:id="i-JLmNETfHKoj9pezKu64Q1">
-          Vad tänker ministern göra för att göra finansieringen av verksamheten
-          för seniorforskare inom SLU:s verksamhetsområde mer långsiktig?
-        </p>
-        <p xml:id="i-Gmyhut87cpGthRqjxgSmDv">
-          Vad tänker ministern göra för att uppfylla deklarationen i regeringsförklaringen
-          om att fördubbla antalet doktorander, också inom SLU:s forskningsområden?
-        </p>
-        <p xml:id="i-Dqq31rxybi7b2onXG4i6yc">
-          Vad tänker ministern göra för att säkra tillgången på handledare
-          och seniorforskare inom SLU:s verksamhet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-558DNMFSC2h86NqBvGZGGT">
+            Alltfler signaler finns på att bristen på långsiktig finansiering
+            av seniorforskartjänster på ett negativt sätt påverkar forskning
+            och utbildning vid bland annat Sveriges Lantbruksuniversitet (SLU).
+            I skogspropositionen sägs angående möjligheten att deltaga i ansökan
+            för större projekt till exempel Formas, MISTRA eller EU-projekt:
+          </p>
+          <p xml:id="i-XkzLjJTgZd6LxghRXZbJ6v">
+            "Eftersom forskarnas löner i allt högre grad också finansieras
+            med projektanslag och inte med långsiktiga tjänster blir det ett
+            problem att avsätta resurser för att förbereda större ansökningar."
+          </p>
+          <p xml:id="i-BVw5951mvQMkBaYUZepPV3">
+            Än tydligare blir problemet när man ser på möjligheten att behålla
+            forskare på högskolan. Under förra året sades, enligt tidningen
+            Universitetsläraren, 22 anställda akademiker upp inom SLU. I huvudsak
+            var det lärare och forskare som fick sluta på grund av resursbrist.
+            Framför allt var det forskare inom veterinärvetenskap, naturvetenskap
+            och teknik.
+          </p>
+          <p xml:id="i-Q9SwR8cuDFWSiLYD4HWPJp">
+            Bakgrunden är att alltfler seniora forskare är beroende av korta
+            anslag för sin försörjning och därmed innebär det att när fokus,
+            ofta tillfälligt, flyttas från ett forskningsområde till ett annat
+            kan inte försörjningen tryggas ens för etablerade seniora forskare.
+            SLU är långt ifrån den enda högskolan som drabbats av uppsägningar
+            men är den av högskolorna som under fjolåret hade flest uppsagda
+            forskare.
+          </p>
+          <p xml:id="i-DhxwXFys73N1ftQdNCMPBw">
+            Uppsägningarna drabbar naturligtvis inte bara dem som förlorar
+            sina jobb utan skapar också en hög grad av osäkerhet hos den personal
+            som blir kvar. Otryggheten i den egna försörjningen leder till
+            ekonomisk stress för alla på arbetsplatsen och kanske i längden
+            en större följsamhet gentemot politiska nycker inom forskningen.
+            Risken blir alltmer uppenbar att man i huvudsak bedriver den forskning
+            som beställs, snarare än den forskning som samhället verkligen
+            behöver. Den fria nyfikenhetsbaserade forskningen får stå tillbaka
+            för ganska kortsiktig planering för att maximera forskningsmedlen.
+          </p>
+          <p xml:id="i-2rRVQzP619E58F43Yc9Bj2">
+            Uppsägningarna och den allmänt tunga ekonomiska situationen blir
+            svårförståelig för många när regeringen samtidigt signalerar att
+            man lägger stor vikt vid forskning och utbildning. Det är uppenbart
+            när man talar med forskare och lärare från bland annat SLU att
+            man upplever att de politiska högtidstalen inte stämmer överens
+            med den ganska krassa verkligheten.
+          </p>
+          <p xml:id="i-Y4ZejGMD1TRbc3STfFL95t">
+            Flera verksamma forskare har till och med vid tillfällen sagt
+            att man i dagsläget inte skulle rekommendera yngre personer att
+            starta en akademisk karriär eftersom förhållandena är så osäkra
+            som de är. Med tanke på ofta uttalade politiska ambitioner om
+            att Sverige ska vara en ledande kunskaps- och forskningsnation
+            är detta en mycket oroande utveckling.
+          </p>
+          <p xml:id="i-SXmWKvp45oawkYDKrYg4Xz">
+            Med anledning av dessa förhållanden har jag ett antal frågor
+            till ministern:
+          </p>
+          <p xml:id="i-2GYdKPoqsubhBGB9huQKYr">
+            Vad tänker ministern göra för att göra finansieringen av verksamheten
+            för seniorforskare inom SLU:s verksamhetsområde mer långsiktig?
+          </p>
+          <p xml:id="i-ST3gFfPgFYXxKsqn5Dp8wj">
+            Vad tänker ministern göra för att uppfylla deklarationen i regeringsförklaringen
+            om att fördubbla antalet doktorander, också inom SLU:s forskningsområden?
+          </p>
+          <p xml:id="i-6LEzCynGSPU6FYFLVkx4P7">
+            Vad tänker ministern göra för att säkra tillgången på handledare
+            och seniorforskare inom SLU:s verksamhet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

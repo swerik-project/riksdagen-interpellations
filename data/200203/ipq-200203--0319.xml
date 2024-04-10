@@ -3,109 +3,140 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>utbildningsvägarna</title>
+        <author>Nilsson, Ulf (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>utbildningsvägarna till utbildningsminister Thomas Östros om utbildningsvägarna</title>
+          <idno type="rdwebb">GQ10319</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10319/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10319</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10319</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
+            <persName>Ulf Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AFithUcJp5XyCBXJPABbdt" corresp="i-nX9ipUS8FhkbQHkWWytwf">
+          <date when="2003-05-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-W2kphXWSNQS1z2dNJMCQ1r">
+          <date when="2003-05-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TivsNR8cYAwEJPivAogdxQ">
+          <date when="2003-05-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PhUYoNovAfTvYhDpz98wrj" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-05-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-gTifKh8nGGqUysn6UgF6v" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-05-16"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0319</head>
-        <author who="i-nX9ipUS8FhkbQHkWWytwf">Ulf Nilsson</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>utbildningsvägarna</topic>
-        <docDate when="2003-05-02">den 2 maj</docDate>
-        <status when="2003-05-16" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10319</external_id>
-        <debate>
-          <turn when="2003-05-16 09:24:26" duration="326">Thomas Östros (S)</turn>
-          <turn when="2003-05-16 09:29:49" duration="256">Ulf Nilsson (Fp)</turn>
-          <turn when="2003-05-16 09:34:02" duration="235">Thomas Östros (S)</turn>
-          <turn when="2003-05-16 09:37:53" duration="264">Ulf Nilsson (Fp)</turn>
-          <turn when="2003-05-16 09:42:13" duration="251">Thomas Östros (S)</turn>
-          <turn when="2003-05-16 09:46:19" duration="140">Ulf Nilsson (Fp)</turn>
-          <turn when="2003-05-16 09:48:34" duration="126">Thomas Östros (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:319 av Ulf Nilsson (fp) till utbildningsminister
-          Thomas Östros om utbildningsvägarna
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-S1UCU7BsCUVciU3PZNYnTE">
+            Interpellation 2002/03:319 av Ulf Nilsson (fp) till utbildningsminister
+            Thomas Östros om utbildningsvägarna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GKp4rh2v51QgZ1G7RXE3sz">
+            den 2 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QBabR82h3XsN98d94tfdkv">
-          Svenska studerande tar mycket lång tid på sig innan de blir färdigutbildade.
-          För den enskilde studerande är detta ofta ett problem, inte minst
-          ekonomiskt eftersom studieskulden blir stor och livslönen låg.
-          Långa utbildningsvägar är också ett problem för landets ekonomiska
-          tillväxt, eftersom den minskande andelen förvärvsarbetande tvingas
-          svara för att finansiera alltfler pensionärer, sjukskrivna och
-          studerande. I det individuella fallet kan det alltid vara motiverat
-          att göra studieavbrott eller att byta utbildningsväg. Folkpartiet
-          menar att individen ska ha stor frihet till detta. Men problemet
-          är att de långa utbildningsvägarna uppenbarligen är konsekvensen
-          av brister i systemet och att många studerande ofrivilligt försenas
-          i sin utbildning. Jag menar att det nu är dags att sätta fokus
-          på hur många som lämnar utbildningssystemet med goda kunskaper
-          i stället för att ensidigt diskutera hur många som påbörjar en
-          utbildning.
-        </p>
-        <p xml:id="i-HadVUH8w6Q2GRaTR8ZJdAU">
-          Statistiken visar att en genomsnittlig student i Sverige tar
-          lång tid på sig genom utbildningssystemet och att många jämfört
-          med internationell statistik över huvud taget inte fullföljer
-          sina studier. Var fjärde svensk högskolestuderande avlägger en
-          examen först efter fem år. Normalstudietiden för 120 poäng är
-          satt till tre år men i verkligheten är det endast 15 % av studenterna
-          som uppnått 120 poäng efter denna tid. Genomströmningen har kraftigt
-          minskat under 1990-talet och inga tecken tyder på att denna tendens
-          är på väg att vända. Dessa uppgifter finns överskådligt sammanfattade
-          i en rapport från SACO, Kunskapens läge 2002.
-        </p>
-        <p xml:id="i-Uc4Zwax62B8qcHsQtf3Hvm">
-          Tänkbara orsaker till de svenska studenternas långa och krångliga
-          utbildningsvägar är många. Det centralstyrda antagningssystemet
-          har skapat en paradoxal situation med långa köer till vissa utbildningar
-          och lärosäten medan platser står tomma på andra. Svårigheten att
-          gå direkt från gymnasieskolan till högskolan är också uppenbar.
-          I dag är gruppen studerande som går till komvux direkt efter gymnasiet
-          lika stor som den grupp som går direkt till högskolan. Endast
-          60 % av de förstagångssökande kommer in på en utbildningsplats.
-          Gymnasieskolan misslyckas med uppdraget att förbereda elever för
-          högskolestudier, och därför måste repetitionskurser anordnas på
-          högskolan. Slutligen är undervisningssituationen vid högskolorna
-          mycket pressad, eftersom den kraftiga ökningen av utbildningsplatser
-          inte har finansierats. Tiden för undervisning och handledning
-          har minskat drastiskt, vilket särskilt drabbar studerande från
-          studieovana miljöer.
-        </p>
-        <p xml:id="i-Bp5CcKvedHpR5HEJTQLmT7">
-          Orsakerna till de långa och krångliga utbildningsvägarna är många
-          och komplexa. Inte desto mindre borde enligt min mening denna
-          fråga vara värd stor uppmärksamhet från regeringens sida.
-        </p>
-        <p xml:id="i-9qhWMPY9DuzqViKqTqqaEw">
-          Avser utbildningsministern att vidta några åtgärder för att förkorta
-          utbildningsvägarna?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-E9aTJ1towwnnFqmKBzU8pG">
+            Svenska studerande tar mycket lång tid på sig innan de blir färdigutbildade.
+            För den enskilde studerande är detta ofta ett problem, inte minst
+            ekonomiskt eftersom studieskulden blir stor och livslönen låg.
+            Långa utbildningsvägar är också ett problem för landets ekonomiska
+            tillväxt, eftersom den minskande andelen förvärvsarbetande tvingas
+            svara för att finansiera alltfler pensionärer, sjukskrivna och
+            studerande. I det individuella fallet kan det alltid vara motiverat
+            att göra studieavbrott eller att byta utbildningsväg. Folkpartiet
+            menar att individen ska ha stor frihet till detta. Men problemet
+            är att de långa utbildningsvägarna uppenbarligen är konsekvensen
+            av brister i systemet och att många studerande ofrivilligt försenas
+            i sin utbildning. Jag menar att det nu är dags att sätta fokus
+            på hur många som lämnar utbildningssystemet med goda kunskaper
+            i stället för att ensidigt diskutera hur många som påbörjar en
+            utbildning.
+          </p>
+          <p xml:id="i-3AJNrZ3xp2PivsYS34MGJd">
+            Statistiken visar att en genomsnittlig student i Sverige tar
+            lång tid på sig genom utbildningssystemet och att många jämfört
+            med internationell statistik över huvud taget inte fullföljer
+            sina studier. Var fjärde svensk högskolestuderande avlägger en
+            examen först efter fem år. Normalstudietiden för 120 poäng är
+            satt till tre år men i verkligheten är det endast 15 % av studenterna
+            som uppnått 120 poäng efter denna tid. Genomströmningen har kraftigt
+            minskat under 1990-talet och inga tecken tyder på att denna tendens
+            är på väg att vända. Dessa uppgifter finns överskådligt sammanfattade
+            i en rapport från SACO, Kunskapens läge 2002.
+          </p>
+          <p xml:id="i-WuHV5doBcFjAyEDCK1oDUa">
+            Tänkbara orsaker till de svenska studenternas långa och krångliga
+            utbildningsvägar är många. Det centralstyrda antagningssystemet
+            har skapat en paradoxal situation med långa köer till vissa utbildningar
+            och lärosäten medan platser står tomma på andra. Svårigheten att
+            gå direkt från gymnasieskolan till högskolan är också uppenbar.
+            I dag är gruppen studerande som går till komvux direkt efter gymnasiet
+            lika stor som den grupp som går direkt till högskolan. Endast
+            60 % av de förstagångssökande kommer in på en utbildningsplats.
+            Gymnasieskolan misslyckas med uppdraget att förbereda elever för
+            högskolestudier, och därför måste repetitionskurser anordnas på
+            högskolan. Slutligen är undervisningssituationen vid högskolorna
+            mycket pressad, eftersom den kraftiga ökningen av utbildningsplatser
+            inte har finansierats. Tiden för undervisning och handledning
+            har minskat drastiskt, vilket särskilt drabbar studerande från
+            studieovana miljöer.
+          </p>
+          <p xml:id="i-AfcEN9z7bmJtEtTagvJZRY">
+            Orsakerna till de långa och krångliga utbildningsvägarna är många
+            och komplexa. Inte desto mindre borde enligt min mening denna
+            fråga vara värd stor uppmärksamhet från regeringens sida.
+          </p>
+          <p xml:id="i-HJYD6itgq68NCvESESe5VD">
+            Avser utbildningsministern att vidta några åtgärder för att förkorta
+            utbildningsvägarna?
+          </p>
+        </div>
       </div>
     </body>
   </text>

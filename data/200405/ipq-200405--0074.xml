@@ -3,85 +3,129 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>restriktioner kring personer dömda till psykiatrisk vård</title>
+        <author>Nordmark, Gunnar (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>restriktioner kring personer dömda till psykiatrisk vård till statsrådet Ylva Johansson om restriktioner kring personer dömda till psykiatrisk vård</title>
+          <idno type="rdwebb">GS1074</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1074/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1074</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1074</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ga4FaAaNvVxH6nfoR7FVAe</idno>
+            <persName>Gunnar Nordmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-7zU8CNdEo4zQkBnLPZc8LK" corresp="i-Ga4FaAaNvVxH6nfoR7FVAe">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8hdrcRoranHfphZ8G2u9L3">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TFPBStVVkn3JrK8BAs2Rur">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PZNZ5KKCuVKnLrtGopQKGw" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-10-26"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HRtpXepDfixfcHRtgDQrYy" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspContext corresp="i-HRtpXepDfixfcHRtgDQrYy">
+          <ref type="record" target="prot-200405--027">Riksdagens protokoll 2004/05:27 Torsdagen den 11 november</ref>
+          <ref type="recordSection" target="unsetDivId">14 § Svar på interpellationerna 2004/05:72, 74 och 75 om den psykiatriska vården</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0074</head>
-        <author who="i-Ga4FaAaNvVxH6nfoR7FVAe">Gunnar Nordmark</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>restriktioner kring personer dömda till psykiatrisk vård</topic>
-        <docDate when="2004-10-26">den 26 oktober</docDate>
-        <status when="unknown" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1074</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:74 av Gunnar Nordmark (fp) till statsrådet
-          Ylva Johansson om restriktioner kring personer dömda till psykiatrisk
-          vård
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Pj8W6SNqUtyiBmATF1oXF5">
+            Interpellation 2004/05:74 av Gunnar Nordmark (fp) till statsrådet
+            Ylva Johansson om restriktioner kring personer dömda till psykiatrisk
+            vård
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-sA71HkNUqkx8F4dtBDon4">
+            den 26 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-HifoGCzsYj9oefAvjqXGuM">
-          För personer som dömts till fängelse finns omfattande möjligheter
-          att föreskriva restriktioner vad det gäller användande av telefon
-          och andra möjligheter att kommunicera med omvärlden.
-        </p>
-        <p xml:id="i-H3KgpnaUTihAm356QKGpW8">
-          För personer dömda till psykiatrisk vård finns inga sådana möjligheter.
-          Vid ett antal tillfällen har såväl Justitieombudsmannen som Socialstyrelsen
-          riktat kritik mot institutioner som försökt begränsa patienters
-          möjlighet att med hjälp av mobiltelefoner, brev och dylikt hota
-          eller trakassera offer för de brott de blivit dömda för eller
-          använda dessa kommunikationsvägar för att förbereda eller begå
-          nya brott.
-        </p>
-        <p xml:id="i-EMitg2wuUGNhvUkdA8mzsB">
-          För det allmänna rättsmedvetandet torde det vara stötande att
-          det är beroende på om en person döms till fängelse eller till
-          psykiatrisk vård som avgör om man som i de ovan relaterade fallen
-          ska kunna fortsätta med brottslig verksamhet eller inte.
-        </p>
-        <p xml:id="i-72MTrbHdCv5qTA6tAZDyko">
-          För brottsoffer är det säkert en skakande upplevelse att inte
-          ens en dom och verkställandet av densamma förhindrar en gärningsman
-          att fortsätta sitt brottsliga beteende. För den högt kvalificerade
-          personal som arbetar inom svensk rättspsykiatri måste det te sig
-          meningslöst att arbeta med en rehabilitering som hela tiden störs
-          av att patienten ges lagliga möjligheter att fortsätta begå brott.
-          Inte minst för patienten själv är det negativt att det inte fullt
-          ut finns åtgärder som innebär att ett brottsligt beteende bryts.
-        </p>
-        <p xml:id="i-7USK9GGAkzD7Ar54Fpcty5">
-          Landstinget i Kronoberg, regeringens egen psykiatrisamordnare
-          och ett antal motioner till riksdagen har krävt lagändring på
-          denna punkt.
-        </p>
-        <p xml:id="i-XXLDUcXbTqQyDXrPosD8YF">
-          Jag vill med anledning av ovanstående fråga vilka åtgärder statsrådet
-          Ylva Johansson är beredd att vidta.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RCQWa8VkfL6HAwRHaxrFR6">
+            För personer som dömts till fängelse finns omfattande möjligheter
+            att föreskriva restriktioner vad det gäller användande av telefon
+            och andra möjligheter att kommunicera med omvärlden.
+          </p>
+          <p xml:id="i-5W9i2AUBaesMerZoKPADjQ">
+            För personer dömda till psykiatrisk vård finns inga sådana möjligheter.
+            Vid ett antal tillfällen har såväl Justitieombudsmannen som Socialstyrelsen
+            riktat kritik mot institutioner som försökt begränsa patienters
+            möjlighet att med hjälp av mobiltelefoner, brev och dylikt hota
+            eller trakassera offer för de brott de blivit dömda för eller
+            använda dessa kommunikationsvägar för att förbereda eller begå
+            nya brott.
+          </p>
+          <p xml:id="i-AdN1pxUDtWAGqoGRBYmd3d">
+            För det allmänna rättsmedvetandet torde det vara stötande att
+            det är beroende på om en person döms till fängelse eller till
+            psykiatrisk vård som avgör om man som i de ovan relaterade fallen
+            ska kunna fortsätta med brottslig verksamhet eller inte.
+          </p>
+          <p xml:id="i-45hc6UCXPMHugErWxaWu4n">
+            För brottsoffer är det säkert en skakande upplevelse att inte
+            ens en dom och verkställandet av densamma förhindrar en gärningsman
+            att fortsätta sitt brottsliga beteende. För den högt kvalificerade
+            personal som arbetar inom svensk rättspsykiatri måste det te sig
+            meningslöst att arbeta med en rehabilitering som hela tiden störs
+            av att patienten ges lagliga möjligheter att fortsätta begå brott.
+            Inte minst för patienten själv är det negativt att det inte fullt
+            ut finns åtgärder som innebär att ett brottsligt beteende bryts.
+          </p>
+          <p xml:id="i-9KMC1CEQv8g9emncuReuRt">
+            Landstinget i Kronoberg, regeringens egen psykiatrisamordnare
+            och ett antal motioner till riksdagen har krävt lagändring på
+            denna punkt.
+          </p>
+          <p xml:id="i-R82kudbR8vLdfm5MjY9sK4">
+            Jag vill med anledning av ovanstående fråga vilka åtgärder statsrådet
+            Ylva Johansson är beredd att vidta.
+          </p>
+        </div>
       </div>
     </body>
   </text>

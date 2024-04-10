@@ -3,96 +3,144 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nedläggningar av CSN-kontor</title>
+        <author>Nordmark, Gunnar (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>nedläggningar av CSN-kontor till utbildningsminister Thomas Östros om nedläggningar av CSN-kontor</title>
+          <idno type="rdwebb">GR1020</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1020/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1020</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1020</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ga4FaAaNvVxH6nfoR7FVAe</idno>
+            <persName>Gunnar Nordmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JcTU7e9o618ufQhG5VRYie" corresp="i-Ga4FaAaNvVxH6nfoR7FVAe">
+          <date when="2003-10-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-83CGgiPTPg2ehjf25bAZ7K">
+          <date when="2003-10-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GjMQtDv6r5Hi9gnhyeujMd">
+          <date when="2003-10-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GZfvyxUgyjyAmQPgB3hMuK" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-10-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SLdqjsutQcdmf9XMz1rhG6" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2003-10-28"/>
+        </correspAction>
+        <correspContext corresp="i-SLdqjsutQcdmf9XMz1rhG6">
+          <ref type="record" target="prot-200304--020">Riksdagens protokoll 2003/04:20 Tisdagen den 28 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:20 om nedläggningar av CSN-kontor</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0020</head>
-        <author who="i-Ga4FaAaNvVxH6nfoR7FVAe">Gunnar Nordmark</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>nedläggningar av CSN-kontor</topic>
-        <docDate when="2003-10-09">den 9 oktober</docDate>
-        <status when="unknown" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1020</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:20 av Gunnar Nordmark (fp) till utbildningsminister
-          Thomas Östros om nedläggningar av CSN-kontor
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-MLBxQNi8bw4HkKaXbMzyhP">
+            Interpellation 2003/04:20 av Gunnar Nordmark (fp) till utbildningsminister
+            Thomas Östros om nedläggningar av CSN-kontor
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-3BKdtV6geSQPW92Y7zZ5dv">
+            den 9 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-A5FTN7VMyobQPuL2LwX4Wj">
-          Centrala Studiestödsnämnden har aviserat nedläggning av elva
-          av sina lokalkontor. Det handlar om kontoren i Borås, Halmstad,
-          Jönköping, Karlskrona, Karlstad, Kristianstad, Lidköping, Luleå,
-          Malmö, Växjö och Östersund. Som huvudskäl anges behov av besparingar
-          inom CSN.
-        </p>
-        <p xml:id="i-5WPD3robk5M3E72nFCvRce">
-          Självfallet kan en stor del av CSN:s huvuduppgifter hanteras
-          utan att det finns lokalkontor. IT-samhället och ett normalt fungerande
-          postväsende ger goda möjligheter att hantera dessa uppgifter både
-          effektivt och ekonomiskt och utan behov av lokalkontor på varje
-          universitets- eller högskoleort. Däremot kan det finnas skäl att
-          fråga enligt vilka principer som vissa kontor läggs ned medan
-          andra får finnas kvar. Noterbart är att tre universitetsorter
-          var och en med åtskilligt fler än 10 000 årsstuderande får sina
-          kontor nedlagda. Detsamma gäller ett antal orter med större högskolor.
-          Flera av de kontor som blir kvar finns på orter med ett relativt
-          litet antal studerande. De redogörelser som har lämnats från CSN
-          till företrädare för studentkårer och universitetsledningar vid
-          berörda orter har enligt uppgift, inte varit klarläggande.
-        </p>
-        <p xml:id="i-TyimtrkYMSUJ1quUdDA66B">
-          Genom nedskärningarna försvinner dock möjligheten till lokal
-          anknytning och personliga kontakter, något som är särskilt allvarligt
-          för studerande som av någon anledning har svårt att uppfylla CSN:s
-          krav för studiemedel. Av uppenbara skäl riskerar detta att förvärra
-          den sociala snedrekrytering som för närvarande sker till landets
-          universitet och högskolor.
-        </p>
-        <p xml:id="i-KnbwiGCNJo3xhYrUkMY3Bm">
-          Hittills har dessa frågor handlagts vid lokala samråd med representanter
-          för CSN, den lokala studenthälsan, studentkåren och den berörda
-          studenten. Hur dessa samråd nu ska ske med tillräcklig lokal förankring
-          och med bevarad rättssäkerhet för landets studerande, har det
-          inte getts besked om.
-        </p>
-        <p xml:id="i-EYi2qYDx2XnURLdYpjughw">
-          Jag vill fråga utbildningsminister Thomas Östros:
-        </p>
-        <p xml:id="i-Q2emzQCZp66Nx7F4H98V2z">
-          1. Vilka bedömningar från utbildningsministerns sida har varit
-          styrande för förslaget om vilka av CSN:s lokalkontor som ska läggas
-          ned och vilka som ska finnas kvar?
-        </p>
-        <p xml:id="i-3WWyDLaN6n9kig8Je4AMtq">
-          2. Vilka åtgärder avser utbildningsminister Thomas Östros att
-          vidta för att garantera den lokala anknytningen och de personliga
-          kontakter som behövs vid samråd kring studenter som har svårt
-          att uppfylla CSN:s krav för studiemedel?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QfRL9svPYr3zkqCHxQyMgK">
+            Centrala Studiestödsnämnden har aviserat nedläggning av elva
+            av sina lokalkontor. Det handlar om kontoren i Borås, Halmstad,
+            Jönköping, Karlskrona, Karlstad, Kristianstad, Lidköping, Luleå,
+            Malmö, Växjö och Östersund. Som huvudskäl anges behov av besparingar
+            inom CSN.
+          </p>
+          <p xml:id="i-FSjPBqcaJcnHYJ1Mok54ZT">
+            Självfallet kan en stor del av CSN:s huvuduppgifter hanteras
+            utan att det finns lokalkontor. IT-samhället och ett normalt fungerande
+            postväsende ger goda möjligheter att hantera dessa uppgifter både
+            effektivt och ekonomiskt och utan behov av lokalkontor på varje
+            universitets- eller högskoleort. Däremot kan det finnas skäl att
+            fråga enligt vilka principer som vissa kontor läggs ned medan
+            andra får finnas kvar. Noterbart är att tre universitetsorter
+            var och en med åtskilligt fler än 10 000 årsstuderande får sina
+            kontor nedlagda. Detsamma gäller ett antal orter med större högskolor.
+            Flera av de kontor som blir kvar finns på orter med ett relativt
+            litet antal studerande. De redogörelser som har lämnats från CSN
+            till företrädare för studentkårer och universitetsledningar vid
+            berörda orter har enligt uppgift, inte varit klarläggande.
+          </p>
+          <p xml:id="i-3Bh5p2n1y6KbNvnPx93WZw">
+            Genom nedskärningarna försvinner dock möjligheten till lokal
+            anknytning och personliga kontakter, något som är särskilt allvarligt
+            för studerande som av någon anledning har svårt att uppfylla CSN:s
+            krav för studiemedel. Av uppenbara skäl riskerar detta att förvärra
+            den sociala snedrekrytering som för närvarande sker till landets
+            universitet och högskolor.
+          </p>
+          <p xml:id="i-YE6FKeCTTVCMNYrm1E2nJN">
+            Hittills har dessa frågor handlagts vid lokala samråd med representanter
+            för CSN, den lokala studenthälsan, studentkåren och den berörda
+            studenten. Hur dessa samråd nu ska ske med tillräcklig lokal förankring
+            och med bevarad rättssäkerhet för landets studerande, har det
+            inte getts besked om.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-3tx3DxXrKfCwiHFtWPNho5">
+            Jag vill fråga utbildningsminister Thomas Östros:
+            <list rend="unordered">
+              <item>
+                1. Vilka bedömningar från utbildningsministerns sida har varit
+                styrande för förslaget om vilka av CSN:s lokalkontor som ska läggas
+                ned och vilka som ska finnas kvar?
+              </item>
+              <item>
+                2. Vilka åtgärder avser utbildningsminister Thomas Östros att
+                vidta för att garantera den lokala anknytningen och de personliga
+                kontakter som behövs vid samråd kring studenter som har svårt
+                att uppfylla CSN:s krav för studiemedel?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

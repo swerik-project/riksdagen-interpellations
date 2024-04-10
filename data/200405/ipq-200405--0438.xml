@@ -3,110 +3,148 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fastighetstaxeringen</title>
+        <author>Johansson, Jörgen (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>fastighetstaxeringen till finansminister Pär Nuder om fastighetstaxeringen</title>
+          <idno type="rdwebb">GS10438</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10438/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10438</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10438</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
+            <persName>Jörgen Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-FzKfAWzLVbXYYrVNcu4qsz">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-9aURPV8uDWQkvzakmaCH21" corresp="i-AyN7HRP1y38PeQoLunJifb">
+          <date when="2005-03-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7VgWoBwVTVFPDkzxCoGgxf">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VTycK2CuHmSRjUaRbtuabR" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-97QNahTQBQukPnSJpeTRfM" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspContext corresp="i-97QNahTQBQukPnSJpeTRfM">
+          <ref type="record" target="prot-200405--125">Riksdagens protokoll 2004/05:125 Tisdagen den 24 maj</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:438 om fastighetstaxeringen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0438</head>
-        <author who="i-AyN7HRP1y38PeQoLunJifb">Jörgen Johansson</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>fastighetstaxeringen</topic>
-        <docDate when="2005-03-04">den 4 mars</docDate>
-        <status when="2005-05-24" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10438</external_id>
-        <debate>
-          <turn when="2005-05-24 14:59:10" duration="223">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:02:49" duration="254">Jörgen Johansson (C)</turn>
-          <turn when="2005-05-24 15:07:00" duration="188">Lennart Hedquist (M)</turn>
-          <turn when="2005-05-24 15:10:05" duration="242">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:14:03" duration="188">Jörgen Johansson (C)</turn>
-          <turn when="2005-05-24 15:17:07" duration="161">Lennart Hedquist (M)</turn>
-          <turn when="2005-05-24 15:19:44" duration="152">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:22:13" duration="112">Jörgen Johansson (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:438 av Jörgen Johansson (c) till finansminister
-          Pär Nuder om fastighetstaxeringen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GrpBFimsjYMTEiLkB129C9">
+            Interpellation 2004/05:438 av Jörgen Johansson (c) till finansminister
+            Pär Nuder om fastighetstaxeringen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WUa7PA2xfCWJEA93uxgLKW">
+            den 4 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QShp9njtGAFLvVEtkaxSEd">
-          För att ett samhälle ska kunna klassas som rättssäkert finns
-          det ett antal anständighetskrav, varav ett flertal rör området
-          för beskattning. Medborgare har rätt att veta varför beskattning
-          sker, hur mycket skatten är och hur mycket den kommer att öka.
-          Vidare ska systemet vara begripligt, bygga på objektiva variabler
-          och vid oklarheter ska det finnas möjlighet att få beslutet prövat
-          av högre instanser.
-        </p>
-        <p xml:id="i-CgH9ENDnddPdzHh2H8j82Z">
-          Det svenska systemet för taxering av fastigheter är tack vare
-          dess nuvarande konstruktion en manual för hur man kan göra ett
-          skattesystem rättsosäkert, med godtyckliga beslut som en vital
-          princip.
-        </p>
-        <p xml:id="i-VScBic5mgcLY3sKgHEPaZD">
-          Den nuvarande ordningen med fastigheter indelade i värdeområden
-          som nivåsätts från ett medelvärde av genomförda förvärv är ohållbar.
-          Systemet bygger på att Skatteverket ska gallra ut de förvärv som
-          inte anses representativa. I praktiken leder förfaringssättet
-          till att taxeringsvärden ökar kraftigt, framför allt i vissa attraktiva
-          lägen. Systemet bygger dessutom på ett godtyckligt förfarande
-          vid bedömningen om ett förvärv ska anses som representativt eller
-          ej. Det stora antalet värdeområden gör att det i varje område
-          inte kommer att finnas ett tillräckligt stort antal förvärv för
-          att få till stånd ett rättvisande statistiskt underlag. Jag menar
-          att en minskning av antalet värdeområden skulle kunna vara ett
-          första steg till att minska godtycket inom fastighetstaxeringen.
-        </p>
-        <p xml:id="i-PK7ThsZuapjgrHDboMMNY9">
-          Ett av de senaste exemplen i raden av orimliga bedömningar är
-          fastighetstaxeringen på Käringön i Bohuslän som har varit föremål
-          för rättslig prövning. En fastighet med 58 kvadratmeter stor boyta
-          och en lika stor tomt med tidigt 1800-tal som byggnadsår utan
-          sjöutsikt fick ett taxeringsvärde på hisnande 2 478 000 kr, vilket
-          gör att Skatteverket inbillar sig att marknadsvärdet är drygt
-          3,3 miljoner kronor då taxeringsvärdet ska utgöra 75 % av saluvärdet!
-          Efter överklagan har Skatteverket sänkt taxeringsvärdet till 1,5
-          miljoner kronor. Denna historia är långt ifrån unik och är ett
-          tecken på att systemet behöver reformeras i grunden, i syfte att
-          skapa en fastighetstaxering som upplevs som rimlig, rättvis och
-          förutsägbar.
-        </p>
-        <p xml:id="i-2sb4DKEpyNzU5DvJXoU5Ja">
-          Med anledning av ovanstående vill jag fråga finansministern:
-        </p>
-        <p xml:id="i-LAZCkCVzR66WqvHLdCWSb6">
-          1. Är finansministern beredd att överväga en minskning av antalet
-          värdeområden inom fastighetstaxeringen för att göra systemet mindre
-          godtyckligt?
-        </p>
-        <p xml:id="i-Fr9gChCHCchZs95LdAoNnm">
-          2. Vilka andra åtgärder avser finansministern att vidta för att
-          öka rättssäkerheten och minska godtycket inom fastighetstaxeringen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-X9GA1awvNNNZfLwEUePBnT">
+            För att ett samhälle ska kunna klassas som rättssäkert finns
+            det ett antal anständighetskrav, varav ett flertal rör området
+            för beskattning. Medborgare har rätt att veta varför beskattning
+            sker, hur mycket skatten är och hur mycket den kommer att öka.
+            Vidare ska systemet vara begripligt, bygga på objektiva variabler
+            och vid oklarheter ska det finnas möjlighet att få beslutet prövat
+            av högre instanser.
+          </p>
+          <p xml:id="i-DFNQ5cPCXNCMT2KroGrfiJ">
+            Det svenska systemet för taxering av fastigheter är tack vare
+            dess nuvarande konstruktion en manual för hur man kan göra ett
+            skattesystem rättsosäkert, med godtyckliga beslut som en vital
+            princip.
+          </p>
+          <p xml:id="i-ExANyGzESimfUWZEhSCiiY">
+            Den nuvarande ordningen med fastigheter indelade i värdeområden
+            som nivåsätts från ett medelvärde av genomförda förvärv är ohållbar.
+            Systemet bygger på att Skatteverket ska gallra ut de förvärv som
+            inte anses representativa. I praktiken leder förfaringssättet
+            till att taxeringsvärden ökar kraftigt, framför allt i vissa attraktiva
+            lägen. Systemet bygger dessutom på ett godtyckligt förfarande
+            vid bedömningen om ett förvärv ska anses som representativt eller
+            ej. Det stora antalet värdeområden gör att det i varje område
+            inte kommer att finnas ett tillräckligt stort antal förvärv för
+            att få till stånd ett rättvisande statistiskt underlag. Jag menar
+            att en minskning av antalet värdeområden skulle kunna vara ett
+            första steg till att minska godtycket inom fastighetstaxeringen.
+          </p>
+          <p xml:id="i-SXfTg4cP3dATKzBHK5hjCA">
+            Ett av de senaste exemplen i raden av orimliga bedömningar är
+            fastighetstaxeringen på Käringön i Bohuslän som har varit föremål
+            för rättslig prövning. En fastighet med 58 kvadratmeter stor boyta
+            och en lika stor tomt med tidigt 1800-tal som byggnadsår utan
+            sjöutsikt fick ett taxeringsvärde på hisnande 2 478 000 kr, vilket
+            gör att Skatteverket inbillar sig att marknadsvärdet är drygt
+            3,3 miljoner kronor då taxeringsvärdet ska utgöra 75 % av saluvärdet!
+            Efter överklagan har Skatteverket sänkt taxeringsvärdet till 1,5
+            miljoner kronor. Denna historia är långt ifrån unik och är ett
+            tecken på att systemet behöver reformeras i grunden, i syfte att
+            skapa en fastighetstaxering som upplevs som rimlig, rättvis och
+            förutsägbar.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-3DZaaFdKmeTA8wrY5SyJAF">
+            Med anledning av ovanstående vill jag fråga finansministern:
+            <list rend="unordered">
+              <item>
+                1. Är finansministern beredd att överväga en minskning av antalet
+                värdeområden inom fastighetstaxeringen för att göra systemet mindre
+                godtyckligt?
+              </item>
+              <item>
+                2. Vilka andra åtgärder avser finansministern att vidta för att
+                öka rättssäkerheten och minska godtycket inom fastighetstaxeringen?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

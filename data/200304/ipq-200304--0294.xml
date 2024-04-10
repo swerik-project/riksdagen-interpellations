@@ -3,84 +3,119 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kvalitetsproblem i det svenska utredningsväsendet</title>
+        <author>Krantz, Tobias (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kvalitetsproblem i det svenska utredningsväsendet till statsrådet Gunnar Lund om kvalitetsproblem i det svenska utredningsväsendet</title>
+          <idno type="rdwebb">GR10294</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10294/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10294</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10294</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-JiKLWE2ou2TDKRxRVs3oyP" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
+          <date when="2004-02-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Swt1Ce8v1GqAm9p8Xu5Yws">
+          <date when="2004-02-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CovA2KF1tUbfuHAM34kVwY">
+          <date when="2004-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PnahM8sSLKMkf4XNoqFnWN" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2004-02-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-G6tgPMTugENtsZ2rtDDmWQ" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2004-03-09"/>
+        </correspAction>
+        <correspContext corresp="i-G6tgPMTugENtsZ2rtDDmWQ">
+          <ref type="record" target="prot-200304--079">Riksdagens protokoll 2003/04:79 Tisdagen den 9 mars</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2003/04:294 om kvalitetsproblem i det svenska utredningsväsendet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0294</head>
-        <author who="i-UnkrZ3NAvoWXY6Krxbkudq">Tobias Krantz</author>
-        <recipient who="i-GRX2GfDazmcwmcRyZSiKdA">Gunnar Lund</recipient>
-        <topic>kvalitetsproblem i det svenska utredningsväsendet</topic>
-        <docDate when="2004-02-13">den 13 februari</docDate>
-        <status when="2004-03-09" byWhom="Gunnar Lund" byWhomId="i-GRX2GfDazmcwmcRyZSiKdA" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10294</external_id>
-        <debate>
-          <turn when="2004-03-09 15:28:54" duration="297">Gunnar Lund (S)</turn>
-          <turn when="2004-03-09 15:33:47" duration="235">Tobias Krantz (Fp)</turn>
-          <turn when="2004-03-09 15:37:38" duration="241">Gunnar Lund (S)</turn>
-          <turn when="2004-03-09 15:41:35" duration="250">Tobias Krantz (Fp)</turn>
-          <turn when="2004-03-09 15:45:41" duration="233">Gunnar Lund (S)</turn>
-          <turn when="2004-03-09 15:49:30" duration="134">Tobias Krantz (Fp)</turn>
-          <turn when="2004-03-09 15:51:40" duration="313">Gunnar Lund (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:294 av Tobias Krantz (fp) till statsrådet
-          Gunnar Lund om kvalitetsproblem i det svenska utredningsväsendet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JHpjM7PDUtPbnGiGiZWMnU">
+            Interpellation 2003/04:294 av Tobias Krantz (fp) till statsrådet
+            Gunnar Lund om kvalitetsproblem i det svenska utredningsväsendet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KmPUjcFYS7xJggL7H3xG9H">
+            den 13 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8zYKhCeqSHJWDWRqQ5pUNG">
-          Resonemangen och slutsatserna är inte tillräckligt väl underbyggda
-          i form av data, analys och dokumentation. Kontakterna med forskningen
-          är bristfällig. Det finns omfattande brister i analyser och redovisning
-          av kostnader och finansiering av olika utredningsförslag. Riksrevisionens
-          nyligen publicerade rapport (RIR 2004:2) är en svidande vidräkning
-          med tillståndet i det svenska utredningsväsendet.
-        </p>
-        <p xml:id="i-2G6aL3vL5ZRxXtUJFqsiQb">
-          Hög kvalitet i de statliga utredningarna är en förutsättning
-          för att regering och riksdag ska kunna fatta väl övervägda och
-          genomtänkta beslut. Om det brister i beslutsunderlaget får det
-          obönhörligen negativa konsekvenser också för lagstiftningen. Det
-          kan exempelvis leda till att lagstiftningen inte får de effekter
-          som beslutsfattarna har avsett. Ytterst kan det drabba den enskilde
-          medborgaren hårt.
-        </p>
-        <p xml:id="i-QZ61vXiDwFfFero3gfXZyd">
-          Riksrevisionens kritik måste därför tas på största allvar. Det
-          är också viktigt att poängtera att det inte är första gången som
-          kvaliteten i de statliga utredningarna kritiseras. Redan 1997
-          pekade Riksdagens revisorer på en rad av de brister som nu också
-          Riksrevisionen uppmärksammar. Trots att det har gått mer än sex
-          år kvarstår flera av bristerna.
-        </p>
-        <p xml:id="i-YbcKyKkErpDqa7N7rWg12D">
-          Med anledning av vad som ovan har anförts vill jag fråga statsrådet
-          vilka åtgärder han avser att vidta i syfte att åtgärda kvalitetsproblemen
-          i det svenska utredningsväsendet.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3wdxrPu4ZefrASAkStrTge">
+            Resonemangen och slutsatserna är inte tillräckligt väl underbyggda
+            i form av data, analys och dokumentation. Kontakterna med forskningen
+            är bristfällig. Det finns omfattande brister i analyser och redovisning
+            av kostnader och finansiering av olika utredningsförslag. Riksrevisionens
+            nyligen publicerade rapport (RIR 2004:2) är en svidande vidräkning
+            med tillståndet i det svenska utredningsväsendet.
+          </p>
+          <p xml:id="i-V5dND3zDosfRret5F2hZby">
+            Hög kvalitet i de statliga utredningarna är en förutsättning
+            för att regering och riksdag ska kunna fatta väl övervägda och
+            genomtänkta beslut. Om det brister i beslutsunderlaget får det
+            obönhörligen negativa konsekvenser också för lagstiftningen. Det
+            kan exempelvis leda till att lagstiftningen inte får de effekter
+            som beslutsfattarna har avsett. Ytterst kan det drabba den enskilde
+            medborgaren hårt.
+          </p>
+          <p xml:id="i-JRLvfdGvZLzu5wu2VJbRpX">
+            Riksrevisionens kritik måste därför tas på största allvar. Det
+            är också viktigt att poängtera att det inte är första gången som
+            kvaliteten i de statliga utredningarna kritiseras. Redan 1997
+            pekade Riksdagens revisorer på en rad av de brister som nu också
+            Riksrevisionen uppmärksammar. Trots att det har gått mer än sex
+            år kvarstår flera av bristerna.
+          </p>
+          <p xml:id="i-KE1LD74PUZ8y2Ju7vybFUF">
+            Med anledning av vad som ovan har anförts vill jag fråga statsrådet
+            vilka åtgärder han avser att vidta i syfte att åtgärda kvalitetsproblemen
+            i det svenska utredningsväsendet.
+          </p>
+        </div>
       </div>
     </body>
   </text>

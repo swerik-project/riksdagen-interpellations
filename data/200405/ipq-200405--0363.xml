@@ -3,104 +3,135 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>obligatorisk bostadsförmedling</title>
+        <author>Lundström, Nina (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>obligatorisk bostadsförmedling till samhällsbyggnadsminister Mona Sahlin om obligatorisk bostadsförmedling</title>
+          <idno type="rdwebb">GS10363</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10363/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10363</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10363</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D6V9ti7ETxin1WbJjDaShE</idno>
+            <persName>Nina Lundström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5WxpBpikfKspvCmFCh7eA4" corresp="i-D6V9ti7ETxin1WbJjDaShE">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4gwvD9wGBJw3FzRr4EAyCi">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-B6pFvJQoYV34hyRLYS41Zf">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-N7BHNrAb1CsDtMvQnSHsfV" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Nep1dNu7QGD77kP7vCZZ4B" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspContext corresp="i-Nep1dNu7QGD77kP7vCZZ4B">
+          <ref type="record" target="prot-200405--094">Riksdagens protokoll 2004/05:94 Tisdagen den 22 mars</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:363 om obligatorisk bostadsförmedling</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0363</head>
-        <author who="i-D6V9ti7ETxin1WbJjDaShE">Nina Lundström</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>obligatorisk bostadsförmedling</topic>
-        <docDate when="2005-02-08">den 8 februari</docDate>
-        <status when="2005-03-22" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10363</external_id>
-        <debate>
-          <turn when="2005-03-22 14:44:09" duration="168">Mona Sahlin (S)</turn>
-          <turn when="2005-03-22 14:46:53" duration="212">Nina Lundström (Fp)</turn>
-          <turn when="2005-03-22 14:50:21" duration="239">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-22 14:54:16" duration="234">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-03-22 14:58:07" duration="272">Mona Sahlin (S)</turn>
-          <turn when="2005-03-22 15:02:36" duration="239">Nina Lundström (Fp)</turn>
-          <turn when="2005-03-22 15:06:31" duration="128">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-22 15:08:34" duration="138">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-03-22 15:10:49" duration="254">Mona Sahlin (S)</turn>
-          <turn when="2005-03-22 15:14:59" duration="130">Nina Lundström (Fp)</turn>
-          <turn when="2005-03-22 15:17:05" duration="124">Mona Sahlin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:363 av Nina Lundström (fp) till samhällsbyggnadsminister
-          Mona Sahlin om obligatorisk bostadsförmedling
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-V9pqnQg9YxabawiM46cF9S">
+            Interpellation 2004/05:363 av Nina Lundström (fp) till samhällsbyggnadsminister
+            Mona Sahlin om obligatorisk bostadsförmedling
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-VNqro1rJKQkmHELkHsUYbF">
+            den 8 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KtWExdRQHBHDpGNnsAb3tk">
-          Regeringen ville genom en proposition hösten 2000 förtydliga
-          det kommunala ansvaret för bostadsförsörjningen, vilket resulterade
-          i att en lag infördes om kommunernas bostadsförsörjningsansvar.
-          Enligt lagförslaget ska varje kommun vara skyldig att planera
-          för bostadsförsörjningen i kommunen och kommunfullmäktige ska
-          anta riktlinjer för bostadsförsörjningen. Om det behövs ska kommunen
-          även samråda med andra kommuner. Enligt lagen ska en kommun vara
-          skyldig att anordna bostadsförmedling om det behövs för att främja
-          bostadsförsörjningen.
-        </p>
-        <p xml:id="i-TJ626ESGaw8VHTktTfx5ZN">
-          Enligt förslaget ska regeringen kunna förelägga en kommun att
-          anordna kommunal bostadsförmedling. Riksdagen gick regeringen
-          till mötes på denna punkt och förslaget antogs. Samhällsbyggnadsministern
-          kan därmed redan nu förelägga en kommun att införa en bostadsförmedling
-          i enlighet med regeringens eget förslag. Det behövs inga ytterligare
-          åtgärder på denna punkt.
-        </p>
-        <p xml:id="i-QFwwHJsiMLkNPGdLqv95ys">
-          Det är vida känt att kommunerna inte förordar obligatoriska bostadsförmedlingar.
-          De som så önskar kan inrätta bostadsförmedlingar och flertalet
-          kommuner har inget som helst behov av sådana.
-        </p>
-        <p xml:id="i-Km4orLHpCzMMZvSQBB81GZ">
-          Bostadsförmedlingar bygger på att man inrättar kösystem, men
-          ger i sig ingen garanterad rätt att få en bostad. Bostadssökande
-          kan bli erbjuden en bostad, men därefter ska hyresvärden godkänna
-          den nya hyresgästen innan kontrakt skrivs. I dag finns det tendenser
-          till så kallad "kräsenhet" bland hyresvärdarna, beroende på den
-          akuta bostadsbristen. Det absolut viktigaste är att det byggs
-          bostäder för att öka tillgången. Det är även viktigt att se över
-          möjligheten att stärka konsumentens roll genom att utvärdera de
-          krav som kan ställas. Jag tror att den frivilliga vägen är en
-          mer framgångsrik väg, men konsumentskyddet behöver ses över. Det
-          är dock angeläget att få veta om regeringen avser att använda
-          sig av möjligheten att förelägga en kommun att inrätta en bostadsförmedling
-          och på vilket sätt detta påverkar det kommunala självstyret.
-        </p>
-        <p xml:id="i-WQUXR3WSXfxxP94HswLkHM">
-          Därför vill jag fråga samhällsbyggnadsminister Mona Sahlin följande:
-        </p>
-        <p xml:id="i-6W6GvkkFfwqKUEr9rY1rjs">
-          Kommer statsrådet verka för att kommunerna föreläggs att anordna
-          kommunal bostadsförmedling i enlighet med gällande lagstiftning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BLPmEfwPoP1RBTGdAzvRSb">
+            Regeringen ville genom en proposition hösten 2000 förtydliga
+            det kommunala ansvaret för bostadsförsörjningen, vilket resulterade
+            i att en lag infördes om kommunernas bostadsförsörjningsansvar.
+            Enligt lagförslaget ska varje kommun vara skyldig att planera
+            för bostadsförsörjningen i kommunen och kommunfullmäktige ska
+            anta riktlinjer för bostadsförsörjningen. Om det behövs ska kommunen
+            även samråda med andra kommuner. Enligt lagen ska en kommun vara
+            skyldig att anordna bostadsförmedling om det behövs för att främja
+            bostadsförsörjningen.
+          </p>
+          <p xml:id="i-2kbjgmJspadBmfQgyYfpga">
+            Enligt förslaget ska regeringen kunna förelägga en kommun att
+            anordna kommunal bostadsförmedling. Riksdagen gick regeringen
+            till mötes på denna punkt och förslaget antogs. Samhällsbyggnadsministern
+            kan därmed redan nu förelägga en kommun att införa en bostadsförmedling
+            i enlighet med regeringens eget förslag. Det behövs inga ytterligare
+            åtgärder på denna punkt.
+          </p>
+          <p xml:id="i-Wskodm4XsFEJvsqMsMmF5u">
+            Det är vida känt att kommunerna inte förordar obligatoriska bostadsförmedlingar.
+            De som så önskar kan inrätta bostadsförmedlingar och flertalet
+            kommuner har inget som helst behov av sådana.
+          </p>
+          <p xml:id="i-2DTGMBoRiznUCuMLvWotyq">
+            Bostadsförmedlingar bygger på att man inrättar kösystem, men
+            ger i sig ingen garanterad rätt att få en bostad. Bostadssökande
+            kan bli erbjuden en bostad, men därefter ska hyresvärden godkänna
+            den nya hyresgästen innan kontrakt skrivs. I dag finns det tendenser
+            till så kallad "kräsenhet" bland hyresvärdarna, beroende på den
+            akuta bostadsbristen. Det absolut viktigaste är att det byggs
+            bostäder för att öka tillgången. Det är även viktigt att se över
+            möjligheten att stärka konsumentens roll genom att utvärdera de
+            krav som kan ställas. Jag tror att den frivilliga vägen är en
+            mer framgångsrik väg, men konsumentskyddet behöver ses över. Det
+            är dock angeläget att få veta om regeringen avser att använda
+            sig av möjligheten att förelägga en kommun att inrätta en bostadsförmedling
+            och på vilket sätt detta påverkar det kommunala självstyret.
+          </p>
+          <p xml:id="i-3a7rK6jwiyJSKeN2UKfjwU">
+            Därför vill jag fråga samhällsbyggnadsminister Mona Sahlin följande:
+          </p>
+          <p xml:id="i-5z1qxTP6FE8DwSkWiEc7Lc">
+            Kommer statsrådet verka för att kommunerna föreläggs att anordna
+            kommunal bostadsförmedling i enlighet med gällande lagstiftning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

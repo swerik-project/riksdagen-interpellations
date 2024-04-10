@@ -3,101 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>rävbandmask</title>
+        <author>Elmsäter-Svärd, Catharina (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>rävbandmask till jordbruksminister Ann-Christin Nykvist om rävbandmask</title>
+          <idno type="rdwebb">GS10549</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10549/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10549</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10549</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-J7LihzSktwE55CCSfYQXLk</idno>
+            <persName>Catharina Elmsäter-Svärd</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GvrLjrKDhLkUrUDdK95GWF" corresp="i-J7LihzSktwE55CCSfYQXLk">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TyTfNPNGEAaNva1edqSzkG">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4Ja1WhL3Ps5EbXCSsTndGm">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8fjwXvN7uqzonyrcEbAPVW" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Axb3TRhbPBqwMPfYmkGi4k" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspContext corresp="i-Axb3TRhbPBqwMPfYmkGi4k">
+          <ref type="record" target="prot-200405--123">Riksdagens protokoll 2004/05:123 Torsdagen den 19 maj</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:549 om rävbandmask</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0549</head>
-        <author who="i-J7LihzSktwE55CCSfYQXLk">Catharina Elmsäter-Svärd</author>
-        <recipient who="i-HhkgRHGRURfXTuftg1jHSf">Ann-Christin Nykvist</recipient>
-        <topic>rävbandmask</topic>
-        <docDate when="2005-04-25">den 25 april</docDate>
-        <status when="2005-05-19" byWhom="Ann-Christin Nykvist" byWhomId="i-HhkgRHGRURfXTuftg1jHSf" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10549</external_id>
-        <debate>
-          <turn when="2005-05-19 13:30:30" duration="425">Ann-Christin Nykvist (S)</turn>
-          <turn when="2005-05-19 13:37:31" duration="254">Catharina Elmsäter-Svärd (M)</turn>
-          <turn when="2005-05-19 13:41:41" duration="124">Ulf Sjösten (M)</turn>
-          <turn when="2005-05-19 13:43:42" duration="247">Ann-Christin Nykvist (S)</turn>
-          <turn when="2005-05-19 13:47:43" duration="110">Catharina Elmsäter-Svärd (M)</turn>
-          <turn when="2005-05-19 13:49:29" duration="57">Ulf Sjösten (M)</turn>
-          <turn when="2005-05-19 13:50:22" duration="178">Ann-Christin Nykvist (S)</turn>
-          <turn when="2005-05-19 13:53:16" duration="97">Catharina Elmsäter-Svärd (M)</turn>
-          <turn when="2005-05-19 13:54:49" duration="367">Ann-Christin Nykvist (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:549 av Catharina Elmsäter-Svärd (m) till
-          jordbruksminister Ann-Christin Nykvist om rävbandmask
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QNFawsQz4qCzBAUoeuhtCi">
+            Interpellation 2004/05:549 av Catharina Elmsäter-Svärd (m) till
+            jordbruksminister Ann-Christin Nykvist om rävbandmask
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-J51WmB8GsySnPdVMYV4awi">
+            den 25 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-LftpoybLbAGvY1zughEPGu">
-          I Sverige, Norge och Finland har vi länge haft en särställning
-          när det gäller smittsamma djursjukdomar. Vi har varit skyddade
-          på grund av vårt geografiska läge och vi har utnyttjat detta mycket
-          framgångsrikt genom bra sjukdomsbekämpningsprogram @ mul- och
-          klövsjuka, smittsam kastning, tuberkulos till exempel. Detta har
-          sedan följts upp med lagar om kontroll vid införsel av djur. Beroende
-          på land och djurslag såg bestämmelserna olika ut, men vid risk
-          för exempelvis rabies måste djuret sättas i karantän. Alla har
-          varit överens om att detta var bra. Efter EU-medlemskapet råder
-          andra gemensamma överenskommelser.
-        </p>
-        <p xml:id="i-NoouxbvY2BZrFszU1HobWe">
-          I dag har karantän för hundar från EU-länderna på kontinenten
-          ersatts av krav på vaccination mot rabies och krav på avmaskning
-          med avseende på rävbandmask (dvärgbandmask). Om dessa krav följs
-          vid alla hundimporter har man nog ändå ett hyfsat skydd. Det som
-          nu är en alltmer framträdande risk mot att detta sköts är den
-          för vanligt förekommande smugglingen av sällskapsdjur in till
-          Sverige! Detta görs av människor som aningslöst och av okunskap
-          om bland annat riskerna hittat en form att skaffa ett djur.
-        </p>
-        <p xml:id="i-MrhZcmxaZRg9akoQYwXcZS">
-          Den fruktade rävbandmasken är inte något som vi vet i dag finns
-          i Sverige. Om den kommer in med något djur finns stor risk för
-          människors hälsa. Avföring från smittat djur sprider lätt vidare
-          sjukdom över till exempel blåbärsrisen och dess bär. Om människor
-          sedan äter av dessa kan en levercancerliknande sjukdom uppstå,
-          som i värsta fall innebär dödlig utgång.
-        </p>
-        <p xml:id="i-9bu7jPWu4acvAxeE7ZjBCJ">
-          Detta har gjort att länder som har smittan runtom i Europa särskilt
-          valt att upplysa allmänheten. Veterinärparasitologer i Polen vid
-          Vetenskapsakademin i Warszawa har till exempel länge sysslat med
-          rävbandmaskproblemet. De ger ut varningsbroschyrer till allmänheten.
-          Mina frågor till ministern är därför:
-        </p>
-        <p xml:id="i-AT27BBySWRCkXoWhNVJVAU">
-          1. Vilka åtgärder avser ministern att vidta för att denna rävbandmask
-          inte ska komma in i Sverige?
-        </p>
-        <p xml:id="i-5C7ynkQDjPS1zxZbxiDG5T">
-          2. På vilket sätt avser ministern att verka för att aktivt upplysa
-          allmänheten om problemet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-MAo963byBqSqYT7b3LoLU">
+            I Sverige, Norge och Finland har vi länge haft en särställning
+            när det gäller smittsamma djursjukdomar. Vi har varit skyddade
+            på grund av vårt geografiska läge och vi har utnyttjat detta mycket
+            framgångsrikt genom bra sjukdomsbekämpningsprogram @ mul- och
+            klövsjuka, smittsam kastning, tuberkulos till exempel. Detta har
+            sedan följts upp med lagar om kontroll vid införsel av djur. Beroende
+            på land och djurslag såg bestämmelserna olika ut, men vid risk
+            för exempelvis rabies måste djuret sättas i karantän. Alla har
+            varit överens om att detta var bra. Efter EU-medlemskapet råder
+            andra gemensamma överenskommelser.
+          </p>
+          <p xml:id="i-QL7HepRtXpq5v89PjEQGAx">
+            I dag har karantän för hundar från EU-länderna på kontinenten
+            ersatts av krav på vaccination mot rabies och krav på avmaskning
+            med avseende på rävbandmask (dvärgbandmask). Om dessa krav följs
+            vid alla hundimporter har man nog ändå ett hyfsat skydd. Det som
+            nu är en alltmer framträdande risk mot att detta sköts är den
+            för vanligt förekommande smugglingen av sällskapsdjur in till
+            Sverige! Detta görs av människor som aningslöst och av okunskap
+            om bland annat riskerna hittat en form att skaffa ett djur.
+          </p>
+          <p xml:id="i-X2ECnXLCt25Hq4AVwE3CFq">
+            Den fruktade rävbandmasken är inte något som vi vet i dag finns
+            i Sverige. Om den kommer in med något djur finns stor risk för
+            människors hälsa. Avföring från smittat djur sprider lätt vidare
+            sjukdom över till exempel blåbärsrisen och dess bär. Om människor
+            sedan äter av dessa kan en levercancerliknande sjukdom uppstå,
+            som i värsta fall innebär dödlig utgång.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-TBPqc7CdJNEvz2Fx9ZAH4c">
+            Detta har gjort att länder som har smittan runtom i Europa särskilt
+            valt att upplysa allmänheten. Veterinärparasitologer i Polen vid
+            Vetenskapsakademin i Warszawa har till exempel länge sysslat med
+            rävbandmaskproblemet. De ger ut varningsbroschyrer till allmänheten.
+            Mina frågor till ministern är därför:
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder avser ministern att vidta för att denna rävbandmask
+                inte ska komma in i Sverige?
+              </item>
+              <item>
+                2. På vilket sätt avser ministern att verka för att aktivt upplysa
+                allmänheten om problemet?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

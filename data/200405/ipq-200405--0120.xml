@@ -3,71 +3,115 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>staten som arbetsgivare</title>
+        <author>Sköld Jansson, Camilla (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>staten som arbetsgivare till finansminister Pär Nuder om staten som arbetsgivare</title>
+          <idno type="rdwebb">GS10120</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10120/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10120</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10120</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-DMGKRcZKJjLDnd1Mozdje8</idno>
+            <persName>Camilla Sköld Jansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-QCrV9ktZEF2RYrh4W88ywn" corresp="i-DMGKRcZKJjLDnd1Mozdje8">
+          <date when="2004-11-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WRwKpjr349v6kaJaHcFjgh">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Uj1cdHFekpZ8zS71LRC8KW">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XcAyZZiymC8xHKRy2Jzm48" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LWwbuvZJPdg94wskBrnHxM" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspContext corresp="i-LWwbuvZJPdg94wskBrnHxM">
+          <ref type="record" target="prot-200405--030">Riksdagens protokoll 2004/05:30 Tisdagen den 16 november</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:120 om staten som arbetsgivare</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0120</head>
-        <author who="i-DMGKRcZKJjLDnd1Mozdje8">Camilla Sköld Jansson</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>staten som arbetsgivare</topic>
-        <docDate when="2004-11-02">den 2 november</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10120</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:120 av Camilla Sköld Jansson (v) till
-          finansminister Pär Nuder om staten som arbetsgivare
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BDBLxEkbohN9a9fQXxeUuz">
+            Interpellation 2004/05:120 av Camilla Sköld Jansson (v) till
+            finansminister Pär Nuder om staten som arbetsgivare
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LYMKJezb4UVcuZfMa6t9Aq">
+            den 2 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KpUzDEydM6Wi6QxRDbGGRw">
-          Riksdag och regering har i olika sammanhang uttalat att staten
-          ska vara ett föredöme som arbetsgivare. Regeringen har som uppgift
-          att se till att denna övergripande målsättning hålls levande inom
-          den statliga sektorn och att den efterföljs hos varje bolag och
-          myndighet vilka har det operativa arbetsgivaransvaret.
-        </p>
-        <p xml:id="i-KhCck97ZBjAr8esvbfxnxo">
-          Vi har via medierna, och på annat sätt, tagit del av information
-          om att staten inte lever upp till de krav man bör ställa på en
-          god arbetsgivare. Exempel på detta finns inom universitetsvärlden
-          där högskolor säger upp personal och återanställer samma personer
-          på visstid. Inom SJ AB har vi sett samma sak, till exempel i samband
-          med upphandling av städning. Enligt facket har de anställda berövats
-          anställningstryggheten eftersom inga garantier ges om arbete av
-          en viss omfattning. Dessutom menar kritiker att SJ AB som arbetsgivare
-          ställer orimliga krav på flexibilitet vad gäller arbetstidens
-          förläggning.
-        </p>
-        <p xml:id="i-QtqZWV3v6JJQQZCTmuwN8j">
-          Jag vill därför fråga finansministern:
-        </p>
-        <p xml:id="i-HrRPBER5z79TJncghPhv5v">
-          Vilka åtgärder avser ministern att vidta för att staten som arbetsgivare
-          ska vara ett föredöme?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Udh5SULEYGgvg7CFzutVUQ">
+            Riksdag och regering har i olika sammanhang uttalat att staten
+            ska vara ett föredöme som arbetsgivare. Regeringen har som uppgift
+            att se till att denna övergripande målsättning hålls levande inom
+            den statliga sektorn och att den efterföljs hos varje bolag och
+            myndighet vilka har det operativa arbetsgivaransvaret.
+          </p>
+          <p xml:id="i-HtWskU8VfDLSeE5pabe7kC">
+            Vi har via medierna, och på annat sätt, tagit del av information
+            om att staten inte lever upp till de krav man bör ställa på en
+            god arbetsgivare. Exempel på detta finns inom universitetsvärlden
+            där högskolor säger upp personal och återanställer samma personer
+            på visstid. Inom SJ AB har vi sett samma sak, till exempel i samband
+            med upphandling av städning. Enligt facket har de anställda berövats
+            anställningstryggheten eftersom inga garantier ges om arbete av
+            en viss omfattning. Dessutom menar kritiker att SJ AB som arbetsgivare
+            ställer orimliga krav på flexibilitet vad gäller arbetstidens
+            förläggning.
+          </p>
+          <p xml:id="i-mjai55WewxkeLy4CQYcgX">
+            Jag vill därför fråga finansministern:
+          </p>
+          <p xml:id="i-3ro3LveQQEkK5sCPiuXgNE">
+            Vilka åtgärder avser ministern att vidta för att staten som arbetsgivare
+            ska vara ett föredöme?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,85 +3,133 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>trängselskatter på Essingeleden</title>
+        <author>Nilsson, Nils Oskar (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>trängselskatter på Essingeleden till finansminister Bosse Ringholm om trängselskatter på Essingeleden</title>
+          <idno type="rdwebb">GR10363</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10363/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10363</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10363</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-6PVw9b14nHyyamxGVvRRDJ</idno>
+            <persName>Nils Oskar Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Arxv5L2GGtKu8JghemtjdM" corresp="i-6PVw9b14nHyyamxGVvRRDJ">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RtNBAnaZVztEsGAZtNBK1L">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WG3KJ28esW2Zign5yUBSif">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Hvv9DmcgSkxLvaCGjBXt2y" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CVyaobjjibh2bv4PXFGe16" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspContext corresp="i-CVyaobjjibh2bv4PXFGe16">
+          <ref type="record" target="prot-200304--094">Riksdagens protokoll 2003/04:94 Tisdagen den 13 april</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellationerna 2003/04:360, 365, 361, 362, 368, 363, 364, 366 och 367 om biltullar i Stockholm</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0363</head>
-        <author who="i-6PVw9b14nHyyamxGVvRRDJ">Nils Oskar Nilsson</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>trängselskatter på Essingeleden</topic>
-        <docDate when="2004-03-17">den 17 mars</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10363</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:363 av Nils Oskar Nilsson (m) till finansminister
-          Bosse Ringholm om trängselskatter på Essingeleden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CoQ31UL9L24U7w4bdkSAD9">
+            Interpellation 2003/04:363 av Nils Oskar Nilsson (m) till finansminister
+            Bosse Ringholm om trängselskatter på Essingeleden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-6R636yTH1VXi6FMxFHU4dL">
+            den 17 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-5jxpqAUp2Mq2TaoGAhNN6v">
-          I lagförslaget om trängselskatter framgår med all önskvärd tydlighet
-          att möjligheter finns att införa skatt även på Essingeleden i
-          Stockholm. Detta strider både mot det beslut som fattats av Stockholms
-          kommunfullmäktige och mot de löften som givits när det väl stod
-          klart att biltullar skulle forceras fram i Stockholm.
-        </p>
-        <p xml:id="i-7AyDyRi2L7d8HHiRGUN4Tc">
-          I departementspromemorian om trängselskatter framgår att skatt
-          kan komma att uttagas på Essingeleden om det visar sig att trafiksituationen
-          kräver det eller om det blir omöjligt att leva upp till miljökvalitetsnormerna.
-        </p>
-        <p xml:id="i-VG4tfqaqn6A4BKtXhVwvdb">
-          De undersökningar som gjorts visar att trafiken kommer att öka
-          kraftigt på Essingeleden om och när biltullar, trängselskatter,
-          införs. Redan när Södra länken öppnar i oktober 2004 förväntas
-          trafiken öka. Trots detta har Stockholms stad konsekvent vägrat
-          att genomföra en miljöprövning enligt miljöbalken av Essingeleden,
-          och departementspromemorians förslag innebär i realiteten att
-          skatter kan införas när som helst på Essingeleden.
-        </p>
-        <p xml:id="i-E8RTgEEMNL5DYUjYk1HEDC">
-          Essingeleden är en statlig väg och utgör huvudförbindelsen mellan
-          länets norra och södra delar. Att införa trängselskatter på leden
-          innebär att man monterar upp barriärer och klyver regionen på
-          mitten.
-        </p>
-        <p xml:id="i-2XarHn6EvnKXK1VhaJnBgo">
-          Mot bakgrund av ovanstående önskar jag ställa följande frågor
-          till ansvarigt statsråd:
-        </p>
-        <p xml:id="i-JgbtRPBCuYyKeoNuPQMDng">
-          1. Vilka åtgärder ämnar statsrådet vidta för att säkerställa
-          att Stockholms kommunfullmäktiges beslut om att inte införa tullar
-          på Essingeleden efterlevs?
-        </p>
-        <p xml:id="i-KzBY6Y7YPLLEr3Uzug4hZ8">
-          2. Har statsrådet gjort den bedömningen att trängselskatter på
-          Essingeleden skulle utgöra ett problem för länets arbetsmarknad?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-LNQVC6ceVT3eznKYCxHNXm">
+            I lagförslaget om trängselskatter framgår med all önskvärd tydlighet
+            att möjligheter finns att införa skatt även på Essingeleden i
+            Stockholm. Detta strider både mot det beslut som fattats av Stockholms
+            kommunfullmäktige och mot de löften som givits när det väl stod
+            klart att biltullar skulle forceras fram i Stockholm.
+          </p>
+          <p xml:id="i-FtH5AKnU6xf9Nuxej2YM8c">
+            I departementspromemorian om trängselskatter framgår att skatt
+            kan komma att uttagas på Essingeleden om det visar sig att trafiksituationen
+            kräver det eller om det blir omöjligt att leva upp till miljökvalitetsnormerna.
+          </p>
+          <p xml:id="i-Cr4YMJXaQwatW2WcNZRcZ7">
+            De undersökningar som gjorts visar att trafiken kommer att öka
+            kraftigt på Essingeleden om och när biltullar, trängselskatter,
+            införs. Redan när Södra länken öppnar i oktober 2004 förväntas
+            trafiken öka. Trots detta har Stockholms stad konsekvent vägrat
+            att genomföra en miljöprövning enligt miljöbalken av Essingeleden,
+            och departementspromemorians förslag innebär i realiteten att
+            skatter kan införas när som helst på Essingeleden.
+          </p>
+          <p xml:id="i-Afb8e7CVs8dPgKwuJJJWiT">
+            Essingeleden är en statlig väg och utgör huvudförbindelsen mellan
+            länets norra och södra delar. Att införa trängselskatter på leden
+            innebär att man monterar upp barriärer och klyver regionen på
+            mitten.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-FYZ9BhSvFb6R4xADSMzqvB">
+            Mot bakgrund av ovanstående önskar jag ställa följande frågor
+            till ansvarigt statsråd:
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder ämnar statsrådet vidta för att säkerställa
+                att Stockholms kommunfullmäktiges beslut om att inte införa tullar
+                på Essingeleden efterlevs?
+              </item>
+              <item>
+                2. Har statsrådet gjort den bedömningen att trängselskatter på
+                Essingeleden skulle utgöra ett problem för länets arbetsmarknad?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

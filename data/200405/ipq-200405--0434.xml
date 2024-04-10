@@ -3,74 +3,118 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ursprungsmärkning av kött</title>
+        <author>Gerdin, Viviann (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ursprungsmärkning av kött till jordbruksminister Ann-Christin Nykvist om ursprungsmärkning av kött</title>
+          <idno type="rdwebb">GS10434</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10434/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10434</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10434</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-MAjkY7TMfvfsiuE3eArFUA</idno>
+            <persName>Viviann Gerdin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-URA9n4P8UXkWmfN3ZjR8Nv" corresp="i-MAjkY7TMfvfsiuE3eArFUA">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RbF1tDgjuzPWNsp7LLEf6C">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BchZcEQBQJJv9otvz8sVc6">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Uod1Tdto1FdefReFUexZLa" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2005-03-02"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UBTqK1RxS7C3qGUVfkFew9" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspContext corresp="i-UBTqK1RxS7C3qGUVfkFew9">
+          <ref type="record" target="prot-200405--090">Riksdagens protokoll 2004/05:90 Tisdagen den 15 mars</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:434 om ursprungsmärkning av kött</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0434</head>
-        <author who="i-MAjkY7TMfvfsiuE3eArFUA">Viviann Gerdin</author>
-        <recipient who="i-HhkgRHGRURfXTuftg1jHSf">Ann-Christin Nykvist</recipient>
-        <topic>ursprungsmärkning av kött</topic>
-        <docDate when="2005-03-02">den 2 mars</docDate>
-        <status when="unknown" byWhom="Ann-Christin Nykvist" byWhomId="i-HhkgRHGRURfXTuftg1jHSf" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10434</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:434 av Viviann Gerdin (c) till jordbruksminister
-          Ann-Christin Nykvist om ursprungsmärkning av kött
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6yCC7RGfFGLGRDYxqJkWjr">
+            Interpellation 2004/05:434 av Viviann Gerdin (c) till jordbruksminister
+            Ann-Christin Nykvist om ursprungsmärkning av kött
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PFfLMxKtpMGwAmech99kSq">
+            den 2 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BZu2oUgnTXsAn2tKcbze6M">
-          Återigen kan vi i medierna läsa om att salmonellasmittat kött
-          hittats i Sverige, denna gång är det kycklingfiléer. Varifrån
-          det smittade köttpartiet ursprungligen har kommit är ännu inte
-          klarlagt. Importen var från Estland, men köttet kan mycket väl
-          vara från Brasilien eller kanske från Thailand.
-        </p>
-        <p xml:id="i-3Y6Hmrv4TCmMuzoGVmRwqF">
-          Med vetskap om fågelinfluensans härjningar i Thailand och den
-          oro som finns för smittat kött från Asien, även salmonellasmittat
-          kött från övriga länder, så behövs nu en utökad ursprungsmärkning
-          av våra livsmedel. EU:s medlemsländer måste nu agera gemensamt
-          för säkra livsmedel och kräva en fullständig dokumentation varifrån
-          köttet kommer och vilka som varit så kallade mellanhänder med
-          ansvar för det levererade köttet inom EU.
-        </p>
-        <p xml:id="i-7jqb34usdhKQNZpaAehxKw">
-          Från den 1 januari år 2001 finns krav på obligatorisk märkning
-          av nötkött. Det är nu dags för regeringen att kraftfullt agera
-          inom EU med mål om att ursprungsmärkning ska införas även för
-          svin @ och fågelkött.
-        </p>
-        <p xml:id="i-3NLBZgUHYk6Qj4gxQHUdTC">
-          Med anledning av ovan vill jag fråga:
-        </p>
-        <p xml:id="i-JutTE5oTTS72zW2oo7NuT1">
-          Vilka åtgärder avser jordbruksministern att vidta för att konsumenterna
-          ska få en fullständig information om köttets ursprung?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3mBSGnnpBZFebaxGGHvFNY">
+            Återigen kan vi i medierna läsa om att salmonellasmittat kött
+            hittats i Sverige, denna gång är det kycklingfiléer. Varifrån
+            det smittade köttpartiet ursprungligen har kommit är ännu inte
+            klarlagt. Importen var från Estland, men köttet kan mycket väl
+            vara från Brasilien eller kanske från Thailand.
+          </p>
+          <p xml:id="i-2Kfi234gCJJtwftJpCoYEq">
+            Med vetskap om fågelinfluensans härjningar i Thailand och den
+            oro som finns för smittat kött från Asien, även salmonellasmittat
+            kött från övriga länder, så behövs nu en utökad ursprungsmärkning
+            av våra livsmedel. EU:s medlemsländer måste nu agera gemensamt
+            för säkra livsmedel och kräva en fullständig dokumentation varifrån
+            köttet kommer och vilka som varit så kallade mellanhänder med
+            ansvar för det levererade köttet inom EU.
+          </p>
+          <p xml:id="i-56gKLUjiWxT18UPcqBDihL">
+            Från den 1 januari år 2001 finns krav på obligatorisk märkning
+            av nötkött. Det är nu dags för regeringen att kraftfullt agera
+            inom EU med mål om att ursprungsmärkning ska införas även för
+            svin @ och fågelkött.
+          </p>
+          <p xml:id="i-Emsg6KPUD9XG3rdtozdZk4">
+            Med anledning av ovan vill jag fråga:
+          </p>
+          <p xml:id="i-JxXZUtkKHTUH99rjsrAejx">
+            Vilka åtgärder avser jordbruksministern att vidta för att konsumenterna
+            ska få en fullständig information om köttets ursprung?
+          </p>
+        </div>
       </div>
     </body>
   </text>
