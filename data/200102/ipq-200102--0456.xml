@@ -3,82 +3,106 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fastighetsskatten</title>
+        <author>Strömbom, Inger (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>fastighetsskatten till finansminister Bosse Ringholm om fastighetsskatten</title>
+          <idno type="rdwebb">GP10456</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GP10456/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GP10456</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GP10456</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-FWydL5N493XBW1LnZgZjCH</idno>
+            <persName>Strömbom, Inger (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>finansminister Bosse Ringholm </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>finansminister Bosse Ringholm </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-TfFiFFNNLGBYCL4sakmT1f" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2002-05-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Dvos9H6cFbtsp1aK5n8vtj" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2002-05-27"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-RgQReYkY1VroA9hYVBRY98" corresp="i-FWydL5N493XBW1LnZgZjCH">
+          <date when="2002-04-26"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200102--0456</head>
-        <author who="i-FWydL5N493XBW1LnZgZjCH">Strömbom, Inger (kd) </author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">finansminister Bosse Ringholm </recipient>
-        <topic>fastighetsskatten</topic>
-        <docDate when="2002-04-26">den 26 april</docDate>
-        <status when="2002-05-27" byWhom="finansminister Bosse Ringholm " byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP10456</external_id>
-        <debate>
-          <turn when="2002-05-27 16:51:11" duration="150">Finansminister Bosse Rin (S)</turn>
-          <turn when="2002-05-27 16:53:37" duration="226">Inger Strömbom (Kd)</turn>
-          <turn when="2002-05-27 16:57:19" duration="276">Finansminister Bosse Rin (S)</turn>
-          <turn when="2002-05-27 17:01:51" duration="235">Inger Strömbom (Kd)</turn>
-          <turn when="2002-05-27 17:05:42" duration="232">Finansminister Bosse Rin (S)</turn>
-          <turn when="2002-05-27 17:09:30" duration="110">Inger Strömbom (Kd)</turn>
-          <turn when="2002-05-27 17:11:16" duration="153">Finansminister Bosse Rin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2001/02:456 av Inger Strömbom (kd) till finansminister
-          Bosse Ringholm om fastighetsskatten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-A2D1JtTMwka8ruZwXyqGwk">
+            Interpellation 2001/02:456 av Inger Strömbom (kd) till finansminister
+            Bosse Ringholm om fastighetsskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-A2et7mtats7w6UVmn4T8zF">
+            den 26 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Q7PUUcqBfBEMnHpfL5WAqn">
-          Svenska folket har i dagarna lämnat in sin deklaration för inkomståret
-          2001. Många villaägare har återigen blivit varse att fastighetsskatten
-          ökat med många tusenlappar under året, trots att skattesatsen
-          sänkts från 1,5 till 1,0 % och trots att huset blivit ett år äldre,
-          kräver mer underhåll och därmed blivit dyrare i drift.
-        </p>
-        <p xml:id="i-3LeLpk1cj8cmCr4cz4iB9H">
-          I vårpropositionen beräknas statens intäkter av fastighetsskatten
-          öka med nästan 3 miljarder kronor under 2002 och ytterligare ökningar
-          väntas under de kommande två åren. Skatten kommer således att
-          fortsätta att öka.
-        </p>
-        <p xml:id="i-3K38k4eRJh3Fzr8dYcUghq">
-          Statsministern har i intervjuer lovat att Sveriges orimligt höga
-          skattetryck ska sänkas till 50 %. Fastighetsskatten är en form
-          av dubbelbeskattning som bidrar till det höga skattetrycket.
-        </p>
-        <p xml:id="i-4EKpAbt19xQTrWNDfWxEhv">
-          Fastighetsskatten leder till att segregationen ökar i och runt
-          våra större städer eftersom familjer med vanliga inkomster inte
-          har råd att bo kvar i sina småhus.
-        </p>
-        <p xml:id="i-X1pB3t8jE7fUSkb7akfbzJ">
-          Vad avser finansministern att göra för att sänka de ökande boendekostnader
-          som fastighetsskatten ger?
-        </p>
-        <p xml:id="i-RuELnWRkM6fgo93AqgY5Bx"></p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UEridhrVZQMhALuHUMz4oY">
+            Svenska folket har i dagarna lämnat in sin deklaration för inkomståret
+            2001. Många villaägare har återigen blivit varse att fastighetsskatten
+            ökat med många tusenlappar under året, trots att skattesatsen
+            sänkts från 1,5 till 1,0 % och trots att huset blivit ett år äldre,
+            kräver mer underhåll och därmed blivit dyrare i drift.
+          </p>
+          <p xml:id="i-CFKy36Msp95wQiYjUCbcL1">
+            I vårpropositionen beräknas statens intäkter av fastighetsskatten
+            öka med nästan 3 miljarder kronor under 2002 och ytterligare ökningar
+            väntas under de kommande två åren. Skatten kommer således att
+            fortsätta att öka.
+          </p>
+          <p xml:id="i-4oWLiHAfPvK7ZMZRvKT49M">
+            Statsministern har i intervjuer lovat att Sveriges orimligt höga
+            skattetryck ska sänkas till 50 %. Fastighetsskatten är en form
+            av dubbelbeskattning som bidrar till det höga skattetrycket.
+          </p>
+          <p xml:id="i-JTigbJqy3bt7sp2BSMKpVS">
+            Fastighetsskatten leder till att segregationen ökar i och runt
+            våra större städer eftersom familjer med vanliga inkomster inte
+            har råd att bo kvar i sina småhus.
+          </p>
+          <p xml:id="i-M6qhCSWKys3vD6rd8Ld6JQ">
+            Vad avser finansministern att göra för att sänka de ökande boendekostnader
+            som fastighetsskatten ger?
+          </p>
+        </div>
       </div>
     </body>
   </text>

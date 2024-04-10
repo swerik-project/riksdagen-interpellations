@@ -3,70 +3,104 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>arbetsgivaravgiften</title>
+        <author>Hagström, Ulla-Britt (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>arbetsgivaravgiften till finansminister Bosse Ringholm om arbetsgivaravgiften</title>
+          <idno type="rdwebb">GP1098</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GP1098/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GP1098</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GP1098</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
+            <persName>Hagström, Ulla-Britt (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>finansminister Bosse Ringholm </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>finansminister Bosse Ringholm </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-9WhrXp16Wg9zaZcU64VXHC" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2001-11-27"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CJD1aRaqVzfnZNZUs1NFCq" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2002-01-15"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-4gaSQ46R8EyPhi84pWtsbh" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
+          <date when="2001-11-23"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200102--0098</head>
-        <author who="i-J94Ct1wVwpHWNRN9LatQ6F">Hagström, Ulla-Britt (kd) </author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">finansminister Bosse Ringholm </recipient>
-        <topic>arbetsgivaravgiften</topic>
-        <docDate when="2001-11-23">den 23 november</docDate>
-        <status when="unknown" byWhom="finansminister Bosse Ringholm " byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP1098</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2001/02:98 av Ulla-Britt Hagström (kd) till finansminister
-          Bosse Ringholm om arbetsgivaravgiften
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EPkCdrUU4qv5Qc4CVXLaUk">
+            Interpellation 2001/02:98 av Ulla-Britt Hagström (kd) till finansminister
+            Bosse Ringholm om arbetsgivaravgiften
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-DaxEV2zQx1G1aAYzFGb3wD">
+            den 23 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MM31LgKrVwrg9syoJSBe8y">
-          Regeringen avser att temporärt sänka arbetsgivaravgifterna för
-          kommuner och landsting. De kommuner som väljer att expandera och
-          utöka sin verksamhet under år 2002 befrias dessutom från hela
-          arbetsgivaravgiften på ökningen. En sänkning med 1 % av arbetsgivaravgiften
-          i kommun och landsting kostar 2 miljarder kronor. Detta motsvarar
-          10 000 till 15 000 nya jobb.
-        </p>
-        <p xml:id="i-TatHDGagBcQ2uGVW1rcuj8">
-          Privata företag, friskolor och kooperativa daghem gynnas inte
-          av de sänkta arbetsgivaravgifterna.
-        </p>
-        <p xml:id="i-BacKct26ixn9Wyn8wo2knC">
-          I konsekvensens namn vore det rimligt att även privata företag
-          får del av sänkningen av arbetsgivaravgifterna.
-        </p>
-        <p xml:id="i-2WGKEAfe52LhVV8AXU9emX">
-          Med hänvisning till det anförda vill jag ställa följande fråga
-          till Bosse Ringholm:
-        </p>
-        <p xml:id="i-KgvkQpBv7Y7wvA9uwjZj1m">
-          På vilket sätt har ministern analyserat konkurrensmöjligheterna
-          för det privata näringslivet om arbetsgivaravgiften enbart sänks
-          för kommuner och landsting?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-WxbVDoYxnp8ggNbk3JSfZ8">
+            Regeringen avser att temporärt sänka arbetsgivaravgifterna för
+            kommuner och landsting. De kommuner som väljer att expandera och
+            utöka sin verksamhet under år 2002 befrias dessutom från hela
+            arbetsgivaravgiften på ökningen. En sänkning med 1 % av arbetsgivaravgiften
+            i kommun och landsting kostar 2 miljarder kronor. Detta motsvarar
+            10 000 till 15 000 nya jobb.
+          </p>
+          <p xml:id="i-D2AESMSKLV1bYwfLmUGfXF">
+            Privata företag, friskolor och kooperativa daghem gynnas inte
+            av de sänkta arbetsgivaravgifterna.
+          </p>
+          <p xml:id="i-96e2ekXDW7no2DC61sy7J5">
+            I konsekvensens namn vore det rimligt att även privata företag
+            får del av sänkningen av arbetsgivaravgifterna.
+          </p>
+          <p xml:id="i-T3saQc2w1d7tboMiJFBqU8">
+            Med hänvisning till det anförda vill jag ställa följande fråga
+            till Bosse Ringholm:
+          </p>
+          <p xml:id="i-DoSBGgkyLbjXWV7C2GvtHJ">
+            På vilket sätt har ministern analyserat konkurrensmöjligheterna
+            för det privata näringslivet om arbetsgivaravgiften enbart sänks
+            för kommuner och landsting?
+          </p>
+        </div>
       </div>
     </body>
   </text>

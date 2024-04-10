@@ -3,69 +3,93 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>totalisatorskatten</title>
+        <author>Sten Andersson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1994/95:27 av Sten Andersson (m) till finansministern om totalisatorskatten</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_22.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person>
+            <persName>Sten Andersson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+          </person>
+          <person>
+            <persName>finansministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-J7dWoFUzNRqxKBN1uV5LBV">
+          <name/>
+          <date when="1994-11-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KeT6iZGe2uGWmDMtbB86aX">
+          <note>date unknown</note>
+          <name>finansministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-JrWe8Qdj3Fbp2ioU9WJtpx">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XGMcVywXKZ5QQ6RsdKvY31">
+          <date when="1994-01-19"/>
+        </correspAction>
+        <correspContext corresp="i-XGMcVywXKZ5QQ6RsdKvY31">
+          <ref type="record" target="prot-199495--053">Prot. 1994/95:53</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1994/95:27</head>
-        <author who="unknown">Sten Andersson (m)</author>
-        <minister who="unknown">finansministern</minister>
-        <topic>totalisatorskatten</topic>
-        <docDate when="1994-11-17">Inkom den 17 november</docDate>
-        <status inProtocol="199495/prot-199495--053.xml" when="1995-01-19" status="answered">Besvarad den 19 januari, Prot. 1994/95:53</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1994/95:27 av Sten Andersson (m) till finansministern om totalisatorskatten
-        </IPQ_title>
-        <submission_info>
-          Inkom den 17 novemberBesvarad den 19 januari Prot. 1994/95:53
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9RqzmptwBeVFdSyZJv1Siq">
+            1994/95:27 av Sten Andersson (m) till finansministern om totalisatorskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-5JJWG592T1W3uHFMnXjMq5">
+            Inkom den 17 november : Besvarad den 19 januari Prot. 1994/95:53
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-WdR1vZtqEzcyAR1ewNMufk">
-          Mot bakgrund av Sveriges ekonomiska situation är jag medveten
-          om att statens utgifter måste minskas eller inkomsterna ökas.
-          Om riksdags- majoriteten anser att skatten måste ökas, bör nettot
-          bli positivt för staten.
-        </p>
-        <p xml:id="i-SRLB5EgUzkjAx4WVDycaR5">
-          I Danmark, Finland och Norge har man högre totalisatorskatt än
-          i Sverige. Detta har fått som effekt att omsättningen på spel
-          kraftigt minskat jämfört med vad som gällde innan skattehöjningarna
-          genomför­des.
-        </p>
-        <p xml:id="i-NnL78c2c9XEmoBEAV6RSeH">
-          Om totalisatorskatten i Sverige höjs, riskerar således staten,
-          baserat på erfarenheter från våra grannländer genom minskad omsättning
-          att erhålla mindre skatteintäkter! Jag förutsätter att finansministern
-          noga analyserar effekterna av en höjning av totalisatorskatten.
-        </p>
-        <p xml:id="i-UmYjrDTCRuWHw2uySEfGWX">
-          Avser finansministern, baserat på erfarenheterna från våra nordiska
-          grannländers högre totalisatorskatt, att höja densamma i Sverige?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_23.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-LGDQ34yHKH7puJssZkfKfM">
+            Mot bakgrund av Sveriges ekonomiska situation är jag medveten
+            om att statens utgifter måste minskas eller inkomsterna ökas.
+            Om riksdags- majoriteten anser att skatten måste ökas, bör nettot
+            bli positivt för staten.
+          </p>
+          <p xml:id="i-Wfd9Sn8SiF5D88724KpvGe">
+            I Danmark, Finland och Norge har man högre totalisatorskatt än
+            i Sverige. Detta har fått som effekt att omsättningen på spel
+            kraftigt minskat jämfört med vad som gällde innan skattehöjningarna
+            genomför­des.
+          </p>
+          <p xml:id="i-4Jjp8MYiz96dtNVYFMAnNH">
+            Om totalisatorskatten i Sverige höjs, riskerar således staten,
+            baserat på erfarenheter från våra grannländer genom minskad omsättning
+            att erhålla mindre skatteintäkter! Jag förutsätter att finansministern
+            noga analyserar effekterna av en höjning av totalisatorskatten.
+          </p>
+          <p xml:id="i-X8EogF9nkc9qeNqaCRQZJ2">
+            Avser finansministern, baserat på erfarenheterna från våra nordiska
+            grannländers högre totalisatorskatt, att höja densamma i Sverige?
+          </p>
+        </div>
       </div>
     </body>
   </text>

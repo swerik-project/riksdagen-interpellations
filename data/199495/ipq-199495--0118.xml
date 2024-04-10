@@ -3,63 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>avveckling av kärnkraften</title>
+        <author>Sten Andersson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1994/95:118 av Sten Andersson (m) till statsrådet Jörgen Andersson om avveckling av kärnkraften</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_125.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person>
+            <persName>Sten Andersson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+          </person>
+          <person>
+            <persName>statsrådet Jörgen Andersson</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-EYfWeFQWJBbFThudZF6aKa">
+          <name/>
+          <date when="1994-04-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VwxW1s4GjkHjgDuMtNMsxB">
+          <note>date unknown</note>
+          <name>statsrådet Jörgen Andersson</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-NkSKCFqayXfSGR8SDrfnQ1">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-69YyX2me3JgGoVFuZGqhtU">
+          <date when="1994-05-08"/>
+        </correspAction>
+        <correspContext corresp="i-69YyX2me3JgGoVFuZGqhtU">
+          <ref type="record" target="prot-199495--100">Prot. 1994/95:100</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1994/95:118</head>
-        <author who="unknown">Sten Andersson (m)</author>
-        <minister who="unknown">statsrådet Jörgen Andersson</minister>
-        <topic>avveckling av kärnkraften</topic>
-        <docDate when="1995-04-26">Inkom den 26 april</docDate>
-        <status inProtocol="199495/prot-199495--100.xml" when="1995-05-08" status="answered">Besvarad den 8 maj, Prot. 1994/95:100</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1994/95:118 av Sten Andersson (m) till statsrådet Jörgen Andersson
-          om avveckling av kärnkraften
-        </IPQ_title>
-        <submission_info>
-          Inkom den 26 aprilBesvarad den 8 maj Prot. 1994/95:100
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JDt9LbeiFMg4tXUeCxKy3A">
+            1994/95:118 av Sten Andersson (m) till statsrådet Jörgen Andersson
+            om avveckling av kärnkraften
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MzdoZJpHhqavU2seoisjVu">
+            Inkom den 26 april : Besvarad den 8 maj Prot. 1994/95:100
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6sYJZaGWSyRnmAg54sfFsC">
-          År 2010 fanns inte med i folkomröstningen!Ofta hävdas, även av
-          statsministern, att svenska folket i en omröst­ning klart sagt
-          ifrån att kärnkraften skall avvecklas senast år 2010. Detta är
-          inte korrekt! Det fanns inget specifikt årtal angivet på de val­sedlar
-          som väljarna kunde välja emellan.
-        </p>
-        <p xml:id="i-9jxDUsP4kJXXYnswPR7eiA">
-          Svenska folket tog ställning till vad som stod på valsedlarna
-          och inget annat!
-        </p>
-        <p xml:id="i-HEFqNU4hRnYG4k34hB3MfE">
-          Avser regeringen att följa utslaget i folkomröstningen avseende
-          den framtida energiförsörjningen?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_126.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RKcrM54RUT2LsL7v32guHc">
+            År 2010 fanns inte med i folkomröstningen!Ofta hävdas, även av
+            statsministern, att svenska folket i en omröst­ning klart sagt
+            ifrån att kärnkraften skall avvecklas senast år 2010. Detta är
+            inte korrekt! Det fanns inget specifikt årtal angivet på de val­sedlar
+            som väljarna kunde välja emellan.
+          </p>
+          <p xml:id="i-9AqoSZNYqsE57DNCETcxiR">
+            Svenska folket tog ställning till vad som stod på valsedlarna
+            och inget annat!
+          </p>
+          <p xml:id="i-NtzoaAEX7trkTDedhDLRor">
+            Avser regeringen att följa utslaget i folkomröstningen avseende
+            den framtida energiförsörjningen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

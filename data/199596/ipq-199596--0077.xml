@@ -3,68 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Dennispa- ketet</title>
+        <author>Birgitta Wistrand (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:77 av Birgitta Wistrand (m) till statsministern om Dennispa- ketet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_83.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Birgitta Wistrand (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-81m3LpgjLj7yUBADMeYZjV</idno>
+          </person>
+          <person>
+            <persName>statsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-LuLFMbLLemHLayTCBj4s1t" corresp="i-81m3LpgjLj7yUBADMeYZjV">
+          <date when="1995-02-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5WA8CkXWf97rRRoLkDfvMg">
+          <note>date unknown</note>
+          <name>statsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-ept4F4eqcXzFf2u9soVwK">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NkUpZob96tsKn7MavXjKKn">
+          <date when="1995-02-22"/>
+        </correspAction>
+        <correspContext corresp="i-NkUpZob96tsKn7MavXjKKn">
+          <ref type="record" target="prot-199596--060">Prot. 1995/96:60</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:77</head>
-        <author who="i-81m3LpgjLj7yUBADMeYZjV">Birgitta Wistrand (m)</author>
-        <minister who="unknown">statsministern</minister>
-        <topic>Dennispa- ketet</topic>
-        <docDate when="1996-02-08">Inkom den 8 februari</docDate>
-        <status inProtocol="199596/prot-199596--060.xml" when="1996-02-22" status="answered">Besvarad den 22 februari, Prot. 1995/96:60</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:77 av Birgitta Wistrand (m) till statsministern om Dennispa-
-          ketet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 8 februari Besvarad den 22 februari Prot. 1995/96:60
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-UHrJWLLidZH7DXumpi9Dbc">
+            1995/96:77 av Birgitta Wistrand (m) till statsministern om Dennispa-
+            ketet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-TTT9AwGtnGcEx3oK3miTP7">
+            Inkom den 8 februari : Besvarad den 22 februari Prot. 1995/96:60
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-REzam8xCjMVTDPBg8b8Eyh">
-          Vid en konferens om utbildning i Stockholm den 31 januari i år
-          ut­talade utbildningsminister Carl Tham att Dennispaketet borde
-          skrotas.
-        </p>
-        <p xml:id="i-499dYjenn8djEBbiv3CCx1">
-          Dessa uttalanden har naturligtvis givit upphov till en rad spekula­tioner
-          om vad regeringen egentligen avser att göra med Dennispaketet.
-          Det är av stort allmänt intresse att få veta om det finns sådana
-          planer som Carl Tham ger uttryck för. I andra sammanhang har andra
-          statsråd gjort uttalanden om Dennispaketet, om än av annan innebörd.
-        </p>
-        <p xml:id="i-6Jk8HJ14AAVcLLU1MTweXt">
-          För mig som moderat riksdagsledamot för Stockholm, vore det vär­defullt
-          att få ett klarläggande av statsministern.
-        </p>
-        <p xml:id="i-Bze5a8UEWseAkas5q7UEf2">
-          Gäller utbildningsministerns uttalande beträffande Dennispaketets
-          genomförande som regeringens uppfattning?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_84.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-D2yPyCFtGr4GfMxBKQkFih">
+            Vid en konferens om utbildning i Stockholm den 31 januari i år
+            ut­talade utbildningsminister Carl Tham att Dennispaketet borde
+            skrotas.
+          </p>
+          <p xml:id="i-DNXHSWjXiBSgjip5W6Vgvu">
+            Dessa uttalanden har naturligtvis givit upphov till en rad spekula­tioner
+            om vad regeringen egentligen avser att göra med Dennispaketet.
+            Det är av stort allmänt intresse att få veta om det finns sådana
+            planer som Carl Tham ger uttryck för. I andra sammanhang har andra
+            statsråd gjort uttalanden om Dennispaketet, om än av annan innebörd.
+          </p>
+          <p xml:id="i-9nbb3EHhUxKuLuNTXouQGf">
+            För mig som moderat riksdagsledamot för Stockholm, vore det vär­defullt
+            att få ett klarläggande av statsministern.
+          </p>
+          <p xml:id="i-Nt8D3kDwKnmeacwCchNZnX">
+            Gäller utbildningsministerns uttalande beträffande Dennispaketets
+            genomförande som regeringens uppfattning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,69 +3,103 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>studentpeng</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>studentpeng till utbildningsminister Thomas Östros om studentpeng</title>
+          <idno type="rdwebb">GO1013</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO1013/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO1013</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO1013</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Andersson, Yvonne (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-5N7KMg3ijq47QnqNmcHm3p" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-10-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Aw7fiA15kwBE6UAdcspsaA" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-10-10"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-N2T9nQhqPmwyvbpfWVByx8" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2000-09-22"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0013</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Andersson, Yvonne (kd) </author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">utbildningsminister Thomas Östros </recipient>
-        <topic>studentpeng</topic>
-        <docDate when="2000-09-22">den 22 september</docDate>
-        <status when="unknown" byWhom="utbildningsminister Thomas Östros " byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO1013</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:13 av Yvonne Andersson (kd) till utbildningsminister
-          Thomas Östros om studentpeng
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-ErdXWhjSVDyRQeaRTN4x6V">
+            Interpellation 2000/01:13 av Yvonne Andersson (kd) till utbildningsminister
+            Thomas Östros om studentpeng
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-dj6XgxMWMxDXvvFmxZCEP">
+            den 22 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QxnsBCkW4LdohdST9CuSdc">
-          Den s.k. studentpengen fastställdes för flera år sedan. Den ligger
-          fast trots förändringar i form av lönesättningar för lärare, hyresökningar
-          och andra grundkostnader.
-        </p>
-        <p xml:id="i-DP8YdF9n1HRorxcgNtw28X">
-          Grundutbildningar särskilt inom filosofisk fakultet får allt
-          mindre resurser till själva undervisningen och handledningen som
-          enligt min mening är kärnverksamhet. Vid vissa lärosäten, särskilt
-          inom filosofisk fakultet, begränsas undervisning till 4@6 lektioner
-          per vecka. Såväl studenter som lärare uppfattar denna volym som
-          ytterst knapp om ens möjlig att bedriva kvalitativt god undervisning
-          på.
-        </p>
-        <p xml:id="i-2AL1mHX8GjEabtWWsDetQ6">
-          Jag har förhört mig om hur grunderna för beräkningar av studentpengen
-          är beskaffade men inte lyckats få något tillfredsställande besked
-          av anställda på högskolan. Det är otillfredsställande att de som
-          ska planera och lägga upp undervisningen inte förstår sina förutsättningar.
-        </p>
-        <p xml:id="i-WY9mViEjTCwyDoMnEB84Mz">
-          Vilka åtgärder avser ministern vidta för att redovisa studentpengen
-          som underlag för beräkning och kvalitet i högskoleutbildningen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-A3V8WVyDpw6FEhNepRv21L">
+            Den s.k. studentpengen fastställdes för flera år sedan. Den ligger
+            fast trots förändringar i form av lönesättningar för lärare, hyresökningar
+            och andra grundkostnader.
+          </p>
+          <p xml:id="i-3FcUqDLpSgUe2mPfSwkwrM">
+            Grundutbildningar särskilt inom filosofisk fakultet får allt
+            mindre resurser till själva undervisningen och handledningen som
+            enligt min mening är kärnverksamhet. Vid vissa lärosäten, särskilt
+            inom filosofisk fakultet, begränsas undervisning till 4@6 lektioner
+            per vecka. Såväl studenter som lärare uppfattar denna volym som
+            ytterst knapp om ens möjlig att bedriva kvalitativt god undervisning
+            på.
+          </p>
+          <p xml:id="i-QZsTrsnBNNNTURv2hX5Jfk">
+            Jag har förhört mig om hur grunderna för beräkningar av studentpengen
+            är beskaffade men inte lyckats få något tillfredsställande besked
+            av anställda på högskolan. Det är otillfredsställande att de som
+            ska planera och lägga upp undervisningen inte förstår sina förutsättningar.
+          </p>
+          <p xml:id="i-SDSdX5B3W4mMiKhCissiWs">
+            Vilka åtgärder avser ministern vidta för att redovisa studentpengen
+            som underlag för beräkning och kvalitet i högskoleutbildningen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,65 +3,89 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nedskärningar inom polisväsendet</title>
+        <author>Maud Ekendahl (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1998/99:157 av Maud Ekendahl (m) till justitieministern om nedskärningar inom polisväsendet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_175.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Maud Ekendahl (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-F8qdE2eedz12PwFanq3ahv</idno>
+          </person>
+          <person>
+            <persName>justitieministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5WoSaBmrJ6LpQ9mgLg57bf" corresp="i-F8qdE2eedz12PwFanq3ahv">
+          <date when="1998-02-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-7e2p9KLLWex2EXrZtT5akZ">
+          <note>date unknown</note>
+          <name>justitieministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-EorsWKDyGtUhGcs5NSr5cc">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2aB19MUjK13NudGhnMFwNx">
+          <date when="1998-03-19"/>
+        </correspAction>
+        <correspContext corresp="i-2aB19MUjK13NudGhnMFwNx">
+          <ref type="record" target="prot-199899--072">Prot. 1998/99:72</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1998/99:157</head>
-        <author who="i-F8qdE2eedz12PwFanq3ahv">Maud Ekendahl (m)</author>
-        <minister who="unknown">justitieministern</minister>
-        <topic>nedskärningar inom polisväsendet</topic>
-        <docDate when="1999-02-09">Inkom den 9 februari</docDate>
-        <status inProtocol="199899/prot-199899--072.xml" when="1999-03-19" status="answered">Besvarad den 19 mars, Prot. 1998/99:72</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1998/99:157 av Maud Ekendahl (m) till justitieministern
-          om nedskärningar inom polisväsendet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 9 februariBesvarad den 19 mars Prot. 1998/99:72
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-WzZwfGX8C4n8cLoeVtqn1R">
+            Interpellation 1998/99:157 av Maud Ekendahl (m) till justitieministern
+            om nedskärningar inom polisväsendet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Mq9yNn54jUH9Crvfkn5m9E">
+            Inkom den 9 februari : Besvarad den 19 mars Prot. 1998/99:72
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QQZqqMhckYcVGddrhGAmf4">
-          Kraftiga nedskärningar av antalet poliser, civilanställda samt
-          stängd polishögskola under två års tid har medfört att det nu
-          råder akuta rekryte- ringsproblem inom polisväsendet.
-        </p>
-        <p xml:id="i-FsYwkCAVnYJFPUpGkaw5oC">
-          I Nordvästra Skånes polisområde saknas ett femtiotal poliser
-          - exem­pelvis tre i Klippan och lika många i närbelägna Åstorp.
-        </p>
-        <p xml:id="i-WuVQQbnmPhz3PTQVyYZBiG">
-          Samtidigt ökar brottsligheten vilket innebär att allmänheten
-          samt många näringsidkare känner växande otrygghet.
-        </p>
-        <p xml:id="i-3jmQLo95RMu7BDoRfmwxXe">
-          Vilka åtgärder ämnar justitieministern vidta för att lösa de
-          akuta pro­blemen inom polisväsendet?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_176.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PdUjdebHDSqZXCdqF4aerW">
+            Kraftiga nedskärningar av antalet poliser, civilanställda samt
+            stängd polishögskola under två års tid har medfört att det nu
+            råder akuta rekryte- ringsproblem inom polisväsendet.
+          </p>
+          <p xml:id="i-4U2RBXhfDLyqd3E2cPdf6c">
+            I Nordvästra Skånes polisområde saknas ett femtiotal poliser
+            - exem­pelvis tre i Klippan och lika många i närbelägna Åstorp.
+          </p>
+          <p xml:id="i-WmkV2CPFYMWKdRwYgiw2K2">
+            Samtidigt ökar brottsligheten vilket innebär att allmänheten
+            samt många näringsidkare känner växande otrygghet.
+          </p>
+          <p xml:id="i-4PHFc4tqWyLC5uWGeQLjvk">
+            Vilka åtgärder ämnar justitieministern vidta för att lösa de
+            akuta pro­blemen inom polisväsendet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

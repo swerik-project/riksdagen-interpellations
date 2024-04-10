@@ -3,101 +3,125 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Vägverket</title>
+        <author>Olle Lindström (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:60 av Olle Lindström (m) till kommunikationsministern om Vägverket</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_68.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_69.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Olle Lindström (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-NAAZv6GeNG6UKYzSr8WGFB</idno>
+          </person>
+          <person>
+            <persName>kommunikationsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GE47b4RUGJ4ik4fYVwiDLU" corresp="i-NAAZv6GeNG6UKYzSr8WGFB">
+          <date when="1995-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Pe3qMdUhPx76qA8XPa4mLz">
+          <note>date unknown</note>
+          <name>kommunikationsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-PxEpdd7X5VhgzAveeygRH7">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Uuq1JTpGiEWSY9kPXG27Bw">
+          <date when="1995-02-20"/>
+        </correspAction>
+        <correspContext corresp="i-Uuq1JTpGiEWSY9kPXG27Bw">
+          <ref type="record" target="prot-199596--058">Prot. 1995/96:58</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:60</head>
-        <author who="i-NAAZv6GeNG6UKYzSr8WGFB">Olle Lindström (m)</author>
-        <minister who="unknown">kommunikationsministern</minister>
-        <topic>Vägverket</topic>
-        <docDate when="1996-01-26">Inkom den 26 januari</docDate>
-        <status inProtocol="199596/prot-199596--058.xml" when="1996-02-20" status="answered">Besvarad den 20 februari, Prot. 1995/96:58</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:60 av Olle Lindström (m) till kommunikationsministern
-          om Vägverket
-        </IPQ_title>
-        <submission_info>
-          Inkom den 26 januariBesvarad den 20 februari Prot. 1995/96:58
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Rr4avyquSZbvMe3qJswdSD">
+            1995/96:60 av Olle Lindström (m) till kommunikationsministern
+            om Vägverket
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-NXjpPPkg57xWL5vMDNmQdP">
+            Inkom den 26 januari : Besvarad den 20 februari Prot. 1995/96:58
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AGUrwNqzvihrg1Lq8QkiZH">
-          Affärsmässigheten i statliga verk och företag har under senare
-          år ifrågasatts. Skatte- eller anslagsfinansierad verksamhet har
-          genom underprissättning snedvridit konkurrensen och därmed bidragit
-          till att privata företag slagits ut. Under kommunikationsministerns
-          ansvarsom­råde ligger Vägverket och Postverket.
-        </p>
-        <p xml:id="i-Mub4QTFoWR1MoEFBk2Qd6P">
-          Vägverket Produktion Norr i Luleå har nyligen antagits som plogningsentreprenör
-          åt Bodens kommun för de tre närmaste åren. Av
-        </p>
-        <note type="pageNumber" xml:id="i-51zN4B943b241uKzQb9kv8">
-          69
-        </note>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_69.pdf"/>
-        <note type="margin" xml:id="i-pGA2H6JCyFW11r6LQPPV2">
-          Interpellationer1995/96:1 -261
-        </note>
-        <note type="pageNumber" xml:id="i-DEpAG4Rii2gdF2ouwnhERn">
-          70
-        </note>
-        <p xml:id="i-VjgNtCxpqUWBNjySgWgDgF">
-          fyra inkomna anbud låg Vägverkets pris ca 35 % under de tre övriga
-          anbuden.
-        </p>
-        <p xml:id="i-CGkz7nHPszVShtmmikM2UV">
-          Postens Lättgods antogs i december 1995 som transportör av mat
-          åt Bodens kommun för 1996. Även i detta fall låg anbudspriset
-          ca 35 % under närmaste anbudsgivare.
-        </p>
-        <p xml:id="i-CaVRA26L3QvGUtgpkMdsoR">
-          Enligt mycket seriösa bedömare med lång erfarenhet i branschen
-          är dessa två antagna anbud klart under självkostnaden. Det råder
-          således inget tvivel om att den skattefinansierade verksamheten
-          betalar den underprissättning som sker i konkurrens med privata
-          företag.
-        </p>
-        <p xml:id="i-W4rsRRcDjzrg7zCReM37RE">
-          För att undvika de negativa effekter som detta får, borde snabba
-          åt­gärder vidtas med syfte att nå likvärdiga marknadsekonomiska
-          förut­sättningar för samtliga aktörer på marknaden.
-        </p>
-        <p xml:id="i-J5TqqWnhvWpZcP83fEGdD2">
-          Med hänvisning till ovan anförda vill jag ställa följande frågor:
-        </p>
-        <p xml:id="i-4bRvkRbY3YrKrjtQuF2mgC">
-          1. Är kommunikationsministern beredd att genomföra den planera­de
-          bolagiseringen av Vägverkets produktion för att undvika konkur­renssnedvridning?
-        </p>
-        <p xml:id="i-FYCvX2jDrsp24YkSHKwhGo">
-          2. Vilka åtgärder är kommunikationsministern i övrigt beredd
-          att vidta för att skapa konkurrensneutralitet vad avser transporttjänster?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_70.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-NKQV7WXarqvmmZdKAyTHmL">
+            Affärsmässigheten i statliga verk och företag har under senare
+            år ifrågasatts. Skatte- eller anslagsfinansierad verksamhet har
+            genom underprissättning snedvridit konkurrensen och därmed bidragit
+            till att privata företag slagits ut. Under kommunikationsministerns
+            ansvarsom­råde ligger Vägverket och Postverket.
+          </p>
+          <p xml:id="i-FqyTqbCiYr8QrZu3ut5U2Z">
+            Vägverket Produktion Norr i Luleå har nyligen antagits som plogningsentreprenör
+            åt Bodens kommun för de tre närmaste åren. Av
+          </p>
+          <note xml:id="i-WLD92n4bLNHALRjj95Neff" type="pageNumber">
+            69
+          </note>
+          <note xml:id="i-BZBQkBXjFZVkiZDUrNLyTU" type="margin">
+            Interpellationer1995/96:1 -261
+          </note>
+          <note xml:id="i-MAZT56crTH3CZhXkt69Pvh" type="pageNumber">
+            70
+          </note>
+          <p xml:id="i-3AaezNyNTndU3dVim3erCh">
+            fyra inkomna anbud låg Vägverkets pris ca 35 % under de tre övriga
+            anbuden.
+          </p>
+          <p xml:id="i-GPTFm6Dyi3KzwA8nNU2aKQ">
+            Postens Lättgods antogs i december 1995 som transportör av mat
+            åt Bodens kommun för 1996. Även i detta fall låg anbudspriset
+            ca 35 % under närmaste anbudsgivare.
+          </p>
+          <p xml:id="i-VWkC1MKLdzdvMbVCiKntez">
+            Enligt mycket seriösa bedömare med lång erfarenhet i branschen
+            är dessa två antagna anbud klart under självkostnaden. Det råder
+            således inget tvivel om att den skattefinansierade verksamheten
+            betalar den underprissättning som sker i konkurrens med privata
+            företag.
+          </p>
+          <p xml:id="i-LAgRXj1a8w7p4ZvpwWR3VA">
+            För att undvika de negativa effekter som detta får, borde snabba
+            åt­gärder vidtas med syfte att nå likvärdiga marknadsekonomiska
+            förut­sättningar för samtliga aktörer på marknaden.
+          </p>
+          <p xml:id="i-QhaGi43ozmdrKKUKWHoaWs">
+            Med hänvisning till ovan anförda vill jag ställa följande frågor:
+          </p>
+          <p xml:id="i-HMpMAStdHzZp39TGgadYeT">
+            1. Är kommunikationsministern beredd att genomföra den planera­de
+            bolagiseringen av Vägverkets produktion för att undvika konkur­renssnedvridning?
+          </p>
+          <p xml:id="i-DQSN2D1DgN1d23opvzzsxQ">
+            2. Vilka åtgärder är kommunikationsministern i övrigt beredd
+            att vidta för att skapa konkurrensneutralitet vad avser transporttjänster?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,92 +3,116 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>familjehemsplaceringar</title>
+        <author>Alice Åström (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:218 av Alice Åström (v) till socialministern om familjehemsplaceringar</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_225.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_226.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Alice Åström (v)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>v</desc>
+            </state>
+            <idno>i-2aZQBvMx8o6ihusfvExbt8</idno>
+          </person>
+          <person>
+            <persName>socialministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DhFDMaFPT5F2DuLobvVV8C" corresp="i-2aZQBvMx8o6ihusfvExbt8">
+          <date when="1997-03-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MLm4HgnjRv9Sq8V3UnAEDp">
+          <note>date unknown</note>
+          <name>socialministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-HDUBFyiU463gWaYPpojjEb">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SrFbmQuVzNFPc7W4CXwhR5">
+          <date when="1997-03-24"/>
+        </correspAction>
+        <correspContext corresp="i-SrFbmQuVzNFPc7W4CXwhR5">
+          <ref type="record" target="prot-199798--085">Prot. 1997/98:85</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:218</head>
-        <author who="i-2aZQBvMx8o6ihusfvExbt8">Alice Åström (v)</author>
-        <minister who="unknown">socialministern</minister>
-        <topic>familjehemsplaceringar</topic>
-        <docDate when="1998-03-10">Inkom den 10 mars</docDate>
-        <status inProtocol="199798/prot-199798--085.xml" when="1998-03-24" status="answered">Besvarad den 24 mars, Prot. 1997/98:85</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:218 av Alice Åström (v) till socialministern
-          om familjehemsplaceringar
-        </IPQ_title>
-        <submission_info>
-          Inkom den 10 marsBesvarad den 24 mars Prot. 1997/98:85
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-MMfasA6X9ZmPrndmHZp9fe">
+            Interpellation 1997/98:218 av Alice Åström (v) till socialministern
+            om familjehemsplaceringar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WUArhekrSqdVa24K1A1wWu">
+            Inkom den 10 mars : Besvarad den 24 mars Prot. 1997/98:85
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QDV3Ecore5UMvhvZwYqehF">
-          Bam kan omhändertas frivilligt enligt socialtjänstlagen (SoL)
-          eller med tvång enligt lag med särskilda bestämmelser om vård
-          av unga (LVU). Det är kommunernas socialtjänst som har ansvaret
-          för tillämp­ningen av dessa lagar.
-        </p>
-        <note type="pageNumber" xml:id="i-Nc52fGobcQj5GXeYhjSrK">
-          226
-        </note>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_226.pdf"/>
-        <p xml:id="i-NKxKtJeVvwdiZnLCQTYmgV">
-          I många kommuner har man haft svårt att upprätthålla kompetensen
-          när det gäller arbetet med familjehemsplaceringar. Av ekonomiska
-          skäl har denna verksamhet fått stå tillbaka för den ökande andelen
-          av social­bidrag som måste bedömas och utbetalas. Även små kommuner
-          med få placeringar har haft problem med sin familjehemsverksamhet.
-        </p>
-        <p xml:id="i-NRRhwk1RNLaZpoE2gg8fRe">
-          För att klara placeringarna har kommunerna köpt kompetens från
-          pri­vata bolag. Bolag som i många fall startats av personal som
-          tidigare arbe­tat med dessa frågor inom socialförvaltningen. De
-          har knutit till sig en rad familjehem och organiserat placering,
-          handledning, utbildning m.m.
-        </p>
-        <p xml:id="i-4566nEuf5bvXqtKwEfKwNK">
-          Utvecklingen mot en privatisering av en lagreglerad kommunal
-          verk­samhet på ett mycket känsligt område har i en del fall fått
-          negativa effek­ter när det gäller bam och föräldrars integritet
-          och rättssäkerhet. Därför är det rimligt att ifrågasätta om det
-          är rätt att lägga över så viktiga kommu­nala uppgifter på företag
-          med privata vinstintressen.
-        </p>
-        <p xml:id="i-CStMECtenhT1QMcYrD3TGU">
-          Mina frågor till socialministern med anledning av detta är:
-        </p>
-        <p xml:id="i-Fhm9kCa5ncYRm2AdFYZJPC">
-          1. Vilka åtgärder avser regeringen att vidta för att öka kommunernas
-          kontroll över privata bolags verksamhet när det gäller placering
-          av barn i familjehem?
-        </p>
-        <p xml:id="i-7PGLBKNAfojuYneCTEuxNA">
-          2. Vad avser regeringen att vidta för åtgärder för att stärka
-          bams och föräldrars integritet och rättssäkerhet vid omhändertaganden?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_227.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9qGNXSeECbUtL1iBZD2Y4d">
+            Bam kan omhändertas frivilligt enligt socialtjänstlagen (SoL)
+            eller med tvång enligt lag med särskilda bestämmelser om vård
+            av unga (LVU). Det är kommunernas socialtjänst som har ansvaret
+            för tillämp­ningen av dessa lagar.
+          </p>
+          <note xml:id="i-SYMcXUwnG8xvHz9xBB8egC" type="pageNumber">
+            226
+          </note>
+          <p xml:id="i-8h5FhDkdkJ9pUj4zr11LuB">
+            I många kommuner har man haft svårt att upprätthålla kompetensen
+            när det gäller arbetet med familjehemsplaceringar. Av ekonomiska
+            skäl har denna verksamhet fått stå tillbaka för den ökande andelen
+            av social­bidrag som måste bedömas och utbetalas. Även små kommuner
+            med få placeringar har haft problem med sin familjehemsverksamhet.
+          </p>
+          <p xml:id="i-GP4BjhGt7VSmbaY74sQq7w">
+            För att klara placeringarna har kommunerna köpt kompetens från
+            pri­vata bolag. Bolag som i många fall startats av personal som
+            tidigare arbe­tat med dessa frågor inom socialförvaltningen. De
+            har knutit till sig en rad familjehem och organiserat placering,
+            handledning, utbildning m.m.
+          </p>
+          <p xml:id="i-H14gqdaVU3PU6GAizgKP1E">
+            Utvecklingen mot en privatisering av en lagreglerad kommunal
+            verk­samhet på ett mycket känsligt område har i en del fall fått
+            negativa effek­ter när det gäller bam och föräldrars integritet
+            och rättssäkerhet. Därför är det rimligt att ifrågasätta om det
+            är rätt att lägga över så viktiga kommu­nala uppgifter på företag
+            med privata vinstintressen.
+          </p>
+          <p xml:id="i-47my6kMKaJYnd2makdjUcC">
+            Mina frågor till socialministern med anledning av detta är:
+          </p>
+          <p xml:id="i-3pWgMrCHuEnd1mLAhdNkVf">
+            1. Vilka åtgärder avser regeringen att vidta för att öka kommunernas
+            kontroll över privata bolags verksamhet när det gäller placering
+            av barn i familjehem?
+          </p>
+          <p xml:id="i-KP1Ae8vitwBUHJ3tKSRWmw">
+            2. Vad avser regeringen att vidta för åtgärder för att stärka
+            bams och föräldrars integritet och rättssäkerhet vid omhändertaganden?
+          </p>
+        </div>
       </div>
     </body>
   </text>

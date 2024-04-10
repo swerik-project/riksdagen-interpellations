@@ -3,85 +3,110 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nyföretagande</title>
+        <author>Strömbom, Inger (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>nyföretagande till näringsminister Björn Rosengren om nyföretagande</title>
+          <idno type="rdwebb">GO10435</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO10435/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO10435</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO10435</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-FWydL5N493XBW1LnZgZjCH</idno>
+            <persName>Strömbom, Inger (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <persName>näringsminister Björn Rosengren </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <persName>näringsminister Björn Rosengren </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-GGWdshmZ6up1bMECR4wXL" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
+          <date when="2001-05-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9PeQ6ZZFCyDVqBYkXf3ACH" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
+          <date when="2001-05-14"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-UPCAXCib47Bz2Pkh7LnAEK" corresp="i-FWydL5N493XBW1LnZgZjCH">
+          <date when="2001-04-27"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0435</head>
-        <author who="i-FWydL5N493XBW1LnZgZjCH">Strömbom, Inger (kd) </author>
-        <recipient who="i-HP26Ex6XfZD2gozC8P6pdm">näringsminister Björn Rosengren </recipient>
-        <topic>nyföretagande</topic>
-        <docDate when="2001-04-27">den 27 april</docDate>
-        <status when="2001-05-14" byWhom="näringsminister Björn Rosengren " byWhomId="i-HP26Ex6XfZD2gozC8P6pdm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO10435</external_id>
-        <debate>
-          <turn when="2001-05-14 13:29:09" duration="293">BJÖRN ROSENGREN (Näringsminister)</turn>
-          <turn when="2001-05-14 13:33:57" duration="201">INGER STRÖMBOM (Kd)</turn>
-          <turn when="2001-05-14 13:37:14" duration="259">BJÖRN ROSENGREN (Näringsminister)</turn>
-          <turn when="2001-05-14 13:41:29" duration="225">INGER STRÖMBOM (Kd)</turn>
-          <turn when="2001-05-14 13:45:09" duration="118">BJÖRN ROSENGREN (Näringsminister)</turn>
-          <turn when="2001-05-14 13:47:03" duration="133">INGER STRÖMBOM (Kd)</turn>
-          <turn when="2001-05-14 13:49:12" duration="151">BJÖRN ROSENGREN (Näringsminister)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:435 av Inger Strömbom (kd) till näringsminister
-          Björn Rosengren om nyföretagande
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GdkS9bQCEUzgimeSHGeJv4">
+            Interpellation 2000/01:435 av Inger Strömbom (kd) till näringsminister
+            Björn Rosengren om nyföretagande
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KMTD5XEsoZGzkbGawh8ESo">
+            den 27 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-B9iaTcMvPtykUtai24krx8">
-          Nyföretagandet har minskat med 14 % under januari och februari.
-          Trots att vi har haft högkonjunktur och staten försökt stimulera
-          till företagande finns det i dag inte fler personer som är företagare
-          än vad det fanns 1994.
-        </p>
-        <p xml:id="i-2BJvAtFueepbJ3hQ2hCkC6">
-          Detta är mycket oroande. Företagande och tillväxt är förutsättningen
-          för att vi ska kunna utveckla välfärden. Ska vi kunna ta väl hand
-          om våra barn i omsorg och skola och kunna ge våra gamla en värdig
-          ålderdom måste vi stimulera, inte bromsa, företagandet. Få reformförslag
-          som skulle kunna förenkla och förbättra för företagandet har hittills
-          kommit från Näringsdepartementet. Innan konjunkturen vänder ned
-          måste nödvändiga reformer ha trätt i kraft.
-        </p>
-        <p xml:id="i-uAeYmNsuUQVPssY7MeXuD">
-          Med hänvisning till det anförda vill jag ställa följande frågor
-          till näringsminister Björn Rosengren:
-        </p>
-        <p xml:id="i-Y7CfDp4dH4yqsJ3qz5Vc3p">
-          Vilka ytterligare regelförenklingar kommer statsrådet att föreslå
-          för att underlätta främst för de små företagen?
-        </p>
-        <p xml:id="i-EVxHSQDtPgMc7zXesGT9au">
-          Vilka åtgärder kommer statsrådet att vidta för att underlätta
-          generationsskifte i familjeföretagen?
-        </p>
-        <p xml:id="i-JMw4zMSZLj2QCHUkwQHj6S">
-          Vilka skattereformer avser statsrådet föreslå för att stimulera
-          ett ökat nyföretagande?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-VQL7pPmgaiC8grRuMPFMHd">
+            Nyföretagandet har minskat med 14 % under januari och februari.
+            Trots att vi har haft högkonjunktur och staten försökt stimulera
+            till företagande finns det i dag inte fler personer som är företagare
+            än vad det fanns 1994.
+          </p>
+          <p xml:id="i-9ppLLN9sjuW5o4S5CAU77u">
+            Detta är mycket oroande. Företagande och tillväxt är förutsättningen
+            för att vi ska kunna utveckla välfärden. Ska vi kunna ta väl hand
+            om våra barn i omsorg och skola och kunna ge våra gamla en värdig
+            ålderdom måste vi stimulera, inte bromsa, företagandet. Få reformförslag
+            som skulle kunna förenkla och förbättra för företagandet har hittills
+            kommit från Näringsdepartementet. Innan konjunkturen vänder ned
+            måste nödvändiga reformer ha trätt i kraft.
+          </p>
+          <p xml:id="i-2y2sRDD25CBKGqsSD2SASy">
+            Med hänvisning till det anförda vill jag ställa följande frågor
+            till näringsminister Björn Rosengren:
+          </p>
+          <p xml:id="i-NXA79ibmopwZZ2iCBXT8DL">
+            Vilka ytterligare regelförenklingar kommer statsrådet att föreslå
+            för att underlätta främst för de små företagen?
+          </p>
+          <p xml:id="i-MH9YqWBuRCSey9UKPJvW8e">
+            Vilka åtgärder kommer statsrådet att vidta för att underlätta
+            generationsskifte i familjeföretagen?
+          </p>
+          <p xml:id="i-8Lt3pUSiLPPVenXHomQQZS">
+            Vilka skattereformer avser statsrådet föreslå för att stimulera
+            ett ökat nyföretagande?
+          </p>
+        </div>
       </div>
     </body>
   </text>

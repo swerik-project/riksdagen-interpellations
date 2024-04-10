@@ -3,67 +3,91 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>helikopterberedskapen i Söderhamn</title>
+        <author>Lennart Rohdin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:23 av Lennart Rohdin (fp) till försvarsministern om helikopterberedskapen i Söderhamn</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_22.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Rohdin (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-T576BDaw5pvVYLHtf4Pt4X</idno>
+          </person>
+          <person>
+            <persName>försvarsministern</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-WTAapD41zBGY6JqaTT1FLg" corresp="i-T576BDaw5pvVYLHtf4Pt4X">
+          <date when="1997-10-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TPePUdZjYXGFXT3mTd8N5C">
+          <note>date unknown</note>
+          <name>försvarsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-NWVsVLkjGWEJu16zWbDoiY">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-S5kdn1q3EcegfFiL5szVoK">
+          <date when="1997-10-23"/>
+        </correspAction>
+        <correspContext corresp="i-S5kdn1q3EcegfFiL5szVoK">
+          <ref type="record" target="prot-199798--018">Prot. 1997/98:18</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:23</head>
-        <author who="i-T576BDaw5pvVYLHtf4Pt4X">Lennart Rohdin (fp)</author>
-        <minister who="unknown">försvarsministern</minister>
-        <topic>helikopterberedskapen i Söderhamn</topic>
-        <docDate when="1997-10-13">Inkom den 13 oktober</docDate>
-        <status inProtocol="199798/prot-199798--018.xml" when="1997-10-23" status="answered">Besvarad den 23 oktober, Prot. 1997/98:18</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:23 av Lennart Rohdin (fp) till försvarsministern
-          om helikopterberedskapen i Söderhamn
-        </IPQ_title>
-        <submission_info>
-          Inkom den 13 oktoberBesvarad den 23 oktober Prot. 1997/98:18
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5ZsR6U7nEatVANnKCsmUbC">
+            Interpellation 1997/98:23 av Lennart Rohdin (fp) till försvarsministern
+            om helikopterberedskapen i Söderhamn
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-NVsHKfiTMn44R84GwHNYZC">
+            Inkom den 13 oktober : Besvarad den 23 oktober Prot. 1997/98:18
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8yQt3uDoXAAiYdTarNY9pN">
-          Som en följd av riksdagens beslut i december 1996 att bifalla
-          rege­ringens förslag att lägga ned F 15 i Söderhamn, avses nu
-          helikopterbered­skapen i Söderhamn flyttas till Östersund. Därmed
-          lämnas räddningsbe- redskapen längs den nedre halvan av Norrlandskusten
-          i praktiken helt tom. Regeringen har uttalat en förhoppning att
-          frågan skall lösas fram­över.
-        </p>
-        <p xml:id="i-CcEVqfWGxkZPDE61SV7UZa">
-          Inför riksdagens behandling av regeringens budgetproposition
-          inför 1998 har ett flertal motioner av enskilda och partier väckts
-          som starkt ifrågasätter beslutet att flytta helikopterberedskapen
-          från Söderhamn. Budgetbehandlingen sker den 4 december.
-        </p>
-        <p xml:id="i-APTD7xZxGBrUGwXCMDxp1L">
-          Vad avser regeringen vidta för åtgärder för att riksdagens yttrande
-          över motioner angående helikopterberedskapen i Söderhamn skall
-          kunna inväntas innan definitivt beslut fattas i frågan?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_23.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3HDmZsV1LLJubv5MHeWZ83">
+            Som en följd av riksdagens beslut i december 1996 att bifalla
+            rege­ringens förslag att lägga ned F 15 i Söderhamn, avses nu
+            helikopterbered­skapen i Söderhamn flyttas till Östersund. Därmed
+            lämnas räddningsbe- redskapen längs den nedre halvan av Norrlandskusten
+            i praktiken helt tom. Regeringen har uttalat en förhoppning att
+            frågan skall lösas fram­över.
+          </p>
+          <p xml:id="i-E5ELFoLxyg2mfdRPJfvwTR">
+            Inför riksdagens behandling av regeringens budgetproposition
+            inför 1998 har ett flertal motioner av enskilda och partier väckts
+            som starkt ifrågasätter beslutet att flytta helikopterberedskapen
+            från Söderhamn. Budgetbehandlingen sker den 4 december.
+          </p>
+          <p xml:id="i-NneH1i7NU5H3UY6GMVHN9b">
+            Vad avser regeringen vidta för åtgärder för att riksdagens yttrande
+            över motioner angående helikopterberedskapen i Söderhamn skall
+            kunna inväntas innan definitivt beslut fattas i frågan?
+          </p>
+        </div>
       </div>
     </body>
   </text>
