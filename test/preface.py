@@ -118,6 +118,46 @@ class Test(unittest.TestCase):
 
 
     #@unittest.skip
+    def test_person_id(self):
+        ipqs = self._fetch_data_paths()
+        person_count = 0
+        person_no_id = 0
+        for ipq in ipqs:
+            root, ns = parse_protocol(ipq, get_ns=True)
+            t = ns['tei_ns']
+            persons = root.findall(f".//{t}person")
+            for person in persons:
+                person_count += 1
+                idno = person.find(f"{t}idno")
+                if idno is None:
+                    person_no_id += 1
+                else:
+                    if idno.text.startswith("r-"):
+                        person_no_id += 1
+        print(f"\nPERSON ID TEST: {person_no_id} of {person_count} missing ID :: {person_no_id/person_count}")
+
+    #@unittest.skip
+    def test_person_gender(self):
+        ipqs = self._fetch_data_paths()
+        person_count = 0
+        person_no_gen = 0
+        for ipq in ipqs:
+            root, ns = parse_protocol(ipq, get_ns=True)
+            t = ns['tei_ns']
+            persons = root.findall(f".//{t}person")
+            for person in persons:
+                person_count += 1
+                if "gender" in person.attrib:
+                    if person.attrib['gender'] == "man" or person.attrib['gender'] == "woman":
+                        pass
+                    else:
+                        person_no_gen += 1
+                else:
+                    person_no_gen += 1
+        print(f"\nPERSON GENDER TEST: {person_no_gen} of {person_count} missing gender label :: {person_no_gen/person_count}")
+
+
+    #@unittest.skip
     def test_correspDesc(self):
         ipqs = self._fetch_data_paths()
         empty_list = 0
