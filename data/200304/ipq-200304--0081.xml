@@ -3,102 +3,135 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>statliga myndigheters opinionsbildning</title>
+        <author>Krantz, Tobias (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>statliga myndigheters opinionsbildning till statsrådet Pär Nuder om statliga myndigheters opinionsbildning</title>
+          <idno type="rdwebb">GR1081</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1081/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1081</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1081</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Wou9Nu2AtEJsPviRYnhxcZ" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
+          <date when="2003-11-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EE64qYykvg3vW7Jbc47UXB">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4KcWAv7R741ozC9ZYVnoBu">
+          <date when="2003-11-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-P3BhJtqEYFqKCYw5xMoZJC" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2003-11-10"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LF8F4NSipLUWKqzru5oANn" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2003-11-21"/>
+        </correspAction>
+        <correspContext corresp="i-LF8F4NSipLUWKqzru5oANn">
+          <ref type="record" target="prot-200304--033">Riksdagens protokoll 2003/04:33 Fredagen den 21 november</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2003/04:81 om statliga myndigheters opinionsbildning</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0081</head>
-        <author who="i-UnkrZ3NAvoWXY6Krxbkudq">Tobias Krantz</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>statliga myndigheters opinionsbildning</topic>
-        <docDate when="2003-11-05">den 5 november</docDate>
-        <status when="2003-11-21" byWhom="Gunnar Lund" byWhomId="i-GRX2GfDazmcwmcRyZSiKdA" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1081</external_id>
-        <debate>
-          <turn when="2003-11-21 09:05:15" duration="315">Gunnar Lund (S)</turn>
-          <turn when="2003-11-21 09:10:26" duration="265">Tobias Krantz (Fp)</turn>
-          <turn when="2003-11-21 09:14:48" duration="272">Henrik von Sydow (M)</turn>
-          <turn when="2003-11-21 09:19:12" duration="275">Gunnar Lund (S)</turn>
-          <turn when="2003-11-21 09:23:48" duration="250">Tobias Krantz (Fp)</turn>
-          <turn when="2003-11-21 09:27:54" duration="127">Henrik von Sydow (M)</turn>
-          <turn when="2003-11-21 09:29:57" duration="280">Gunnar Lund (S)</turn>
-          <turn when="2003-11-21 09:34:28" duration="156">Tobias Krantz (Fp)</turn>
-          <turn when="2003-11-21 09:36:55" duration="201">Gunnar Lund (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:81 av Tobias Krantz (fp) till statsrådet
-          Pär Nuder om statliga myndigheters opinionsbildning
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-HpYV3TJTAPk1eYrXfysGbw">
+            Interpellation 2003/04:81 av Tobias Krantz (fp) till statsrådet
+            Pär Nuder om statliga myndigheters opinionsbildning
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Cq82ZTYmHZLSbhd3WcdZaT">
+            den 5 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DvsMRZW9rfwRqxvaiFg6mR">
-          Först agiterade skattemyndigheten för vilka hemskheter i form
-          av minskad välfärd som skulle drabba svenska folket om det nuvarande
-          höga skattetrycket inte bibehölls. Några sekunder senare propagerade
-          en annan statlig myndighet i starkt suggestiv ton mot den så kallade
-          växthuseffekten.
-        </p>
-        <p xml:id="i-9fXcqmRaUf4Yft3wBUmSLR">
-          Det är bara två exempel från senare tid @ hämtade från en och
-          samma reklampaus i en av våra kommersiella TV-kanaler @ på en,
-          i huvudsak, ny och bekymmersam tendens: Statliga myndigheter ägnar
-          sig åt renodlad politisk opinionsbildning på skattebetalarnas
-          bekostnad.
-        </p>
-        <p xml:id="i-GbZmPRdapEE6k2nWTnp4ai">
-          Myndigheternas ökande intresse att bedriva politisk propaganda
-          har under de senaste åren primärt tagit sig två uttryck: För det
-          första har redan etablerade myndigheter till synes börjat använda
-          mer av de resurser som skattebetalarna har ställt till deras förfogande
-          för att i realiteten agitera för ibland kontroversiella, ibland
-          mindre kontroversiella, politiska uppfattningar; för det andra
-          har nya myndigheter som egentligen inte har någon annan uppgift
-          än att just bedriva opinionsbildning tillskapats. Två exempel
-          på sådana opinionsbildande myndigheter är Integrationsverket och
-          Glesbygdsverket.
-        </p>
-        <p xml:id="i-ArTnisonHEfyddzfXFhRBq">
-          Att statliga myndigheter ägnar sig åt politisk propaganda är,
-          bland mycket annat, ett demokratiproblem. En central tanke i det
-          svenska styrelseskicket är att det är folkvalda politiker som
-          ska ägna sig åt opinionsbildning, debatt och beslut. Myndigheternas
-          uppgift är att sakligt och opartiskt verkställa de beslut som
-          exempelvis riksdag och regering fattar. Företeelsen att statliga
-          myndigheter spenderar tid, kraft och resurser på mer eller mindre
-          renodlad politisk propaganda, både gentemot medborgarna och gentemot
-          förtroendevalda, bidrar till att göra rollfördelningen mellan
-          politik och förvaltning otydlig. Det kan i längden bli ett hot
-          mot demokratin. Inte heller kan det anses vara en rimlig användning
-          av skattebetalarnas pengar.
-        </p>
-        <p xml:id="i-DreLgjzLgnKJAn4vU51gWi">
-          Med anledning av vad som ovan anförs vill jag fråga statsrådet
-          vilka åtgärder han avser att vidta i syfte att stävja företeelsen
-          att statliga myndigheter använder skattebetalarnas pengar till
-          politisk opinionsbildning.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BYyE59U221eYciV8SurNHw">
+            Först agiterade skattemyndigheten för vilka hemskheter i form
+            av minskad välfärd som skulle drabba svenska folket om det nuvarande
+            höga skattetrycket inte bibehölls. Några sekunder senare propagerade
+            en annan statlig myndighet i starkt suggestiv ton mot den så kallade
+            växthuseffekten.
+          </p>
+          <p xml:id="i-L2B5pvwapHhn55Mj4umhTY">
+            Det är bara två exempel från senare tid @ hämtade från en och
+            samma reklampaus i en av våra kommersiella TV-kanaler @ på en,
+            i huvudsak, ny och bekymmersam tendens: Statliga myndigheter ägnar
+            sig åt renodlad politisk opinionsbildning på skattebetalarnas
+            bekostnad.
+          </p>
+          <p xml:id="i-VTF4LsdHMGLaVdQnptVmt">
+            Myndigheternas ökande intresse att bedriva politisk propaganda
+            har under de senaste åren primärt tagit sig två uttryck: För det
+            första har redan etablerade myndigheter till synes börjat använda
+            mer av de resurser som skattebetalarna har ställt till deras förfogande
+            för att i realiteten agitera för ibland kontroversiella, ibland
+            mindre kontroversiella, politiska uppfattningar; för det andra
+            har nya myndigheter som egentligen inte har någon annan uppgift
+            än att just bedriva opinionsbildning tillskapats. Två exempel
+            på sådana opinionsbildande myndigheter är Integrationsverket och
+            Glesbygdsverket.
+          </p>
+          <p xml:id="i-F1tNrPinjXTS28QoLAy7mv">
+            Att statliga myndigheter ägnar sig åt politisk propaganda är,
+            bland mycket annat, ett demokratiproblem. En central tanke i det
+            svenska styrelseskicket är att det är folkvalda politiker som
+            ska ägna sig åt opinionsbildning, debatt och beslut. Myndigheternas
+            uppgift är att sakligt och opartiskt verkställa de beslut som
+            exempelvis riksdag och regering fattar. Företeelsen att statliga
+            myndigheter spenderar tid, kraft och resurser på mer eller mindre
+            renodlad politisk propaganda, både gentemot medborgarna och gentemot
+            förtroendevalda, bidrar till att göra rollfördelningen mellan
+            politik och förvaltning otydlig. Det kan i längden bli ett hot
+            mot demokratin. Inte heller kan det anses vara en rimlig användning
+            av skattebetalarnas pengar.
+          </p>
+          <p xml:id="i-4MFzYmksDT7cp615nL2QfQ">
+            Med anledning av vad som ovan anförs vill jag fråga statsrådet
+            vilka åtgärder han avser att vidta i syfte att stävja företeelsen
+            att statliga myndigheter använder skattebetalarnas pengar till
+            politisk opinionsbildning.
+          </p>
+        </div>
       </div>
     </body>
   </text>

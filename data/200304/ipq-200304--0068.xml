@@ -3,72 +3,148 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>prioriteringar i sjukvården</title>
+        <author>Husmark Pehrsson, Cristina (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>prioriteringar i sjukvården till socialminister Lars Engqvist om prioriteringar i sjukvården</title>
+          <idno type="rdwebb">GR1068</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1068/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1068</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1068</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4it9qqwhGMJsudvFeYr7zb" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-7hs4TXzXdNZiJWBA7jf5xn">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FCjLJN5RNeJe9vrwd8S4Gt">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PEKwR51BKKeTkMb3v1dYMR" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-10-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VR6qwweeXXSEK82ngyhcPP" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspContext corresp="i-VR6qwweeXXSEK82ngyhcPP">
+          <ref type="record" target="prot-200304--029">Riksdagens protokoll 2003/04:29 Måndagen den 17 november</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2003/04:68 om prioriteringar i sjukvården</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0068</head>
-        <author who="i-Dh86x4tP3poRsuGn2pQFUn">Cristina Husmark Pehrsson</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>prioriteringar i sjukvården</topic>
-        <docDate when="2003-10-31">den 31 oktober</docDate>
-        <status when="unknown" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1068</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:68 av Cristina Husmark Pehrsson (m) till
-          socialminister Lars Engqvist om prioriteringar i sjukvården
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-ACfQPMrSm1TfUS1Mif4f1e">
+            Interpellation 2003/04:68 av Cristina Husmark Pehrsson (m) till
+            socialminister Lars Engqvist om prioriteringar i sjukvården
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WJDVWo5F3svZonimmaLZHd">
+            den 31 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-27YknwnFLnhQXLPMfNWVUZ">
-          Kraven på hälso- och sjukvården ökar, dels på grund av att vi
-          får ett ökat antal äldre och dels för att den medicinsk-tekniska
-          utvecklingen ger ökade möjligheter att diagnostisera och behandla
-          sjuka. Riksdagen beslutade därför i april 1997 om riktlinjer för
-          prioriteringar i hälso- och sjukvården. Dessa riktlinjer bygger
-          på tre etiska grundprinciper:
-        </p>
-        <p xml:id="i-Ce8xMSUXyj7fME2syx5JQ5">
-          De av riksdagen beslutade riktlinjerna utgörs dessutom av Prioriteringsgrupperna
-          I-VI, där I omfattar akuta och livshotande sjukdomstillstånd,
-          medan IV omfattar vård av andra skäl än sjukdom och skada.
-        </p>
-        <p xml:id="i-5QUjFYonRW6RpbY6hJkupU">
-          Vi kan nu ta del av rekommendationer från landsting, där utbudsminskningar
-          innebär avsteg från både beslutade prioriteringar och etiska grundprinciper.
-          Tillgänglighet och kvalitet minskar samtidigt som patienten kan
-          komma att tvingas betala för vården två gånger. Dels genom landstingsskatten
-          och dels genom att tvingas betala för vård och behandling hos
-          annan vårdgivare än landstinget, som valt att prioritera bort
-          vissa åtgärder.
-        </p>
-        <p xml:id="i-LVeP7AD3cvZgiTGizvF26s">
-          Då det ytterst åvilar regeringen att se till att riktlinjer och
-          prioriteringar efterföljs är mina frågor till socialministern
-          följande:
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5pLN7rdnMdysegVsFEhNF7">
+            Kraven på hälso- och sjukvården ökar, dels på grund av att vi
+            får ett ökat antal äldre och dels för att den medicinsk-tekniska
+            utvecklingen ger ökade möjligheter att diagnostisera och behandla
+            sjuka. Riksdagen beslutade därför i april 1997 om riktlinjer för
+            prioriteringar i hälso- och sjukvården. Dessa riktlinjer bygger
+            på tre etiska grundprinciper:
+            <list rend="unordered">
+              <item>
+                Människovärdesprincipen, som innebär att alla människor har lika
+                värde och samma rätt oberoende av personliga egenskaper och funktioner
+                i samhället.
+              </item>
+              <item>
+                Behovssolidaritetsprincipen, som innebär att resurserna bör fördelas
+                efter behov.
+              </item>
+              <item>
+                Kostnadseffektivitetsprincipen, som innebär att det vid val mellan
+                olika verksamheter eller åtgärder bör eftersträvas en rimlig relation
+                mellan kostnader och effekt, mätt i förbättrad hälsa och livskvalitet.
+              </item>
+            </list>
+          </p>
+          <p xml:id="i-XCKJnsh3JyDPioFExMeVK9">
+            De av riksdagen beslutade riktlinjerna utgörs dessutom av Prioriteringsgrupperna
+            I-VI, där I omfattar akuta och livshotande sjukdomstillstånd,
+            medan IV omfattar vård av andra skäl än sjukdom och skada.
+          </p>
+          <p xml:id="i-3ZiPYnmC9Vkufrc3jJWZfc">
+            Vi kan nu ta del av rekommendationer från landsting, där utbudsminskningar
+            innebär avsteg från både beslutade prioriteringar och etiska grundprinciper.
+            Tillgänglighet och kvalitet minskar samtidigt som patienten kan
+            komma att tvingas betala för vården två gånger. Dels genom landstingsskatten
+            och dels genom att tvingas betala för vård och behandling hos
+            annan vårdgivare än landstinget, som valt att prioritera bort
+            vissa åtgärder.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-XKDz767NBXJVnAhpPiM3UD">
+            Då det ytterst åvilar regeringen att se till att riktlinjer och
+            prioriteringar efterföljs är mina frågor till socialministern
+            följande:
+            <list rend="unordered">
+              <item>
+                Vilka åtgärder ämnar ministern vidta för att tagna prioriteringar
+                inom hälso- och sjukvården fortsatt ska gälla?
+              </item>
+              <item>
+                Vilka åtgärder ämnar ministern vidta för att garantera vård i
+                tid?
+              </item>
+              <item>
+                Vilka åtgärder ämnar ministern vidtaga för att inte patienter
+                med vård- och omsorgsbehov ska nödgas betala vården två gånger?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,62 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>målflyg- divisionen på Malmen</title>
+        <author>Dan Ericsson (kds)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:168 av Dan Ericsson (kds) till försvarsministern om målflyg- divisionen på Malmen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_174.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_175.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Dan Ericsson (kds)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>kds</desc>
+            </state>
+            <idno>i-UDXM9dqeHhySJV3ZevrZPw</idno>
+          </person>
+          <person gender="man">
+            <persName>försvarsministern</persName>
+            <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-QiEtNCjsKQv18frJ8b639a" corresp="i-UDXM9dqeHhySJV3ZevrZPw">
+          <date when="1995-04-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LhdM2Wu8XvC3fWpympiYhd">
+          <note>date unknown</note>
+          <name>försvarsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-tLqgWZeTgwriVATUkLrJm">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LHFJTGWx8asHrqc3gu4DjN">
+          <date when="1995-04-26"/>
+        </correspAction>
+        <correspContext corresp="i-LHFJTGWx8asHrqc3gu4DjN">
+          <ref type="record" target="prot-199596--087">Prot. 1995/96:87</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:168</head>
-        <author who="i-UDXM9dqeHhySJV3ZevrZPw">Dan Ericsson (kds)</author>
-        <minister who="unknown">försvarsministern</minister>
-        <topic>målflyg- divisionen på Malmen</topic>
-        <docDate when="1996-04-04">Inkom den 4 april</docDate>
-        <status inProtocol="199596/prot-199596--087.xml" when="1996-04-26" status="answered">Besvarad den 26 april, Prot. 1995/96:87</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:168 av Dan Ericsson (kds) till försvarsministern om målflyg-
-          divisionen på Malmen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 4 aprilBesvarad den 26 april Prot. 1995/96:87
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CuDpNHaTWPJZCEAVcV3agh">
+            1995/96:168 av Dan Ericsson (kds) till försvarsministern om målflyg-
+            divisionen på Malmen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Th5hxRKZpVhhDRG7ypTkoo">
+            Inkom den 4 april : Besvarad den 26 april Prot. 1995/96:87
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JnVeRiaWK71V2BSdiRSv97">
-          Inför det kommande försvarspolitiska beslutet har ÖB tagit fram
-          Förs vars maktsplan 97. I den redovisas en rad förslag som drastiskt
-          förändrar försvarets omfattning och organisation. Bland förslagen
-          märks bl.a. frågan om nedläggning av Linköpings garnison som i
-          sig är ett ogenomtänkt förslag såväl försvarsmässigt som ekonomiskt.
-          Denna del får dock behandlas i annat sammanhang.
-        </p>
-        <p xml:id="i-J6Une7iKZsB3UGshQL3Zei">
-          I FMP 97 dras de stora linjerna upp men där finns också sådant
-          som kan verka som detaljer men som i sammanhanget är synnerligen
-          vä-
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_175.pdf"/>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_176.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-MbSDHCnRAH7buyAShQNX9w">
+            Inför det kommande försvarspolitiska beslutet har ÖB tagit fram
+            Förs vars maktsplan 97. I den redovisas en rad förslag som drastiskt
+            förändrar försvarets omfattning och organisation. Bland förslagen
+            märks bl.a. frågan om nedläggning av Linköpings garnison som i
+            sig är ett ogenomtänkt förslag såväl försvarsmässigt som ekonomiskt.
+            Denna del får dock behandlas i annat sammanhang.
+          </p>
+          <p xml:id="i-WNWxh6kM7eFXmLSbyaqm3W">
+            I FMP 97 dras de stora linjerna upp men där finns också sådant
+            som kan verka som detaljer men som i sammanhanget är synnerligen
+            vä-
+          </p>
+        </div>
       </div>
     </body>
   </text>

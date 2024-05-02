@@ -3,100 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Giwa</title>
+        <author>Thorén, Sverker (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Giwa till statsrådet Lena Sommestad om Giwa</title>
+          <idno type="rdwebb">GS10529</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10529/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10529</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10529</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-4sBVpXefsL1CF7kS8shrq5</idno>
+            <persName>Sverker Thorén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-2xfC7j68TMsxp1QGwkQ5pm" corresp="i-4sBVpXefsL1CF7kS8shrq5">
+          <date when="2005-04-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-JptWyzWsQ86rEHG2TmP1g" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-04-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BJK3Ko6EgLcUpxbn58fZLT">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UomRq1tjFgweNjVGMPr5Ji" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspContext corresp="i-UomRq1tjFgweNjVGMPr5Ji">
+          <ref type="record" target="prot-200405--125">Riksdagens protokoll 2004/05:125 Tisdagen den 24 maj</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:529 om Giwa</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0529</head>
-        <author who="i-4sBVpXefsL1CF7kS8shrq5">Sverker Thorén</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>Giwa</topic>
-        <docDate when="2005-04-19">den 19 april</docDate>
-        <status when="2005-05-24" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10529</external_id>
-        <debate>
-          <turn when="2005-05-24 13:50:03" duration="284">Lena Sommestad (S)</turn>
-          <turn when="2005-05-24 13:54:44" duration="208">Sverker Thorén (Fp)</turn>
-          <turn when="2005-05-24 13:58:07" duration="172">Lena Sommestad (S)</turn>
-          <turn when="2005-05-24 14:00:53" duration="112">Sverker Thorén (Fp)</turn>
-          <turn when="2005-05-24 14:02:42" duration="109">Lena Sommestad (S)</turn>
-          <turn when="2005-05-24 14:04:27" duration="34">Sverker Thorén (Fp)</turn>
-          <turn when="2005-05-24 14:04:58" duration="50">Lena Sommestad (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:529 av Sverker Thorén (fp) till statsrådet
-          Lena Sommestad om Giwa
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2JESS79JwL7r1WWV6zCHJF">
+            Interpellation 2004/05:529 av Sverker Thorén (fp) till statsrådet
+            Lena Sommestad om Giwa
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9tpG8Hf1rUDowfd1XTBhG6">
+            den 19 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6ioZGboQQReSvLQPmRNdkd">
-          Projektet Global International Waters Assessement (Giwa) har
-          under fem års tid och med stor framgång drivits av Unep, FN:s
-          miljöprogram, och Högskolan i Kalmar. Giwa arbetar med en global
-          utvärdering av miljötillståndet i världens gränsöverskridande
-          vatten, det vill säga vatten som berör två eller flera länder.
-          Utvärderingen berör både söt- och saltvatten samt grundvatten.
-          Uppgiften är att enligt en fastställd metod ta fram var problemen
-          är störst, beskriva orsakerna bakom dessa och föreslå åtgärder
-          för att minska problemen. Arbetet sker i samarbete med ett tusental
-          experter runtom i världen, och det koordineras i Kalmar där de
-          slutliga rapporterna också sammanställs.
-        </p>
-        <p xml:id="i-sv3LkvARergB6nzAEy8mY">
-          Projektet är nu i sin slutfas och upphör den 30 juni 2005, men
-          behovet av fortsatt verksamhet inom Giwas område och av uppföljning
-          finns kvar. De globala, regionala och nationella vatten- och havsmiljöproblemen,
-          till exempel i Östersjön, minskar på intet sätt i omfattning.
-          Behovet av undersökning, uppföljning, utvärdering och rådgivning
-          i dessa frågor kommer att kvarstå under lång tid.
-        </p>
-        <p xml:id="i-JuDdBQqDRyEnfUaNuu5SpX">
-          Prioriterat inom FN:s miljöarbete är early warning and assessements
-          så att miljöproblemen kan förhindras eller minska. Det nya med
-          Giwas arbete är att de vetenskapliga utvärderingarna har kombinerats
-          med åtgärdsförslag som ger vägledning till beslutsfattare. Giwas
-          nuvarande kompetens handlar om vatten ur ett tvärvetenskapligt
-          perspektiv, mycket lämpligt för kompetensen vid Högskolan i Kalmar.
-          En annan framtida uppgift inom detta område är också capacity
-          buildning, det vill säga utbildningar som sprider kunskapen om
-          vattenfrågor och hur problemen ska åtgärdas till de experter och
-          handläggare i världen som arbetar med dessa frågor.
-        </p>
-        <p xml:id="i-3vUVKPqXtFuLLRiyVQJ2ee">
-          Den svenska regeringen har på många sätt förbundit sig att medverka
-          i detta arbete. Detta framgår bland annat tydligt i den avsiktsförklaring,
-          Memorandum of understanding, som undertecknades så sent som den
-          22 februari 2005 av Uneps generaldirektör Klaus Töpfer och miljöminister
-          Lena Sommestad.
-        </p>
-        <p xml:id="i-FoUWbJ8RjBt4pC4n7PXbWt">
-          Vilka åtgärder avser statsrådet att vidta för att säkra den kompetens
-          och det nätverk som byggts upp genom Giwa vid Högskolan i Kalmar
-          för att fortsättningsvis kunna uppfylla sina utfästelser inom
-          FN:s prioriterade miljöarbete med early warning and assessement?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FCnJHgYV7ANcgw8YtEMhPC">
+            Projektet Global International Waters Assessement (Giwa) har
+            under fem års tid och med stor framgång drivits av Unep, FN:s
+            miljöprogram, och Högskolan i Kalmar. Giwa arbetar med en global
+            utvärdering av miljötillståndet i världens gränsöverskridande
+            vatten, det vill säga vatten som berör två eller flera länder.
+            Utvärderingen berör både söt- och saltvatten samt grundvatten.
+            Uppgiften är att enligt en fastställd metod ta fram var problemen
+            är störst, beskriva orsakerna bakom dessa och föreslå åtgärder
+            för att minska problemen. Arbetet sker i samarbete med ett tusental
+            experter runtom i världen, och det koordineras i Kalmar där de
+            slutliga rapporterna också sammanställs.
+          </p>
+          <p xml:id="i-SctEo8oCKHrqw3gjAG4fHf">
+            Projektet är nu i sin slutfas och upphör den 30 juni 2005, men
+            behovet av fortsatt verksamhet inom Giwas område och av uppföljning
+            finns kvar. De globala, regionala och nationella vatten- och havsmiljöproblemen,
+            till exempel i Östersjön, minskar på intet sätt i omfattning.
+            Behovet av undersökning, uppföljning, utvärdering och rådgivning
+            i dessa frågor kommer att kvarstå under lång tid.
+          </p>
+          <p xml:id="i-AzzBcrQjRt8rj36BB8hUai">
+            Prioriterat inom FN:s miljöarbete är early warning and assessements
+            så att miljöproblemen kan förhindras eller minska. Det nya med
+            Giwas arbete är att de vetenskapliga utvärderingarna har kombinerats
+            med åtgärdsförslag som ger vägledning till beslutsfattare. Giwas
+            nuvarande kompetens handlar om vatten ur ett tvärvetenskapligt
+            perspektiv, mycket lämpligt för kompetensen vid Högskolan i Kalmar.
+            En annan framtida uppgift inom detta område är också capacity
+            buildning, det vill säga utbildningar som sprider kunskapen om
+            vattenfrågor och hur problemen ska åtgärdas till de experter och
+            handläggare i världen som arbetar med dessa frågor.
+          </p>
+          <p xml:id="i-EYLrGhey6xt3aoVzgeJtH4">
+            Den svenska regeringen har på många sätt förbundit sig att medverka
+            i detta arbete. Detta framgår bland annat tydligt i den avsiktsförklaring,
+            Memorandum of understanding, som undertecknades så sent som den
+            22 februari 2005 av Uneps generaldirektör Klaus Töpfer och miljöminister
+            Lena Sommestad.
+          </p>
+          <p xml:id="i-5D1wdNFDQu8G5sKNjbHNwZ">
+            Vilka åtgärder avser statsrådet att vidta för att säkra den kompetens
+            och det nätverk som byggts upp genom Giwa vid Högskolan i Kalmar
+            för att fortsättningsvis kunna uppfylla sina utfästelser inom
+            FN:s prioriterade miljöarbete med early warning and assessement?
+          </p>
+        </div>
       </div>
     </body>
   </text>

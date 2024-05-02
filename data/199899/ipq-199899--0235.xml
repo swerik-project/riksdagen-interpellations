@@ -3,72 +3,97 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>gömmande av flyktingar</title>
+        <author>Sten Andersson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1998/99:235 av Sten Andersson (m) till justitieministern om gömmande av flyktingar</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_250.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Sten Andersson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
+          </person>
+          <person gender="woman">
+            <persName>justitieministern</persName>
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AGCLAuyxvPAtbvmNDAZ1EF" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
+          <date when="1998-03-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XTjnQmPdSFCbvJ4ZdFDHGy">
+          <note>date unknown</note>
+          <name>justitieministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-TaT9YgehG8p3XVmXo4s5hB">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CVnoWSgEDTCew1c4zh8DfA">
+          <date when="1998-05-04"/>
+        </correspAction>
+        <correspContext corresp="i-CVnoWSgEDTCew1c4zh8DfA">
+          <ref type="record" target="prot-199899--090">Prot. 1998/99:90</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1998/99:235</head>
-        <author who="i-84xpErSjuTzEi5hvTA1Jtt">Sten Andersson (m)</author>
-        <minister who="unknown">justitieministern</minister>
-        <topic>gömmande av flyktingar</topic>
-        <docDate when="1999-03-26">Inkom den 26 mars</docDate>
-        <status inProtocol="199899/prot-199899--090.xml" when="1999-05-04" status="answered">Besvarad den 4 maj, Prot. 1998/99:90</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1998/99:235 av Sten Andersson (m) till justitieministern
-          om gömmande av flyktingar
-        </IPQ_title>
-        <submission_info>
-          Inkom den 26 marsBesvarad den 4 maj Prot. 1998/99:90
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-VBAWMwAo5YD8UhFkTPgDaH">
+            Interpellation 1998/99:235 av Sten Andersson (m) till justitieministern
+            om gömmande av flyktingar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-DjcYzeBXQccdwN722xj55T">
+            Inkom den 26 mars : Besvarad den 4 maj Prot. 1998/99:90
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3DJkhYxd1MDHUVwBeSkiyQ">
-          I ett rättssamhälle är det av största vikt att medborgarna följer
-          lagar­na. Om vissa tillåts ta lagen i egna händer riskeras kaos.
-          Frågan blir då: Skall medborgarna själv avgöra om de vill följa
-          lagar eller inte?
-        </p>
-        <p xml:id="i-PLaLbMZRG8TuFuFKC4rFx5">
-          Sedan länge verkar det som att myndigheterna i praktiken accepterat
-          att medborgare tillåts gömma icke asylbeviljade utlänningar eller
-          perso­ner som i övrigt saknar uppehållstillstånd. Enligt uppgifter
-          finns det tusentals människor i Sverige som inte har rätt att
-          vistas här.
-        </p>
-        <p xml:id="i-CUZUS4PzFXZcGospJpcQeU">
-          Lagen tillåter ingen att gömma någon som inte har tillstånd att
-          vistas i riket. Däremot finns det ingen straffsanktion undantagandes
-          för de fall då ekonomisk vinning kan påvisas.
-        </p>
-        <p xml:id="i-BfRFungXwj6ojN7p6TPtpm">
-          Vilka åtgärder är justitieministern beredd vidta i syfte att
-          föreslå straff för de som gömmer personer vilka saknar rätt att
-          uppehålla sig i riket, även i de fall då ekonomisk vinning inte
-          görs?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_251.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JN3xzvyei35t8dr2mJLyBU">
+            I ett rättssamhälle är det av största vikt att medborgarna följer
+            lagar­na. Om vissa tillåts ta lagen i egna händer riskeras kaos.
+            Frågan blir då: Skall medborgarna själv avgöra om de vill följa
+            lagar eller inte?
+          </p>
+          <p xml:id="i-74XcMNxmxZgQSPVB775p4a">
+            Sedan länge verkar det som att myndigheterna i praktiken accepterat
+            att medborgare tillåts gömma icke asylbeviljade utlänningar eller
+            perso­ner som i övrigt saknar uppehållstillstånd. Enligt uppgifter
+            finns det tusentals människor i Sverige som inte har rätt att
+            vistas här.
+          </p>
+          <p xml:id="i-2hELQhCKunRsPs1R67gNQL">
+            Lagen tillåter ingen att gömma någon som inte har tillstånd att
+            vistas i riket. Däremot finns det ingen straffsanktion undantagandes
+            för de fall då ekonomisk vinning kan påvisas.
+          </p>
+          <p xml:id="i-NDXuzvPgCSgJpUGKzRr5tE">
+            Vilka åtgärder är justitieministern beredd vidta i syfte att
+            föreslå straff för de som gömmer personer vilka saknar rätt att
+            uppehålla sig i riket, även i de fall då ekonomisk vinning inte
+            görs?
+          </p>
+        </div>
       </div>
     </body>
   </text>

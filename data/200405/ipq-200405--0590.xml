@@ -3,84 +3,119 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Sverige och valjakt</title>
+        <author>de Pourbaix-Lundin, Marietta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Sverige och valjakt till statsrådet Lena Sommestad om Sverige och valjakt</title>
+          <idno type="rdwebb">GS10590</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10590/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10590</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10590</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
+            <persName>Marietta de Pourbaix-Lundin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-VdSCrUqTdwAHYic96S2nVf" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XuggxncF949gUYGqWWzDXa">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NxEYKFwgVpCQjwiq24QeS5">
+          <date when="2005-05-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PWnZQauT9j89CMmHvPrDS9" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PG39AvuzAV1ivG7s7nTHr1" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-05-31"/>
+        </correspAction>
+        <correspContext corresp="i-PG39AvuzAV1ivG7s7nTHr1">
+          <ref type="record" target="prot-200405--130">Riksdagens protokoll 2004/05:130 Tisdagen den 31 maj</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2004/05:590 om Sverige och valjakt</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0590</head>
-        <author who="i-9Kt7koTgzUZUA9ovNXYdWj">Marietta de Pourbaix-Lundin</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>Sverige och valjakt</topic>
-        <docDate when="2005-05-11">den 11 maj</docDate>
-        <status when="2005-05-31" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10590</external_id>
-        <debate>
-          <turn when="2005-05-31 19:40:32" duration="305">Lena Sommestad (S)</turn>
-          <turn when="2005-05-31 19:45:35" duration="250">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-05-31 19:49:44" duration="232">Lena Sommestad (S)</turn>
-          <turn when="2005-05-31 19:53:32" duration="186">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-05-31 19:56:34" duration="249">Lena Sommestad (S)</turn>
-          <turn when="2005-05-31 20:00:39" duration="136">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-05-31 20:02:51" duration="151">Lena Sommestad (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:590 av Marietta de Pourbaix-Lundin (m)
-          till statsrådet Lena Sommestad om Sverige och valjakt
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-98J7FZZVr7JbdPhivS88Nm">
+            Interpellation 2004/05:590 av Marietta de Pourbaix-Lundin (m)
+            till statsrådet Lena Sommestad om Sverige och valjakt
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8MANEm255EzSkSGfp1jsbj">
+            den 11 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KHG277D6u3CJgPxQGwXyyN">
-          Sverige har tidigare arbetat för att skydda valar mot utrotning.
-          Valarna är i dag trots IWC:s förvaltningsplan, utrotningshotade.
-          Vid Internationella valfångstkommissionens sammanträde i Cambridge
-          den 14 oktober 2002 röstade Sverige för att ge Island fullvärdigt
-          medlemskap i IWC. Sveriges röst var utslagsgivande. Denna fadäs
-          har varit föremål för KU:s granskning. Island är ett av de länder
-          som driver frågan om att tillåta kommersiell valjakt hårdast.
-          Den svenska trovärdigheten inom IWC har kantstötts under flera
-          år.
-        </p>
-        <p xml:id="i-R1PgfkDeukMXwBYzYzdmuZ">
-          I juni i år håller IWC, The International Whaling Commission,
-          nästa ordinarie årsmöte i Sydkorea. Frågan är naturligtvis hur
-          Sveriges representant kommer att agera denna gång med tanke på
-          tidigare fadäser.
-        </p>
-        <p xml:id="i-VjZSY7Sh5m7vcNP1isNCwg">
-          Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
-          när det gäller frågan om moratoriet?
-        </p>
-        <p xml:id="i-HiXzJVzWk1eSVfDUSDuFV5">
-          Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
-          när det gäller frågan om IWC:s förvaltningsplan?
-        </p>
-        <p xml:id="i-9he7iHyb1tnkMkLipQ3T6H">
-          Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
-          när det gäller att agera för att stoppa den kommersiella jakten
-          på valarna?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QFTV7YJKUg4SdqmEvtbtzy">
+            Sverige har tidigare arbetat för att skydda valar mot utrotning.
+            Valarna är i dag trots IWC:s förvaltningsplan, utrotningshotade.
+            Vid Internationella valfångstkommissionens sammanträde i Cambridge
+            den 14 oktober 2002 röstade Sverige för att ge Island fullvärdigt
+            medlemskap i IWC. Sveriges röst var utslagsgivande. Denna fadäs
+            har varit föremål för KU:s granskning. Island är ett av de länder
+            som driver frågan om att tillåta kommersiell valjakt hårdast.
+            Den svenska trovärdigheten inom IWC har kantstötts under flera
+            år.
+          </p>
+          <p xml:id="i-K4HAKrRPcfb11v8aCX2BGX">
+            I juni i år håller IWC, The International Whaling Commission,
+            nästa ordinarie årsmöte i Sydkorea. Frågan är naturligtvis hur
+            Sveriges representant kommer att agera denna gång med tanke på
+            tidigare fadäser.
+          </p>
+          <p xml:id="i-6Qg6qFq6Yk5U3rmP3iWrGG">
+            Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
+            när det gäller frågan om moratoriet?
+          </p>
+          <p xml:id="i-U9ZX7NQdiafaGpz6yrRUtM">
+            Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
+            när det gäller frågan om IWC:s förvaltningsplan?
+          </p>
+          <p xml:id="i-GM4pJJL6eFwxs1v4BKJtzK">
+            Hur avser statsrådet att agera vid IWC:s möte i Sydkorea i år
+            när det gäller att agera för att stoppa den kommersiella jakten
+            på valarna?
+          </p>
+        </div>
       </div>
     </body>
   </text>

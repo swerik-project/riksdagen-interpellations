@@ -3,93 +3,116 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>krigsförbrytare i Sverige</title>
+        <author>Lindgren, Ulrik (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>krigsförbrytare i Sverige till justitieminister Thomas Bodström om krigsförbrytare i Sverige</title>
+          <idno type="rdwebb">GS10458</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10458/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10458</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10458</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-XSoE59R8vSeGm31iRSvpAz</idno>
+            <persName>Ulrik Lindgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Q6c4XuedGuVtqg1gfTr6cQ" corresp="i-XSoE59R8vSeGm31iRSvpAz">
+          <date when="2005-03-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-23uHdE3DRRqxe6unLyd6MU">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UpL7eVVgHrU328WJfZkPA4">
+          <date when="2005-04-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QvsUnrDt6xKR5avKw5TjGX" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-03-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9ZmxcpEyxkXV3CSRPuxL4Q" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-04-05"/>
+        </correspAction>
+        <correspContext corresp="i-9ZmxcpEyxkXV3CSRPuxL4Q">
+          <ref type="record" target="prot-200405--098">Riksdagens protokoll 2004/05:98 Tisdagen den 5 april</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:458 om krigsförbrytare i Sverige</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0458</head>
-        <author who="i-XSoE59R8vSeGm31iRSvpAz">Ulrik Lindgren</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>krigsförbrytare i Sverige</topic>
-        <docDate when="2005-03-14">den 14 mars</docDate>
-        <status when="2005-04-05" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10458</external_id>
-        <debate>
-          <turn when="2005-04-05 14:28:50" duration="144">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:28:51" duration="143">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:28:51" duration="142">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:31:09" duration="261">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:31:10" duration="260">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:35:26" duration="201">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:35:26" duration="199">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:35:26" duration="175">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:38:16" duration="263">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:38:17" duration="263">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:42:35" duration="75">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:42:35" duration="76">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:42:38" duration="76">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:43:46" duration="137">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:43:46" duration="137">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:43:46" duration="169">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:43:50" duration="134">Ulrik Lindgren (Kd)</turn>
-          <turn when="2005-04-05 14:45:58" duration="146">Thomas Bodström (S)</turn>
-          <turn when="2005-04-05 14:45:59" duration="145">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:458 av Ulrik Lindgren (kd) till justitieminister
-          Thomas Bodström om krigsförbrytare i Sverige
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EmArfBHWk9LHZiyL37yEuy">
+            Interpellation 2004/05:458 av Ulrik Lindgren (kd) till justitieminister
+            Thomas Bodström om krigsförbrytare i Sverige
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KBk8V9g7mwj4aMFyEKN2np">
+            den 14 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-J2t4KzMrfeiQDWJeWi9Dt6">
-          Migrationsverket har uppgett sig tro att 50@100 krigsförbrytare
-          finns i Sverige.
-        </p>
-        <p xml:id="i-WV6VWQe67hQHaoQFnRYe4N">
-          Hans Ölvebro, som är den ende polis som arbetar med att få krigsförbrytare
-          till rannsakning, uppskattar att 1 000 krigsförbrytare uppehåller
-          sig i Sverige. Danmark och Norge avsätter betydligt större resurser
-          för att beivra krigsförbrytelser.
-        </p>
-        <p xml:id="i-774E4T5VQZNyocdCkdXV1M">
-          Enligt Amnestys generalsekreterare Carl Söderbergh gör Svenska
-          myndigheter för lite för att sätta fast krigsförbrytare i Sverige.
-        </p>
-        <p xml:id="i-VnsqzTyYbK5WFsUspRm2FR">
-          Av 42 ärenden, där Migrationsverket klassade den asylsökande
-          som krigsförbrytare, anmäldes endast en till polisen, trots att
-          verket enligt de egna reglerna är skyldigt att polisanmäla personer
-          som misstänks ha begått krigsförbrytelser.
-        </p>
-        <p xml:id="i-DiwmQDXypBwXK7jzE9CtqN">
-          Sverige härbärgerar krigsförbrytare men utvisar apatiska flyktingbarn.
-        </p>
-        <p xml:id="i-4pWQxChwFTVNHHPm3G5Cja">
-          Vilka åtgärder avser ministern att vidta för att svenska myndigheter
-          ska ställa misstänkta krigsförbrytare inför rätta?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BP6egRgLUdxacvBckq1vBU">
+            Migrationsverket har uppgett sig tro att 50@100 krigsförbrytare
+            finns i Sverige.
+          </p>
+          <p xml:id="i-5XyCip4kPDCbN1WWsXT34B">
+            Hans Ölvebro, som är den ende polis som arbetar med att få krigsförbrytare
+            till rannsakning, uppskattar att 1 000 krigsförbrytare uppehåller
+            sig i Sverige. Danmark och Norge avsätter betydligt större resurser
+            för att beivra krigsförbrytelser.
+          </p>
+          <p xml:id="i-UZuEt3XSS9bJdb7ziAC7Cg">
+            Enligt Amnestys generalsekreterare Carl Söderbergh gör Svenska
+            myndigheter för lite för att sätta fast krigsförbrytare i Sverige.
+          </p>
+          <p xml:id="i-5ME32P2itqhUrH4a51T9vJ">
+            Av 42 ärenden, där Migrationsverket klassade den asylsökande
+            som krigsförbrytare, anmäldes endast en till polisen, trots att
+            verket enligt de egna reglerna är skyldigt att polisanmäla personer
+            som misstänks ha begått krigsförbrytelser.
+          </p>
+          <p xml:id="i-S8QoMYWK6CmMrAHcRwTLrM">
+            Sverige härbärgerar krigsförbrytare men utvisar apatiska flyktingbarn.
+          </p>
+          <p xml:id="i-C2vBFkvTbXjyPmB61DAM3n">
+            Vilka åtgärder avser ministern att vidta för att svenska myndigheter
+            ska ställa misstänkta krigsförbrytare inför rätta?
+          </p>
+        </div>
       </div>
     </body>
   </text>

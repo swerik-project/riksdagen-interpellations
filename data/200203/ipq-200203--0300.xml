@@ -3,59 +3,86 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>prostitution som näringsverksamhet</title>
+        <author>Larsson, Maria (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>prostitution som näringsverksamhet till näringsminister Leif Pagrotsky om prostitution som näringsverksamhet</title>
+          <idno type="rdwebb">GQ10300</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10300/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10300</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10300</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-DihPoay57SuFUv7hNXXkfZ" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
+          <date when="2003-04-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-XoGxAPEH8UN7WmKkRwuaGp">
+          <date when="2003-04-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Fvggabf5qZ9wggWsozhUqT" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2003-04-24"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0300</head>
-        <author who="i-SKjAmNScZ7eZ3a8Xy1J8hs">Maria Larsson</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>prostitution som näringsverksamhet</topic>
-        <docDate when="2003-04-22">den 22 april</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10300</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:300 av Maria Larsson (kd) till näringsminister
-          Leif Pagrotsky om prostitution som näringsverksamhet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-NczEzjmdXDjbu9CJRBypsS">
+            Interpellation 2002/03:300 av Maria Larsson (kd) till näringsminister
+            Leif Pagrotsky om prostitution som näringsverksamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FJv9ut73oYPsmjvUdiT3SG">
+            den 22 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6vj2woLwK6n4SgbPDtcse5">
-          En kvinna i Halland har fått F-skattsedel för att bedriva näringsverksamhet
-          i form av prostitution, detta trots att det enligt lagen är ett
-          brott att köpa tjänster av en prostituerad.
-        </p>
-        <p xml:id="i-VcZ5JLaVWUCgkGvxoXSQ3G">
-          Med anledning av det ovan anförda vill jag ställa följande fråga
-          till näringsminister Leif Pagrotsky:
-        </p>
-        <p xml:id="i-3aJur1VZWsfd8rFqqMjncd">
-          Avser ministern att vidta några åtgärder med anledning av att
-          det är möjligt för skattemyndighet att lämna F-skattsedel för
-          verksamhet som är olaglig?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-4x7x6sBeBuoFjGqgJPkmov">
+            En kvinna i Halland har fått F-skattsedel för att bedriva näringsverksamhet
+            i form av prostitution, detta trots att det enligt lagen är ett
+            brott att köpa tjänster av en prostituerad.
+          </p>
+          <p xml:id="i-XiXjTFGww8pcpUYLnkrmwi">
+            Med anledning av det ovan anförda vill jag ställa följande fråga
+            till näringsminister Leif Pagrotsky:
+          </p>
+          <p xml:id="i-HdvfJeqGxTmHdXq1MJD5PD">
+            Avser ministern att vidta några åtgärder med anledning av att
+            det är möjligt för skattemyndighet att lämna F-skattsedel för
+            verksamhet som är olaglig?
+          </p>
+        </div>
       </div>
     </body>
   </text>

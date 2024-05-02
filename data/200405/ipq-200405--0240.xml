@@ -3,73 +3,117 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>skydd för orörda älvar</title>
+        <author>Grönlund Krantz, Anna (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>skydd för orörda älvar till statsrådet Lena Sommestad om skydd för orörda älvar</title>
+          <idno type="rdwebb">GS10240</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10240/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10240</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10240</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-P9fVT6wJo29FgZWPQLxr6o</idno>
+            <persName>Anna Grönlund Krantz</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-VbBmDqxBZoge9Mihpx1huR" corresp="i-P9fVT6wJo29FgZWPQLxr6o">
+          <date when="2004-12-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EwPAzDk9QFyFMVhHiGxRwv">
+          <date when="2004-12-06"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-552uiTuFvj87vTU6ceVpQU">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2YrBmScbGJDxrcN6HYFn22" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2004-12-06"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Ua4GH3soVPP5LkMLQ65kLc" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspContext corresp="i-Ua4GH3soVPP5LkMLQ65kLc">
+          <ref type="record" target="prot-200405--059">Riksdagens protokoll 2004/05:59 Tisdagen den 18 januari</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2004/05:240 om skydd för orörda älvar</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0240</head>
-        <author who="i-P9fVT6wJo29FgZWPQLxr6o">Anna Grönlund Krantz</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>skydd för orörda älvar</topic>
-        <docDate when="2004-12-03">den 3 december</docDate>
-        <status when="unknown" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10240</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:240 av Anna Grönlund Krantz (fp) till
-          statsrådet Lena Sommestad om skydd för orörda älvar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-NYFEuDAq7f6TtUBMXNarLB">
+            Interpellation 2004/05:240 av Anna Grönlund Krantz (fp) till
+            statsrådet Lena Sommestad om skydd för orörda älvar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-DfQQPDsNJNErHfjg1YyTGu">
+            den 3 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AtknB75NXivL92Ckvwk76t">
-          Statsrådet uttalade vid ett besök i Norrbotten den 1 december
-          ett önskemål om en fortsatt utbyggnad av vattenkraften. Liknande
-          önskemål har också kommit från det statliga bolaget Vattenfall
-          som gärna säger sig bygga nya kraftverk i orörda vattendrag.
-        </p>
-        <p xml:id="i-EdhSbChSGSUG6tqEXX1CL6">
-          Det är tydligt att den energipolitik och avvecklingspolitik som
-          regeringen för närvarande bedriver leder till att alla tidigare
-          beslut måste omprövas för att finna lösningar på den energibrist
-          som kommer att uppstå på grund av den förtida avvecklingen av
-          kärnkraften.
-        </p>
-        <p xml:id="i-PsjsPB3NTW3r6c9vDmmYd">
-          Det har i Sverige, fram till Sommestads uttalande funnits så
-          gott som en samstämmighet bland samtliga folkvalda politiker om
-          att värna de orörda vattendragen. Inte minst tydligt är detta
-          vad det gäller våra orörda älvar som genom riksdagsbeslut är skyddade
-          i lag.
-        </p>
-        <p xml:id="i-4rcsYgALFq8rEkmWjLyZGZ">
-          Med anledning av ovanstående vill jag därför fråga statsrådet:
-        </p>
-        <p xml:id="i-Tkh5oTX6pQbDPYwUAWME9x">
-          Avser statsrådet att inom en överskådlig framtid föreslå för
-          riksdagen att gällande lagstiftning rörande de orörda älvarna
-          förändras?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UUD1DjcgoD2nrrESfPaiUf">
+            Statsrådet uttalade vid ett besök i Norrbotten den 1 december
+            ett önskemål om en fortsatt utbyggnad av vattenkraften. Liknande
+            önskemål har också kommit från det statliga bolaget Vattenfall
+            som gärna säger sig bygga nya kraftverk i orörda vattendrag.
+          </p>
+          <p xml:id="i-GyXoBRamPohPHyivGcTeqW">
+            Det är tydligt att den energipolitik och avvecklingspolitik som
+            regeringen för närvarande bedriver leder till att alla tidigare
+            beslut måste omprövas för att finna lösningar på den energibrist
+            som kommer att uppstå på grund av den förtida avvecklingen av
+            kärnkraften.
+          </p>
+          <p xml:id="i-JJxELeDn32cKdaBv9H8Vim">
+            Det har i Sverige, fram till Sommestads uttalande funnits så
+            gott som en samstämmighet bland samtliga folkvalda politiker om
+            att värna de orörda vattendragen. Inte minst tydligt är detta
+            vad det gäller våra orörda älvar som genom riksdagsbeslut är skyddade
+            i lag.
+          </p>
+          <p xml:id="i-PpC42DyM8THu7ssTqF2gZi">
+            Med anledning av ovanstående vill jag därför fråga statsrådet:
+          </p>
+          <p xml:id="i-7CHx5TJppe1Cyaq6D8Hyve">
+            Avser statsrådet att inom en överskådlig framtid föreslå för
+            riksdagen att gällande lagstiftning rörande de orörda älvarna
+            förändras?
+          </p>
+        </div>
       </div>
     </body>
   </text>

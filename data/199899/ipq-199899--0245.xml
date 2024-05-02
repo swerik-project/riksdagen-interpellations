@@ -3,84 +3,109 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>patientens ställning</title>
+        <author>Kerstin Heinemann (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1998/99:245 av Kerstin Heinemann (fp) till socialminis­tern om patientens ställning</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_260.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Kerstin Heinemann (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-PTF5wvZAe6S7xqLKP2h8kQ</idno>
+          </person>
+          <person gender="woman">
+            <persName>socialminis­tern</persName>
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-QF73tUJTeRzAjbZquD46ot" corresp="i-PTF5wvZAe6S7xqLKP2h8kQ">
+          <date when="1998-04-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SnhyaTyWEmpW4fv23NyJsw">
+          <note>date unknown</note>
+          <name>socialminis­tern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-B9SUQkK4414NQFN6P8E24L">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LWPeAPvtdXR1Awu8iWVFx5">
+          <date when="1998-05-04"/>
+        </correspAction>
+        <correspContext corresp="i-LWPeAPvtdXR1Awu8iWVFx5">
+          <ref type="record" target="prot-199899--090">Prot. 1998/99:90</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1998/99:245</head>
-        <author who="i-PTF5wvZAe6S7xqLKP2h8kQ">Kerstin Heinemann (fp)</author>
-        <minister who="unknown">socialminis­tern</minister>
-        <topic>patientens ställning</topic>
-        <docDate when="1999-04-07">Inkom den 7 april</docDate>
-        <status inProtocol="199899/prot-199899--090.xml" when="1999-05-04" status="answered">Besvarad den 4 maj, Prot. 1998/99:90</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1998/99:245 av Kerstin Heinemann (fp) till socialminis­tern
-          om patientens ställning
-        </IPQ_title>
-        <submission_info>
-          Inkom den 7 april Besvarad den 4 maj Prot. 1998/99:90
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GmsXH5X1NZQMQC7JXM3FwD">
+            Interpellation 1998/99:245 av Kerstin Heinemann (fp) till socialminis­tern
+            om patientens ställning
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MQMB6njEe729hHMyq7adEq">
+            Inkom den 7 april : Besvarad den 4 maj Prot. 1998/99:90
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Ln4uQay2PJdZv8GwWJBYiN">
-          Den 1 januari 1999 infördes en lag för att stärka patientens
-          ställning, bl.a. stärktes rätten att få välja läkare i primärvården.
-          I en artikel i Da­gens Nyheter den 29 mars 1999 kan man läsa att
-          socialministern tror att ”vi i framtiden får en vård som helt
-          kretsar kring patientens ställning och patientens egna val. Vi
-          får mer medvetna och kunniga patienter. Vi måste stärka patientens
-          ställning ännu mer”. Den uppfattningen delar jag också, men i
-          dag begränsas patientens ställning i många landsting när det gäller
-          möjligheten till egna val.
-        </p>
-        <p xml:id="i-3LUx6KoyWGzKef65TKBj5u">
-          I flera landsting är det så att patienten visserligen kan välja
-          sin pri- märvårdsläkare, men däremot inte t.ex. sjukgymnast, distriktssköterska,
-          barnmorska i mödrahälsovården. Anledningarna till begränsningen
-          kan vara flera: områdesansvar är ett, ett annat att primärvården
-          har det eko­nomiska ansvaret för t.ex. sjukgymnastiken vilket
-          leder till att en patient endast blir remitterad till den sjukgymnast
-          som läkaren har anställd. En patient kan t.ex. ha haft långvarig
-          kontakt med en sjukgymnast, det gäller inte minst patienter med
-          kroniska sjukdomar, och känner stort förtroende för den vårdgivaren
-          och vill gärna fortsätta att behandlas av den. Den rätten tas
-          ifrån patienten i en del landsting i dag. Detta torde riskera
-          be­handlingsresultatet. Den enda möjligheten för patienten att
-          kunna få komma till ”sin” sjukgymnast kan vara att försöka leta
-          rätt på en läkare, dvs. byta primärvårdsläkare, som är beredd
-          att remittera patienten till den önskade vårdgivaren. Att så begränsa
-          patientens val när det gäller vård­givare stärker inte patientens
-          ställning utan snarare tvärtom. Därför vill jag fråga socialminister
-          Lars Engqvist följande:
-        </p>
-        <p xml:id="i-Km59jJC1tMKGU3rogsQGgZ">
-          Avser socialministern att vidtaga några åtgärder för att stärka
-          patien­ternas egna val när det gäller andra vårdgivare än läkare
-          i primärvården?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_261.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BfL8XMqjVhCykcqru3NHu">
+            Den 1 januari 1999 infördes en lag för att stärka patientens
+            ställning, bl.a. stärktes rätten att få välja läkare i primärvården.
+            I en artikel i Da­gens Nyheter den 29 mars 1999 kan man läsa att
+            socialministern tror att ”vi i framtiden får en vård som helt
+            kretsar kring patientens ställning och patientens egna val. Vi
+            får mer medvetna och kunniga patienter. Vi måste stärka patientens
+            ställning ännu mer”. Den uppfattningen delar jag också, men i
+            dag begränsas patientens ställning i många landsting när det gäller
+            möjligheten till egna val.
+          </p>
+          <p xml:id="i-Kdz241JSkiFnd7LPXgR6RB">
+            I flera landsting är det så att patienten visserligen kan välja
+            sin pri- märvårdsläkare, men däremot inte t.ex. sjukgymnast, distriktssköterska,
+            barnmorska i mödrahälsovården. Anledningarna till begränsningen
+            kan vara flera: områdesansvar är ett, ett annat att primärvården
+            har det eko­nomiska ansvaret för t.ex. sjukgymnastiken vilket
+            leder till att en patient endast blir remitterad till den sjukgymnast
+            som läkaren har anställd. En patient kan t.ex. ha haft långvarig
+            kontakt med en sjukgymnast, det gäller inte minst patienter med
+            kroniska sjukdomar, och känner stort förtroende för den vårdgivaren
+            och vill gärna fortsätta att behandlas av den. Den rätten tas
+            ifrån patienten i en del landsting i dag. Detta torde riskera
+            be­handlingsresultatet. Den enda möjligheten för patienten att
+            kunna få komma till ”sin” sjukgymnast kan vara att försöka leta
+            rätt på en läkare, dvs. byta primärvårdsläkare, som är beredd
+            att remittera patienten till den önskade vårdgivaren. Att så begränsa
+            patientens val när det gäller vård­givare stärker inte patientens
+            ställning utan snarare tvärtom. Därför vill jag fråga socialminister
+            Lars Engqvist följande:
+          </p>
+          <p xml:id="i-UoYkaadXB3K5E2SQ5pW2Xs">
+            Avser socialministern att vidtaga några åtgärder för att stärka
+            patien­ternas egna val när det gäller andra vårdgivare än läkare
+            i primärvården?
+          </p>
+        </div>
       </div>
     </body>
   </text>

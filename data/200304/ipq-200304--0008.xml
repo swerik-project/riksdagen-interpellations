@@ -3,57 +3,101 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>den danska skattesänkningen</title>
+        <author>Billström, Tobias (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>den danska skattesänkningen till statsrådet Morgan Johansson om den danska skattesänkningen</title>
+          <idno type="rdwebb">GR108</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR108/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR108</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR108</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-A5mUdDjMikaEEwZFXsfYkm" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
+          <date when="2003-09-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HkZQbYfeMaGoqSujLFy4BK">
+          <date when="2003-09-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BVoz8ruqzAhGT97rK5Gzjo">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BkXnpBYbx367VkA3JiannT" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2003-09-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BirP8SmpgKYa19qoREc4dg" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-10-21"/>
+        </correspAction>
+        <correspContext corresp="i-BirP8SmpgKYa19qoREc4dg">
+          <ref type="record" target="prot-200304--016">Riksdagens protokoll 2003/04:16 Tisdagen den 21 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2003/04:8 om den danska skattesänkningen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0008</head>
-        <author who="i-KPGvtK4s6Zp3E6XH6vj18n">Tobias Billström</author>
-        <recipient who="i-UPW2cbGnTUbMZaKTrot5Bh">Morgan Johansson</recipient>
-        <topic>den danska skattesänkningen</topic>
-        <docDate when="2003-09-25">den 25 september</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR108</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:8 av Tobias Billström (m) till statsrådet
-          Morgan Johansson om den danska skattesänkningen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ntk9spk81644tAgCqZQZuL">
+            Interpellation 2003/04:8 av Tobias Billström (m) till statsrådet
+            Morgan Johansson om den danska skattesänkningen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9GeYoA6UwjgobDgjcyidq4">
+            den 25 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-EwNCZFmt2hzzHZRztK6BJF">
-          Den 1 oktober i år sänker den danska staten skatten på spritdrycker
-          med 45 %. Det innebär rimligen konsekvenser för regeringens alkoholpolitik
-          och framför allt för Systembolaget i södra Sverige.
-        </p>
-        <p xml:id="i-ShAtiXT7WerWd3rC1zSX83">
-          Min fråga till statsrådet blir därför:
-        </p>
-        <p xml:id="i-YVZto1Jq25aZZqHMYVGu9s">
-          Vad ämnar statsrådet vidta för åtgärder med anledning av den
-          danska skattesänkningen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-P7hpqGbZf1HGyUDeb6SJRz">
+            Den 1 oktober i år sänker den danska staten skatten på spritdrycker
+            med 45 %. Det innebär rimligen konsekvenser för regeringens alkoholpolitik
+            och framför allt för Systembolaget i södra Sverige.
+          </p>
+          <p xml:id="i-5FqjF2mQzHtMpcAF1bomtE">
+            Min fråga till statsrådet blir därför:
+          </p>
+          <p xml:id="i-N9r15LVxn5ntPMVETKN9jy">
+            Vad ämnar statsrådet vidta för åtgärder med anledning av den
+            danska skattesänkningen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

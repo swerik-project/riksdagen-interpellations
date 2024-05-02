@@ -3,61 +3,86 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>den förlängda arbetsgivarperioden</title>
+        <author>Per Rosengren (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:52 av Per Rosengren (v) till näringsministern om den förlängda arbetsgivarperioden</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_43.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_44.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Per Rosengren (v)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>v</desc>
+            </state>
+            <idno>i-SxwXtVqzR6fyXB2uQfozAQ</idno>
+          </person>
+          <person gender="man">
+            <persName>näringsministern</persName>
+            <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-nkDVU3d24EV7Mw4xmgWjY" corresp="i-SxwXtVqzR6fyXB2uQfozAQ">
+          <date when="1996-10-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6dER5GBwuAEuHFBMEYhhtx">
+          <note>date unknown</note>
+          <name>näringsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-MyD8DH5ydsJ3LnTQUYK1mZ">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QBX66omQkMVkStEDUCUPMd">
+          <date when="1996-11-19"/>
+        </correspAction>
+        <correspContext corresp="i-QBX66omQkMVkStEDUCUPMd">
+          <ref type="record" target="prot-199697--029">Prot. 1996/97:29</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:52</head>
-        <author who="i-SxwXtVqzR6fyXB2uQfozAQ">Per Rosengren (v)</author>
-        <minister who="unknown">näringsministern</minister>
-        <topic>den förlängda arbetsgivarperioden</topic>
-        <docDate when="1996-10-31">Inkom den 31 oktober</docDate>
-        <status inProtocol="199697/prot-199697--029.xml" when="1996-11-19" status="answered">Besvarad den 19 november, Prot. 1996/97:29</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:52 av Per Rosengren (v) till näringsministern
-          om den förlängda arbetsgivarperioden
-        </IPQ_title>
-        <submission_info>
-          Inkom den 31 oktoberBesvarad den 19 november Prot. 1996/97:29
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DQ7zmyA9uZkUa7ofzG1chQ">
+            Interpellation 1996/97:52 av Per Rosengren (v) till näringsministern
+            om den förlängda arbetsgivarperioden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-28JjCj58qwjjXnLWLWu1mF">
+            Inkom den 31 oktober : Besvarad den 19 november Prot. 1996/97:29
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-MtBghqmg8uqH49pxhoxgUK">
-          Med anledning av debatten om den förlängda arbetsgivarperioden
-          i sjuklönesystemet och de problem som detta innebär för de minsta
-          företa­gen så vill jag fråga näringsminister Anders Sundström
-          om han kan tänka sig särlösningar för de mindre företagen. Enligt
-          referat från småföreta- garriksdagen den 26 oktober har näringsministern
-          uttryckt tankar åt detta håll.
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_44.pdf"/>
-        <p xml:id="i-YGrGBM36VaUEQJqnwzVsv5">
-          Jag vill därför fråga vilka åtgärder näringsministern kan tänka
-          sig för att lösa de mest akuta problemen med de nuvarande reglerna.
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_45.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5UDzSxdLZg3v3UWawQG9DP">
+            Med anledning av debatten om den förlängda arbetsgivarperioden
+            i sjuklönesystemet och de problem som detta innebär för de minsta
+            företa­gen så vill jag fråga näringsminister Anders Sundström
+            om han kan tänka sig särlösningar för de mindre företagen. Enligt
+            referat från småföreta- garriksdagen den 26 oktober har näringsministern
+            uttryckt tankar åt detta håll.
+          </p>
+          <p xml:id="i-NLVcezf5VNSNPXQPtDLHNU">
+            Jag vill därför fråga vilka åtgärder näringsministern kan tänka
+            sig för att lösa de mest akuta problemen med de nuvarande reglerna.
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,87 +3,131 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>unga som spelar på kredit</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>unga som spelar på kredit till statsrådet Morgan Johansson om unga som spelar på kredit</title>
+          <idno type="rdwebb">GS101</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS101/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS101</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS101</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-FqcwTT3aq6xqoEntCAqZ6j" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2004-09-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-KwXuVg2eDuUmJvvUmFE984">
+          <date when="2004-09-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NWtdRwYQUoPATrGhUBhUiv">
+          <date when="2004-09-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MuqFFV4xBNFdVWpoVDSjXi" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
+          <date when="2004-09-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GWV9c5ZL6Y5H5MXEBpWKwi" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-09-28"/>
+        </correspAction>
+        <correspContext corresp="i-GWV9c5ZL6Y5H5MXEBpWKwi">
+          <ref type="record" target="prot-200405--009">Riksdagens protokoll 2004/05:9 Tisdagen den 28 september</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:1 om unga som spelar på kredit</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0001</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-UPW2cbGnTUbMZaKTrot5Bh">Morgan Johansson</recipient>
-        <topic>unga som spelar på kredit</topic>
-        <docDate when="2004-09-15">den 15 september</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS101</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:1 av Linnéa Darell (fp) till statsrådet
-          Morgan Johansson om unga som spelar på kredit
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-W9WTbNG8TvPcuH8fpx4PMU">
+            Interpellation 2004/05:1 av Linnéa Darell (fp) till statsrådet
+            Morgan Johansson om unga som spelar på kredit
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FGZf9SUE8ma6Sww4AMWQXi">
+            den 15 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XLFgT7ewYUPJXaDABv3vco">
-          I dagarna har en av Östergötlands dagstidningar beskrivit hur
-          lätt det är för minderåriga att spela på kredit. Ungdomar vittnar
-          om att i vissa butiker, där man gjort sig känd som storspelare,
-          får man låna till nya insatser.
-        </p>
-        <p xml:id="i-VLLH4LHeXkX9hp45CBNe2o">
-          Att ge kredit är förbjudet. Likaså att tillåta minderåriga att
-          spela. Men frestelsen för vissa butiksägare att visa på hög omsättning
-          och därmed locka nya spelkunder tar överhanden.
-        </p>
-        <p xml:id="i-D1W5jrH7CPidfUgX2XKZZo">
-          Lagbrottet i sig är allvarligt. Men lika allvarligt är det spelberoende
-          som många unga dras in i. Risken att hamna i spelberoende ökar
-          med ökade möjligheter att finansiera sitt spelande. Det finns
-          exempel på unga människor som redan har skulder "upp över öronen".
-        </p>
-        <p xml:id="i-6j3GZuyMZAVh7ridRzjVrv">
-          Spelandet och inte minst skuldsättningen blir ofta också vägen
-          in i alltmer grov kriminell verksamhet. Allt för att dels kunna
-          finansiera sitt spelande men också för att klara sina skulder.
-          Stölder, rån och narkotikahandel är en vanlig del av denna kriminalitet,
-          som följer i spåren av spelandet.
-        </p>
-        <p xml:id="i-UxSWs63Q5P6n3G7KdTeRXK">
-          Det är angeläget att förhindra spelberoende i alla åldrar. Men
-          särskilt angeläget är det avseende unga människor. Samhället måste
-          se till att minderåriga inte dras in i brottslig verksamhet och
-          en ekonomisk situation, som riskerar hela deras framtid.
-        </p>
-        <p xml:id="i-GZUvxhtynyCaFXv4Ja6nnG">
-          Nuvarande lagstiftning räcker uppenbarligen inte eller så är
-          möjligheterna till ingripande från samhällets sida inte tillräckliga
-          för att skydda minderåriga.
-        </p>
-        <p xml:id="i-8Tu4sskD7eCFaJQBs6cn29">
-          Min fråga till statsrådet Morgan Johansson är således:
-        </p>
-        <p xml:id="i-QKWwtW7HfQrLLyr5ByPEjJ">
-          Vilka åtgärder avser statsrådet att vidta för att stoppa kreditgivningen
-          i spelbutiker?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RkTvrxCsK3FCnyhPZtfeAm">
+            I dagarna har en av Östergötlands dagstidningar beskrivit hur
+            lätt det är för minderåriga att spela på kredit. Ungdomar vittnar
+            om att i vissa butiker, där man gjort sig känd som storspelare,
+            får man låna till nya insatser.
+          </p>
+          <p xml:id="i-A8NGHUg4WsaQHjLQFMUrQ9">
+            Att ge kredit är förbjudet. Likaså att tillåta minderåriga att
+            spela. Men frestelsen för vissa butiksägare att visa på hög omsättning
+            och därmed locka nya spelkunder tar överhanden.
+          </p>
+          <p xml:id="i-WRCgpP6wtYZLmTuPgNzp4T">
+            Lagbrottet i sig är allvarligt. Men lika allvarligt är det spelberoende
+            som många unga dras in i. Risken att hamna i spelberoende ökar
+            med ökade möjligheter att finansiera sitt spelande. Det finns
+            exempel på unga människor som redan har skulder "upp över öronen".
+          </p>
+          <p xml:id="i-TeTt5nng9qoUmzfNn6cKEG">
+            Spelandet och inte minst skuldsättningen blir ofta också vägen
+            in i alltmer grov kriminell verksamhet. Allt för att dels kunna
+            finansiera sitt spelande men också för att klara sina skulder.
+            Stölder, rån och narkotikahandel är en vanlig del av denna kriminalitet,
+            som följer i spåren av spelandet.
+          </p>
+          <p xml:id="i-LSac1cuPjDWX9VEUJHn9mE">
+            Det är angeläget att förhindra spelberoende i alla åldrar. Men
+            särskilt angeläget är det avseende unga människor. Samhället måste
+            se till att minderåriga inte dras in i brottslig verksamhet och
+            en ekonomisk situation, som riskerar hela deras framtid.
+          </p>
+          <p xml:id="i-X38UetDAwFB2uBSPRdzsZ4">
+            Nuvarande lagstiftning räcker uppenbarligen inte eller så är
+            möjligheterna till ingripande från samhällets sida inte tillräckliga
+            för att skydda minderåriga.
+          </p>
+          <p xml:id="i-7tK3yqc8fre8NVamz3AGny">
+            Min fråga till statsrådet Morgan Johansson är således:
+          </p>
+          <p xml:id="i-87CchMVT3poi9ZStbAqGWM">
+            Vilka åtgärder avser statsrådet att vidta för att stoppa kreditgivningen
+            i spelbutiker?
+          </p>
+        </div>
       </div>
     </body>
   </text>

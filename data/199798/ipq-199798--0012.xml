@@ -3,62 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tunnelbyggande genom Hallandsåsen</title>
+        <author>Lennart Daléus (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:12 av Lennart Daléus (c) till miljöministern om tunnelbyggande genom Hallandsåsen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_12.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Daléus (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
+          </person>
+          <person gender="woman">
+            <persName>miljöministern</persName>
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-UTEqBCTN5ng5i153yDFqGM" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
+          <date when="1997-10-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GHjJ5PxmrN5AtexHQsuL1o">
+          <note>date unknown</note>
+          <name>miljöministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-BftJnKjEfyrsWEQbw1ks9M">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8ZQUgAHwod3PGpky6wV8nx">
+          <date when="1997-10-21"/>
+        </correspAction>
+        <correspContext corresp="i-8ZQUgAHwod3PGpky6wV8nx">
+          <ref type="record" target="prot-199798--016">Prot. 1997/98:16</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:12</head>
-        <author who="i-GSfuaZB2iKY7EQ9cNr63sp">Lennart Daléus (c)</author>
-        <minister who="unknown">miljöministern</minister>
-        <topic>tunnelbyggande genom Hallandsåsen</topic>
-        <docDate when="1997-10-06">Inkom den 6 oktober</docDate>
-        <status inProtocol="199798/prot-199798--016.xml" when="1997-10-21" status="answered">Besvarad den 21 oktober, Prot. 1997/98:16</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:12 av Lennart Daléus (c) till miljöministern
-          om tunnelbyggande genom Hallandsåsen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 6 oktober Besvarad den 21 oktober Prot. 1997/98:16
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-RvW1h32Ww5objp2xALN3Gb">
+            Interpellation 1997/98:12 av Lennart Daléus (c) till miljöministern
+            om tunnelbyggande genom Hallandsåsen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Rhe7JefPzYE8oqE35ycPkE">
+            Inkom den 6 oktober : Besvarad den 21 oktober Prot. 1997/98:16
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DyzZbcuCsy4TXaYakdsrTW">
-          Under senare tid har det förekommit uppgifter om att verksamheten
-          vid tunnelbygget genom Hallandsåsen orsakat hälso- och miljöstörande
-          utsläpp.
-        </p>
-        <p xml:id="i-HDQHtjuDvroWi5EN5ebKRo">
-          Vilka omedelbara åtgärder avser regeringen att vidta för att
-          säkerstäl­la att människor, djur och miljö inte kommer till skada
-          som en följd av tunnelbygget?
-        </p>
-        <p xml:id="i-LQoZhxh2wwkGS9UcjPiaYp">
-          Vilka åtgärder avser regeringen att vidta för att förhindra att
-          liknande händelser inträffar?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_13.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QnRv4VeqwneQLsSVdv2pcY">
+            Under senare tid har det förekommit uppgifter om att verksamheten
+            vid tunnelbygget genom Hallandsåsen orsakat hälso- och miljöstörande
+            utsläpp.
+          </p>
+          <p xml:id="i-X2tg21341P752FUJsjvjiG">
+            Vilka omedelbara åtgärder avser regeringen att vidta för att
+            säkerstäl­la att människor, djur och miljö inte kommer till skada
+            som en följd av tunnelbygget?
+          </p>
+          <p xml:id="i-2akevHmC1afxCKMQvz6qVg">
+            Vilka åtgärder avser regeringen att vidta för att förhindra att
+            liknande händelser inträffar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

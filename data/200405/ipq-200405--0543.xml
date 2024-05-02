@@ -3,106 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>länsmusiken</title>
+        <author>Lindgren, Anna (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>länsmusiken till utbildnings- och kulturminister Leif Pagrotsky om länsmusiken</title>
+          <idno type="rdwebb">GS10543</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10543/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10543</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10543</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-UfnBtox9oKGvLg9RLYSNsM</idno>
+            <persName>Anna Lindgren</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4xr6PHp1CbBLVMWs65sk1Q" corresp="i-UfnBtox9oKGvLg9RLYSNsM">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-G7KV4EZxK53q6DKHGrCcSd">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QznfAZaXcnNVjUdcxbnUWS">
+          <date when="2005-05-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-CA1m7fWmikccjFLNvxsstE" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2005-04-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Fe43chap4rK8HNagavZtoG" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2005-05-09"/>
+        </correspAction>
+        <correspContext corresp="i-Fe43chap4rK8HNagavZtoG">
+          <ref type="record" target="prot-200405--116">Riksdagens protokoll 2004/05:116 Måndagen den 9 maj</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:543 om länsmusiken</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0543</head>
-        <author who="i-UfnBtox9oKGvLg9RLYSNsM">Anna Lindgren</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>länsmusiken</topic>
-        <docDate when="2005-04-21">den 21 april</docDate>
-        <status when="2005-05-09" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10543</external_id>
-        <debate>
-          <turn when="2005-05-09 13:15:12" duration="258">Leif Pagrotsky (S)</turn>
-          <turn when="2005-05-09 13:19:26" duration="245">Anna Lindgren (M)</turn>
-          <turn when="2005-05-09 13:23:28" duration="168">Yvonne Andersson (Kd)</turn>
-          <turn when="2005-05-09 13:26:14" duration="249">Leif Pagrotsky (S)</turn>
-          <turn when="2005-05-09 13:30:20" duration="256">Anna Lindgren (M)</turn>
-          <turn when="2005-05-09 13:34:32" duration="133">Yvonne Andersson (Kd)</turn>
-          <turn when="2005-05-09 13:36:41" duration="273">Leif Pagrotsky (S)</turn>
-          <turn when="2005-05-09 13:41:09" duration="159">Anna Lindgren (M)</turn>
-          <turn when="2005-05-09 13:43:45" duration="79">Leif Pagrotsky (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:543 av Anna Lindgren (m) till utbildnings-
-          och kulturminister Leif Pagrotsky om länsmusiken
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-47fnVQhB8hZ6JkJyVznCEx">
+            Interpellation 2004/05:543 av Anna Lindgren (m) till utbildnings-
+            och kulturminister Leif Pagrotsky om länsmusiken
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PsEf9nBfmBsL6Tyb37FNq3">
+            den 21 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-B3ucgronG3z6sMMFPCmeke">
-          Länsmusiken är en mycket viktig del av musiklivet ute i landet.
-          Genom sin verksamhet nås alla svenskar av kvalificerad professionell
-          musik. Konserter ges som officiella arrangemang, men också i skolor,
-          på vårdavdelningar och på äldreboenden. De professionella musikerna
-          utgör även en mycket viktig del i övrigt musikutövande. Länsteatrarna
-          anlitar ofta dessa professionella musiker vid sina föreställningar.
-          Länsmusiken är, kort sagt, en oumbärlig del av det svenska musiklivet.
-        </p>
-        <p xml:id="i-STzm3rFuFn8wmSUxydmxj9">
-          Östgötamusiken med Östgöta Blåsarsymfoniker är en av landets
-          främsta regionala orkestrar och har stark förankring i länet.
-          Institutionen fullgör sitt uppdrag att vara hela länets institution
-          genom sitt omfattande och varierande program ute i alla östgötakommuner.
-          Nu hotas verksamheten på grund av att de statliga bidragen successivt
-          har minskat.
-        </p>
-        <p xml:id="i-TrPHCktgGd1DYLn8yWvdrY">
-          I samband med att militärmusiken blev regionmusik och senare
-          länsmusik utlovade dåvarande kulturminister Bengt Göransson att
-          staten skulle ta ett starkt ekonomiskt ansvar. För cirka tio år
-          sedan började dock staten minska stödet och det är i dag bara
-          mellan 60 och 80 % av det utlovade stödet.
-        </p>
-        <p xml:id="i-NWAMVXSZ8Md8amaSoqvuji">
-          För 2005 har Statens kulturråd dessutom beslutat att inte ge
-          någon kostnadsuppräkning alls, vilket motsvarar en ytterligare
-          neddragning med 3 %. Allt har skett utan några som helst förhandlingar
-          från statens sida! Effekten av de senaste årens minskning av statliga
-          bidrag har i praktiken inneburit en utarmning av den regionala
-          musikverksamheten.
-        </p>
-        <p xml:id="i-CbzKkJbMW7mFRptSi6ktsf">
-          Landstingen och i vissa fall kommunerna förväntas att fylla upp
-          det glapp som uppstått på grund av statens alltmer minskade bidrag.
-          Detta innebär att de lokala och regionala politikerna tvingas
-          att prioritera mellan vård, skola och omsorg och den långsiktiga
-          regionala musikpolitiken. Detta är mycket olyckligt, näst intill
-          omöjligt, inte minst med tanke på att det ekonomiska läget är
-          ansträngt. Det statliga ansvaret för en nationell musikpolitik
-          är därför tungt utifrån de förutsättningar som gavs från början.
-        </p>
-        <p xml:id="i-AKB2zMjZS8sHPPHgty5NKz">
-          Mot bakgrund av det ovan anförda vill jag ställa följande fråga
-          till kulturministern.
-        </p>
-        <p xml:id="i-LmRgLx87w6uKgBzYmvRCyV">
-          Vilka åtgärder ämnar kulturministern vidta för att stoppa utarmningen
-          av länsmusiken?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-DQgbms6uhiE1stCyXS9KC7">
+            Länsmusiken är en mycket viktig del av musiklivet ute i landet.
+            Genom sin verksamhet nås alla svenskar av kvalificerad professionell
+            musik. Konserter ges som officiella arrangemang, men också i skolor,
+            på vårdavdelningar och på äldreboenden. De professionella musikerna
+            utgör även en mycket viktig del i övrigt musikutövande. Länsteatrarna
+            anlitar ofta dessa professionella musiker vid sina föreställningar.
+            Länsmusiken är, kort sagt, en oumbärlig del av det svenska musiklivet.
+          </p>
+          <p xml:id="i-HP6TujC6zttQvtKWnYGXFZ">
+            Östgötamusiken med Östgöta Blåsarsymfoniker är en av landets
+            främsta regionala orkestrar och har stark förankring i länet.
+            Institutionen fullgör sitt uppdrag att vara hela länets institution
+            genom sitt omfattande och varierande program ute i alla östgötakommuner.
+            Nu hotas verksamheten på grund av att de statliga bidragen successivt
+            har minskat.
+          </p>
+          <p xml:id="i-NaDy2xEpEnv7WT4PmA2AeQ">
+            I samband med att militärmusiken blev regionmusik och senare
+            länsmusik utlovade dåvarande kulturminister Bengt Göransson att
+            staten skulle ta ett starkt ekonomiskt ansvar. För cirka tio år
+            sedan började dock staten minska stödet och det är i dag bara
+            mellan 60 och 80 % av det utlovade stödet.
+          </p>
+          <p xml:id="i-9ntzvDKA3mxyPHA9eQ7m2S">
+            För 2005 har Statens kulturråd dessutom beslutat att inte ge
+            någon kostnadsuppräkning alls, vilket motsvarar en ytterligare
+            neddragning med 3 %. Allt har skett utan några som helst förhandlingar
+            från statens sida! Effekten av de senaste årens minskning av statliga
+            bidrag har i praktiken inneburit en utarmning av den regionala
+            musikverksamheten.
+          </p>
+          <p xml:id="i-68sbedMyN1G7qWC5ewEEYH">
+            Landstingen och i vissa fall kommunerna förväntas att fylla upp
+            det glapp som uppstått på grund av statens alltmer minskade bidrag.
+            Detta innebär att de lokala och regionala politikerna tvingas
+            att prioritera mellan vård, skola och omsorg och den långsiktiga
+            regionala musikpolitiken. Detta är mycket olyckligt, näst intill
+            omöjligt, inte minst med tanke på att det ekonomiska läget är
+            ansträngt. Det statliga ansvaret för en nationell musikpolitik
+            är därför tungt utifrån de förutsättningar som gavs från början.
+          </p>
+          <p xml:id="i-8LANfmTFK6U2y4y6gQcpQb">
+            Mot bakgrund av det ovan anförda vill jag ställa följande fråga
+            till kulturministern.
+          </p>
+          <p xml:id="i-SRSSKnT44dKG4ruHxnrXst">
+            Vilka åtgärder ämnar kulturministern vidta för att stoppa utarmningen
+            av länsmusiken?
+          </p>
+        </div>
       </div>
     </body>
   </text>

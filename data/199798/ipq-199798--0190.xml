@@ -3,73 +3,98 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>miljöbrott</title>
+        <author>Kia Andreasson (mp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:190 av Kia Andreasson (mp) till justitieministern om miljöbrott</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_198.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Kia Andreasson (mp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>mp</desc>
+            </state>
+            <idno>i-TtTt6tncGj7Z7obngWSti</idno>
+          </person>
+          <person gender="woman">
+            <persName>justitieministern</persName>
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AFXdBDk6t9MVuyKT6Ccrrp" corresp="i-TtTt6tncGj7Z7obngWSti">
+          <date when="1997-02-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Kcw57dCuhovFryMqoHeCkn">
+          <note>date unknown</note>
+          <name>justitieministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-5j7EZSyfadxrazEN3QhSxQ">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-AiCEWk5GxoDuUMeqp76wPz">
+          <date when="1997-03-03"/>
+        </correspAction>
+        <correspContext corresp="i-AiCEWk5GxoDuUMeqp76wPz">
+          <ref type="record" target="prot-199798--073">Prot. 1997/98:73</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:190</head>
-        <author who="i-TtTt6tncGj7Z7obngWSti">Kia Andreasson (mp)</author>
-        <minister who="unknown">justitieministern</minister>
-        <topic>miljöbrott</topic>
-        <docDate when="1998-02-17">Inkom den 17 februari</docDate>
-        <status inProtocol="199798/prot-199798--073.xml" when="1998-03-03" status="answered">Besvarad den 3 mars, Prot. 1997/98:73</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:190 av Kia Andreasson (mp) till justitieministern
-          om miljöbrott
-        </IPQ_title>
-        <submission_info>
-          Inkom den 17 februari Besvarad den 3 mars Prot. 1997/98:73
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-4fYjxh86rWy2q3LjtDkrYS">
+            Interpellation 1997/98:190 av Kia Andreasson (mp) till justitieministern
+            om miljöbrott
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KybAwvD5KwRkBa6WA4VhQJ">
+            Inkom den 17 februari : Besvarad den 3 mars Prot. 1997/98:73
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8oxUkpcry6VmXk55Mi4ECz">
-          Handläggningen av miljöbrott är under all kritik. Ytterst få
-          fall leder till åtal. Uttalandet - Nu slutar jag som polis, kommer
-          från en polisman som varit med om utredningen av ett kemiföretags
-          miljöbrott och där preskriptionstiden av vissa delar av brottet
-          redan har utgått. De poliser som återgått i tjänst efter fortbildning
-          på Polishögskolan för att kunna hantera miljöbrott får inte möjligheter
-          i varken tid eller resurser att ta tag i miljöbrott. Det finns
-          ingen utarbetad strategi för ”miljöpolisen”. Riks­dagen har nu
-          i ett tillkännagivande till regeringen begärt att en nationell
-          strategi för att lösa miljöbrott skall tas fram. Jag eftersöker
-          en förändring i hanteringen av miljöbrott inom rättsväsendet.
-        </p>
-        <p xml:id="i-VsTdLM92Rph8LbvuiWCd3p">
-          Med hänvisning till ovanstående vill jag ställa följande frågor
-          till justitieministern:
-        </p>
-        <p xml:id="i-J3ZGvxK6wbrNJKosWUiENH">
-          1. Avser ministern verka för att ”miljöpoliserna” får arbeta
-          med miljö­brott efter avslutad utbildning?
-        </p>
-        <p xml:id="i-XVGeW57hYx4Qa6q4rR8Gsp">
-          2. Avser ministern verka för att i övrigt åstadkomma en förändring
-          när det gäller hanteringen av miljöbrott inom rättsväsendet?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_199.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-M2NAKoB2xGULUuJn5YbC53">
+            Handläggningen av miljöbrott är under all kritik. Ytterst få
+            fall leder till åtal. Uttalandet - Nu slutar jag som polis, kommer
+            från en polisman som varit med om utredningen av ett kemiföretags
+            miljöbrott och där preskriptionstiden av vissa delar av brottet
+            redan har utgått. De poliser som återgått i tjänst efter fortbildning
+            på Polishögskolan för att kunna hantera miljöbrott får inte möjligheter
+            i varken tid eller resurser att ta tag i miljöbrott. Det finns
+            ingen utarbetad strategi för ”miljöpolisen”. Riks­dagen har nu
+            i ett tillkännagivande till regeringen begärt att en nationell
+            strategi för att lösa miljöbrott skall tas fram. Jag eftersöker
+            en förändring i hanteringen av miljöbrott inom rättsväsendet.
+          </p>
+          <p xml:id="i-BJGhWP3BGH5Lujy9xDUpBp">
+            Med hänvisning till ovanstående vill jag ställa följande frågor
+            till justitieministern:
+          </p>
+          <p xml:id="i-HUhcQisnSgcKdheJRnQP3e">
+            1. Avser ministern verka för att ”miljöpoliserna” får arbeta
+            med miljö­brott efter avslutad utbildning?
+          </p>
+          <p xml:id="i-6hnLG5VDCQYfucQkP14Ere">
+            2. Avser ministern verka för att i övrigt åstadkomma en förändring
+            när det gäller hanteringen av miljöbrott inom rättsväsendet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

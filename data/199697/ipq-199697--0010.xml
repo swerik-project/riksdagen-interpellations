@@ -3,70 +3,95 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>hantering av medborgarskap</title>
+        <author>Juan Fonseca (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:10 av Juan Fonseca (s) till statsrådet Leif Blom­berg om hantering av medborgarskap</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_8.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Juan Fonseca (s)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>s</desc>
+            </state>
+            <idno>i-NCm71g5anUBUXFniX6Er3C</idno>
+          </person>
+          <person gender="man">
+            <persName>statsrådet Leif Blom­berg</persName>
+            <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NJsA68LkdYw58LSKLzfiX4" corresp="i-NCm71g5anUBUXFniX6Er3C">
+          <date when="1996-09-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8V9FXuLjMPLppptMqcgPti">
+          <note>date unknown</note>
+          <name>statsrådet Leif Blom­berg</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-PaSK88chCnDgSt2sRztSVy">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DmorEzdJSmKU69Sop7NJi1">
+          <date when="1996-10-08"/>
+        </correspAction>
+        <correspContext corresp="i-DmorEzdJSmKU69Sop7NJi1">
+          <ref type="record" target="prot-199697--011">Prot. 1996/97:11</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:10</head>
-        <author who="i-NCm71g5anUBUXFniX6Er3C">Juan Fonseca (s)</author>
-        <minister who="unknown">statsrådet Leif Blom­berg</minister>
-        <topic>hantering av medborgarskap</topic>
-        <docDate when="1997-09-26">Inkom den 26 september</docDate>
-        <status inProtocol="199697/prot-199697--011.xml" when="1996-10-08" status="answered">Besvarad den 8 oktober, Prot. 1996/97:11</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:10 av Juan Fonseca (s) till statsrådet
-          Leif Blom­berg om hantering av medborgarskap
-        </IPQ_title>
-        <submission_info>
-          Inkom den 26 september Besvarad den 8 oktober Prot. 1996/97:11
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6up1Nv5cyfFBsZLmzYHS8A">
+            Interpellation 1996/97:10 av Juan Fonseca (s) till statsrådet
+            Leif Blom­berg om hantering av medborgarskap
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-VphrqdTmGMybzk4j5wKrGW">
+            Inkom den 26 september : Besvarad den 8 oktober Prot. 1996/97:11
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SY6SC7QHjJnXU8uwyD5QHR">
-          Det förekommer oklarheter kring hur Invandrarverket hanterar
-          med- borgarskapsansökningar från personer tillhörande den somaliska
-          invand­rargruppen i Sverige.
-        </p>
-        <p xml:id="i-SXLJbVuN9VoKVvUjqvT3zD">
-          Invandrarverket verkar ha som praxis att avslå ansökan om svenskt
-          medborgarskap från personer tillhörande den somaliska invandrargrup­pen
-          i Sverige med argument att personerna i fråga ”ej kan styrka sin
-          identitet”.
-        </p>
-        <p xml:id="i-B1ZvC719Nz3cxVfY4iKjpE">
-          Även mot personer som tillhör andra invandrargrupper som t.ex.
-          kur­der verkar samma praxis att tillämpas.
-        </p>
-        <p xml:id="i-VnSjDTBtGBLhRBCs6Dj6fQ">
-          Jag vill därför fråga integrationsministern följande:
-        </p>
-        <p xml:id="i-5Nxva1D626nnpDB2Zu7Ydr">
-          Vad avser ministern att vidta för åtgärder för att få till stånd
-          en ändrad praxis?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_9.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-ENHaJ3DNcgVo8qbATw5GK5">
+            Det förekommer oklarheter kring hur Invandrarverket hanterar
+            med- borgarskapsansökningar från personer tillhörande den somaliska
+            invand­rargruppen i Sverige.
+          </p>
+          <p xml:id="i-JMUMrTyGYbW7NG8Vph4ECR">
+            Invandrarverket verkar ha som praxis att avslå ansökan om svenskt
+            medborgarskap från personer tillhörande den somaliska invandrargrup­pen
+            i Sverige med argument att personerna i fråga ”ej kan styrka sin
+            identitet”.
+          </p>
+          <p xml:id="i-JQghK2BKLim3sGPHPSgLeK">
+            Även mot personer som tillhör andra invandrargrupper som t.ex.
+            kur­der verkar samma praxis att tillämpas.
+          </p>
+          <p xml:id="i-TJifY1w1geiJPFjU5SVEz4">
+            Jag vill därför fråga integrationsministern följande:
+          </p>
+          <p xml:id="i-Bv4CLJ8wAXJw8z1XFwNQyA">
+            Vad avser ministern att vidta för åtgärder för att få till stånd
+            en ändrad praxis?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,113 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>EMU</title>
+        <author>Johan Lönnroth (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:3 av Johan Lönnroth (v) till finansministern om EMU</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_3.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_4.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Johan Lönnroth (v)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>v</desc>
+            </state>
+            <idno>i-WvrkgGMVWbiVxVoPqgJuEF</idno>
+          </person>
+          <person gender="man">
+            <persName>finansministern</persName>
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-89TuJtQ4n5HwGojsihjSCj" corresp="i-WvrkgGMVWbiVxVoPqgJuEF">
+          <date when="1995-10-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6wjB1CKJ7cj7SVduMvKHK7">
+          <note>date unknown</note>
+          <name>finansministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-RGBLP7LiT5BGftWxoXRCT">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PBpuibnGqiVpvYQobqv2YG">
+          <date when="1995-11-16"/>
+        </correspAction>
+        <correspContext corresp="i-PBpuibnGqiVpvYQobqv2YG">
+          <ref type="record" target="prot-199596--024">Prot. 1995/96:24</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:3</head>
-        <author who="i-WvrkgGMVWbiVxVoPqgJuEF">Johan Lönnroth (v)</author>
-        <minister who="unknown">finansministern</minister>
-        <topic>EMU</topic>
-        <docDate when="1995-10-03">Inkom den 3 oktober</docDate>
-        <status inProtocol="199596/prot-199596--024.xml" when="1995-11-16" status="answered">Besvarad den 16 november, Prot. 1995/96:24</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:3 av Johan Lönnroth (v) till finansministern om EMU
-        </IPQ_title>
-        <submission_info>
-          Inkom den 3 oktoberBesvarad den 16 november Prot. 1995/96:24
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DgJyfTMYMpSFasvvpGBPYn">
+            1995/96:3 av Johan Lönnroth (v) till finansministern om EMU
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JKFURHQX7tcdkQMQ2LLXxh">
+            Inkom den 3 oktober : Besvarad den 16 november Prot. 1995/96:24
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AXLw7CpUdPJTkzf3dvo6cY">
-          Debatten om EMU-processen har varit livlig under sommaren och
-          förhösten. Den kände ekonomen Paul Krugman - som var gäst på det
-          socialdemokratiska ekonomiseminariet i somras - har bl.a. kritiserat
-          ”myten” att monetär disciplin medför lägre inflation utan att
-          det kostar något i form av ökad arbetslöshet. I en rapport till
-          EU-parlamentet som arbetats fram under ledning av EU-parlamentarikern
-          Ken Coates varnar man för att ett uppfyllande av konvergenskriterierna
-          i de EU-länder som ännu inte uppfyller dem skulle få starkt negativa
-          konsekvenser för sysselsättningen.
-        </p>
-        <p xml:id="i-7LNn2K6Medm6xUw1NMKcRt">
-          I debatten har det också dykt upp förslag om att på något sätt
-          komplettera EMU så att eventuella negativa följder för sysselsättningen
-          motverkas eller upphävs. I Coatesrapporten föreslås bl.a. en kraftig
-          förstärkning av den europeiska investeringsfonden. Den svenska
-          rege­ringen har föreslagit att man lägger till ett kapitel om
-          sysselsättningen i Romfördraget. LO-ekonomen Dan Andersson m.fl.
-          förespråkar att inte bara penningpolitiken utan också finanspolitiken
-          samordnas med sikte på att möjliggöra en gemensam europeisk expansionspolitik.
-        </p>
-        <p xml:id="i-BNNL7PWtdNXRgPQhYG6EGq">
-          EU-kommissionen har fått uppdraget att ”undersöka de möjliga
-          ef­fekterna av en stärkt samordning av den ekonomiska politiken
-          och strukturpolitiken” inför toppmötet i Madrid i slutet av året.
-          Före års­skiftet skall också dagordningen inför nästa års regeringskonferens
-          definitivt avgöras. Det har också förekommit medieuppgifter om
-          att en snar svensk knytning till ERM förbereds. Det är angeläget
-          att vi inför detta får en bred svensk debatt om hur EMU-processen
-          kan påverkas.
-        </p>
-        <p xml:id="i-K6drHVB69sFHrUYktuqNWk">
-          Enligt uppgifter i medierna bekräftade EU:s finansministrar den
-          gångna helgen att EMU skall genomföras i enlighet med tidigare
-          fast-
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_4.pdf"/>
-        <p xml:id="i-A6uVy1GcT1ubkcKHh4S6VW">
-          lagda planer. Ingenting har - såvitt jag kunnat utläsa av svenska
-          medier - sagts om kompletterande åtgärder mot arbetslösheten.
-          Däremot har finansministern gjort uttalanden som tolkats så att
-          de ytterligare 16 miljarder kronor i budgetförstärkning som nämnts
-          i det svenska konvergensprogrammet kanske kan bli onödiga.
-        </p>
-        <p xml:id="i-AC8Mz2ouqouh56jciqVkyF">
-          Mot denna bakgrund vill jag fråga:
-        </p>
-        <p xml:id="i-KMNQY5xE7wr5KxhLFhugJW">
-          1. Avser regeringen ta några initiativ för att vi skall få en
-          bred of­fentlig debatt om ERM och EMU-processen i övrigt inför
-          kommande beslut?
-        </p>
-        <p xml:id="i-QFR8c3YDXn11Wt4KfbRVgp">
-          2. Avser regeringen ta några initiativ för att EMU-processen
-          kom­mer upp på 1996 års regeringskonferens dagordning?
-        </p>
-        <p xml:id="i-JXojUEDHA496fVvESv7CS8">
-          3. Vilka initiativ inför toppmötet i Madrid och inför regeringskonfe­rensen
-          avser regeringen ta för att hävda kampen mot arbetslösheten i
-          samband med EMU-processen?
-        </p>
-        <p xml:id="i-LPgYjm5ChcMkcV3bFSRXcC">
-          4. Vilka ekonomisk-politiska initiativ avser regeringen ta här
-          i Sve­rige för att motverka negativa effekter på sysselsättningen
-          av EMU- processen?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_5.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2hAwcnmtuQRx15zj2AeY7b">
+            Debatten om EMU-processen har varit livlig under sommaren och
+            förhösten. Den kände ekonomen Paul Krugman - som var gäst på det
+            socialdemokratiska ekonomiseminariet i somras - har bl.a. kritiserat
+            ”myten” att monetär disciplin medför lägre inflation utan att
+            det kostar något i form av ökad arbetslöshet. I en rapport till
+            EU-parlamentet som arbetats fram under ledning av EU-parlamentarikern
+            Ken Coates varnar man för att ett uppfyllande av konvergenskriterierna
+            i de EU-länder som ännu inte uppfyller dem skulle få starkt negativa
+            konsekvenser för sysselsättningen.
+          </p>
+          <p xml:id="i-TfTA327f732WeTBuRBWJdU">
+            I debatten har det också dykt upp förslag om att på något sätt
+            komplettera EMU så att eventuella negativa följder för sysselsättningen
+            motverkas eller upphävs. I Coatesrapporten föreslås bl.a. en kraftig
+            förstärkning av den europeiska investeringsfonden. Den svenska
+            rege­ringen har föreslagit att man lägger till ett kapitel om
+            sysselsättningen i Romfördraget. LO-ekonomen Dan Andersson m.fl.
+            förespråkar att inte bara penningpolitiken utan också finanspolitiken
+            samordnas med sikte på att möjliggöra en gemensam europeisk expansionspolitik.
+          </p>
+          <p xml:id="i-NwWs1dDfVeHK1CzKRRynnk">
+            EU-kommissionen har fått uppdraget att ”undersöka de möjliga
+            ef­fekterna av en stärkt samordning av den ekonomiska politiken
+            och strukturpolitiken” inför toppmötet i Madrid i slutet av året.
+            Före års­skiftet skall också dagordningen inför nästa års regeringskonferens
+            definitivt avgöras. Det har också förekommit medieuppgifter om
+            att en snar svensk knytning till ERM förbereds. Det är angeläget
+            att vi inför detta får en bred svensk debatt om hur EMU-processen
+            kan påverkas.
+          </p>
+          <p xml:id="i-LrZ6pufpxp8jAe7m9NP6Xv">
+            Enligt uppgifter i medierna bekräftade EU:s finansministrar den
+            gångna helgen att EMU skall genomföras i enlighet med tidigare
+            fast-
+          </p>
+          <p xml:id="i-CkbfUNCd1iJw5jPo2MetMp">
+            lagda planer. Ingenting har - såvitt jag kunnat utläsa av svenska
+            medier - sagts om kompletterande åtgärder mot arbetslösheten.
+            Däremot har finansministern gjort uttalanden som tolkats så att
+            de ytterligare 16 miljarder kronor i budgetförstärkning som nämnts
+            i det svenska konvergensprogrammet kanske kan bli onödiga.
+          </p>
+          <p xml:id="i-HrUfKBJ54EcugB2g6rE3Hh">
+            Mot denna bakgrund vill jag fråga:
+          </p>
+          <p xml:id="i-6rxkxZimSVAeYQtvTHLWMB">
+            1. Avser regeringen ta några initiativ för att vi skall få en
+            bred of­fentlig debatt om ERM och EMU-processen i övrigt inför
+            kommande beslut?
+          </p>
+          <p xml:id="i-YVDWYF4ntacnqk1RD8gxx2">
+            2. Avser regeringen ta några initiativ för att EMU-processen
+            kom­mer upp på 1996 års regeringskonferens dagordning?
+          </p>
+          <p xml:id="i-SaJs4ZPv5Sk1uvX66WtgXH">
+            3. Vilka initiativ inför toppmötet i Madrid och inför regeringskonfe­rensen
+            avser regeringen ta för att hävda kampen mot arbetslösheten i
+            samband med EMU-processen?
+          </p>
+          <p xml:id="i-KnposAACTeSaoLJq1BbdLn">
+            4. Vilka ekonomisk-politiska initiativ avser regeringen ta här
+            i Sve­rige för att motverka negativa effekter på sysselsättningen
+            av EMU- processen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

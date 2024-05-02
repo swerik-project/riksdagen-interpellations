@@ -3,75 +3,100 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>mångkulturella samhället</title>
+        <author>Sten Andersson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:115 av Sten Andersson (m) till statsrådet Pierre Schori om mångkulturella samhället</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_110.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Sten Andersson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
+          </person>
+          <person gender="man">
+            <persName>statsrådet Pierre Schori</persName>
+            <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-6gPMBu2uS4T6JmaoHLjh42" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
+          <date when="1996-01-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GDrVLcusGi3bjqpCFgWEdz">
+          <note>date unknown</note>
+          <name>statsrådet Pierre Schori</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-QAYRi8Jfe2FHdbCHSoRtT2">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6qpdPfiZHvEM1UY4PMPtET">
+          <date when="1996-02-04"/>
+        </correspAction>
+        <correspContext corresp="i-6qpdPfiZHvEM1UY4PMPtET">
+          <ref type="record" target="prot-199697--059">Prot. 1996/97:59</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:115</head>
-        <author who="i-84xpErSjuTzEi5hvTA1Jtt">Sten Andersson (m)</author>
-        <minister who="unknown">statsrådet Pierre Schori</minister>
-        <topic>mångkulturella samhället</topic>
-        <docDate when="1997-01-22">Inkom den 22 januari</docDate>
-        <status inProtocol="199697/prot-199697--059.xml" when="1997-02-04" status="answered">Besvarad den 4 februari, Prot. 1996/97:59</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:115 av Sten Andersson (m) till statsrådet
-          Pierre Schori om mångkulturella samhället
-        </IPQ_title>
-        <submission_info>
-          Inkom den 22 januari Besvarad den 4 februari Prot. 1996/97:59
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-RTcs8EqvUH8Q2JaTuRxsLm">
+            Interpellation 1996/97:115 av Sten Andersson (m) till statsrådet
+            Pierre Schori om mångkulturella samhället
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8iKuSM24gU6Zm8JQN83bm8">
+            Inkom den 22 januari : Besvarad den 4 februari Prot. 1996/97:59
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FED5NKavEqkftaEzX1EuPX">
-          Försvararna av svensk asyl- och flyktingpolitik baserar ofta
-          sin argu­mentation på att det är positivt med mångkulturella samhällen.
-          Man avser då att människor med olika kulturell och religiös bakgrund
-          lever harmo­niskt och i stort sett konfliktfritt i väl fungerande
-          samhällen.
-        </p>
-        <p xml:id="i-BBmosyuU7TLrZstNBuPkdH">
-          Vi bevittnar i medier att de flesta av världens nu pågående,
-          tyvärr allt­för många konflikter och oroshärdar, baseras på religiösa,
-          politiska och kulturella skillnader. Exemplen kan mångfaldigas
-          och finns även i vår relativa geografiska närhet.
-        </p>
-        <p xml:id="i-3yQdabfrMRAS9EG3PkSgBw">
-          Många medborgare i Sverige ställer sig frågande om och med vilka
-          metoder vi kan lösa de problem och motsättningar alla andra misslyckats
-          med.
-        </p>
-        <p xml:id="i-NMVRA1fdU96EHjTwp2eupM">
-          Mot bakgrund av den närmast tvärsäkra uppfattningen om det mång­kulturella
-          samhällets fördelar, finns det skäl att ställa följande fråga
-          till statsrådet:
-        </p>
-        <p xml:id="i-TiLjGMyu39VmNM1rtQRduk">
-          Vilka åtgärder är statsrådet beredd vidta i syfte att informera
-          medbor­garna om det mångkulturella samhällets fördelar?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_111.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PBsLhLSwZpeqwTpkj25T3G">
+            Försvararna av svensk asyl- och flyktingpolitik baserar ofta
+            sin argu­mentation på att det är positivt med mångkulturella samhällen.
+            Man avser då att människor med olika kulturell och religiös bakgrund
+            lever harmo­niskt och i stort sett konfliktfritt i väl fungerande
+            samhällen.
+          </p>
+          <p xml:id="i-NQL11JTi5bJZ4XTsQ1rNMT">
+            Vi bevittnar i medier att de flesta av världens nu pågående,
+            tyvärr allt­för många konflikter och oroshärdar, baseras på religiösa,
+            politiska och kulturella skillnader. Exemplen kan mångfaldigas
+            och finns även i vår relativa geografiska närhet.
+          </p>
+          <p xml:id="i-LVSnxFuTq7ESsLxrPq6rSm">
+            Många medborgare i Sverige ställer sig frågande om och med vilka
+            metoder vi kan lösa de problem och motsättningar alla andra misslyckats
+            med.
+          </p>
+          <p xml:id="i-BhSVNcHqBkJGADokaBdXGn">
+            Mot bakgrund av den närmast tvärsäkra uppfattningen om det mång­kulturella
+            samhällets fördelar, finns det skäl att ställa följande fråga
+            till statsrådet:
+          </p>
+          <p xml:id="i-8rcaU1Zh1udT7uLXYjEN3z">
+            Vilka åtgärder är statsrådet beredd vidta i syfte att informera
+            medbor­garna om det mångkulturella samhällets fördelar?
+          </p>
+        </div>
       </div>
     </body>
   </text>

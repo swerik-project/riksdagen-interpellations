@@ -3,67 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>elöverkäns­lighet</title>
+        <author>Lennart Friden (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:98 av Lennart Friden (m) till socialministern om elöverkäns­lighet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_104.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Friden (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-9bfQSfVCLTvHZiJQpxNMkR</idno>
+          </person>
+          <person gender="woman">
+            <persName>socialministern</persName>
+            <idno>i-5CGPntyQKYyZVCsCYHPNrm</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-MRXG8UtxTEiGJu5Ga53yGK" corresp="i-9bfQSfVCLTvHZiJQpxNMkR">
+          <date when="1995-02-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EQH73LA643oeAK6uCVzcpK">
+          <note>date unknown</note>
+          <name>socialministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-D8CMYB1bn4qc9YCpvi5j9h">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-E2fQzCfsfevpLSfJ357cVd">
+          <date when="1995-03-07"/>
+        </correspAction>
+        <correspContext corresp="i-E2fQzCfsfevpLSfJ357cVd">
+          <ref type="record" target="prot-199596--065">Prot. 1995/96:65</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:98</head>
-        <author who="i-9bfQSfVCLTvHZiJQpxNMkR">Lennart Friden (m)</author>
-        <minister who="unknown">socialministern</minister>
-        <topic>elöverkäns­lighet</topic>
-        <docDate when="1996-02-27">Inkom den 27 februari</docDate>
-        <status inProtocol="199596/prot-199596--065.xml" when="1996-03-07" status="answered">Besvarad den 7 mars, Prot. 1995/96:65</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:98 av Lennart Friden (m) till socialministern om elöverkäns­lighet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 27 februariBesvarad den 7 mars Prot. 1995/96:65
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PcRVMf6uqzTVg9JdtCmywf">
+            1995/96:98 av Lennart Friden (m) till socialministern om elöverkäns­lighet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-2tLZhZoYEFdUy2Z7G56C7T">
+            Inkom den 27 februari : Besvarad den 7 mars Prot. 1995/96:65
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2dK1D1fFwj1k7KyYjomtRC">
-          Enligt pressuppgifter har statsrådet Thalén tagit intryck av
-          den för­da debatten och även själv fått bevis på den svåra situationen
-          som de befinner sig i som är överkänsliga för elinducerade magnetfält
-          och därmed sammanhängande apparater och verksamheter. Detta skall
-          också ha föranlett statsrådet att ta initiativ till att det tas
-          ett samlat grepp kring forskningen och de hittills vunna erfarenheterna
-          på områ­det. Om uppgifterna är riktiga är initiativet mycket lovvärt.
-        </p>
-        <p xml:id="i-MLsbx9ch6TcfCPZ56QhA5E">
-          Detta föranleder mig att, för klarhets vinnande, ställa följande
-          frå­gor:
-        </p>
-        <p xml:id="i-JjUkZwCvzZ8GE9geGwSeZg">
-          Vilken är målsättningen för detta projekt, kommer de drabbades
-          or­ganisationer att få vara med, vilket är tidsperspektivet, och
-          kommer under tiden några signaler att ges till försäkringskassor
-          och andra insti­tutioner som känner sig vilsna efter rapporten
-          förra året från Socialsty­relsen?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_105.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-AJMBQLuKYsfCtaJjG3XGGn">
+            Enligt pressuppgifter har statsrådet Thalén tagit intryck av
+            den för­da debatten och även själv fått bevis på den svåra situationen
+            som de befinner sig i som är överkänsliga för elinducerade magnetfält
+            och därmed sammanhängande apparater och verksamheter. Detta skall
+            också ha föranlett statsrådet att ta initiativ till att det tas
+            ett samlat grepp kring forskningen och de hittills vunna erfarenheterna
+            på områ­det. Om uppgifterna är riktiga är initiativet mycket lovvärt.
+          </p>
+          <p xml:id="i-Ww2QKXLojDGLmvGbAY4aZN">
+            Detta föranleder mig att, för klarhets vinnande, ställa följande
+            frå­gor:
+          </p>
+          <p xml:id="i-AoyDFzQgo4oHFVystzVMwm">
+            Vilken är målsättningen för detta projekt, kommer de drabbades
+            or­ganisationer att få vara med, vilket är tidsperspektivet, och
+            kommer under tiden några signaler att ges till försäkringskassor
+            och andra insti­tutioner som känner sig vilsna efter rapporten
+            förra året från Socialsty­relsen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

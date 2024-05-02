@@ -3,99 +3,147 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ökat ansvar för kommuner inom flyktingmottagandet</title>
+        <author>Ekström, Anne-Marie (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ökat ansvar för kommuner inom flyktingmottagandet till statsrådet Barbro Holmberg om ökat ansvar för kommuner inom flyktingmottagandet</title>
+          <idno type="rdwebb">GS1021</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1021/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1021</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1021</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-UmSX9m2mxvWevquvVduNpz</idno>
+            <persName>Anne-Marie Ekström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NW2AQJ8pZHeZog9Mi3gnun" corresp="i-UmSX9m2mxvWevquvVduNpz">
+          <date when="2004-09-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PZQfmDHkoAUrfZBBrFfh2X">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Wf9rheMuo8CaYWxXjT5nhR">
+          <date when="2004-10-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EAPbsWuJCvu3kbFe5AoLvq" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2004-09-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UAAkrY1MZCMrysig8dVbGc" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2004-10-19"/>
+        </correspAction>
+        <correspContext corresp="i-UAAkrY1MZCMrysig8dVbGc">
+          <ref type="record" target="prot-200405--016">Riksdagens protokoll 2004/05:16 Tisdagen den 19 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellationerna 2004/05:14, 15, 21 och 28 om flyktingmottagandet i kommunerna</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0021</head>
-        <author who="i-UmSX9m2mxvWevquvVduNpz">Anne-Marie Ekström</author>
-        <recipient who="i-8NR1Z8tejozuay7fUnQPDP">Barbro Holmberg</recipient>
-        <topic>ökat ansvar för kommuner inom flyktingmottagandet</topic>
-        <docDate when="2004-09-21">den 21 september</docDate>
-        <status when="unknown" byWhom="Barbro Holmberg" byWhomId="i-8NR1Z8tejozuay7fUnQPDP" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1021</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:21 av Anne-Marie Ekström (fp) till statsrådet
-          Barbro Holmberg om ökat ansvar för kommuner inom flyktingmottagandet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-R11TGEymsgEVXbeiBmJuJB">
+            Interpellation 2004/05:21 av Anne-Marie Ekström (fp) till statsrådet
+            Barbro Holmberg om ökat ansvar för kommuner inom flyktingmottagandet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-73p1LFVFhHg2Zd2vhbRF4z">
+            den 21 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DzeZQBpG5kiKxoeAV4wyVA">
-          Jag har tillsammans med medlemmar i riksdagens tvärpolitiska
-          asyl- och flyktinggrupp besökt flyktingförläggningen i Skinnskatteberg
-          och träffat representanter från kommunen, Migrationsverket och
-          asylsökande. Kommunen har tagit stort ansvar för att se till att
-          flyktingförläggningen har fått bra förutsättningar att fungera.
-        </p>
-        <p xml:id="i-GNr42VNRMM8dDNiUXNAG1W">
-          Kommunen @ såväl politikerna, tjänstemännen samt frivilligorganisationer
-          och boende @ har solidariskt ställt upp när Migrationsverket behövt
-          platser. Överenskommelsen var 250 asylsökande, vilket måste ses
-          som tämligen omfattande i förhållande till befolkningsmängden.
-          Nu är antalet asylsökande mindre än hälften av detta antal.
-        </p>
-        <p xml:id="i-FGAVvBb39e45xzoQEwtgiV">
-          Skinnskattebergs kommun har till exempel investerat i ett delvis
-          EU-finansierat projekt för att finna former för att få ut de asylsökande
-          i betalda vita arbetstillfällen, typ hushållsnära tjänster, men
-          även ströjobb inom näringslivet.
-        </p>
-        <p xml:id="i-6Rah7F2pAoWhwX1cGxxg7C">
-          Samverkan mellan ortsbefolkning och asylsökande har fungerat
-          bra. De asylsökande har välkomnats att delta i ortens livliga
-          föreningsverksamhet.
-        </p>
-        <p xml:id="i-HXZ7FFCNpzw3cNPqZHJvRz">
-          Tillgången på bostäder har varit god. Tyvärr har inte kontakten
-          med Migrationsverket varit lika god.
-        </p>
-        <p xml:id="i-Y5zupE1e4wErQauBqfiPZV">
-          Mottagning av asylsökande innebär inte bara att bistå med sängplatser
-          utan man måste också ta ett socialt ansvar, såväl mot de asylsökande
-          som mot ortsbefolkningen. Den politiska ledningen i Skinnskatteberg
-          menar att detta sköts bäst av kommunen och samhällets olika nätverk.
-          Därför vill kommunen ta över och driva förläggningen i egen regi.
-        </p>
-        <p xml:id="i-F3E3c5TKCKVg8rg25aTs59">
-          Kommunstyrelen i Skinnskatteberg har flera gånger kontaktat Migrationsverket
-          för att få verkets tillstånd att även i fortsättningen ta emot
-          asylsökande till kommunen men ännu inte fått något klart svar.
-        </p>
-        <p xml:id="i-B3NgYej6iE6g636UvXsxY4">
-          Med anledning av ovanstående vill jag fråga statsrådet Barbro
-          Holmberg:
-        </p>
-        <p xml:id="i-DRhYBbG1BtdYAeVeGMh7ok">
-          1. Vad avser statsrådet att göra för att asylmottagningen bättre
-          ska kunna integreras i kommunernas verksamhet?
-        </p>
-        <p xml:id="i-HjNTbzJ35zsvgUSh6Y5GkD">
-          2. Vilka åtgärder avser statsrådet att vidta för att stödja de
-          goda exemplen, som till exempel initiativet från Skinnskattebergs
-          kommun?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-32LRMkDWRvBQFRCwrQgD3q">
+            Jag har tillsammans med medlemmar i riksdagens tvärpolitiska
+            asyl- och flyktinggrupp besökt flyktingförläggningen i Skinnskatteberg
+            och träffat representanter från kommunen, Migrationsverket och
+            asylsökande. Kommunen har tagit stort ansvar för att se till att
+            flyktingförläggningen har fått bra förutsättningar att fungera.
+          </p>
+          <p xml:id="i-6VXqjgGc93vV925LJ3JQxc">
+            Kommunen @ såväl politikerna, tjänstemännen samt frivilligorganisationer
+            och boende @ har solidariskt ställt upp när Migrationsverket behövt
+            platser. Överenskommelsen var 250 asylsökande, vilket måste ses
+            som tämligen omfattande i förhållande till befolkningsmängden.
+            Nu är antalet asylsökande mindre än hälften av detta antal.
+          </p>
+          <p xml:id="i-5vEeji4Z1E3kB27cPvj3h1">
+            Skinnskattebergs kommun har till exempel investerat i ett delvis
+            EU-finansierat projekt för att finna former för att få ut de asylsökande
+            i betalda vita arbetstillfällen, typ hushållsnära tjänster, men
+            även ströjobb inom näringslivet.
+          </p>
+          <p xml:id="i-VPS4LpNiEZzkX3S5NkvSJs">
+            Samverkan mellan ortsbefolkning och asylsökande har fungerat
+            bra. De asylsökande har välkomnats att delta i ortens livliga
+            föreningsverksamhet.
+          </p>
+          <p xml:id="i-CNDQ8RHxNikWrHkAWeErCL">
+            Tillgången på bostäder har varit god. Tyvärr har inte kontakten
+            med Migrationsverket varit lika god.
+          </p>
+          <p xml:id="i-NgDdARWTyuiuyV8TyTw8fN">
+            Mottagning av asylsökande innebär inte bara att bistå med sängplatser
+            utan man måste också ta ett socialt ansvar, såväl mot de asylsökande
+            som mot ortsbefolkningen. Den politiska ledningen i Skinnskatteberg
+            menar att detta sköts bäst av kommunen och samhällets olika nätverk.
+            Därför vill kommunen ta över och driva förläggningen i egen regi.
+          </p>
+          <p xml:id="i-AnJLVfoJqkL2wxKWN1XAwP">
+            Kommunstyrelen i Skinnskatteberg har flera gånger kontaktat Migrationsverket
+            för att få verkets tillstånd att även i fortsättningen ta emot
+            asylsökande till kommunen men ännu inte fått något klart svar.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Wbwwmb1iTzCjwb6n5zp1Z6">
+            Med anledning av ovanstående vill jag fråga statsrådet Barbro
+            Holmberg:
+            <list rend="unordered">
+              <item>
+                1. Vad avser statsrådet att göra för att asylmottagningen bättre
+                ska kunna integreras i kommunernas verksamhet?
+              </item>
+              <item>
+                2. Vilka åtgärder avser statsrådet att vidta för att stödja de
+                goda exemplen, som till exempel initiativet från Skinnskattebergs
+                kommun?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

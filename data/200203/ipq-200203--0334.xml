@@ -3,117 +3,145 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>läkemedelslistor</title>
+        <author>Wikström, Cecilia (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>läkemedelslistor till socialminister Lars Engqvist om läkemedelslistor</title>
+          <idno type="rdwebb">GQ10334</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10334/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10334</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10334</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-XN7bgwBGaQixfiHi5Cbu8f</idno>
+            <persName>Cecilia Wikström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-G15FLcjr3LLcik9hseUicX" corresp="i-XN7bgwBGaQixfiHi5Cbu8f">
+          <date when="2003-05-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2gFpyNvrR1hkDwp6WhGKKS">
+          <date when="2003-05-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PfquMjLavuwdKsejwgq6pD">
+          <date when="2003-05-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5jbawwYpbShpxrbjPujVhu">
+          <date when="2003-05-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Xi8TyWhoYmvnu77MSCoFep" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2003-05-08"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0334</head>
-        <author who="i-XN7bgwBGaQixfiHi5Cbu8f">Cecilia Wikström</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>läkemedelslistor</topic>
-        <docDate when="2003-05-08">den 8 maj</docDate>
-        <status when="2003-05-16" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10334</external_id>
-        <debate>
-          <turn when="2003-05-16 10:13:21" duration="233">Lars Engqvist (S)</turn>
-          <turn when="2003-05-16 10:17:10" duration="202">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-05-16 10:20:29" duration="197">Lars Engqvist (S)</turn>
-          <turn when="2003-05-16 10:23:42" duration="131">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-05-16 10:25:48" duration="97">Lars Engqvist (S)</turn>
-          <turn when="2003-05-16 10:27:21" duration="63">Cecilia Wikström (Fp)</turn>
-          <turn when="2003-05-16 10:28:20" duration="82">Lars Engqvist (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:334 av Cecilia Wikström (fp) till socialminister
-          Lars Engqvist om läkemedelslistor
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-D9DhgFxx3PEAwKrAVewmFc">
+            Interpellation 2002/03:334 av Cecilia Wikström (fp) till socialminister
+            Lars Engqvist om läkemedelslistor
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-RPFUZASBMhefrMoLmxNemm">
+            den 8 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JHHz5NgKC1h1hvxiUZTGY3">
-          Äldre personer är den grupp som förbrukar mest läkemedel @ men
-          också den grupp som oftast behöver sjukhusvård till följd av felmedicinering.
-        </p>
-        <p xml:id="i-9BD6rJZELxxThuHULtf5FN">
-          En godtagbar läkemedelsanvändning är rätt läkemedel till rätt
-          patient, på rätt indikation, i rätt dosering, under rätt behandlingstid
-          @ och i rätt administreringsform. Dessvärre har vi i dag ganska
-          långt kvar att gå innan vi nått dit inom svensk äldrevård.
-        </p>
-        <p xml:id="i-LXF3UKYoPGdKpy2V2yiGgs">
-          Att patienter inte följer läkarens ordination förekommer både
-          inom och utom äldrevården, och det leder inte sällan till att
-          behandling misslyckas, att önskade effekter uteblir och att biverkningar
-          inträffar.
-        </p>
-        <p xml:id="i-AftcAQLmPDeJSgK6iH88MK">
-          Studier har visat att mellan 10 och 25 % av alla patienter över
-          65 år som skrivs in vid medicinsk klinik beror på komplikationer
-          till läkemedelsbehandling. Detta vållar stort och onödigt lidande
-          och merkostnaderna för sjukvården uppgår till miljardbelopp.
-        </p>
-        <p xml:id="i-4nASGXCAbW766Yha2CXTWZ">
-          Det behövs ett målmedvetet arbete på många olika håll för att
-          förhindra att äldre människor blir sjukare av att ordinerade läkemedel
-          använts fel eller inte använts alls. Exempelvis behövs i äldreboenden
-          läkemedelsronder, där man regelbundet går igenom läkemedelsanvändningen
-          i syfte att undvika felmedicinering. Det borde ställas krav från
-          Socialstyrelsen på att systematiska sådana läkemedelsgenomgångar
-          genomförs såväl för de äldre som bor i särskilda boenden, som
-          för andra äldre som använder många läkemedel.Det skulle också
-          vara en stor fördel om varje patient hade en egen husläkare. Att
-          personer besöker olika läkare som skriver ut mediciner utan att
-          veta om vad de andra skriver ut innebär en stor risk för överdoseringar
-          eller för att utskrivna läkemedel motverkar varandras effekter.
-          I väntan på ett återinförande av en husläkarlag finns dock en
-          del andra åtgärder som kan vidtas, utöver det arbete med läkemedelsfrågorna
-          som pågår på olika håll.
-        </p>
-        <p xml:id="i-NYkwpMtsokf72ftWiSKpnN">
-          Många felutskrivningar och överdoseringar borde kunna undvikas
-          om det för patienterna fanns läkemedelslistor, där alla förskrivna
-          mediciner fanns med. Läkemedelslista bör också kunna bidra till
-          att begränsa de nu snabbt växande läkemedelskostnaderna. Denna
-          läkemedelslista behöver inte vara ett obligatorium för att ge
-          betydande fördelar, utan kan förutsättas vara frivillig. I dag
-          anses det dock finnas bestämmelser som hindrar upprättandet och
-          användandet av läkemedelslistor @ även om bra tekniska lösningar
-          numera är tillgängliga.
-        </p>
-        <p xml:id="i-S7LEdYVAAgsTFCYf9VnPmt">
-          Med hänvisning till ovanstående vill jag fråga socialministern:
-        </p>
-        <p xml:id="i-Xk69N7tjFs2rB1ji8V95CR">
-          1. Avser ministern att ta några initiativ för att Socialstyrelsen
-          ska kunna ställa mer bestämda krav på läkemedelsgenomgångar i
-          äldrevården?
-        </p>
-        <p xml:id="i-DpfNytat3atSJxcu2spwqS">
-          2. Avser ministern att arbeta för åtgärder som kan råda bot på
-          svårigheterna att upprätta läkemedelslistor för användning inom
-          äldrevården?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FU7y8pYBt1yFPNPpE2umrb">
+            Äldre personer är den grupp som förbrukar mest läkemedel @ men
+            också den grupp som oftast behöver sjukhusvård till följd av felmedicinering.
+          </p>
+          <p xml:id="i-TjKTfdeSAVdL36bcQV2ZYF">
+            En godtagbar läkemedelsanvändning är rätt läkemedel till rätt
+            patient, på rätt indikation, i rätt dosering, under rätt behandlingstid
+            @ och i rätt administreringsform. Dessvärre har vi i dag ganska
+            långt kvar att gå innan vi nått dit inom svensk äldrevård.
+          </p>
+          <p xml:id="i-6JzMhkmXHRoVnJmmaA57Kr">
+            Att patienter inte följer läkarens ordination förekommer både
+            inom och utom äldrevården, och det leder inte sällan till att
+            behandling misslyckas, att önskade effekter uteblir och att biverkningar
+            inträffar.
+          </p>
+          <p xml:id="i-WARWCkaNN1a1DSLCe1nmQM">
+            Studier har visat att mellan 10 och 25 % av alla patienter över
+            65 år som skrivs in vid medicinsk klinik beror på komplikationer
+            till läkemedelsbehandling. Detta vållar stort och onödigt lidande
+            och merkostnaderna för sjukvården uppgår till miljardbelopp.
+          </p>
+          <p xml:id="i-8FfXrVwLJgD5caTdsfr3c2">
+            Det behövs ett målmedvetet arbete på många olika håll för att
+            förhindra att äldre människor blir sjukare av att ordinerade läkemedel
+            använts fel eller inte använts alls. Exempelvis behövs i äldreboenden
+            läkemedelsronder, där man regelbundet går igenom läkemedelsanvändningen
+            i syfte att undvika felmedicinering. Det borde ställas krav från
+            Socialstyrelsen på att systematiska sådana läkemedelsgenomgångar
+            genomförs såväl för de äldre som bor i särskilda boenden, som
+            för andra äldre som använder många läkemedel.Det skulle också
+            vara en stor fördel om varje patient hade en egen husläkare. Att
+            personer besöker olika läkare som skriver ut mediciner utan att
+            veta om vad de andra skriver ut innebär en stor risk för överdoseringar
+            eller för att utskrivna läkemedel motverkar varandras effekter.
+            I väntan på ett återinförande av en husläkarlag finns dock en
+            del andra åtgärder som kan vidtas, utöver det arbete med läkemedelsfrågorna
+            som pågår på olika håll.
+          </p>
+          <p xml:id="i-MU6gX5fAWCde8gVS6gCmu1">
+            Många felutskrivningar och överdoseringar borde kunna undvikas
+            om det för patienterna fanns läkemedelslistor, där alla förskrivna
+            mediciner fanns med. Läkemedelslista bör också kunna bidra till
+            att begränsa de nu snabbt växande läkemedelskostnaderna. Denna
+            läkemedelslista behöver inte vara ett obligatorium för att ge
+            betydande fördelar, utan kan förutsättas vara frivillig. I dag
+            anses det dock finnas bestämmelser som hindrar upprättandet och
+            användandet av läkemedelslistor @ även om bra tekniska lösningar
+            numera är tillgängliga.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Rc8oHkrvCZdkBYoqzX2yJh">
+            Med hänvisning till ovanstående vill jag fråga socialministern:
+            <list rend="unordered">
+              <item>
+                1. Avser ministern att ta några initiativ för att Socialstyrelsen
+                ska kunna ställa mer bestämda krav på läkemedelsgenomgångar i
+                äldrevården?
+              </item>
+              <item>
+                2. Avser ministern att arbeta för åtgärder som kan råda bot på
+                svårigheterna att upprätta läkemedelslistor för användning inom
+                äldrevården?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

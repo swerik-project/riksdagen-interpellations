@@ -3,65 +3,90 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>resningsinstitutet</title>
+        <author>Elisabeth Fleetwood (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:296 av Elisabeth Fleetwood (m) till justitieminis­tern om resningsinstitutet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_289.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Elisabeth Fleetwood (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-XReDscGERZf5yzSxFeceD3</idno>
+          </person>
+          <person gender="woman">
+            <persName>justitieminis­tern</persName>
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GWV4yHPaBEjWdTpa1T9atm" corresp="i-XReDscGERZf5yzSxFeceD3">
+          <date when="1996-05-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Dj4S4x1SvPFqVHbaRdghFd">
+          <note>date unknown</note>
+          <name>justitieminis­tern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-3BAi9bw8epiHofr8dcvkK8">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Y9TC6GBS2fN1EwZ1BnpAgM">
+          <date when="1996-05-20"/>
+        </correspAction>
+        <correspContext corresp="i-Y9TC6GBS2fN1EwZ1BnpAgM">
+          <ref type="record" target="prot-199697--105">Prot. 1996/97:105</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:296</head>
-        <author who="i-XReDscGERZf5yzSxFeceD3">Elisabeth Fleetwood (m)</author>
-        <minister who="unknown">justitieminis­tern</minister>
-        <topic>resningsinstitutet</topic>
-        <docDate when="1997-05-02">Inkom den 2 maj</docDate>
-        <status inProtocol="199697/prot-199697--105.xml" when="1997-05-20" status="answered">Besvarad den 20 maj, Prot. 1996/97:105</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:296 av Elisabeth Fleetwood (m) till justitieminis­tern
-          om resningsinstitutet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 2 majBesvarad den 20 maj Prot. 1996/97:105
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5PLvhmbeHWCiDprkNk3aUj">
+            Interpellation 1996/97:296 av Elisabeth Fleetwood (m) till justitieminis­tern
+            om resningsinstitutet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Pnr3fe8T3besetXWNPtW2L">
+            Inkom den 2 maj : Besvarad den 20 maj Prot. 1996/97:105
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-YG3aB4hA7m9FsY87X9bagy">
-          Högsta domstolen beslöt i februari 1997 att ej bevilja resning
-          i ett i pressen ofta debatterat fall av det besöksförbud, som
-          sattes i kraft 1988.
-        </p>
-        <p xml:id="i-ayNHKzmZtTm8M4DZNNQY4">
-          Med hänsyn till de uppgifter som framkommit och med hänsyn till
-          att det uppenbarligen föreligger risk för att fel begåtts vill
-          jag ställa följande fråga:
-        </p>
-        <p xml:id="i-hCXXP2xy2Q98v3LXhnwfw">
-          Är statsrådet beredd att pröva om resningsinstitutet i sin nuvarande
-          ut­formning ger tillräckliga möjligheter till omprövning av brottmålsdom
-          grundad på tilltro till uppgifter av målsägande, när efter domen
-          omstän­digheter framkommer som är ägnade att minska tilltron till
-          målsägandens tillförlitlighet?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_290.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FmyuqogCJDcvRx7NCVVJaU">
+            Högsta domstolen beslöt i februari 1997 att ej bevilja resning
+            i ett i pressen ofta debatterat fall av det besöksförbud, som
+            sattes i kraft 1988.
+          </p>
+          <p xml:id="i-7pHQdvQW8gSnpMc8zx8Jty">
+            Med hänsyn till de uppgifter som framkommit och med hänsyn till
+            att det uppenbarligen föreligger risk för att fel begåtts vill
+            jag ställa följande fråga:
+          </p>
+          <p xml:id="i-Ljz5D6oqjB8rPpvMpP3G48">
+            Är statsrådet beredd att pröva om resningsinstitutet i sin nuvarande
+            ut­formning ger tillräckliga möjligheter till omprövning av brottmålsdom
+            grundad på tilltro till uppgifter av målsägande, när efter domen
+            omstän­digheter framkommer som är ägnade att minska tilltron till
+            målsägandens tillförlitlighet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

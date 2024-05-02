@@ -3,92 +3,125 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>uppskov med fastighetsskatten</title>
+        <author>Gustafsson, Lars (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>uppskov med fastighetsskatten till finansminister Pär Nuder om uppskov med fastighetsskatten</title>
+          <idno type="rdwebb">GS10427</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10427/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10427</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10427</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KGqrEB2Pzg8goYxy9CcDhd</idno>
+            <persName>Lars Gustafsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-PhJT2JvNX97eX8VutynWG2" corresp="i-KGqrEB2Pzg8goYxy9CcDhd">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VcTYyAXNbWKEwJttCQKF7H" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SZgoPm7yje7KBi2jWxbi1H">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Dgbux1xxGWtPYWqsw2AjjV" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-03-11"/>
+        </correspAction>
+        <correspContext corresp="i-Dgbux1xxGWtPYWqsw2AjjV">
+          <ref type="record" target="prot-200405--089">Riksdagens protokoll 2004/05:89 Fredagen den 11 mars</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2004/05:427 om uppskov med fastighetsskatten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0427</head>
-        <author who="i-KGqrEB2Pzg8goYxy9CcDhd">Lars Gustafsson</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>uppskov med fastighetsskatten</topic>
-        <docDate when="2005-02-25">den 25 februari</docDate>
-        <status when="2005-03-11" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10427</external_id>
-        <debate>
-          <turn when="2005-03-11 09:01:11" duration="127">Pär Nuder (S)</turn>
-          <turn when="2005-03-11 09:03:14" duration="274">Lars Gustafsson (Kd)</turn>
-          <turn when="2005-03-11 09:07:44" duration="135">Pär Nuder (S)</turn>
-          <turn when="2005-03-11 09:09:55" duration="191">Lars Gustafsson (Kd)</turn>
-          <turn when="2005-03-11 09:13:02" duration="163">Pär Nuder (S)</turn>
-          <turn when="2005-03-11 09:15:41" duration="116">Lars Gustafsson (Kd)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:427 av Lars Gustafsson (kd) till finansminister
-          Pär Nuder om uppskov med fastighetsskatten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CMjBhk5175LAEqfEL1aPR7">
+            Interpellation 2004/05:427 av Lars Gustafsson (kd) till finansminister
+            Pär Nuder om uppskov med fastighetsskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MMu7w9R4sc7TATkJshGV9C">
+            den 25 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RvLiTVSqXQmUwHpDW6gwmV">
-          Enligt ett inslag i TV 4 fredagen den 18 februari 2005 har en
-          person i Ekerö råkat illa ut bland annat på grund av fastighetsskatten.
-          Det finns all anledning att tro att fler personer har drabbats
-          på samma vis och kommer att fortsätta att göra det om inget görs.
-        </p>
-        <p xml:id="i-TQoCP2mDhKjv8bbq7p8AtF">
-          Personen i fråga sålde för en tid sedan sitt radhus för att kunna
-          köpa en tomt i Ekerö och bebygga den med ett hus. Efterhand visade
-          det sig emellertid att den byggfirma personen anlitade inte var
-          seriös. Byggfirman valde att gå under jorden och den blivande
-          husägaren stod plötsligt med ett ofärdigt hus och utan pengar
-          att betala för att kunna färdigställa huset.
-        </p>
-        <p xml:id="i-28yrtLcTBKb7ExYAfgC6yq">
-          Enligt gällande regler får nybyggda hus uppskov med fastighetsbeskattning
-          i fem år och därefter nedsatt fastighetsskatt i ytterligare fem
-          år. Detta gäller från det datum när huset ska vara färdigställt.
-          Nu har ägaren till det ofärdiga huset hört av sig till Skatteverket
-          för att få datumet för färdigställandet av huset framflyttat.
-          Skatteverket har inte tillåtit någon framflyttning då gällande
-          regler inte tillåter detta.
-        </p>
-        <p xml:id="i-D6AYNWhqwm5b5cThs4jxHA">
-          Oavsett vad man anser om fastighetsskattens konstruktion och
-          legitimitet måste det förhållande som beskrivs ovan vara oacceptabelt
-          i en rättsstat. Det är orimligt att en person ska drabbas av indrivning
-          av en skatt innan tillgången som skatten gäller har uppstått.
-          I detta fall beror det alltså på andras verifierade skojeri. Naturligtvis
-          måste möjlighet till förlängt uppskov kunna ges vid särskilda
-          omständigheter. Reglerna för förlängt uppskov måste ändras.
-        </p>
-        <p xml:id="i-dEZ5AQnmW5sG12GK4VVBq">
-          Min fråga till finansministern är därför:
-        </p>
-        <p xml:id="i-4JpZkMpGj1VR1YNegc6VzE">
-          Avser finansministern att ändra reglerna för uppskov med fastighetsskatt
-          så att orimliga situationer inte ska kunna uppstå?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UqEwZBv843fKpNYbuJkCqN">
+            Enligt ett inslag i TV 4 fredagen den 18 februari 2005 har en
+            person i Ekerö råkat illa ut bland annat på grund av fastighetsskatten.
+            Det finns all anledning att tro att fler personer har drabbats
+            på samma vis och kommer att fortsätta att göra det om inget görs.
+          </p>
+          <p xml:id="i-NGQW27sDBfiEHDtWkBN972">
+            Personen i fråga sålde för en tid sedan sitt radhus för att kunna
+            köpa en tomt i Ekerö och bebygga den med ett hus. Efterhand visade
+            det sig emellertid att den byggfirma personen anlitade inte var
+            seriös. Byggfirman valde att gå under jorden och den blivande
+            husägaren stod plötsligt med ett ofärdigt hus och utan pengar
+            att betala för att kunna färdigställa huset.
+          </p>
+          <p xml:id="i-QujauNE9Tc8PPZhhY4d3UV">
+            Enligt gällande regler får nybyggda hus uppskov med fastighetsbeskattning
+            i fem år och därefter nedsatt fastighetsskatt i ytterligare fem
+            år. Detta gäller från det datum när huset ska vara färdigställt.
+            Nu har ägaren till det ofärdiga huset hört av sig till Skatteverket
+            för att få datumet för färdigställandet av huset framflyttat.
+            Skatteverket har inte tillåtit någon framflyttning då gällande
+            regler inte tillåter detta.
+          </p>
+          <p xml:id="i-SAWotYundNd8stLmawhnNs">
+            Oavsett vad man anser om fastighetsskattens konstruktion och
+            legitimitet måste det förhållande som beskrivs ovan vara oacceptabelt
+            i en rättsstat. Det är orimligt att en person ska drabbas av indrivning
+            av en skatt innan tillgången som skatten gäller har uppstått.
+            I detta fall beror det alltså på andras verifierade skojeri. Naturligtvis
+            måste möjlighet till förlängt uppskov kunna ges vid särskilda
+            omständigheter. Reglerna för förlängt uppskov måste ändras.
+          </p>
+          <p xml:id="i-P1CK1SgmJir4oKpB2jkdup">
+            Min fråga till finansministern är därför:
+          </p>
+          <p xml:id="i-QaJecYNNCd6xEAZQJmQdW1">
+            Avser finansministern att ändra reglerna för uppskov med fastighetsskatt
+            så att orimliga situationer inte ska kunna uppstå?
+          </p>
+        </div>
       </div>
     </body>
   </text>

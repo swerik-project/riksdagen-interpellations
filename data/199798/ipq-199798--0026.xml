@@ -3,111 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>dubbelbeskattning, utflyttning m.m.</title>
+        <author>Bo Lundgren (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:26 av Bo Lundgren (m) till finansministern angå­ende dubbelbeskattning, utflyttning m.m.</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_23.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_24.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Bo Lundgren (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-4i5vpDVzDizjgGeYkeoK2E</idno>
+          </person>
+          <person gender="man">
+            <persName>finansministern</persName>
+            <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Qw4MWRVVxFQd3tDHSQDdj" corresp="i-4i5vpDVzDizjgGeYkeoK2E">
+          <date when="1997-10-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ava5x7oDMtK4LWhAWimnzZ">
+          <note>date unknown</note>
+          <name>finansministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-2p7HRSrqy8MuRoAbYVcMfx">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-As2ogPmsZZKppbwbT2U5hn">
+          <date when="1997-11-25"/>
+        </correspAction>
+        <correspContext corresp="i-As2ogPmsZZKppbwbT2U5hn">
+          <ref type="record" target="prot-199798--033">Prot. 1997/98:33</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:26</head>
-        <author who="i-4i5vpDVzDizjgGeYkeoK2E">Bo Lundgren (m)</author>
-        <minister who="unknown">finansministern</minister>
-        <topic>dubbelbeskattning, utflyttning m.m.</topic>
-        <docDate when="1997-10-15">Inkom den 15 oktober</docDate>
-        <status inProtocol="199798/prot-199798--033.xml" when="1997-11-25" status="answered">Besvarad den 25 november, Prot. 1997/98:33</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:26 av Bo Lundgren (m) till finansministern
-          angå­ende dubbelbeskattning, utflyttning m.m.
-        </IPQ_title>
-        <submission_info>
-          Inkom den 15 oktoberBesvarad den 25 november Prot. 1997/98:33
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Ut3YVetLntDE84NCz7rpGW">
+            Interpellation 1997/98:26 av Bo Lundgren (m) till finansministern
+            angå­ende dubbelbeskattning, utflyttning m.m.
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-AUbDuG3t3tsvPiieWtmcej">
+            Inkom den 15 oktober : Besvarad den 25 november Prot. 1997/98:33
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NVndsNnZxygqf897NxY1rn">
-          Dubbelbeskattningen av utdelade och kvarhållna vinster medför
-          sned­vridningar och skadar Sveriges ekonomi. När Nordbanken redovisade
-          sin planerade sammanslagning med Merita Bank i Finland framkom
-          det att den nya banken skulle ha sin juridiska hemvist i Finland.
-          Skälet angavs mycket klart vara att finländska aktieägare annars
-          skulle drabbas av den svenska dubbelbeskattningen.
-        </p>
-        <p xml:id="i-YT4YEgqPvDUEjQTSnQoAjg">
-          Finansminister Erik Åsbrink kommenterade detta genom att säga
-          att regeringen ”kan leva med det”. Det är ytterst anmärkningsvärt
-          att Sveri­ges finansminister tar så lätt på att det svenska skattesystemet
-          leder till att
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_24.pdf"/>
-        <p xml:id="i-5zW1LPZNrePAWgMhS9JqPd">
-          svenska företag vid sammanslagningar med utländska företag väljer
-          att ”flagga ut”. Att sådana beslut drivs fram av snedvridande
-          inslag i det svenska skattesystemet är oacceptabelt.
-        </p>
-        <p xml:id="i-9cLXxUjdYsqU3azHUAhate">
-          Dubbelbeskattningen medför bristande symmetri i beskattningen
-          av kapitalinkomster. Ersättningen för lånat kapital är avdragsgill
-          i bolaget och beskattas sedan hos den som mottar avkastningen.
-          Därmed uppgår skatten till 30 %. När det gäller det egna, riskbärande
-          kapitalet beskattas avkastningen först i bolaget och därefter
-          hos den enskilde aktieägaren med en skatteeffekt på ca 50 %. Det
-          är uppenbart att en högre beskattning av det egna, riskbärande
-          kapital som är grunden för företagande och investeringar ger negativa
-          effekter.
-        </p>
-        <p xml:id="i-N9P1sTbV2QSgkZPxFACz4e">
-          Dubbelbeskattningen driver fram högre avkastningskrav, särskilt
-          när det gäller mindre och medelstora företag och försvårar deras
-          riskkapital­försörjning. För de större företagen uppstår en annan
-          snedvridning även om man genom den internationella kapitalmarknaden
-          har tillgång till utländskt kapital till internationellt bestämt
-          avkastningskrav. Det blir nämligen mer intressant för utländska
-          ägare, till följd av en rimligare skattesituation, att investera
-          i svenska företag. Dubbelbeskattningen leder således till ökat
-          utländskt ägande av svenska börsföretag. Det är negativt om orsaken
-          är orimliga skatteregler i Sverige.
-        </p>
-        <p xml:id="i-Soji96vvKMSsMhCSAC9bex">
-          Regeringen tvangs för något år sedan indirekt att erkänna dessa
-          nega­tiva effekter. Man införde vissa regler som lindrade effekterna
-          för de mindre bolagen. Det innebär emellertid att skattesystemets
-          struktur har blivit ännu krångligare. Till följd av de spärregler
-          som finns för fåmans- bolag kan avkastningen på det egna kapitalet
-          för dessa bolag beskattas på tre sätt utan att det egentligen
-          går att förutse på vilket under ett löpande beskattningsår. Till
-          yttermera visso drabbas framför allt de snabbväxande vinstrika
-          mindre bolagen av dessa spärregler, dvs. just de företag som har
-          de största förutsättningarna att expandera och skapa nya arbetstillfällen.
-        </p>
-        <p xml:id="i-4mYxN6AsrcJPNKDrGrKxZY">
-          Mot bakgrund av detta vill jag fråga finansminister Åsbrink:
-        </p>
-        <p xml:id="i-WjAob3TqX89wuZCdmG1st7">
-          Är regeringen beredd att lägga förslag om fullständigt slopad
-          dubbel­beskattning av kvarhållna och utdelade vinster i aktiebolag
-          och därmed uppnå en enhetlig beskattning av kapitalinkomster?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_25.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RtLC6qABsaAVMYwTDDqD3r">
+            Dubbelbeskattningen av utdelade och kvarhållna vinster medför
+            sned­vridningar och skadar Sveriges ekonomi. När Nordbanken redovisade
+            sin planerade sammanslagning med Merita Bank i Finland framkom
+            det att den nya banken skulle ha sin juridiska hemvist i Finland.
+            Skälet angavs mycket klart vara att finländska aktieägare annars
+            skulle drabbas av den svenska dubbelbeskattningen.
+          </p>
+          <p xml:id="i-Di5YSaWtmzBbZPqLVXMAY3">
+            Finansminister Erik Åsbrink kommenterade detta genom att säga
+            att regeringen ”kan leva med det”. Det är ytterst anmärkningsvärt
+            att Sveri­ges finansminister tar så lätt på att det svenska skattesystemet
+            leder till att
+          </p>
+          <p xml:id="i-6hfGxUSJaxvp4xjdUwq266">
+            svenska företag vid sammanslagningar med utländska företag väljer
+            att ”flagga ut”. Att sådana beslut drivs fram av snedvridande
+            inslag i det svenska skattesystemet är oacceptabelt.
+          </p>
+          <p xml:id="i-AGYqEYC9iQr97pSYfxV7fu">
+            Dubbelbeskattningen medför bristande symmetri i beskattningen
+            av kapitalinkomster. Ersättningen för lånat kapital är avdragsgill
+            i bolaget och beskattas sedan hos den som mottar avkastningen.
+            Därmed uppgår skatten till 30 %. När det gäller det egna, riskbärande
+            kapitalet beskattas avkastningen först i bolaget och därefter
+            hos den enskilde aktieägaren med en skatteeffekt på ca 50 %. Det
+            är uppenbart att en högre beskattning av det egna, riskbärande
+            kapital som är grunden för företagande och investeringar ger negativa
+            effekter.
+          </p>
+          <p xml:id="i-RToKsrqrKLcR9o7YAa8BKi">
+            Dubbelbeskattningen driver fram högre avkastningskrav, särskilt
+            när det gäller mindre och medelstora företag och försvårar deras
+            riskkapital­försörjning. För de större företagen uppstår en annan
+            snedvridning även om man genom den internationella kapitalmarknaden
+            har tillgång till utländskt kapital till internationellt bestämt
+            avkastningskrav. Det blir nämligen mer intressant för utländska
+            ägare, till följd av en rimligare skattesituation, att investera
+            i svenska företag. Dubbelbeskattningen leder således till ökat
+            utländskt ägande av svenska börsföretag. Det är negativt om orsaken
+            är orimliga skatteregler i Sverige.
+          </p>
+          <p xml:id="i-H9i9SrS5DC46XiEhuRuN2g">
+            Regeringen tvangs för något år sedan indirekt att erkänna dessa
+            nega­tiva effekter. Man införde vissa regler som lindrade effekterna
+            för de mindre bolagen. Det innebär emellertid att skattesystemets
+            struktur har blivit ännu krångligare. Till följd av de spärregler
+            som finns för fåmans- bolag kan avkastningen på det egna kapitalet
+            för dessa bolag beskattas på tre sätt utan att det egentligen
+            går att förutse på vilket under ett löpande beskattningsår. Till
+            yttermera visso drabbas framför allt de snabbväxande vinstrika
+            mindre bolagen av dessa spärregler, dvs. just de företag som har
+            de största förutsättningarna att expandera och skapa nya arbetstillfällen.
+          </p>
+          <p xml:id="i-B3tE8a2Heem4Ets8LPavZN">
+            Mot bakgrund av detta vill jag fråga finansminister Åsbrink:
+          </p>
+          <p xml:id="i-9F7F8DQgMYR9N1HZMgMv2u">
+            Är regeringen beredd att lägga förslag om fullständigt slopad
+            dubbel­beskattning av kvarhållna och utdelade vinster i aktiebolag
+            och därmed uppnå en enhetlig beskattning av kapitalinkomster?
+          </p>
+        </div>
       </div>
     </body>
   </text>

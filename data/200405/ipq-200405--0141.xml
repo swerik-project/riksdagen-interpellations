@@ -3,80 +3,124 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>handläggningstider för plan- och byggärenden</title>
+        <author>Vestlund, Börje (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>handläggningstider för plan- och byggärenden till statsrådet Mona Sahlin om handläggningstider för plan- och byggärenden</title>
+          <idno type="rdwebb">GS10141</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10141/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10141</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10141</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-PcfXW2tBv4Tod3n4SJotmp" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GWQiLwCGortuUhhEUmRMP3">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NUsQXboBeFSMWq6eiMF37h">
+          <date when="2004-12-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EcWh6YSvfwALJheCQWyCi9" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KPbQRdkewkCiPYc4ggydw2" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-12-10"/>
+        </correspAction>
+        <correspContext corresp="i-KPbQRdkewkCiPYc4ggydw2">
+          <ref type="record" target="prot-200405--048">Riksdagens protokoll 2004/05:48 Fredagen den 10 december</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2004/05:141 om handläggningstider för plan- och byggärenden</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0141</head>
-        <author who="i-MVzhVeKwRGmjHjHoSrReg9">Börje Vestlund</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>handläggningstider för plan- och byggärenden</topic>
-        <docDate when="2004-11-16">den 16 november</docDate>
-        <status when="unknown" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10141</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:141 av Börje Vestlund (s) till statsrådet
-          Mona Sahlin om handläggningstider för plan- och byggärenden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Teg7QFFnexZo3jBhxYMSjn">
+            Interpellation 2004/05:141 av Börje Vestlund (s) till statsrådet
+            Mona Sahlin om handläggningstider för plan- och byggärenden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4PQ6yqyUXtYmJNC6TmGdww">
+            den 16 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-4nv3FBBmXiCcSFddSjqHb5">
-          Sverige har ett starkt skydd för så kallade sakägare. Fastighetsägare
-          eller boende som direkt berörs av byggande har rätt att få sin
-          sak prövad. Detta sker i första instans av länsstyrelsen och i
-          andra instans av regeringen. Slutligen kan man få frågan laglighetsprövad
-          av Regeringsrätten.
-        </p>
-        <p xml:id="i-6JFgNECmgqywwaV8oRPKtF">
-          I storstäderna är bygg- och planprocessen ofta komplicerad. Detta
-          beror inte minst på att tättbebyggda områden samt om- och nybyggnad
-          sker på delvis redan exploaterad mark eller på små markområden
-          mellan redan exploaterad mark. Detta innebär att väldigt många
-          detaljplaner blir överklagade. Vid större projekt läggs dessa
-          överklagandetider in i tidsplanen.
-        </p>
-        <p xml:id="i-15YAJ3WvfovzLGwHqycM3D">
-          Våra storstäder har en alltmer skriande bostadsbrist. En viktig
-          förutsättning för att det ska kunna ske tillväxt är att företag
-          ska kunna etableras. Ofta försenas detta på grund av överklaganden
-          av detaljplaner. När en detaljplan överklagas så är handläggningstiderna
-          så långa att byggen kraftigt försenas eller inte blir av. Det
-          finns exempel på att det tagit sex månader för departementet att
-          konstatera att den sakägare som överklagat inte är sakägare.
-        </p>
-        <p xml:id="i-4oiRiBteXbgXmMr793tPL4">
-          För närvarande utreds plan- och bygglagen. Förväntningar på resultatet
-          är stora. Regeringen kan dock redan i dag göra något åt handläggningstiderna.
-          Det är inte acceptabelt att vänta ett halvår för att konstatera
-          att den som överklagat inte är sakägare. Det försenar byggprocessen
-          och fördyrar den. Det hindrar också tillväxten och därmed bostadsbyggandet.
-        </p>
-        <p xml:id="i-GB5VKin6Aa82zv5FBd3FCZ">
-          Jag vill därför fråga vilka åtgärder statsrådet avser att vidta
-          för att korta handläggningstiderna för plan- och byggärenden.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5kaRSqnrvWv69rKHLo68hG">
+            Sverige har ett starkt skydd för så kallade sakägare. Fastighetsägare
+            eller boende som direkt berörs av byggande har rätt att få sin
+            sak prövad. Detta sker i första instans av länsstyrelsen och i
+            andra instans av regeringen. Slutligen kan man få frågan laglighetsprövad
+            av Regeringsrätten.
+          </p>
+          <p xml:id="i-ejezX77ND3oraS4kTJnQt">
+            I storstäderna är bygg- och planprocessen ofta komplicerad. Detta
+            beror inte minst på att tättbebyggda områden samt om- och nybyggnad
+            sker på delvis redan exploaterad mark eller på små markområden
+            mellan redan exploaterad mark. Detta innebär att väldigt många
+            detaljplaner blir överklagade. Vid större projekt läggs dessa
+            överklagandetider in i tidsplanen.
+          </p>
+          <p xml:id="i-VuwEbRQBfGHNYP1aicx4YT">
+            Våra storstäder har en alltmer skriande bostadsbrist. En viktig
+            förutsättning för att det ska kunna ske tillväxt är att företag
+            ska kunna etableras. Ofta försenas detta på grund av överklaganden
+            av detaljplaner. När en detaljplan överklagas så är handläggningstiderna
+            så långa att byggen kraftigt försenas eller inte blir av. Det
+            finns exempel på att det tagit sex månader för departementet att
+            konstatera att den sakägare som överklagat inte är sakägare.
+          </p>
+          <p xml:id="i-2J29DVd2K56pVRfVHZEtJC">
+            För närvarande utreds plan- och bygglagen. Förväntningar på resultatet
+            är stora. Regeringen kan dock redan i dag göra något åt handläggningstiderna.
+            Det är inte acceptabelt att vänta ett halvår för att konstatera
+            att den som överklagat inte är sakägare. Det försenar byggprocessen
+            och fördyrar den. Det hindrar också tillväxten och därmed bostadsbyggandet.
+          </p>
+          <p xml:id="i-MMgWG3TZCfzJ2yC4uVbZJw">
+            Jag vill därför fråga vilka åtgärder statsrådet avser att vidta
+            för att korta handläggningstiderna för plan- och byggärenden.
+          </p>
+        </div>
       </div>
     </body>
   </text>

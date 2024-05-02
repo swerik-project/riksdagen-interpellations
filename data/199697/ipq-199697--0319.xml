@@ -3,69 +3,89 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>omorganisationer inom polisen</title>
+        <author>Rigmor Ahlstedt (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:319 av Rigmor Ahlstedt (c) till justitieministern om omorganisationer inom polisen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_315.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Rigmor Ahlstedt (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-PCZrYEHwPaEeNTZphEsWTv</idno>
+          </person>
+          <person gender="woman">
+            <persName>justitieministern</persName>
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XabXXtK6zcaPWsYE42NWMV">
+          <name/>
+          <date when="1996-05-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-G4jaTeLLgdPehzC82Sdy9m">
+          <note>date unknown</note>
+          <name>justitieministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="unknown" xml:id="i-PKvRXGkhrry5PvAxMcxSxK">
+          <note>Besvaras ej (Se prot. 1996/97:108)</note>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:319</head>
-        <author who="unknown">Rigmor Ahlstedt (c)</author>
-        <minister who="unknown">justitieministern</minister>
-        <topic>omorganisationer inom polisen</topic>
-        <docDate when="1997-05-16">Inkom den 16 maj</docDate>
-        <status inProtocol="199697/prot-199697--108.xml" status="unanswered">Besvaras ej (Se (Seprot. 1996/97:108)</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:319 av Rigmor Ahlstedt (c) till justitieministern
-          om omorganisationer inom polisen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 16 maj Besvaras ej (Se prot. 1996/97:108)
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6ap3R5x2p6DtTPdZh7cj2t">
+            Interpellation 1996/97:319 av Rigmor Ahlstedt (c) till justitieministern
+            om omorganisationer inom polisen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Xk8yeWc9zrobawuByDeAvm">
+            Inkom den 16 maj Besvaras ej (Se prot. 1996/97:108)
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-T3oczQQNe4JSsRNzCGcdDX">
-          För närvarande pågår stora förändringar i polisväsendets organisation.
-          Som ett exempel kan nämnas Uppsala län där det har genomförts
-          en för­ändring som innebär att polisstyrelserna centraliseras
-          så att det bildas en polisstyrelse för hela länet. Detta innebär
-          försämringar ur demokratisyn­punkt. Nu finns i länet även förslag
-          om en omorganisation av polisens resurser som innebär att personalen
-          minskas i de mindre kommunerna, till synes för att täcka upp behov
-          i den större kommunen.
-        </p>
-        <p xml:id="i-HW3DoUqCjaFe15oE8vB1t9">
-          Det finns en uppenbar risk att denna utveckling, som pågår i
-          hela lan­det kommer att innebära att den lokala förankringen och
-          den personkän­nedom som finns hos den lokala polisen, minskar.
-          Dessutom innebär det ökade resor och längre utryckningstider,
-          vilket är olyckligt ur rättssäker­hetssynpunkt.
-        </p>
-        <p xml:id="i-6qq7g5hNdAMxwN5yShyZed">
-          Vilka åtgärder avser regeringen att vidta för att polisens omorganisa­tion
-          inte skall få negativa lokala effekter?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_316.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-H3nz8T4hcPhwUT1EqFKE6Q">
+            För närvarande pågår stora förändringar i polisväsendets organisation.
+            Som ett exempel kan nämnas Uppsala län där det har genomförts
+            en för­ändring som innebär att polisstyrelserna centraliseras
+            så att det bildas en polisstyrelse för hela länet. Detta innebär
+            försämringar ur demokratisyn­punkt. Nu finns i länet även förslag
+            om en omorganisation av polisens resurser som innebär att personalen
+            minskas i de mindre kommunerna, till synes för att täcka upp behov
+            i den större kommunen.
+          </p>
+          <p xml:id="i-M6PVSJd5mr1RY4sLb2Gk49">
+            Det finns en uppenbar risk att denna utveckling, som pågår i
+            hela lan­det kommer att innebära att den lokala förankringen och
+            den personkän­nedom som finns hos den lokala polisen, minskar.
+            Dessutom innebär det ökade resor och längre utryckningstider,
+            vilket är olyckligt ur rättssäker­hetssynpunkt.
+          </p>
+          <p xml:id="i-Veb6DxoskC8wfPym8LwPNJ">
+            Vilka åtgärder avser regeringen att vidta för att polisens omorganisa­tion
+            inte skall få negativa lokala effekter?
+          </p>
+        </div>
       </div>
     </body>
   </text>

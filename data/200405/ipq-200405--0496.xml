@@ -3,78 +3,147 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>apatiska barn</title>
+        <author>Hoffmann, Ulla (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>apatiska barn till statsrådet Barbro Holmberg om apatiska barn</title>
+          <idno type="rdwebb">GS10496</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10496/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10496</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10496</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-LB9Tn6B1RXiAHZEWEK1hYC</idno>
+            <persName>Ulla Hoffmann</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-7cS8yLEZzLK56HRTimf1pB" corresp="i-LB9Tn6B1RXiAHZEWEK1hYC">
+          <date when="2005-03-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QzW9hTC1qbdCBBiHNYnUVY">
+          <date when="2005-03-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GwqpNNqKjASVasZrTTQVbn">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-FncwMRirvT9KuWqr7YJDvA" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2005-03-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-BAi6NCRavfqUxf2UzGjhwi" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspContext corresp="i-BAi6NCRavfqUxf2UzGjhwi">
+          <ref type="record" target="prot-200405--106">Riksdagens protokoll 2004/05:106 Fredagen den 15 april</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2004/05:496 om apatiska barn</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0496</head>
-        <author who="i-LB9Tn6B1RXiAHZEWEK1hYC">Ulla Hoffmann</author>
-        <recipient who="i-8NR1Z8tejozuay7fUnQPDP">Barbro Holmberg</recipient>
-        <topic>apatiska barn</topic>
-        <docDate when="2005-03-24">den 24 mars</docDate>
-        <status when="unknown" byWhom="Barbro Holmberg" byWhomId="i-8NR1Z8tejozuay7fUnQPDP" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10496</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:496 av Ulla Hoffmann (v) till statsrådet
-          Barbro Holmberg om apatiska barn
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BJ5Esn9vqhSvDRHWUo5EEH">
+            Interpellation 2004/05:496 av Ulla Hoffmann (v) till statsrådet
+            Barbro Holmberg om apatiska barn
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-153WL3d4Pj3VxpvBarzKb1">
+            den 24 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3U1RV8Wz97BDTWsm3G8VGD">
-          Statsrådet Holmberg och regeringens särskilda utredare om apatiska
-          barn har gång på gång i medierna förklarat att fenomenet apatiska
-          barn, som lider av depressiv devitalisering, endast tycks finnas
-          i Sverige, något som sägs vara mycket förbryllande. Utfärdandet
-          av en regeringsförordning om uppehållstillstånd av humanitära
-          skäl för de svårast sjuka apatiska barnen skulle enligt statsrådet
-          vara en "humanitär katastrof".
-        </p>
-        <p xml:id="i-MPSr7KXdMTeyKdbbuPEDbe">
-          Nu har det framkommit att företeelsen apatiska barn är känd i
-          åtskilliga länder under namnet pervasive refusal syndrom (PRS).
-          PRS kännetecknas av ett långvarigt massivt funktionsbortfall kombinerat
-          med aggressiv intentionell vägran. PRS är beskrivet i vetenskapliga
-          skrifter bland annat i Storbritannien och Australien. Det finns
-          ingen somatisk sjukdom som förklarar PRS utan det anses vara ett
-          barnpsykiatriskt tillstånd som beror på ett patologiskt samspel
-          mellan ett barns psykiska känslighet och en rådande hopplöshet
-          och hjälplöshet i familjen i ett oöverblickbart tidsperspektiv.
-        </p>
-        <p xml:id="i-7ZWiZymVNQZm6tCKTip1Yo">
-          Många av familjerna med apatiska barn har flytt från sina hemländer
-          på grund av förföljelse de utsatts för, både fysiska hot och våldshandlingar.
-          Flera av mödrarna har utsatts för långvariga övergrepp och våld
-          i barnens närvaro. Barnen har utsatts för eller bevittnat fysiskt
-          och sexuellt våld, misshandel, dödande och hot om kidnappning.
-          Trots att kraven för flyktingskap enligt Genèvekonventionen i
-          många fall varit uppfyllda har Migrationsverket och Utlänningsnämnden
-          beslutat om avvisning till hemlandet.
-        </p>
-        <p xml:id="i-SjWdS6T9pnga62hzuSKiNV">
-          Mot denna bakgrund vill jag fråga statsrådet Holmberg:
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UXeHeDSPjytkNZ9cKyDUx1">
+            Statsrådet Holmberg och regeringens särskilda utredare om apatiska
+            barn har gång på gång i medierna förklarat att fenomenet apatiska
+            barn, som lider av depressiv devitalisering, endast tycks finnas
+            i Sverige, något som sägs vara mycket förbryllande. Utfärdandet
+            av en regeringsförordning om uppehållstillstånd av humanitära
+            skäl för de svårast sjuka apatiska barnen skulle enligt statsrådet
+            vara en "humanitär katastrof".
+          </p>
+          <p xml:id="i-VZMJV8N13q78LZYNV86sjB">
+            Nu har det framkommit att företeelsen apatiska barn är känd i
+            åtskilliga länder under namnet pervasive refusal syndrom (PRS).
+            PRS kännetecknas av ett långvarigt massivt funktionsbortfall kombinerat
+            med aggressiv intentionell vägran. PRS är beskrivet i vetenskapliga
+            skrifter bland annat i Storbritannien och Australien. Det finns
+            ingen somatisk sjukdom som förklarar PRS utan det anses vara ett
+            barnpsykiatriskt tillstånd som beror på ett patologiskt samspel
+            mellan ett barns psykiska känslighet och en rådande hopplöshet
+            och hjälplöshet i familjen i ett oöverblickbart tidsperspektiv.
+          </p>
+          <p xml:id="i-H6zBefJCg73TJJ5F9sWd9Q">
+            Många av familjerna med apatiska barn har flytt från sina hemländer
+            på grund av förföljelse de utsatts för, både fysiska hot och våldshandlingar.
+            Flera av mödrarna har utsatts för långvariga övergrepp och våld
+            i barnens närvaro. Barnen har utsatts för eller bevittnat fysiskt
+            och sexuellt våld, misshandel, dödande och hot om kidnappning.
+            Trots att kraven för flyktingskap enligt Genèvekonventionen i
+            många fall varit uppfyllda har Migrationsverket och Utlänningsnämnden
+            beslutat om avvisning till hemlandet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Knc2PfUJrnfMcdx1tDgjgc">
+            Mot denna bakgrund vill jag fråga statsrådet Holmberg:
+            <list rend="ordered">
+              <item>
+                Är statsrådet beredd att mot bakgrund av vad som nu är känt om
+                de apatiska barnen ändra sitt påstående att det vore en "humanitär
+                katastrof" att genom en förordning bevilja de sjukaste apatiska
+                barnen uppehållstillstånd?
+              </item>
+              <item>
+                Är statsrådet beredd att ta tillbaka sitt påstående att fenomenet
+                apatiska barn endast är känt i Sverige?
+              </item>
+              <item>
+                Är statsrådet beredd att skyndsamt vidta åtgärder för att svenska
+                myndigheter ska börja tillämpa Genèvekonventionen om flyktingars
+                rättigheter?
+              </item>
+              <item>
+                Är statsrådet beredd att skyndsamt vidta åtgärder för att svenska
+                myndigheter ska börja tillämpa utlänningslagens bestämmelse om
+                att hänsyn ska tas till i vilken grad barnets psykosociala utveckling
+                kan antas ta bestående skada av att avvisas till hemlandet?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

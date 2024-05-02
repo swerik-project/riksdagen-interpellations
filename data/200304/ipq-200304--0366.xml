@@ -3,72 +3,116 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>trängselskatt och skattetillägg </title>
+        <author>Westman, Henrik (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>trängselskatt och skattetillägg  till finansminister Bosse Ringholm om trängselskatt och skattetillägg </title>
+          <idno type="rdwebb">GR10366</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10366/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10366</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10366</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-7KBbQxMwamQ8aEQRXJRw1j</idno>
+            <persName>Henrik Westman</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-N7WTbfWQhHBFVNeogwrxjd" corresp="i-7KBbQxMwamQ8aEQRXJRw1j">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9UEdjjyD1qywA7m1qdKDxi">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-A8sQgxE63rEvXv6rWzF6Ao">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-F3uxP7ayumBpJuZyijbGJM" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-03-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-A44PNBdGge8FuXsRyMiuoZ" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-04-13"/>
+        </correspAction>
+        <correspContext corresp="i-A44PNBdGge8FuXsRyMiuoZ">
+          <ref type="record" target="prot-200304--094">Riksdagens protokoll 2003/04:94 Tisdagen den 13 april</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellationerna 2003/04:360, 365, 361, 362, 368, 363, 364, 366 och 367 om biltullar i Stockholm</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0366</head>
-        <author who="i-7KBbQxMwamQ8aEQRXJRw1j">Henrik Westman</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>trängselskatt och skattetillägg </topic>
-        <docDate when="2004-03-17">den 17 mars</docDate>
-        <status when="unknown" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10366</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:366 av Henrik Westman (m) till finansminister
-          Bosse Ringholm om trängselskatt och skattetillägg
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2HmFvGdetc5vqH29FGx2sm">
+            Interpellation 2003/04:366 av Henrik Westman (m) till finansminister
+            Bosse Ringholm om trängselskatt och skattetillägg
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KEDGqTvebMZhXWhoCvgcUF">
+            den 17 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KnNQL23AQ5ccqCdAV3RAFw">
-          När en kommun inför biltullar ter det sig rimligt att de personer
-          som låter bli att betala tullkostnad tvingas böta för detta. I
-          ett biltullssystem där tullavgiften i praktiken är en skatt uppenbarar
-          sig däremot en mängd problem. Detta har särskilt tydliggjorts
-          i det lagförslag om trängselskatter som riksdagen förväntas behandla
-          under våren.
-        </p>
-        <p xml:id="i-DPCUzuhZTLJMSXrWs2ENcZ">
-          Det framgår av lagförslaget att bilägare som inte betalar skatten
-          ska betala 500 kr i tilläggsavgift. Formellt ska tilläggsavgiften
-          fungera som ett skattetillägg där man förväntas betala inom fem
-          dagar. Ett skattetillägg innebär dessvärre att man förväntas betala
-          utan uppmaning och att inga direkta inbetalningskort brukar skickas
-          ut till den skattskyldige.
-        </p>
-        <p xml:id="i-8PtXgNgjXstyBp13uTKqvg">
-          Att använda konstruktionen skattetillägg vid utebliven biltullsbetalning
-          kan komma att stå i strid med både allmän rättstrygghet och bokföringslagen.
-          Att skattetillägget ska vara betalt inom fem dagar innebär också
-          en mycket kort tidsfrist.
-        </p>
-        <p xml:id="i-7bdxMUPWXBCTLCueEnNY3h">
-          Vilka åtgärder är statsrådet beredd att vidta för att tillse
-          att allmän rättstrygghet bibehålls om skattetillägg införs som
-          bötesmetod vid utebliven biltullsbetalning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-6r1iaYwSiUnZ9ih76Mwmqu">
+            När en kommun inför biltullar ter det sig rimligt att de personer
+            som låter bli att betala tullkostnad tvingas böta för detta. I
+            ett biltullssystem där tullavgiften i praktiken är en skatt uppenbarar
+            sig däremot en mängd problem. Detta har särskilt tydliggjorts
+            i det lagförslag om trängselskatter som riksdagen förväntas behandla
+            under våren.
+          </p>
+          <p xml:id="i-MD1XgQ96Ar5TSFq3CECBSt">
+            Det framgår av lagförslaget att bilägare som inte betalar skatten
+            ska betala 500 kr i tilläggsavgift. Formellt ska tilläggsavgiften
+            fungera som ett skattetillägg där man förväntas betala inom fem
+            dagar. Ett skattetillägg innebär dessvärre att man förväntas betala
+            utan uppmaning och att inga direkta inbetalningskort brukar skickas
+            ut till den skattskyldige.
+          </p>
+          <p xml:id="i-DdTfnxFtzfmqxkCUXn2war">
+            Att använda konstruktionen skattetillägg vid utebliven biltullsbetalning
+            kan komma att stå i strid med både allmän rättstrygghet och bokföringslagen.
+            Att skattetillägget ska vara betalt inom fem dagar innebär också
+            en mycket kort tidsfrist.
+          </p>
+          <p xml:id="i-9FJ9X5Vj3HBt58hmok1mTF">
+            Vilka åtgärder är statsrådet beredd att vidta för att tillse
+            att allmän rättstrygghet bibehålls om skattetillägg införs som
+            bötesmetod vid utebliven biltullsbetalning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

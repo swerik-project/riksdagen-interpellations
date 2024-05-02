@@ -3,102 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Bostadsdelegationens verksamhet</title>
+        <author>Hagström, Ulla-Britt (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Bostadsdelegationens verksamhet till statsrådet Lars-Erik Lövdén om Bostadsdelegationens verksamhet</title>
+          <idno type="rdwebb">GO10434</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO10434/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO10434</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO10434</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
+            <persName>Hagström, Ulla-Britt (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>statsrådet Lars-Erik Lövdén </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>statsrådet Lars-Erik Lövdén </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-5XuR59Gk4jinwNLwDmFpno" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2001-05-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7ytsi2cc1NaA171UPrS76F" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="2001-05-15"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-PPBkmHTSy4RMeDZMRsmdxY" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
+          <date when="2001-04-27"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0434</head>
-        <author who="i-J94Ct1wVwpHWNRN9LatQ6F">Hagström, Ulla-Britt (kd) </author>
-        <recipient who="i-6qjD2tsSCtsrmXQjy7mtCJ">statsrådet Lars-Erik Lövdén </recipient>
-        <topic>Bostadsdelegationens verksamhet</topic>
-        <docDate when="2001-04-27">den 27 april</docDate>
-        <status when="2001-05-15" byWhom="statsrådet Lars-Erik Lövdén " byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO10434</external_id>
-        <debate>
-          <turn when="2001-05-15 15:46:51" duration="271">LARS-ERIK LÖVDEN (Statsråd)</turn>
-          <turn when="2001-05-15 15:51:18" duration="247">ULLA-BRITT HAGSTRÖM (Kd)</turn>
-          <turn when="2001-05-15 15:55:21" duration="192">LARS-ERIK LÖVDEN (Statsråd)</turn>
-          <turn when="2001-05-15 15:58:29" duration="238">ULLA-BRITT HAGSTRÖM (Kd)</turn>
-          <turn when="2001-05-15 16:02:22" duration="146">LARS-ERIK LÖVDEN (Statsråd)</turn>
-          <turn when="2001-05-15 16:04:45" duration="122">ULLA-BRITT HAGSTRÖM (Kd)</turn>
-          <turn when="2001-05-15 16:06:43" duration="397">LARS-ERIK LÖVDEN (Statsråd)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:434 av Ulla-Britt Hagström (kd) till statsrådet
-          Lars-Erik Lövdén om Bostadsdelegationens verksamhet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QP1sm64SJgxVyMjCzJdqQJ">
+            Interpellation 2000/01:434 av Ulla-Britt Hagström (kd) till statsrådet
+            Lars-Erik Lövdén om Bostadsdelegationens verksamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PcQKcrW3bWqM3C6zASL8ra">
+            den 27 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PbqDtpon5ULd7J25rxVDmR">
-          Det kan uppstå extrema lägen där kommunen riskerar att hamna
-          i en särskilt svår ekonomisk situation på grund av sina åtaganden
-          för boendet, och där kommunens ansvar att ensam fullgöra sina
-          förpliktelser för bostadsföretaget bli övermäktigt. I sådana situationer
-          kan statens övergripande ansvar för den offentliga verksamheten
-          och ekonomin motivera tillfälligt stöd till en enskild kommun.
-          Det var mot denna bakgrund regeringen 1998 inrättade Bostadsdelegationen.
-        </p>
-        <p xml:id="i-JEjnU4AZj4r1ucQA6svQTo">
-          I kommuner med uthyrningssvårigheter och vakanser på en vikande
-          lokal bostadsmarknad drabbas såväl privata som kommunala fastighetsägare
-          hårt. Den rekonstruktion av företagen som avtalats utgår också
-          från åtgärder som minskar obalansen i kommunens bostadsbestånd.
-        </p>
-        <p xml:id="i-X2o3QW9Hjsta6KqnFn5Dz3">
-          Det finns bostadsbolag med många tomma lägenheter som inte kan
-          dra nytta av Bostadsdelegationens insatser. SABO redovisade för
-          en tid sedan att det förväntade överskottet av lägenheter i 145
-          SABO-företag skulle vara omkring 42 500 lägenheter år 2010. Överskottet
-          kommer att förorsaka kostnader på drygt 29 miljarder kronor.
-        </p>
-        <p xml:id="i-63JWz1A53hJF2KGTHvMk2N">
-          Vid en interpellationsdebatt den 23 februari svarade statsrådet
-          bl.a. att stödet från Bostadsdelegationen huvudsakligen gäller
-          rekonstruktion av kommunägda företag, men även i ett antal fall
-          av lösen av kommunal borgen för bostadsrättsföreningar. Under
-          tidsperioden 1998@2000 inkom ansökningar om statligt stöd från
-          88 kommuner, varav avtal slutits med 36.
-        </p>
-        <p xml:id="i-9kQMc2D3CsNNK8HEbnhhqk">
-          Vid en genomgång av handläggningen av stödet från Bostadsdelegationen
-          är det svårt att följa tydliga argument för beviljande av stöd
-          eller avslag.
-        </p>
-        <p xml:id="i-QQvB5ps8PSYkRx2YTVKwbW">
-          Med anledning av det anförda vill jag ställa följande frågor
-          till statsrådet Lars-Erik Lövdén:
-        </p>
-        <p xml:id="i-8YadsxR7h33g8TphSzL8kS">
-          Vilka åtgärder avser statsrådet att vidta för att vare sig privata
-          eller kommunala fastighetsägare ska missgynnas vid stöd från Bostadsdelegationen
-          till en kommun?
-        </p>
-        <p xml:id="i-V444H9zAfdvQ7CnRomzpDy">
-          Vilka åtgärder avser statsrådet vidta för att snarast utvärdera
-          Bostadsdelegationens arbete i förhållande till sitt uppdrag?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-F9z7heRuN1SVWWhcVoD9tg">
+            Det kan uppstå extrema lägen där kommunen riskerar att hamna
+            i en särskilt svår ekonomisk situation på grund av sina åtaganden
+            för boendet, och där kommunens ansvar att ensam fullgöra sina
+            förpliktelser för bostadsföretaget bli övermäktigt. I sådana situationer
+            kan statens övergripande ansvar för den offentliga verksamheten
+            och ekonomin motivera tillfälligt stöd till en enskild kommun.
+            Det var mot denna bakgrund regeringen 1998 inrättade Bostadsdelegationen.
+          </p>
+          <p xml:id="i-LSShfqjuK56QRp67owJT4G">
+            I kommuner med uthyrningssvårigheter och vakanser på en vikande
+            lokal bostadsmarknad drabbas såväl privata som kommunala fastighetsägare
+            hårt. Den rekonstruktion av företagen som avtalats utgår också
+            från åtgärder som minskar obalansen i kommunens bostadsbestånd.
+          </p>
+          <p xml:id="i-L7CZjVijnT9wzpZfML77AD">
+            Det finns bostadsbolag med många tomma lägenheter som inte kan
+            dra nytta av Bostadsdelegationens insatser. SABO redovisade för
+            en tid sedan att det förväntade överskottet av lägenheter i 145
+            SABO-företag skulle vara omkring 42 500 lägenheter år 2010. Överskottet
+            kommer att förorsaka kostnader på drygt 29 miljarder kronor.
+          </p>
+          <p xml:id="i-KHMbjcaTRsCWf6iP96oA9m">
+            Vid en interpellationsdebatt den 23 februari svarade statsrådet
+            bl.a. att stödet från Bostadsdelegationen huvudsakligen gäller
+            rekonstruktion av kommunägda företag, men även i ett antal fall
+            av lösen av kommunal borgen för bostadsrättsföreningar. Under
+            tidsperioden 1998@2000 inkom ansökningar om statligt stöd från
+            88 kommuner, varav avtal slutits med 36.
+          </p>
+          <p xml:id="i-R3gzG6bH2aYyjy7piuMdsn">
+            Vid en genomgång av handläggningen av stödet från Bostadsdelegationen
+            är det svårt att följa tydliga argument för beviljande av stöd
+            eller avslag.
+          </p>
+          <p xml:id="i-UNMdpmhjLawFs1MPaWBs1M">
+            Med anledning av det anförda vill jag ställa följande frågor
+            till statsrådet Lars-Erik Lövdén:
+          </p>
+          <p xml:id="i-QV2CsHCruv9res7Sxyje5y">
+            Vilka åtgärder avser statsrådet att vidta för att vare sig privata
+            eller kommunala fastighetsägare ska missgynnas vid stöd från Bostadsdelegationen
+            till en kommun?
+          </p>
+          <p xml:id="i-SPZPUv7TbGsxsbCp4JStAT">
+            Vilka åtgärder avser statsrådet vidta för att snarast utvärdera
+            Bostadsdelegationens arbete i förhållande till sitt uppdrag?
+          </p>
+        </div>
       </div>
     </body>
   </text>

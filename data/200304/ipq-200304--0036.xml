@@ -3,105 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tillväxtproblemen i Stockholmsregionen</title>
+        <author>Carlsson i Tyresö, Gunilla (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>tillväxtproblemen i Stockholmsregionen till finansminister Bosse Ringholm om tillväxtproblemen i Stockholmsregionen</title>
+          <idno type="rdwebb">GR1036</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR1036/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR1036</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR1036</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
+            <persName>Gunilla Carlsson i Tyresö</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8F353BCaJN6CwM7DeNm3RP" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
+          <date when="2003-10-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YANB3gAG35uZtTKLzQbQzL">
+          <date when="2003-10-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-92m4efjj6ALmvJuvqouS59">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Gh9zo5tcofDCVX9BYNa49W" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-10-16"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9LCd6SJNgnfrmVnFGiDcQs" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspContext corresp="i-9LCd6SJNgnfrmVnFGiDcQs">
+          <ref type="record" target="prot-200304--034">Riksdagens protokoll 2003/04:34 Måndagen den 24 november</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:36 om tillväxtproblemen i Stockholmsregionen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0036</head>
-        <author who="i-W9g5g3nUh3Fu7mKUtFoBFH">Gunilla Carlsson i Tyresö</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>tillväxtproblemen i Stockholmsregionen</topic>
-        <docDate when="2003-10-16">den 16 oktober</docDate>
-        <status when="2003-11-24" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR1036</external_id>
-        <debate>
-          <turn when="2003-11-24 11:14:30" duration="153">Bosse Ringholm (S)</turn>
-          <turn when="2003-11-24 11:17:05" duration="225">Gunilla Carlsson (M)</turn>
-          <turn when="2003-11-24 11:24:57" duration="220">Nina Lundström (Fp)</turn>
-          <turn when="2003-11-24 11:28:28" duration="248">Bosse Ringholm (S)</turn>
-          <turn when="2003-11-24 11:32:38" duration="196">Gunilla Carlsson (M)</turn>
-          <turn when="2003-11-24 11:35:49" duration="148">Gunnar Andrén (Fp)</turn>
-          <turn when="2003-11-24 11:38:14" duration="124">Nina Lundström (Fp)</turn>
-          <turn when="2003-11-24 11:40:08" duration="233">Bosse Ringholm (S)</turn>
-          <turn when="2003-11-24 11:43:52" duration="126">Gunilla Carlsson (M)</turn>
-          <turn when="2003-11-24 11:45:54" duration="138">Bosse Ringholm (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:36 av Gunilla Carlsson i Tyresö (m) till
-          finansminister Bosse Ringholm om tillväxtproblemen i Stockholmsregionen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CYZfYJtZ8cezx4oKMkVkqq">
+            Interpellation 2003/04:36 av Gunilla Carlsson i Tyresö (m) till
+            finansminister Bosse Ringholm om tillväxtproblemen i Stockholmsregionen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-P9qWiapbBoD1ws29Sk2Kan">
+            den 16 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Y3RHcVvMx93dkMXJ7mdPt9">
-          Stockholm har rasat från tredje till 69:e plats i Affärsvärldens
-          lista över Sveriges tillväxtregioner. Detta är allvarligt och
-          innebär att Stockholm inte längre kan fungera som en tillväxtmotor
-          för hela Sverige. Även regeringen borde @ mot bakgrund av regeringsförklaringens
-          myckna tal om tillväxt @ inse situationens allvar.
-        </p>
-        <p xml:id="i-Uc7ukCegH7LBMtGq7WqPbV">
-          IT-branschens kollaps slog hårt mot Stockholmsregionen men det
-          som slutgiltigt knäckte konjunkturen var de stora köpkraftsindragningarna
-          från regionens invånare. Medan uttaget av fastighetsskatt sänkts
-          i de flesta andra delar av landet så har det höjts kraftigt i
-          hela Stockholmsregionen. Också förmögenhetsskatten riktas i allt
-          större utsträckning mot egnahemsägarna i Stockholms län. I dag
-          betalas nästan två tredjedelar (62 %) av all förmögenhetsskatt
-          in från Stockholms län. Därtill tvingas regionens invånare i år
-          betala nära 17 000 miljoner kronor (9 315 kr/invånare) i skatteutjämning
-          till andra delar av landet. Slutligen har mycket stora skattehöjningar
-          gjorts i Stockholms läns landsting och i många av länets kommuner.
-          Summan har blivit en köpkraftsminskning för stockholmarna som
-          saknar motstycke i modern tid.
-        </p>
-        <p xml:id="i-Q1ceqfT8rdBpU6m3TWLLpf">
-          Fastighetsskatten och en stor del av förmögenhetsskatten träffar
-          ickemonetära tillgångar hos storstadsbor. Det handlar om människor
-          som egentligen inte är förmögna men som råkar leva i en del av
-          landet där det är dyrt att bo och där taxeringsvärdena drivits
-          i höjden bland annat som en följd av regeringens misslyckade bostadspolitik.
-        </p>
-        <p xml:id="i-UCzuKJVnJn6vagn9UU3JLw">
-          Särskilt den brutala höjningen av fastighetsskatten framstår
-          som omoralisk, eftersom den skatten tas ut utan nämnvärd hänsyn
-          till betalningsförmågan. Den slår hårt också mot människor med
-          låga inkomster som bor i eget hus eller som har byggt ett fritidshus
-          i skärgården. Den har tvingat många stockholmare att sälja.
-        </p>
-        <p xml:id="i-NuNbnUhcs3TjR27uJDRYWY">
-          Mot bakgrund av ovanstående vill jag fråga finansministern följande:
-        </p>
-        <p xml:id="i-DLaqTsu3c6mChK5AedbrV4">
-          1. Vad tänker finansministern göra för att åter få fart på landets
-          tillväxtmotor @ Stockholmsregionen?
-        </p>
-        <p xml:id="i-RL6Kprp7AGmWkxGhuXjsrF">
-          2. Avser finansministern att fortsätta verka för omfördelning
-          av fastighetsskatte- och förmögenhetsskattebördan från övriga
-          delar av landet till skattebetalarna i Stockholms län?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-GgmPYaSNWHc53Vr5cginFS">
+            Stockholm har rasat från tredje till 69:e plats i Affärsvärldens
+            lista över Sveriges tillväxtregioner. Detta är allvarligt och
+            innebär att Stockholm inte längre kan fungera som en tillväxtmotor
+            för hela Sverige. Även regeringen borde @ mot bakgrund av regeringsförklaringens
+            myckna tal om tillväxt @ inse situationens allvar.
+          </p>
+          <p xml:id="i-8WAubpMF3UMUf5D7CYCpYd">
+            IT-branschens kollaps slog hårt mot Stockholmsregionen men det
+            som slutgiltigt knäckte konjunkturen var de stora köpkraftsindragningarna
+            från regionens invånare. Medan uttaget av fastighetsskatt sänkts
+            i de flesta andra delar av landet så har det höjts kraftigt i
+            hela Stockholmsregionen. Också förmögenhetsskatten riktas i allt
+            större utsträckning mot egnahemsägarna i Stockholms län. I dag
+            betalas nästan två tredjedelar (62 %) av all förmögenhetsskatt
+            in från Stockholms län. Därtill tvingas regionens invånare i år
+            betala nära 17 000 miljoner kronor (9 315 kr/invånare) i skatteutjämning
+            till andra delar av landet. Slutligen har mycket stora skattehöjningar
+            gjorts i Stockholms läns landsting och i många av länets kommuner.
+            Summan har blivit en köpkraftsminskning för stockholmarna som
+            saknar motstycke i modern tid.
+          </p>
+          <p xml:id="i-MzWcLovXPNm1th67PCiuK2">
+            Fastighetsskatten och en stor del av förmögenhetsskatten träffar
+            ickemonetära tillgångar hos storstadsbor. Det handlar om människor
+            som egentligen inte är förmögna men som råkar leva i en del av
+            landet där det är dyrt att bo och där taxeringsvärdena drivits
+            i höjden bland annat som en följd av regeringens misslyckade bostadspolitik.
+          </p>
+          <p xml:id="i-P6oRHEfiL9gjabhAWsCCuZ">
+            Särskilt den brutala höjningen av fastighetsskatten framstår
+            som omoralisk, eftersom den skatten tas ut utan nämnvärd hänsyn
+            till betalningsförmågan. Den slår hårt också mot människor med
+            låga inkomster som bor i eget hus eller som har byggt ett fritidshus
+            i skärgården. Den har tvingat många stockholmare att sälja.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-7JapV8LiCMr6sxc2x8uzig">
+            Mot bakgrund av ovanstående vill jag fråga finansministern följande:
+            <list rend="unordered">
+              <item>
+                1. Vad tänker finansministern göra för att åter få fart på landets
+                tillväxtmotor @ Stockholmsregionen?
+              </item>
+              <item>
+                2. Avser finansministern att fortsätta verka för omfördelning
+                av fastighetsskatte- och förmögenhetsskattebördan från övriga
+                delar av landet till skattebetalarna i Stockholms län?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

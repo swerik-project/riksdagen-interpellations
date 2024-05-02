@@ -3,87 +3,124 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>hyressättningssystemet</title>
+        <author>de Pourbaix-Lundin, Marietta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>hyressättningssystemet till statsrådet Mona Sahlin om hyressättningssystemet</title>
+          <idno type="rdwebb">GS10117</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10117/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10117</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10117</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
+            <persName>Marietta de Pourbaix-Lundin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NXnPsisdUdReJ7uVvimrmW" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
+          <date when="2004-11-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Dwcw8xNpXyEHghqZbwS3S6">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MZZagjCjTnzNQzyktFDido">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-63QjFuZMe5DZwPMNF8sKjM" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7MvsRTj1Gxc2YjDPBKtw8S" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspContext corresp="i-7MvsRTj1Gxc2YjDPBKtw8S">
+          <ref type="record" target="prot-200405--032">Riksdagens protokoll 2004/05:32 Torsdagen den 18 november</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:117 om hyressättningssystemet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0117</head>
-        <author who="i-9Kt7koTgzUZUA9ovNXYdWj">Marietta de Pourbaix-Lundin</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>hyressättningssystemet</topic>
-        <docDate when="2004-11-02">den 2 november</docDate>
-        <status when="2004-11-18" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10117</external_id>
-        <debate>
-          <turn when="2004-11-18 13:27:18" duration="109">Mona Sahlin (S)</turn>
-          <turn when="2004-11-18 13:28:59" duration="230">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 13:32:45" duration="172">Nina Lundström (Fp)</turn>
-          <turn when="2004-11-18 13:35:33" duration="230">Mona Sahlin (S)</turn>
-          <turn when="2004-11-18 13:39:20" duration="237">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 13:43:14" duration="127">Nina Lundström (Fp)</turn>
-          <turn when="2004-11-18 13:45:18" duration="129">Mona Sahlin (S)</turn>
-          <turn when="2004-11-18 13:47:24" duration="115">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 13:49:16" duration="739">Mona Sahlin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:117 av Marietta de Pourbaix-Lundin (m)
-          till statsrådet Mona Sahlin om hyressättningssystemet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GXNgYWwrsb8VGJbToubk8i">
+            Interpellation 2004/05:117 av Marietta de Pourbaix-Lundin (m)
+            till statsrådet Mona Sahlin om hyressättningssystemet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-kfsaE5Ap178wjWiugLksz">
+            den 2 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FZS5tCA4sdb1s79EHCQfvg">
-          I Stockholms innerstad ligger hyrorna under den nivå som människor
-          i allmänhet är beredda att betala. De ligger dessutom ofta under
-          hyresnivåerna i Stockholms förorter. I och med detta tappar förorternas
-          hyresgäster i praktiken sin bytesrätt. Det finns inte heller några
-          lägenheter som kan möta inflyttningen till staden. I stället ökar
-          efterfrågan på bostadsrätter, andrahandsuthyrningar och svartkontrakt.
-          Trots massiv efterfrågan byggs alldeles för få hyresrätter. Detta
-          gäller inte bara Stockholm, utan även många andra orter i Sverige.
-        </p>
-        <p xml:id="i-3Wps8RoVEeEzAT34Vrrujx">
-          Hyresbostadsmarknadens aktörer erkänner de problem som hyresregleringen
-          medför. Det visar inte minst den så kallade trepartsöverenskommelsen.
-          De kommunala bostadsföretagens sammanslutning SABO, de privata
-          fastighetsägarna samt hyresgästerna har kommit överens om att
-          standard och läge i större utsträckning ska avspeglas vid hyressättningen.
-        </p>
-        <p xml:id="i-WNNWyd9UsdUELZDcBpmr5w">
-          Därtill har en av regeringen tillsatt utredning konstaterat att
-          åtgärder måste vidtas för att tillåta att hyresgästernas preferenser
-          avspeglar sig i hyressättningen. I och för sig krånglar man till
-          det genom att föreslå att friare hyressättning ska tillåtas i
-          nyproduktion och enbart genom kollektivt framförhandlade hyror.
-        </p>
-        <p xml:id="i-55rmv8eHpS6NPxMETme6KP">
-          1. Vilka åtgärder avser statsrådet att vidta för att hyresrätten
-          ska finnas kvar även i framtiden?
-        </p>
-        <p xml:id="i-4s8VqXs2WMRd7KSrbRUvwP">
-          2. Avser statsrådet att lägga fram förslag om en friare hyressättning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-CCKEgDrhakSMfstKdEEyZa">
+            I Stockholms innerstad ligger hyrorna under den nivå som människor
+            i allmänhet är beredda att betala. De ligger dessutom ofta under
+            hyresnivåerna i Stockholms förorter. I och med detta tappar förorternas
+            hyresgäster i praktiken sin bytesrätt. Det finns inte heller några
+            lägenheter som kan möta inflyttningen till staden. I stället ökar
+            efterfrågan på bostadsrätter, andrahandsuthyrningar och svartkontrakt.
+            Trots massiv efterfrågan byggs alldeles för få hyresrätter. Detta
+            gäller inte bara Stockholm, utan även många andra orter i Sverige.
+          </p>
+          <p xml:id="i-4zy6ht6TKy7JEj8SFHqse9">
+            Hyresbostadsmarknadens aktörer erkänner de problem som hyresregleringen
+            medför. Det visar inte minst den så kallade trepartsöverenskommelsen.
+            De kommunala bostadsföretagens sammanslutning SABO, de privata
+            fastighetsägarna samt hyresgästerna har kommit överens om att
+            standard och läge i större utsträckning ska avspeglas vid hyressättningen.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-QqRhfaYtd3eC8jnxkugLGP">
+            Därtill har en av regeringen tillsatt utredning konstaterat att
+            åtgärder måste vidtas för att tillåta att hyresgästernas preferenser
+            avspeglar sig i hyressättningen. I och för sig krånglar man till
+            det genom att föreslå att friare hyressättning ska tillåtas i
+            nyproduktion och enbart genom kollektivt framförhandlade hyror.
+            <list rend="unordered">
+              <item>
+                1. Vilka åtgärder avser statsrådet att vidta för att hyresrätten
+                ska finnas kvar även i framtiden?
+              </item>
+              <item>
+                2. Avser statsrådet att lägga fram förslag om en friare hyressättning?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

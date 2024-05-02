@@ -3,108 +3,152 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>reklamskatt från ideella organisationer</title>
+        <author>Andrén, Gunnar (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>reklamskatt från ideella organisationer till finansminister Bosse Ringholm om reklamskatt från ideella organisationer</title>
+          <idno type="rdwebb">GS1061</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1061/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1061</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1061</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
+            <persName>Gunnar Andrén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-8TAnguKMeUTMci9AyRsRiR" corresp="i-XcAqMe3ntVBboWUxqACfz">
+          <date when="2004-10-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WqRdgSxyTVnB5yYwTjZT8L">
+          <date when="2004-10-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ByZjcuhQiCMqWm4qqyAByc">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-31iUSrg8nR2Bs55SpjnxKx" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-10-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-KRUTfGtQBbp6sfs6ziqX6F" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspContext corresp="i-KRUTfGtQBbp6sfs6ziqX6F">
+          <ref type="record" target="prot-200405--024">Riksdagens protokoll 2004/05:24 Måndagen den 8 november</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellationerna 2004/05:60 om skäl för att avskaffa reklamskatten och 61 om reklamskatt från ideella organisationer</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0061</head>
-        <author who="i-XcAqMe3ntVBboWUxqACfz">Gunnar Andrén</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>reklamskatt från ideella organisationer</topic>
-        <docDate when="2004-10-18">den 18 oktober</docDate>
-        <status when="unknown" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1061</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:61 av Gunnar Andrén (fp) till finansminister
-          Bosse Ringholm om reklamskatt från ideella organisationer
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-66zHSzzbAs7Epur1BKUVo4">
+            Interpellation 2004/05:61 av Gunnar Andrén (fp) till finansminister
+            Bosse Ringholm om reklamskatt från ideella organisationer
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8pYPCzZFKAVynzzx818S5U">
+            den 18 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-XiLikoJmbVkgtv8jG43Bbn">
-          Av medieuppgifter för en tid sedan framgick att ideella organisationer
-          @ exempelvis en fotbollsförening i södra delarna av Stockholm
-          @ har drabbats av besvär med inbetalning av reklamskatt som tydligen
-          borde ha inbetalats för sponsorsintäkter som föreningen lyckats
-          uppbringa.
-        </p>
-        <p xml:id="i-Y3NpgKt6X6c5xYphjREcdj">
-          Enligt min mening är detta en absurd situation.
-        </p>
-        <p xml:id="i-BWWViPjLY89wpf2kxUHD9n">
-          Ur motiven till 1972 års lag om reklamskatt kan inte utläsas
-          att reklamintäkter, som inte är kommersiellt motiverade, ska drabbas
-          av reklamskatt.
-        </p>
-        <p xml:id="i-KzYG81953X3ddmtvdRQsRN">
-          Tvärtom: Det kan aldrig ha varit lagstiftarens @ riksdagens @
-          mening att ideella sponsorsintäkter ska utgöra grund för reklambeskattning.
-        </p>
-        <p xml:id="i-FFB6QPRKXgb7j5WyUTAqCo">
-          Enligt min mening bör ideella organisationer självfallet slippa
-          betala reklamskatt för intäkter som har karaktären av bidrag till
-          allmännyttig verksamhet.
-        </p>
-        <p xml:id="i-38S8QSR5edjszLdwPLk55y">
-          Den enda radikala lösningen på problemet är självfallet reklamskattens
-          avskaffande. Riksdagen har också, efter framställningar från skatteutskottet
-          vid sex tillfällen å rad, (1998/99:SkU13, 1999/2000:SkU16, 2000/01:SkU17,
-          2001/02:SkU20, 2002/03:SkU11 och 2003/04:SkU1y), för regeringen
-          klargjort att reklamskatten bör avskaffas.
-        </p>
-        <p xml:id="i-CSvDqVVx7VdriCnJinTrVP">
-          Av regeringens proposition till riksdagen 2004/05:1, som avser
-          kalenderåret 2005, framgår emellertid att regeringen funnit att
-          det inte är möjligt att efterkomma skatteutskottets enhälliga
-          begäran om avskaffande av reklamskatten.
-        </p>
-        <p xml:id="i-NvWoLruQYW6Qab5fquui4M">
-          Det framgår emellertid inte hur regeringen ser på reklamskatt
-          som nu tycks ska betalas av ideella organisationer.
-        </p>
-        <p xml:id="i-PUftZuFfpRR3yLb6fRKgnH">
-          Här behövs ett klargörande från landets finansminister till ledning
-          för både de föreningar som nu ska kämpa med reklamskattebestämmelser
-          mitt i all sin ideella verksamhet och de företag som på olika
-          sätt önskar stödja ungdomsidrott, ungdomskultur och annan angelägen
-          verksamhet på ideell grund.
-        </p>
-        <p xml:id="i-RQXKH3J3PWJcTRP8SM4Ak">
-          Mot ovanstående bakgrund önskar jag fråga chefen för Finansdepartementet:
-        </p>
-        <p xml:id="i-DVN7jNPxKwr4LUxQDVb99X">
-          Vilka åtgärder avser finansministern att vidta för att förhindra
-          att ideella organisationer hamnar i beråd om den är reklamskatteskyldig
-          eller ej till följd av att den lyckats erhålla sponsorsintäkter
-          till sin verksamhet?
-        </p>
-        <p xml:id="i-dDbmqKsSeSGrhnJBvsihN">
-          Vilka åtgärder avser finansministern att vidta för att ideella
-          organisationer av typ idrottsföreningar och kulturorganisationer
-          slipper från besväret att redovisa reklamskatt för stöd som uppenbart
-          inte är utgivet på kommersiell grund?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-KdVKKkhGkU9e5TRJ4C45Vf">
+            Av medieuppgifter för en tid sedan framgick att ideella organisationer
+            @ exempelvis en fotbollsförening i södra delarna av Stockholm
+            @ har drabbats av besvär med inbetalning av reklamskatt som tydligen
+            borde ha inbetalats för sponsorsintäkter som föreningen lyckats
+            uppbringa.
+          </p>
+          <p xml:id="i-BKRRB5SCzVjkXYZeT5YbMM">
+            Enligt min mening är detta en absurd situation.
+          </p>
+          <p xml:id="i-ArTCpUX67m5vucYYqtwY1f">
+            Ur motiven till 1972 års lag om reklamskatt kan inte utläsas
+            att reklamintäkter, som inte är kommersiellt motiverade, ska drabbas
+            av reklamskatt.
+          </p>
+          <p xml:id="i-95me7bgm9fQeoxiBkvJ7iV">
+            Tvärtom: Det kan aldrig ha varit lagstiftarens @ riksdagens @
+            mening att ideella sponsorsintäkter ska utgöra grund för reklambeskattning.
+          </p>
+          <p xml:id="i-4BESFof1QMzTuVhUXdF2ov">
+            Enligt min mening bör ideella organisationer självfallet slippa
+            betala reklamskatt för intäkter som har karaktären av bidrag till
+            allmännyttig verksamhet.
+          </p>
+          <p xml:id="i-6kA8X2bJ7MyepNXvWqtL4b">
+            Den enda radikala lösningen på problemet är självfallet reklamskattens
+            avskaffande. Riksdagen har också, efter framställningar från skatteutskottet
+            vid sex tillfällen å rad, (1998/99:SkU13, 1999/2000:SkU16, 2000/01:SkU17,
+            2001/02:SkU20, 2002/03:SkU11 och 2003/04:SkU1y), för regeringen
+            klargjort att reklamskatten bör avskaffas.
+          </p>
+          <p xml:id="i-V5pi1V8Y2CDGEmPgpoqzTw">
+            Av regeringens proposition till riksdagen 2004/05:1, som avser
+            kalenderåret 2005, framgår emellertid att regeringen funnit att
+            det inte är möjligt att efterkomma skatteutskottets enhälliga
+            begäran om avskaffande av reklamskatten.
+          </p>
+          <p xml:id="i-EQhBkZnbJ9iUWNivMxyGyP">
+            Det framgår emellertid inte hur regeringen ser på reklamskatt
+            som nu tycks ska betalas av ideella organisationer.
+          </p>
+          <p xml:id="i-LU8yT4Y19ANifqke9Tou9B">
+            Här behövs ett klargörande från landets finansminister till ledning
+            för både de föreningar som nu ska kämpa med reklamskattebestämmelser
+            mitt i all sin ideella verksamhet och de företag som på olika
+            sätt önskar stödja ungdomsidrott, ungdomskultur och annan angelägen
+            verksamhet på ideell grund.
+          </p>
+          <p xml:id="i-LasfGhEG7B1pszH1UN5Vx1">
+            Mot ovanstående bakgrund önskar jag fråga chefen för Finansdepartementet:
+          </p>
+          <p xml:id="i-TGRFn7tasXXxhcEy7Bh25o">
+            Vilka åtgärder avser finansministern att vidta för att förhindra
+            att ideella organisationer hamnar i beråd om den är reklamskatteskyldig
+            eller ej till följd av att den lyckats erhålla sponsorsintäkter
+            till sin verksamhet?
+          </p>
+          <p xml:id="i-5n8ZijYbpf1fh77PmurT3Z">
+            Vilka åtgärder avser finansministern att vidta för att ideella
+            organisationer av typ idrottsföreningar och kulturorganisationer
+            slipper från besväret att redovisa reklamskatt för stöd som uppenbart
+            inte är utgivet på kommersiell grund?
+          </p>
+        </div>
       </div>
     </body>
   </text>

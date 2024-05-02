@@ -3,64 +3,89 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>citytunnel i Malmö</title>
+        <author>Kerstin Warnerbring (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:217 av Kerstin Warnerbring (c) till kommunika­tionsministern om citytunnel i Malmö</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_220.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Kerstin Warnerbring (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-CakSt71sHecUuCwQm5ALoP</idno>
+          </person>
+          <person gender="woman">
+            <persName>kommunika­tionsministern</persName>
+            <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NaYNzvw2yVtw66bc6wugKh" corresp="i-CakSt71sHecUuCwQm5ALoP">
+          <date when="1996-03-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9TpyGmkUmdDza7QQJa5kZ8">
+          <note>date unknown</note>
+          <name>kommunika­tionsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-YMijCPExCaEL6sTivPDZdS">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-C1ZG1hieTdYLygkqKqjFdC">
+          <date when="1996-04-29"/>
+        </correspAction>
+        <correspContext corresp="i-C1ZG1hieTdYLygkqKqjFdC">
+          <ref type="record" target="prot-199697--097">Prot. 1996/97:97</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:217</head>
-        <author who="i-CakSt71sHecUuCwQm5ALoP">Kerstin Warnerbring (c)</author>
-        <minister who="unknown">kommunika­tionsministern</minister>
-        <topic>citytunnel i Malmö</topic>
-        <docDate when="1997-03-04">Inkom den 4 mars</docDate>
-        <status inProtocol="199697/prot-199697--097.xml" when="1997-04-29" status="answered">Besvarad den 29 april, Prot. 1996/97:97</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:217 av Kerstin Warnerbring (c) till kommunika­tionsministern
-          om citytunnel i Malmö
-        </IPQ_title>
-        <submission_info>
-          Inkom den 4 marsBesvarad den 29 april Prot. 1996/97:97
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-A4Hk6mmvGKpg1MQKxw9JYK">
+            Interpellation 1996/97:217 av Kerstin Warnerbring (c) till kommunika­tionsministern
+            om citytunnel i Malmö
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9osvc5KrxVUvaxWh5QdxLx">
+            Inkom den 4 mars : Besvarad den 29 april Prot. 1996/97:97
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-YC5KPtbXGdeUWf4thj7iqL">
-          Banverkets generaldirektör har meddelat att hon avgår som generaldi­rektör
-          på grund av undertecknande om avtal om citytunnel i Malmö. Tunneln
-          skall bl.a. finansieras genom att Svedab tecknar ett lån på 1,7
-          miljarder kronor. Enligt generaldirektören är det ekonomiska risktagandet
-          med citytunnelprojektet betydande. Banverkets experter tycks anse
-          att projektet innebär sådana ekonomiska risker att Banverket som
-          delägare av Svedab inte bör underteckna avtalet.
-        </p>
-        <p xml:id="i-Nq78vT9UrSQ2o6wp66BaBR">
-          Min fråga till statsrådet är:
-        </p>
-        <p xml:id="i-JxhsaJjMoiJNmLaE6ihvDE">
-          Vilka kostnader kan åsamkas statskassan om projektet genomförs
-          på föreslaget sätt och Svedab ej klarar de ekonomiska åtagandena?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_221.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-6CjDeQ6kGdjtuY2F6wsj3d">
+            Banverkets generaldirektör har meddelat att hon avgår som generaldi­rektör
+            på grund av undertecknande om avtal om citytunnel i Malmö. Tunneln
+            skall bl.a. finansieras genom att Svedab tecknar ett lån på 1,7
+            miljarder kronor. Enligt generaldirektören är det ekonomiska risktagandet
+            med citytunnelprojektet betydande. Banverkets experter tycks anse
+            att projektet innebär sådana ekonomiska risker att Banverket som
+            delägare av Svedab inte bör underteckna avtalet.
+          </p>
+          <p xml:id="i-2ehFweK7dcdZrKhRU2FvHr">
+            Min fråga till statsrådet är:
+          </p>
+          <p xml:id="i-Ft1hJL1XjCgcbTbhhPx3Y8">
+            Vilka kostnader kan åsamkas statskassan om projektet genomförs
+            på föreslaget sätt och Svedab ej klarar de ekonomiska åtagandena?
+          </p>
+        </div>
       </div>
     </body>
   </text>

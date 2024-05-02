@@ -3,66 +3,97 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>häktessituationen</title>
+        <author>Ekendahl, Maud (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>häktessituationen till justitieminister Thomas Bodström om häktessituationen</title>
+          <idno type="rdwebb">GP1037</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GP1037/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GP1037</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GP1037</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-F8qdE2eedz12PwFanq3ahv</idno>
+            <persName>Ekendahl, Maud (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>justitieminister Thomas Bodström </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>justitieminister Thomas Bodström </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-Ht5wCMNjRHXpfJMPsq6Z9a" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2001-10-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TefgMy6xxVTXUQ1HjdCEXa" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2001-10-30"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-SNtnuxQn7BHMyGNo7dh64c" corresp="i-F8qdE2eedz12PwFanq3ahv">
+          <date when="2001-10-23"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200102--0037</head>
-        <author who="i-F8qdE2eedz12PwFanq3ahv">Ekendahl, Maud (m) </author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">justitieminister Thomas Bodström </recipient>
-        <topic>häktessituationen</topic>
-        <docDate when="2001-10-23">den 23 oktober</docDate>
-        <status when="2001-10-30" byWhom="justitieminister Thomas Bodström " byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP1037</external_id>
-        <debate>
-          <turn when="2022-01-01 01:00:00" duration="100" who="d7c31fc6-83e4-1111-ae60-0050040c9b55">Anf</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2001/02:37 av Maud Ekendahl (m) till justitieminister
-          Thomas Bodström om häktessituationen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-3Z5z8Verz4pYRMdff2ofKq">
+            Interpellation 2001/02:37 av Maud Ekendahl (m) till justitieminister
+            Thomas Bodström om häktessituationen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-YaeZLR6DUnVGpuuGLwJHut">
+            den 23 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NXK83UepW9VRjFswh6bHD3">
-          Trycket på häktena är stort i hela landet. I nordvästra Skåne,
-          som har 33 häktesplatser, var det helgen den 20@21 oktober nästan
-          kaotiskt. Överbeläggningen var så stor att man ett tag befarade
-          att man skulle tvingas låta häktade dela cell. Trots att det nyöppnade
-          häktet i Ängelholm med sina 17 platser har lättat en aning på
-          trycket uppkommer fortfarande fullständigt oacceptabla situationer.
-        </p>
-        <p xml:id="i-TEtrqkpgEy9jfW8driLMNi">
-          I ett läge när även observationscellen, som ska användas om någon
-          blir våldsam, måste tas i anspråk försämras säkerheten på häktet.
-          Detta är inte acceptabelt. Vissa helger, när i stort sett varje
-          häktesplats i hela landet är upptagen, blir situationen helt ohållbar.
-        </p>
-        <p xml:id="i-ChanhVso1kCeDPXMaCpJYA">
-          Vad avser justitieministern vidta för konkreta åtgärder för att
-          situationen på häktena ska förbättras?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Cd7aVzJwidMpiDZ921FYf3">
+            Trycket på häktena är stort i hela landet. I nordvästra Skåne,
+            som har 33 häktesplatser, var det helgen den 20@21 oktober nästan
+            kaotiskt. Överbeläggningen var så stor att man ett tag befarade
+            att man skulle tvingas låta häktade dela cell. Trots att det nyöppnade
+            häktet i Ängelholm med sina 17 platser har lättat en aning på
+            trycket uppkommer fortfarande fullständigt oacceptabla situationer.
+          </p>
+          <p xml:id="i-UjgcU4Dt9awURjt1mgqKMX">
+            I ett läge när även observationscellen, som ska användas om någon
+            blir våldsam, måste tas i anspråk försämras säkerheten på häktet.
+            Detta är inte acceptabelt. Vissa helger, när i stort sett varje
+            häktesplats i hela landet är upptagen, blir situationen helt ohållbar.
+          </p>
+          <p xml:id="i-VQ28HvBHNEnjQ8qwr2g9KZ">
+            Vad avser justitieministern vidta för konkreta åtgärder för att
+            situationen på häktena ska förbättras?
+          </p>
+        </div>
       </div>
     </body>
   </text>

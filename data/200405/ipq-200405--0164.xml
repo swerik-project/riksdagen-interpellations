@@ -3,67 +3,111 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>åldersgräns för högre statliga tjänster</title>
+        <author>Svensson, Ingvar (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>åldersgräns för högre statliga tjänster till statsminister Göran Persson om åldersgräns för högre statliga tjänster</title>
+          <idno type="rdwebb">GS10164</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10164/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10164</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10164</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-CvmaDbz8ueGm8meSVWj6vr</idno>
+            <persName>Ingvar Svensson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TZq9aosv5sfFTs4dwxgNaG" corresp="i-CvmaDbz8ueGm8meSVWj6vr">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GJU5F7gJdLr8uDUGQErhjc">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-B83VkiMu4AmePie5eQz1Cn">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8eKGS8C2ZwaUs32uV55BdU" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-W4KEh52NMqCLnXgVUEveBw" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2004-12-14"/>
+        </correspAction>
+        <correspContext corresp="i-W4KEh52NMqCLnXgVUEveBw">
+          <ref type="record" target="prot-200405--050">Riksdagens protokoll 2004/05:50 Tisdagen den 14 december</ref>
+          <ref type="recordSection" target="unsetDivId">23 § Svar på interpellation 2004/05:164 om åldersgräns för högre statliga tjänster</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0164</head>
-        <author who="i-CvmaDbz8ueGm8meSVWj6vr">Ingvar Svensson</author>
-        <recipient who="i-3kVCtR7mCK6mW2F6oaBMR5">Göran Persson</recipient>
-        <topic>åldersgräns för högre statliga tjänster</topic>
-        <docDate when="2004-11-18">den 18 november</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10164</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:164 av Ingvar Svensson (kd) till statsminister
-          Göran Persson om åldersgräns för högre statliga tjänster
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-GVn9fmsLgpEZdPqmcKrBL1">
+            Interpellation 2004/05:164 av Ingvar Svensson (kd) till statsminister
+            Göran Persson om åldersgräns för högre statliga tjänster
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-KJiVsgdEECRhBarPBCmRVQ">
+            den 18 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DeVvdtPY6Ybs5G4Whmmash">
-          Regeringen har utnämningsrätt till det som kallas för högre statliga
-          tjänster. Här inbegrips tjänster såsom domare, generaldirektörer
-          för statliga verk och myndigheter, styrelseordförande och landshövdingar.
-        </p>
-        <p xml:id="i-UfJ2g3h2pCys7qhP6MPEd2">
-          I Regeringskansliet har utarbetats en praxis som styr hur gammal
-          en person som tillsätts till högre statliga tjänster får vara.
-          I övriga samhället är rätt att arbeta till 67 års ålder numera
-          en generell regel. Den tillämpas dock inte på högre statliga tjänster,
-          där 65-årsregeln normalt fortfarande är en övre gräns. Vi anser
-          att man måste tillämpa en större flexibilitet på detta område
-          för att tillgodogöra sig erfarenhet och kompetens.
-        </p>
-        <p xml:id="i-BeP3jzLwuMtHGTH46ehvGf">
-          Min fråga till statsministern är:
-        </p>
-        <p xml:id="i-MVRtgYi3GX21MxaygQ5jLd">
-          Vilka åtgärder avser statsministern att vidta för att ändra praxis
-          så att människor äldre än 65 år kan komma i fråga för högre statliga
-          tjänster?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-93Nzwsv9GbAEZ5hcRb86BU">
+            Regeringen har utnämningsrätt till det som kallas för högre statliga
+            tjänster. Här inbegrips tjänster såsom domare, generaldirektörer
+            för statliga verk och myndigheter, styrelseordförande och landshövdingar.
+          </p>
+          <p xml:id="i-L3H6AWKEvirWW75rXhDvKS">
+            I Regeringskansliet har utarbetats en praxis som styr hur gammal
+            en person som tillsätts till högre statliga tjänster får vara.
+            I övriga samhället är rätt att arbeta till 67 års ålder numera
+            en generell regel. Den tillämpas dock inte på högre statliga tjänster,
+            där 65-årsregeln normalt fortfarande är en övre gräns. Vi anser
+            att man måste tillämpa en större flexibilitet på detta område
+            för att tillgodogöra sig erfarenhet och kompetens.
+          </p>
+          <p xml:id="i-CfNx4iMGDzm9RnJxw6tL77">
+            Min fråga till statsministern är:
+          </p>
+          <p xml:id="i-Nz4K5CtajQyJBxeb8EYQLp">
+            Vilka åtgärder avser statsministern att vidta för att ändra praxis
+            så att människor äldre än 65 år kan komma i fråga för högre statliga
+            tjänster?
+          </p>
+        </div>
       </div>
     </body>
   </text>

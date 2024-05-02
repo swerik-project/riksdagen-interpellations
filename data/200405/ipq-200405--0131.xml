@@ -3,105 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldres boende</title>
+        <author>Marcelind, Ragnwi (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>äldres boende till statsrådet Mona Sahlin om äldres boende</title>
+          <idno type="rdwebb">GS10131</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10131/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10131</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10131</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Ha5uZXGHudhTidCuW8UjXN</idno>
+            <persName>Ragnwi Marcelind</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-53sx23KKs36yz3vtzaoZx2" corresp="i-Ha5uZXGHudhTidCuW8UjXN">
+          <date when="2004-11-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-QJwtqUfp46sDV3L2crseqo">
+          <date when="2004-11-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DraeVUrdf9QgQRnUrZNcgM">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-U9DAzyNatn5HGohiZAmCgP" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-YCwyPWybCXvpHpCC78AZbh" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-YCwyPWybCXvpHpCC78AZbh">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:131 om äldres boende</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0131</head>
-        <author who="i-Ha5uZXGHudhTidCuW8UjXN">Ragnwi Marcelind</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>äldres boende</topic>
-        <docDate when="2004-11-09">den 9 november</docDate>
-        <status when="2004-11-23" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10131</external_id>
-        <debate>
-          <turn when="2004-11-23 18:31:51" duration="168">Mona Sahlin (S)</turn>
-          <turn when="2004-11-23 18:34:35" duration="250">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2004-11-23 18:38:34" duration="211">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-11-23 18:41:58" duration="273">Rigmor Stenmark (C)</turn>
-          <turn when="2004-11-23 18:46:27" duration="262">Mona Sahlin (S)</turn>
-          <turn when="2004-11-23 18:50:40" duration="263">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2004-11-23 18:54:54" duration="111">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-11-23 18:56:41" duration="169">Rigmor Stenmark (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:131 av Ragnwi Marcelind (kd) till statsrådet
-          Mona Sahlin om äldres boende
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6MRNZ9x15XgVjgcLNAmPjH">
+            Interpellation 2004/05:131 av Ragnwi Marcelind (kd) till statsrådet
+            Mona Sahlin om äldres boende
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PQ95ARHUvvt7gXVX5SnzKj">
+            den 9 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RzpqCG3caP2dMpSeWdjAbm">
-          Att bygga ett samhälle där alla kan åldras i trygghet och värdighet
-          är ett av välfärdspolitikens mest angelägna mål.
-        </p>
-        <p xml:id="i-REpaMP4m5tkVRwqkEtEn4y">
-          Även om det bakom den demografiska utvecklingen med alltfler
-          äldre ligger en i grunden positiv utveckling med en ökande medellivslängd,
-          utgör den en mycket stor samhällelig utmaning. Det gäller inte
-          minst bostadssektorn, som till stor del består av lägenheter och
-          hus som är dåligt lämpade för att bli äldre och ha ett vårdbehov
-          i.
-        </p>
-        <p xml:id="i-EUwNcid1bDLCt9Wy7XpoPh">
-          För att tillmötesgå de äldres behov och önskemål är det viktigt
-          att det finns ett stort utbud av attraktiva bostäder som antingen
-          är ändamålsenliga att bo kvar i vid hög ålder eller som är goda
-          alternativ att flytta till. Efterfrågan på särskilda seniorbostäder
-          kommer sannolikt att öka i framtiden, liksom nödvändigheten att
-          anpassa befintliga bostadsfastigheter. Hela bostadssektorn står
-          inför en svår balansgång mellan att bygga nytt och att anpassa,
-          att stimulera kvarboende eller att underlätta flyttning.
-        </p>
-        <p xml:id="i-SGk7BoAd8jLxnjvq15ZokP">
-          God kunskap är en nyckel för att samhället ska kunna hantera
-          den demografiska utvecklingen. Bostadsförsörjning är en långsiktig
-          planeringsfråga som kräver ett bra underlag. Därför är det viktigt
-          att utarbeta planer för de framtida bostadsbehoven som står i
-          överensstämmelse med de äldres bostadsönskemål. Inför framtiden
-          kan det bli nödvändigt att fråga de som uppnått en ålder av 60@70
-          år hur de vill planera sitt boende och sin framtid. Sådana undersökningar
-          skulle också ge människor tid att stanna upp och tänka under den
-          tid då man fortfarande orkar planera, bygga och flytta.
-        </p>
-        <p xml:id="i-8hLGferAGAT1eYQLEGtqKJ">
-          Förre bostadsminister Lars-Erik Lövdén har aviserat att ett nytt
-          bostadsfinansieringssystem ska sättas i sjön 2007. En arbetsgrupp
-          har tillsatts inom Regeringskansliet för att "genomlysa det nuvarande
-          systemet för bostadsfinansiering, bostadssubventioner och bostadsmarknadens
-          kapitalförsörjning".
-        </p>
-        <p xml:id="i-CAvCGmQndgTi2nMmPv8RRs">
-          Vilka åtgärder avser samhällsbyggnadsministern att vidta för
-          att förbättra kunskaperna om äldres boendesituation och önskemål
-          kring boendet?
-        </p>
-        <p xml:id="i-FkA4BiJjMFNDugwREZX8wo">
-          Vilka åtgärder avser samhällsbyggnadsministern att vidta för
-          att arbetsgruppen inom Regeringskansliet särskilt ska se över
-          finansieringen av bostäder anpassade för äldre?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-WeEg4VvGdcp34G5ao3P5VR">
+            Att bygga ett samhälle där alla kan åldras i trygghet och värdighet
+            är ett av välfärdspolitikens mest angelägna mål.
+          </p>
+          <p xml:id="i-2qFNBQSUZ5JnSyKhWLyyyf">
+            Även om det bakom den demografiska utvecklingen med alltfler
+            äldre ligger en i grunden positiv utveckling med en ökande medellivslängd,
+            utgör den en mycket stor samhällelig utmaning. Det gäller inte
+            minst bostadssektorn, som till stor del består av lägenheter och
+            hus som är dåligt lämpade för att bli äldre och ha ett vårdbehov
+            i.
+          </p>
+          <p xml:id="i-BwLgcHKdFoEmFCLF5WCeaV">
+            För att tillmötesgå de äldres behov och önskemål är det viktigt
+            att det finns ett stort utbud av attraktiva bostäder som antingen
+            är ändamålsenliga att bo kvar i vid hög ålder eller som är goda
+            alternativ att flytta till. Efterfrågan på särskilda seniorbostäder
+            kommer sannolikt att öka i framtiden, liksom nödvändigheten att
+            anpassa befintliga bostadsfastigheter. Hela bostadssektorn står
+            inför en svår balansgång mellan att bygga nytt och att anpassa,
+            att stimulera kvarboende eller att underlätta flyttning.
+          </p>
+          <p xml:id="i-LbzzqbAUtncGfRH497Cw4E">
+            God kunskap är en nyckel för att samhället ska kunna hantera
+            den demografiska utvecklingen. Bostadsförsörjning är en långsiktig
+            planeringsfråga som kräver ett bra underlag. Därför är det viktigt
+            att utarbeta planer för de framtida bostadsbehoven som står i
+            överensstämmelse med de äldres bostadsönskemål. Inför framtiden
+            kan det bli nödvändigt att fråga de som uppnått en ålder av 60@70
+            år hur de vill planera sitt boende och sin framtid. Sådana undersökningar
+            skulle också ge människor tid att stanna upp och tänka under den
+            tid då man fortfarande orkar planera, bygga och flytta.
+          </p>
+          <p xml:id="i-LX4tQpCNnyTg4iEuZj8a99">
+            Förre bostadsminister Lars-Erik Lövdén har aviserat att ett nytt
+            bostadsfinansieringssystem ska sättas i sjön 2007. En arbetsgrupp
+            har tillsatts inom Regeringskansliet för att "genomlysa det nuvarande
+            systemet för bostadsfinansiering, bostadssubventioner och bostadsmarknadens
+            kapitalförsörjning".
+          </p>
+          <p xml:id="i-MfZfmMVvTPVUMaEjP7AJ7R">
+            Vilka åtgärder avser samhällsbyggnadsministern att vidta för
+            att förbättra kunskaperna om äldres boendesituation och önskemål
+            kring boendet?
+          </p>
+          <p xml:id="i-NBEx9weGLaK6XK4G4ckjFs">
+            Vilka åtgärder avser samhällsbyggnadsministern att vidta för
+            att arbetsgruppen inom Regeringskansliet särskilt ska se över
+            finansieringen av bostäder anpassade för äldre?
+          </p>
+        </div>
       </div>
     </body>
   </text>

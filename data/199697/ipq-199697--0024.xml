@@ -3,74 +3,99 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>matpriserna</title>
+        <author>Sten Andersson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:24 av Sten Andersson (m) till jordbruksministern om matpriserna</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_19.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_20.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Sten Andersson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
+          </person>
+          <person gender="woman">
+            <persName>jordbruksministern</persName>
+            <idno>i-QtJg9oNHiDkHLkgiCwmrBb</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XA9FSUKH9zrmTi9aJwvfp8" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
+          <date when="1996-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Md1if7TYc9CussfZnrzGEn">
+          <note>date unknown</note>
+          <name>jordbruksministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-7t3886r4nUUEanViGa3z9C">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UUXNakA2uoY2nHLHUSBJNp">
+          <date when="1996-11-07"/>
+        </correspAction>
+        <correspContext corresp="i-UUXNakA2uoY2nHLHUSBJNp">
+          <ref type="record" target="prot-199697--026">Prot. 1996/97:26</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:24</head>
-        <author who="i-84xpErSjuTzEi5hvTA1Jtt">Sten Andersson (m)</author>
-        <minister who="unknown">jordbruksministern</minister>
-        <topic>matpriserna</topic>
-        <docDate when="1996-10-11">Inkom den 11 oktober</docDate>
-        <status inProtocol="199697/prot-199697--026.xml" when="1996-11-07" status="answered">Besvarad den 7 november, Prot. 1996/97:26</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:24 av Sten Andersson (m) till jordbruksministern
-          om matpriserna
-        </IPQ_title>
-        <submission_info>
-          Inkom den 11 oktoberBesvarad den 7 november Prot. 1996/97:26
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Vsiimp2Y7TVXidymnUAfch">
+            Interpellation 1996/97:24 av Sten Andersson (m) till jordbruksministern
+            om matpriserna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Mmgptdjx6nAf64FRQsvQxw">
+            Inkom den 11 oktober : Besvarad den 7 november Prot. 1996/97:26
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PXGMwVqAbW6tcKkUmN2EjK">
-          Sedan lång tid tillbaka har livsmedelsföretagen beskyllts för
-          att mat­priserna inte sjunkit i den takt som önskats. Givetvis
-          önskar alla låga matpriser, men att bara ensidigt klaga på livsmedelsbranschen
-          är att göra det för enkelt!
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_20.pdf"/>
-        <p xml:id="i-JefFrKQZVk4u87EUb6T4ZT">
-          Alla led inom livsmedelsförsörjningen måste rimligtvis gå med
-          vinst. Om så inte är fallet, saknas skäl för i branschen involverade
-          företag att bedriva sin verksamhet. Kostnader till följd av avtal
-          och anställningsvill­kor för anställda i hela livsmedelskedjan
-          betalas i slutändan av konsu­menterna.
-        </p>
-        <p xml:id="i-CcjvgBG1xZmzjm9uLqTQJi">
-          Det är - åtminstone teoretiskt - möjligt att starta företag inom
-          livsme­delsbranschen och därmed öka konkurrensen.
-        </p>
-        <p xml:id="i-CVJ1vfvozGBVRgTWM3HbMa">
-          Vilka åtgärder är statsrådet beredd vidta i syfte att livsmedelspriserna
-          för konsumenterna skall minska?
-        </p>
-        <p xml:id="i-EX2nnDXj1JQWjsz4ZcbMRG">
-          Är statsrådet beredd att medverka till information om att anställnings-
-          och lönevillkor påverkar prisnivån?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_21.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Dc7kXVAqyVKLuE4aoum8t4">
+            Sedan lång tid tillbaka har livsmedelsföretagen beskyllts för
+            att mat­priserna inte sjunkit i den takt som önskats. Givetvis
+            önskar alla låga matpriser, men att bara ensidigt klaga på livsmedelsbranschen
+            är att göra det för enkelt!
+          </p>
+          <p xml:id="i-9zjoMg7Z5g9y4WppjZFbDW">
+            Alla led inom livsmedelsförsörjningen måste rimligtvis gå med
+            vinst. Om så inte är fallet, saknas skäl för i branschen involverade
+            företag att bedriva sin verksamhet. Kostnader till följd av avtal
+            och anställningsvill­kor för anställda i hela livsmedelskedjan
+            betalas i slutändan av konsu­menterna.
+          </p>
+          <p xml:id="i-8U6WF24GvRfFdaZWwopDEN">
+            Det är - åtminstone teoretiskt - möjligt att starta företag inom
+            livsme­delsbranschen och därmed öka konkurrensen.
+          </p>
+          <p xml:id="i-NvaK2s2YY4f1S54JhjLMxg">
+            Vilka åtgärder är statsrådet beredd vidta i syfte att livsmedelspriserna
+            för konsumenterna skall minska?
+          </p>
+          <p xml:id="i-MmaWwMbrHcZtnWKhdzq8fw">
+            Är statsrådet beredd att medverka till information om att anställnings-
+            och lönevillkor påverkar prisnivån?
+          </p>
+        </div>
       </div>
     </body>
   </text>

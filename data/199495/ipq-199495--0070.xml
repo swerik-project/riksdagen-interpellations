@@ -3,81 +3,106 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>djurtransporter</title>
+        <author>Ann-Kristine Johansson (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1994/95:70 av Ann-Kristine Johansson (s) till jordbruksministern om djurtransporter</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_69.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_70.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Ann-Kristine Johansson (s)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>s</desc>
+            </state>
+            <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
+          </person>
+          <person gender="man">
+            <persName>jordbruksministern</persName>
+            <idno>i-CVa3GtLUphESXFxPuwSvNV</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-FBLy1gBaetVCuC3MamiUBn" corresp="i-JfXS8EFEqMfBiyryszrVvW">
+          <date when="1994-03-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-D3hof6w9UaUJ71Jjv3ny1G">
+          <note>date unknown</note>
+          <name>jordbruksministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-Ebsw7UvG56Pxe2hPWhX6DF">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XbWyE37D677Wpfxat5HpoP">
+          <date when="1994-04-03"/>
+        </correspAction>
+        <correspContext corresp="i-XbWyE37D677Wpfxat5HpoP">
+          <ref type="record" target="prot-199495--084">Prot. 1994/95:84</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1994/95:70</head>
-        <author who="i-JfXS8EFEqMfBiyryszrVvW">Ann-Kristine Johansson (s)</author>
-        <minister who="unknown">jordbruksministern</minister>
-        <topic>djurtransporter</topic>
-        <docDate when="1995-03-03">Inkom den 3 mars</docDate>
-        <status inProtocol="199495/prot-199495--084.xml" when="1995-04-03" status="answered">Besvarad den 3 april, Prot. 1994/95:84</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1994/95:70 av Ann-Kristine Johansson (s) till jordbruksministern
-          om djurtransporter
-        </IPQ_title>
-        <submission_info>
-          Inkom den 3 marsBesvarad den 3 april Prot. 1994/95:84
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-RfYSRd9TVtPgKYYtbf9HGw">
+            1994/95:70 av Ann-Kristine Johansson (s) till jordbruksministern
+            om djurtransporter
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8pWzHjR7RRwd5fLwkdaWwG">
+            Inkom den 3 mars : Besvarad den 3 april Prot. 1994/95:84
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-M9Dr7EMfqwam2SPBeef7Vx">
-          Vi har nu under en längre tid följt EU-debatten om att införa
-          strängare regler för transport av djur. Gång på gång har EU:s
-          minister­råd misslyckats med att nå en lösning, och under tiden
-          fortgår detta djurplågeri.
-        </p>
-        <p xml:id="i-W5s75BoTEbBqGNEGN6wE7w">
-          Kan jordbruksministern lova att vi skall slippa se sådana grymma
-          djurtransporter i Sverige i framtiden?
-        </p>
-        <note type="margin" xml:id="i-JmJanGXhwV9gCBn6TSeHcL">
-          Interpellationer1994/95:1 - 154
-        </note>
-        <note type="pageNumber" xml:id="i-SvBNtgCTEEiviFvPsxTn7f">
-          69
-        </note>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_70.pdf"/>
-        <note type="margin" xml:id="i-RB359XeWvUtZ5z1Rf7mUYP">
-          Interpellationer1994/95:1 - 154
-        </note>
-        <note type="pageNumber" xml:id="i-7j9GHVx1Dc6sVPnzUbeQfL">
-          70
-        </note>
-        <p xml:id="i-M6fE6dWXFVZjreXgv2uTRH">
-          De svenska reglerna för transporter av djur är inte särskilt
-          mycket bättre än EU:s gällande direktiv. Vad avser jordbruksministern
-          göra åt detta?
-        </p>
-        <p xml:id="i-MHszQB1Kfq1JgdT1aopxsW">
-          Vad ämnar jordbruksministern göra för att förmå sina EU-kollegor
-          att begränsa transporttiden och i övrigt förbättra villkoren för
-          de djur som transporteras?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199495/pages/ip_199495_71.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2PDAZcYtx8VRPo42b7qnW6">
+            Vi har nu under en längre tid följt EU-debatten om att införa
+            strängare regler för transport av djur. Gång på gång har EU:s
+            minister­råd misslyckats med att nå en lösning, och under tiden
+            fortgår detta djurplågeri.
+          </p>
+          <p xml:id="i-16Rzd5dWp4EqVb2KWDVuxY">
+            Kan jordbruksministern lova att vi skall slippa se sådana grymma
+            djurtransporter i Sverige i framtiden?
+          </p>
+          <note xml:id="i-SbMDTK4329ns5mmMH6iY4R" type="margin">
+            Interpellationer1994/95:1 - 154
+          </note>
+          <note xml:id="i-SQZ3fgJFLiKBJwBKNbCg8p" type="pageNumber">
+            69
+          </note>
+          <note xml:id="i-55zj2NmQRf6gZmKkDxxTdm" type="margin">
+            Interpellationer1994/95:1 - 154
+          </note>
+          <note xml:id="i-DnTwTaS92Ro1XQYjHWP2xu" type="pageNumber">
+            70
+          </note>
+          <p xml:id="i-LVAbmHMKZDSkGfvsDubiRv">
+            De svenska reglerna för transporter av djur är inte särskilt
+            mycket bättre än EU:s gällande direktiv. Vad avser jordbruksministern
+            göra åt detta?
+          </p>
+          <p xml:id="i-RiuLX9WtLxjNVtUhvEjbV4">
+            Vad ämnar jordbruksministern göra för att förmå sina EU-kollegor
+            att begränsa transporttiden och i övrigt förbättra villkoren för
+            de djur som transporteras?
+          </p>
+        </div>
       </div>
     </body>
   </text>

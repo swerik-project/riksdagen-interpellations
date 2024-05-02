@@ -3,124 +3,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>forskningens inriktning</title>
+        <author>Vestlund, Börje (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>forskningens inriktning till utbildningsminister Thomas Östros om forskningens inriktning</title>
+          <idno type="rdwebb">GR10307</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10307/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10307</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10307</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-RhV66JB3grVjuSae7bWBGg" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
+          <date when="2004-02-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PypdytRqmEAcULXZjWMHqY">
+          <date when="2004-02-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2VRESF6MsG4pYLahwDDjwV">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TMYDx5yhKwLidVGeBBrvpJ" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-02-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LnwYpixHkZ8Q6pZZGdgGHy" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspContext corresp="i-LnwYpixHkZ8Q6pZZGdgGHy">
+          <ref type="record" target="prot-200304--083">Riksdagens protokoll 2003/04:83 Tisdagen den 16 mars</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:307 om forskningens inriktning</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0307</head>
-        <author who="i-MVzhVeKwRGmjHjHoSrReg9">Börje Vestlund</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>forskningens inriktning</topic>
-        <docDate when="2004-02-18">den 18 februari</docDate>
-        <status when="2004-03-16" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10307</external_id>
-        <debate>
-          <turn when="2004-03-16 16:03:17" duration="248">Thomas Östros (S)</turn>
-          <turn when="2004-03-16 16:07:22" duration="254">Börje Vestlund (S)</turn>
-          <turn when="2004-03-16 16:11:33" duration="246">Thomas Östros (S)</turn>
-          <turn when="2004-03-16 16:15:35" duration="201">Börje Vestlund (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:307 av Börje Vestlund (s) till utbildningsminister
-          Thomas Östros om forskningens inriktning
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-7DccqTAtCs2ZR8bPvEFWxc">
+            Interpellation 2003/04:307 av Börje Vestlund (s) till utbildningsminister
+            Thomas Östros om forskningens inriktning
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PXJ5hXEyzhA2DcBPSipRna">
+            den 18 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-4o6S4Sexc8UDNYzgBKif3W">
-          Sverige har som forskarnation all anledning att vara stolt. Vi
-          lägger 3,8 % av BNP på forskning, vilket får anses som ett ganska
-          ointagligt världsrekord. Ändå finns det problem kring den forskning
-          som bedrivs i dag. Inte minst i de mer principiella diskussionerna
-          om forskningen, där tillväxten betonas i varje sammanhang. Det
-          finns enligt min uppfattning ett stort problem med den typen av
-          resonemang.
-        </p>
-        <p xml:id="i-DeW2KhUokgT2ubgM2TosBg">
-          Låt mig ta ett par exempel:
-        </p>
-        <p xml:id="i-JMzRjZTqZEcRbJXT5Jr686">
-          Fordonsindustrin forskar och tar fram alltmer effektiva motorer,
-          men framför allt blir fordonen tyngre och tyngre. Detta gäller
-          både personbilar och olika typer av yrkesfordon. Vår infrastruktur
-          har inte kunnat hänga med och klarar inte av att hantera dagens
-          tunga fordon. Huvuddelen av vårt väg- och järnvägsnät är anlagd
-          under tidigt 1900-tal.
-        </p>
-        <p xml:id="i-6jMgPPyWojGnDgoPVdiexc">
-          För att ytterligare belysa detta kan man ta som exempel pappersindustrin
-          som i dag behöver konstant tillförsel av färska råvaror. Det innebär
-          att man under hela året kör tunga timmerbilar på skogsvägar. Tidigare
-          fraktade man trä under huvudsakligen vintertid som sedan lagrades
-          vid pappersbruken. Detta har lett till att stora delar av skogsvägnätet
-          i dag är totalt sönderkört.
-        </p>
-        <p xml:id="i-AVsouFBg5iVfu896o2YqDi">
-          I båda dessa exempel finns inga direkta incitament att kunna
-          rikta forskning mot den samhällsinriktade forskningen. Det bedrivs
-          i dag mycket liten forskning kring just infrastrukturen. Det är
-          i princip samma underlag och samma vägbeläggning i dag som det
-          var för 50 år sedan.
-        </p>
-        <p xml:id="i-CEHpHs8EsFaZBMXnEiWkpU">
-          Liknande exempel kan hittas när det gäller miljöfrågor. Vi utvecklar
-          alltmer sofistikerade mobiltelefoner, datorer och andra fantastiska
-          maskiner till vår hjälp i vardagen och i arbetet. Samtidigt vet
-          vi att det finns strålning från all elektrisk utrustning och inte
-          minst från den lågfrekventa strålningen från till exempel mobiltelefoner.
-          Forskarna vet i dag att det ger effekter men inte exakt vilka
-          och vad de beror på. Hur ska vi sätta gränsvärden för att skydda
-          konsumenter och vår omgivning om vi inte vet?
-        </p>
-        <p xml:id="i-TPPQHACMTSvnT6W7heTz53">
-          Inriktningen på vår forskningspolitik måste rimligen vara att
-          slå vakt om att det finns en balans mellan tillämpad forskning
-          och grundforskning. Med mina exempel är det tydligt att grundforskning
-          som är mer samhällsinriktad ofta hamnar på efterkälken.
-        </p>
-        <p xml:id="i-UFGj81XjTdj9NLktVUQTjN">
-          Infrastruktur kostar pengar och den ska i regel betalas av skattebetalarna.
-          Vi står alltså i en situation där forskning driver fram en alltmer
-          utvecklad fordonspark, men där forskningen är begränsad när det
-          gäller utvecklingen av vår gemensamma infrastruktur. En infrastruktur
-          som utvecklades och anlades till stora delar i ett tidigt 1900-tal.
-        </p>
-        <p xml:id="i-HxXnwg63tpGdCA6M1W3YQd">
-          De nya väg- och järnvägarna kommer att möta samma öden som de
-          gamla men mycket snabbare. Detta på grund av allt tyngre och utvecklade
-          fordon.
-        </p>
-        <p xml:id="i-Y532JWqPziXJsTPF1jwLAV">
-          Även forskning på den samhällsgemensamma infrastrukturen måste
-          betraktas som grundläggande när det gäller satsningar på tillväxtområden.
-        </p>
-        <p xml:id="i-6AwXvsRtQqzruZfHhgGWeM">
-          Med anledning av ovanstående vill jag fråga statsrådet om hon
-          har några tankar kring på vilket sätt man ska ge forskarvärlden
-          incitament och medel för att kunna utföra grundläggande forskning
-          inom de områden som är samhällsinriktade och inte direkt tillväxtfrämjande.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FDLwUGx1x5rfrVCqnuRt4i">
+            Sverige har som forskarnation all anledning att vara stolt. Vi
+            lägger 3,8 % av BNP på forskning, vilket får anses som ett ganska
+            ointagligt världsrekord. Ändå finns det problem kring den forskning
+            som bedrivs i dag. Inte minst i de mer principiella diskussionerna
+            om forskningen, där tillväxten betonas i varje sammanhang. Det
+            finns enligt min uppfattning ett stort problem med den typen av
+            resonemang.
+          </p>
+          <p xml:id="i-KBa39y4v3G71qrseJieypx">
+            Låt mig ta ett par exempel:
+          </p>
+          <p xml:id="i-FV3D6gAcoZgzuXbw7PL92j">
+            Fordonsindustrin forskar och tar fram alltmer effektiva motorer,
+            men framför allt blir fordonen tyngre och tyngre. Detta gäller
+            både personbilar och olika typer av yrkesfordon. Vår infrastruktur
+            har inte kunnat hänga med och klarar inte av att hantera dagens
+            tunga fordon. Huvuddelen av vårt väg- och järnvägsnät är anlagd
+            under tidigt 1900-tal.
+          </p>
+          <p xml:id="i-WZjcTL1nbwHmW3S3RFmoXE">
+            För att ytterligare belysa detta kan man ta som exempel pappersindustrin
+            som i dag behöver konstant tillförsel av färska råvaror. Det innebär
+            att man under hela året kör tunga timmerbilar på skogsvägar. Tidigare
+            fraktade man trä under huvudsakligen vintertid som sedan lagrades
+            vid pappersbruken. Detta har lett till att stora delar av skogsvägnätet
+            i dag är totalt sönderkört.
+          </p>
+          <p xml:id="i-G9BnidimA2BpQt7C4WZkwQ">
+            I båda dessa exempel finns inga direkta incitament att kunna
+            rikta forskning mot den samhällsinriktade forskningen. Det bedrivs
+            i dag mycket liten forskning kring just infrastrukturen. Det är
+            i princip samma underlag och samma vägbeläggning i dag som det
+            var för 50 år sedan.
+          </p>
+          <p xml:id="i-BXmqZQi331SJ8sevXTiKF7">
+            Liknande exempel kan hittas när det gäller miljöfrågor. Vi utvecklar
+            alltmer sofistikerade mobiltelefoner, datorer och andra fantastiska
+            maskiner till vår hjälp i vardagen och i arbetet. Samtidigt vet
+            vi att det finns strålning från all elektrisk utrustning och inte
+            minst från den lågfrekventa strålningen från till exempel mobiltelefoner.
+            Forskarna vet i dag att det ger effekter men inte exakt vilka
+            och vad de beror på. Hur ska vi sätta gränsvärden för att skydda
+            konsumenter och vår omgivning om vi inte vet?
+          </p>
+          <p xml:id="i-8eJCDtqqAWF1Tj441VMtYx">
+            Inriktningen på vår forskningspolitik måste rimligen vara att
+            slå vakt om att det finns en balans mellan tillämpad forskning
+            och grundforskning. Med mina exempel är det tydligt att grundforskning
+            som är mer samhällsinriktad ofta hamnar på efterkälken.
+          </p>
+          <p xml:id="i-XrDtJH2FyMHgsFYVCSRPKa">
+            Infrastruktur kostar pengar och den ska i regel betalas av skattebetalarna.
+            Vi står alltså i en situation där forskning driver fram en alltmer
+            utvecklad fordonspark, men där forskningen är begränsad när det
+            gäller utvecklingen av vår gemensamma infrastruktur. En infrastruktur
+            som utvecklades och anlades till stora delar i ett tidigt 1900-tal.
+          </p>
+          <p xml:id="i-RWQNTTKoBv5BHXzTf3x2a7">
+            De nya väg- och järnvägarna kommer att möta samma öden som de
+            gamla men mycket snabbare. Detta på grund av allt tyngre och utvecklade
+            fordon.
+          </p>
+          <p xml:id="i-Xv5sppip2ySmZpWCDkWEkq">
+            Även forskning på den samhällsgemensamma infrastrukturen måste
+            betraktas som grundläggande när det gäller satsningar på tillväxtområden.
+          </p>
+          <p xml:id="i-S382hti76ZzwmM8WGUVvu5">
+            Med anledning av ovanstående vill jag fråga statsrådet om hon
+            har några tankar kring på vilket sätt man ska ge forskarvärlden
+            incitament och medel för att kunna utföra grundläggande forskning
+            inom de områden som är samhällsinriktade och inte direkt tillväxtfrämjande.
+          </p>
+        </div>
       </div>
     </body>
   </text>

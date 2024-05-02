@@ -3,107 +3,135 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>anslag till domstolarna</title>
+        <author>Ertsborn, Jan (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>anslag till domstolarna till justitieminister Thomas Bodström om anslag till domstolarna</title>
+          <idno type="rdwebb">GS10552</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10552/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10552</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10552</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Nywj47pd422wBAiv8K2vPV</idno>
+            <persName>Jan Ertsborn</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4QE4zVWvVbdyy6NfPmpU2D" corresp="i-Nywj47pd422wBAiv8K2vPV">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Jtam3FTAupYNbHpNZB5xxJ">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-MTfGLdGz75mxCjvJMYYSP">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SF6Hhih157xDSMhwm8cRe8" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-tcfC7ui5rpQUnQnuCKSQR" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspContext corresp="i-tcfC7ui5rpQUnQnuCKSQR">
+          <ref type="record" target="prot-200405--120">Riksdagens protokoll 2004/05:120 Fredagen den 13 maj</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:552 om anslag till domstolarna</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0552</head>
-        <author who="i-Nywj47pd422wBAiv8K2vPV">Jan Ertsborn</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>anslag till domstolarna</topic>
-        <docDate when="2005-04-25">den 25 april</docDate>
-        <status when="2005-05-13" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10552</external_id>
-        <debate>
-          <turn when="2005-05-13 11:12:26" duration="25">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 11:12:48" duration="157">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 11:15:20" duration="260">Jan Ertsborn (Fp)</turn>
-          <turn when="2005-05-13 11:19:36" duration="243">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 11:23:35" duration="95">Hillevi Engström (M)</turn>
-          <turn when="2005-05-13 11:25:07" duration="233">Beatrice Ask (M)</turn>
-          <turn when="2005-05-13 11:28:57" duration="224">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 11:32:37" duration="233">Jan Ertsborn (Fp)</turn>
-          <turn when="2005-05-13 11:36:26" duration="159">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 11:39:01" duration="113">Hillevi Engström (M)</turn>
-          <turn when="2005-05-13 11:40:50" duration="143">Beatrice Ask (M)</turn>
-          <turn when="2005-05-13 11:43:09" duration="185">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 11:46:09" duration="131">Jan Ertsborn (Fp)</turn>
-          <turn when="2005-05-13 11:48:16" duration="92">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:552 av Jan Ertsborn (fp) till justitieminister
-          Thomas Bodström om anslag till domstolarna
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EdguiB661z5Y8aRvw2ELBy">
+            Interpellation 2004/05:552 av Jan Ertsborn (fp) till justitieminister
+            Thomas Bodström om anslag till domstolarna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-8BJ1ftRDXmZDs3MMd8CmJY">
+            den 25 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BSi5Nx8fmEAQx15bwNxchT">
-          I en interpellationsdebatt den 10 februari i år bekräftade justitieministern
-          att regeringen minskat anslagen till domstolarna för verksamhetsåret
-          2005. Detta var tvärtemot riksdagens beslut i höstas att höja
-          anslaget med 110 miljoner. Men regeringen betalade sedan aldrig
-          ut 24 miljoner och krävde dessutom att anslagskrediten skulle
-          nollas senast den 31 december 2005.
-        </p>
-        <p xml:id="i-VS1dJYh5n5WDxpecY9p8sA">
-          Justitieministern utlovade den 10 februari också att inom kort
-          kunna redovisa vad de diskussioner och den dialog, som då fördes
-          med Domstolsverket, lett fram till. Detta har vi inte hört något
-          om.
-        </p>
-        <p xml:id="i-36r6pcM5JxF6JCg4Jcogwe">
-          Domstolsverket har nyligen för justitieutskottet redovisat att
-          både antalet nya mål och de mål som väntar på domslut fortsätter
-          att öka, framför allt i länsrätterna och tingsrätterna. Dessutom
-          pekar de ekonomiska förutsättningarna för de kommande åren mot
-          allt större underskott.
-        </p>
-        <p xml:id="i-Q9tG5UbrhAEto2d9zvbxD3">
-          I massmedierna har flera höga domstolschefer under den senaste
-          tiden varnat för effekterna av den förda politiken och krävt att
-          regeringen upphäver besparingsbesluten från december 2004. Justitieministern
-          har då svarat att domstolarna även i år kommer att få ökade resurser
-          jämfört med tidigare år, bland annat med tillskott i årets budget.
-        </p>
-        <p xml:id="i-AGihcHoPftgtDoQzGinb15">
-          I vårpropositionen, tilläggsbudgeten, föreslås att domstolsväsendet
-          tillförs ytterligare 175 miljoner, varav 120 miljoner avsätts
-          för att täcka kostnader för förberedelserna inför de nya arbetsuppgifterna
-          med den nya instans- och processordningen avseende utlännings-
-          och medborgarskapsärenden. Resterande 55 miljoner avses täcka
-          de nya arbetsuppgifterna med överklaganden beträffande färdtjänst
-          och riksfärdtjänst. Det blir alltså inga nya pengar för att möta
-          nya mål eller för att klara upp mål som redan i dag väntar på
-          rättegång.
-        </p>
-        <p xml:id="i-QZ7GyBkNjUGvAKJWGQvmYg">
-          Med anledning av ovanstående vill jag fråga justitieministern:
-        </p>
-        <p xml:id="i-s29MAJfev4zhdEaTAw6Hj">
-          Vad avser ministern att göra för att domstolarna rent faktiskt
-          ska få ökade ekonomiska resurser för verksamhetsåret 2005?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JhTHAn2TbLMrEiLrpPYxGG">
+            I en interpellationsdebatt den 10 februari i år bekräftade justitieministern
+            att regeringen minskat anslagen till domstolarna för verksamhetsåret
+            2005. Detta var tvärtemot riksdagens beslut i höstas att höja
+            anslaget med 110 miljoner. Men regeringen betalade sedan aldrig
+            ut 24 miljoner och krävde dessutom att anslagskrediten skulle
+            nollas senast den 31 december 2005.
+          </p>
+          <p xml:id="i-RYa7yHbG1ee3FHWUxWrndc">
+            Justitieministern utlovade den 10 februari också att inom kort
+            kunna redovisa vad de diskussioner och den dialog, som då fördes
+            med Domstolsverket, lett fram till. Detta har vi inte hört något
+            om.
+          </p>
+          <p xml:id="i-LYqjcPqQL5E1Zqj5ChV34R">
+            Domstolsverket har nyligen för justitieutskottet redovisat att
+            både antalet nya mål och de mål som väntar på domslut fortsätter
+            att öka, framför allt i länsrätterna och tingsrätterna. Dessutom
+            pekar de ekonomiska förutsättningarna för de kommande åren mot
+            allt större underskott.
+          </p>
+          <p xml:id="i-7CoFxUAkbcLEmGw4mG8EXe">
+            I massmedierna har flera höga domstolschefer under den senaste
+            tiden varnat för effekterna av den förda politiken och krävt att
+            regeringen upphäver besparingsbesluten från december 2004. Justitieministern
+            har då svarat att domstolarna även i år kommer att få ökade resurser
+            jämfört med tidigare år, bland annat med tillskott i årets budget.
+          </p>
+          <p xml:id="i-EKU9mQSpXQkY3pdeEEtZ2M">
+            I vårpropositionen, tilläggsbudgeten, föreslås att domstolsväsendet
+            tillförs ytterligare 175 miljoner, varav 120 miljoner avsätts
+            för att täcka kostnader för förberedelserna inför de nya arbetsuppgifterna
+            med den nya instans- och processordningen avseende utlännings-
+            och medborgarskapsärenden. Resterande 55 miljoner avses täcka
+            de nya arbetsuppgifterna med överklaganden beträffande färdtjänst
+            och riksfärdtjänst. Det blir alltså inga nya pengar för att möta
+            nya mål eller för att klara upp mål som redan i dag väntar på
+            rättegång.
+          </p>
+          <p xml:id="i-UacWaxypGLwwRjBn8p6chM">
+            Med anledning av ovanstående vill jag fråga justitieministern:
+          </p>
+          <p xml:id="i-FHhTh6CtDmjwd1mzCEK6ux">
+            Vad avser ministern att göra för att domstolarna rent faktiskt
+            ska få ökade ekonomiska resurser för verksamhetsåret 2005?
+          </p>
+        </div>
       </div>
     </body>
   </text>

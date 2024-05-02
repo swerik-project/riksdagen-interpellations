@@ -3,145 +3,178 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Malmö högskola</title>
+        <author>Astudillo, Luciano (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Malmö högskola till utbildningsminister Thomas Östros om Malmö högskola</title>
+          <idno type="rdwebb">GS1063</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1063/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1063</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1063</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-7X47tQk4MkakxU2CuxqBcm" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SRbDCcndmmgG2f5GJ7sBXk">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QychCbTaBLni1wB2XMihi9">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-JxLAiEeXBKMUGLac8ZvHSy" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-10-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GxCR2vH9tVzYxAorumLBtp" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-11-11"/>
+        </correspAction>
+        <correspContext corresp="i-GxCR2vH9tVzYxAorumLBtp">
+          <ref type="record" target="prot-200405--027">Riksdagens protokoll 2004/05:27 Torsdagen den 11 november</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:63 om Malmö högskola</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0063</head>
-        <author who="i-8WXKfVC5CVWBiV2pVhvraQ">Luciano Astudillo</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>Malmö högskola</topic>
-        <docDate when="2004-10-21">den 21 oktober</docDate>
-        <status when="2004-11-11" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1063</external_id>
-        <debate>
-          <turn when="2004-11-11 12:02:37" duration="220">Leif Pagrotsky (S)</turn>
-          <turn when="2004-11-11 12:06:14" duration="259">Luciano Astudillo (S)</turn>
-          <turn when="2004-11-11 12:10:30" duration="158">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-11-11 12:13:01" duration="202">Marie Wahlgren (Fp)</turn>
-          <turn when="2004-11-11 12:16:17" duration="268">Leif Pagrotsky (S)</turn>
-          <turn when="2004-11-11 12:20:42" duration="196">Luciano Astudillo (S)</turn>
-          <turn when="2004-11-11 12:23:50" duration="84">Lars-Ivar Ericson (C)</turn>
-          <turn when="2004-11-11 12:25:10" duration="119">Marie Wahlgren (Fp)</turn>
-          <turn when="2004-11-11 12:27:01" duration="275">Leif Pagrotsky (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:63 av Luciano Astudillo (s) till utbildningsminister
-          Thomas Östros om Malmö högskola
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Grts1prnnMPYC39FeVMRH">
+            Interpellation 2004/05:63 av Luciano Astudillo (s) till utbildningsminister
+            Thomas Östros om Malmö högskola
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-WAUhHmiYVatxsGNXKg3DMZ">
+            den 21 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-BKoTWbzp1Vc9dnumLWvFy1">
-          För inte så många år sedan befann sig Malmö i ett synnerligen
-          bekymmersamt läge. Nedläggningen av de stora näringarna @ varvsindustri
-          och teko @ ledde till långvarigt hög arbetslöshet och fattigdom.
-          Det var då Malmö hamnade tillsammans med de värst utsatta Norrlandslänen
-          i arbetslöshets- och socialbidragsstatistiken. Malmö etablerade
-          sig också som landets mest segregerade stad. Skillnaden, mätt
-          i arbetslöshet, inkomst och hälsa, var oerhört markant, inte minst
-          malmöbor med invandrarbakgrund var särskilt utsatta @ uttryckt
-          i högre arbetslöshet, sämre inkomst, sämre psykisk och fysisk
-          hälsa, sämre boende med mera.
-        </p>
-        <p xml:id="i-K1vFKY4sVVXVDTbe4xiwmg">
-          Ett av argumenten för att starta en högskola i Malmö var att
-          bidra till den strukturomvandling som Malmö genomgick på 80- och
-          90-talet. En högskola ansågs vara en nödvändig del i omvandlingsprocessen
-          från tung industristad till en mer kunskapsbaserad verksamhet.
-          Högskolans uppdrag innebar att verksamheten ska vara till stöd
-          för en positiv samhällsutveckling.
-        </p>
-        <p xml:id="i-U4k2HgeP1ajwFsLfpPB1kc">
-          Malmö kommun har både före och efter beslutet om att lokalisera
-          en högskola till Malmö genomfört betydande investeringar i mark,
-          infrastruktur med mera. Syftet med dessa investeringar var att
-          åstadkomma ett cityuniversitet och därmed positivt påverka själva
-          stadens utveckling. Vid sidan av dessa investeringar har också
-          Malmö stad medverkat till att öka tillgången på studentbostäder.
-          Bland annat har ett program som kommer att tillföra 1 500 nya
-          studentbostäder inom de närmaste åren presenterats. Staden har
-          också väsentligt bidragit till lokaler till kårhus med mera.
-        </p>
-        <p xml:id="i-PAjWsrb46VawpuGxyt6iCb">
-          Högskolan i Malmö har redan visat sig ge flera positiva effekter.
-          Utbildningsnivån har generellt sett ökat i staden. Så många som
-          33 % av eleverna har arbetarbakgrund och 24 % har utländsk bakgrund.
-          Denna statistik visar hur framgångsrik högskolan varit med sitt
-          uttalade mål att minska den etniska och sociala snedrekryteringen
-          till högre utbildning. Ingen högskola i landet kan presentera
-          bättre resultat på detta område.
-        </p>
-        <p xml:id="i-RGAwViQHQr2fUu98CW7sy1">
-          En avgörande faktor för en fortsatt stark ekonomisk utveckling
-          i Öresundsregionen är tillgången till välutbildad arbetskraft.
-          Här har naturligtvis utbildning på alla nivåer en avgörande betydelse.
-          Universitets- och högskoleutbildningarna i regionen har en strategisk
-          roll. Tillkomsten av Öresundsuniversitetet är ett uttryck för
-          detta.
-        </p>
-        <p xml:id="i-PmKzzam3Lzsuv4Gj8vyBaA">
-          Betraktar vi tillväxten i Skåne har den varit bättre än i landet
-          i övrigt. Prognosbedömningar, gjorda av Öresundsinstitutet, visar
-          en ekonomisk tillväxt (bruttoregionprodukt) under 2003 för Skåne
-          på 2,4 %. Motsvarande siffror för Köpenhamnsregionen och Stockholmsregionen
-          är 1,5 respektive 1,3 %. Sysselsättningen i Malmö har också ökat
-          med flera tusen. Samtidigt har arbetslösheten stigit under 2003.
-          Glädjande är dock att Malmö för ovanlighetens skull klarat sig
-          bättre än landet i stort.
-        </p>
-        <p xml:id="i-Y9KB6anc69CwbExHssDzDG">
-          Den här bilden understryker behovet av att Malmö högskola kan
-          fortsätta att växa och utvecklas, eftersom den har en tillväxtfrämjande
-          funktion. Det är en viktig signal till det omgivande samhället
-          att så sker, inte minst i relation till företag och näringsliv.
-          Tillgången till högre utbildning har stor betydelse för företags
-          och människors val av lokalisering. Det handlar både om att få
-          tillgång till utbildad arbetskraft och möjligheterna att ge ungdomar
-          god utbildning.
-        </p>
-        <p xml:id="i-xaWFmbqyXXS3QH8MjXNG6">
-          Men tanke på de positiva resultat högskolan har kunnat prestera
-          på kort tid, är det av stor vikt att lärosätet ges fortsatta möjligheter
-          att utvecklas och växa. Samtidigt har högskolan alltfler doktorander,
-          men de måste ha handledare och examineras vid något av landets
-          lärosäten med universitetsrättigheter. Frågan om framtida universitetsstatus
-          bör därför vägas in i denna bedömning.
-        </p>
-        <p xml:id="i-3nKx3SyHpB7i3GkGS6dsfX">
-          Mot bakgrund av ovanstående vill jag ställa följande frågor till
-          utbildningsministern:
-        </p>
-        <p xml:id="i-SpoNaEfRnLV8zDGbQqTPeh">
-          Vilka åtgärder avser ministern att vidta för att förstärka Malmö
-          högskolas möjligheter att också i fortsättningen vara en viktig
-          och positiv del i stadens utveckling?
-        </p>
-        <p xml:id="i-2EQpFMZHEgW5rNiqhN1Gaf">
-          Avser ministern att öka Malmö högskolas forskningsmöjligheter
-          i den omfattning att högskolan kan ges universitetsstatus?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-MTZJdw9cps315tPPMmAQsR">
+            För inte så många år sedan befann sig Malmö i ett synnerligen
+            bekymmersamt läge. Nedläggningen av de stora näringarna @ varvsindustri
+            och teko @ ledde till långvarigt hög arbetslöshet och fattigdom.
+            Det var då Malmö hamnade tillsammans med de värst utsatta Norrlandslänen
+            i arbetslöshets- och socialbidragsstatistiken. Malmö etablerade
+            sig också som landets mest segregerade stad. Skillnaden, mätt
+            i arbetslöshet, inkomst och hälsa, var oerhört markant, inte minst
+            malmöbor med invandrarbakgrund var särskilt utsatta @ uttryckt
+            i högre arbetslöshet, sämre inkomst, sämre psykisk och fysisk
+            hälsa, sämre boende med mera.
+          </p>
+          <p xml:id="i-LtXXr6XjKRPRutE3yVFrzk">
+            Ett av argumenten för att starta en högskola i Malmö var att
+            bidra till den strukturomvandling som Malmö genomgick på 80- och
+            90-talet. En högskola ansågs vara en nödvändig del i omvandlingsprocessen
+            från tung industristad till en mer kunskapsbaserad verksamhet.
+            Högskolans uppdrag innebar att verksamheten ska vara till stöd
+            för en positiv samhällsutveckling.
+          </p>
+          <p xml:id="i-NQfwnPdtMdHfAvRiEdbG8U">
+            Malmö kommun har både före och efter beslutet om att lokalisera
+            en högskola till Malmö genomfört betydande investeringar i mark,
+            infrastruktur med mera. Syftet med dessa investeringar var att
+            åstadkomma ett cityuniversitet och därmed positivt påverka själva
+            stadens utveckling. Vid sidan av dessa investeringar har också
+            Malmö stad medverkat till att öka tillgången på studentbostäder.
+            Bland annat har ett program som kommer att tillföra 1 500 nya
+            studentbostäder inom de närmaste åren presenterats. Staden har
+            också väsentligt bidragit till lokaler till kårhus med mera.
+          </p>
+          <p xml:id="i-GrGPmWrM76HeLYHincpPcW">
+            Högskolan i Malmö har redan visat sig ge flera positiva effekter.
+            Utbildningsnivån har generellt sett ökat i staden. Så många som
+            33 % av eleverna har arbetarbakgrund och 24 % har utländsk bakgrund.
+            Denna statistik visar hur framgångsrik högskolan varit med sitt
+            uttalade mål att minska den etniska och sociala snedrekryteringen
+            till högre utbildning. Ingen högskola i landet kan presentera
+            bättre resultat på detta område.
+          </p>
+          <p xml:id="i-36tRSv2fArV6rS4p8yXTEG">
+            En avgörande faktor för en fortsatt stark ekonomisk utveckling
+            i Öresundsregionen är tillgången till välutbildad arbetskraft.
+            Här har naturligtvis utbildning på alla nivåer en avgörande betydelse.
+            Universitets- och högskoleutbildningarna i regionen har en strategisk
+            roll. Tillkomsten av Öresundsuniversitetet är ett uttryck för
+            detta.
+          </p>
+          <p xml:id="i-9Zgp8YtW7mCo6C5ZAoNTXa">
+            Betraktar vi tillväxten i Skåne har den varit bättre än i landet
+            i övrigt. Prognosbedömningar, gjorda av Öresundsinstitutet, visar
+            en ekonomisk tillväxt (bruttoregionprodukt) under 2003 för Skåne
+            på 2,4 %. Motsvarande siffror för Köpenhamnsregionen och Stockholmsregionen
+            är 1,5 respektive 1,3 %. Sysselsättningen i Malmö har också ökat
+            med flera tusen. Samtidigt har arbetslösheten stigit under 2003.
+            Glädjande är dock att Malmö för ovanlighetens skull klarat sig
+            bättre än landet i stort.
+          </p>
+          <p xml:id="i-VFtk9YdRiSxFf7i4XcDfTR">
+            Den här bilden understryker behovet av att Malmö högskola kan
+            fortsätta att växa och utvecklas, eftersom den har en tillväxtfrämjande
+            funktion. Det är en viktig signal till det omgivande samhället
+            att så sker, inte minst i relation till företag och näringsliv.
+            Tillgången till högre utbildning har stor betydelse för företags
+            och människors val av lokalisering. Det handlar både om att få
+            tillgång till utbildad arbetskraft och möjligheterna att ge ungdomar
+            god utbildning.
+          </p>
+          <p xml:id="i-G5M28hAiPnhUwdaupdpRr5">
+            Men tanke på de positiva resultat högskolan har kunnat prestera
+            på kort tid, är det av stor vikt att lärosätet ges fortsatta möjligheter
+            att utvecklas och växa. Samtidigt har högskolan alltfler doktorander,
+            men de måste ha handledare och examineras vid något av landets
+            lärosäten med universitetsrättigheter. Frågan om framtida universitetsstatus
+            bör därför vägas in i denna bedömning.
+          </p>
+          <p xml:id="i-3axf58j8GE8f1uJmFETw1t">
+            Mot bakgrund av ovanstående vill jag ställa följande frågor till
+            utbildningsministern:
+          </p>
+          <p xml:id="i-XRBfd5JoDu9HhVpiQfnyLq">
+            Vilka åtgärder avser ministern att vidta för att förstärka Malmö
+            högskolas möjligheter att också i fortsättningen vara en viktig
+            och positiv del i stadens utveckling?
+          </p>
+          <p xml:id="i-DMhS2wTvkB1cJ15uJUzNEM">
+            Avser ministern att öka Malmö högskolas forskningsmöjligheter
+            i den omfattning att högskolan kan ges universitetsstatus?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,53 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>dödsstraffet</title>
+        <author>Stenmark, Rigmor (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>dödsstraffet till statsminister Göran Persson om dödsstraffet</title>
+          <idno type="rdwebb">GO1068</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO1068/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO1068</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO1068</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D33H5dL4TMdTn9ZXMMYEbb</idno>
+            <persName>Stenmark, Rigmor (c) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>statsminister Göran Persson </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <persName>utrikesminister Anna Lindh </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-Npqp6yuWik8Hhft8JdjWT2" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
+          <date when="2000-11-07"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PentxaCo8HPp1EdSfa7xea" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
+          <date when="2000-11-07"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-DWgzkjbpziw4wArW8cdhmz" corresp="i-D33H5dL4TMdTn9ZXMMYEbb">
+          <date when="2000-10-26"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0068</head>
-        <author who="i-D33H5dL4TMdTn9ZXMMYEbb">Stenmark, Rigmor (c) </author>
-        <recipient who="i-3kVCtR7mCK6mW2F6oaBMR5">statsminister Göran Persson </recipient>
-        <topic>dödsstraffet</topic>
-        <docDate when="2000-10-26">den 26 oktober</docDate>
-        <status when="unknown" byWhom="utrikesminister Anna Lindh " byWhomId="i-S7LcGmD5NuSMrFDW8LBeJ1" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO1068</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:68 av Rigmor Stenmark (c) till statsminister
-          Göran Persson om dödsstraffet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KUuiJR3Wmx1qEEHToKJ7pp">
+            Interpellation 2000/01:68 av Rigmor Stenmark (c) till statsminister
+            Göran Persson om dödsstraffet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LwfGYqDjiHND5DMfEZ8Cyp">
+            den 26 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-E9YtUHVEWW1pnw1XKiNEUn">
-          Inför det nära förestående presidentvalet i USA där en av kandidaterna,
-          Georg Bush, förespråkar dödsstraff, aktualiseras på nytt frågan:
-        </p>
-        <p xml:id="i-4pX1kgDtCTxy6Kdhx66atd">
-          Vilka åtgärder kommer Sverige att vidta för att förmå länder
-          med dödsstraff att förbjuda detta straff?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5nrLfkpYhUyMNV7ph3VHYM">
+            Inför det nära förestående presidentvalet i USA där en av kandidaterna,
+            Georg Bush, förespråkar dödsstraff, aktualiseras på nytt frågan:
+          </p>
+          <p xml:id="i-Jpa1Adav6RuSYiaDssfr8B">
+            Vilka åtgärder kommer Sverige att vidta för att förmå länder
+            med dödsstraff att förbjuda detta straff?
+          </p>
+        </div>
       </div>
     </body>
   </text>

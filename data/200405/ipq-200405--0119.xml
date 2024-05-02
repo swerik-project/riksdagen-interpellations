@@ -3,106 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>räddningshelikoptrar i Stockholms skärgård</title>
+        <author>de Pourbaix-Lundin, Marietta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>räddningshelikoptrar i Stockholms skärgård till försvarsminister Leni Björklund om räddningshelikoptrar i Stockholms skärgård</title>
+          <idno type="rdwebb">GS10119</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10119/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10119</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10119</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
+            <persName>Marietta de Pourbaix-Lundin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CcdZckB2ErC625pmVtogZg</idno>
+            <persName>Leni Björklund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TcecxRBwSXkeAH3Ls7qeoD" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
+          <date when="2004-11-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8LJkTvUyfTmpUyp48mta8B">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-AEeRZ7hg5SUTDsWYfuPSsr">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EjDt5RXx6QnGKrTUMYF32a" corresp="i-CcdZckB2ErC625pmVtogZg">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DNVnxfohVfebWkz6GjLrk7" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-11-18"/>
+        </correspAction>
+        <correspContext corresp="i-DNVnxfohVfebWkz6GjLrk7">
+          <ref type="record" target="prot-200405--032">Riksdagens protokoll 2004/05:32 Torsdagen den 18 november</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:119 om räddningshelikoptrar i Stockholms skärgård</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0119</head>
-        <author who="i-9Kt7koTgzUZUA9ovNXYdWj">Marietta de Pourbaix-Lundin</author>
-        <recipient who="i-CcdZckB2ErC625pmVtogZg">Leni Björklund</recipient>
-        <topic>räddningshelikoptrar i Stockholms skärgård</topic>
-        <docDate when="2004-11-02">den 2 november</docDate>
-        <status when="2004-11-18" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10119</external_id>
-        <debate>
-          <turn when="2004-11-18 15:02:22" duration="216">Ulrica Messing (S)</turn>
-          <turn when="2004-11-18 15:05:48" duration="132">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 15:07:51" duration="81">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 15:09:03" duration="253">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-18 15:13:12" duration="194">Ulrica Messing (S)</turn>
-          <turn when="2004-11-18 15:16:22" duration="202">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 15:19:33" duration="113">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-18 15:21:23" duration="166">Krister Örnfjäder (S)</turn>
-          <turn when="2004-11-18 15:24:02" duration="136">Ulrica Messing (S)</turn>
-          <turn when="2004-11-18 15:26:10" duration="151">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2004-11-18 15:28:37" duration="80">Ulrica Messing (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:119 av Marietta de Pourbaix-Lundin (m)
-          till försvarsminister Leni Björklund om räddningshelikoptrar i
-          Stockholms skärgård
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-USFwZ3y2d4qGwLexULqzpS">
+            Interpellation 2004/05:119 av Marietta de Pourbaix-Lundin (m)
+            till försvarsminister Leni Björklund om räddningshelikoptrar i
+            Stockholms skärgård
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-L85WAthxQ2aAMuNtYCzY74">
+            den 2 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-8MYbvcFmd1e3Kkc2T1yArP">
-          För min del handlar en levande skärgård om mer än fina ord i
-          högtidstal. Jag vill ha en levande skärgård året runt. Tryggheten
-          är då en viktig fråga. Det gäller inte bara för den bofasta befolkningen,
-          utan också alla de hundratusentals människor som vistas i den,
-          främst under sommarmånaderna.
-        </p>
-        <p xml:id="i-F49ZYse7mR2LmwtXdmfr9i">
-          Det finns en uppenbar risk att Stockholms skärgård helt kommer
-          att sakna räddningshelikoptrar. Var de närmaste räddningshelikoptrarna
-          kommer att vara stationerade är svårt att i dagsläget få grepp
-          om. De kommer av allt att döma inte att finnas i Stockholmsområdet.
-          Om det händer något i Stockholms skärgård så kommer sannolikt
-          räddningshelikoptrarna att komma från Visby, Sundsvall, Ronneby
-          eller Linköping. Insatstiden är helt avgörande i många räddningssituationer.
-          I detta scenario kommer den att ligga på en timme eller mer.
-        </p>
-        <p xml:id="i-PEkee84j4vX5GeZZTgKiEn">
-          På senare tid har ett antal olyckor och tillbud i Stockholms
-          skärgård fått ett lyckligt slut tack vare att räddningshelikoptrar
-          har funnits stationerade på Berga. Vid Estoniakatastrofen för
-          tio år sedan kunde ett antal människoliv räddas av helikoptrarna
-          från Berga.
-        </p>
-        <p xml:id="i-U3EhBFhFTm8aZJ8p4p7DCN">
-          Flera myndigheter är inblandade i denna räddningsverksamhet,
-          till exempel Försvarsmakten, Sjöfartsverket och Luftfartsverket.
-          När det kommer till kritan tycks det dock inte finnas någon samordning
-          över huvud taget dem emellan. Detta kan, om det vill sig riktigt
-          illa, komma att få till följd att Stockholms skärgård står helt
-          utan räddningshelikoptrar.
-        </p>
-        <p xml:id="i-9Muw7Wew12ykfXkZTd5cJr">
-          1. Vilka åtgärder avser ministern att vidta för att boende och
-          besökande i Stockholm skärgård även i framtiden ska känna trygghet
-          om någon olycka inträffar?
-        </p>
-        <p xml:id="i-jMDGqSJ5ZPZYEkaMQJKgC">
-          2. Vilka åtgärder avser ministern att vidta för att säkerställa
-          att Stockholm skärgård även i framtiden ska ha tillgång till räddningshelikoptrar
-          med en rimlig insatstid?
-        </p>
-        <p xml:id="i-DqpJWt19YrBMMGUUXz7Z5q">
-          3. Vilka åtgärder avser ministern att vidta för att säkerställa
-          en samordning mellan olika myndigheters beslut vad avser helikoptertillgången
-          i Stockholms skärgård?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-A6vvBWdWDAAZpna2BE1MUd">
+            För min del handlar en levande skärgård om mer än fina ord i
+            högtidstal. Jag vill ha en levande skärgård året runt. Tryggheten
+            är då en viktig fråga. Det gäller inte bara för den bofasta befolkningen,
+            utan också alla de hundratusentals människor som vistas i den,
+            främst under sommarmånaderna.
+          </p>
+          <p xml:id="i-6vzfGwxDH5ss7ouhAQVkQW">
+            Det finns en uppenbar risk att Stockholms skärgård helt kommer
+            att sakna räddningshelikoptrar. Var de närmaste räddningshelikoptrarna
+            kommer att vara stationerade är svårt att i dagsläget få grepp
+            om. De kommer av allt att döma inte att finnas i Stockholmsområdet.
+            Om det händer något i Stockholms skärgård så kommer sannolikt
+            räddningshelikoptrarna att komma från Visby, Sundsvall, Ronneby
+            eller Linköping. Insatstiden är helt avgörande i många räddningssituationer.
+            I detta scenario kommer den att ligga på en timme eller mer.
+          </p>
+          <p xml:id="i-6pHXPeS3KbhM6ghkU3QHrr">
+            På senare tid har ett antal olyckor och tillbud i Stockholms
+            skärgård fått ett lyckligt slut tack vare att räddningshelikoptrar
+            har funnits stationerade på Berga. Vid Estoniakatastrofen för
+            tio år sedan kunde ett antal människoliv räddas av helikoptrarna
+            från Berga.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Ji21btE4qvb61DsrWm2wp">
+            Flera myndigheter är inblandade i denna räddningsverksamhet,
+            till exempel Försvarsmakten, Sjöfartsverket och Luftfartsverket.
+            När det kommer till kritan tycks det dock inte finnas någon samordning
+            över huvud taget dem emellan. Detta kan, om det vill sig riktigt
+            illa, komma att få till följd att Stockholms skärgård står helt
+            utan räddningshelikoptrar.
+            <list rend="unordered">
+              <item>
+                1.Vilka åtgärder avser ministern att vidta för att boende och
+                besökande i Stockholm skärgård även i framtiden ska känna trygghet
+                om någon olycka inträffar?
+              </item>
+              <item>
+                2.Vilka åtgärder avser ministern att vidta för att säkerställa
+                att Stockholm skärgård även i framtiden ska ha tillgång till räddningshelikoptrar
+                med en rimlig insatstid?
+              </item>
+              <item>
+                3.Vilka åtgärder avser ministern att vidta för att säkerställa
+                en samordning mellan olika myndigheters beslut vad avser helikoptertillgången
+                i Stockholms skärgård?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,121 +3,154 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>likvärdiga betyg </title>
+        <author>Nilsson, Ulf (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>likvärdiga betyg  till utbildningsminister Thomas Östros om likvärdiga betyg </title>
+          <idno type="rdwebb">GR10529</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10529/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10529</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10529</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
+            <persName>Ulf Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4wSPWeqevPx6UEyKD9rrmS" corresp="i-nX9ipUS8FhkbQHkWWytwf">
+          <date when="2004-05-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-X69LXn2TAiut7kWysAyFTE" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-U2u6Z72uaUCgBi1Wxz78EB">
+          <date when="2004-06-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-R1S7gKy4Dc7hP3R8Qs6Sb4" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-06-14"/>
+        </correspAction>
+        <correspContext corresp="i-R1S7gKy4Dc7hP3R8Qs6Sb4">
+          <ref type="record" target="prot-200304--127">Riksdagens protokoll 2003/04:127 Måndagen den 14 juni</ref>
+          <ref type="recordSection" target="unsetDivId">15 § Svar på interpellation 2003/04:529 om likvärdiga betyg</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0529</head>
-        <author who="i-nX9ipUS8FhkbQHkWWytwf">Ulf Nilsson</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>likvärdiga betyg </topic>
-        <docDate when="2004-05-19">den 19 maj</docDate>
-        <status when="2004-06-14" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10529</external_id>
-        <debate>
-          <turn when="2004-06-14 13:07:27" duration="313">Thomas Östros (S)</turn>
-          <turn when="2004-06-14 13:12:31" duration="260">Ulf Nilsson (Fp)</turn>
-          <turn when="2004-06-14 13:16:47" duration="234">Thomas Östros (S)</turn>
-          <turn when="2004-06-14 13:20:32" duration="194">Ulf Nilsson (Fp)</turn>
-          <turn when="2004-06-14 13:23:42" duration="162">Thomas Östros (S)</turn>
-          <turn when="2004-06-14 13:26:21" duration="128">Ulf Nilsson (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:529 av Ulf Nilsson (fp) till utbildningsminister
-          Thomas Östros om likvärdiga betyg
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Wk7ecsKvZaj1bVTKAQv4DR">
+            Interpellation 2003/04:529 av Ulf Nilsson (fp) till utbildningsminister
+            Thomas Östros om likvärdiga betyg
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-7cxwADrdKtbopz7HaSCyms">
+            den 19 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-R8PMNxpbSXgEbQW1z54EEM">
-          Hösten 2003 lämnade Skolverket en redovisning om nationella prov
-          och betyg till regeringen. Där framkom att betygen i den svenska
-          skolan inte sätts på ett likvärdigt och rättvist sätt. Nu har
-          mer än ett halvt år gått, och många väntar på att Utbildningsdepartementet
-          ska ta ett initiativ för att rätta till bristerna.
-        </p>
-        <p xml:id="i-71X6KUgpuwh8EDCJ2G8BK8">
-          En förutsättning för att en elev ska få det stöd han eller hon
-          har rätt till i skolan är att elevens resultat blir korrekt utvärderade.
-          Varje elev som skickas vidare genom skolan med endast på papperet
-          godkända betyg luras på sin rätt till stöd. Betygen är också viktiga
-          i utvärderingen av skolans och lärarnas arbete. Slutligen ligger
-          betygen till grund för urvalet vid antagning till gymnasieskola
-          och högskola. Det borde vara en självklar prioritering att arbeta
-          för att betygen sätts på ett likvärdigt och rättvist sätt.
-        </p>
-        <p xml:id="i-Q51LzKNJbQHZuvXwPLhn41">
-          I Skolverkets redovisning framkom att många elever inte gör de
-          nationella proven eller bara gör delar av proven. Fullständiga
-          provresultat finns endast för drygt två tredjedelar av grundskoleeleverna
-          i urvalet och i gymnasiet är bortfallet ännu större. Det nationella
-          provet ska naturligtvis inte avgöra en enskild elevs hela betyg,
-          men proven ska vara ett stöd för läraren när han eller hon bedömer
-          sina elevers prestationer. Därför är det anmärkningsvärt att Skolverket
-          rapporterar att ungefär en fjärdedel av eleverna har slutbetyg
-          som avviker från provbetygen i svenska, engelska och matematik.
-          När skillnaderna är så stora tyder det på att felaktiga betyg
-          blivit satta.
-        </p>
-        <p xml:id="i-9rUe4esEXrzAhU7gXmqyV1">
-          Det kanske allra mest oroande är att variationen mellan skolor
-          är mycket stor när det gäller hur nära man ligger provresultaten
-          vid betygssättningen. Eleverna har anledning att känna stor oro
-          för likvärdigheten och rättvisan i prov- och betygssystemet.
-        </p>
-        <p xml:id="i-HiYJgV9VD3QmJCevp7CsCh">
-          Riksrevisionen utför för närvarande en granskning som snart väntas
-          vara klar. Det är utmärkt, eftersom det behövs en noggrann undersökning
-          av om betygen motsvarar de krav som betygskriterierna anger. Riksrevisionen
-          ska dock inte ta upp gymnasieskolan i sin granskning, och det
-          borde därför finnas anledning för regeringen att själv initiera
-          en utredning om de nationella proven och betygen i gymnasieskolan.
-        </p>
-        <p xml:id="i-N7tvtuAFWPAqNazwCKztqJ">
-          Betygen ska sättas på likvärdiga grunder över hela landet. Därför
-          har Folkpartiet lämnat ett antal förslag för att stärka likvärdigheten
-          i betygssättningen. Vi föreslår att de nationella proven verkligen
-          används för att skapa jämförbarhet mellan skolorna vid betygssättningen
-          och att Skolverket skärper kontrollen av att proven genomförs
-          och skickas in. Dessutom menar vi att externa examinatorer skulle
-          vara en möjlighet att stärka likvärdigheten och därmed också rättssäkerheten
-          för eleverna. Därför har vi föreslagit att ett geografiskt begränsat
-          försök med externa examinationer genomförs. En extern examination
-          kan ligga till grund för hela eller delar av elevens betyg, och
-          examinatorerna kan vara statliga inspektörer eller lärare från
-          andra skolor. Med en utomstående bedömare kan man få mer tillförlitliga
-          data om hur väl eleverna lyckas och samtidigt större möjligheter
-          att rikta resurser dit de bäst behövs.
-        </p>
-        <p xml:id="i-ComV6P49B2M68chLg26nRb">
-          Med anledning av uppgifterna om bristande likvärdighet i betygssättningen
-          vill jag ställa följande fråga till utbildningsministern:
-        </p>
-        <p xml:id="i-MuHBtokjYcG5t7LrLy7jKs">
-          Avser utbildningsministern att vidta några åtgärder för att stärka
-          likvärdigheten i det svenska betygssystemet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Ro13y1RkygiK6ooLBrXRf4">
+            Hösten 2003 lämnade Skolverket en redovisning om nationella prov
+            och betyg till regeringen. Där framkom att betygen i den svenska
+            skolan inte sätts på ett likvärdigt och rättvist sätt. Nu har
+            mer än ett halvt år gått, och många väntar på att Utbildningsdepartementet
+            ska ta ett initiativ för att rätta till bristerna.
+          </p>
+          <p xml:id="i-6sPtP7RmjPDCFaHfJwQKod">
+            En förutsättning för att en elev ska få det stöd han eller hon
+            har rätt till i skolan är att elevens resultat blir korrekt utvärderade.
+            Varje elev som skickas vidare genom skolan med endast på papperet
+            godkända betyg luras på sin rätt till stöd. Betygen är också viktiga
+            i utvärderingen av skolans och lärarnas arbete. Slutligen ligger
+            betygen till grund för urvalet vid antagning till gymnasieskola
+            och högskola. Det borde vara en självklar prioritering att arbeta
+            för att betygen sätts på ett likvärdigt och rättvist sätt.
+          </p>
+          <p xml:id="i-GqJ4SfQoLBRmfiXJVpzch4">
+            I Skolverkets redovisning framkom att många elever inte gör de
+            nationella proven eller bara gör delar av proven. Fullständiga
+            provresultat finns endast för drygt två tredjedelar av grundskoleeleverna
+            i urvalet och i gymnasiet är bortfallet ännu större. Det nationella
+            provet ska naturligtvis inte avgöra en enskild elevs hela betyg,
+            men proven ska vara ett stöd för läraren när han eller hon bedömer
+            sina elevers prestationer. Därför är det anmärkningsvärt att Skolverket
+            rapporterar att ungefär en fjärdedel av eleverna har slutbetyg
+            som avviker från provbetygen i svenska, engelska och matematik.
+            När skillnaderna är så stora tyder det på att felaktiga betyg
+            blivit satta.
+          </p>
+          <p xml:id="i-DAdisVyKT6YDGGDUBWEL3A">
+            Det kanske allra mest oroande är att variationen mellan skolor
+            är mycket stor när det gäller hur nära man ligger provresultaten
+            vid betygssättningen. Eleverna har anledning att känna stor oro
+            för likvärdigheten och rättvisan i prov- och betygssystemet.
+          </p>
+          <p xml:id="i-F7vTW4hqN359LnZRhQEtZF">
+            Riksrevisionen utför för närvarande en granskning som snart väntas
+            vara klar. Det är utmärkt, eftersom det behövs en noggrann undersökning
+            av om betygen motsvarar de krav som betygskriterierna anger. Riksrevisionen
+            ska dock inte ta upp gymnasieskolan i sin granskning, och det
+            borde därför finnas anledning för regeringen att själv initiera
+            en utredning om de nationella proven och betygen i gymnasieskolan.
+          </p>
+          <p xml:id="i-9XEexprKcQ581AW5kDiWFb">
+            Betygen ska sättas på likvärdiga grunder över hela landet. Därför
+            har Folkpartiet lämnat ett antal förslag för att stärka likvärdigheten
+            i betygssättningen. Vi föreslår att de nationella proven verkligen
+            används för att skapa jämförbarhet mellan skolorna vid betygssättningen
+            och att Skolverket skärper kontrollen av att proven genomförs
+            och skickas in. Dessutom menar vi att externa examinatorer skulle
+            vara en möjlighet att stärka likvärdigheten och därmed också rättssäkerheten
+            för eleverna. Därför har vi föreslagit att ett geografiskt begränsat
+            försök med externa examinationer genomförs. En extern examination
+            kan ligga till grund för hela eller delar av elevens betyg, och
+            examinatorerna kan vara statliga inspektörer eller lärare från
+            andra skolor. Med en utomstående bedömare kan man få mer tillförlitliga
+            data om hur väl eleverna lyckas och samtidigt större möjligheter
+            att rikta resurser dit de bäst behövs.
+          </p>
+          <p xml:id="i-N92V821E652j4f3vSmZZCU">
+            Med anledning av uppgifterna om bristande likvärdighet i betygssättningen
+            vill jag ställa följande fråga till utbildningsministern:
+          </p>
+          <p xml:id="i-PPC7YxFM4fbMZei7fJiDad">
+            Avser utbildningsministern att vidta några åtgärder för att stärka
+            likvärdigheten i det svenska betygssystemet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

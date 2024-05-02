@@ -3,102 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Oskarshamn</title>
+        <author>Eva Goés (mp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:301 av Eva Goés (mp) till miljöministern om Oskarshamn</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_292.pdf</ref>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_293.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Eva Goés (mp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>mp</desc>
+            </state>
+            <idno>i-5orH1EJN5hP5LGxnLXboj2</idno>
+          </person>
+          <person gender="woman">
+            <persName>miljöministern</persName>
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-E1z3YLd7G916BcJSZ5oXmr" corresp="i-5orH1EJN5hP5LGxnLXboj2">
+          <date when="1996-05-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-71QUEjqn5F9oLFYxGv9LxA">
+          <note>date unknown</note>
+          <name>miljöministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-QeF7WKWKB7qrrqcbNLJF5B">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RZKr1emFtSWEhT8QSYpqzX">
+          <date when="1996-05-30"/>
+        </correspAction>
+        <correspContext corresp="i-RZKr1emFtSWEhT8QSYpqzX">
+          <ref type="record" target="prot-199697--111">Prot. 1996/97:111</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:301</head>
-        <author who="i-5orH1EJN5hP5LGxnLXboj2">Eva Goés (mp)</author>
-        <minister who="unknown">miljöministern</minister>
-        <topic>Oskarshamn</topic>
-        <docDate when="1997-05-07">Inkom den 7 maj</docDate>
-        <status inProtocol="199697/prot-199697--111.xml" when="1997-05-30" status="answered">Besvarad den 30 maj, Prot. 1996/97:111</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:301 av Eva Goés (mp) till miljöministern
-          om Oskarshamn
-        </IPQ_title>
-        <submission_info>
-          Inkom den 7 majBesvarad den 30 maj Prot. 1996/97:111
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-3FSQb3gsJwU1PbPncGRWWU">
+            Interpellation 1996/97:301 av Eva Goés (mp) till miljöministern
+            om Oskarshamn
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Qq1gZ3GjD9Rkrk3ys3kFds">
+            Inkom den 7 maj : Besvarad den 30 maj Prot. 1996/97:111
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-7LRtsyz7UeyXgNNszyThV7">
-          När Oskarshamn 2 skulle kopplas in efter revision den 11 november,
-          visade det sig att sprinklersystemet inte fungerade. När orsaken
-          till felet kontrollerades upptäckte man att frånskiljaren till
-          pumparna var öppna. Vid ordinarie periodisk provning av sprinklersystemet
-          för reaktorhärden startade inte någon av de två pumparna. Under
-          närmare en veckas tid
-        </p>
-        <note type="margin" xml:id="i-KwqTKQByrU8rZXimjEgqpU">
-          Interpellationer1996/97:1 -372
-        </note>
-        <note type="pageNumber" xml:id="i-3cUWuA3tZ9KQPvbi3EBFEX">
-          293
-        </note>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_293.pdf"/>
-        <note type="margin" xml:id="i-M9k26zQejwsAvycojFPEk2">
-          Interpellationer1996/97:1 -372
-        </note>
-        <p xml:id="i-XL2YG1TSX3gx1Rq1rW79W6">
-          gick systemet utan detta sprinklersystem inkopplat! Detta kunde
-          ha orsa­kat en härdsmälta och riskerat miljoner människors liv
-          och hälsa.
-        </p>
-        <p xml:id="i-AdkbiYHX5eVo4NtBQsQfiv">
-          Händelsen har också följdriktigt klassats som 2 på INES-skalan.I
-          dagarna har SKI presenterat en rapport angående händelsen. De
-          på­pekar att personalen har stridit mot de säkerhetstekniska föreskrifterna
-          och kärntekniklagen ändå ämnar man inte åtala ägarna. Motivet
-          skulle vara att det skulle motverka de goda relationer som upprättats
-          om öppet erfarenhetsutbyte kring inträffade händelser mellan kärnkraftsägarna
-          och SKI, enligt SKI-chefen Lars Högberg.
-        </p>
-        <p xml:id="i-McxbBY8fEKTBLCYKh8DPtb">
-          Trots den allvarliga händelsen och att man erkänt att detta är
-          ett brott mot kärntekniklagen, låter SKI det hela gå vidare utan
-          åtal. Detta är inte första gången som allvarliga händelser inträffat
-          i Sverige. Det innebär att när det gäller kärnkraften och dess
-          säkerhet, så är det inte viktigt att följa gällande lagar.
-        </p>
-        <p xml:id="i-Lmd43YVwJi4GerDyz36oiR">
-          Med anledning av ovanstående vill jag fråga miljöministern:
-        </p>
-        <p xml:id="i-5DM8i1kqgmRMKWB7UU3jeo">
-          - Vad avser miljöministern vidta för åtgärder med anledning av
-          denna allvarliga händelse?
-        </p>
-        <p xml:id="i-RiNmNjRzJe3DXySvWZ5TF8">
-          - Avser ministern arbeta för att förändra delegationsordningen
-          gällande ansvar för svensk kärnsäkerhet?
-        </p>
-        <p xml:id="i-9APk9ACdfWm939pYyhdE12">
-          - Avser ministern verka för att få till stånd tydligare lagstiftning
-          vad gäller de säkerhetstekniska föreskrifterna för kärnkraftsindustrin?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_294.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Wg4erA3bwMbNP7o3AGPKLx">
+            När Oskarshamn 2 skulle kopplas in efter revision den 11 november,
+            visade det sig att sprinklersystemet inte fungerade. När orsaken
+            till felet kontrollerades upptäckte man att frånskiljaren till
+            pumparna var öppna. Vid ordinarie periodisk provning av sprinklersystemet
+            för reaktorhärden startade inte någon av de två pumparna. Under
+            närmare en veckas tid
+          </p>
+          <note xml:id="i-7Z1cADWjiheskkWKbpr6EF" type="margin">
+            Interpellationer1996/97:1 -372
+          </note>
+          <note xml:id="i-C6EvMw89Gim72PRnMMdnNr" type="pageNumber">
+            293
+          </note>
+          <note xml:id="i-2ScrwxzK5RicJdxw4wugiy" type="margin">
+            Interpellationer1996/97:1 -372
+          </note>
+          <p xml:id="i-FkYn2aenR5LR8dTHdx9Dzo">
+            gick systemet utan detta sprinklersystem inkopplat! Detta kunde
+            ha orsa­kat en härdsmälta och riskerat miljoner människors liv
+            och hälsa.
+          </p>
+          <p xml:id="i-MbK9PKKCyfXi7hpWKXeRco">
+            Händelsen har också följdriktigt klassats som 2 på INES-skalan.I
+            dagarna har SKI presenterat en rapport angående händelsen. De
+            på­pekar att personalen har stridit mot de säkerhetstekniska föreskrifterna
+            och kärntekniklagen ändå ämnar man inte åtala ägarna. Motivet
+            skulle vara att det skulle motverka de goda relationer som upprättats
+            om öppet erfarenhetsutbyte kring inträffade händelser mellan kärnkraftsägarna
+            och SKI, enligt SKI-chefen Lars Högberg.
+          </p>
+          <p xml:id="i-QU9Sdv6p26xNA4d79mmgvE">
+            Trots den allvarliga händelsen och att man erkänt att detta är
+            ett brott mot kärntekniklagen, låter SKI det hela gå vidare utan
+            åtal. Detta är inte första gången som allvarliga händelser inträffat
+            i Sverige. Det innebär att när det gäller kärnkraften och dess
+            säkerhet, så är det inte viktigt att följa gällande lagar.
+          </p>
+          <p xml:id="i-PcTEJAQ4nJ8gggiZmjmKXC">
+            Med anledning av ovanstående vill jag fråga miljöministern:
+          </p>
+          <p xml:id="i-BeEz6XKR9bPi9dazMmamGN">
+            - Vad avser miljöministern vidta för åtgärder med anledning av
+            denna allvarliga händelse?
+          </p>
+          <p xml:id="i-4QEurHDHNV1n198ewSpDQE">
+            - Avser ministern arbeta för att förändra delegationsordningen
+            gällande ansvar för svensk kärnsäkerhet?
+          </p>
+          <p xml:id="i-X26FrQ3ACKZ7Ba8JELhjwB">
+            - Avser ministern verka för att få till stånd tydligare lagstiftning
+            vad gäller de säkerhetstekniska föreskrifterna för kärnkraftsindustrin?
+          </p>
+        </div>
       </div>
     </body>
   </text>

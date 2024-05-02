@@ -3,101 +3,133 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>EU-information</title>
+        <author>Stenmark, Rigmor (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>EU-information till utrikesminister Laila Freivalds om EU-information</title>
+          <idno type="rdwebb">GS10421</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10421/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10421</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10421</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-D33H5dL4TMdTn9ZXMMYEbb</idno>
+            <persName>Rigmor Stenmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <persName>Laila Freivalds</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Hu5vpNF6LzFnR8Vtd7mtcU" corresp="i-D33H5dL4TMdTn9ZXMMYEbb">
+          <date when="2005-02-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DvoWvfpZVb4yNdAXSw6yd1" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QCF7dn67q9AYYnvCBR75y8">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FkuhvrPKw5hL2nxwx3pF3Y" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2005-03-08"/>
+        </correspAction>
+        <correspContext corresp="i-FkuhvrPKw5hL2nxwx3pF3Y">
+          <ref type="record" target="prot-200405--086">Riksdagens protokoll 2004/05:86 Tisdagen den 8 mars</ref>
+          <ref type="recordSection" target="unsetDivId">4 § Svar på interpellation 2004/05:421 om EU-information</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0421</head>
-        <author who="i-D33H5dL4TMdTn9ZXMMYEbb">Rigmor Stenmark</author>
-        <recipient who="i-4CwyNH4xXJhZj5wdBAzmSY">Laila Freivalds</recipient>
-        <topic>EU-information</topic>
-        <docDate when="2005-02-23">den 23 februari</docDate>
-        <status when="2005-03-08" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10421</external_id>
-        <debate>
-          <turn when="2005-03-08 13:33:30" duration="291">Bosse Ringholm (S)</turn>
-          <turn when="2005-03-08 13:38:17" duration="277">Rigmor Stenmark (C)</turn>
-          <turn when="2005-03-08 13:42:49" duration="127">Bosse Ringholm (S)</turn>
-          <turn when="2005-03-08 13:44:53" duration="272">Rigmor Stenmark (C)</turn>
-          <turn when="2005-03-08 13:49:21" duration="198">Bosse Ringholm (S)</turn>
-          <turn when="2005-03-08 13:52:37" duration="149">Rigmor Stenmark (C)</turn>
-          <turn when="2005-03-08 13:55:01" duration="72">Bosse Ringholm (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:421 av Rigmor Stenmark (c) till utrikesminister
-          Laila Freivalds om EU-information
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-66Ffr8XBHsZdFXaq2WhBJA">
+            Interpellation 2004/05:421 av Rigmor Stenmark (c) till utrikesminister
+            Laila Freivalds om EU-information
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-QbQzvF8NGRLsJyuvtuTkFc">
+            den 23 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NDH6AwB2iEXbWsj3RXokne">
-          I dag finns det 17 EU-informationskontor i Sverige. De heter
-          antingen Carrefour eller Info Point. Finansieringen av dessa kontor
-          kommer till större delen från kommuner och regionala myndigheter
-          och organ. Någon regelbunden nationell finansiering förekommer
-          inte. Jag finner det anmärkningsvärt eftersom det är en nationell
-          angelägenhet att våra medborgare har god och nära tillgång till
-          information om vårt medlemskap i Europeiska unionen.
-        </p>
-        <p xml:id="i-CT7A6QvjK84Fz1WaVYytQa">
-          Riksdagens EU-upplysning är värdefull, men den når inte folket
-          på samma sätt som de lokala kontoren ute i landet. Carrefour och
-          Info Point finns lokalt och regionalt och har en direkt förankring
-          hos befolkningen. De samtalar direkt med såväl unga som vuxna.
-          De besöker skolor och arbetar med lokala nätverk, företagsorganisationer
-          samt även med förtroendevalda och myndigheter.
-        </p>
-        <p xml:id="i-YXsoUTNNrv8JzVurJtKqez">
-          I riksdagen anordnades för en tid sedan en träff där EU-frågorna
-          diskuterades. Även kommissionär Margot Wallström deltog och hon
-          framförde det viktiga i att alla nås av aktuell och korrekt information
-          om EU. Vid en direkt förfrågan om finansiering av de lokala EU-kontoren
-          bekräftade hon att förhandlingar inletts.
-        </p>
-        <p xml:id="i-TEs5AY8mAq2gZM3PhaGnWK">
-          I valet till Europaparlamentet samt vid EMU-omröstningen var
-          intresset att delta i valen katastrofalt dåligt. Ett av skälen
-          människor anförde som skäl till att inte delta i valen var att
-          de inte hade tillräcklig kunskap i EU-frågorna. Vi måste på nationell
-          nivå arbeta intensivare med att se till så att människor får kunskap
-          om EU samt att vi även får en öppnare och sakligare debatt kring
-          vad EU är och vad EU gör. Tillgången till informationskontor ute
-          i landet är en viktig insats i strävan att ge alla människor en
-          möjlighet att skaffa sig denna sakliga information.
-        </p>
-        <p xml:id="i-T1mL5YWoAVBg8Ce2Kr8CSq">
-          Vi måste få folk att förstå att vi är européer och därmed ansvariga
-          även för den politik som förs i EU-parlamentet.
-        </p>
-        <p xml:id="i-RP72NuFqCETzCApFztWjRU">
-          Min fråga till utrikesministern är därför:
-        </p>
-        <p xml:id="i-WfcbFhgDmhfSo8yfsXLboB">
-          På vilket sätt avser ministern att se till så att de lokala EU-kontoren
-          ges förutsättningar att fortsätta sitt viktiga arbete att föra
-          ut en saklig och korrekt information om EU-frågorna till folket?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-VobYBXc7jHmRdGmbWC3na3">
+            I dag finns det 17 EU-informationskontor i Sverige. De heter
+            antingen Carrefour eller Info Point. Finansieringen av dessa kontor
+            kommer till större delen från kommuner och regionala myndigheter
+            och organ. Någon regelbunden nationell finansiering förekommer
+            inte. Jag finner det anmärkningsvärt eftersom det är en nationell
+            angelägenhet att våra medborgare har god och nära tillgång till
+            information om vårt medlemskap i Europeiska unionen.
+          </p>
+          <p xml:id="i-SP1o84EUwXotnR7TxCctPj">
+            Riksdagens EU-upplysning är värdefull, men den når inte folket
+            på samma sätt som de lokala kontoren ute i landet. Carrefour och
+            Info Point finns lokalt och regionalt och har en direkt förankring
+            hos befolkningen. De samtalar direkt med såväl unga som vuxna.
+            De besöker skolor och arbetar med lokala nätverk, företagsorganisationer
+            samt även med förtroendevalda och myndigheter.
+          </p>
+          <p xml:id="i-VEN6tuiTxtyDTDox3pPioz">
+            I riksdagen anordnades för en tid sedan en träff där EU-frågorna
+            diskuterades. Även kommissionär Margot Wallström deltog och hon
+            framförde det viktiga i att alla nås av aktuell och korrekt information
+            om EU. Vid en direkt förfrågan om finansiering av de lokala EU-kontoren
+            bekräftade hon att förhandlingar inletts.
+          </p>
+          <p xml:id="i-2ddxzcytE7aZ6f6WbARTeQ">
+            I valet till Europaparlamentet samt vid EMU-omröstningen var
+            intresset att delta i valen katastrofalt dåligt. Ett av skälen
+            människor anförde som skäl till att inte delta i valen var att
+            de inte hade tillräcklig kunskap i EU-frågorna. Vi måste på nationell
+            nivå arbeta intensivare med att se till så att människor får kunskap
+            om EU samt att vi även får en öppnare och sakligare debatt kring
+            vad EU är och vad EU gör. Tillgången till informationskontor ute
+            i landet är en viktig insats i strävan att ge alla människor en
+            möjlighet att skaffa sig denna sakliga information.
+          </p>
+          <p xml:id="i-A7WbPqnYgwYydb5C4QcNUY">
+            Vi måste få folk att förstå att vi är européer och därmed ansvariga
+            även för den politik som förs i EU-parlamentet.
+          </p>
+          <p xml:id="i-QxjJTh4E64bm8mPLpEvksf">
+            Min fråga till utrikesministern är därför:
+          </p>
+          <p xml:id="i-DXZsMHeKzNrFUnLnfn4hUV">
+            På vilket sätt avser ministern att se till så att de lokala EU-kontoren
+            ges förutsättningar att fortsätta sitt viktiga arbete att föra
+            ut en saklig och korrekt information om EU-frågorna till folket?
+          </p>
+        </div>
       </div>
     </body>
   </text>

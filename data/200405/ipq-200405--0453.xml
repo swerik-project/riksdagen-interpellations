@@ -3,102 +3,134 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>åretruntboende i skärgården</title>
+        <author>Runegrund, Rosita (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>åretruntboende i skärgården till samhällsbyggnadsminister Mona Sahlin om åretruntboende i skärgården</title>
+          <idno type="rdwebb">GS10453</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10453/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10453</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10453</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-43NmWWYd8vEgZrkoXWWCXx</idno>
+            <persName>Rosita Runegrund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TbYrdFfhS5mPymTa5Cvrw3" corresp="i-43NmWWYd8vEgZrkoXWWCXx">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9iLrNgGmHhEz3rHmuFeUxo">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HZSES8q9ax3oLmyK2F5yDv">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-67GGLjEKUWEDWdSLsEaLSJ" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-W3ZfYGcxcy76zKooxWFUFS" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspContext corresp="i-W3ZfYGcxcy76zKooxWFUFS">
+          <ref type="record" target="prot-200405--094">Riksdagens protokoll 2004/05:94 Tisdagen den 22 mars</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:453 om åretruntboende i skärgården</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0453</head>
-        <author who="i-43NmWWYd8vEgZrkoXWWCXx">Rosita Runegrund</author>
-        <recipient who="i-GFJcxAB9fyzG2VN1HakscJ">Mona Sahlin</recipient>
-        <topic>åretruntboende i skärgården</topic>
-        <docDate when="2005-03-09">den 9 mars</docDate>
-        <status when="2005-03-22" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10453</external_id>
-        <debate>
-          <turn when="2005-03-22 15:34:39" duration="232">Mona Sahlin (S)</turn>
-          <turn when="2005-03-22 15:38:28" duration="218">Rosita Runegrund (Kd)</turn>
-          <turn when="2005-03-22 15:42:02" duration="144">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-22 15:44:24" duration="223">Lars Tysklind (Fp)</turn>
-          <turn when="2005-03-22 15:48:04" duration="178">Marietta de Pourbaix-Lun (M)</turn>
-          <turn when="2005-03-22 15:50:58" duration="108">Mona Sahlin (S)</turn>
-          <turn when="2005-03-22 15:52:42" duration="137">Rosita Runegrund (Kd)</turn>
-          <turn when="2005-03-22 15:54:55" duration="42">Ragnwi Marcelind (Kd)</turn>
-          <turn when="2005-03-22 15:55:33" duration="30">Lars Tysklind (Fp)</turn>
-          <turn when="2005-03-22 15:56:00" duration="520">Marietta de Pourbaix-Lun (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:453 av Rosita Runegrund (kd) till samhällsbyggnadsminister
-          Mona Sahlin om åretruntboende i skärgården
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PWrvUCtHhJrZns9e7Kz9E1">
+            Interpellation 2004/05:453 av Rosita Runegrund (kd) till samhällsbyggnadsminister
+            Mona Sahlin om åretruntboende i skärgården
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-7byvs5MDmGgwWfAndgkmpe">
+            den 9 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JaNRZvtAd3soMH5q8p3Ske">
-          Riksdagen har beslutat om en ändring i jordabalken som innebär
-          att tredimensionell fastighetsindelning är möjlig sedan den 1
-          januari 2004.
-        </p>
-        <p xml:id="i-2CH6XU7n7ubdpsS6Fud5Gn">
-          Genom denna lag kan ett och samma hus ha olika ägare till skilda
-          våningsplan. Dock måste vissa särskilda villkor uppfyllas för
-          att tredimensionella fastigheter ska kunna bildas. Exempelvis
-          kan tredimensionella fastigheter för bostadsändamål endast kunna
-          bildas om fastigheten är ägnad att rymma minst fem bostadslägenheter.
-        </p>
-        <p xml:id="i-TnuPWZXpiEy9FkW92X3D3b">
-          Skärgårdsbefolkningen i Bohuslän hade hoppats att kunna förespråka
-          denna lag för att dela upp stora fastigheter, till exempel stora
-          villor, i kanske två mindre fastigheter. Tanken var att den nya
-          lagen skulle kunna innebära en lösning för äldre och ensamstående,
-          vilka gärna skulle vilja bo kvar i sitt hus i skärgården men som
-          kanske har begränsade resurser för att göra detta. Exempelvis
-          skulle man, om inte denna begränsning fanns, kunna sälja halva
-          huset, vilket borde vara attraktivt när alternativa bostäder,
-          till exempel hyresrätter, saknas. Om del av fastigheten säljs
-          till fritidsboende så bereder det möjlighet för bofasta att bo
-          kvar samt för arvingar att lösa ut syskon.
-        </p>
-        <p xml:id="i-EipMEHWv9SbdK4zdbkY34e">
-          Med den begränsning som lagen för tredimensionella fastigheter
-          för bostadsändamål innehåller raseras de möjligheter som påvisas
-          ovan.
-        </p>
-        <p xml:id="i-3PFdJHR9ydeaadSUKUrb1m">
-          Därför är min mening att man bör ta bort villkoret att fastigheten
-          måste vara ägnad att rymma minst fem bostadslägenheter.
-        </p>
-        <p xml:id="i-Uno4xDo11awcCXSAoURhsL">
-          Förköpslagen som ingav hopp när den infördes har visat sig vara
-          uddlös när det gäller att bevara åretruntboendet i kommunen.
-        </p>
-        <p xml:id="i-8Gx2o7h2WJofgiWup7s6Cn">
-          Min fråga till statsrådet är:
-        </p>
-        <p xml:id="i-Zovwa6CNEhmCzrpZU41ma">
-          Vad avser statsrådet att göra för att underlätta för åretomboende
-          i skärgården?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9q5RozkcYSwYZS5ea561dw">
+            Riksdagen har beslutat om en ändring i jordabalken som innebär
+            att tredimensionell fastighetsindelning är möjlig sedan den 1
+            januari 2004.
+          </p>
+          <p xml:id="i-Kdtfa2baaL3L5PTYhHrbux">
+            Genom denna lag kan ett och samma hus ha olika ägare till skilda
+            våningsplan. Dock måste vissa särskilda villkor uppfyllas för
+            att tredimensionella fastigheter ska kunna bildas. Exempelvis
+            kan tredimensionella fastigheter för bostadsändamål endast kunna
+            bildas om fastigheten är ägnad att rymma minst fem bostadslägenheter.
+          </p>
+          <p xml:id="i-UjVatcSHFVrw155s7jg28y">
+            Skärgårdsbefolkningen i Bohuslän hade hoppats att kunna förespråka
+            denna lag för att dela upp stora fastigheter, till exempel stora
+            villor, i kanske två mindre fastigheter. Tanken var att den nya
+            lagen skulle kunna innebära en lösning för äldre och ensamstående,
+            vilka gärna skulle vilja bo kvar i sitt hus i skärgården men som
+            kanske har begränsade resurser för att göra detta. Exempelvis
+            skulle man, om inte denna begränsning fanns, kunna sälja halva
+            huset, vilket borde vara attraktivt när alternativa bostäder,
+            till exempel hyresrätter, saknas. Om del av fastigheten säljs
+            till fritidsboende så bereder det möjlighet för bofasta att bo
+            kvar samt för arvingar att lösa ut syskon.
+          </p>
+          <p xml:id="i-GP57HBtB4pYsRGrcRushUQ">
+            Med den begränsning som lagen för tredimensionella fastigheter
+            för bostadsändamål innehåller raseras de möjligheter som påvisas
+            ovan.
+          </p>
+          <p xml:id="i-RDyLiyFBENb8AQDdvSunf8">
+            Därför är min mening att man bör ta bort villkoret att fastigheten
+            måste vara ägnad att rymma minst fem bostadslägenheter.
+          </p>
+          <p xml:id="i-GkukLin8TWjFJMxxjZtZAd">
+            Förköpslagen som ingav hopp när den infördes har visat sig vara
+            uddlös när det gäller att bevara åretruntboendet i kommunen.
+          </p>
+          <p xml:id="i-7A2exrvFdGZjGmULLN9D7H">
+            Min fråga till statsrådet är:
+          </p>
+          <p xml:id="i-HW5WYqpdqXNa4QuX74nfbQ">
+            Vad avser statsrådet att göra för att underlätta för åretomboende
+            i skärgården?
+          </p>
+        </div>
       </div>
     </body>
   </text>

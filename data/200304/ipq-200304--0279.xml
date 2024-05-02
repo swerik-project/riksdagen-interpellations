@@ -3,79 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>väg 73</title>
+        <author>de Pourbaix-Lundin, Marietta (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>väg 73 till finansminister Bosse Ringholm om väg 73</title>
+          <idno type="rdwebb">GR10279</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10279/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10279</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10279</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
+            <persName>Marietta de Pourbaix-Lundin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Ju7pQsqnCmaTGUcK1tn9wg" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-FHcyZgE9Yo7wE5m1Bzdjf">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Vj3P5NZQoQKEESMVgJY7Wz">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RGExuqfrhgzCWqZTxvbmex" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-02-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QkNzRCnawNLbca3EC4MaZ1" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2004-03-02"/>
+        </correspAction>
+        <correspContext corresp="i-QkNzRCnawNLbca3EC4MaZ1">
+          <ref type="record" target="prot-200304--075">Riksdagens protokoll 2003/04:75 Tisdagen den 2 mars</ref>
+          <ref type="recordSection" target="unsetDivId">1 § Svar på interpellation 2003/04:279 om väg 73</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0279</head>
-        <author who="i-9Kt7koTgzUZUA9ovNXYdWj">Marietta de Pourbaix-Lundin</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>väg 73</topic>
-        <docDate when="2004-02-04">den 4 februari</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10279</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:279 av Marietta de Pourbaix Lundin (m)
-          till finansminister Bosse Ringholm om väg 73
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Gy9YMbhrMfcQTv7UY2gB5y">
+            Interpellation 2003/04:279 av Marietta de Pourbaix Lundin (m)
+            till finansminister Bosse Ringholm om väg 73
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-XmZUVp1VuNhDd7g5CcAxx9">
+            den 4 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PAAFz6zTtEdmukK7AVkU42">
-          Följande går att läsa i ett TT-meddelande från den 13 januari
-          i år:
-        </p>
-        <p xml:id="i-yiSkfJGM9GGxasVxZdoNJ">
-          "Det finns statliga pengar för att bygga om olycksdrabbade riksväg
-          73 mellan Nynäshamn och Stockholm, enligt finansminister Bosse
-          Ringholm. Pengarna för att bygga om hela vägsträckan kommer att
-          finnas för byggstart under mandatperioden, uppger finansminister
-          Bosse Ringholm för Radio Stockholm."
-        </p>
-        <p xml:id="i-MycvfewR9CtC1vx1VpUgZu">
-          Vidare framgår det att Ringholm menar att regeringen kommer att
-          fatta beslut inom en till två veckor.
-        </p>
-        <p xml:id="i-Ew2iE1p7UneC1PzzRtbSKo">
-          Väg 73, Nynäsvägen, är en av Sveriges mest olycksdrabbade vägar.
-          Många olika socialdemokratiska ministrar har pratat mycket om
-          en utbyggnad av sträckan Älgviken@Fors. Hittills har det stannat
-          vid prat för än lyser konkreta beslut och det första spadtaget
-          med sin frånvaro. Tillåtlighetsprövningen dras i långbänk på Miljödepartementet
-          och finansiering saknas.
-        </p>
-        <p xml:id="i-2GoKmA1XfccH8LF1wpmuYV">
-          Mot bakgrund av detta vill jag ställa följande frågor till finansministern:
-        </p>
-        <p xml:id="i-VEs9jciB39W2XfnSFUEpYw">
-          1. Avser finansministern att verka för ett beslut om pengar till
-          väg 73?
-        </p>
-        <p xml:id="i-WQ5zxfwZUEhQHDKtc8WFea">
-          2. Avser finansministern att i ett sådant beslut "öronmärka"
-          pengar till väg 73?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-GeZMkWYNX18s9bF51tVrFz">
+            Följande går att läsa i ett TT-meddelande från den 13 januari
+            i år:
+          </p>
+          <p xml:id="i-79YU8sG9JdCdVSxmB9D8JA">
+            "Det finns statliga pengar för att bygga om olycksdrabbade riksväg
+            73 mellan Nynäshamn och Stockholm, enligt finansminister Bosse
+            Ringholm. Pengarna för att bygga om hela vägsträckan kommer att
+            finnas för byggstart under mandatperioden, uppger finansminister
+            Bosse Ringholm för Radio Stockholm."
+          </p>
+          <p xml:id="i-DTmNbwzNxmTFTykoXwPbwL">
+            Vidare framgår det att Ringholm menar att regeringen kommer att
+            fatta beslut inom en till två veckor.
+          </p>
+          <p xml:id="i-72yNqoYBpdx9LVcVRod81g">
+            Väg 73, Nynäsvägen, är en av Sveriges mest olycksdrabbade vägar.
+            Många olika socialdemokratiska ministrar har pratat mycket om
+            en utbyggnad av sträckan Älgviken@Fors. Hittills har det stannat
+            vid prat för än lyser konkreta beslut och det första spadtaget
+            med sin frånvaro. Tillåtlighetsprövningen dras i långbänk på Miljödepartementet
+            och finansiering saknas.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-RxKCPTUGQKsRDvh2CLjWFo">
+            Mot bakgrund av detta vill jag ställa följande frågor till finansministern:
+            <list rend="unordered">
+              <item>
+                1.Avser finansministern att verka för ett beslut om pengar till
+                väg 73?
+              </item>
+              <item>
+                2.Avser finansministern att i ett sådant beslut "öronmärka" pengar
+                till väg 73?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

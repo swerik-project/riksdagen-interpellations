@@ -3,143 +3,169 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>postens verksamhet</title>
+        <author>Beijer, Lennart (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>postens verksamhet till näringsminister Leif Pagrotsky om postens verksamhet</title>
+          <idno type="rdwebb">GQ1025</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ1025/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ1025</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ1025</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-UjusnwqMxiEAJYzdWTSGQZ</idno>
+            <persName>Lennart Beijer</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NgPpfYcN96GAAshkN5Xfz" corresp="i-UjusnwqMxiEAJYzdWTSGQZ">
+          <date when="2002-11-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WfwKjNwSK5iTWsbBP6pXKr" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2002-11-06"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EsdqQKMn82PZdaCdZiMVtR">
+          <date when="2002-11-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4FbPgMNfjR3UGxJDnWYeeT" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2002-11-19"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0025</head>
-        <author who="i-UjusnwqMxiEAJYzdWTSGQZ">Lennart Beijer</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>postens verksamhet</topic>
-        <docDate when="2002-11-05">den 5 november</docDate>
-        <status when="2002-11-19" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ1025</external_id>
-        <debate>
-          <turn when="2002-11-19 14:23:08" duration="99">Leif Pagrotsky (S)</turn>
-          <turn when="2002-11-19 14:24:44" duration="272">Lennart Beijer (V)</turn>
-          <turn when="2002-11-19 14:29:11" duration="247">Karin Thorborg (V)</turn>
-          <turn when="2002-11-19 14:33:14" duration="264">Leif Pagrotsky (S)</turn>
-          <turn when="2002-11-19 14:37:34" duration="159">Lennart Beijer (V)</turn>
-          <turn when="2002-11-19 14:40:08" duration="99">Karin Thorborg (V)</turn>
-          <turn when="2002-11-19 14:41:43" duration="231">Leif Pagrotsky (S)</turn>
-          <turn when="2002-11-19 14:45:29" duration="145">Lennart Beijer (V)</turn>
-          <turn when="2002-11-19 14:47:50" duration="175">Leif Pagrotsky (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:25 av Lennart Beijer (v) till näringsminister
-          Leif Pagrotsky om Postens verksamhet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-JJ9RyQ8ue6NHGeAsTqQFMe">
+            Interpellation 2002/03:25 av Lennart Beijer (v) till näringsminister
+            Leif Pagrotsky om Postens verksamhet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Y7oPJkXddDPCmJecfkXyFS">
+            den 5 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-QjhMfiT5c1CZy9jf76m6V8">
-          Postens ledning vill sälja ut brevbärarna genom att lägga ut
-          själva brevbärningen på entreprenad. SEKO, som organiserar brevbärarna,
-          är mycket kritiska och samma dag som nyheten offentliggörs tar
-          Postens styrelseordförande Claes Ånstrand, som även är statssekreterare
-          i Näringsdepartementet, avstånd från förslaget. Detta är ett mycket
-          märkligt agerande från ett stort statligt företag. Vad är förklaringen
-          till detta agerande?
-        </p>
-        <p xml:id="i-D2yWxzZHeX1KzS91mmqsAH">
-          Posten AB med 20 miljarder i omsättning och i praktiken en monopolställning
-          på brevmarknaden går i dag med förlust. Affärsområdet Meddelanden
-          och Logistik, där brevverksamheten ingår, visade i senaste niomånadersrapporten
-          en förlust på 425 miljoner kronor. Då är inte kassatjänsten inräknad.
-        </p>
-        <p xml:id="i-87HfwbVsnBB12gJTVyn1fD">
-          Antalet försändelser har ökat under 1990-talet och sannolikt
-          också det antal försändelser som Posten distribuerar. Enstaka
-          brevförsändelser har dock minskat i antal till skillnad mot stora
-          sändningar som har ökat. Samtidigt har Posten sedan 1991 sänkt
-          portot för stora sändningar över 20 gram från ca 5 kr till dagens
-          3 kr och segmentet enstaka försändelser har höjts från 5 kr till
-          8 kr.
-        </p>
-        <p xml:id="i-TViTGNCDAK5CbRQR2gPAdB">
-          Denna skillnad mellan de olika postsegmenten är ganska speciell
-          för Sverige. Det normala i övriga Europa är att portot för de
-          olika segmenten är relativt lika. Posten kan således snabbt förbättra
-          sin lönsamhet genom att höja portot för stora sändningar. En kronas
-          höjning skulle innebära ca 2 miljarder kronor och en anpassning
-          till det europeiska portot skulle öka intäkterna än mer.
-        </p>
-        <p xml:id="i-CrQxBG4DjpSmG7d9TZBGZF">
-          Postens egen valda portopolitik är alltså den viktigaste förklaringen
-          till Postens resultat och en enkel metod för att åtgärda detta
-          är därför att ändra på denna prissättning.
-        </p>
-        <p xml:id="i-7RHeZj26F9xF5jptSHXMZU">
-          Hur vill ledningen för Posten lösa situationen? Ta bort pristaket
-          för enstaka brevförsändelser vilket regeringen sagt nej till.
-          Att försämra servicen genom att låta kunderna betala extra för
-          övernattbefordran har regeringen också sagt nej till. Det senaste
-          förslaget var att få konkurrera utomlands.
-        </p>
-        <p xml:id="i-Lu9X4rweBh2VV3KikJDFCX">
-          Jag har därför tidigare sagt ifrån att vi från Vänsterpartiets
-          sida inte vill se några utlandssatsningar innan Posten klarar
-          av att visa en vinst på sin verksamhet i Sverige, det som Posten
-          faktiskt är till för.
-        </p>
-        <p xml:id="i-WTw7NoPpMCweuVQFbNgchh">
-          Nu kom det senaste förslaget om att lägga ut brevbärningen på
-          entreprenad. Detta är endast ett sätt att försöka komma åt fackföreningsrörelsen
-          inom Posten. Postens anställda arbetar hårt och det är mycket
-          svårt att reducera personalen ytterligare med bibehållen kvalitet.
-          Då försöker Postens ledning komma runt detta genom att lägga ut
-          verksamheten på entreprenad och i stället låta privata entreprenörer
-          genomföra försämringar i servicen.
-        </p>
-        <p xml:id="i-V7Mk9zBqaUQpGYPkFZLF1r">
-          Alf Mellstrand som representerar SEKO-post i Postens styrelse
-          menar att serviceförsämringar inte är lösningen utan det viktiga
-          är i stället att diskutera hur Postens intäkter ska öka. Jag delar
-          denna syn. Ett avkastningskrav borde därför ställas på en normal
-          nivå ca 10 %.
-        </p>
-        <p xml:id="i-AmDSBJ11vWim1DUDE2b7vF">
-          Detta hindrar inte på något sätt att en del av vinstmedlen kvarstår
-          inom Posten och används till sådant som är samhälleligt betydelsefullt
-          men inte affärsmässigt motiverat.
-        </p>
-        <p xml:id="i-U9KJHgpHpWj3rd8w2bF7Lt">
-          Denna åtskillnad kan lösas med hjälp av särredovisning. En kronas
-          höjning på stora sändningar skulle alltså innebära ca 2 miljarder
-          kronor i resultatförbättring och därmed uppfylla ett rimligt avkastningskrav.
-          Posten AB skulle på så sätt mycket snabbt nå en acceptabel lönsamhet,
-          och ägaren @ staten @ kunde tillgodogöra sig viss förräntning
-          på insatt kapital. I en interpellationsdebatt med före detta näringsministern
-          anförde dåvarande ministern att han delade min syn på att bolagets
-          lönsamhet i dag är svag och att den bör stärkas.
-        </p>
-        <p xml:id="i-Q15ViyDn1SK1EkEBDBPX6c">
-          Jag vill därför fråga näringsministern:
-        </p>
-        <p xml:id="i-AtHtZijg2Sc8UKkE5pktbh">
-          Kommer ministern att ta några initiativ för att öka Postens lönsamhet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Q1tCPC4Ti3L5rWBX6e2kud">
+            Postens ledning vill sälja ut brevbärarna genom att lägga ut
+            själva brevbärningen på entreprenad. SEKO, som organiserar brevbärarna,
+            är mycket kritiska och samma dag som nyheten offentliggörs tar
+            Postens styrelseordförande Claes Ånstrand, som även är statssekreterare
+            i Näringsdepartementet, avstånd från förslaget. Detta är ett mycket
+            märkligt agerande från ett stort statligt företag. Vad är förklaringen
+            till detta agerande?
+          </p>
+          <p xml:id="i-TfT8VhgnG8qFNkWVmBhT8G">
+            Posten AB med 20 miljarder i omsättning och i praktiken en monopolställning
+            på brevmarknaden går i dag med förlust. Affärsområdet Meddelanden
+            och Logistik, där brevverksamheten ingår, visade i senaste niomånadersrapporten
+            en förlust på 425 miljoner kronor. Då är inte kassatjänsten inräknad.
+          </p>
+          <p xml:id="i-L3z8GjgK8Pxo4MyfTECJt3">
+            Antalet försändelser har ökat under 1990-talet och sannolikt
+            också det antal försändelser som Posten distribuerar. Enstaka
+            brevförsändelser har dock minskat i antal till skillnad mot stora
+            sändningar som har ökat. Samtidigt har Posten sedan 1991 sänkt
+            portot för stora sändningar över 20 gram från ca 5 kr till dagens
+            3 kr och segmentet enstaka försändelser har höjts från 5 kr till
+            8 kr.
+          </p>
+          <p xml:id="i-72ie84VVBnaFyyKihT5MzL">
+            Denna skillnad mellan de olika postsegmenten är ganska speciell
+            för Sverige. Det normala i övriga Europa är att portot för de
+            olika segmenten är relativt lika. Posten kan således snabbt förbättra
+            sin lönsamhet genom att höja portot för stora sändningar. En kronas
+            höjning skulle innebära ca 2 miljarder kronor och en anpassning
+            till det europeiska portot skulle öka intäkterna än mer.
+          </p>
+          <p xml:id="i-TkjGY3GqZcfXBPuAUQPBHh">
+            Postens egen valda portopolitik är alltså den viktigaste förklaringen
+            till Postens resultat och en enkel metod för att åtgärda detta
+            är därför att ändra på denna prissättning.
+          </p>
+          <p xml:id="i-L5DQCiC9cjCPcxeUXVgU8k">
+            Hur vill ledningen för Posten lösa situationen? Ta bort pristaket
+            för enstaka brevförsändelser vilket regeringen sagt nej till.
+            Att försämra servicen genom att låta kunderna betala extra för
+            övernattbefordran har regeringen också sagt nej till. Det senaste
+            förslaget var att få konkurrera utomlands.
+          </p>
+          <p xml:id="i-Uyz2gDitbFpKoyDU8DqCxR">
+            Jag har därför tidigare sagt ifrån att vi från Vänsterpartiets
+            sida inte vill se några utlandssatsningar innan Posten klarar
+            av att visa en vinst på sin verksamhet i Sverige, det som Posten
+            faktiskt är till för.
+          </p>
+          <p xml:id="i-NooBXYw8vVRothizn1513J">
+            Nu kom det senaste förslaget om att lägga ut brevbärningen på
+            entreprenad. Detta är endast ett sätt att försöka komma åt fackföreningsrörelsen
+            inom Posten. Postens anställda arbetar hårt och det är mycket
+            svårt att reducera personalen ytterligare med bibehållen kvalitet.
+            Då försöker Postens ledning komma runt detta genom att lägga ut
+            verksamheten på entreprenad och i stället låta privata entreprenörer
+            genomföra försämringar i servicen.
+          </p>
+          <p xml:id="i-NV2pnF1uhUBn829bJdcsC7">
+            Alf Mellstrand som representerar SEKO-post i Postens styrelse
+            menar att serviceförsämringar inte är lösningen utan det viktiga
+            är i stället att diskutera hur Postens intäkter ska öka. Jag delar
+            denna syn. Ett avkastningskrav borde därför ställas på en normal
+            nivå ca 10 %.
+          </p>
+          <p xml:id="i-Wi8XtxzacGWSCea266k4dc">
+            Detta hindrar inte på något sätt att en del av vinstmedlen kvarstår
+            inom Posten och används till sådant som är samhälleligt betydelsefullt
+            men inte affärsmässigt motiverat.
+          </p>
+          <p xml:id="i-MiramtR4BijaCmEBeK4y6L">
+            Denna åtskillnad kan lösas med hjälp av särredovisning. En kronas
+            höjning på stora sändningar skulle alltså innebära ca 2 miljarder
+            kronor i resultatförbättring och därmed uppfylla ett rimligt avkastningskrav.
+            Posten AB skulle på så sätt mycket snabbt nå en acceptabel lönsamhet,
+            och ägaren @ staten @ kunde tillgodogöra sig viss förräntning
+            på insatt kapital. I en interpellationsdebatt med före detta näringsministern
+            anförde dåvarande ministern att han delade min syn på att bolagets
+            lönsamhet i dag är svag och att den bör stärkas.
+          </p>
+          <p xml:id="i-329zDzSuEExLgw616ccVbF">
+            Jag vill därför fråga näringsministern:
+          </p>
+          <p xml:id="i-DpL1WJc1YASx7mdhScD3Ca">
+            Kommer ministern att ta några initiativ för att öka Postens lönsamhet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

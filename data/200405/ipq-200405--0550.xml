@@ -3,91 +3,114 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>de apatiska barnens sjukdomstillstånd</title>
+        <author>Aronson, Marita (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>de apatiska barnens sjukdomstillstånd till statsrådet Barbro Holmberg om de apatiska barnens sjukdomstillstånd</title>
+          <idno type="rdwebb">GS10550</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10550/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10550</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10550</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-8eznoqP6pLNBjC4Q11VtkC</idno>
+            <persName>Marita Aronson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XmisYJqNxhEqvSUywaC9SU" corresp="i-8eznoqP6pLNBjC4Q11VtkC">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LGxAoiuTk9ijJH2JNzEBjJ">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Lr8JuEYaQtq1P3eGTQZLVU">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Vwb3yttmfuXbGCgr9Q1xuX">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-R9dc4NsuNCmfd18MctgrZm" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2005-04-25"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0550</head>
-        <author who="i-8eznoqP6pLNBjC4Q11VtkC">Marita Aronson</author>
-        <recipient who="i-8NR1Z8tejozuay7fUnQPDP">Barbro Holmberg</recipient>
-        <topic>de apatiska barnens sjukdomstillstånd</topic>
-        <docDate when="2005-04-25">den 25 april</docDate>
-        <status when="2005-05-13" byWhom="Barbro Holmberg" byWhomId="i-8NR1Z8tejozuay7fUnQPDP" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10550</external_id>
-        <debate>
-          <turn when="2005-05-13 12:20:29" duration="245">Barbro Holmberg (S)</turn>
-          <turn when="2005-05-13 12:24:30" duration="245">Marita Aronson (Fp)</turn>
-          <turn when="2005-05-13 12:28:31" duration="281">Barbro Holmberg (S)</turn>
-          <turn when="2005-05-13 12:33:08" duration="235">Marita Aronson (Fp)</turn>
-          <turn when="2005-05-13 12:36:59" duration="226">Barbro Holmberg (S)</turn>
-          <turn when="2005-05-13 12:40:42" duration="100">Marita Aronson (Fp)</turn>
-          <turn when="2005-05-13 12:42:19" duration="68">Barbro Holmberg (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:550 av Marita Aronson (fp) till statsrådet
-          Barbro Holmberg om de apatiska barnens sjukdomstillstånd
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Y7t5NBbMvBJATiwnB8YxHa">
+            Interpellation 2004/05:550 av Marita Aronson (fp) till statsrådet
+            Barbro Holmberg om de apatiska barnens sjukdomstillstånd
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-QtG7v6N98upEHRZENRxCjE">
+            den 25 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-5G7UKBzQpQ9vA7J2vUnJfT">
-          Vid ett vetenskapligt seminarium om apatiska barn i Uppsala den
-          31 mars framkom att Socialdepartementet inte varit informerat
-          om de apatiska barnens situation förrän vid ett mycket sent stadium.
-          I stället har ärendet skötts på Utrikesdepartementet och legat
-          på migrationsminister Barbro Holmberg. Där har en utredning ledd
-          av Marie Hessle tillsatts för att kartlägga orsakerna till tillståndet.
-          Utredningen sysslar alltså med medicinska spörsmål. Folkpartiet
-          har kritiserat sammansättningen av gruppen kring Hessle för att
-          ingen barnläkare ingått.
-        </p>
-        <p xml:id="i-HGWenXr6JNVYMdJwcj6TDH">
-          Dessa barn är mycket allvarligt sjuka. Det måste därför anses
-          som allvarligt att ärendet inte hamnat på ett departement där
-          frågor kring svårt sjuka behandlas. Nu har en mängd myter och
-          oklarheter cirkulerat, därför att sjukdomen inte klarlagts av
-          dem som har kompetensen. I stället har företrädare på barnkliniker
-          runtom i landet dragits in i de politiska aspekterna.
-        </p>
-        <p xml:id="i-BVt7utaeE7Wp27emyhwWt5">
-          Det är min mening att om tillståndet depressiv devitalisering
-          först kartlagts såsom en sjukdom, av Socialdepartementet, kunde
-          mycket av detta ha undvikits.
-        </p>
-        <p xml:id="i-JyhPa1ECi6HqP3DTwXsJhF">
-          Varför valde statsrådet att kartlägga sjukdomen på Utrikesdepartementet
-          i stället för att först kartlägga den inom Socialdepartementet
-          och därefter aktualisera frågan på Utrikesdepartementet?
-        </p>
-        <p xml:id="i-BhaXSU4tbUmut15gsAvcyS">
-          Har statsrådet haft kontakt med Socialdepartementet i denna fråga?
-        </p>
-        <p xml:id="i-LuEiKmUTiqcZp3rkWcy4LR">
-          Vilka åtgärder avser statsrådet att vidta för att hålla Socialdepartementet
-          uppdaterat, samt inhämta kunskap därifrån i denna fråga?
-        </p>
-        <p xml:id="i-KrpaAL2Dp7iRGSXqR6eJBQ"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2CNWJ9KoWFqd2kbSuN3YWG">
+            Vid ett vetenskapligt seminarium om apatiska barn i Uppsala den
+            31 mars framkom att Socialdepartementet inte varit informerat
+            om de apatiska barnens situation förrän vid ett mycket sent stadium.
+            I stället har ärendet skötts på Utrikesdepartementet och legat
+            på migrationsminister Barbro Holmberg. Där har en utredning ledd
+            av Marie Hessle tillsatts för att kartlägga orsakerna till tillståndet.
+            Utredningen sysslar alltså med medicinska spörsmål. Folkpartiet
+            har kritiserat sammansättningen av gruppen kring Hessle för att
+            ingen barnläkare ingått.
+          </p>
+          <p xml:id="i-EWE6Wxt8H9M3rwUTczkCYd">
+            Dessa barn är mycket allvarligt sjuka. Det måste därför anses
+            som allvarligt att ärendet inte hamnat på ett departement där
+            frågor kring svårt sjuka behandlas. Nu har en mängd myter och
+            oklarheter cirkulerat, därför att sjukdomen inte klarlagts av
+            dem som har kompetensen. I stället har företrädare på barnkliniker
+            runtom i landet dragits in i de politiska aspekterna.
+          </p>
+          <p xml:id="i-QzG6CuuWY5SXLTFpFgSqEz">
+            Det är min mening att om tillståndet depressiv devitalisering
+            först kartlagts såsom en sjukdom, av Socialdepartementet, kunde
+            mycket av detta ha undvikits.
+          </p>
+          <p xml:id="i-BpRATzUGe7msFJNQNR4Vso">
+            Varför valde statsrådet att kartlägga sjukdomen på Utrikesdepartementet
+            i stället för att först kartlägga den inom Socialdepartementet
+            och därefter aktualisera frågan på Utrikesdepartementet?
+          </p>
+          <p xml:id="i-KWzzGqixrL6Rd7jtaVdVZ8">
+            Har statsrådet haft kontakt med Socialdepartementet i denna fråga?
+          </p>
+          <p xml:id="i-9d1wMGSCuzpz4FaWnKB2dP">
+            Vilka åtgärder avser statsrådet att vidta för att hålla Socialdepartementet
+            uppdaterat, samt inhämta kunskap därifrån i denna fråga?
+          </p>
+        </div>
       </div>
     </body>
   </text>

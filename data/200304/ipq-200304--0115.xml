@@ -3,124 +3,160 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>tingsrätter i Västerbotten</title>
+        <author>Lundberg, Carin (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>tingsrätter i Västerbotten till justitieminister Thomas Bodström om tingsrätter i Västerbotten</title>
+          <idno type="rdwebb">GR10115</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10115/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10115</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10115</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Q5smfAWD9kCwe7tQviBPMn</idno>
+            <persName>Carin Lundberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9EFG6Q9MGoFeV8rnYG2NLf" corresp="i-Q5smfAWD9kCwe7tQviBPMn">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BsnH7kmctUyKdE5cTAQ3ff">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-21bHxUV63yME85ycKTd6BJ">
+          <date when="2003-12-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VsrGq1bu4YW8QZQRyGmwuR" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-17"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-JeqAoFn2UUhqDbwZcGgrWr" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-12-01"/>
+        </correspAction>
+        <correspContext corresp="i-JeqAoFn2UUhqDbwZcGgrWr">
+          <ref type="record" target="prot-200304--039">Riksdagens protokoll 2003/04:39 Måndagen den 1 december</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:115 om tingsrätter i Västerbotten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0115</head>
-        <author who="i-Q5smfAWD9kCwe7tQviBPMn">Carin Lundberg</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>tingsrätter i Västerbotten</topic>
-        <docDate when="2003-11-17">den 17 november</docDate>
-        <status when="2003-12-01" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10115</external_id>
-        <debate>
-          <turn when="2003-12-01 11:16:16" duration="91">Thomas Bodström (S)</turn>
-          <turn when="2003-12-01 11:17:43" duration="224">Carin Lundberg (S)</turn>
-          <turn when="2003-12-01 11:21:24" duration="216">Ulla Löfgren (M)</turn>
-          <turn when="2003-12-01 11:26:47" duration="125">Carin Lundberg (S)</turn>
-          <turn when="2003-12-01 11:28:53" duration="120">Ulla Löfgren (M)</turn>
-          <turn when="2003-12-01 11:30:54" duration="110">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:115 av Carin Lundberg (s) till justitieminister
-          Thomas Bodström om tingsrätter i Västerbotten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-4uHW7MMr9SVpo8CoU84R2c">
+            Interpellation 2003/04:115 av Carin Lundberg (s) till justitieminister
+            Thomas Bodström om tingsrätter i Västerbotten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-MzcQpcSrxre5sy8NWe2oCW">
+            den 17 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PDkoHwooYkryGrAWqZkeWy">
-          Det pågående reformeringsarbetet av tingsrättsorganisationen
-          diskuterades så sent som den 12 november 2003 här i kammaren.
-          Riksdagen beslutade då att reformarbetet ska fortsätta och då
-          stegvis region för region. Förändringarna bör dock inte, enligt
-          riksdagens uppfattning, omfatta alltför begränsade områden, då
-          det kan leda till att en tingsrätt kort efter sammanslagningen
-          blir föremål för en ny organisationsförändring.
-        </p>
-        <p xml:id="i-KxR2eLQ937xqXKtpXY9288">
-          Riksdagen ansåg även att regeringen också i fortsättningen ska
-          vara den som beslutar om indelning i domsagor.
-        </p>
-        <p xml:id="i-PDP6VXJXb8Maki54dPWGwD">
-          Jag vill med anledning av detta ta upp frågan om tingsrätterna
-          i Västerbotten, som torde vara nästa region i det fortsatta reformeringsarbetet.
-        </p>
-        <p xml:id="i-59CEugN9xzViTAbg8ZLFRp">
-          Lycksele och Skellefteå är två mindre tingsrätter, båda med speciella
-          geografiska förhållanden. Skellefteå tingsrätt har ett 30-tal
-          anställda, därav fyra domare. Eftersom jag bor i Skellefteå och
-          därför har mer kunskaper om denna tingsrätt vill jag ta den som
-          exempel, men förhållandena är i mycket lika för Tingsrätten i
-          Lycksele, om än med mindre tal.
-        </p>
-        <p xml:id="i-Lk2oFChtkQgfe3STtVVrjG">
-          Om Skellefteå tingsrätt läggs ned och verksamheten flyttas till
-          Umeå, är detta mycket olyckligt ur medborgarperspektiv. Ska man
-          använda sig av allmänna kommunikationer från till exempel Malå,
-          ca 27 mil från Umeå, behöver man anslå tre dagar för att tala
-          för sin sak. I en sammanslagning måste man således ta hänsyn till
-          de geografiska förhållanden och befolkningsstrukturen. Detta tycker
-          jag särskilt gäller för Västerbotten.
-        </p>
-        <p xml:id="i-B19gSFZpyfX21f4EA31Gmo">
-          Ett av de tyngsta argumenten för omorganisation är ekonomiska.
-          Jag vill därför fråga ministern vilka besparingar han skulle se
-          vid en eventuell sammanslagning av tingsrätterna i Västerbotten.
-        </p>
-        <p xml:id="i-7ghMGyNEAMgq3Y8QorBcKk">
-          Under en månad med 20 arbetsdagar under hösten 2003, 20 vardagar,
-          hölls förhandlingar i Skellefteå under 19, många dagar med flera
-          förhandlingar samtidigt. Hade inte tingsrätten funnits i Skellefteå
-          skulle 40 domare och 30 protokollförare behövt resa till Skellefteå.
-          För ett år skulle kostnaden enbart för restiden bli ungefär 1
-          miljon kronor. Under samma period var 215 personer inblandade:
-          parter, åtalade, advokater med flera. Endast advokaternas spilltid
-          för resor skulle kosta närmare 60 000 kr för en månad. Till detta
-          kommer alla andra extrakostnader.
-        </p>
-        <p xml:id="i-FE8eZGxXtMNvW4bkg41tcu">
-          Domsagan omfattar Skellefteå kommun med ca 72 000 invånare, med
-          Malå och Norsjö omkring 80 000 på en yta större än Skåne. Domsagans
-          storlek och mängder mål torde innebära att kostnadsbesparingen
-          med endast ett tingsställe i Skellefteå skulle bli mycket begränsad,
-          om inte till och med dyrare.
-        </p>
-        <p xml:id="i-5n6QjLsS9EfEygg13mU1YT">
-          Största andelen mål i Skellefteå @ och i resten av länet med
-          @ handlar om vardagsjuridik och avgörs bäst nära de direkt berörda.
-          För tillgängligheten, ur medborgarperspektivet bör alltså Tingsrätterna
-          i Lycksele och Skellefteå inte läggas ned.
-        </p>
-        <p xml:id="i-VFgGBDKPwqSxWhS9eXKZXv">
-          Min fråga till justitieministern är:
-        </p>
-        <p xml:id="i-Hh8DJHrSfgxu3jyQmuj8SV">
-          Avser ministern att, mot bakgrund av vad som anförs i interpellationen,
-          verka för att Tingsrätterna i Lycksele och Skellefteå inte läggs
-          ned?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-HPZ3j65cNyFhLBsCcHcDzr">
+            Det pågående reformeringsarbetet av tingsrättsorganisationen
+            diskuterades så sent som den 12 november 2003 här i kammaren.
+            Riksdagen beslutade då att reformarbetet ska fortsätta och då
+            stegvis region för region. Förändringarna bör dock inte, enligt
+            riksdagens uppfattning, omfatta alltför begränsade områden, då
+            det kan leda till att en tingsrätt kort efter sammanslagningen
+            blir föremål för en ny organisationsförändring.
+          </p>
+          <p xml:id="i-Xioxhj4AUJdZrViRWa6ziq">
+            Riksdagen ansåg även att regeringen också i fortsättningen ska
+            vara den som beslutar om indelning i domsagor.
+          </p>
+          <p xml:id="i-SSVzVLqtyNcfUWUmyTWxQ9">
+            Jag vill med anledning av detta ta upp frågan om tingsrätterna
+            i Västerbotten, som torde vara nästa region i det fortsatta reformeringsarbetet.
+          </p>
+          <p xml:id="i-8fh2NdbbZGaQ1UeZ3UW8ic">
+            Lycksele och Skellefteå är två mindre tingsrätter, båda med speciella
+            geografiska förhållanden. Skellefteå tingsrätt har ett 30-tal
+            anställda, därav fyra domare. Eftersom jag bor i Skellefteå och
+            därför har mer kunskaper om denna tingsrätt vill jag ta den som
+            exempel, men förhållandena är i mycket lika för Tingsrätten i
+            Lycksele, om än med mindre tal.
+          </p>
+          <p xml:id="i-TQH3cpvf8WuYstNc5PjPc3">
+            Om Skellefteå tingsrätt läggs ned och verksamheten flyttas till
+            Umeå, är detta mycket olyckligt ur medborgarperspektiv. Ska man
+            använda sig av allmänna kommunikationer från till exempel Malå,
+            ca 27 mil från Umeå, behöver man anslå tre dagar för att tala
+            för sin sak. I en sammanslagning måste man således ta hänsyn till
+            de geografiska förhållanden och befolkningsstrukturen. Detta tycker
+            jag särskilt gäller för Västerbotten.
+          </p>
+          <p xml:id="i-Qh6FsnRmPDjhcN6yNXk2Fh">
+            Ett av de tyngsta argumenten för omorganisation är ekonomiska.
+            Jag vill därför fråga ministern vilka besparingar han skulle se
+            vid en eventuell sammanslagning av tingsrätterna i Västerbotten.
+          </p>
+          <p xml:id="i-84mAoYpoMjVbQ6qmKhGu6V">
+            Under en månad med 20 arbetsdagar under hösten 2003, 20 vardagar,
+            hölls förhandlingar i Skellefteå under 19, många dagar med flera
+            förhandlingar samtidigt. Hade inte tingsrätten funnits i Skellefteå
+            skulle 40 domare och 30 protokollförare behövt resa till Skellefteå.
+            För ett år skulle kostnaden enbart för restiden bli ungefär 1
+            miljon kronor. Under samma period var 215 personer inblandade:
+            parter, åtalade, advokater med flera. Endast advokaternas spilltid
+            för resor skulle kosta närmare 60 000 kr för en månad. Till detta
+            kommer alla andra extrakostnader.
+          </p>
+          <p xml:id="i-86SDJ7DGcMEnxBRu86Lixp">
+            Domsagan omfattar Skellefteå kommun med ca 72 000 invånare, med
+            Malå och Norsjö omkring 80 000 på en yta större än Skåne. Domsagans
+            storlek och mängder mål torde innebära att kostnadsbesparingen
+            med endast ett tingsställe i Skellefteå skulle bli mycket begränsad,
+            om inte till och med dyrare.
+          </p>
+          <p xml:id="i-XnxPh9cV9APk9mYezJxD3q">
+            Största andelen mål i Skellefteå @ och i resten av länet med
+            @ handlar om vardagsjuridik och avgörs bäst nära de direkt berörda.
+            För tillgängligheten, ur medborgarperspektivet bör alltså Tingsrätterna
+            i Lycksele och Skellefteå inte läggas ned.
+          </p>
+          <p xml:id="i-E52RVJWJ2e14SZmUZwW5ED">
+            Min fråga till justitieministern är:
+          </p>
+          <p xml:id="i-9wMa4cao9AKHcHWsMqaXSh">
+            Avser ministern att, mot bakgrund av vad som anförs i interpellationen,
+            verka för att Tingsrätterna i Lycksele och Skellefteå inte läggs
+            ned?
+          </p>
+        </div>
       </div>
     </body>
   </text>

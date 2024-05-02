@@ -3,116 +3,164 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>barn som bevittnar misshandel</title>
+        <author>Sidén, Anita (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>barn som bevittnar misshandel till justitieminister Thomas Bodström om barn som bevittnar misshandel</title>
+          <idno type="rdwebb">GS10607</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10607/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10607</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10607</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-J2F63fdxUFAAeBTYXLX7MZ</idno>
+            <persName>Anita Sidén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-AJAqWJR4DGwezosh7AyVcR">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-YMuBcx1YNcv1UCMsJkLox7" corresp="i-J2F63fdxUFAAeBTYXLX7MZ">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8bebs51UDV342r1Jeiy9am">
+          <date when="2005-06-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6v82J7oozCDv6HLvSnuafv" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-05-19"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2hr381kGYwMouSvR5xhsJx" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-06-10"/>
+        </correspAction>
+        <correspContext corresp="i-2hr381kGYwMouSvR5xhsJx">
+          <ref type="record" target="prot-200405--137">Riksdagens protokoll 2004/05:137 Fredagen den 10 juni</ref>
+          <ref type="recordSection" target="unsetDivId">5 § Svar på interpellation 2004/05:607 om barn som bevittnar misshandel</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0607</head>
-        <author who="i-J2F63fdxUFAAeBTYXLX7MZ">Anita Sidén</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>barn som bevittnar misshandel</topic>
-        <docDate when="2005-05-19">den 19 maj</docDate>
-        <status when="unknown" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10607</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:607 av Anita Sidén (m) till justitieminister
-          Thomas Bodström om barn som bevittnar misshandel
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-3NQJTvmL58JdXKfYusowL5">
+            Interpellation 2004/05:607 av Anita Sidén (m) till justitieminister
+            Thomas Bodström om barn som bevittnar misshandel
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FNG12x2Kq6v3xQc22kUbYR">
+            den 19 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-92jJDpN3tRxv8obK4hz6PB">
-          Varje år misshandlas tiotusenstals kvinnor i Sverige av en anhörig
-          i hemmet, det är en fruktansvärt hög siffra. Vad som är lika illa
-          är att mer än 100 000 barn varje år tvingas bevittna hur deras
-          mamma blir slagen enligt uppgifter från Socialstyrelsen. Att bevittna
-          våld mellan de personer som barnet är beroende av kan vara svårare
-          än att själv bli misshandlad eftersom de inte kan förstå det och
-          känner ångest för att de inte kan stoppa det. Det gör barnen till
-          offer på samma sätt som den misshandlade. Ett barn i en familj
-          där hot och våld närsomhelst kan förekomma lever i ett förhöjt
-          spänningstillstånd som är oerhört pressande. Hemmet som ska ge
-          trygghet blir i stället en plats som skapar ångest och rädsla
-          för vad som kan hända.
-        </p>
-        <p xml:id="i-6UgJskgDmshvLzQRJMR9Wg">
-          Polisen har en skyldighet att rapportera barns närvaro vid brottsplatsen.
-          I en undersökning från Rädda Barnen framkommer det dock att endast
-          20 av 72 barn kom till socialtjänstens kännedom. Rapportering
-          och uppföljning kring barnen är inte acceptabel. Varför det blir
-          så har flera orsaker, men det hjälper inte att peka finger utan
-          man måste se till att utveckla rutinerna så att det inte upprepas.
-          För att samhället ska kunna hjälpa barnen måste deras närvaro
-          vid brottet rapporteras.
-        </p>
-        <p xml:id="i-J28iQ252RtGyFxC7iFAUaV">
-          När barn blir vittnen till att en förälder misshandlar sin partner
-          ska de enligt socialtjänstlagen behandlas som offer. Men det sker
-          inte i den omfattning det borde och stödet till dem är otillräckligt.
-          Barnens utsatta situation i familjevåldssituationer måste uppmärksammas
-          bättre. Att ge barnen, som vittnen, rätt till brottsskadeersättning
-          är att gå en omväg. Ett bättre sätt är att kriminalisera att ett
-          barn tvingas bevittna när en förälder slår den andre så att även
-          barnet blir målsägande. Det gör även barnet till en tydlig part
-          i rättsprocessen med rätt till skadestånd och brottsskadeersättning.
-          Då kan det garanteras att barnet får den uppmärksamhet deras situation
-          kräver och förtjänar.
-        </p>
-        <p xml:id="i-Sp7a58eVXCM8SfrpZ4uw8x">
-          Straffen för brott mot barn och kvinnor bör ses över och hela
-          straffskalan måste tillämpas. I dag hamnar många straff på den
-          nedre delen av skalan. Normalfallet borde vara att majoriteten
-          av straffen befinner sig i mitten av skalan för att ge utrymme
-          att straffa lindrigare eller hårdare ifall brottet anses som grovt.
-          Samhället måste ge tydliga signaler om att våld, framför allt
-          mot kvinnor inte accepteras. Fängelsestraff borde vara det lägsta
-          straffet för grov misshandel. Även straffen för kvinnofridskränkning
-          måste ses över. I dag sträcker sig straffskalan mellan sex månader
-          och sex år @ den genomsnittliga strafftiden är bara 15 månader.
-        </p>
-        <p xml:id="i-QVK4LupPcxGfwBUHKen8jF">
-          Brottsligheten kan drabba alla men det är särskilt allvarligt
-          när barn blir brottsoffer, direkt eller indirekt. Därför bör det
-          i större utsträckning vara en försvårande omständighet när en
-          kvinna utsätts för misshandel och kränkning i barnens åsyn.
-        </p>
-        <p xml:id="i-NWaF1hjPiPJCohzSoadvm1">
-          Mina frågor till justitieministern är följande:
-        </p>
-        <p xml:id="i-UDdinVVN6owgJT9KgL4HAZ">
-          1. Vad avser justitieministern att göra för att förbättra polisens
-          rapportering om barns närvaro på brottsplatsen för familjevåld?
-        </p>
-        <p xml:id="i-SiLi8Aw689WPPobGd5YzSr">
-          2. Vilka åtgärder avser justitieministern att vidta för att kriminalisera
-          den som tvingar barn att bevittna familjevåld?
-        </p>
-        <p xml:id="i-2W6gh5oByHZrszomfuPCUf">
-          3. Vilka åtgärder avser justitieministern att vidta för att en
-          större del av straffskalan ska användas i samband med brott som
-          drabbar barn och kvinnor?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JoLRDDcRYeqppWrA7VL58j">
+            Varje år misshandlas tiotusenstals kvinnor i Sverige av en anhörig
+            i hemmet, det är en fruktansvärt hög siffra. Vad som är lika illa
+            är att mer än 100 000 barn varje år tvingas bevittna hur deras
+            mamma blir slagen enligt uppgifter från Socialstyrelsen. Att bevittna
+            våld mellan de personer som barnet är beroende av kan vara svårare
+            än att själv bli misshandlad eftersom de inte kan förstå det och
+            känner ångest för att de inte kan stoppa det. Det gör barnen till
+            offer på samma sätt som den misshandlade. Ett barn i en familj
+            där hot och våld närsomhelst kan förekomma lever i ett förhöjt
+            spänningstillstånd som är oerhört pressande. Hemmet som ska ge
+            trygghet blir i stället en plats som skapar ångest och rädsla
+            för vad som kan hända.
+          </p>
+          <p xml:id="i-4RHWpWHr3hPhtSMupVzvyR">
+            Polisen har en skyldighet att rapportera barns närvaro vid brottsplatsen.
+            I en undersökning från Rädda Barnen framkommer det dock att endast
+            20 av 72 barn kom till socialtjänstens kännedom. Rapportering
+            och uppföljning kring barnen är inte acceptabel. Varför det blir
+            så har flera orsaker, men det hjälper inte att peka finger utan
+            man måste se till att utveckla rutinerna så att det inte upprepas.
+            För att samhället ska kunna hjälpa barnen måste deras närvaro
+            vid brottet rapporteras.
+          </p>
+          <p xml:id="i-3ZVyvCgwhpTuVyAkbPu5tZ">
+            När barn blir vittnen till att en förälder misshandlar sin partner
+            ska de enligt socialtjänstlagen behandlas som offer. Men det sker
+            inte i den omfattning det borde och stödet till dem är otillräckligt.
+            Barnens utsatta situation i familjevåldssituationer måste uppmärksammas
+            bättre. Att ge barnen, som vittnen, rätt till brottsskadeersättning
+            är att gå en omväg. Ett bättre sätt är att kriminalisera att ett
+            barn tvingas bevittna när en förälder slår den andre så att även
+            barnet blir målsägande. Det gör även barnet till en tydlig part
+            i rättsprocessen med rätt till skadestånd och brottsskadeersättning.
+            Då kan det garanteras att barnet får den uppmärksamhet deras situation
+            kräver och förtjänar.
+          </p>
+          <p xml:id="i-B29ZbumGknpFBWg26Fvbno">
+            Straffen för brott mot barn och kvinnor bör ses över och hela
+            straffskalan måste tillämpas. I dag hamnar många straff på den
+            nedre delen av skalan. Normalfallet borde vara att majoriteten
+            av straffen befinner sig i mitten av skalan för att ge utrymme
+            att straffa lindrigare eller hårdare ifall brottet anses som grovt.
+            Samhället måste ge tydliga signaler om att våld, framför allt
+            mot kvinnor inte accepteras. Fängelsestraff borde vara det lägsta
+            straffet för grov misshandel. Även straffen för kvinnofridskränkning
+            måste ses över. I dag sträcker sig straffskalan mellan sex månader
+            och sex år @ den genomsnittliga strafftiden är bara 15 månader.
+          </p>
+          <p xml:id="i-4bN5P4TEGswXAdMQcE1RoQ">
+            Brottsligheten kan drabba alla men det är särskilt allvarligt
+            när barn blir brottsoffer, direkt eller indirekt. Därför bör det
+            i större utsträckning vara en försvårande omständighet när en
+            kvinna utsätts för misshandel och kränkning i barnens åsyn.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Ybs5mruQFGtY3XvyoTNFCx">
+            Mina frågor till justitieministern är följande:
+            <list rend="unordered">
+              <item>
+                1. Vad avser justitieministern att göra för att förbättra polisens
+                rapportering om barns närvaro på brottsplatsen för familjevåld?
+              </item>
+              <item>
+                2. Vilka åtgärder avser justitieministern att vidta för att kriminalisera
+                den som tvingar barn att bevittna familjevåld?
+              </item>
+              <item>
+                3. Vilka åtgärder avser justitieministern att vidta för att en
+                större del av straffskalan ska användas i samband med brott som
+                drabbar barn och kvinnor?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

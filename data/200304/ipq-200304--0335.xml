@@ -3,89 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>insatser från arbetsförmedlingen</title>
+        <author>Darell, Linnéa (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>insatser från arbetsförmedlingen till statsrådet Hans Karlsson om insatser från arbetsförmedlingen</title>
+          <idno type="rdwebb">GR10335</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10335/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10335</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10335</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-WsL6SwK6LQaRZcU4RUxvKD</idno>
+            <persName>Linnéa Darell</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-WmhTmNJgTZj25L2EbdbnXm" corresp="i-WsL6SwK6LQaRZcU4RUxvKD">
+          <date when="2004-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DTEfAPNwTzmcQzMEo5bzkm">
+          <date when="2004-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-87oaitn4iRtEkrYhsEXsE9">
+          <date when="2004-03-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2fWLfKotfT25rTZwkCkDK1" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2004-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-XKQqC5sa3JYM978d6rUddc" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2004-03-30"/>
+        </correspAction>
+        <correspContext corresp="i-XKQqC5sa3JYM978d6rUddc">
+          <ref type="record" target="prot-200304--090">Riksdagens protokoll 2003/04:90 Tisdagen den 30 mars</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2003/04:335 om insatser från arbetsförmedlingen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0335</head>
-        <author who="i-WsL6SwK6LQaRZcU4RUxvKD">Linnéa Darell</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>insatser från arbetsförmedlingen</topic>
-        <docDate when="2004-03-09">den 9 mars</docDate>
-        <status when="unknown" byWhom="Hans Karlsson" byWhomId="i-WMD43YDAt2Efk5C5qFXnaQ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10335</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:335 av Linnéa Darell (fp) till statsrådet
-          Hans Karlsson om insatser från arbetsförmedlingen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-LkzpLvGxQy1CLj23qSp1fY">
+            Interpellation 2003/04:335 av Linnéa Darell (fp) till statsrådet
+            Hans Karlsson om insatser från arbetsförmedlingen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-FPGXfzgsvHUFaDaYFPC6QA">
+            den 9 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SFx1YrRiHo6gr1HLjh8bAa">
-          Den 3 mars presenterade Kommun- och Landstingsförbundet tillsammans
-          med Socialstyrelsen och Riksförsäkringsverket rapporten Rehabilitering
-          eller utanförskap. I rapporten framgår det att 80 procent av de
-          som är sjuka, arbetslösa och saknar ersättning från sjukförsäkringen
-          och får socialbidrag, inte får rehabilitering. I rapporten konstateras
-          också att "denna grupp tycks inte höra hemma någonstans inom det
-          svenska socialförsäkringssystemet". De skriver vidare att varje
-          individ måste ges möjlighet att arbeta utifrån sin förmåga och
-          efterlyser insatser från bland annat arbetsmarknadsorganen.
-        </p>
-        <p xml:id="i-YbPh4hHry3j7gmg7gMaPUp">
-          Det finns flera personer, som saknar arbete, och som varit långtidssjuka.
-          Behovet för dem att få hjälp med ett nytt jobb och/eller en kompletterande
-          utbildning är stort. Den naturliga samhällsinstansen borde vara
-          arbetsförmedlingen. Trots det vittnar dessa arbetssökande om hur
-          man möts med oförståelse för sitt behov av stöd och rådgivning.
-          Även om man är friskförklarad från sin sjukdom är man naturligtvis
-          mycket sårbar, då man söker sig ut på arbetsmarknaden igen. Kanske
-          är man också i behov av en kompletterande utbildning. Även här
-          finns anledning att fråga vilket uppdrag och ansvar arbetsförmedlingarna
-          har.
-        </p>
-        <p xml:id="i-MUvZFsovQASnDLA2WUtQBL">
-          I riksdagens beslut om finansiell samordning krävs att arbetsförmedlingen
-          ingår i det lokala samordningsarbetet. Vid den utfrågning som
-          socialförsäkringsutskottet höll före beslutet och också i andra
-          uttalanden från arbetsmarknadsmyndigheten framgick att där inte
-          fanns intresse att delta i samverkan med andra samhällsorgan för
-          att finna lösningar kring enskilda individer.
-        </p>
-        <p xml:id="i-Fb33DrvVdXFb2HhGXeXhxm">
-          Mina frågor till statsrådet är:
-        </p>
-        <p xml:id="i-7KamHF7mse6FykeZv147SD">
-          1. Vilket uppdrag avser statsrådet att ge arbetsförmedlingen
-          när det gäller arbetslösa sjuka eller friskförklarade tidigare
-          långtidssjuka personer?
-        </p>
-        <p xml:id="i-RJSJnv9RPRmxfg3EpDJERr">
-          2. Vad avser statsrådet att göra för att Finsam-aktiviteter ska
-          komma igång ute i landet?
-        </p>
-        <p xml:id="i-Ezxyp4YnZ6Txoabtb5U4GR"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9hiFJqtFc8ujkmWZARmtY7">
+            Den 3 mars presenterade Kommun- och Landstingsförbundet tillsammans
+            med Socialstyrelsen och Riksförsäkringsverket rapporten Rehabilitering
+            eller utanförskap. I rapporten framgår det att 80 procent av de
+            som är sjuka, arbetslösa och saknar ersättning från sjukförsäkringen
+            och får socialbidrag, inte får rehabilitering. I rapporten konstateras
+            också att "denna grupp tycks inte höra hemma någonstans inom det
+            svenska socialförsäkringssystemet". De skriver vidare att varje
+            individ måste ges möjlighet att arbeta utifrån sin förmåga och
+            efterlyser insatser från bland annat arbetsmarknadsorganen.
+          </p>
+          <p xml:id="i-X8CXJHoGhGAW4hJX3QshMV">
+            Det finns flera personer, som saknar arbete, och som varit långtidssjuka.
+            Behovet för dem att få hjälp med ett nytt jobb och/eller en kompletterande
+            utbildning är stort. Den naturliga samhällsinstansen borde vara
+            arbetsförmedlingen. Trots det vittnar dessa arbetssökande om hur
+            man möts med oförståelse för sitt behov av stöd och rådgivning.
+            Även om man är friskförklarad från sin sjukdom är man naturligtvis
+            mycket sårbar, då man söker sig ut på arbetsmarknaden igen. Kanske
+            är man också i behov av en kompletterande utbildning. Även här
+            finns anledning att fråga vilket uppdrag och ansvar arbetsförmedlingarna
+            har.
+          </p>
+          <p xml:id="i-FxE8ynad1Gf2xFm51tsm7E">
+            I riksdagens beslut om finansiell samordning krävs att arbetsförmedlingen
+            ingår i det lokala samordningsarbetet. Vid den utfrågning som
+            socialförsäkringsutskottet höll före beslutet och också i andra
+            uttalanden från arbetsmarknadsmyndigheten framgick att där inte
+            fanns intresse att delta i samverkan med andra samhällsorgan för
+            att finna lösningar kring enskilda individer.
+          </p>
+          <p xml:id="i-P6HdFjjjnoZKD3LPPAzUSM">
+            Mina frågor till statsrådet är:
+          </p>
+          <p xml:id="i-HjucnYDQujc6LKkTuTofAv">
+            1. Vilket uppdrag avser statsrådet att ge arbetsförmedlingen
+            när det gäller arbetslösa sjuka eller friskförklarade tidigare
+            långtidssjuka personer?
+          </p>
+          <p xml:id="i-RXpW2G1EgwKsryyv6dLrr4">
+            2. Vad avser statsrådet att göra för att Finsam-aktiviteter ska
+            komma igång ute i landet?
+          </p>
+        </div>
       </div>
     </body>
   </text>

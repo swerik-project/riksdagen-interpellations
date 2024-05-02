@@ -3,94 +3,130 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Huvudstaleden</title>
+        <author>Andreasson, Martin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Huvudstaleden till statsrådet Ulrica Messing om Huvudstaleden</title>
+          <idno type="rdwebb">GS10645</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10645/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10645</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10645</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-LDb1GxQGG47N4mNNZ13jSZ</idno>
+            <persName>Martin Andreasson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-TEo7JXt34mAV6bFDcmP6wQ" corresp="i-LDb1GxQGG47N4mNNZ13jSZ">
+          <date when="2005-05-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-JMGbQ4RyUAZRaDaAr69ze1">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5mdDdrPYdMxSxZZdGLu82i">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-YV832Kysu6Y4ij4XRAsVVG" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-L2LwFJyufaeTxiZ22mh1mE" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspContext corresp="i-L2LwFJyufaeTxiZ22mh1mE">
+          <ref type="record" target="prot-200405--135">Riksdagens protokoll 2004/05:135 Onsdagen den 8 juni</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2004/05:645 om Huvudstaleden</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0645</head>
-        <author who="i-LDb1GxQGG47N4mNNZ13jSZ">Martin Andreasson</author>
-        <recipient who="i-L7Ay5GaFaMutWEX7utMv62">Ulrica Messing</recipient>
-        <topic>Huvudstaleden</topic>
-        <docDate when="2005-05-23">den 23 maj</docDate>
-        <status when="2005-06-08" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10645</external_id>
-        <debate>
-          <turn when="2005-06-08 12:22:00" duration="142">Ulrica Messing (S)</turn>
-          <turn when="2005-06-08 12:24:18" duration="265">Martin Andreasson (Fp)</turn>
-          <turn when="2005-06-08 12:28:37" duration="184">Ulrica Messing (S)</turn>
-          <turn when="2005-06-08 12:31:36" duration="206">Martin Andreasson (Fp)</turn>
-          <turn when="2005-06-08 12:34:58" duration="55">Ulrica Messing (S)</turn>
-          <turn when="2005-06-08 12:35:49" duration="54">Martin Andreasson (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:645 av Martin Andreasson (fp) till statsrådet
-          Ulrica Messing om Huvudstaleden
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-9xYvzPax8V9SGnb7bNqWJt">
+            Interpellation 2004/05:645 av Martin Andreasson (fp) till statsrådet
+            Ulrica Messing om Huvudstaleden
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-CeeoSHcTZcadKUh6Z6kkc5">
+            den 23 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-W5kJXpyN3qKNRYiCNRF7zK">
-          Stockholmsregionens trafiksituation blir alltmer besvärande.
-          Framkomligheten minskar och restiderna ökar. Förklaringen kan
-          sökas dels i bristande planering och finansiering för ny infrastruktur,
-          dels att infrastrukturen inte på något sätt förstärkts i takt
-          med den omfattande inflyttningen.
-        </p>
-        <p xml:id="i-Rm5jcyPmBcG8zcTzR1tnTH">
-          Huvudstaleden ingår i den parlamentariska Stockholmsberedningens
-          uppräkning av de mest angelägna investeringarna i regionens infrastruktur
-          (bet. SOU 2002:11) och skulle lösa upp en av de värsta trafikpropparna
-          i hela Stockholmsregionen: den bristfälliga kopplingen mellan
-          nordvästsektorn och Stockholms innerstad. Leden är tänkt att binda
-          samman E 4 vid Tomteboda och riksväg 279 i Bromma, anslutande
-          norrut till E 18, via en lång tunnel under Solna och en ny bro
-          över Ulvsundasjön.
-        </p>
-        <p xml:id="i-QHTdqS3NcVNGTqATNwsmF">
-          Huvudstaleden var planerad att byggas redan vid Essingeledens
-          utbyggnad. Att förverkliga den skulle inte bara ge stora trafikmiljövinster
-          för tiotusentals invånare i främst Solna och Sundbyberg utan också
-          ge förutsättningar för byggandet av ca 4 000 nya bostäder @ bostäder
-          som i dag är omöjliga att bygga på grund av den oacceptabla trafiksituationen.
-          Sist men inte minst skulle leden medföra en betydande förstärkning
-          av trafikkapaciteten till och från norra Stockholmsregionen.
-        </p>
-        <p xml:id="i-HBJ5vw8a1fGu8f3mjcGcRw">
-          Som framgår av Stockholmsberedningens betänkande behövs Huvudstaleden
-          för att klara den framtida kapaciteten mellan Stockholmsregionens
-          nordvästsektor och innerstad. Den skulle alltså spela en central
-          roll i den övergripande vägstrukturen för Stockholmsregionen som
-          helhet. Av detta skäl kan Huvudstaleden inte ses som en fråga
-          där de berörda kommunerna får lösa finansieringen på egen hand.
-        </p>
-        <p xml:id="i-DjvkeSxyNcWq7P4C3abi3H">
-          Jag vill därför fråga statsrådet:
-        </p>
-        <p xml:id="i-VfuMXXsPBcWhmXmANLCPSk">
-          Kommer statsrådet att vidta åtgärder för att staten aktivt ska
-          medverka till byggandet av Huvudstaleden, och när i så fall?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-CKzWYci49YiVaXSqEvGNXP">
+            Stockholmsregionens trafiksituation blir alltmer besvärande.
+            Framkomligheten minskar och restiderna ökar. Förklaringen kan
+            sökas dels i bristande planering och finansiering för ny infrastruktur,
+            dels att infrastrukturen inte på något sätt förstärkts i takt
+            med den omfattande inflyttningen.
+          </p>
+          <p xml:id="i-M6vCwhcQg8JVT9sFZYZDK4">
+            Huvudstaleden ingår i den parlamentariska Stockholmsberedningens
+            uppräkning av de mest angelägna investeringarna i regionens infrastruktur
+            (bet. SOU 2002:11) och skulle lösa upp en av de värsta trafikpropparna
+            i hela Stockholmsregionen: den bristfälliga kopplingen mellan
+            nordvästsektorn och Stockholms innerstad. Leden är tänkt att binda
+            samman E 4 vid Tomteboda och riksväg 279 i Bromma, anslutande
+            norrut till E 18, via en lång tunnel under Solna och en ny bro
+            över Ulvsundasjön.
+          </p>
+          <p xml:id="i-HLeKSuJt7RZXrAKAEV8kmr">
+            Huvudstaleden var planerad att byggas redan vid Essingeledens
+            utbyggnad. Att förverkliga den skulle inte bara ge stora trafikmiljövinster
+            för tiotusentals invånare i främst Solna och Sundbyberg utan också
+            ge förutsättningar för byggandet av ca 4 000 nya bostäder @ bostäder
+            som i dag är omöjliga att bygga på grund av den oacceptabla trafiksituationen.
+            Sist men inte minst skulle leden medföra en betydande förstärkning
+            av trafikkapaciteten till och från norra Stockholmsregionen.
+          </p>
+          <p xml:id="i-LsyrZafT6KUbCP6MrQnQYm">
+            Som framgår av Stockholmsberedningens betänkande behövs Huvudstaleden
+            för att klara den framtida kapaciteten mellan Stockholmsregionens
+            nordvästsektor och innerstad. Den skulle alltså spela en central
+            roll i den övergripande vägstrukturen för Stockholmsregionen som
+            helhet. Av detta skäl kan Huvudstaleden inte ses som en fråga
+            där de berörda kommunerna får lösa finansieringen på egen hand.
+          </p>
+          <p xml:id="i-TWKr9nKyCHthwYaW8udwBk">
+            Jag vill därför fråga statsrådet:
+          </p>
+          <p xml:id="i-8TiVpi5nBftQp4134nbnx1">
+            Kommer statsrådet att vidta åtgärder för att staten aktivt ska
+            medverka till byggandet av Huvudstaleden, och när i så fall?
+          </p>
+        </div>
       </div>
     </body>
   </text>

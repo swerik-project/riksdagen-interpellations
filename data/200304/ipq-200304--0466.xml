@@ -3,158 +3,193 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>EU:s tjänstedirektiv</title>
+        <author>Sköld Jansson, Camilla (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>EU:s tjänstedirektiv till näringsminister Leif Pagrotsky om EU:s tjänstedirektiv</title>
+          <idno type="rdwebb">GR10466</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10466/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10466</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10466</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-DMGKRcZKJjLDnd1Mozdje8</idno>
+            <persName>Camilla Sköld Jansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <persName>Leif Pagrotsky</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GzjEiKhdZwuFD98QEnM9tY" corresp="i-DMGKRcZKJjLDnd1Mozdje8">
+          <date when="2004-05-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Af9fjxdSZ26ckHfeBcCrvV">
+          <date when="2004-05-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-GPAfksh5QteGpANarFGC1e">
+          <date when="2004-05-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-7adxiRio5SVjv6rhSHJ8R8" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-05-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EFwSKSh5Tz3ZYr7nEny6gJ" corresp="i-V19ff9MeDZhTGpv5xEprbu">
+          <date when="2004-05-19"/>
+        </correspAction>
+        <correspContext corresp="i-EFwSKSh5Tz3ZYr7nEny6gJ">
+          <ref type="record" target="prot-200304--118">Riksdagens protokoll 2003/04:118 Onsdagen den 19 maj</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2003/04:466 om EU:s tjänstedirektiv</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0466</head>
-        <author who="i-DMGKRcZKJjLDnd1Mozdje8">Camilla Sköld Jansson</author>
-        <recipient who="i-V19ff9MeDZhTGpv5xEprbu">Leif Pagrotsky</recipient>
-        <topic>EU:s tjänstedirektiv</topic>
-        <docDate when="2004-05-05">den 5  maj</docDate>
-        <status when="2004-05-19" byWhom="Leif Pagrotsky" byWhomId="i-V19ff9MeDZhTGpv5xEprbu" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10466</external_id>
-        <debate>
-          <turn when="2004-05-19 13:10:24" duration="174">Leif Pagrotsky (S)</turn>
-          <turn when="2004-05-19 13:13:15" duration="207">Camilla Sköld Jansson (V)</turn>
-          <turn when="2004-05-19 13:16:33" duration="261">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-05-19 13:20:50" duration="258">Leif Pagrotsky (S)</turn>
-          <turn when="2004-05-19 13:25:04" duration="186">Camilla Sköld Jansson (V)</turn>
-          <turn when="2004-05-19 13:28:01" duration="134">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-05-19 13:30:06" duration="280">Leif Pagrotsky (S)</turn>
-          <turn when="2004-05-19 13:34:43" duration="106">Camilla Sköld Jansson (V)</turn>
-          <turn when="2004-05-19 13:36:23" duration="109">Leif Pagrotsky (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:466 av Camilla Sköld Jansson (v) till
-          näringsminister Leif Pagrotsky om EU:s tjänstedirektiv
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-EFGCZbqfjWjSPmZ8WVx2VV">
+            Interpellation 2003/04:466 av Camilla Sköld Jansson (v) till
+            näringsminister Leif Pagrotsky om EU:s tjänstedirektiv
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Q2dNvQbqpXqHzjauDZsNSa">
-          På toppmötet i Lissabon våren 2000 startades en strategi med
-          målet att EU ska bli "världens mest konkurrenskraftiga och dynamiska
-          kunskapsbaserade ekonomi, med möjlighet till en hållbar ekonomisk
-          tillväxt med fler och bättre arbetstillfällen och en högre grad
-          av social sammanhållning". Kärnan i strategin handlar om att avreglera
-          och liberalisera tjänste- och kapitalmarknaderna. Bland annat
-          pekades el, gas, post, transporter och finansiella tjänster ut
-          som verksamheter som möjliga för avreglering.
-        </p>
-        <p xml:id="i-Ery9UjuXP6cBUQePPu14YP">
-          Stats- och regeringscheferna, inklusive statsminister Göran Persson,
-          uppmanade också EU-kommissionen att utarbeta en strategi för att
-          undanröja hinder för tjänster över gränserna, vilket nu har lett
-          fram till det omdiskuterade förslaget till tjänstedirektiv.
-        </p>
-        <p xml:id="i-FgXeKVrZFXJXgf5HKHayf9">
-          När bland annat Europafacket och LO på senare tid framfört kritik
-          mot direktivet, har regeringen på olika sätt distanserat sig från
-          direktivet. Men faktum är att regeringen, såvitt går att bedöma
-          från ställningstaganden i olika EU-dokument, under flera år har
-          ställt sig bakom en avreglering av tjänstemarknaden, inklusive
-          framtagandet av ett direktiv byggt på de principer som nu finns
-          i det gällande förslaget från kommissionen.
-        </p>
-        <p xml:id="i-139dkekFysoyDV8XpvfUgR">
-          Det mest kontroversiella i förslaget till tjänstedirektiv är
-          att principen om ursprungsland och ömsesidigt erkännande införs
-          för tjänsteverksamhet över gränserna. Det innebär att tjänsteföretag
-          från ett annat land ska kunna vara verksamma i Sverige utan att
-          behöva följa den svenska lagstiftningen, utan bara vara bundna
-          av hemlandets lagstiftning. Jag kan inte finna att regeringen
-          vid något tillfälle har haft någon avgörande invändning mot denna
-          princip.
-        </p>
-        <p xml:id="i-3v2Fy5FrvBLBLA5BFkpGzm">
-          Den 14 november 2002 poängterade Rådet för konkurrenskraft med
-          Leif Pagrotsky att "mycket hög politisk prioritet bör ges undanröjandet
-          av såväl rättsliga som icke-rättsliga hinder för tjänster på den
-          inre marknaden.". Rådet uppmanade "kommissionen att, i de fall
-          då hinder inte kan undanröjas genom icke-rättsliga åtgärder eller
-          genom tillämpning av principen om ömsesidigt erkännande, vid behov
-          föreslå en harmonisering av relevant lagstiftning".
-        </p>
-        <p xml:id="i-34HwCxMNTkna6EBWSVkCjF">
-          Den 11 mars 2004 framhöll Rådet för konkurrenskraft med Thomas
-          Östros "att det föreslagna ramdirektivet för tjänster på den inre
-          marknaden är ett viktigt led i strävan att öka den företagsrelaterade
-          tjänsteverksamhetens konkurrenskraft och förbinder sig att prioritera
-          behandlingen av förslaget".
-        </p>
-        <p xml:id="i-879wPtqdXdEKZM3FKido8N">
-          Regeringen har också på toppmötesnivå vid ett flertal tillfällen
-          ställt sig bakom kommissionens strategi för avreglering av tjänstemarknaden,
-          inklusive de grundläggande principerna i tjänstedirektivet.
-        </p>
-        <p xml:id="i-4zZiEKtRDXP7vAs2yz98Zu">
-          I Barcelona den 15-16 mars 2002 fastslog stats- och regeringscheferna
-          att "uppnåendet av en verklig inre marknad kräver snabbare framsteg
-          när det gäller integreringen av marknaderna för tjänsterna, ytterligare
-          öppnande av offentlig upphandling, en vidare tillämpning av principen
-          om ömsesidigt erkännande.". Vidare att "konkurrensmöjligheterna
-          bör förstärkas inom tjänstesektorerna genom att undanröja hindren
-          för gränsöverskridande handel och marknadstillträde. Rådet uppmanar
-          därför kommissionen att så snart som möjligt lägga fram den utlovade
-          uppföljningen av sitt meddelande om en strategi för tjänster på
-          den inre marknaden.".
-        </p>
-        <p xml:id="i-KrZv2ab9rm1ENPraBxRvdd">
-          Den 25-26 mars 2004 konstaterade stats- och regeringscheferna
-          att "inom tjänstesektorn, som fortfarande är mycket splittrad,
-          fordras mer konkurrens för att öka effektiviteten, produktionen
-          och sysselsättningen och gynna konsumenterna. Behandlingen av
-          utkastet till direktiv om tjänster måste prioriteras i enlighet
-          med tidsplanen".
-        </p>
-        <p xml:id="i-2bamSFdDCMnkKnATJytJdw">
-          Här ser man att regeringen via statsminister Göran Persson för
-          bara drygt en månad sedan, gav stöd för den fortsatta avregleringen
-          av tjänstemarknaden och att behandlingen av tjänstedirektivet
-          ska prioriteras.
-        </p>
-        <p xml:id="i-KNZCS4RoL5czdo8dhGELJp">
-          Via uppgifter i media och från riksdagens frågestund har det
-          framkommit att regeringen möjligen har ändrat uppfattning om tjänstedirektivet
-          på senare tid. Men det har i så fall inte satt några officiella
-          avtryck i EU. Därför är det av synnerlig vikt med ett klargörande
-          från regeringen om hur den verkligen förhåller sig till kommissionens
-          förslag till tjänstedirektiv.
-        </p>
-        <p xml:id="i-WBm9D5YTEXAtoYDCGgXXiC">
-          Med hänvisning till ovanstående vill jag fråga statsrådet:
-        </p>
-        <p xml:id="i-85qd5yy7GSfAbJ9GUwiKqm">
-          1. Kommer ministern fortsättningsvis att agera för att stoppa
-          ett tjänstedirektiv som utgår från ursprungslandsprincipen och
-          ömsesidigt erkännande?
-        </p>
-        <p xml:id="i-VQ2NYo7QeKEbaVyzwvKVwi">
-          2. Kommer ministern att acceptera principen om ursprungsland
-          och ömsesidigt erkännande och enbart agera för att få igenom undantag?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Uvb2J3i27cwLgKzgwdfQ3n">
+            den 5 maj
+          </p>
+          <p xml:id="i-EEZxFCuAidACZBFxW6x6Yp">
+            På toppmötet i Lissabon våren 2000 startades en strategi med
+            målet att EU ska bli "världens mest konkurrenskraftiga och dynamiska
+            kunskapsbaserade ekonomi, med möjlighet till en hållbar ekonomisk
+            tillväxt med fler och bättre arbetstillfällen och en högre grad
+            av social sammanhållning". Kärnan i strategin handlar om att avreglera
+            och liberalisera tjänste- och kapitalmarknaderna. Bland annat
+            pekades el, gas, post, transporter och finansiella tjänster ut
+            som verksamheter som möjliga för avreglering.
+          </p>
+          <p xml:id="i-E1eDN9Kk7deQDTn7CyxzGK">
+            Stats- och regeringscheferna, inklusive statsminister Göran Persson,
+            uppmanade också EU-kommissionen att utarbeta en strategi för att
+            undanröja hinder för tjänster över gränserna, vilket nu har lett
+            fram till det omdiskuterade förslaget till tjänstedirektiv.
+          </p>
+          <p xml:id="i-RbnUVZwhCqa2N4CbSRJjZL">
+            När bland annat Europafacket och LO på senare tid framfört kritik
+            mot direktivet, har regeringen på olika sätt distanserat sig från
+            direktivet. Men faktum är att regeringen, såvitt går att bedöma
+            från ställningstaganden i olika EU-dokument, under flera år har
+            ställt sig bakom en avreglering av tjänstemarknaden, inklusive
+            framtagandet av ett direktiv byggt på de principer som nu finns
+            i det gällande förslaget från kommissionen.
+          </p>
+          <p xml:id="i-5kago7CRUeUi3fefPVGg1Y">
+            Det mest kontroversiella i förslaget till tjänstedirektiv är
+            att principen om ursprungsland och ömsesidigt erkännande införs
+            för tjänsteverksamhet över gränserna. Det innebär att tjänsteföretag
+            från ett annat land ska kunna vara verksamma i Sverige utan att
+            behöva följa den svenska lagstiftningen, utan bara vara bundna
+            av hemlandets lagstiftning. Jag kan inte finna att regeringen
+            vid något tillfälle har haft någon avgörande invändning mot denna
+            princip.
+          </p>
+          <p xml:id="i-9dN85crkXVdkXqFoq58FBS">
+            Den 14 november 2002 poängterade Rådet för konkurrenskraft med
+            Leif Pagrotsky att "mycket hög politisk prioritet bör ges undanröjandet
+            av såväl rättsliga som icke-rättsliga hinder för tjänster på den
+            inre marknaden.". Rådet uppmanade "kommissionen att, i de fall
+            då hinder inte kan undanröjas genom icke-rättsliga åtgärder eller
+            genom tillämpning av principen om ömsesidigt erkännande, vid behov
+            föreslå en harmonisering av relevant lagstiftning".
+          </p>
+          <p xml:id="i-TgFq8aaJWA5rEAx6UpX68W">
+            Den 11 mars 2004 framhöll Rådet för konkurrenskraft med Thomas
+            Östros "att det föreslagna ramdirektivet för tjänster på den inre
+            marknaden är ett viktigt led i strävan att öka den företagsrelaterade
+            tjänsteverksamhetens konkurrenskraft och förbinder sig att prioritera
+            behandlingen av förslaget".
+          </p>
+          <p xml:id="i-NKgQqfQy1hWgs9e9LB5h5J">
+            Regeringen har också på toppmötesnivå vid ett flertal tillfällen
+            ställt sig bakom kommissionens strategi för avreglering av tjänstemarknaden,
+            inklusive de grundläggande principerna i tjänstedirektivet.
+          </p>
+          <p xml:id="i-H7U8jfsuMRSTNrznfXYmNq">
+            I Barcelona den 15-16 mars 2002 fastslog stats- och regeringscheferna
+            att "uppnåendet av en verklig inre marknad kräver snabbare framsteg
+            när det gäller integreringen av marknaderna för tjänsterna, ytterligare
+            öppnande av offentlig upphandling, en vidare tillämpning av principen
+            om ömsesidigt erkännande.". Vidare att "konkurrensmöjligheterna
+            bör förstärkas inom tjänstesektorerna genom att undanröja hindren
+            för gränsöverskridande handel och marknadstillträde. Rådet uppmanar
+            därför kommissionen att så snart som möjligt lägga fram den utlovade
+            uppföljningen av sitt meddelande om en strategi för tjänster på
+            den inre marknaden.".
+          </p>
+          <p xml:id="i-F7Via4BoVy9NawFs1Jcg9w">
+            Den 25-26 mars 2004 konstaterade stats- och regeringscheferna
+            att "inom tjänstesektorn, som fortfarande är mycket splittrad,
+            fordras mer konkurrens för att öka effektiviteten, produktionen
+            och sysselsättningen och gynna konsumenterna. Behandlingen av
+            utkastet till direktiv om tjänster måste prioriteras i enlighet
+            med tidsplanen".
+          </p>
+          <p xml:id="i-WBGPQkyQvZzTT3wrjsPTFo">
+            Här ser man att regeringen via statsminister Göran Persson för
+            bara drygt en månad sedan, gav stöd för den fortsatta avregleringen
+            av tjänstemarknaden och att behandlingen av tjänstedirektivet
+            ska prioriteras.
+          </p>
+          <p xml:id="i-VZf6LVPth81AhA63vki1T4">
+            Via uppgifter i media och från riksdagens frågestund har det
+            framkommit att regeringen möjligen har ändrat uppfattning om tjänstedirektivet
+            på senare tid. Men det har i så fall inte satt några officiella
+            avtryck i EU. Därför är det av synnerlig vikt med ett klargörande
+            från regeringen om hur den verkligen förhåller sig till kommissionens
+            förslag till tjänstedirektiv.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-Siv9YEgNu2b3JJRDTYUCGy">
+            Med hänvisning till ovanstående vill jag fråga statsrådet:
+            <list rend="unordered">
+              <item>
+                1. Kommer ministern fortsättningsvis att agera för att stoppa
+                ett tjänstedirektiv som utgår från ursprungslandsprincipen och
+                ömsesidigt erkännande?
+              </item>
+              <item>
+                2. Kommer ministern att acceptera principen om ursprungsland
+                och ömsesidigt erkännande och enbart agera för att få igenom undantag?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

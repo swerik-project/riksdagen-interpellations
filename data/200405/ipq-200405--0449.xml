@@ -3,74 +3,118 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>löneskillnader i staten</title>
+        <author>Acketoft, Tina (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>löneskillnader i staten till statsrådet Jens Orback om löneskillnader i staten</title>
+          <idno type="rdwebb">GS10449</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10449/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10449</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10449</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-S7wLw9aynA5vbRCsqxxL3N</idno>
+            <persName>Tina Acketoft</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UEQA68w6PM78ttj4KfvgwE</idno>
+            <persName>Jens Orback</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-3epFP3cERquwkpkkSudSzZ" corresp="i-S7wLw9aynA5vbRCsqxxL3N">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GyjsqmToy7ZhG8t8E3tYCa">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-34cGFkVQ7NjWfaExbrmvRc">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9GA5SgRuh7yszvcidqeR66" corresp="i-UEQA68w6PM78ttj4KfvgwE">
+          <date when="2005-03-09"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VUekH7pjwoHN1WAbEQGqWt" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspContext corresp="i-VUekH7pjwoHN1WAbEQGqWt">
+          <ref type="record" target="prot-200405--106">Riksdagens protokoll 2004/05:106 Fredagen den 15 april</ref>
+          <ref type="recordSection" target="unsetDivId">19 § Svar på interpellation 2004/05:449 om löneskillnader i staten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0449</head>
-        <author who="i-S7wLw9aynA5vbRCsqxxL3N">Tina Acketoft</author>
-        <recipient who="i-UEQA68w6PM78ttj4KfvgwE">Jens Orback</recipient>
-        <topic>löneskillnader i staten</topic>
-        <docDate when="2005-03-09">den 9 mars</docDate>
-        <status when="unknown" byWhom="Sven-Erik Österberg" byWhomId="i-9fdWbFK67588CD12XaNZBq" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10449</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:449 av Tina Acketoft (fp) till statsrådet
-          Jens Orback om löneskillnader i staten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2ErC71T6K4VRsVEdx7RfrV">
+            Interpellation 2004/05:449 av Tina Acketoft (fp) till statsrådet
+            Jens Orback om löneskillnader i staten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-ETP5mTbtwJAaNXNeXXZFyr">
+            den 9 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RZQUxaP5tyfUPK2Y7XYME4">
-          I många år har löneskillnaderna mellan kvinnor och män diskuterats.
-          Trots det fortsätter utvecklingen på samma sätt. Detta visar en
-          nyligen gjord undersökning som SCB gjort på uppdrag ifrån fackförbundet
-          ST.
-        </p>
-        <p xml:id="i-YCpRXG17f65gzi1qubKRUp">
-          SCB har undersökt könsskillnader i löner för statligt anställda.
-          Det är ingen generell statistik över alla anställda utan statistiken
-          är nedbruten på ålder, utbildning och arbetets innehåll. På 63
-          av de 78 undersökta myndigheterna får kvinnor mindre betalt än
-          männen för samma arbete. Det motsvarar mer än 80 % av arbetsplatserna.
-          Löneskillnaderna kan röra sig om flera tusen kronor. På 22 av
-          myndigheterna finns en könsrelaterad löneskillnad på mer än tusen
-          kronor per månad. Sämst ställt är det på Pliktverket där kvinnor
-          bara tjänar 89 % av männens löner för samma arbete och med samma
-          utbildningsnivå. Det motsvarar en löneskillnad på nära 3 300 kr
-          i månaden. Det är inte acceptabelt år 2005.
-        </p>
-        <p xml:id="i-By7GbnX6Mi3XwbWb8rpxDX">
-          Till skillnad mot i näringslivet har regeringen makt att påverka
-          lönerna bland sina egna anställda inom den statliga förvaltningen.
-          Trots det är olikheterna fortfarande så stora.
-        </p>
-        <p xml:id="i-RAeJf22s7i1RUQKYi2GNmG">
-          Mot bakgrund av denna fråga undrar jag vad statsrådet ämnar vidta
-          för åtgärder för att se till att löneskillnader mellan kvinnor
-          och män inom staten helt försvinner.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-ECfSeryRe5JEhGbJ4Cszrx">
+            I många år har löneskillnaderna mellan kvinnor och män diskuterats.
+            Trots det fortsätter utvecklingen på samma sätt. Detta visar en
+            nyligen gjord undersökning som SCB gjort på uppdrag ifrån fackförbundet
+            ST.
+          </p>
+          <p xml:id="i-R13GTpBckgaY9XHvN1feKz">
+            SCB har undersökt könsskillnader i löner för statligt anställda.
+            Det är ingen generell statistik över alla anställda utan statistiken
+            är nedbruten på ålder, utbildning och arbetets innehåll. På 63
+            av de 78 undersökta myndigheterna får kvinnor mindre betalt än
+            männen för samma arbete. Det motsvarar mer än 80 % av arbetsplatserna.
+            Löneskillnaderna kan röra sig om flera tusen kronor. På 22 av
+            myndigheterna finns en könsrelaterad löneskillnad på mer än tusen
+            kronor per månad. Sämst ställt är det på Pliktverket där kvinnor
+            bara tjänar 89 % av männens löner för samma arbete och med samma
+            utbildningsnivå. Det motsvarar en löneskillnad på nära 3 300 kr
+            i månaden. Det är inte acceptabelt år 2005.
+          </p>
+          <p xml:id="i-ToQkb339y6fGz2WbmxhH84">
+            Till skillnad mot i näringslivet har regeringen makt att påverka
+            lönerna bland sina egna anställda inom den statliga förvaltningen.
+            Trots det är olikheterna fortfarande så stora.
+          </p>
+          <p xml:id="i-9sszdr7iCmBY7XQSVYg4bj">
+            Mot bakgrund av denna fråga undrar jag vad statsrådet ämnar vidta
+            för åtgärder för att se till att löneskillnader mellan kvinnor
+            och män inom staten helt försvinner.
+          </p>
+        </div>
       </div>
     </body>
   </text>

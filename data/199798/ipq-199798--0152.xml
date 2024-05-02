@@ -3,71 +3,96 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Post- och telestyrelsen</title>
+        <author>Per Westerberg (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:152 av Per Westerberg (m) till kommunika­tionsministern om Post- och telestyrelsen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_156.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Per Westerberg (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-D74cdq6EQpWG5dWigfnSSw</idno>
+          </person>
+          <person gender="woman">
+            <persName>kommunika­tionsministern</persName>
+            <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XJW3gtyCwAcrrTMjZePJaZ" corresp="i-D74cdq6EQpWG5dWigfnSSw">
+          <date when="1997-01-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-6Fzrgyq2ATWtJa7nQx5cFJ">
+          <note>date unknown</note>
+          <name>kommunika­tionsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-ZPJDcL4JskL94jYx2Dc5t">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SWLhNxvdCQcs21tUiwofU8">
+          <date when="1997-02-12"/>
+        </correspAction>
+        <correspContext corresp="i-SWLhNxvdCQcs21tUiwofU8">
+          <ref type="record" target="prot-199798--066">Prot. 1997/98:66</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:152</head>
-        <author who="i-D74cdq6EQpWG5dWigfnSSw">Per Westerberg (m)</author>
-        <minister who="unknown">kommunika­tionsministern</minister>
-        <topic>Post- och telestyrelsen</topic>
-        <docDate when="1998-01-29">Inkom den 29 januari</docDate>
-        <status inProtocol="199798/prot-199798--066.xml" when="1998-02-12" status="answered">Besvarad den 12 februari, Prot. 1997/98:66</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:152 av Per Westerberg (m) till kommunika­tionsministern
-          om Post- och telestyrelsen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 29 januariBesvarad den 12 februari Prot. 1997/98:66
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-5a5U7SPQFJf4Ps1eDjCGgy">
+            Interpellation 1997/98:152 av Per Westerberg (m) till kommunika­tionsministern
+            om Post- och telestyrelsen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PsSXZR3xEy6rwESsCGoyp6">
+            Inkom den 29 januari : Besvarad den 12 februari Prot. 1997/98:66
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2A7uELs2wLKgesqfRDrJnP">
-          Post- och telestyrelsen har en mycket central roll i det svenska
-          sam­hället. Som tillsynsmyndighet för mycket viktiga kommunikationsformer
-          som telefoni och postbefordran skall Post- och telestyrelsen bl.a.
-          tillse att telemarknaden fungerar effektivt, inte minst från konsumentsynpunkt.
-        </p>
-        <p xml:id="i-UMqPkH4HdKHBjw11GeS2Q4">
-          Myndigheten har också för civilförsvaret avgörande betydelse.
-          Post- och telestyrelsen har regeringens uppdrag att tillse att
-          samhället klarar svåra påfrestningar i fred avseende telekommunikation
-          och postbeford­ran.
-        </p>
-        <p xml:id="i-PXAhyQ9yxrK5XXjeZscTC4">
-          Post- och telestyrelsens generaldirektör avgick - efter lång
-          förvarning - i höstas. Någon efterträdare har av regeringen ännu
-          ej utsetts. Det är mycket betydelsefullt att bl.a. det fortsatta
-          avregleringsarbetet på post­marknaden skall fungera så friktionsfritt
-          som möjligt.
-        </p>
-        <p xml:id="i-16EMxtd9fk5unAoGorX9zw">
-          Jag skulle mot denna bakgrund vilja fråga kommunikationsministern
-          när hon avser tillsätta en ny generaldirektör.
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_157.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-3sVyQNw5ZrKmQPCs343JQb">
+            Post- och telestyrelsen har en mycket central roll i det svenska
+            sam­hället. Som tillsynsmyndighet för mycket viktiga kommunikationsformer
+            som telefoni och postbefordran skall Post- och telestyrelsen bl.a.
+            tillse att telemarknaden fungerar effektivt, inte minst från konsumentsynpunkt.
+          </p>
+          <p xml:id="i-4UZcfoeAUaX3LYGF7vifqf">
+            Myndigheten har också för civilförsvaret avgörande betydelse.
+            Post- och telestyrelsen har regeringens uppdrag att tillse att
+            samhället klarar svåra påfrestningar i fred avseende telekommunikation
+            och postbeford­ran.
+          </p>
+          <p xml:id="i-67VuQAmZm7c2CAM4Sucvr2">
+            Post- och telestyrelsens generaldirektör avgick - efter lång
+            förvarning - i höstas. Någon efterträdare har av regeringen ännu
+            ej utsetts. Det är mycket betydelsefullt att bl.a. det fortsatta
+            avregleringsarbetet på post­marknaden skall fungera så friktionsfritt
+            som möjligt.
+          </p>
+          <p xml:id="i-24zVzh2SK7x7PP6GNcueH4">
+            Jag skulle mot denna bakgrund vilja fråga kommunikationsministern
+            när hon avser tillsätta en ny generaldirektör.
+          </p>
+        </div>
       </div>
     </body>
   </text>

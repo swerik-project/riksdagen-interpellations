@@ -3,70 +3,114 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>utbetalning av EU-stöd 2004</title>
+        <author>Sjösten, Ulf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>utbetalning av EU-stöd 2004 till finansminister Bosse Ringholm om utbetalning av EU-stöd 2004</title>
+          <idno type="rdwebb">GS1032</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1032/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1032</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1032</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-D6hrZCxPVTQxPgXvGFfuJ7</idno>
+            <persName>Ulf Sjösten</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HhkgRHGRURfXTuftg1jHSf</idno>
+            <persName>Ann-Christin Nykvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Vxjp8dPjC4LqozB3YY5x6Y" corresp="i-D6hrZCxPVTQxPgXvGFfuJ7">
+          <date when="2004-09-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-GkxLeuUgv3hjUkRyX19oAo">
+          <date when="2004-09-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Es4bAPbdoVtpVXhDSrzHUh">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-RJwJ9zhEbcMAABpg5ZA2i4" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2004-09-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-U6K6gmkh2RgrYa7LRgpuvt" corresp="i-HhkgRHGRURfXTuftg1jHSf">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspContext corresp="i-U6K6gmkh2RgrYa7LRgpuvt">
+          <ref type="record" target="prot-200405--012">Riksdagens protokoll 2004/05:12 Tisdagen den 12 oktober</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellationerna 2004/05:23 och 32 om framtidsutsikterna för svensk livsmedelsproduktion</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0032</head>
-        <author who="i-D6hrZCxPVTQxPgXvGFfuJ7">Ulf Sjösten</author>
-        <recipient who="i-A5R84cTmpky3NHJ7nLKaEt">Bosse Ringholm</recipient>
-        <topic>utbetalning av EU-stöd 2004</topic>
-        <docDate when="2004-09-24">den 24 september</docDate>
-        <status when="unknown" byWhom="Ann-Christin Nykvist" byWhomId="i-HhkgRHGRURfXTuftg1jHSf" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1032</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:32 av Ulf Sjösten (m) till finansminister
-          Bosse Ringholm om utbetalning av EU-stöd 2004
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CRNAfoZPeecHxGAVjCnLoW">
+            Interpellation 2004/05:32 av Ulf Sjösten (m) till finansminister
+            Bosse Ringholm om utbetalning av EU-stöd 2004
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-9Yv1XxMMyhRTicVaKzy1mT">
+            den 24 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PeUzBhQgnGXWDWocwuiHWE">
-          Enligt uppgift kommer utbetalning av EU-stöd till landets lantbrukare
-          för 2004 att senareläggas för utbetalning till första delen av
-          2005.
-        </p>
-        <p xml:id="i-A7kMBvsDpHmG9MfEi9cACX">
-          Slutet av ett kalenderår är en utgiftstyngd period för landets
-          jordbrukare med betalning av räntor, amorteringar och inköp av
-          kommande års förnödenheter, vilket kommer att innebära stora problem
-          för de flesta av dessa näringsidkare. Likviditeten pressas hårt
-          och handlingsutrymmet i företagen begränsas.
-        </p>
-        <p xml:id="i-PhxomTJgtZFgNdVjEbAG64">
-          Sverige är vidare det enda land som har valt att senarelägga
-          utbetalningarna.
-        </p>
-        <p xml:id="i-7WkrdyvV5T1wiJqUuQe58f">
-          Ur böndernas perspektiv är det orimligt att senarelägga utbetalningar
-          i storleksordningen 6 miljarder kronor för att staten ska klara
-          utgiftstaket.
-        </p>
-        <p xml:id="i-5C4invK6kN6d9Hw3y3XNgN">
-          Vilka åtgärder avser finansministern att vidta för att bönderna
-          ska få sina EU-stöd under innevarande kalenderår?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-QpvXmQfRWjJ1FWqYTZvTAM">
+            Enligt uppgift kommer utbetalning av EU-stöd till landets lantbrukare
+            för 2004 att senareläggas för utbetalning till första delen av
+            2005.
+          </p>
+          <p xml:id="i-QajRedDJ9GZVSj6mSs8JdQ">
+            Slutet av ett kalenderår är en utgiftstyngd period för landets
+            jordbrukare med betalning av räntor, amorteringar och inköp av
+            kommande års förnödenheter, vilket kommer att innebära stora problem
+            för de flesta av dessa näringsidkare. Likviditeten pressas hårt
+            och handlingsutrymmet i företagen begränsas.
+          </p>
+          <p xml:id="i-XhkoDa3Cp6NosEbB9aDsLD">
+            Sverige är vidare det enda land som har valt att senarelägga
+            utbetalningarna.
+          </p>
+          <p xml:id="i-79usuDtvc6xYBVhzHjjDkp">
+            Ur böndernas perspektiv är det orimligt att senarelägga utbetalningar
+            i storleksordningen 6 miljarder kronor för att staten ska klara
+            utgiftstaket.
+          </p>
+          <p xml:id="i-VDv1FXB9sukWgQpuo6mo8x">
+            Vilka åtgärder avser finansministern att vidta för att bönderna
+            ska få sina EU-stöd under innevarande kalenderår?
+          </p>
+        </div>
       </div>
     </body>
   </text>

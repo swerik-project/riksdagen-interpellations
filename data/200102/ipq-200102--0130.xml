@@ -3,86 +3,111 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Internetröstning i allmänna val</title>
+        <author>Kinberg, Anna (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Internetröstning i allmänna val till statsrådet Britta Lejon om Internetröstning i allmänna val</title>
+          <idno type="rdwebb">GP10130</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GP10130/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GP10130</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GP10130</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-CajxChHCyySL6R6AQNT1bF</idno>
+            <persName>Kinberg, Anna (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-sS6VZTVNkCN6AHvZNaaYb</idno>
+            <persName>statsrådet Britta Lejon </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-sS6VZTVNkCN6AHvZNaaYb</idno>
+            <persName>statsrådet Britta Lejon </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-EtzQWY7sRsrVuHr9oCkDCu" corresp="i-sS6VZTVNkCN6AHvZNaaYb">
+          <date when="2001-12-11"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6578gkYZyQjgYRWNLhKruy" corresp="i-sS6VZTVNkCN6AHvZNaaYb">
+          <date when="2002-01-24"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-UC2KucTrS4q7cZYnpPd1y2" corresp="i-CajxChHCyySL6R6AQNT1bF">
+          <date when="2001-12-06"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200102--0130</head>
-        <author who="i-CajxChHCyySL6R6AQNT1bF">Kinberg, Anna (m) </author>
-        <recipient who="i-sS6VZTVNkCN6AHvZNaaYb">statsrådet Britta Lejon </recipient>
-        <topic>Internetröstning i allmänna val</topic>
-        <docDate when="2001-12-05">den 5 december</docDate>
-        <status when="2002-01-24" byWhom="statsrådet Britta Lejon " byWhomId="i-sS6VZTVNkCN6AHvZNaaYb" status="answered">besvarad</status>
-        <external_id source="rdwebb">GP10130</external_id>
-        <debate>
-          <turn when="2002-01-24 17:30:05" duration="226">Statsråd Britta Lejon (S)</turn>
-          <turn when="2002-01-24 17:33:47" duration="209">Anna Kinberg (M)</turn>
-          <turn when="2002-01-24 17:37:11" duration="152">Statsråd Britta Lejon (S)</turn>
-          <turn when="2002-01-24 17:39:40" duration="183">Anna Kinberg (M)</turn>
-          <turn when="2002-01-24 17:42:40" duration="73">Statsråd Britta Lejon (S)</turn>
-          <turn when="2002-01-24 17:43:50" duration="69">Anna Kinberg (M)</turn>
-          <turn when="2002-01-24 17:44:56" duration="43">Statsråd Britta Lejon (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2001/02:130 av Anna Kinberg (m) till statsrådet
-          Britta Lejon om Internetröstning i allmänna val
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-TWqXHyeHvM6YGo59aFPrZn">
+            Interpellation 2001/02:130 av Anna Kinberg (m) till statsrådet
+            Britta Lejon om Internetröstning i allmänna val
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-SjrMDfc4CgXFefvGBEqXES">
+            den 5 december
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Fd5uoUq6aLVJn747S5fo9p">
-          Redan nästa år blir det möjligt att deklarera på Internet, meddelade
-          Riksskatteverket i dag. Posten, Telia och storbankerna levererar
-          utrustning och tjänster för verksamheten. Självdeklaration på
-          Internet kräver högsta nivå på säkerhet och integritet för den
-          enskilde, liksom på korrekthet och tillförlitlighet i hanteringen
-          av uppgifterna eftersom de tillsammans utgör större delen av statskassan.
-          Båda dessa krav verkar den ansvariga myndigheten nu anse vara
-          tillgodosedda och möjliggör därför deklarationsinlämning via Internet
-          redan nästa år.
-        </p>
-        <p xml:id="i-84zDw85H2PXe73qmkUTWdA">
-          Riksskatteverket och Riksförsäkringsverket menar också att tekniska
-          lösningar nu finns för att öppna folkbokföringen för Internetkommunikation
-          och inventerar nu intresset hos övriga statliga myndigheter. En
-          myndighet som då bör vara aktuell är valmyndigheten. När statsrådet
-          tidigare kommenterat frågan om möjligheten att delta i allmänna
-          val via Internet har just säkerheten och valhemligheten framhållits
-          som ett frågetecken som behöver rätas ut.
-        </p>
-        <p xml:id="i-Eu5zvFuF9MuRSteopSaDnT">
-          Med anledning av Riksskatteverkets klartecken för hantering av
-          känsliga personuppgifter via Internet undrar jag:
-        </p>
-        <p xml:id="i-TF5sFjA1tBJZygB2g3MBzv">
-          Vad avser statsrådet göra för att möjliggöra Internetröstning
-          i allmänna val?
-        </p>
-        <p xml:id="i-xkP9cZuwLbon6g2c3T8Kf">
-          När bedömer statsrådet att Internetröstning i allmänna val kan
-          vara möjlig?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FF93iR6Gw4SxT45DrZjJym">
+            Redan nästa år blir det möjligt att deklarera på Internet, meddelade
+            Riksskatteverket i dag. Posten, Telia och storbankerna levererar
+            utrustning och tjänster för verksamheten. Självdeklaration på
+            Internet kräver högsta nivå på säkerhet och integritet för den
+            enskilde, liksom på korrekthet och tillförlitlighet i hanteringen
+            av uppgifterna eftersom de tillsammans utgör större delen av statskassan.
+            Båda dessa krav verkar den ansvariga myndigheten nu anse vara
+            tillgodosedda och möjliggör därför deklarationsinlämning via Internet
+            redan nästa år.
+          </p>
+          <p xml:id="i-Hx8dvFK6qBBU7RHQ6AR2zV">
+            Riksskatteverket och Riksförsäkringsverket menar också att tekniska
+            lösningar nu finns för att öppna folkbokföringen för Internetkommunikation
+            och inventerar nu intresset hos övriga statliga myndigheter. En
+            myndighet som då bör vara aktuell är valmyndigheten. När statsrådet
+            tidigare kommenterat frågan om möjligheten att delta i allmänna
+            val via Internet har just säkerheten och valhemligheten framhållits
+            som ett frågetecken som behöver rätas ut.
+          </p>
+          <p xml:id="i-8DieFxThmYGDSJTMSo8ZfD">
+            Med anledning av Riksskatteverkets klartecken för hantering av
+            känsliga personuppgifter via Internet undrar jag:
+          </p>
+          <p xml:id="i-13Vvd9BQ2ow9UrUfTaPVEu">
+            Vad avser statsrådet göra för att möjliggöra Internetröstning
+            i allmänna val?
+          </p>
+          <p xml:id="i-3Pa5guXKC5wkf7hKNXLFnh">
+            När bedömer statsrådet att Internetröstning i allmänna val kan
+            vara möjlig?
+          </p>
+        </div>
       </div>
     </body>
   </text>

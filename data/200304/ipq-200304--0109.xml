@@ -3,91 +3,123 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fakturabedrägeri</title>
+        <author>Gerdin, Viviann (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>fakturabedrägeri till justitieminister Thomas Bodström om fakturabedrägeri</title>
+          <idno type="rdwebb">GR10109</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10109/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10109</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10109</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-MAjkY7TMfvfsiuE3eArFUA</idno>
+            <persName>Viviann Gerdin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-D7MK8YQe2QNpHAGHs4pB1v" corresp="i-MAjkY7TMfvfsiuE3eArFUA">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AjjYvt8cBKNfU6Ao9KT3zg" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-14"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-RKXQPuSTNsMyfc2FEbQKsL">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-ysz4dkkFDhBFn3T41592m" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspContext corresp="i-ysz4dkkFDhBFn3T41592m">
+          <ref type="record" target="prot-200304--043">Riksdagens protokoll 2003/04:43 Fredagen den 5 december</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2003/04:109 om fakturabedrägeri</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0109</head>
-        <author who="i-MAjkY7TMfvfsiuE3eArFUA">Viviann Gerdin</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>fakturabedrägeri</topic>
-        <docDate when="2003-11-14">den 14 november</docDate>
-        <status when="2003-12-05" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10109</external_id>
-        <debate>
-          <turn when="2003-12-05 12:47:18" duration="131">Thomas Bodström (S)</turn>
-          <turn when="2003-12-05 12:49:25" duration="229">Viviann Gerdin (C)</turn>
-          <turn when="2003-12-05 12:53:10" duration="240">Björn Hamilton (M)</turn>
-          <turn when="2003-12-05 13:00:08" duration="210">Viviann Gerdin (C)</turn>
-          <turn when="2003-12-05 13:03:35" duration="142">Björn Hamilton (M)</turn>
-          <turn when="2003-12-05 13:05:54" duration="122">Thomas Bodström (S)</turn>
-          <turn when="2003-12-05 13:07:53" duration="362">Viviann Gerdin (C)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:109 av Viviann Gerdin (c) till justitieminister
-          Thomas Bodström om fakturabedrägeri
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-D9Z4jcsQLCa19sQmK6MdxQ">
+            Interpellation 2003/04:109 av Viviann Gerdin (c) till justitieminister
+            Thomas Bodström om fakturabedrägeri
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-EWHivdfFA7o6BnQHqSJEmr">
+            den 14 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3mAzsXfGXW14jzbpJwWxaS">
-          Flera tusen konsumenter runtom i landet har på senare tid drabbats
-          av bluffakturor och hotfulla krav när de vägrat att betala för
-          tjänster som de inte köpt. Främst handlar fakturakraven om modemkapningar
-          och betaltjänster via Internet.
-        </p>
-        <p xml:id="i-8mwK8zzKSWj4yGUnikFV5V">
-          De drabbade känner sig maktlösa och även rädda på grund av bluffmakarnas
-          metoder. I sin förtvivlan vänder sig de drabbade till kommunernas
-          konsumentvägledare, där många nu drunknar i samtal rörande bluffakturor.
-        </p>
-        <p xml:id="i-QSPJ8bnhGdWuWhAk8xcjxX">
-          En rad anmälningar inkommer även till polisen men detta hindrar
-          inte bluffmakarna att fortsätta bedriva sin verksamhet. Det senaste
-          är att blufföretagen blivit tuffare och nu även går vidare till
-          domstol för att driva in sin fordran.
-        </p>
-        <p xml:id="i-DcB4J25WGfeYD5wJZcCXUm">
-          Konsumentverket har uppmärksammat problemen med bluffakturorna
-          och erbjuder konsumenterna dataprogrammet Bluffstopparen som kan
-          laddas ned från deras hemsida. Bluffstopparen är ett försök att
-          hejda Internetbedrägerierna genom att den fungerar som en portvakt.
-        </p>
-        <p xml:id="i-471nXiwMteBEqW6w431azV">
-          Modemkapningar sker i dag mot Internetanvändare utan att de är
-          medvetna om detta. Att bli uppkopplad till en betaltjänst ofrivilligt
-          utan en aktiv handling från Internetanvändaren måste vara olagligt!
-          Är bluffbolagens verksamhet olaglig måste den bekämpas. Finns
-          det brister i konsumentlagstiftningen måste den snarast kompletteras.
-        </p>
-        <p xml:id="i-824LumAwmkJKVJfH3bz5ch">
-          Jag vill därför fråga justitieministern:
-        </p>
-        <p xml:id="i-Eiyi9EUo9pfP7RCvwzdWPU">
-          Vilka åtgärder avser justitieministern att vidta för att stoppa
-          den accelererande verksamheten med bluffakturor?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BNmAxjiSDsF15YZyRksKvp">
+            Flera tusen konsumenter runtom i landet har på senare tid drabbats
+            av bluffakturor och hotfulla krav när de vägrat att betala för
+            tjänster som de inte köpt. Främst handlar fakturakraven om modemkapningar
+            och betaltjänster via Internet.
+          </p>
+          <p xml:id="i-FkprLK95XBhPg96aKyU8pe">
+            De drabbade känner sig maktlösa och även rädda på grund av bluffmakarnas
+            metoder. I sin förtvivlan vänder sig de drabbade till kommunernas
+            konsumentvägledare, där många nu drunknar i samtal rörande bluffakturor.
+          </p>
+          <p xml:id="i-Sx77t9Bf95vxc5b7tKjuRZ">
+            En rad anmälningar inkommer även till polisen men detta hindrar
+            inte bluffmakarna att fortsätta bedriva sin verksamhet. Det senaste
+            är att blufföretagen blivit tuffare och nu även går vidare till
+            domstol för att driva in sin fordran.
+          </p>
+          <p xml:id="i-Nb6gP6Z2epc2Y686N1vwkM">
+            Konsumentverket har uppmärksammat problemen med bluffakturorna
+            och erbjuder konsumenterna dataprogrammet Bluffstopparen som kan
+            laddas ned från deras hemsida. Bluffstopparen är ett försök att
+            hejda Internetbedrägerierna genom att den fungerar som en portvakt.
+          </p>
+          <p xml:id="i-Lrptv1AHSxb22sPqBN4kC4">
+            Modemkapningar sker i dag mot Internetanvändare utan att de är
+            medvetna om detta. Att bli uppkopplad till en betaltjänst ofrivilligt
+            utan en aktiv handling från Internetanvändaren måste vara olagligt!
+            Är bluffbolagens verksamhet olaglig måste den bekämpas. Finns
+            det brister i konsumentlagstiftningen måste den snarast kompletteras.
+          </p>
+          <p xml:id="i-85oZhtJQQhyVFCdBYctkcm">
+            Jag vill därför fråga justitieministern:
+          </p>
+          <p xml:id="i-UjrJ93iCLJYx86QBwPuSC2">
+            Vilka åtgärder avser justitieministern att vidta för att stoppa
+            den accelererande verksamheten med bluffakturor?
+          </p>
+        </div>
       </div>
     </body>
   </text>

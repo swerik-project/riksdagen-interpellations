@@ -3,61 +3,86 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>permanentboende utan tillgång till el</title>
+        <author>Sigrid Bolkéus (s)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:34 av Sigrid Bolkéus (s) till statsrådet Jörgen Andersson om permanentboende utan tillgång till el</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_36.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Sigrid Bolkéus (s)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>s</desc>
+            </state>
+            <idno>i-82FJELMx7YFRYjpsFj8aw9</idno>
+          </person>
+          <person gender="man">
+            <persName>statsrådet Jörgen Andersson</persName>
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-7tw7SvAjgkmwDjnbw2t6Gs" corresp="i-82FJELMx7YFRYjpsFj8aw9">
+          <date when="1995-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-BsBFhVHCvzpQcFn8AekxyB">
+          <note>date unknown</note>
+          <name>statsrådet Jörgen Andersson</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-S8gkJasBi7iECzfbJeuzJ3">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CYHtwMJatTmSWE9FfXrsTg">
+          <date when="1995-01-25"/>
+        </correspAction>
+        <correspContext corresp="i-CYHtwMJatTmSWE9FfXrsTg">
+          <ref type="record" target="prot-199596--045">Prot. 1995/96:45</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:34</head>
-        <author who="i-82FJELMx7YFRYjpsFj8aw9">Sigrid Bolkéus (s)</author>
-        <minister who="unknown">statsrådet Jörgen Andersson</minister>
-        <topic>permanentboende utan tillgång till el</topic>
-        <docDate when="1995-11-23">Inkom den 23 november</docDate>
-        <status inProtocol="199596/prot-199596--045.xml" when="1996-01-25" status="answered">Besvarad den 25 januari, Prot. 1995/96:45</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:34 av Sigrid Bolkéus (s) till statsrådet Jörgen Andersson
-          om permanentboende utan tillgång till el
-        </IPQ_title>
-        <submission_info>
-          Inkom den 23 novemberBesvarad den 25 januari Prot. 1995/96:45
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-ECdCcZkfWjs4q4bUtdH4in">
+            1995/96:34 av Sigrid Bolkéus (s) till statsrådet Jörgen Andersson
+            om permanentboende utan tillgång till el
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-BGD79xSKBn87efRKoRRGoj">
+            Inkom den 23 november : Besvarad den 25 januari Prot. 1995/96:45
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-SmnVQ4LXmSn4xAymwcGxdx">
-          Regeringen har uppdragit till Närings- och teknikutvecklingsverket
-          (NUTEK) att kartlägga antalet oelektrifierade helårsbebodda fastighe­ter
-          i Sverige och uppdraget skall redovisas senast den 29 december
-          1995. Förra kartläggningen gjordes 1990 och visade att 204 perma­nentboende
-          fastigheter saknade elström. Dessa fastigheter finns främst i
-          norra Sverige och har drabbats av verkningarna av vattenkraftsutbygg­naden
-          men inte fått del av elproduktionen.
-        </p>
-        <p xml:id="i-F9xJhVXW9xnngoPzmoE2iU">
-          Vad har regeringen gjort med anledning av den kartläggning av
-          permanentboende utan tillgång till elström som gjordes 1990?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_37.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-BipNnKJDtMNkUrAaeNYTxX">
+            Regeringen har uppdragit till Närings- och teknikutvecklingsverket
+            (NUTEK) att kartlägga antalet oelektrifierade helårsbebodda fastighe­ter
+            i Sverige och uppdraget skall redovisas senast den 29 december
+            1995. Förra kartläggningen gjordes 1990 och visade att 204 perma­nentboende
+            fastigheter saknade elström. Dessa fastigheter finns främst i
+            norra Sverige och har drabbats av verkningarna av vattenkraftsutbygg­naden
+            men inte fått del av elproduktionen.
+          </p>
+          <p xml:id="i-3cFBSvRxA1xcYJrTouR5fU">
+            Vad har regeringen gjort med anledning av den kartläggning av
+            permanentboende utan tillgång till elström som gjordes 1990?
+          </p>
+        </div>
       </div>
     </body>
   </text>

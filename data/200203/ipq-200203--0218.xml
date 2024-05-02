@@ -3,132 +3,163 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>satsningar på friskvård</title>
+        <author>Larsson, Maria (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>satsningar på friskvård till Statsrådet Hans Karlsson om satsningar på friskvård</title>
+          <idno type="rdwebb">GQ10218</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GQ10218/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GQ10218</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GQ10218</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
+            <persName>Hans Karlsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-QRsvF3ZLyYizozr4zuUhFC" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
+          <date when="2003-03-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5mGKDY1vFLwTetW3MnQGV7">
+          <date when="2003-03-06"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-7dijZjtFWuDQpox6HaUbNv">
+          <date when="2003-04-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-AQ5dDqxF1sUVwrEiwWSNeb" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
+          <date when="2003-03-06"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-NVczh7LXtzw5CijKkYsv79" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
+          <date when="2003-04-08"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200203--0218</head>
-        <author who="i-SKjAmNScZ7eZ3a8Xy1J8hs">Maria Larsson</author>
-        <recipient who="i-WMD43YDAt2Efk5C5qFXnaQ">Hans Karlsson</recipient>
-        <topic>satsningar på friskvård</topic>
-        <docDate when="2003-03-06">den 6 mars</docDate>
-        <status when="2003-04-08" byWhom="Bosse Ringholm" byWhomId="i-A5R84cTmpky3NHJ7nLKaEt" status="answered">besvarad</status>
-        <external_id source="rdwebb">GQ10218</external_id>
-        <debate>
-          <turn when="2003-04-08 19:29:18" duration="86">Bosse Ringholm (S)</turn>
-          <turn when="2003-04-08 19:30:39" duration="222">Maria Larsson (Kd)</turn>
-          <turn when="2003-04-08 19:34:18" duration="104">Bosse Ringholm (S)</turn>
-          <turn when="2003-04-08 19:35:58" duration="243">Maria Larsson (Kd)</turn>
-          <turn when="2003-04-08 19:39:58" duration="102">Bosse Ringholm (S)</turn>
-          <turn when="2003-04-08 19:41:37" duration="123">Maria Larsson (Kd)</turn>
-          <turn when="2003-04-08 19:43:37" duration="106">Bosse Ringholm (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2002/03:218 av Maria Larsson (kd) till statsrådet
-          Hans Karlsson om satsningar på friskvård
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-CuV6wMJDhjpBcxxughYdUS">
+            Interpellation 2002/03:218 av Maria Larsson (kd) till statsrådet
+            Hans Karlsson om satsningar på friskvård
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-2QSK7r5FqRUFaA6FttLGUL">
+            den 6 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-7daxoD7nb5p4yKf8SCvjJ5">
-          Att förebygga ohälsa, det vill säga att förhindra uppkomsten
-          av skador och sjukdom, är ett nödvändigt arbete som kan bespara
-          många människor stort lidande. I diskussionen om ohälsan talas
-          ofta om de höga kostnaderna för sjukskrivningarna och om produktionsbortfall.
-          För oss kristdemokrater är dock inte människan en produktionsfaktor,
-          ett medel för att uppnå någonting. Människan är ett mål i sig.
-          Att tillvarata den fysiska och psykiska hälsan är en självklarhet
-          och därför en oerhört viktig fråga för Kristdemokraterna. Det
-          får heller inte bli en ensidig fokusering på ohälsa i arbetslivet.
-          Ohälsa måste aktivt bekämpas vare sig man arbetar, är arbetslös,
-          student eller pensionär, för att nämna några exempel.
-        </p>
-        <p xml:id="i-HgH9wN1EUsHvSAix4ZyQmY">
-          I debatten om den ökande sjukfrånvaron har det blivit allt tydligare
-          att regeringen vill lägga ett större ansvar på arbetsgivarna.
-          En ökad andel av sjuklönekostnaderna diskuteras bland annat, vilket
-          med all rätt skapar stor oro hos landets företagare.
-        </p>
-        <p xml:id="i-7wGJTuTtk4uM78zZZ3v8Ce">
-          Det systematiska arbetsmiljöarbetet är en viktig källa till att
-          i tid identifiera orsaker till dålig hälsa. På lång sikt är det
-          förebyggande arbetet av stor betydelse för ett hälsosamt och uthålligt
-          arbetsliv. Att förebygga ohälsa, det vill säga att förhindra uppkomsten
-          av skador och sjukdom, är ett nödvändigt arbete som kan bespara
-          många människor stort lidande.
-        </p>
-        <p xml:id="i-EtcFMbFyLLjwMfeqAw4oit">
-          Genom att aktivt bedriva friskvård mår man bra både fysiskt och
-          psykiskt. Grunden för friskvård är fysisk aktivitet. Många arbetsgivare
-          tar ett ansvar för sina anställda genom erbjudanden om friskvård
-          av olika slag. Det är viktigt att goda incitament skapas för arbetsgivare
-          att erbjuda sina anställda god tillgång till förebyggande insatser.
-        </p>
-        <p xml:id="i-YHR6eNdQ6Z2fjnQSz1gJf5">
-          Tyvärr är reglerna för avdrag av kostnader för friskvård så utformade
-          att många arbetsgivare hellre avstår från satsningar på friskvård
-          än att riskera att dra på sig kostnader som de sedan inte kan
-          göra avdrag för.
-        </p>
-        <p xml:id="i-DRhynY7WWGFVk8PB1rRttS">
-          Enligt inkomstskattelagen är motion av mindre värde och av enklare
-          slag skattefri om den betalas av arbetsgivaren och erbjuds all
-          personal på ett företag samt utförs i egna eller hyrda lokaler.
-          Årskort på gym är alltså okej men inte årskort i golfklubb. Förebyggande
-          hälsovård i form av massage är inte avdragsgill.
-        </p>
-        <p xml:id="i-VsR5pcipxZaYamxkgzKtNK">
-          Det finns många exempel på företag som drabbats av både arbetsgivaravgift
-          och förmånsbeskattning av medel avsatta för friskvård. För ett
-          företag är det i dag lättare att göra avdrag för inventarier,
-          maskiner eller bilar än för friskvård av personal. Det är en egendomlig
-          syn på det humana kapitalet.
-        </p>
-        <p xml:id="i-4JTiXMgUe4imjwbcSyetTK">
-          Miljöteknikföretaget Mercatus i Vimmerby har gjort omfattande
-          friskvårdssatsningar på sin personal. Satsningarna har varit mycket
-          lyckosamma och man har pressat tillbaka sjukfrånvaron till en
-          tiondel av vad den var före satsningen. Men när man tilldelade
-          varje anställd en friskvårdscheck, värd 15 000 kr, sade skattemyndigheten
-          ifrån. Man fick betala extra arbetsgivaravgifter på sådana aktiviteter
-          som tidigare hade varit befriade från avgifter.
-        </p>
-        <p xml:id="i-XfwHRFfyk3u3VHk5YeSdis">
-          Med tanke på den situation vi nu befinner oss i, med skenande
-          sjukfrånvaro och ökad ohälsa i allmänhet, borde alla initiativ
-          syftande till ökad hälsa välkomnas. Om man gör det i en form med
-          stor valfrihet för den enskilde borde det inte straffas med arbetsgivaravgifter
-          och förmånsskatter.
-        </p>
-        <p xml:id="i-Ls1pg9ACs7uELbgoicugZE">
-          Med hänvisning till det anförda vill jag ställa följande fråga
-          till statsrådet Hans Karlsson:
-        </p>
-        <p xml:id="i-8jgXG7CzaQSAzrrFrVQ8SN">
-          Vilka åtgärder avser statsrådet att vidta för att skapa goda
-          incitament för företag att satsa på förebyggande frisk- och hälsovård?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-MJ4Vnk31Qst7YZu8bVqQyN">
+            Att förebygga ohälsa, det vill säga att förhindra uppkomsten
+            av skador och sjukdom, är ett nödvändigt arbete som kan bespara
+            många människor stort lidande. I diskussionen om ohälsan talas
+            ofta om de höga kostnaderna för sjukskrivningarna och om produktionsbortfall.
+            För oss kristdemokrater är dock inte människan en produktionsfaktor,
+            ett medel för att uppnå någonting. Människan är ett mål i sig.
+            Att tillvarata den fysiska och psykiska hälsan är en självklarhet
+            och därför en oerhört viktig fråga för Kristdemokraterna. Det
+            får heller inte bli en ensidig fokusering på ohälsa i arbetslivet.
+            Ohälsa måste aktivt bekämpas vare sig man arbetar, är arbetslös,
+            student eller pensionär, för att nämna några exempel.
+          </p>
+          <p xml:id="i-5jb29MJdiFGzcMvr1tCMxF">
+            I debatten om den ökande sjukfrånvaron har det blivit allt tydligare
+            att regeringen vill lägga ett större ansvar på arbetsgivarna.
+            En ökad andel av sjuklönekostnaderna diskuteras bland annat, vilket
+            med all rätt skapar stor oro hos landets företagare.
+          </p>
+          <p xml:id="i-mSFLQgQYnwC4vz3Gk95PG">
+            Det systematiska arbetsmiljöarbetet är en viktig källa till att
+            i tid identifiera orsaker till dålig hälsa. På lång sikt är det
+            förebyggande arbetet av stor betydelse för ett hälsosamt och uthålligt
+            arbetsliv. Att förebygga ohälsa, det vill säga att förhindra uppkomsten
+            av skador och sjukdom, är ett nödvändigt arbete som kan bespara
+            många människor stort lidande.
+          </p>
+          <p xml:id="i-7ef1S7p11BCVw1bsdf2Jed">
+            Genom att aktivt bedriva friskvård mår man bra både fysiskt och
+            psykiskt. Grunden för friskvård är fysisk aktivitet. Många arbetsgivare
+            tar ett ansvar för sina anställda genom erbjudanden om friskvård
+            av olika slag. Det är viktigt att goda incitament skapas för arbetsgivare
+            att erbjuda sina anställda god tillgång till förebyggande insatser.
+          </p>
+          <p xml:id="i-VLLeogdY7YqhSF19HVE7Z4">
+            Tyvärr är reglerna för avdrag av kostnader för friskvård så utformade
+            att många arbetsgivare hellre avstår från satsningar på friskvård
+            än att riskera att dra på sig kostnader som de sedan inte kan
+            göra avdrag för.
+          </p>
+          <p xml:id="i-S9wcvNguALnQ2jfm5nTk5s">
+            Enligt inkomstskattelagen är motion av mindre värde och av enklare
+            slag skattefri om den betalas av arbetsgivaren och erbjuds all
+            personal på ett företag samt utförs i egna eller hyrda lokaler.
+            Årskort på gym är alltså okej men inte årskort i golfklubb. Förebyggande
+            hälsovård i form av massage är inte avdragsgill.
+          </p>
+          <p xml:id="i-J7raCN9vvxz1DruS2QvhcB">
+            Det finns många exempel på företag som drabbats av både arbetsgivaravgift
+            och förmånsbeskattning av medel avsatta för friskvård. För ett
+            företag är det i dag lättare att göra avdrag för inventarier,
+            maskiner eller bilar än för friskvård av personal. Det är en egendomlig
+            syn på det humana kapitalet.
+          </p>
+          <p xml:id="i-3perA7LFgNtBcA9CbaCYZm">
+            Miljöteknikföretaget Mercatus i Vimmerby har gjort omfattande
+            friskvårdssatsningar på sin personal. Satsningarna har varit mycket
+            lyckosamma och man har pressat tillbaka sjukfrånvaron till en
+            tiondel av vad den var före satsningen. Men när man tilldelade
+            varje anställd en friskvårdscheck, värd 15 000 kr, sade skattemyndigheten
+            ifrån. Man fick betala extra arbetsgivaravgifter på sådana aktiviteter
+            som tidigare hade varit befriade från avgifter.
+          </p>
+          <p xml:id="i-49rTLnNyxaqo6d9JjJaZcd">
+            Med tanke på den situation vi nu befinner oss i, med skenande
+            sjukfrånvaro och ökad ohälsa i allmänhet, borde alla initiativ
+            syftande till ökad hälsa välkomnas. Om man gör det i en form med
+            stor valfrihet för den enskilde borde det inte straffas med arbetsgivaravgifter
+            och förmånsskatter.
+          </p>
+          <p xml:id="i-UVZwq3CcKWVRbPxs35K3qZ">
+            Med hänvisning till det anförda vill jag ställa följande fråga
+            till statsrådet Hans Karlsson:
+          </p>
+          <p xml:id="i-3wCDoHUjSMj1zCqz1uw85G">
+            Vilka åtgärder avser statsrådet att vidta för att skapa goda
+            incitament för företag att satsa på förebyggande frisk- och hälsovård?
+          </p>
+        </div>
       </div>
     </body>
   </text>

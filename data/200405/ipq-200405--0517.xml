@@ -3,108 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>avvecklingen av kärnkraften</title>
+        <author>Backman, Hans (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>avvecklingen av kärnkraften till näringsminister Thomas Östros om avvecklingen av kärnkraften</title>
+          <idno type="rdwebb">GS10517</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10517/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10517</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10517</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-A1WkfiAbmndDMThhAvrWEm</idno>
+            <persName>Hans Backman</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <persName>Mona Sahlin</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-BBPfuS8fahj5bnwnp8oE8D">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-3Hd4YPr28mbvpXLKuPtNHD" corresp="i-A1WkfiAbmndDMThhAvrWEm">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PiYAqZV2hnKzGzuPZBVDMj">
+          <date when="2005-04-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ds2U3EAhGQ9fFgptJRx8wC" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3RekLyyFHA5y2HTwMMq1S9" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
+          <date when="2005-04-26"/>
+        </correspAction>
+        <correspContext corresp="i-3RekLyyFHA5y2HTwMMq1S9">
+          <ref type="record" target="prot-200405--112">Riksdagens protokoll 2004/05:112 Tisdagen den 26 april</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2004/05:517 om avvecklingen av kärnkraften</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0517</head>
-        <author who="i-A1WkfiAbmndDMThhAvrWEm">Hans Backman</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>avvecklingen av kärnkraften</topic>
-        <docDate when="2005-04-15">den 15 april</docDate>
-        <status when="2005-04-26" byWhom="Mona Sahlin" byWhomId="i-GFJcxAB9fyzG2VN1HakscJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10517</external_id>
-        <debate>
-          <turn when="2005-04-26 18:00:24" duration="295">Mona Sahlin (S)</turn>
-          <turn when="2005-04-26 18:05:15" duration="244">Hans Backman (Fp)</turn>
-          <turn when="2005-04-26 18:09:16" duration="254">Axel Darvik (Fp)</turn>
-          <turn when="2005-04-26 18:13:26" duration="255">Ingegerd Saarinen (Mp)</turn>
-          <turn when="2005-04-26 18:17:37" duration="268">Mona Sahlin (S)</turn>
-          <turn when="2005-04-26 18:22:01" duration="267">Hans Backman (Fp)</turn>
-          <turn when="2005-04-26 18:26:24" duration="140">Axel Darvik (Fp)</turn>
-          <turn when="2005-04-26 18:28:40" duration="145">Ingegerd Saarinen (Mp)</turn>
-          <turn when="2005-04-26 18:31:00" duration="260">Mona Sahlin (S)</turn>
-          <turn when="2005-04-26 18:35:17" duration="150">Hans Backman (Fp)</turn>
-          <turn when="2005-04-26 18:37:42" duration="191">Mona Sahlin (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:517 av Hans Backman (fp) till näringsminister
-          Thomas Östros om avvecklingen av kärnkraften
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-AKWrocSVRUxye5nicj1aPr">
+            Interpellation 2004/05:517 av Hans Backman (fp) till näringsminister
+            Thomas Östros om avvecklingen av kärnkraften
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PvYqUSUtSEUD3J8up3yxnS">
+            den 15 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-6w9yPPWf74DVZQ7fNtB4fN">
-          Det är 25 år sedan svenskarna röstade om kärnkraften. Regeringens
-          energipolitik bygger på folkomröstningsresultatet från 1980. Men
-          sedan dess har flera helt avgörande faktorer förändrats. Det stora
-          energipolitiska vägval som vi i dag står inför kan sammanfattas:
-          Antingen väljer vi ökade koldioxidutsläpp eller så väljer vi att
-          behålla kärnkraften. Under åren har också svenskarnas inställning
-          till kärnkraft förändrats och blivit mer positiv.
-        </p>
-        <p xml:id="i-Ahh1RaqgHYPdkS6tXk1WaE">
-          Sveriges elproduktion bygger på vattenkraft och kärnkraft som
-          nästan inte ger några koldioxidutsläpp alls. Sverige är ett av
-          de i-länder som har lägst utsläpp av klimatpåverkande gaser. Det
-          märkliga är att den socialdemokratiska regeringen ändå verkar
-          vara fast besluten att överge denna produktionsstruktur för att
-          i stället öka koldioxidutsläppen, de utsläpp som resten av världen
-          är i full färd med att bekämpa. Nu senast har regeringen beslutat
-          om att stänga Barsebäck 2.
-        </p>
-        <p xml:id="i-3jHPkYmfq9QUiELrLHy2rB">
-          Regeringens ena mål med energipolitiken är att minska klimatpåverkan
-          genom att inte förbränna fossila bränslen. Samtidigt försöker
-          regeringen nå upp till energipolitikens andra mål. Målet att avveckla
-          kärnkraften, den elproduktion som inte ger några koldioxidutsläpp.
-          Detta trots att det inte finns fullvärdiga alternativ till kärnkraften.
-        </p>
-        <p xml:id="i-2yCG8mB1qiXHheKuokxYzm">
-          Sverige har redan bristande produktionskapacitet av el. Att i
-          det läget driva en linje som innebär att befintlig produktion
-          ska ställas av slår hårt mot bland annat den svenska basindustrin.
-          Landets viktiga skogs- och stålföretag är också oroade.
-        </p>
-        <p xml:id="i-8dDnXEfKkWREbyBrfFP2mN">
-          När elbrist uppstår så blir Sverige tvunget att importera el
-          från bland annat kolkraftverk i Danmark, Tyskland och Polen. Detta
-          resulterar i att både miljön och samhällsekonomin blir förlorare.
-        </p>
-        <p xml:id="i-86B7JKEkN3S3F7NCmASqbE">
-          Mot bakgrund av ovanstående vill jag ställa följande frågor till
-          näringsminister Thomas Östros:
-        </p>
-        <p xml:id="i-BZmRSAjdoMCzwgbNreC7sf">
-          Vilka åtgärder avser ministern att vidta för att minska utsläppen
-          av koldioxid i Sverige i samband med att kärnkraftverk stängs?
-        </p>
-        <p xml:id="i-XafG7FPrCHoFy3zxx8aC4S">
-          Vad avser ministern att göra för att stävja den oro som företag
-          inom de för Sverige så viktiga basindustrierna känner inför en
-          avveckling av kärnkraften?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-6sJL7RForjk7e4nZgh7SJ3">
+            Det är 25 år sedan svenskarna röstade om kärnkraften. Regeringens
+            energipolitik bygger på folkomröstningsresultatet från 1980. Men
+            sedan dess har flera helt avgörande faktorer förändrats. Det stora
+            energipolitiska vägval som vi i dag står inför kan sammanfattas:
+            Antingen väljer vi ökade koldioxidutsläpp eller så väljer vi att
+            behålla kärnkraften. Under åren har också svenskarnas inställning
+            till kärnkraft förändrats och blivit mer positiv.
+          </p>
+          <p xml:id="i-WEC431TuHn11HfvvMt4go5">
+            Sveriges elproduktion bygger på vattenkraft och kärnkraft som
+            nästan inte ger några koldioxidutsläpp alls. Sverige är ett av
+            de i-länder som har lägst utsläpp av klimatpåverkande gaser. Det
+            märkliga är att den socialdemokratiska regeringen ändå verkar
+            vara fast besluten att överge denna produktionsstruktur för att
+            i stället öka koldioxidutsläppen, de utsläpp som resten av världen
+            är i full färd med att bekämpa. Nu senast har regeringen beslutat
+            om att stänga Barsebäck 2.
+          </p>
+          <p xml:id="i-X4jtQT7zBRkUGit3hEk6QW">
+            Regeringens ena mål med energipolitiken är att minska klimatpåverkan
+            genom att inte förbränna fossila bränslen. Samtidigt försöker
+            regeringen nå upp till energipolitikens andra mål. Målet att avveckla
+            kärnkraften, den elproduktion som inte ger några koldioxidutsläpp.
+            Detta trots att det inte finns fullvärdiga alternativ till kärnkraften.
+          </p>
+          <p xml:id="i-B7vkG6XmpVKktpfDGb9ALP">
+            Sverige har redan bristande produktionskapacitet av el. Att i
+            det läget driva en linje som innebär att befintlig produktion
+            ska ställas av slår hårt mot bland annat den svenska basindustrin.
+            Landets viktiga skogs- och stålföretag är också oroade.
+          </p>
+          <p xml:id="i-Pyzj9oHcts4N6gR8cP31EW">
+            När elbrist uppstår så blir Sverige tvunget att importera el
+            från bland annat kolkraftverk i Danmark, Tyskland och Polen. Detta
+            resulterar i att både miljön och samhällsekonomin blir förlorare.
+          </p>
+          <p xml:id="i-HUs4RCSYJ86UmnMuyQrEyw">
+            Mot bakgrund av ovanstående vill jag ställa följande frågor till
+            näringsminister Thomas Östros:
+          </p>
+          <p xml:id="i-Nh96JfLddY3R5wEddG5C1e">
+            Vilka åtgärder avser ministern att vidta för att minska utsläppen
+            av koldioxid i Sverige i samband med att kärnkraftverk stängs?
+          </p>
+          <p xml:id="i-EHwJwZaunYnnazjFCr63DT">
+            Vad avser ministern att göra för att stävja den oro som företag
+            inom de för Sverige så viktiga basindustrierna känner inför en
+            avveckling av kärnkraften?
+          </p>
+        </div>
       </div>
     </body>
   </text>

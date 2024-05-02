@@ -3,57 +3,82 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>F-skattsedel</title>
+        <author>Göte Jonsson (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1998/99:335 av Göte Jonsson (m) till statsrådet Lars-Erik Lövdén om F-skattsedel</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_359.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Göte Jonsson (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-TZikyr5QETx1Srqmhk827L</idno>
+          </person>
+          <person gender="man">
+            <persName>statsrådet Lars-Erik Lövdén</persName>
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-CqR8aYBuPJQ83PghCTyYSP" corresp="i-TZikyr5QETx1Srqmhk827L">
+          <date when="1998-04-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5wQtbTk3d5DnzTv2Bp5Yj9">
+          <note>date unknown</note>
+          <name>statsrådet Lars-Erik Lövdén</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-9XRP9G9x348q36Bkyz8AeL">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6Sozbzk8MKBVBXyMgwURxx">
+          <date when="1998-05-31"/>
+        </correspAction>
+        <correspContext corresp="i-6Sozbzk8MKBVBXyMgwURxx">
+          <ref type="record" target="prot-199899--103">Prot. 1998/99:103</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1998/99:335</head>
-        <author who="i-TZikyr5QETx1Srqmhk827L">Göte Jonsson (m)</author>
-        <minister who="unknown">statsrådet Lars-Erik Lövdén</minister>
-        <topic>F-skattsedel</topic>
-        <docDate when="1999-04-29">Inkom den 29 april</docDate>
-        <status inProtocol="199899/prot-199899--103.xml" when="1999-05-31" status="answered">Besvarad den 31 maj, Prot. 1998/99:103</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1998/99:335 av Göte Jonsson (m) till statsrådet
-          Lars-Erik Lövdén om F-skattsedel
-        </IPQ_title>
-        <submission_info>
-          Inkom den 29 aprilBesvarad den 31 maj Prot. 1998/99:103
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-SzotkxJbTikS4SFJVKaxdd">
+            Interpellation 1998/99:335 av Göte Jonsson (m) till statsrådet
+            Lars-Erik Lövdén om F-skattsedel
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-PEXCBeuNo2NShEii3Jorkr">
+            Inkom den 29 april : Besvarad den 31 maj Prot. 1998/99:103
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-PCjhSG5T4LucRjwHjQVBE4">
-          Nyföretagandet är viktigt. Tyvärr minskar nu nyföretagandet i
-          landet, vilket är negativt. Som företagare behöver man F-skattsedel.
-          Många har upplevt problem när det gällt att få F-skattsedel.
-        </p>
-        <p xml:id="i-WJKr9rGNJDfYoZM9N8UJ1j">
-          Vilka åtgärder ämnar statsrådet vidta för att det skall bli lättare
-          att er­hålla F-skattsedel?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_360.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Aj68K8RNRaaj44RTSxrP2Z">
+            Nyföretagandet är viktigt. Tyvärr minskar nu nyföretagandet i
+            landet, vilket är negativt. Som företagare behöver man F-skattsedel.
+            Många har upplevt problem när det gällt att få F-skattsedel.
+          </p>
+          <p xml:id="i-CyyRyCFr3MKrdd44CPtHdi">
+            Vilka åtgärder ämnar statsrådet vidta för att det skall bli lättare
+            att er­hålla F-skattsedel?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,60 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>hyressänkningar</title>
+        <author>Andersson, Sten (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>hyressänkningar till statsrådet Lars-Erik Lövdén om hyressänkningar</title>
+          <idno type="rdwebb">GN1024</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GN1024/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GN1024</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GN1024</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
+            <persName>Andersson, Sten (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>statsrådet Lars-Erik Lövdén </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <persName>statsrådet Lars-Erik Lövdén </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-MBtNybtbcoUBFsuFcox2Rj" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="1999-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LwDecPwDwW6SFZ5tWMgWZK" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
+          <date when="1999-11-04"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-6qYCcvxFQyTqKP7s4H1Cz4" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
+          <date when="1999-10-07"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-19992000--0024</head>
-        <author who="i-84xpErSjuTzEi5hvTA1Jtt">Andersson, Sten (m) </author>
-        <recipient who="i-6qjD2tsSCtsrmXQjy7mtCJ">statsrådet Lars-Erik Lövdén </recipient>
-        <topic>hyressänkningar</topic>
-        <docDate when="1999-10-07">den 7 oktober</docDate>
-        <status when="unknown" byWhom="statsrådet Lars-Erik Lövdén " byWhomId="i-6qjD2tsSCtsrmXQjy7mtCJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GN1024</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1999/2000:24 av Sten Andersson (m) till statsrådet
-          Lars-Erik Lövdén om hyressänkningar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-aeowJoZjxZRp8gft7skH2">
+            den 7 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-VhmKRNtcthtYemCcGorkXZ">
-          Nyligen förmedlades i medierna att biträdande finansminister
-          Lars-Erik Lövdén uttalat att bostadshyrorna i Sverige var höga
-          och borde sänkas med runt 5 procentenheter. Konstaterandet var
-          korrekt då vi vid en jämförelse med övriga Europa har mycket höga
-          bostadshyror.
-        </p>
-        <p xml:id="i-GV9UiwpTw2EQzn7A9EB4B2">
-          Den oundvikliga frågan är: Vem skall betala för detta? Avser
-          statsrådet fastighetsägarna, kommunerna eller staten?
-        </p>
-        <p xml:id="i-YboeHJERJAHB2rbAXthBUG">
-          Vilka åtgärder är statsrådet beredd vidta i syfte att sänka lägenhetshyrorna
-          i Sverige?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Wmyg8PPDY5ugJ7q4AzZNmh">
+            Interpellation 1999/2000:24 av Sten Andersson (m) till statsrådet
+            Lars-Erik Lövdén om hyressänkningar
+          </p>
+          <p xml:id="i-KY3o4UDRoVUdNdkPK1rsW7">
+            Nyligen förmedlades i medierna att biträdande finansminister
+            Lars-Erik Lövdén uttalat att bostadshyrorna i Sverige var höga
+            och borde sänkas med runt 5 procentenheter. Konstaterandet var
+            korrekt då vi vid en jämförelse med övriga Europa har mycket höga
+            bostadshyror.
+          </p>
+          <p xml:id="i-8LxcAWGPtQuULDKqxY3gqd">
+            Den oundvikliga frågan är: Vem skall betala för detta? Avser
+            statsrådet fastighetsägarna, kommunerna eller staten?
+          </p>
+          <p xml:id="i-BwifRq8E9D3aDzumKCy1aB">
+            Vilka åtgärder är statsrådet beredd vidta i syfte att sänka lägenhetshyrorna
+            i Sverige?
+          </p>
+        </div>
       </div>
     </body>
   </text>

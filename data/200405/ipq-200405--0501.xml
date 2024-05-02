@@ -3,89 +3,133 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>miljöklassning av dieselbränslen</title>
+        <author>Brodén, Anita (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>miljöklassning av dieselbränslen till statsrådet Lena Sommestad om miljöklassning av dieselbränslen</title>
+          <idno type="rdwebb">GS10501</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10501/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10501</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10501</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-24CbHNwsRznss4Yas6HseU</idno>
+            <persName>Anita Brodén</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-4pypQmTKUjnmYHepVcA2AZ" corresp="i-24CbHNwsRznss4Yas6HseU">
+          <date when="2005-03-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WwDuxVFTyzkGHY296sDu58">
+          <date when="2005-04-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6WpDfW4iyxTtJ1NgrnA96P">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-J2Suqdp6643MR9BWCVRDso" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-04-04"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-133m4bwwEUm1viNqHh9SJp" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-04-15"/>
+        </correspAction>
+        <correspContext corresp="i-133m4bwwEUm1viNqHh9SJp">
+          <ref type="record" target="prot-200405--106">Riksdagens protokoll 2004/05:106 Fredagen den 15 april</ref>
+          <ref type="recordSection" target="unsetDivId">11 § Svar på interpellation 2004/05:501 om miljöklassning av dieselbränslen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0501</head>
-        <author who="i-24CbHNwsRznss4Yas6HseU">Anita Brodén</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>miljöklassning av dieselbränslen</topic>
-        <docDate when="2005-03-30">den 30 mars</docDate>
-        <status when="unknown" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10501</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:501 av Anita Brodén (fp) till statsrådet
-          Lena Sommestad om miljöklassning av dieselbränslen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KBbAmMv2ALy1MWWU5ssFbt">
+            Interpellation 2004/05:501 av Anita Brodén (fp) till statsrådet
+            Lena Sommestad om miljöklassning av dieselbränslen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Tivc51y5e2qQLQXXEJT8Ni">
+            den 30 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Nss1kLTdQV62tLh94S2Pd">
-          Miljöklassningssystemet klassar dieselbränslen i tre olika miljöklasser.
-          Klassningen sker inte enbart utifrån hur miljöfarligt bränslet
-          och dess avgaser är, utan även beroende på bränslets kokpunktsintervall,
-          densitet och ångtryck.
-        </p>
-        <p xml:id="i-2VRxynnvL17KG7tuYyWYus">
-          En sämre miljöklassning ger högre skatt. Skatteskillnaden är
-          störst mellan miljöklass 1 och miljöklass 3 dieselolja, 50 till
-          70 öre per liter. Att få sitt drivmedel klassat i annan än miljöklass
-          1 ger även imageproblem och ytterligare försäljningsproblem, förutom
-          den högre skatten. Många privata och offentliga köpare av drivmedel
-          får bara köpa miljöklass 1 drivmedel.
-        </p>
-        <p xml:id="i-KmowdFW98kr9KDRHHoTnnC">
-          Det finns ca 25 tekniska parametrar som styr de tekniska egenskaperna
-          och funktionen hos dieselolja. Dessa parametrar, bland annat densitet,
-          kokpunkt och ångtryck har en större teknisk funktion än miljöfunktion.
-          Folkpartiet anser därför att kraven på kokpunktsintervall, densitet
-          och ångtryck ska anpassas till EU:s krav på detta område. Vi anser
-          att miljöklassningen ska göras utifrån halten av miljöfarliga
-          ämnen i bränslet, som exempelvis, fossilt kol, aromater, polyaromater
-          eller svavel.
-        </p>
-        <p xml:id="i-9rXSrWBoToLn93VT2F8Qde">
-          Folkpartiet anser att industrin och marknaden själva ska bestämma
-          över övriga parametrar som mer har en teknisk funktion. Drivmedelsproducenterna
-          har ansvaret för att deras drivmedel fungerar. Vi anser därför
-          att en renodling bör ske i lagstiftningen till att handla om en
-          miljölagstiftning @ inte en miljötekniklagstiftning.
-        </p>
-        <p xml:id="i-BkiJtHnopkKF3Lc9vKxwKn">
-          Miljöklassningssystemet medför att syntetiska dieselbränslen,
-          till exempel produkten EcoPar® som tillverkas ur naturgas, hamnar
-          i miljöklass 3 och därmed belastas med 50 till 70 öre per liter
-          högre skatt. Detta trots att EcoPar® är mycket renare än normal
-          dieselolja i miljöklass 1, både själva bränslet och avgaserna
-          är mindre giftiga. Renare dieselbränslen har ofta lägre densitet,
-          och blir därmed bestraffade med dagens miljöklassningssystem.
-        </p>
-        <p xml:id="i-P6CUF9eAPDNkhWoEP9RJLV">
-          Vilka åtgärder avser statsrådet att vidta för att miljöklassningssystemet
-          ändras så att renare bränslen inte missgynnas?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-PXfRfNmzG1U39L8vSRv4hu">
+            Miljöklassningssystemet klassar dieselbränslen i tre olika miljöklasser.
+            Klassningen sker inte enbart utifrån hur miljöfarligt bränslet
+            och dess avgaser är, utan även beroende på bränslets kokpunktsintervall,
+            densitet och ångtryck.
+          </p>
+          <p xml:id="i-EKk388ptgAevUs8H6LYnmo">
+            En sämre miljöklassning ger högre skatt. Skatteskillnaden är
+            störst mellan miljöklass 1 och miljöklass 3 dieselolja, 50 till
+            70 öre per liter. Att få sitt drivmedel klassat i annan än miljöklass
+            1 ger även imageproblem och ytterligare försäljningsproblem, förutom
+            den högre skatten. Många privata och offentliga köpare av drivmedel
+            får bara köpa miljöklass 1 drivmedel.
+          </p>
+          <p xml:id="i-U2zqNPuop9wX9JuxnxdjDU">
+            Det finns ca 25 tekniska parametrar som styr de tekniska egenskaperna
+            och funktionen hos dieselolja. Dessa parametrar, bland annat densitet,
+            kokpunkt och ångtryck har en större teknisk funktion än miljöfunktion.
+            Folkpartiet anser därför att kraven på kokpunktsintervall, densitet
+            och ångtryck ska anpassas till EU:s krav på detta område. Vi anser
+            att miljöklassningen ska göras utifrån halten av miljöfarliga
+            ämnen i bränslet, som exempelvis, fossilt kol, aromater, polyaromater
+            eller svavel.
+          </p>
+          <p xml:id="i-G2WgynUagdkmkYLTQNZ1FF">
+            Folkpartiet anser att industrin och marknaden själva ska bestämma
+            över övriga parametrar som mer har en teknisk funktion. Drivmedelsproducenterna
+            har ansvaret för att deras drivmedel fungerar. Vi anser därför
+            att en renodling bör ske i lagstiftningen till att handla om en
+            miljölagstiftning @ inte en miljötekniklagstiftning.
+          </p>
+          <p xml:id="i-9UcTqkTbSCuQshrtzV76ma">
+            Miljöklassningssystemet medför att syntetiska dieselbränslen,
+            till exempel produkten EcoPar® som tillverkas ur naturgas, hamnar
+            i miljöklass 3 och därmed belastas med 50 till 70 öre per liter
+            högre skatt. Detta trots att EcoPar® är mycket renare än normal
+            dieselolja i miljöklass 1, både själva bränslet och avgaserna
+            är mindre giftiga. Renare dieselbränslen har ofta lägre densitet,
+            och blir därmed bestraffade med dagens miljöklassningssystem.
+          </p>
+          <p xml:id="i-3QqhtcUk3WtKf9YANrPwzf">
+            Vilka åtgärder avser statsrådet att vidta för att miljöklassningssystemet
+            ändras så att renare bränslen inte missgynnas?
+          </p>
+        </div>
       </div>
     </body>
   </text>

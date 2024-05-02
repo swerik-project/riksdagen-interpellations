@@ -3,126 +3,161 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>assisterad befruktning vid privata kliniker</title>
+        <author>Andreasson, Martin (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>assisterad befruktning vid privata kliniker till statsrådet Ylva Johansson om assisterad befruktning vid privata kliniker</title>
+          <idno type="rdwebb">GS1050</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS1050/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS1050</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS1050</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-LDb1GxQGG47N4mNNZ13jSZ</idno>
+            <persName>Martin Andreasson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-N3q3bf7x7NVugcSUf1qiWb" corresp="i-LDb1GxQGG47N4mNNZ13jSZ">
+          <date when="2004-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-TAjz3pHY4q1J6JULbeXp12">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9fqMxRYzm9aRbraFb5vAKQ">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4MVgdFjgfqrgAk228ue65H" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-10-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-QmNa4sqmmWqRsJdmTACf8N" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-11-08"/>
+        </correspAction>
+        <correspContext corresp="i-QmNa4sqmmWqRsJdmTACf8N">
+          <ref type="record" target="prot-200405--024">Riksdagens protokoll 2004/05:24 Måndagen den 8 november</ref>
+          <ref type="recordSection" target="unsetDivId">7 § Svar på interpellation 2004/05:50 om assisterad befruktning vid privata kliniker</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0050</head>
-        <author who="i-LDb1GxQGG47N4mNNZ13jSZ">Martin Andreasson</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>assisterad befruktning vid privata kliniker</topic>
-        <docDate when="2004-10-11">den 11 oktober</docDate>
-        <status when="2004-11-08" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS1050</external_id>
-        <debate>
-          <turn when="2004-11-08 12:53:07" duration="146">Ylva Johansson (S)</turn>
-          <turn when="2004-11-08 12:55:25" duration="275">Martin Andreasson (Fp)</turn>
-          <turn when="2004-11-08 12:59:56" duration="99">Ylva Johansson (S)</turn>
-          <turn when="2004-11-08 13:01:31" duration="258">Martin Andreasson (Fp)</turn>
-          <turn when="2004-11-08 13:05:45" duration="57">Ylva Johansson (S)</turn>
-          <turn when="2004-11-08 13:06:32" duration="129">Martin Andreasson (Fp)</turn>
-          <turn when="2004-11-08 13:08:33" duration="100">Ylva Johansson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:50 av Martin Andreasson (fp) till statsrådet
-          Ylva Johansson om assisterad befruktning vid privata kliniker
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-BhY3onb21iuYFoa9wjbwki">
+            Interpellation 2004/05:50 av Martin Andreasson (fp) till statsrådet
+            Ylva Johansson om assisterad befruktning vid privata kliniker
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-SLSBVnRKvVNNaYDU7tMfx1">
+            den 11 oktober
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NTmUZkLKaej4m6QNpPYAeX">
-          Regelverket för vilka kliniker som kan ges befogenhet att utföra
-          assisterad befruktning skapar i dag en ojämlikhet mellan offentliga
-          och privata vårdgivare.
-        </p>
-        <p xml:id="i-QXPbc7MhEBvqiHASQAnmBS">
-          Enligt dagens regler, som är under översyn, får assisterad befruktning
-          på klinik ske endast på kvinnor som lever i heterosexuella relationer.
-          Assisterad befruktning kan ske genom antingen insemination eller
-          så kallad provrörsbefruktning, det vill säga befruktning utanför
-          kroppen. Assisterad befruktning kan vidare delas in i sådana befruktningar
-          där antingen ägg eller spermier kommer från en donator (till exempel
-          givarinsemination eller provrörsbefruktning med donerat ägg) och
-          sådana befruktningar där könscellerna kommer från det berörda
-          paret självt.
-        </p>
-        <p xml:id="i-MY44S3gm1iouM8rQRZngLp">
-          Enligt dagens regler får givarinsemination endast utföras vid
-          offentligt finansierade sjukhus under överinseende av en läkare
-          med specialistkompetens i gynekologi och obstetrik. Provrörsbefruktning
-          med spermier från kvinnans make eller sambo får inte utföras utan
-          Socialstyrelsens tillstånd annat än vid offentligt finansierade
-          sjukhus. Provrörsbefruktning där ägg eller spermier kommer från
-          en givare får dock utföras endast vid universitetssjukhus.
-        </p>
-        <p xml:id="i-FF3YPjf92FBHsaRMtRdtb5">
-          Privata vårdgivare spelar en viktig roll inom hälso- och sjukvården
-          som komplement till vård i offentlig regi, både ur patientsynpunkt
-          och för personalen. Likaså kan vård i privat regi på ett värdefullt
-          sätt bidra till utveckling av behandlingsmetoder och förbättra
-          forskningsläget inom de nischer de specialiserar sig på.
-        </p>
-        <p xml:id="i-GSWYyCRzVcvLnym7WADAjp">
-          Förbudet mot givarbefruktning på privata kliniker andas misstänksamhet
-          mot enskilda alternativ inom vårdsektorn. Det är visserligen rimligt
-          med en offentlig kontroll av sådana befruktningar där barnet får
-          biologiska band till personer som donerat könsceller till sperma-
-          eller äggbanker, men denna kontroll upprätthålls lika bra oavsett
-          om själva befruktningen genomförs på en privat eller offentlig
-          klinik.
-        </p>
-        <p xml:id="i-KUdpYkje7PT8FbLBnGJASo">
-          Seriösa privata aktörer bör kunna beviljas tillstånd till att
-          genomföra assisterad befruktning på samma villkor som offentligt
-          finansierade sjukhus, givetvis under förutsättning att verksamheten
-          sker under Socialstyrelsens tillsyn. Regelverket bör vara detsamma
-          för assisterad befruktning oavsett på vilken klinik i Sverige
-          den utförs. En privat vårdgivare ska alltså inte ha möjlighet
-          att till exempel kringgå kravet på att barnet vid fyllda 18 års
-          ålder ska ha rätt att veta namnet på den som donerat könsceller
-          till en befruktning.
-        </p>
-        <p xml:id="i-5pXkzptK79AmdMKkWCM3JM">
-          Jag anser således att assisterad befruktning bör kunna genomföras
-          vid alla sjukhus eller kliniker, oavsett huvudman eller driftsform,
-          som erhållit tillstånd från Socialstyrelsen. Socialstyrelsen bör
-          också kunna föreskriva vilken typ av kompetens som krävs av den
-          medicinska personal som utför befruktningarna (vilket i sin tur
-          leder till att vissa kliniker kan få tillstånd till alla slags
-          befruktningar medan andra ges tillstånd till endast vissa typer
-          av befruktningar). Förbudet mot att utföra insemination eller
-          befruktning vanemässigt eller för vinnings skull bör avgränsas
-          till sådana situationer där tillstånd från Socialstyrelsen saknas.
-        </p>
-        <p xml:id="i-RAqbiGvo3S9vAT53xdgK8e">
-          Jag vill därför fråga statsrådet:
-        </p>
-        <p xml:id="i-xUWNxzUou6zvQrUUsz2yf">
-          Är statsrådet redo att verka för en översyn av regelverket som
-          möjliggör att privata vårdgivare ska kunna genomföra assisterad
-          befruktning enligt samma regler som gäller för offentliga?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-HexrvpdG1SVe1hyvTuVpjn">
+            Regelverket för vilka kliniker som kan ges befogenhet att utföra
+            assisterad befruktning skapar i dag en ojämlikhet mellan offentliga
+            och privata vårdgivare.
+          </p>
+          <p xml:id="i-AbKh2ZkDwEEpUvofNn8VTJ">
+            Enligt dagens regler, som är under översyn, får assisterad befruktning
+            på klinik ske endast på kvinnor som lever i heterosexuella relationer.
+            Assisterad befruktning kan ske genom antingen insemination eller
+            så kallad provrörsbefruktning, det vill säga befruktning utanför
+            kroppen. Assisterad befruktning kan vidare delas in i sådana befruktningar
+            där antingen ägg eller spermier kommer från en donator (till exempel
+            givarinsemination eller provrörsbefruktning med donerat ägg) och
+            sådana befruktningar där könscellerna kommer från det berörda
+            paret självt.
+          </p>
+          <p xml:id="i-XWNJur4kQvAxHPZbk3zB2m">
+            Enligt dagens regler får givarinsemination endast utföras vid
+            offentligt finansierade sjukhus under överinseende av en läkare
+            med specialistkompetens i gynekologi och obstetrik. Provrörsbefruktning
+            med spermier från kvinnans make eller sambo får inte utföras utan
+            Socialstyrelsens tillstånd annat än vid offentligt finansierade
+            sjukhus. Provrörsbefruktning där ägg eller spermier kommer från
+            en givare får dock utföras endast vid universitetssjukhus.
+          </p>
+          <p xml:id="i-R7iPeZvpMmGta5xEpwVuZK">
+            Privata vårdgivare spelar en viktig roll inom hälso- och sjukvården
+            som komplement till vård i offentlig regi, både ur patientsynpunkt
+            och för personalen. Likaså kan vård i privat regi på ett värdefullt
+            sätt bidra till utveckling av behandlingsmetoder och förbättra
+            forskningsläget inom de nischer de specialiserar sig på.
+          </p>
+          <p xml:id="i-Vx7Qn35te3ahHqXp2RzKxv">
+            Förbudet mot givarbefruktning på privata kliniker andas misstänksamhet
+            mot enskilda alternativ inom vårdsektorn. Det är visserligen rimligt
+            med en offentlig kontroll av sådana befruktningar där barnet får
+            biologiska band till personer som donerat könsceller till sperma-
+            eller äggbanker, men denna kontroll upprätthålls lika bra oavsett
+            om själva befruktningen genomförs på en privat eller offentlig
+            klinik.
+          </p>
+          <p xml:id="i-PepzNRFupYK1WXfWosvdXt">
+            Seriösa privata aktörer bör kunna beviljas tillstånd till att
+            genomföra assisterad befruktning på samma villkor som offentligt
+            finansierade sjukhus, givetvis under förutsättning att verksamheten
+            sker under Socialstyrelsens tillsyn. Regelverket bör vara detsamma
+            för assisterad befruktning oavsett på vilken klinik i Sverige
+            den utförs. En privat vårdgivare ska alltså inte ha möjlighet
+            att till exempel kringgå kravet på att barnet vid fyllda 18 års
+            ålder ska ha rätt att veta namnet på den som donerat könsceller
+            till en befruktning.
+          </p>
+          <p xml:id="i-2ySNqLWx6SbfABNg9vymCt">
+            Jag anser således att assisterad befruktning bör kunna genomföras
+            vid alla sjukhus eller kliniker, oavsett huvudman eller driftsform,
+            som erhållit tillstånd från Socialstyrelsen. Socialstyrelsen bör
+            också kunna föreskriva vilken typ av kompetens som krävs av den
+            medicinska personal som utför befruktningarna (vilket i sin tur
+            leder till att vissa kliniker kan få tillstånd till alla slags
+            befruktningar medan andra ges tillstånd till endast vissa typer
+            av befruktningar). Förbudet mot att utföra insemination eller
+            befruktning vanemässigt eller för vinnings skull bör avgränsas
+            till sådana situationer där tillstånd från Socialstyrelsen saknas.
+          </p>
+          <p xml:id="i-6E14qVj2sjj7XPzV93eDjo">
+            Jag vill därför fråga statsrådet:
+          </p>
+          <p xml:id="i-RhAh9q5xBRWtFdzPMsioaU">
+            Är statsrådet redo att verka för en översyn av regelverket som
+            möjliggör att privata vårdgivare ska kunna genomföra assisterad
+            befruktning enligt samma regler som gäller för offentliga?
+          </p>
+        </div>
       </div>
     </body>
   </text>

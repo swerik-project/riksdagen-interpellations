@@ -3,72 +3,116 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>krisberedskap vid kärnkraftsolyckor</title>
+        <author>Nordlund, Harald (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>krisberedskap vid kärnkraftsolyckor till statsrådet Lena Sommestad om krisberedskap vid kärnkraftsolyckor</title>
+          <idno type="rdwebb">GS10315</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10315/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10315</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10315</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-PDRRRaXKabL6avxH1jYjid</idno>
+            <persName>Harald Nordlund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-4f2bAEUboRxqAf7W8Ybmzm</idno>
+            <persName>Lena Sommestad</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-Y8w9UidWK38LrNJLLZeQn" corresp="i-PDRRRaXKabL6avxH1jYjid">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-EgFuVfCk5GBVkUHb59a9w7">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Kvk97KWtnzLi9a17omuNcr">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2TjcAMg1vzzf4ay5Y22BYe" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-01-18"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VLVMVrE392pyS5VHSU8Q1D" corresp="i-4f2bAEUboRxqAf7W8Ybmzm">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspContext corresp="i-VLVMVrE392pyS5VHSU8Q1D">
+          <ref type="record" target="prot-200405--071">Riksdagens protokoll 2004/05:71 Tisdagen den 8 februari</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2004/05:315 om krisberedskap vid kärnkraftsolyckor</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0315</head>
-        <author who="i-PDRRRaXKabL6avxH1jYjid">Harald Nordlund</author>
-        <recipient who="i-4f2bAEUboRxqAf7W8Ybmzm">Lena Sommestad</recipient>
-        <topic>krisberedskap vid kärnkraftsolyckor</topic>
-        <docDate when="2005-01-18">den 18 januari</docDate>
-        <status when="unknown" byWhom="Lena Sommestad" byWhomId="i-4f2bAEUboRxqAf7W8Ybmzm" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10315</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:315 av Harald Nordlund (fp) till statsrådet
-          Lena Sommestad om krisberedskap vid kärnkraftsolyckor
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Fyv3kPCUkqKS3pbXCc55L8">
+            Interpellation 2004/05:315 av Harald Nordlund (fp) till statsrådet
+            Lena Sommestad om krisberedskap vid kärnkraftsolyckor
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-963DkcNyqNAiUwdaztxypJ">
+            den 18 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2CmweLYi42YmrxVZ7Hbgsi">
-          Katastrofer är händelser vilkas konsekvenser är svåra eller omöjliga
-          att förutse och som orsakar lidanden och svåra umbäranden.
-        </p>
-        <p xml:id="i-MKXEM6ZN2W29xR7uAnFdid">
-          Krisberedskap handlar emellertid om att så långt möjligt minska
-          risker, förutse händelser och utarbeta strategier för att mildra
-          konsekvenserna av händelserna.
-        </p>
-        <p xml:id="i-EetPpKkZmLRy72z251yDg4">
-          En händelse som vi vet orsakar skador som är omöjliga att reparera
-          och som ger effekter på både miljö och människor flera generationer
-          framåt är olycka vid kärnkraftverk. Svenska kärnkraftverk anses
-          hålla hög klass i fråga om driftsäkerhet. Det har emellertid visat
-          sig att kärnkraftverk i vissa andra länder inte har lika hög säkerhet.
-          Eftersom en eventuell olycka vid ett kärnkraftverk får konsekvenser
-          för andra länder än det där verket är beläget måste det vara lika
-          angeläget att verka för hög säkerhet vid andra länders kärnkraftverk
-          som vid våra egna.
-        </p>
-        <p xml:id="i-R3FpEA9V3bcK8etaD3pdst">
-          Jag vill därför fråga statsrådet:
-        </p>
-        <p xml:id="i-52FTPUxdCf8q1P2T8KUarD">
-          Vad gör statsrådet för att öka säkerheten vid kärnkraftverk i
-          andra länder?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-9sbLqTM3Mew3cF5wbUBtow">
+            Katastrofer är händelser vilkas konsekvenser är svåra eller omöjliga
+            att förutse och som orsakar lidanden och svåra umbäranden.
+          </p>
+          <p xml:id="i-YNuyidBJFW9nvj7eaR9CHR">
+            Krisberedskap handlar emellertid om att så långt möjligt minska
+            risker, förutse händelser och utarbeta strategier för att mildra
+            konsekvenserna av händelserna.
+          </p>
+          <p xml:id="i-VYWUFNw92hSAHSTLkU5Xs2">
+            En händelse som vi vet orsakar skador som är omöjliga att reparera
+            och som ger effekter på både miljö och människor flera generationer
+            framåt är olycka vid kärnkraftverk. Svenska kärnkraftverk anses
+            hålla hög klass i fråga om driftsäkerhet. Det har emellertid visat
+            sig att kärnkraftverk i vissa andra länder inte har lika hög säkerhet.
+            Eftersom en eventuell olycka vid ett kärnkraftverk får konsekvenser
+            för andra länder än det där verket är beläget måste det vara lika
+            angeläget att verka för hög säkerhet vid andra länders kärnkraftverk
+            som vid våra egna.
+          </p>
+          <p xml:id="i-AnfTVaFdovShqVxkKCcV2g">
+            Jag vill därför fråga statsrådet:
+          </p>
+          <p xml:id="i-BDnyGxjxBtdCfAZKsX7er9">
+            Vad gör statsrådet för att öka säkerheten vid kärnkraftverk i
+            andra länder?
+          </p>
+        </div>
       </div>
     </body>
   </text>

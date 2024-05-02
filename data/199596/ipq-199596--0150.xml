@@ -3,67 +3,92 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kvinnors arbetsmarknad</title>
+        <author>Gullan Lindblad (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:150 av Gullan Lindblad (m) till statsrådet Ulrica Messing om kvinnors arbetsmarknad</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_155.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Gullan Lindblad (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-5sxzSZSUx9KLqvREcwz58f</idno>
+          </person>
+          <person gender="woman">
+            <persName>statsrådet Ulrica Messing</persName>
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-UBiDET6e4Ujdv8GepgPvtG" corresp="i-5sxzSZSUx9KLqvREcwz58f">
+          <date when="1995-03-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-DRPPric97rVrBi6Cbq2d2Y">
+          <note>date unknown</note>
+          <name>statsrådet Ulrica Messing</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-NykU6HtzdWvM14jkynoj6L">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-HoYtn1B6PyjLzR7EUW56yx">
+          <date when="1995-04-18"/>
+        </correspAction>
+        <correspContext corresp="i-HoYtn1B6PyjLzR7EUW56yx">
+          <ref type="record" target="prot-199596--082">Prot. 1995/96:82</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:150</head>
-        <author who="i-5sxzSZSUx9KLqvREcwz58f">Gullan Lindblad (m)</author>
-        <minister who="unknown">statsrådet Ulrica Messing</minister>
-        <topic>kvinnors arbetsmarknad</topic>
-        <docDate when="1996-03-28">Inkom den 28 mars</docDate>
-        <status inProtocol="199596/prot-199596--082.xml" when="1996-04-18" status="answered">Besvarad den 18 april, Prot. 1995/96:82</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:150 av Gullan Lindblad (m) till statsrådet Ulrica Messing
-          om kvinnors arbetsmarknad
-        </IPQ_title>
-        <submission_info>
-          Inkom den 28 marsBesvarad den 18 april Prot. 1995/96:82
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-DDYoARcoHdnGpajizB8aR3">
+            1995/96:150 av Gullan Lindblad (m) till statsrådet Ulrica Messing
+            om kvinnors arbetsmarknad
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-TKvjyDgUZ1qpVMjZpmCRj2">
+            Inkom den 28 mars : Besvarad den 18 april Prot. 1995/96:82
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-RT3Ec5wK8Vihb5Z9FZJvFq">
-          Arbetsmarknaden i Sverige är mycket könsuppdelad. Över hälften
-          av kvinnorna i arbetslivet arbetar inom den offentliga sektorn.
-          Inom vård- och omsorgssektorn råder i princip en monopolsituation.
-        </p>
-        <p xml:id="i-F9rBXSRg3fb15mjhDcqdeH">
-          Vid ett seminarium på Internationella kvinnodagen den 8 mars
-          sade dåvarande jämställdhetsminister Marita Ulvskog att kvinnorna
-          nästan uteslutande finns inom den offentliga sektorn och att vi
-          måste bryta upp från detta förhållande.
-        </p>
-        <p xml:id="i-8CEDipTHWqm6hUByQN4pPk">
-          Jag vill fråga vår nya jämställdhetsminister:
-        </p>
-        <p xml:id="i-BE6jxhSgAdjd6sf5YE1HTr">
-          Vilka åtgärder ämnar regeringen vidta för att åstadkomma en för­ändring
-          så att kvinnorna inte är helt beroende av den offentliga sektorn
-          som arbetsmarknad?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_156.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-U6SE5yfV7ijfXmfBr6nVo2">
+            Arbetsmarknaden i Sverige är mycket könsuppdelad. Över hälften
+            av kvinnorna i arbetslivet arbetar inom den offentliga sektorn.
+            Inom vård- och omsorgssektorn råder i princip en monopolsituation.
+          </p>
+          <p xml:id="i-9myPTXzXxuV5puxMh7Zq2E">
+            Vid ett seminarium på Internationella kvinnodagen den 8 mars
+            sade dåvarande jämställdhetsminister Marita Ulvskog att kvinnorna
+            nästan uteslutande finns inom den offentliga sektorn och att vi
+            måste bryta upp från detta förhållande.
+          </p>
+          <p xml:id="i-R6yZDA9CEdiia9fHSDgRAk">
+            Jag vill fråga vår nya jämställdhetsminister:
+          </p>
+          <p xml:id="i-8abDB6sxJVqVYxcY6SrRPj">
+            Vilka åtgärder ämnar regeringen vidta för att åstadkomma en för­ändring
+            så att kvinnorna inte är helt beroende av den offentliga sektorn
+            som arbetsmarknad?
+          </p>
+        </div>
       </div>
     </body>
   </text>

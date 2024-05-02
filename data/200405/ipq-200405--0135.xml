@@ -3,86 +3,123 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förmögenhetsskatten</title>
+        <author>Sjösten, Ulf (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förmögenhetsskatten till finansminister Pär Nuder om förmögenhetsskatten</title>
+          <idno type="rdwebb">GS10135</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10135/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10135</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10135</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-D6hrZCxPVTQxPgXvGFfuJ7</idno>
+            <persName>Ulf Sjösten</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9XPyZtmJH8WPftSvDTaBhK" corresp="i-D6hrZCxPVTQxPgXvGFfuJ7">
+          <date when="2004-11-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-X6f9FgeKCvh9UkqFfiU4yk">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-6JhfV4nNkzFDT2jvnrhJz7">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-B2oTVNimV6j1M3njjU24Dh" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2004-11-15"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CGvdMW3tU8S1wtmBsdzgSD" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspContext corresp="i-CGvdMW3tU8S1wtmBsdzgSD">
+          <ref type="record" target="prot-200405--035">Riksdagens protokoll 2004/05:35 Tisdagen den 23 november</ref>
+          <ref type="recordSection" target="unsetDivId">13 § Svar på interpellation 2004/05:135 om förmögenhetsskatten</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0135</head>
-        <author who="i-D6hrZCxPVTQxPgXvGFfuJ7">Ulf Sjösten</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>förmögenhetsskatten</topic>
-        <docDate when="2004-11-12">den 12 november</docDate>
-        <status when="2004-11-23" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10135</external_id>
-        <debate>
-          <turn when="2004-11-23 21:08:10" duration="88">Pär Nuder (S)</turn>
-          <turn when="2004-11-23 21:09:35" duration="240">Ulf Sjösten (M)</turn>
-          <turn when="2004-11-23 21:13:31" duration="264">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-23 21:17:45" duration="246">Pär Nuder (S)</turn>
-          <turn when="2004-11-23 21:21:47" duration="132">Ulf Sjösten (M)</turn>
-          <turn when="2004-11-23 21:23:55" duration="148">Gunnar Andrén (Fp)</turn>
-          <turn when="2004-11-23 21:26:12" duration="217">Pär Nuder (S)</turn>
-          <turn when="2004-11-23 21:29:43" duration="146">Ulf Sjösten (M)</turn>
-          <turn when="2004-11-23 21:32:02" duration="68">Pär Nuder (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:135 av Ulf Sjösten (m) till finansminister
-          Pär Nuder om förmögenhetsskatten
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-71QUqGS9Z7AQqcsNx1MRTu">
+            Interpellation 2004/05:135 av Ulf Sjösten (m) till finansminister
+            Pär Nuder om förmögenhetsskatten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GspLovExmUdDEbnb1x1f8a">
+            den 12 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2Kv8g4fiWTMe1NJg2s2E36">
-          Förmögenhetsskatten har varit i politikens fokus under det senaste
-          året. Utredningar, kommittéer och partier som Moderaterna anser
-          att förmögenhetsskatten har skadliga effekter på en god utveckling
-          och tillväxt i Sverige.
-        </p>
-        <p xml:id="i-GC2ehHMxbA2Pv2zj2UZop2">
-          Skiftande signaler från regeringen skapade tidigare frågetecken
-          kring regeringens inställning till att ta bort den orättvisa och
-          lotteribetonade skatten.
-        </p>
-        <p xml:id="i-WBqrJ8B76wBDpcRmiRf6pw">
-          Regeringens budgetförslag för 2005 innebär att takbeloppen för
-          förmögenhetsskatt höjs. Det kommer inte att förändra grundproblemet
-          med skatten som driver kapital ur landet och missgynnar
-        </p>
-        <p xml:id="i-32RfviJZufAYvWMKgViHme">
-          kapitalbildning,riskvillighet,investeringar ochnyföretagandet.
-        </p>
-        <p xml:id="i-KKpeKHq426qBJKdJnQqcna">
-          Mot denna bakgrund vill jag ställa följande frågor:
-        </p>
-        <p xml:id="i-LhezAjmi5HZGd4tzheaTCV">
-          1. Avser nye finansministern att framlägga förslag om avskaffande
-          av förmögenhetsskatten och i så fall när?
-        </p>
-        <p xml:id="i-FKxr3b9PAyAMi7Ya7cAcYD">
-          2. Om sådant förslag inte avses att framläggas, vilka är statsrådets
-          motiv för att även fortsättningsvis ha kvar en förmögenhetsskatt?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-TemG3ZAuM6sGMoYoe37Wf7">
+            Förmögenhetsskatten har varit i politikens fokus under det senaste
+            året. Utredningar, kommittéer och partier som Moderaterna anser
+            att förmögenhetsskatten har skadliga effekter på en god utveckling
+            och tillväxt i Sverige.
+          </p>
+          <p xml:id="i-2o5gdDor7tU9G8oFV5ZvVH">
+            Skiftande signaler från regeringen skapade tidigare frågetecken
+            kring regeringens inställning till att ta bort den orättvisa och
+            lotteribetonade skatten.
+          </p>
+          <p xml:id="i-DCvA76aR9bpLpTtHGruNuP">
+            Regeringens budgetförslag för 2005 innebär att takbeloppen för
+            förmögenhetsskatt höjs. Det kommer inte att förändra grundproblemet
+            med skatten som driver kapital ur landet och missgynnar
+          </p>
+          <p xml:id="i-yYVGtb3CafL8i2jBZ44dr">
+            kapitalbildning,riskvillighet,investeringar ochnyföretagandet.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-G9MLz898ZNtvftA7KMAUi8">
+            Mot denna bakgrund vill jag ställa följande frågor:
+            <list rend="unordered">
+              <item>
+                1. Avser nye finansministern att framlägga förslag om avskaffande
+                av förmögenhetsskatten och i så fall när?
+              </item>
+              <item>
+                2. Om sådant förslag inte avses att framläggas, vilka är statsrådets
+                motiv för att även fortsättningsvis ha kvar en förmögenhetsskatt?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

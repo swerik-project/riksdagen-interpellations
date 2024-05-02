@@ -3,99 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>väntetiderna i vården</title>
+        <author>Ullenhag, Erik (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>väntetiderna i vården till statsrådet Ylva Johansson om väntetiderna i vården</title>
+          <idno type="rdwebb">GS10225</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10225/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10225</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10225</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-QKE6ihmLRJvwhV4neD6h7b</idno>
+            <persName>Erik Ullenhag</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5tW4hbSeWxKvzGyfTWooV5" corresp="i-QKE6ihmLRJvwhV4neD6h7b">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-4fDXavBo7N2sPWTLzEhT9m">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-5K5LQVkwFFCSLfHd9txofa">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-NCAsCqdmwsTa1dGkSTtJnS" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8eQLT9p6UdRTFqxYvUa9yx" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspContext corresp="i-8eQLT9p6UdRTFqxYvUa9yx">
+          <ref type="record" target="prot-200405--063">Riksdagens protokoll 2004/05:63 Tisdagen den 25 januari</ref>
+          <ref type="recordSection" target="unsetDivId">13 § </ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0225</head>
-        <author who="i-QKE6ihmLRJvwhV4neD6h7b">Erik Ullenhag</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>väntetiderna i vården</topic>
-        <docDate when="2004-11-30">den 30 november</docDate>
-        <status when="2005-01-25" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10225</external_id>
-        <debate>
-          <turn when="2005-01-25 18:20:54" duration="306">Ylva Johansson (S)</turn>
-          <turn when="2005-01-25 18:25:48" duration="283">Marita Aronson (Fp)</turn>
-          <turn when="2005-01-25 18:30:13" duration="235">Chatrine Pålsson (Kd)</turn>
-          <turn when="2005-01-25 18:33:55" duration="263">Ylva Johansson (S)</turn>
-          <turn when="2005-01-25 18:38:05" duration="182">Marita Aronson (Fp)</turn>
-          <turn when="2005-01-25 18:40:54" duration="141">Chatrine Pålsson (Kd)</turn>
-          <turn when="2005-01-25 18:42:57" duration="245">Ylva Johansson (S)</turn>
-          <turn when="2005-01-25 18:46:44" duration="123">Marita Aronson (Fp)</turn>
-          <turn when="2005-01-25 18:48:36" duration="63">Ylva Johansson (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:225 av Erik Ullenhag (fp) till statsrådet
-          Ylva Johansson om väntetiderna i vården
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-XqNwjD2fjd1NQ3nKqhRy5R">
+            Interpellation 2004/05:225 av Erik Ullenhag (fp) till statsrådet
+            Ylva Johansson om väntetiderna i vården
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JZ1FvbSczBPQW3mAmLubpS">
+            den 30 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-VbTVX7a5EfWWbMXNkmTMTe">
-          Hösten 2002 utlovade den dåvarande socialministern Lars Engqvist
-          tio reformer för den svenska sjukvården. En granskning som Dagens
-          Medicin (39/2004) genomfört visar att endast två av dessa löften
-          genomförts när Lars Engqvist fick avgå eftersom statsminister
-          Göran Persson ville "toppa laget". Ett av de löften som inte genomförts
-          är att regeringen lovat att patienter ska få rätt vård i rätt
-          tid.
-        </p>
-        <p xml:id="i-RwYrvGvgUY5ZBgVDUBJMsG">
-          Fortfarande väntar människor på behandling, för angelägna medicinska
-          behov, alldeles för länge. Det innebär lidande för patienten och
-          höga kostnader för samhället. Patienter med vissa åkommor kan
-          få vänta år på behandling.
-        </p>
-        <p xml:id="i-BxYTLNU9bjnFFoukSBKJhw">
-          Den vårdgaranti som infördes av den borgerliga regeringen, men
-          sedan avskaffades av Socialdemokraterna, satte en gräns på maximalt
-          tre månaders väntetid. Efter tio år av socialdemokratisk regering
-          och avskaffad vårdgaranti är det alldeles för vanligt att väntetiderna
-          betydligt överstiger tre månader.
-        </p>
-        <p xml:id="i-6a1zFAzC2UjQwX8uRef5Gz">
-          Som exempel kan nämnas väntetider på hörapparater. Inget sjukhus
-          i hela norra Sverige kan i dag hålla tidsgränsen enligt den gamla
-          vårdgarantin när det gäller utprovning av hörapparat. Kalix sjukhus
-          har 16 veckors väntetid och Östersunds sjukhus så mycket som 120
-          veckors väntetid. I södra Sverige klarar endast Västerviks sjukhus
-          med nöd och näppe en väntetid på tre månader för operation av
-          grå starr, och Centrallasarettet i Växjö har en väntetid på 100
-          veckor (källa Landstingsförbundets hemsida "Väntetider i vården").
-          De nämnda väntetiderna inkluderar inte väntan på diagnos och nödvändiga
-          undersökningar.
-        </p>
-        <p xml:id="i-4gtf2ECpMQ1juoqjfbfTTd">
-          Jag vill med hänvisning till ovanstående fråga vård- och äldreomsorgsminister
-          Ylva Johansson följande:
-        </p>
-        <p xml:id="i-DCpJavvpqNjmXJXznYByYB">
-          Vilka åtgärder avser statsrådet att vidta för att uppfylla sin
-          företrädares löfte om att patienter ska garanteras rätt vård i
-          rätt tid?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-Coa3H4854zbgqaNRTcZpAZ">
+            Hösten 2002 utlovade den dåvarande socialministern Lars Engqvist
+            tio reformer för den svenska sjukvården. En granskning som Dagens
+            Medicin (39/2004) genomfört visar att endast två av dessa löften
+            genomförts när Lars Engqvist fick avgå eftersom statsminister
+            Göran Persson ville "toppa laget". Ett av de löften som inte genomförts
+            är att regeringen lovat att patienter ska få rätt vård i rätt
+            tid.
+          </p>
+          <p xml:id="i-PWPTCeEtuL18kqKhVAGJSu">
+            Fortfarande väntar människor på behandling, för angelägna medicinska
+            behov, alldeles för länge. Det innebär lidande för patienten och
+            höga kostnader för samhället. Patienter med vissa åkommor kan
+            få vänta år på behandling.
+          </p>
+          <p xml:id="i-UsUHWAazTBoHbXmSgRLN9z">
+            Den vårdgaranti som infördes av den borgerliga regeringen, men
+            sedan avskaffades av Socialdemokraterna, satte en gräns på maximalt
+            tre månaders väntetid. Efter tio år av socialdemokratisk regering
+            och avskaffad vårdgaranti är det alldeles för vanligt att väntetiderna
+            betydligt överstiger tre månader.
+          </p>
+          <p xml:id="i-JqVU5B3cnJ6CfAfJMMdgb5">
+            Som exempel kan nämnas väntetider på hörapparater. Inget sjukhus
+            i hela norra Sverige kan i dag hålla tidsgränsen enligt den gamla
+            vårdgarantin när det gäller utprovning av hörapparat. Kalix sjukhus
+            har 16 veckors väntetid och Östersunds sjukhus så mycket som 120
+            veckors väntetid. I södra Sverige klarar endast Västerviks sjukhus
+            med nöd och näppe en väntetid på tre månader för operation av
+            grå starr, och Centrallasarettet i Växjö har en väntetid på 100
+            veckor (källa Landstingsförbundets hemsida "Väntetider i vården").
+            De nämnda väntetiderna inkluderar inte väntan på diagnos och nödvändiga
+            undersökningar.
+          </p>
+          <p xml:id="i-Nsc3A8SWi36B2RkjuW5oCb">
+            Jag vill med hänvisning till ovanstående fråga vård- och äldreomsorgsminister
+            Ylva Johansson följande:
+          </p>
+          <p xml:id="i-XoWNTXuQk9ocb82gZZZSQD">
+            Vilka åtgärder avser statsrådet att vidta för att uppfylla sin
+            företrädares löfte om att patienter ska garanteras rätt vård i
+            rätt tid?
+          </p>
+        </div>
       </div>
     </body>
   </text>

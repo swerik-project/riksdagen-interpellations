@@ -3,102 +3,125 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Apoteket AB</title>
+        <author>Gennser, Margit (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Apoteket AB till näringsminister Björn Rosengren om Apoteket AB</title>
+          <idno type="rdwebb">GO10226</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO10226/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO10226</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO10226</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-KFLLBh5CxVpZkUZaHy3pAz</idno>
+            <persName>Gennser, Margit (m) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <persName>näringsminister Björn Rosengren </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>socialminister Lars Engqvist </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-JWAsQYC9CpwiBkirQKGRFK" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
+          <date when="2001-01-31"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DrYbLkWmXTaC8mtnmsmfTx" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2001-02-13"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-MEdy1xiXao76BLZZ4pyLhc" corresp="i-KFLLBh5CxVpZkUZaHy3pAz">
+          <date when="2001-01-29"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0226</head>
-        <author who="i-KFLLBh5CxVpZkUZaHy3pAz">Gennser, Margit (m) </author>
-        <recipient who="i-HP26Ex6XfZD2gozC8P6pdm">näringsminister Björn Rosengren </recipient>
-        <topic>Apoteket AB</topic>
-        <docDate when="2001-01-29">den 29 januari</docDate>
-        <status when="2001-02-13" byWhom="socialminister Lars Engqvist " byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO10226</external_id>
-        <debate>
-          <turn when="2001-02-13 14:48:36" duration="150">LARS ENGQVIST (Socialminister)</turn>
-          <turn when="2001-02-13 14:51:03" duration="260">MARGIT GENNSER (M)</turn>
-          <turn when="2001-02-13 14:55:20" duration="255">BERIT ADOLFSSON (M)</turn>
-          <turn when="2001-02-13 14:59:31" duration="144">LARS ENGQVIST (Socialminister)</turn>
-          <turn when="2001-02-13 15:01:51" duration="111">MARGIT GENNSER (M)</turn>
-          <turn when="2001-02-13 15:03:38" duration="142">BERIT ADOLFSSON (M)</turn>
-          <turn when="2001-02-13 15:05:56" duration="142">LARS ENGQVIST (Socialminister)</turn>
-          <turn when="2001-02-13 15:08:15" duration="111">MARGIT GENNSER (M)</turn>
-          <turn when="2001-02-13 15:10:02" duration="99">LARS ENGQVIST (Socialminister)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:226 av Margit Gennser (m) till näringsminister
-          Björn Rosengren om Apoteket AB
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KzzAJn1vVnxnrDiTxQyXZK">
+            Interpellation 2000/01:226 av Margit Gennser (m) till näringsminister
+            Björn Rosengren om Apoteket AB
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-LrGbsN4gynCzpdDAX1R5ri">
+            den 29 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-H3afKhbTGtabkWqvfvwd3p">
-          Det helstatliga Apoteket AB, som har monopol på detaljhandel
-          med läkemedel, har vidtagit åtgärder för att utsträcka sin nuvarande
-          verksamhet till att också omfatta funktioner som i dag utförs
-          av det konkurrensutsatta partihandelsledet. Apoteket avser att
-          anställa 600 personer, företrädesvis på orter som drabbas av nedläggningar
-          av försvarsförband.
-        </p>
-        <p xml:id="i-TFZLrBP9Ln1hHrFaS5GCEM">
-          Om ägaren, staten, medger att Apoteket vidtar åtgärder för att
-          etablera vad som i praktiken är en egen struktur för partihandel
-          innebär det att statlig affärsverksamhet tillåts rasera förutsättningarna
-          för de privata företag som i dag verkar på partihandelsmarknaden
-          för läkemedel. Förutsättningarna raseras, eftersom Apoteket genom
-          sina åtgärder faktiskt tillskansar sig full kontroll över huvuddelen
-          av partihandelsmarknaden, och därmed utvidgar sitt monopol. I
-          och med att staten tillåter Apotekets agerande stöder också staten
-          en utveckling som innebär att statliga arbetstillfällen slår ut
-          privata. Eftersom jag har haft möjlighet att ingående studera
-          frågor kring läkemedelsförsörjningen i Sverige kan jag också intyga
-          att de företag som i dag är verksamma med distribution av läkemedel
-          är mycket effektiva. Förhoppningen att Apoteksmonopolet skulle
-          kunna sköta denna verksamhet mer kostnadseffektivt ur ett samhällsperspektiv
-          är knappast realistisk.
-        </p>
-        <p xml:id="i-2QVSwYxSbY1CMCymrFH1wn">
-          På många områden genomför Sverige en avveckling av statliga monopol.
-          Detta har, som vi vet, haft en stor betydelse för vårt lands tillväxt.
-          Det är därför anmärkningsvärt att regeringen nu är tillskyndare
-          till den motsatta utvecklingen när det gäller handel och distribution
-          av läkemedel. Detta genom att medverka till att den enda del av
-          denna sektor som hittills varit privat nu de facto tas över av
-          det statliga monopolet.
-        </p>
-        <p xml:id="i-221reNmjyBumba4n4eWERi">
-          Självfallet är frågan om det tillåtna i Apotekets agerande anmäld
-          till såväl Konkurrensverket som (vad gäller statens ansvar) EU-kommissionen.
-          Men oavsett om Apotekets agerande bryter mot konkurrenslagen eller
-          inte ger regeringen helt fel signaler när den offrar företag och
-          arbetstillfällen i den privata sektorn som ett led i att bl.a.
-          skaffa ersättningsjobb till orter som drabbas av förbandsnedläggningar.
-        </p>
-        <p xml:id="i-6TLAadWdeyEK7bXqJCKbGH">
-          Vilka åtgärder avser näringsministern vidta för att Apotekets
-          agerande att utvidga sin verksamhet till partihandelsledet stoppas?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-5jfYAZJERypUpcB74CBqEK">
+            Det helstatliga Apoteket AB, som har monopol på detaljhandel
+            med läkemedel, har vidtagit åtgärder för att utsträcka sin nuvarande
+            verksamhet till att också omfatta funktioner som i dag utförs
+            av det konkurrensutsatta partihandelsledet. Apoteket avser att
+            anställa 600 personer, företrädesvis på orter som drabbas av nedläggningar
+            av försvarsförband.
+          </p>
+          <p xml:id="i-KSgnT6gZAfNZ67SBB5G3VS">
+            Om ägaren, staten, medger att Apoteket vidtar åtgärder för att
+            etablera vad som i praktiken är en egen struktur för partihandel
+            innebär det att statlig affärsverksamhet tillåts rasera förutsättningarna
+            för de privata företag som i dag verkar på partihandelsmarknaden
+            för läkemedel. Förutsättningarna raseras, eftersom Apoteket genom
+            sina åtgärder faktiskt tillskansar sig full kontroll över huvuddelen
+            av partihandelsmarknaden, och därmed utvidgar sitt monopol. I
+            och med att staten tillåter Apotekets agerande stöder också staten
+            en utveckling som innebär att statliga arbetstillfällen slår ut
+            privata. Eftersom jag har haft möjlighet att ingående studera
+            frågor kring läkemedelsförsörjningen i Sverige kan jag också intyga
+            att de företag som i dag är verksamma med distribution av läkemedel
+            är mycket effektiva. Förhoppningen att Apoteksmonopolet skulle
+            kunna sköta denna verksamhet mer kostnadseffektivt ur ett samhällsperspektiv
+            är knappast realistisk.
+          </p>
+          <p xml:id="i-Qo7w8o5wGJkVjtRyLcE9ZP">
+            På många områden genomför Sverige en avveckling av statliga monopol.
+            Detta har, som vi vet, haft en stor betydelse för vårt lands tillväxt.
+            Det är därför anmärkningsvärt att regeringen nu är tillskyndare
+            till den motsatta utvecklingen när det gäller handel och distribution
+            av läkemedel. Detta genom att medverka till att den enda del av
+            denna sektor som hittills varit privat nu de facto tas över av
+            det statliga monopolet.
+          </p>
+          <p xml:id="i-YYzfnqsds98GSdniqTuUCC">
+            Självfallet är frågan om det tillåtna i Apotekets agerande anmäld
+            till såväl Konkurrensverket som (vad gäller statens ansvar) EU-kommissionen.
+            Men oavsett om Apotekets agerande bryter mot konkurrenslagen eller
+            inte ger regeringen helt fel signaler när den offrar företag och
+            arbetstillfällen i den privata sektorn som ett led i att bl.a.
+            skaffa ersättningsjobb till orter som drabbas av förbandsnedläggningar.
+          </p>
+          <p xml:id="i-YLs2Cc9yVcD96WMQQYiWJJ">
+            Vilka åtgärder avser näringsministern vidta för att Apotekets
+            agerande att utvidga sin verksamhet till partihandelsledet stoppas?
+          </p>
+        </div>
       </div>
     </body>
   </text>

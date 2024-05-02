@@ -3,107 +3,139 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fastighetsbeskattningen</title>
+        <author>Tysklind, Lars (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>fastighetsbeskattningen till finansminister Pär Nuder om fastighetsbeskattningen</title>
+          <idno type="rdwebb">GS10555</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10555/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10555</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10555</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
+            <persName>Lars Tysklind</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNvivTxAPySuVXe8X3z3LJ</idno>
+            <persName>Pär Nuder</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-XFuneZD3SQQCjvkmehGEyT" corresp="i-RDeqY3mXLBtUS9bixjvHS">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MKcbqeyg6bL6D8FhvB1gKV">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-LrzkZsyt618AAhvGqi4zp9">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VnCBnzviGL6wiEGE4LtRX" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UmK8R3NNZaorAVc9AdBeyD" corresp="i-HNvivTxAPySuVXe8X3z3LJ">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspContext corresp="i-UmK8R3NNZaorAVc9AdBeyD">
+          <ref type="record" target="prot-200405--125">Riksdagens protokoll 2004/05:125 Tisdagen den 24 maj</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:555 om fastighetsbeskattningen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0555</head>
-        <author who="i-RDeqY3mXLBtUS9bixjvHS">Lars Tysklind</author>
-        <recipient who="i-HNvivTxAPySuVXe8X3z3LJ">Pär Nuder</recipient>
-        <topic>fastighetsbeskattningen</topic>
-        <docDate when="2005-04-25">den 25 april</docDate>
-        <status when="2005-05-24" byWhom="Pär Nuder" byWhomId="i-HNvivTxAPySuVXe8X3z3LJ" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10555</external_id>
-        <debate>
-          <turn when="2005-05-24 15:31:53" duration="136">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:34:05" duration="275">Lars Tysklind (Fp)</turn>
-          <turn when="2005-05-24 15:38:35" duration="196">Lennart Hedquist (M)</turn>
-          <turn when="2005-05-24 15:41:47" duration="228">Nina Lundström (Fp)</turn>
-          <turn when="2005-05-24 15:45:31" duration="104">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:47:12" duration="248">Lars Tysklind (Fp)</turn>
-          <turn when="2005-05-24 15:51:16" duration="122">Lennart Hedquist (M)</turn>
-          <turn when="2005-05-24 15:53:15" duration="112">Nina Lundström (Fp)</turn>
-          <turn when="2005-05-24 15:55:03" duration="65">Pär Nuder (S)</turn>
-          <turn when="2005-05-24 15:56:04" duration="445">Lars Tysklind (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:555 av Lars Tysklind (fp) till finansminister
-          Pär Nuder om fastighetsbeskattningen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-PrCdZxizG113DfxQsgZBiY">
+            Interpellation 2004/05:555 av Lars Tysklind (fp) till finansminister
+            Pär Nuder om fastighetsbeskattningen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-BRNq9Wa3JQKEcFCY9biAKe">
+            den 25 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-AoMw16qVYjVosX5VWqgFn9">
-          I vissa delar av landet leder prisökningarna på fastigheter och
-          därmed höjda taxeringsvärden till en helt orimlig fastighetsbeskattning.
-          Problemet finns både i expansiva storstadsområden och i attraktiva
-          kustområden, så det är både en storstads- och glesbygdsfråga.
-          Inte minst de undantagsregler som successivt införts i nuvarande
-          system för fastighetsbeskattning visar att regelverket inte ens
-          på kort sikt är hållbart. Frågan har nu alltmer aktualiserats
-          på grund av att nästa år är det dags för en ny fastighetstaxering.
-        </p>
-        <p xml:id="i-7sT621CV7Z9aW15K8S2uPp">
-          Värdestegring på fastigheter kan vara positivt och taxeringen
-          i sig är heller inget problem. Problemet är den kraftiga skattehöjning
-          som per automatik drabbar många människor i attraktiva områden.
-          I Bohuslän finns kommuner där värdestegringen på fastigheter beräknas
-          bli ända upp till 59 % och siffror på 40@50 % är det vanliga.
-          Det kan inte vara rimligt att man inom vissa områden har en ständig
-          diskussion kring fastighetsskatten och känner oro för om man kan
-          behålla sin fastighet eller inte. Problemet blir än mer påtagligt
-          genom att förmögenhetsskatt också blir en pålaga genom de stigande
-          taxeringsvärdena.
-        </p>
-        <p xml:id="i-5QikfviiMuxGiVqMv6agNo">
-          En annan mycket stor brist i dagens system är också att miljöförbättrande
-          investeringar i en fastighet, som ur samhällets synpunkt är angelägna,
-          leder till höjt fastighetsvärde och därmed höjd skatt. Detta ger
-          dubbla signaler som naturligtvis inte är bra.
-        </p>
-        <p xml:id="i-HU6aRdn6hdcPUTdDDLQjpc">
-          Jag anser att dagens system för fastighetsskatt har överlevt
-          sig självt. Med en skatt som inte tas ut efter bärkraft och upplevs
-          som orimlig och orättvis äventyras människors respekt för skattesystemet
-          som helhet. För att fastighetsbeskattningen ska bli rättvis och
-          rimlig måste en förändring inledas omedelbart. Åtgärder behöver
-          vidtas både på kort och på lång sikt.
-        </p>
-        <p xml:id="i-9dZx8JcNZ4vHdVerGwL6FU">
-          Är finansministern beredd att sänka procentsatsen när skattebasen
-          ökar genom att taxeringsvärdena ökar nästa år?
-        </p>
-        <p xml:id="i-2xkzQYFL7ipZR8r4dNnxnm">
-          Är finansministern beredd att ta upp en diskussion över blockgränserna
-          för att finna en långsiktig hållbar lösning som är mer förankrad
-          bland allmänheten?
-        </p>
-        <p xml:id="i-Pa8FXEXj1h2DvNPegtJK1y">
-          Är finansministern beredd att vidta åtgärder för att motverka
-          att kombinationen fastighetsskatt och förmögenhetsskatt ger än
-          mer orimliga konsekvenser?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-AgKcjrcdn3V6Qo9FSCrVfJ">
+            I vissa delar av landet leder prisökningarna på fastigheter och
+            därmed höjda taxeringsvärden till en helt orimlig fastighetsbeskattning.
+            Problemet finns både i expansiva storstadsområden och i attraktiva
+            kustområden, så det är både en storstads- och glesbygdsfråga.
+            Inte minst de undantagsregler som successivt införts i nuvarande
+            system för fastighetsbeskattning visar att regelverket inte ens
+            på kort sikt är hållbart. Frågan har nu alltmer aktualiserats
+            på grund av att nästa år är det dags för en ny fastighetstaxering.
+          </p>
+          <p xml:id="i-BcXiHJRFEoR1NYG28J2MCK">
+            Värdestegring på fastigheter kan vara positivt och taxeringen
+            i sig är heller inget problem. Problemet är den kraftiga skattehöjning
+            som per automatik drabbar många människor i attraktiva områden.
+            I Bohuslän finns kommuner där värdestegringen på fastigheter beräknas
+            bli ända upp till 59 % och siffror på 40@50 % är det vanliga.
+            Det kan inte vara rimligt att man inom vissa områden har en ständig
+            diskussion kring fastighetsskatten och känner oro för om man kan
+            behålla sin fastighet eller inte. Problemet blir än mer påtagligt
+            genom att förmögenhetsskatt också blir en pålaga genom de stigande
+            taxeringsvärdena.
+          </p>
+          <p xml:id="i-QY7z99zDLEqDZuG9F1YwSk">
+            En annan mycket stor brist i dagens system är också att miljöförbättrande
+            investeringar i en fastighet, som ur samhällets synpunkt är angelägna,
+            leder till höjt fastighetsvärde och därmed höjd skatt. Detta ger
+            dubbla signaler som naturligtvis inte är bra.
+          </p>
+          <p xml:id="i-31NECm1DLsPzeKrJ2bP3xx">
+            Jag anser att dagens system för fastighetsskatt har överlevt
+            sig självt. Med en skatt som inte tas ut efter bärkraft och upplevs
+            som orimlig och orättvis äventyras människors respekt för skattesystemet
+            som helhet. För att fastighetsbeskattningen ska bli rättvis och
+            rimlig måste en förändring inledas omedelbart. Åtgärder behöver
+            vidtas både på kort och på lång sikt.
+          </p>
+          <p xml:id="i-FVJoyMxNpUZaVgjy1ncuU5">
+            Är finansministern beredd att sänka procentsatsen när skattebasen
+            ökar genom att taxeringsvärdena ökar nästa år?
+          </p>
+          <p xml:id="i-NNNCwuu4WPjK6kTUs9HxNt">
+            Är finansministern beredd att ta upp en diskussion över blockgränserna
+            för att finna en långsiktig hållbar lösning som är mer förankrad
+            bland allmänheten?
+          </p>
+          <p xml:id="i-QPLLVNKwGXYTw6zMpQ53vL">
+            Är finansministern beredd att vidta åtgärder för att motverka
+            att kombinationen fastighetsskatt och förmögenhetsskatt ger än
+            mer orimliga konsekvenser?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,83 +3,127 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>asylsökande som får jobb</title>
+        <author>Nordmark, Gunnar (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>asylsökande som får jobb till statsrådet Barbro Holmberg om asylsökande som får jobb</title>
+          <idno type="rdwebb">GS10195</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10195/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10195</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10195</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-Ga4FaAaNvVxH6nfoR7FVAe</idno>
+            <persName>Gunnar Nordmark</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8NR1Z8tejozuay7fUnQPDP</idno>
+            <persName>Barbro Holmberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-c1HUZo35a3mxYkxDqQWpU" corresp="i-Ga4FaAaNvVxH6nfoR7FVAe">
+          <date when="2004-11-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SL8fhChxBuDD5vGtSMFvSC">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-SDSCBb82ziipyzyDU4vJg3">
+          <date when="2004-12-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-W1jBM1wffqecPGSgiPvKmP" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2004-11-23"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FXE2KSZdgdchmbdujyQrg2" corresp="i-8NR1Z8tejozuay7fUnQPDP">
+          <date when="2004-12-03"/>
+        </correspAction>
+        <correspContext corresp="i-FXE2KSZdgdchmbdujyQrg2">
+          <ref type="record" target="prot-200405--043">Riksdagens protokoll 2004/05:43 Fredagen den 3 december</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:195 om asylsökande som får jobb</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0195</head>
-        <author who="i-Ga4FaAaNvVxH6nfoR7FVAe">Gunnar Nordmark</author>
-        <recipient who="i-8NR1Z8tejozuay7fUnQPDP">Barbro Holmberg</recipient>
-        <topic>asylsökande som får jobb</topic>
-        <docDate when="2004-11-22">den 22 november</docDate>
-        <status when="unknown" byWhom="Barbro Holmberg" byWhomId="i-8NR1Z8tejozuay7fUnQPDP" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10195</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:195 av Gunnar Nordmark (fp) till statsrådet
-          Barbro Holmberg om asylsökande som får jobb
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-RxA7Ni9Tosz1m1C71MKGCQ">
+            Interpellation 2004/05:195 av Gunnar Nordmark (fp) till statsrådet
+            Barbro Holmberg om asylsökande som får jobb
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-SXzfPk62vxThDN5MYpDLHK">
+            den 22 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-KPLcGvPeU4NRjWSUVFzVnx">
-          Ett inte ringa antal personer som i Sverige ansökt om asyl har
-          under den tid som deras ansökan behandlats kunnat skaffa sig ett
-          arbete i Sverige. Inte sällan rör det sig om människor med kvalificerade
-          yrkeskunskaper, såsom svetsare, elektriker eller lastbilsförare.
-          Ofta har dessa personer yrkeskunskaper som det råder brist på
-          i Sverige.
-        </p>
-        <p xml:id="i-Kk7YKVmSzFdJDS6wyEX5S5">
-          För den enskilda individen, för företaget och för samhället är
-          detta något positivt. En person kan försörja sig och sin familj
-          och samtidigt bidra till vår gemensamma välfärd. Företaget kan
-          göra en extra vinst och den ekonomiska tillväxten i landet öka.
-        </p>
-        <p xml:id="i-7QewW2yznL2ZwqxnuX5mdL">
-          Många gånger är det på små orter med ett begränsat arbetskraftsutbud
-          som dessa personer finner sin utkomst. Det är inte alltid som
-          dessa personer har tillräckliga asylskäl för att ges uppehållstillstånd,
-          varför svenska myndigheter fattar beslut om utvisning. Det är
-          beslut som får omfattande och negativa konsekvenser för både den
-          enskilde och företaget. Ytterst slår detta mot företagandet och
-          den ekonomiska tillväxten. Det är ofta mindre orter på landsbygden
-          som drabbas.
-        </p>
-        <p xml:id="i-3mnNGodVzEJVYFgaDHsutT">
-          Asylsökande som erbjuds eller erhåller arbete i vårt land får
-          i dag inga möjligheter att på ett smidigt sätt ändra skälen till
-          uppehållstillstånd, från den ursprungliga ansökan om asyl till
-          uppehållstillstånd för att arbeta. Ett av Sveriges största problem
-          i dag och i framtiden är att antalet arbetade timmar är för lågt.
-          Den ordning som råder när det gäller asylsökande som får arbete
-          men utvisas bidrar till detta.
-        </p>
-        <p xml:id="i-3bBgG22XhupuGQH6HKyecd">
-          Mot bakgrund av ovanstående vill jag fråga statsrådet vilka åtgärder
-          hon avser att vidta för att underlätta för asylsökande som fått
-          arbete att få uppehållstillstånd till följd av denna anställning.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-XjfYaAZAijQJNU6V41uLo9">
+            Ett inte ringa antal personer som i Sverige ansökt om asyl har
+            under den tid som deras ansökan behandlats kunnat skaffa sig ett
+            arbete i Sverige. Inte sällan rör det sig om människor med kvalificerade
+            yrkeskunskaper, såsom svetsare, elektriker eller lastbilsförare.
+            Ofta har dessa personer yrkeskunskaper som det råder brist på
+            i Sverige.
+          </p>
+          <p xml:id="i-W7fhcmdjCGPehdvxbVubVj">
+            För den enskilda individen, för företaget och för samhället är
+            detta något positivt. En person kan försörja sig och sin familj
+            och samtidigt bidra till vår gemensamma välfärd. Företaget kan
+            göra en extra vinst och den ekonomiska tillväxten i landet öka.
+          </p>
+          <p xml:id="i-XGxNmvmXrpYftHjkRPHa2C">
+            Många gånger är det på små orter med ett begränsat arbetskraftsutbud
+            som dessa personer finner sin utkomst. Det är inte alltid som
+            dessa personer har tillräckliga asylskäl för att ges uppehållstillstånd,
+            varför svenska myndigheter fattar beslut om utvisning. Det är
+            beslut som får omfattande och negativa konsekvenser för både den
+            enskilde och företaget. Ytterst slår detta mot företagandet och
+            den ekonomiska tillväxten. Det är ofta mindre orter på landsbygden
+            som drabbas.
+          </p>
+          <p xml:id="i-73QjVevCdCjzh9GJYmLJV7">
+            Asylsökande som erbjuds eller erhåller arbete i vårt land får
+            i dag inga möjligheter att på ett smidigt sätt ändra skälen till
+            uppehållstillstånd, från den ursprungliga ansökan om asyl till
+            uppehållstillstånd för att arbeta. Ett av Sveriges största problem
+            i dag och i framtiden är att antalet arbetade timmar är för lågt.
+            Den ordning som råder när det gäller asylsökande som får arbete
+            men utvisas bidrar till detta.
+          </p>
+          <p xml:id="i-6QLmPoxtvVJnsf59eLTv3i">
+            Mot bakgrund av ovanstående vill jag fråga statsrådet vilka åtgärder
+            hon avser att vidta för att underlätta för asylsökande som fått
+            arbete att få uppehållstillstånd till följd av denna anställning.
+          </p>
+        </div>
       </div>
     </body>
   </text>

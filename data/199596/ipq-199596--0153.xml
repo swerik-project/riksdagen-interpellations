@@ -3,88 +3,113 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>elevernas matematikkunskaper på högstadiet</title>
+        <author>Beatrice Ask (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:153 av Beatrice Ask (m) till statsrådet Ylva Johansson om elevernas matematikkunskaper på högstadiet</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_158.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Beatrice Ask (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+          </person>
+          <person gender="woman">
+            <persName>statsrådet Ylva Johansson</persName>
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-GwCZRwMMLoYn8CdR4tyvuy" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
+          <date when="1995-03-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-P4epcaWu8B7PF9Y3ra3k3">
+          <note>date unknown</note>
+          <name>statsrådet Ylva Johansson</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-z7bMwmyUU26dqqsDRvTqx">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-DX222bR3E8UwhXzNyEsDbK">
+          <date when="1995-04-19"/>
+        </correspAction>
+        <correspContext corresp="i-DX222bR3E8UwhXzNyEsDbK">
+          <ref type="record" target="prot-199596--083">Prot. 1995/96:83</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:153</head>
-        <author who="i-PRHkYxGCaT2cbJpjjfnRtn">Beatrice Ask (m)</author>
-        <minister who="unknown">statsrådet Ylva Johansson</minister>
-        <topic>elevernas matematikkunskaper på högstadiet</topic>
-        <docDate when="1996-03-28">Inkom den 28 mars</docDate>
-        <status inProtocol="199596/prot-199596--083.xml" when="1996-04-19" status="answered">Besvarad den 19 april, Prot. 1995/96:83</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:153 av Beatrice Ask (m) till statsrådet Ylva Johansson
-          om elevernas matematikkunskaper på högstadiet
-        </IPQ_title>
-        <submission_info>
-          Inkom den 28 marsBesvarad den 19 aprilProt. 1995/96:83
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-M8saYKsLSbXE6zitMQbTKY">
+            1995/96:153 av Beatrice Ask (m) till statsrådet Ylva Johansson
+            om elevernas matematikkunskaper på högstadiet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-GmMnt4iTN1PQmcACyfFM6a">
+            Inkom den 28 mars : Besvarad den 19 april : Prot. 1995/96:83
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <note type="margin" xml:id="i-XtFPW9ziNdcgMfK7jNtgMK">
-          Interpellationer1995/96:1 -261
-        </note>
-        <p xml:id="i-YQrkiP42zqbe63bFcmMehC">
-          Av en uppmärksammad rapport genomförd i Stockhoms skolor om elevernas
-          matematikkunskaper i årskurserna 3, 6 och 9 framgår att eleverna
-          främst i högstadiet har stora kunskapsbrister, 24 % av eleverna
-          i årskurs 9 säger t.ex. att 6 000 dividerat med 2 000 är lika
-          med 3 000. Det är fler elever som tror det i årskurs 9 än i årskurs
-          6. Faktum är att elevernas matematikkunskaper i förhållande till
-          undervisningsmålen tycks vara bättre i de lägre årskurserna än
-          på högstadiet.
-        </p>
-        <p xml:id="i-M7GD7Zpbw5CjeN6nX8qTAh">
-          Det är givetvis viktigt att analysera orsakerna till de otillräckliga
-          kunskaperna i matematik på högstadiet. Tidigare har problemen
-          all­mänt i debatten ansetts bero på brister i låg- och mellanstadiet,
-          vilket inte längre tycks gälla. Möjligen har den debatt som pågått
-          under många år bidragit till ett ökat engagemang för matematikundervisning­en
-          vad gäller de yngre barnen.
-        </p>
-        <p xml:id="i-8dvjdRBKMWFLXUGgJ5uT5Q">
-          När det gäller högstadiets bekymmer framgår av undersökningen
-          att många elever undervisas av lärare som själva saknar nödvändig
-          mate­matikutbildning. Närmare 30 % av lärarna i matematik, som
-          undervisar i allmän kurs i de skolor som finns med i undersökningen
-          saknar behö­righet.
-        </p>
-        <p xml:id="i-U1Cs3PTxVDfDwN2E2ig7Lr">
-          Mot bakgrund av ovanstående vill jag till skolministern ställa
-          föl­jande frågor:
-        </p>
-        <p xml:id="i-TVNmDZVb8m2NRMwoJMPVNB">
-          Vilka insatser avser skolministern vidta för att stärka elevernas
-          ma­tematikkunskaper på högstadiet?
-        </p>
-        <p xml:id="i-Kzx8c8M55ZFJu3xdqMD98n">
-          På vilket sätt avser regeringen arbeta för att tillse att fler
-          elever får matematikundervisning av i ämnet välutbildade lärare?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_159.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <note xml:id="i-BCLUx2PCn31CKNFfLS1ZRq" type="margin">
+            Interpellationer1995/96:1 -261
+          </note>
+          <p xml:id="i-AtJLWR94KHcpJr1uYNcxZS">
+            Av en uppmärksammad rapport genomförd i Stockhoms skolor om elevernas
+            matematikkunskaper i årskurserna 3, 6 och 9 framgår att eleverna
+            främst i högstadiet har stora kunskapsbrister, 24 % av eleverna
+            i årskurs 9 säger t.ex. att 6 000 dividerat med 2 000 är lika
+            med 3 000. Det är fler elever som tror det i årskurs 9 än i årskurs
+            6. Faktum är att elevernas matematikkunskaper i förhållande till
+            undervisningsmålen tycks vara bättre i de lägre årskurserna än
+            på högstadiet.
+          </p>
+          <p xml:id="i-ERScLe5kbMJqs9kntKvi7">
+            Det är givetvis viktigt att analysera orsakerna till de otillräckliga
+            kunskaperna i matematik på högstadiet. Tidigare har problemen
+            all­mänt i debatten ansetts bero på brister i låg- och mellanstadiet,
+            vilket inte längre tycks gälla. Möjligen har den debatt som pågått
+            under många år bidragit till ett ökat engagemang för matematikundervisning­en
+            vad gäller de yngre barnen.
+          </p>
+          <p xml:id="i-LyDSEH2kyv2hdprxxGunRV">
+            När det gäller högstadiets bekymmer framgår av undersökningen
+            att många elever undervisas av lärare som själva saknar nödvändig
+            mate­matikutbildning. Närmare 30 % av lärarna i matematik, som
+            undervisar i allmän kurs i de skolor som finns med i undersökningen
+            saknar behö­righet.
+          </p>
+          <p xml:id="i-YV3Nb28hoTi95pfEPmyNRG">
+            Mot bakgrund av ovanstående vill jag till skolministern ställa
+            föl­jande frågor:
+          </p>
+          <p xml:id="i-2AQJxRJsptyE9LMDy4rxEf">
+            Vilka insatser avser skolministern vidta för att stärka elevernas
+            ma­tematikkunskaper på högstadiet?
+          </p>
+          <p xml:id="i-676zsrfBhhx8PmD3FFt518">
+            På vilket sätt avser regeringen arbeta för att tillse att fler
+            elever får matematikundervisning av i ämnet välutbildade lärare?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,74 +3,99 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>äldreomsorgen</title>
+        <author>Chris Heister (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1998/99:48 av Chris Heister (m) till socialministern om äldreomsorgen</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_49.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Chris Heister (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-UkRVDvbmgQTeC2YtiGZ7K5</idno>
+          </person>
+          <person gender="man">
+            <persName>socialministern</persName>
+            <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-G2Yfj3nivWPcrckKMJtSxC" corresp="i-UkRVDvbmgQTeC2YtiGZ7K5">
+          <date when="1998-11-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-HDsQDrhLj7XWH7yo1tmSMr">
+          <note>date unknown</note>
+          <name>socialministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-EdLhEUVccXsP9M8LoVUzfA">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Kk8berGij2XroKVNrJPgqa">
+          <date when="1998-12-07"/>
+        </correspAction>
+        <correspContext corresp="i-Kk8berGij2XroKVNrJPgqa">
+          <ref type="record" target="prot-199899--030">Prot. 1998/99:30</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1998/99:48</head>
-        <author who="i-UkRVDvbmgQTeC2YtiGZ7K5">Chris Heister (m)</author>
-        <minister who="unknown">socialministern</minister>
-        <topic>äldreomsorgen</topic>
-        <docDate when="1998-11-23">Inkom den 23 november</docDate>
-        <status inProtocol="199899/prot-199899--030.xml" when="1998-12-07" status="answered">Besvarad den 7 december, Prot. 1998/99:30</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1998/99:48 av Chris Heister (m) till socialministern
-          om äldreomsorgen
-        </IPQ_title>
-        <submission_info>
-          Inkom den 23 novemberBesvarad den 7 december Prot. 1998/99:30
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6TRoAq68mxQ3JErohiwFt2">
+            Interpellation 1998/99:48 av Chris Heister (m) till socialministern
+            om äldreomsorgen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-7rwKHKPrqXnxgAKsv9XZso">
+            Inkom den 23 november : Besvarad den 7 december Prot. 1998/99:30
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Du3G7xQ6B9NoGQX4JRrU6J">
-          En undersökning som Kommunalarbetarförbundet tagit initiativ
-          till visar att de flesta anställda i privata vårdföretag tycker
-          att det är bättre att jobba där än inom den kommunalt drivna äldrevården.
-        </p>
-        <p xml:id="i-WU6LnLTgvEUwPXiGVtrT12">
-          Undersökningen visar att undersköterskor, vårdbiträden och sjukskö­terskor
-          tycker att de får mer ansvar och befogenheter samt mer varieran­de
-          arbetsuppgifter hos de privata arbetsgivarna.
-        </p>
-        <p xml:id="i-AidFSaTa77jDUPJFL3u2YQ">
-          Majoriteten av de anställda anser att de boende får bättre bemötande
-          inom privat äldreomsorg och att företagen har effektivare organisation,
-          färre chefer och mindre administration.
-        </p>
-        <p xml:id="i-VP92KwF6qGhAC1Bibywstr">
-          Majoriteten av dem som jobbar inom äldreomsorgen är kvinnor.
-          Det är därför en viktig valfrihetsrevolution för kvinnor om fler
-          arbetsgivare konkurrerar om deras kompetens. Konkurrens innebär
-          bättre löner och friare arbetsvillkor vilket Kommunals undersökning
-          visar.
-        </p>
-        <p xml:id="i-NaZQgCsmVmHiLmcoci1ydu">
-          På vilket sätt vill regeringen stimulera kommuner och landsting
-          att öka mångfalden inom äldreomsorgen?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_50.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-X5qXKehnru8cp1QsPEppGP">
+            En undersökning som Kommunalarbetarförbundet tagit initiativ
+            till visar att de flesta anställda i privata vårdföretag tycker
+            att det är bättre att jobba där än inom den kommunalt drivna äldrevården.
+          </p>
+          <p xml:id="i-WKLYjEPnQSxdq1MJp6hoVt">
+            Undersökningen visar att undersköterskor, vårdbiträden och sjukskö­terskor
+            tycker att de får mer ansvar och befogenheter samt mer varieran­de
+            arbetsuppgifter hos de privata arbetsgivarna.
+          </p>
+          <p xml:id="i-8Jco6e54vCU6Eh4pGQtAkV">
+            Majoriteten av de anställda anser att de boende får bättre bemötande
+            inom privat äldreomsorg och att företagen har effektivare organisation,
+            färre chefer och mindre administration.
+          </p>
+          <p xml:id="i-NiRTnLeUnwm8hnvLTLDoAH">
+            Majoriteten av dem som jobbar inom äldreomsorgen är kvinnor.
+            Det är därför en viktig valfrihetsrevolution för kvinnor om fler
+            arbetsgivare konkurrerar om deras kompetens. Konkurrens innebär
+            bättre löner och friare arbetsvillkor vilket Kommunals undersökning
+            visar.
+          </p>
+          <p xml:id="i-HC5BfWar2JLSP1y1dmNhNW">
+            På vilket sätt vill regeringen stimulera kommuner och landsting
+            att öka mångfalden inom äldreomsorgen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

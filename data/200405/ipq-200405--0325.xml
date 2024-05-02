@@ -3,93 +3,141 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kommunernas bredbandssatsningar</title>
+        <author>Johansson, Jörgen (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>kommunernas bredbandssatsningar till statsrådet Sven-Erik Österberg om kommunernas bredbandssatsningar</title>
+          <idno type="rdwebb">GS10325</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10325/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10325</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10325</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
+            <persName>Jörgen Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <persName>Ulrica Messing</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-FW1rjPubRX1jJoEvEUMqbq" corresp="i-AyN7HRP1y38PeQoLunJifb">
+          <date when="2005-01-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-PQeMVoEsDhZfdQLgyHGqS9">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UdC8ZCtj6Bhpxin5osseL6">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-WtKHtoL3EB2e8HXEts2j7v" corresp="i-9fdWbFK67588CD12XaNZBq">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-AVZ4ox6Th2zzSN48QKYj7p" corresp="i-L7Ay5GaFaMutWEX7utMv62">
+          <date when="2005-02-08"/>
+        </correspAction>
+        <correspContext corresp="i-AVZ4ox6Th2zzSN48QKYj7p">
+          <ref type="record" target="prot-200405--071">Riksdagens protokoll 2004/05:71 Tisdagen den 8 februari</ref>
+          <ref type="recordSection" target="unsetDivId">12 § Svar på interpellation 2004/05:325 om kommunernas bredbandssatsningar</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0325</head>
-        <author who="i-AyN7HRP1y38PeQoLunJifb">Jörgen Johansson</author>
-        <recipient who="i-9fdWbFK67588CD12XaNZBq">Sven-Erik Österberg</recipient>
-        <topic>kommunernas bredbandssatsningar</topic>
-        <docDate when="2005-01-24">den 24 januari</docDate>
-        <status when="unknown" byWhom="Ulrica Messing" byWhomId="i-L7Ay5GaFaMutWEX7utMv62" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10325</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:325 av Jörgen Johansson (c) till statsrådet
-          Sven-Erik Österberg om kommunernas bredbandssatsningar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-4ayLyStATqiZVVGpnsFiTg">
+            Interpellation 2004/05:325 av Jörgen Johansson (c) till statsrådet
+            Sven-Erik Österberg om kommunernas bredbandssatsningar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4UWNJdMfJcLvHegq1Hg2d1">
+            den 24 januari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-LV5CXigFwESM25ndzXywVb">
-          Den nödvändiga utbyggnad av bredband som just nu pågår baseras
-          på en överenskommelse mellan regeringen och Svenska Kommunförbundet
-          från 2001. Överenskommelsen innebär att kommunerna åtar sig att
-          bygga bredband i de områden där marknaden av kommersiella skäl
-          inte bygger ut, under förutsättning att de får statligt stöd.
-          Tyvärr bryter regeringen nu denna uppgörelse.
-        </p>
-        <p xml:id="i-VTB6Wvxov4MBVdERbNXqpv">
-          Regeringen tog i december beslutet att frysa inne de pengar som
-          utlovats till kommunernas bredbandssatsningar. Det betyder att
-          kommunerna går miste om ca 400 miljoner kronor under 2005. Anledningen
-          till regeringens beslut är att de inte klarar av att hålla statens
-          utgiftstak och därför måste man ändra på de förutsättningar som
-          tidigare getts våra kommuner och i förlängningen medborgarna.
-        </p>
-        <p xml:id="i-DnUwUiy537BBwgU7cLMFH6">
-          Många kommuner har investerat stora summor för att ge sina invånare,
-          företag och offentliga organ förutsättningar att hänga med i IT-utvecklingen.
-          En frysning av bredbandspengarna betyder att kommunerna hamnar
-          i en besvärlig situation. I många fall har de redan tecknat avtal
-          med bredbandsleverantörer. Dessa avtal måste fullföljas även när
-          staten bryter sitt avtal. Med andra ord, kommuninvånarna får sämre
-          kommunal service när de måste låna pengar till staten för att
-          rädda statsfinanserna.
-        </p>
-        <p xml:id="i-RmgwXMiPZScjoc4BefNayY">
-          Några regler om inskränkningar i utbetalningen av bredbandspengarna
-          ingår inte i det avtal som finns mellan kommunerna och regeringen.
-          Alltså borde ett sådant här beslut inte kunnat fattas utan nya
-          överläggningar mellan parterna. Nu lovas det att pengarna ska
-          komma under 2006 i stället. Men tilliten har försvunnit. Avtalsbrottet
-          betyder att ingen kommer att våga investera under nästa år. Detta
-          eftersom det inte går att lita på att det blir några pengar då
-          heller.
-        </p>
-        <p xml:id="i-BsXJM7PihTcRy5bwi3bxzP">
-          Därför vill jag fråga statsrådet:
-        </p>
-        <p xml:id="i-Mcp8aZZEhacE67r98H1CUe">
-          1. Vilka åtgärder avser statsrådet att vidta för att kommuninvånarna
-          inte ska behöva få sämre kommunal service på grund av att regeringen
-          inte klarar av att hålla sina avtal?
-        </p>
-        <p xml:id="i-DcQJZvNSZ669d3ZYgNRk4G">
-          2. Vilka åtgärder avser statsrådet att vidta för att bredbandspengarna
-          verkligen betalas ut under 2006?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JJHXq1HtJxHYftuj97ahzy">
+            Den nödvändiga utbyggnad av bredband som just nu pågår baseras
+            på en överenskommelse mellan regeringen och Svenska Kommunförbundet
+            från 2001. Överenskommelsen innebär att kommunerna åtar sig att
+            bygga bredband i de områden där marknaden av kommersiella skäl
+            inte bygger ut, under förutsättning att de får statligt stöd.
+            Tyvärr bryter regeringen nu denna uppgörelse.
+          </p>
+          <p xml:id="i-VaS1i5VXHdSFcHFfCs5sXs">
+            Regeringen tog i december beslutet att frysa inne de pengar som
+            utlovats till kommunernas bredbandssatsningar. Det betyder att
+            kommunerna går miste om ca 400 miljoner kronor under 2005. Anledningen
+            till regeringens beslut är att de inte klarar av att hålla statens
+            utgiftstak och därför måste man ändra på de förutsättningar som
+            tidigare getts våra kommuner och i förlängningen medborgarna.
+          </p>
+          <p xml:id="i-Qb6bNP2Jm8R6HmirPPqdPo">
+            Många kommuner har investerat stora summor för att ge sina invånare,
+            företag och offentliga organ förutsättningar att hänga med i IT-utvecklingen.
+            En frysning av bredbandspengarna betyder att kommunerna hamnar
+            i en besvärlig situation. I många fall har de redan tecknat avtal
+            med bredbandsleverantörer. Dessa avtal måste fullföljas även när
+            staten bryter sitt avtal. Med andra ord, kommuninvånarna får sämre
+            kommunal service när de måste låna pengar till staten för att
+            rädda statsfinanserna.
+          </p>
+          <p xml:id="i-QskFmgp4ZgBvsEaFHWeacv">
+            Några regler om inskränkningar i utbetalningen av bredbandspengarna
+            ingår inte i det avtal som finns mellan kommunerna och regeringen.
+            Alltså borde ett sådant här beslut inte kunnat fattas utan nya
+            överläggningar mellan parterna. Nu lovas det att pengarna ska
+            komma under 2006 i stället. Men tilliten har försvunnit. Avtalsbrottet
+            betyder att ingen kommer att våga investera under nästa år. Detta
+            eftersom det inte går att lita på att det blir några pengar då
+            heller.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-QqHqsquWDZrV3dt1LzHLK5">
+            Därför vill jag fråga statsrådet:
+            <list rend="unordered">
+              <item>
+                1.Vilka åtgärder avser statsrådet att vidta för att kommuninvånarna
+                inte ska behöva få sämre kommunal service på grund av att regeringen
+                inte klarar av att hålla sina avtal?
+              </item>
+              <item>
+                2.Vilka åtgärder avser statsrådet att vidta för att bredbandspengarna
+                verkligen betalas ut under 2006?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

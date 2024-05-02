@@ -3,53 +3,78 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>kärnkrafts- säkerheten</title>
+        <author>Lennart Daléus (c)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>1995/96:162 av Lennart Daléus (c) till miljöministern om kärnkrafts- säkerheten</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_170.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <persName>Lennart Daléus (c)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>c</desc>
+            </state>
+            <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
+          </person>
+          <person gender="woman">
+            <persName>miljöministern</persName>
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-ExUoYQRG9eQ9ZKDcTEPRGJ" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
+          <date when="1995-03-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-MSg1P7SLLzzS5TnATLc5qa">
+          <note>date unknown</note>
+          <name>miljöministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-PEmnZSiz3duppHEGx2qoho">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-UF9piBy2Hd7rPfcHhsfKFw">
+          <date when="1995-04-19"/>
+        </correspAction>
+        <correspContext corresp="i-UF9piBy2Hd7rPfcHhsfKFw">
+          <ref type="record" target="prot-199596--083">Prot. 1995/96:83</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1995/96:162</head>
-        <author who="i-GSfuaZB2iKY7EQ9cNr63sp">Lennart Daléus (c)</author>
-        <minister who="unknown">miljöministern</minister>
-        <topic>kärnkrafts- säkerheten</topic>
-        <docDate when="1996-03-29">Inkom den 29 mars</docDate>
-        <status inProtocol="199596/prot-199596--083.xml" when="1996-04-19" status="answered">Besvarad den 19 april, Prot. 1995/96:83</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          1995/96:162 av Lennart Daléus (c) till miljöministern om kärnkrafts-
-          säkerheten
-        </IPQ_title>
-        <submission_info>
-          Inkom den 29 marsBesvarad den 19 april Prot. 1995/96:83
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2gLreZo55RtAPkwZDRaBET">
+            1995/96:162 av Lennart Daléus (c) till miljöministern om kärnkrafts-
+            säkerheten
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-S8R4LNCzjekQVNU4w9s5TG">
+            Inkom den 29 mars : Besvarad den 19 april Prot. 1995/96:83
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-JUgouWTZudfB1gBnGdxxHN">
-          Vilka åtgärder har Sverige vidtagit och vad avser regeringen
-          att vidta för åtgärder för att minska risken för kärnenergirelaterade
-          olyckor i Nordens närområde?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199596/pages/ip_199596_171.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-UHMsGsxgVEr4NogPAUaWeH">
+            Vilka åtgärder har Sverige vidtagit och vad avser regeringen
+            att vidta för åtgärder för att minska risken för kärnenergirelaterade
+            olyckor i Nordens närområde?
+          </p>
+        </div>
       </div>
     </body>
   </text>

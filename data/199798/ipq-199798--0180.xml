@@ -3,70 +3,95 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>amalgam</title>
+        <author>Siw Persson (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:180 av Siw Persson (fp) till socialministern om amalgam</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_190.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Siw Persson (fp)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>fp</desc>
+            </state>
+            <idno>i-N1qw8jfKGpQHZKgF3gs76j</idno>
+          </person>
+          <person gender="woman">
+            <persName>socialministern</persName>
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-HvBbFZ7NFC4Kk4WXwnAb8u" corresp="i-N1qw8jfKGpQHZKgF3gs76j">
+          <date when="1997-02-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-9BtL2GUeg6ZohfUaNLL4U4">
+          <note>date unknown</note>
+          <name>socialministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-TbHfrnqyMvdNtK27WQmi2Y">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-EXJ2EEmQzMx7bWs48833pL">
+          <date when="1997-03-03"/>
+        </correspAction>
+        <correspContext corresp="i-EXJ2EEmQzMx7bWs48833pL">
+          <ref type="record" target="prot-199798--073">Prot. 1997/98:73</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:180</head>
-        <author who="i-N1qw8jfKGpQHZKgF3gs76j">Siw Persson (fp)</author>
-        <minister who="unknown">socialministern</minister>
-        <topic>amalgam</topic>
-        <docDate when="1998-02-12">Inkom den 12 februari</docDate>
-        <status inProtocol="199798/prot-199798--073.xml" when="1998-03-03" status="answered">Besvarad den 3 mars, Prot. 1997/98:73</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:180 av Siw Persson (fp) till socialministern
-          om amalgam
-        </IPQ_title>
-        <submission_info>
-          Inkom den 12 februariBesvarad den 3 mars Prot. 1997/98:73
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-AFg1cEXBn6cWdGMscDydsp">
+            Interpellation 1997/98:180 av Siw Persson (fp) till socialministern
+            om amalgam
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Wzb2sWviyBkhJkkjNggk7H">
+            Inkom den 12 februari : Besvarad den 3 mars Prot. 1997/98:73
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-NdvxjPAmrxYPYkL3fFtsJP">
-          Enligt uttalande från Socialstyrelsen skulle det strida mot EU:s
-          direk­tiv att förbjuda amalgam. EU:s begränsningsdirektiv innehåller
-          förbud mot saluförande och användning av ett antal farliga kemikalier.
-          Vid tiden för anslutningsförhandlingarna med EU hade Sverige i
-          flera fall längre gående restriktioner för vissa ämnen.
-        </p>
-        <p xml:id="i-UT1NZpQsJFk2zTpHZJZVip">
-          Vid förhandlingarna med EU konstaterades efter expertsamtal att
-          Sveriges regler om asbest, kvicksilver och klorerade lösningsmedel
-          inte strider mot direktivet. De svenska begränsningarna av vissa
-          ämnen, bl.a. kvicksilver, saknade således vid anslutningen till
-          EU motsvarighet inom unionen och kunde därför inte ifrågasättas.
-        </p>
-        <p xml:id="i-HVyV8AAMgBPZvDSTUNjvzp">
-          Nu vill jag ställa följande fråga till socialministern:
-        </p>
-        <p xml:id="i-NnarJZnTyCWPxmHim2cPmn">
-          Avser regeringen att vidta några åtgärder så att svenska myndigheter
-          inte längre kan hävda att det är EU som omöjliggör ett stopp för
-          använd­ning av amalgam, som innehåller 50 % kvicksilver?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_191.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-2HKyWE1gcBqqgLxsTHsAeW">
+            Enligt uttalande från Socialstyrelsen skulle det strida mot EU:s
+            direk­tiv att förbjuda amalgam. EU:s begränsningsdirektiv innehåller
+            förbud mot saluförande och användning av ett antal farliga kemikalier.
+            Vid tiden för anslutningsförhandlingarna med EU hade Sverige i
+            flera fall längre gående restriktioner för vissa ämnen.
+          </p>
+          <p xml:id="i-PZwGQSkx8FcwAttxsNu6Lm">
+            Vid förhandlingarna med EU konstaterades efter expertsamtal att
+            Sveriges regler om asbest, kvicksilver och klorerade lösningsmedel
+            inte strider mot direktivet. De svenska begränsningarna av vissa
+            ämnen, bl.a. kvicksilver, saknade således vid anslutningen till
+            EU motsvarighet inom unionen och kunde därför inte ifrågasättas.
+          </p>
+          <p xml:id="i-3P6CaiSrhYngB5HVeDmhLZ">
+            Nu vill jag ställa följande fråga till socialministern:
+          </p>
+          <p xml:id="i-8wj3V63unKvoYhC1GLBSwD">
+            Avser regeringen att vidta några åtgärder så att svenska myndigheter
+            inte längre kan hävda att det är EU som omöjliggör ett stopp för
+            använd­ning av amalgam, som innehåller 50 % kvicksilver?
+          </p>
+        </div>
       </div>
     </body>
   </text>

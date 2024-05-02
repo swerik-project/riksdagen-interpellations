@@ -3,90 +3,138 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>löftet om vårdgaranti</title>
+        <author>Ullenhag, Erik (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>löftet om vårdgaranti till statsrådet Ylva Johansson om löftet om vårdgaranti</title>
+          <idno type="rdwebb">GS10227</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10227/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10227</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10227</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-QKE6ihmLRJvwhV4neD6h7b</idno>
+            <persName>Erik Ullenhag</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-UJb4ap6pP4hJSsqAg5eVHA" corresp="i-QKE6ihmLRJvwhV4neD6h7b">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-32bAhyZ5CDVDfBkjiJRsyS">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CYr5SmSVgR1MV4tittkRjF">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-8y1UcsLGLFegqfiv5XGRES" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2004-11-30"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-8XeB13v8vLrPPQnaee8k3k" corresp="i-SZKUTdtCrCo58yNCQsH76">
+          <date when="2005-01-25"/>
+        </correspAction>
+        <correspContext corresp="i-8XeB13v8vLrPPQnaee8k3k">
+          <ref type="record" target="prot-200405--063">Riksdagens protokoll 2004/05:63 Tisdagen den 25 januari</ref>
+          <ref type="recordSection" target="unsetDivId">13 § </ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0227</head>
-        <author who="i-QKE6ihmLRJvwhV4neD6h7b">Erik Ullenhag</author>
-        <recipient who="i-SZKUTdtCrCo58yNCQsH76">Ylva Johansson</recipient>
-        <topic>löftet om vårdgaranti</topic>
-        <docDate when="2004-11-30">den 30 november</docDate>
-        <status when="unknown" byWhom="Ylva Johansson" byWhomId="i-SZKUTdtCrCo58yNCQsH76" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10227</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:227 av Erik Ullenhag (fp) till statsrådet
-          Ylva Johansson om löftet om vårdgaranti
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-AxkZxehYUFNXTdSpSi2WsS">
+            Interpellation 2004/05:227 av Erik Ullenhag (fp) till statsrådet
+            Ylva Johansson om löftet om vårdgaranti
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-75U7S1YWeu74qi5mS4tzKn">
+            den 30 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-3TTt8xhm8pU2yrubT2gvvb">
-          Hösten 2002 utlovade den dåvarande socialministern Lars Engqvist
-          tio reformer för den svenska sjukvården. En granskning som Dagens
-          Medicin (39/2004) genomfört visar att endast två av dessa löften
-          genomförts när Lars Engqvist fick avgå eftersom statsminister
-          Göran Persson ville "toppa laget". Ett av de löften som inte genomförts
-          är att regeringen lovat att införa en nationell vårdgaranti.
-        </p>
-        <p xml:id="i-2XAzYUWWr14mM1T9eqXYAE">
-          Den socialdemokratiska regeringen avskaffade 1997 den nationella
-          vårdgaranti som infördes av den borgerliga regeringen. Regeringen
-          har alltsedan dess gång på gång lovat att återinföra den. Nu utlovar
-          ni i budgetpropositionen en nationell vårdgaranti som ska börja
-          gälla nästa år @ men först från den 1 november 2005. Mot bakgrund
-          av hur många gånger den socialdemokratiska regeringen brutit löftet
-          om att införa en vårdgaranti är det lätt att ställa sig skeptisk
-          till att Lars Engqvists löfte verkligen kommer att förverkligas.
-          Sveriges alla köande patienter har dåliga erfarenheter av regeringens
-          tidigare löften.
-        </p>
-        <p xml:id="i-KipCMfgfFMQPjkhktbNi7a">
-          Innebörden i regeringens löfte om en nationell vårdgaranti är
-          mycket oklart utöver att 700 miljoner kronor avsätts i stimulansbidrag
-          nästa år. Vad kommer det aviserade avtalet mellan regeringen och
-          Landstingsförbundet att innehålla? Kommer samtliga medicinskt
-          motiverade behandlingar att omedelbart ingå i vårdgarantin? Eller
-          kommer införandet att ske stegvis? Vilka prioriteringar kommer
-          att tillämpas? Det är angeläget att Sveriges alla köande patienter
-          snarast får besked.
-        </p>
-        <p xml:id="i-MgDkasVZZpepWZ3DWtjKtH">
-          Jag vill med hänvisning till ovanstående fråga sjukvårds- och
-          äldreomsorgsminister Ylva Johansson:
-        </p>
-        <p xml:id="i-LixXTYDiGjjuCoers8W3td">
-          1. Är det statsrådets bedömning att en nationell vårdgaranti
-          kommer att gälla från den 1 november nästa år?
-        </p>
-        <p xml:id="i-A1WNbDLnpwqXqb5xXjDoMW">
-          2. När kommer ett eventuellt förslag till beslut att presenteras?
-        </p>
-        <p xml:id="i-CrWNhqG3SpwCYqaJpmGgqe">
-          3. Vad kommer enligt statsrådets bedömning en eventuell vårdgaranti
-          att innehålla?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FdWgTAdbMhRsZt6CEPPwn8">
+            Hösten 2002 utlovade den dåvarande socialministern Lars Engqvist
+            tio reformer för den svenska sjukvården. En granskning som Dagens
+            Medicin (39/2004) genomfört visar att endast två av dessa löften
+            genomförts när Lars Engqvist fick avgå eftersom statsminister
+            Göran Persson ville "toppa laget". Ett av de löften som inte genomförts
+            är att regeringen lovat att införa en nationell vårdgaranti.
+          </p>
+          <p xml:id="i-6FDLudnd2bLEpK42AUiXiJ">
+            Den socialdemokratiska regeringen avskaffade 1997 den nationella
+            vårdgaranti som infördes av den borgerliga regeringen. Regeringen
+            har alltsedan dess gång på gång lovat att återinföra den. Nu utlovar
+            ni i budgetpropositionen en nationell vårdgaranti som ska börja
+            gälla nästa år @ men först från den 1 november 2005. Mot bakgrund
+            av hur många gånger den socialdemokratiska regeringen brutit löftet
+            om att införa en vårdgaranti är det lätt att ställa sig skeptisk
+            till att Lars Engqvists löfte verkligen kommer att förverkligas.
+            Sveriges alla köande patienter har dåliga erfarenheter av regeringens
+            tidigare löften.
+          </p>
+          <p xml:id="i-VxSECfDEsUoyQkz8rsUUB6">
+            Innebörden i regeringens löfte om en nationell vårdgaranti är
+            mycket oklart utöver att 700 miljoner kronor avsätts i stimulansbidrag
+            nästa år. Vad kommer det aviserade avtalet mellan regeringen och
+            Landstingsförbundet att innehålla? Kommer samtliga medicinskt
+            motiverade behandlingar att omedelbart ingå i vårdgarantin? Eller
+            kommer införandet att ske stegvis? Vilka prioriteringar kommer
+            att tillämpas? Det är angeläget att Sveriges alla köande patienter
+            snarast får besked.
+          </p>
+        </div>
+        <div type="ipQuestion">
+          <p xml:id="i-PQHarokhdaWSF1impryKH7">
+            Jag vill med hänvisning till ovanstående fråga sjukvårds- och
+            äldreomsorgsminister Ylva Johansson:
+            <list rend="unordered">
+              <item>
+                1. Är det statsrådets bedömning att en nationell vårdgaranti
+                kommer att gälla från den 1 november nästa år?
+              </item>
+              <item>
+                2. När kommer ett eventuellt förslag till beslut att presenteras?
+              </item>
+              <item>
+                3. Vad kommer enligt statsrådets bedömning en eventuell vårdgaranti
+                att innehålla?
+              </item>
+            </list>
+          </p>
+        </div>
       </div>
     </body>
   </text>

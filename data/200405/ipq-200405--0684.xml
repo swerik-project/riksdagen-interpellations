@@ -3,115 +3,150 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>nya anställningar</title>
+        <author>Maria Narti, Ana (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>nya anställningar till näringsminister Thomas Östros om nya anställningar</title>
+          <idno type="rdwebb">GS10684</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10684/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10684</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10684</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-4SAiMdwrEthd2M8z2yjtkv</idno>
+            <persName>Ana Maria Narti</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9L9HKggnPR64Aw8EBbsaCZ" corresp="i-4SAiMdwrEthd2M8z2yjtkv">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-G62M9RcendEi1e76EBW3cx">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-CwYK1sZnFZ7wspKzkJdVee">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-D7y2p3BPp7xmMdKijb2WAm" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2005-05-24"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3mtD7iTxXUDn7m8Z8DzZZw" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2005-06-08"/>
+        </correspAction>
+        <correspContext corresp="i-3mtD7iTxXUDn7m8Z8DzZZw">
+          <ref type="record" target="prot-200405--135">Riksdagens protokoll 2004/05:135 Onsdagen den 8 juni</ref>
+          <ref type="recordSection" target="unsetDivId">10 § Svar på interpellation 2004/05:684 om nya anställningar</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0684</head>
-        <author who="i-4SAiMdwrEthd2M8z2yjtkv">Ana Maria Narti</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>nya anställningar</topic>
-        <docDate when="2005-05-24">den 24 maj</docDate>
-        <status when="2005-06-08" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10684</external_id>
-        <debate>
-          <turn when="2005-06-08 11:39:33" duration="288">Thomas Östros (S)</turn>
-          <turn when="2005-06-08 11:44:17" duration="249">Ana Maria Narti (Fp)</turn>
-          <turn when="2005-06-08 11:48:22" duration="252">Thomas Östros (S)</turn>
-          <turn when="2005-06-08 11:52:30" duration="245">Ana Maria Narti (Fp)</turn>
-          <turn when="2005-06-08 11:56:31" duration="239">Thomas Östros (S)</turn>
-          <turn when="2005-06-08 12:00:26" duration="124">Ana Maria Narti (Fp)</turn>
-          <turn when="2005-06-08 12:02:26" duration="146">Thomas Östros (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:684 av Ana Maria Narti (fp) till näringsminister
-          Thomas Östros om nya anställningar
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-8yoVBPh4EACX9tgYr8QpwP">
+            Interpellation 2004/05:684 av Ana Maria Narti (fp) till näringsminister
+            Thomas Östros om nya anställningar
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-XLXhJEPn6RGr9QT3f9nq4S">
+            den 24 maj
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Q5v2LJSgspNaUvvimVHfMe">
-          För 40 år sedan fanns det i Sverige två gånger så många företag
-          som i dag. Talet är i sig en allvarlig larmsignal. Landet behöver
-          nya arbetsplatser. Det enklaste sättet att få i gång en process
-          av förnyelse är att stimulera fram uppkomsten av många nya företag
-          och att skapa villkor som lätt låter dessa företag växa. Alla
-          nya företag som startas lyckas inte lika väl, vissa försvinner
-          efter kortare eller längre tid i arbetslivet. Alltså vi behöver
-          många nya företag, många företag som stadigt växer, många nya
-          anställningar.
-        </p>
-        <p xml:id="i-YFFbr7sj49cjezm67rXTLV">
-          Vi vet att stora prövningar hotar samhället om inte alltfler
-          riktiga jobb kontinuerligt skapas.
-        </p>
-        <p xml:id="i-Ec8GkMTzY6ScNgP4KTqE9M">
-          Riktiga jobb @ alltså inte arbetsplatser köpta av staten via
-          Ams. Åtgärder som till exempel rekryteringsstödet eller det tillfälliga
-          förstärkta rekryteringsstödet eller någon annan åtgärd av samma
-          karaktär har funnits under ett antal år utan att ge upphov till
-          dem så hett önskade nya riktiga arbetsplatserna. Dessa åtgärder
-          har inte heller på ett positivt sätt påverkat sjukfrånvaron eller
-          reducerat antalet sjukpensionärer. Alla siffror i arbetsmarknadens
-          statistik @ till och med om man använder sig av de konstiga kategorier
-          som i dag florerar där (öppen arbetslöshet, övriga och så vidare)
-          @ talar om ett arbetsliv som håller på att stagnera, stanna på
-          en låg nivå av arbetsplatser. Vi får inga nya riktiga jobb innan
-          en stor förändring i arbetslivets villkor äger rum.
-        </p>
-        <p xml:id="i-JWQBg6ZqrZGWWjo294o1GG">
-          Svenskt näringsliv genomför regelbundna rekryteringsenkäter som
-          visar hur företagare och arbetsgivare ställer sig till nyrekryteringar.
-          Den tidigare undersökningen kom 2002 och den senaste kom nu under
-          våren 2005. Det som enkäten tydligen visar är att företagare och
-          arbetsgivare är alltmer tveksamma till att rekrytera folk samtidigt
-          som bristen på personer med rätt yrkeserfarenhet är alltmer påtaglig.
-          Vi har antagligen alldeles för få utbildningar som betraktas av
-          rekryteringsansvariga som tillräckligt pålitliga. Att yrkesförberedande
-          linjer på gymnasiet förlorar alltflera elever och att de fullbordar
-          gymnasieprogrammen är känt @ framför allt har skarp kritik mot
-          dessa gymnasieprogram kommit från LO. Det är också obegripligt
-          varför just nu antalet platser på KY minskar, när dessa studier
-          får betydligt högre uppskattning från företagarna. Ur enkätens
-          svar kan man också se att viljan att rekrytera sjunker nu på grund
-          av de nya bestämmelserna om sjuklönen: Allt färre vill anställa
-          när risken att stå med betydligt ökande kostnader vid sjukdom
-          är mycket stor. Åtta av tio små företag med färre än 50 anställda
-          pekar på de nya reglerna som orsak till sin extra försiktighet
-          inför nyanställningar. Talet är lägre bland stora företag som
-          har andra möjligheter att kompensera sig för ökande kostnader,
-          men också där ser man att känsligheten för den ökade risk som
-          sjuklönen medför har stärkts.
-        </p>
-        <p xml:id="i-EPWn6zmqzMx8xDxA24MiaV">
-          Med alla dessa negativa attitydförändringar hos företagarna i
-          tanken, vill jag nu fråga näringsministern:
-        </p>
-        <p xml:id="i-QLqHZDZxT4spPKWyt8tGmJ">
-          På vilket sätt avser näringsministern att stimulera rekrytering
-          och bildandet av nya och växande företag i Sverige?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-GfQdoU2qHD9mzTkbBvhRfm">
+            För 40 år sedan fanns det i Sverige två gånger så många företag
+            som i dag. Talet är i sig en allvarlig larmsignal. Landet behöver
+            nya arbetsplatser. Det enklaste sättet att få i gång en process
+            av förnyelse är att stimulera fram uppkomsten av många nya företag
+            och att skapa villkor som lätt låter dessa företag växa. Alla
+            nya företag som startas lyckas inte lika väl, vissa försvinner
+            efter kortare eller längre tid i arbetslivet. Alltså vi behöver
+            många nya företag, många företag som stadigt växer, många nya
+            anställningar.
+          </p>
+          <p xml:id="i-86B58QRxyYb81W3hFwbd5U">
+            Vi vet att stora prövningar hotar samhället om inte alltfler
+            riktiga jobb kontinuerligt skapas.
+          </p>
+          <p xml:id="i-6m7ddHwXYrbBDckUFUqm6X">
+            Riktiga jobb @ alltså inte arbetsplatser köpta av staten via
+            Ams. Åtgärder som till exempel rekryteringsstödet eller det tillfälliga
+            förstärkta rekryteringsstödet eller någon annan åtgärd av samma
+            karaktär har funnits under ett antal år utan att ge upphov till
+            dem så hett önskade nya riktiga arbetsplatserna. Dessa åtgärder
+            har inte heller på ett positivt sätt påverkat sjukfrånvaron eller
+            reducerat antalet sjukpensionärer. Alla siffror i arbetsmarknadens
+            statistik @ till och med om man använder sig av de konstiga kategorier
+            som i dag florerar där (öppen arbetslöshet, övriga och så vidare)
+            @ talar om ett arbetsliv som håller på att stagnera, stanna på
+            en låg nivå av arbetsplatser. Vi får inga nya riktiga jobb innan
+            en stor förändring i arbetslivets villkor äger rum.
+          </p>
+          <p xml:id="i-S94vxFWXsR1iER3pnW9jQW">
+            Svenskt näringsliv genomför regelbundna rekryteringsenkäter som
+            visar hur företagare och arbetsgivare ställer sig till nyrekryteringar.
+            Den tidigare undersökningen kom 2002 och den senaste kom nu under
+            våren 2005. Det som enkäten tydligen visar är att företagare och
+            arbetsgivare är alltmer tveksamma till att rekrytera folk samtidigt
+            som bristen på personer med rätt yrkeserfarenhet är alltmer påtaglig.
+            Vi har antagligen alldeles för få utbildningar som betraktas av
+            rekryteringsansvariga som tillräckligt pålitliga. Att yrkesförberedande
+            linjer på gymnasiet förlorar alltflera elever och att de fullbordar
+            gymnasieprogrammen är känt @ framför allt har skarp kritik mot
+            dessa gymnasieprogram kommit från LO. Det är också obegripligt
+            varför just nu antalet platser på KY minskar, när dessa studier
+            får betydligt högre uppskattning från företagarna. Ur enkätens
+            svar kan man också se att viljan att rekrytera sjunker nu på grund
+            av de nya bestämmelserna om sjuklönen: Allt färre vill anställa
+            när risken att stå med betydligt ökande kostnader vid sjukdom
+            är mycket stor. Åtta av tio små företag med färre än 50 anställda
+            pekar på de nya reglerna som orsak till sin extra försiktighet
+            inför nyanställningar. Talet är lägre bland stora företag som
+            har andra möjligheter att kompensera sig för ökande kostnader,
+            men också där ser man att känsligheten för den ökade risk som
+            sjuklönen medför har stärkts.
+          </p>
+          <p xml:id="i-RWkXTQTvx5P7CUikpJ5dJU">
+            Med alla dessa negativa attitydförändringar hos företagarna i
+            tanken, vill jag nu fråga näringsministern:
+          </p>
+          <p xml:id="i-KV7DpcyYhT5c1DsJJKN3Bn">
+            På vilket sätt avser näringsministern att stimulera rekrytering
+            och bildandet av nya och växande företag i Sverige?
+          </p>
+        </div>
       </div>
     </body>
   </text>

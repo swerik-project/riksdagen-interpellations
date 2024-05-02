@@ -3,62 +3,87 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>inkomstskillnaderna</title>
+        <author>Gudrun Schyman (v)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1997/98:296 av Gudrun Schyman (v) till statsministern om inkomstskillnaderna</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_287.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Gudrun Schyman (v)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>v</desc>
+            </state>
+            <idno>i-LzYBGnvuhNHdQ7LQKPA6UJ</idno>
+          </person>
+          <person gender="man">
+            <persName>statsministern</persName>
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-AADiW2yFojotP39j3aqng" corresp="i-LzYBGnvuhNHdQ7LQKPA6UJ">
+          <date when="1997-04-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-D8uCrjgBXA7LQeG1Yi9qbR">
+          <note>date unknown</note>
+          <name>statsministern</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-KEqaYbWgRyjTNMaj2bW9wi">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-VpLu2vvkyCo8KFeZH4WHgD">
+          <date when="1997-05-05"/>
+        </correspAction>
+        <correspContext corresp="i-VpLu2vvkyCo8KFeZH4WHgD">
+          <ref type="record" target="prot-199798--101">Prot. 1997/98:101</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1997/98:296</head>
-        <author who="i-LzYBGnvuhNHdQ7LQKPA6UJ">Gudrun Schyman (v)</author>
-        <minister who="unknown">statsministern</minister>
-        <topic>inkomstskillnaderna</topic>
-        <docDate when="1998-04-27">Inkom den 27 april</docDate>
-        <status inProtocol="199798/prot-199798--101.xml" when="1998-05-05" status="answered">Besvarad den 5 maj, Prot. 1997/98:101</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1997/98:296 av Gudrun Schyman (v) till statsministern
-          om inkomstskillnaderna
-        </IPQ_title>
-        <submission_info>
-          Inkom den 27 april Besvarad den 5 maj Prot. 1997/98:101
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-6v4EziXgGPyXtkSTKzDRXF">
+            Interpellation 1997/98:296 av Gudrun Schyman (v) till statsministern
+            om inkomstskillnaderna
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4CqvYiiYEBngbAnbZmqqHJ">
+            Inkom den 27 april : Besvarad den 5 maj Prot. 1997/98:101
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-2T18qyYWgJoYfNsBcfiQhv">
-          Inkomstskillnaderna i Sverige har ökat starkt under 1990-talet.
-          Vi är säkert eniga om att det behövs en stark fördelningspolitik
-          som minskar dessa skillnader. För mig framstår det som orimligt
-          att höginkomsttagare skall få en rejäl skattesänkning med ca 7
-          000 kr, samtidigt som egenavgif- tema - som genom avdragsrätt
-          och tak slår hårdare mot låginkomsttagar­na än mot höginkomsttagarna
-          - skall höjas ytterligare.
-        </p>
-        <p xml:id="i-KhcKSeeFcNkFdXNraajp3Y">
-          Jag vill mot denna bakgrund fråga statsministern vad han avser
-          att gö­ra för att inkomstskillnaderna skall minska, i stället
-          för att som nu öka.
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199798/pages/ip_199798_288.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-ScDYRMJMqomCE8wZTVxpsv">
+            Inkomstskillnaderna i Sverige har ökat starkt under 1990-talet.
+            Vi är säkert eniga om att det behövs en stark fördelningspolitik
+            som minskar dessa skillnader. För mig framstår det som orimligt
+            att höginkomsttagare skall få en rejäl skattesänkning med ca 7
+            000 kr, samtidigt som egenavgif- tema - som genom avdragsrätt
+            och tak slår hårdare mot låginkomsttagar­na än mot höginkomsttagarna
+            - skall höjas ytterligare.
+          </p>
+          <p xml:id="i-5HHHoT4UWrfAiY7SjnHXHo">
+            Jag vill mot denna bakgrund fråga statsministern vad han avser
+            att gö­ra för att inkomstskillnaderna skall minska, i stället
+            för att som nu öka.
+          </p>
+        </div>
       </div>
     </body>
   </text>

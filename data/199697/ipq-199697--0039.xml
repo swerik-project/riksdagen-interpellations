@@ -3,84 +3,109 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>fordonsskatt i glesbygd</title>
+        <author>Ulla Löfgren (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Interpellation 1996/97:39 av Ulla Löfgren (m) till statsrådet Thomas Östros om fordonsskatt i glesbygd</title>
+          <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_32.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <persName>Ulla Löfgren (m)</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>m</desc>
+            </state>
+            <idno>i-YEdxJPN8cJMwnqfd9tHmTD</idno>
+          </person>
+          <person gender="man">
+            <persName>statsrådet Thomas Östros</persName>
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-VypnriadWS9c4wMM7Q7pp1" corresp="i-YEdxJPN8cJMwnqfd9tHmTD">
+          <date when="1996-10-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-SA43vhRDhhYYgCaq25MH41">
+          <note>date unknown</note>
+          <name>statsrådet Thomas Östros</name>
+        </correspAction>
+        <correspAction type="questionStatus" subtype="answered" xml:id="i-9nXHvLsT1tZZ5Q6oDfdSAE">
+          <note>Besvarad</note>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WwJr3tfpAR5FLbkZFoCx9t">
+          <date when="1996-11-07"/>
+        </correspAction>
+        <correspContext corresp="i-WwJr3tfpAR5FLbkZFoCx9t">
+          <ref type="record" target="prot-199697--026">Prot. 1996/97:26</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>1996/97:39</head>
-        <author who="i-YEdxJPN8cJMwnqfd9tHmTD">Ulla Löfgren (m)</author>
-        <minister who="unknown">statsrådet Thomas Östros</minister>
-        <topic>fordonsskatt i glesbygd</topic>
-        <docDate when="1996-10-25">Inkom den 25 oktober</docDate>
-        <status inProtocol="199697/prot-199697--026.xml" when="1996-11-07" status="answered">Besvarad den 7 november, Prot. 1996/97:26</status>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 1996/97:39 av Ulla Löfgren (m) till statsrådet
-          Thomas Östros om fordonsskatt i glesbygd
-        </IPQ_title>
-        <submission_info>
-          Inkom den 25 oktoberBesvarad den 7 november Prot. 1996/97:26
-        </submission_info>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QHsdvqSUQRsxviwuBopJXv">
+            Interpellation 1996/97:39 av Ulla Löfgren (m) till statsrådet
+            Thomas Östros om fordonsskatt i glesbygd
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-4Ge74DGiXC56o6zCkbfBVV">
+            Inkom den 25 oktober : Besvarad den 7 november Prot. 1996/97:26
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-EzZYK4aCEACGQ3fYow59qG">
-          I somras beslöt riksdagen att försäljningsskatten skulle slopas
-          på bilar i miljöklass 1 och 2 och sänkas till 2 000 kr för bilar
-          i miljöklass 3. För att finansiera denna stimulans till nya och
-          miljövänligare bilar beslöts också att fordonsskatten skulle höjas
-          med 50 % från den 1 oktober.
-        </p>
-        <p xml:id="i-LWLfjGhFDdNf3C6GTTbfmf">
-          Vi moderater angav i vår reservation att vi givetvis ville delta
-          i att stimulera fram fler miljövänliga bilar, men att vi inte
-          var beredda att finansiera detta med höjda fordonsskatter. Vi
-          menade att detta menligt skulle påverka alla dem som inte har
-          råd att köpa en fabriksny bil, men som likväl är beroende av bilen.
-          Vi påpekade också att detta skulle bli besvärande för dem som
-          bor i glesbygd.
-        </p>
-        <p xml:id="i-R4AUZsEawBkResBsRVk8Uy">
-          Inom vissa glesbygdsområden är fordonsskatten nedsatt. Dessa
-          bil­ägare har från den 1 oktober, inte bara drabbats av en 50-procentig
-          höj­ning av fordonsskatten, utan en nästan 75-procentig höjning!
-          Av betän­kandet framgår inget om hur fordonsskattehöjningen skall
-          framräknas för de bilägare som kommer i åtnjutande av nedsatt
-          fordonsskatt. Det går givetvis att räkna på två sätt. Dels det
-          sätt som Vägverket i detta fall uppenbarligen använt, dvs. att
-          bruttoskatten uppräknas med 50 % och rabatten därefter avräknas.
-          Detta ger alltså en skattehöjning med 73 %. Ett annat sätt vore
-          givetvis att räkna upp den rabatterade skatten med 50 %, vilket
-          skulle ge glesbygdsborna samma skattehöjning som övriga bilägare
-          får. Man kan fråga sig om det var regeringens avsikt att de som
-          bor i glesbygd, och av detta skäl har rabatterad fordonsskatt,
-          skulle få en högre procentuell höjning av fordonsskatten än övriga.
-        </p>
-        <p xml:id="i-4XvupLr1JhDKYUwDs3T2S8">
-          Vilka åtgärder tänker skatteministern vidta för att fordonsskatten
-          inte skall drabba glesbygdsboende hårdare än andra?
-        </p>
-        <pb facs="https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_33.pdf"/>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-FH4eom9uoFVQGUKGVMYfms">
+            I somras beslöt riksdagen att försäljningsskatten skulle slopas
+            på bilar i miljöklass 1 och 2 och sänkas till 2 000 kr för bilar
+            i miljöklass 3. För att finansiera denna stimulans till nya och
+            miljövänligare bilar beslöts också att fordonsskatten skulle höjas
+            med 50 % från den 1 oktober.
+          </p>
+          <p xml:id="i-QhC4udhxCTCUwQeHz7hWJ7">
+            Vi moderater angav i vår reservation att vi givetvis ville delta
+            i att stimulera fram fler miljövänliga bilar, men att vi inte
+            var beredda att finansiera detta med höjda fordonsskatter. Vi
+            menade att detta menligt skulle påverka alla dem som inte har
+            råd att köpa en fabriksny bil, men som likväl är beroende av bilen.
+            Vi påpekade också att detta skulle bli besvärande för dem som
+            bor i glesbygd.
+          </p>
+          <p xml:id="i-WmMa1vDhj5Wg5qEkqAZ2i6">
+            Inom vissa glesbygdsområden är fordonsskatten nedsatt. Dessa
+            bil­ägare har från den 1 oktober, inte bara drabbats av en 50-procentig
+            höj­ning av fordonsskatten, utan en nästan 75-procentig höjning!
+            Av betän­kandet framgår inget om hur fordonsskattehöjningen skall
+            framräknas för de bilägare som kommer i åtnjutande av nedsatt
+            fordonsskatt. Det går givetvis att räkna på två sätt. Dels det
+            sätt som Vägverket i detta fall uppenbarligen använt, dvs. att
+            bruttoskatten uppräknas med 50 % och rabatten därefter avräknas.
+            Detta ger alltså en skattehöjning med 73 %. Ett annat sätt vore
+            givetvis att räkna upp den rabatterade skatten med 50 %, vilket
+            skulle ge glesbygdsborna samma skattehöjning som övriga bilägare
+            får. Man kan fråga sig om det var regeringens avsikt att de som
+            bor i glesbygd, och av detta skäl har rabatterad fordonsskatt,
+            skulle få en högre procentuell höjning av fordonsskatten än övriga.
+          </p>
+          <p xml:id="i-C6ezftkjwsQXxSaDNWcs2D">
+            Vilka åtgärder tänker skatteministern vidta för att fordonsskatten
+            inte skall drabba glesbygdsboende hårdare än andra?
+          </p>
+        </div>
       </div>
     </body>
   </text>

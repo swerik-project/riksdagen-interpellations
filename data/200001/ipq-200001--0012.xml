@@ -3,60 +3,94 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>bonussystem</title>
+        <author>Andersson, Yvonne (kd)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>bonussystem till utbildningsminister Thomas Östros om bonussystem</title>
+          <idno type="rdwebb">GO1012</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GO1012/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GO1012</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GO1012</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
+            <persName>Andersson, Yvonne (kd) </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>utbildningsminister Thomas Östros </persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-JmRZnWvJHkHpcfrKY5XYrr" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-10-03"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-3z7FrpDgtGWufYtKk4Zjrn" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2000-10-10"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-N53rj1PRQQc5Egn5HwhkoZ" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
+          <date when="2000-09-22"/>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200001--0012</head>
-        <author who="i-EFJ93MgPh6dJrzDB1Tt657">Andersson, Yvonne (kd) </author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">utbildningsminister Thomas Östros </recipient>
-        <topic>bonussystem</topic>
-        <docDate when="2000-09-22">den 22 september</docDate>
-        <status when="unknown" byWhom="utbildningsminister Thomas Östros " byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GO1012</external_id>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2000/01:12 av Yvonne Andersson (kd) till utbildningsminister
-          Thomas Östros om bonussystem
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-QiZsPsLYHwwHLtyfPR54uC">
+            Interpellation 2000/01:12 av Yvonne Andersson (kd) till utbildningsminister
+            Thomas Östros om bonussystem
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-AxT2vjCtivyR1jjbui8CM5">
+            den 22 september
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-Hyuz3pYvvMvkSy5o5WcAPh">
-          Studielån på 6@9 miljarder kronor avskrivs årligen från statens
-          fordringar. Vetskapen att lån avskrivs på detta sätt kan lätt
-          få till följd att många studenter söker lån i onödigt hög grad.
-        </p>
-        <p xml:id="i-Nk8XkUb4uRHPM4JkUP2SR1">
-          Om bonus för snabb återbetalning erbjuds skulle med stor sannolikhet
-          staten kunna inkassera sina fordringar på ett effektivt och snabbt
-          sätt. På sikt skulle helt klart staten på detta sätt minska sina
-          kostnader.
-        </p>
-        <p xml:id="i-7CamAqY96ueH8ezSojv9Ff">
-          Vilka åtgärder avser ministern vidta för att förhindra att så
-          stora summor av skattebetalarnas medel försvinner ur statens kassa?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-8UkU5UgE3Dkycpa8YcwZiC">
+            Studielån på 6@9 miljarder kronor avskrivs årligen från statens
+            fordringar. Vetskapen att lån avskrivs på detta sätt kan lätt
+            få till följd att många studenter söker lån i onödigt hög grad.
+          </p>
+          <p xml:id="i-Toak7A95Kp9difGQiNemGD">
+            Om bonus för snabb återbetalning erbjuds skulle med stor sannolikhet
+            staten kunna inkassera sina fordringar på ett effektivt och snabbt
+            sätt. På sikt skulle helt klart staten på detta sätt minska sina
+            kostnader.
+          </p>
+          <p xml:id="i-DekKh3AoTVW27D7VrsGUsQ">
+            Vilka åtgärder avser ministern vidta för att förhindra att så
+            stora summor av skattebetalarnas medel försvinner ur statens kassa?
+          </p>
+        </div>
       </div>
     </body>
   </text>

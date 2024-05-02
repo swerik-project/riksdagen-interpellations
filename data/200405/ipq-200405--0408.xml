@@ -3,117 +3,152 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>individuella programmet</title>
+        <author>Nilsson, Ulf (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>individuella programmet till statsrådet Ibrahim Baylan om individuella programmet</title>
+          <idno type="rdwebb">GS10408</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10408/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10408</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10408</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
+            <persName>Ulf Nilsson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="received" xml:id="i-HKCmpBEMAsYeDvQ2jzSdBd">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="sent" xml:id="i-49hM8sgrG6JW9XArtdZCXd" corresp="i-nX9ipUS8FhkbQHkWWytwf">
+          <date when="2005-02-21"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-TtsKwcR5M4dWiBePWgwCqZ">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-VpCRk7FxqVq3Rbp8bNzJBA" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-02-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9n7EW7ugqLruR7hTLwHgK3" corresp="i-A6T9WoUzRwW8LUK52znHwX">
+          <date when="2005-03-22"/>
+        </correspAction>
+        <correspContext corresp="i-9n7EW7ugqLruR7hTLwHgK3">
+          <ref type="record" target="prot-200405--094">Riksdagens protokoll 2004/05:94 Tisdagen den 22 mars</ref>
+          <ref type="recordSection" target="unsetDivId">17 § Svar på interpellation 2004/05:408 om individuella programmet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0408</head>
-        <author who="i-nX9ipUS8FhkbQHkWWytwf">Ulf Nilsson</author>
-        <recipient who="i-A6T9WoUzRwW8LUK52znHwX">Ibrahim Baylan</recipient>
-        <topic>individuella programmet</topic>
-        <docDate when="2005-02-21">den 21 februari</docDate>
-        <status when="2005-03-22" byWhom="Ibrahim Baylan" byWhomId="i-A6T9WoUzRwW8LUK52znHwX" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10408</external_id>
-        <debate>
-          <turn when="2005-03-22 20:06:45" duration="295">Ibrahim Baylan (S)</turn>
-          <turn when="2005-03-22 20:11:36" duration="258">Ulf Nilsson (Fp)</turn>
-          <turn when="2005-03-22 20:15:50" duration="233">Ibrahim Baylan (S)</turn>
-          <turn when="2005-03-22 20:19:39" duration="240">Ulf Nilsson (Fp)</turn>
-          <turn when="2005-03-22 20:23:36" duration="238">Ibrahim Baylan (S)</turn>
-          <turn when="2005-03-22 20:27:30" duration="130">Ulf Nilsson (Fp)</turn>
-          <turn when="2005-03-22 20:29:37" duration="185">Ibrahim Baylan (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:408 av Ulf Nilsson (fp) till statsrådet
-          Ibrahim Baylan om individuella programmet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Bmw3GbWBFDHQeTeDR13J16">
+            Interpellation 2004/05:408 av Ulf Nilsson (fp) till statsrådet
+            Ibrahim Baylan om individuella programmet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-JzfvPubRVRGsLZT3md3swi">
+            den 21 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-82u4SsF3QHRJCTRZWnn7D4">
-          Slutrapporten Måluppfyllelse i svensk skola och förskola 2000@2004,
-          från Rådet för skolans måluppfyllelse och fortsatta utveckling,
-          har nyligen publicerats. Rapporten slår fast de brister som Folkpartiet
-          pekat på i många år, men som skolminister efter skolminister inte
-          ansett tillräckligt svåra för att kräva åtgärder.
-        </p>
-        <p xml:id="i-4s7AbN4JSzNM2TciTRD8AC">
-          Nästan en fjärdedel (24,1 %) av eleverna uppnår inte målen för
-          grundskolan. Det är en ökning med 3,7 procentenheter sedan 1997.
-          Var tionde elev blir inte behörig till gymnasiestudier. Andelen
-          elever som avslutar sina gymnasiestudier inom fyra år har minskat
-          från 83 % för dem som inledde studierna 1993 till 75 % för dem
-          som inledde studierna 2000.
-        </p>
-        <p xml:id="i-C8fVjEmvj2jB3buSnJg9YB">
-          En tiondel av dem som lämnar grundskolan är alltså obehöriga
-          till gymnasiet och därmed hänvisade till det individuella programmet.
-          Förutom dessa elever deltar elever som hoppat av nationella program
-          och elever som genomgår introduktionsutbildning för invandrare
-          i det individuella programmet.
-        </p>
-        <p xml:id="i-SiZCWEiT5VphjfqPP3VBLr">
-          Rådet konstaterar att det faktum att elever som på grund av att
-          de inte erhållit godkända betyg i svenska, engelska och matematik
-          tvingas gå individuella programmet innebär en kostnad på 1,5 miljarder
-          kronor för hela landet. För den kostnaden per elev skulle en kommun
-          med 60 sådana elever kunna anställa 21 heltidslärare i grundskolan.
-          Det motsvarar tre elever per lärare. Detta räkneexempel ger en
-          bild av vad som skulle kunna åstadkommas om det individuella programmet
-          till stora delar flyttades över till grundskolan.
-        </p>
-        <p xml:id="i-BerFfNmqRd797TPevTh7rt">
-          Folkpartiet har länge krävt att det individuella programmet ska
-          läggas ned. Pengarna ska i stället satsas så att de som behöver
-          det ska få mer stöd tidigt i grundskolan. Omställningen ska ske
-          successivt så att de som i dag går individuella programmet inte
-          blir utan stöd. Ett nationellt prov bör också införas i årskurs
-          tre för att kontrollera att ingen går vidare utan att kunna läsa
-          och skriva. Detta är avgörande för om eleven ska lyckas eller
-          misslyckas i skolan.
-        </p>
-        <p xml:id="i-9BTnq5vZcK8y5CfqUKsacz">
-          Regeringen har inte reagerat på de negativa rapporterna om skolans
-          resultat. Brister har förstärkts och skolan har steg för steg
-          försämrats, när kunskaperna vid varje skolreform hamnat mer och
-          mer i skymundan för annan verksamhet.
-        </p>
-        <p xml:id="i-DGTwj5rhDX1qcZDkcVtskC">
-          De alarmerande resultat som nu presenterats väcker frågan om
-          det äntligen är dags för regeringen att ompröva sin hållning och
-          lägga ned det individuella programmet till förmån för ökade stödinsatser
-          i grundskolans tidigare år. Det är ingen lösning i längden att
-          skjuta skolproblemen högre upp i utbildningssystemet.
-        </p>
-        <p xml:id="i-NZ4i2ZsfyaJEv7sKuu72C">
-          Avser skolministern att vidta några åtgärder med anledning av
-          rapporterna om det individuella programmets misslyckade resultat?
-        </p>
-        <p xml:id="i-7Dq5JzQP2AXbZ1wS9KfTtL">
-          Avser skolministern att vidta några åtgärder med anledningen
-          av rapporterna om bristande stöd i grundskolans tidigare år?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-83Prw5oXtZj9ojURodDE4o">
+            Slutrapporten Måluppfyllelse i svensk skola och förskola 2000@2004,
+            från Rådet för skolans måluppfyllelse och fortsatta utveckling,
+            har nyligen publicerats. Rapporten slår fast de brister som Folkpartiet
+            pekat på i många år, men som skolminister efter skolminister inte
+            ansett tillräckligt svåra för att kräva åtgärder.
+          </p>
+          <p xml:id="i-S2bpWfKhEdFY5TbfUDbYab">
+            Nästan en fjärdedel (24,1 %) av eleverna uppnår inte målen för
+            grundskolan. Det är en ökning med 3,7 procentenheter sedan 1997.
+            Var tionde elev blir inte behörig till gymnasiestudier. Andelen
+            elever som avslutar sina gymnasiestudier inom fyra år har minskat
+            från 83 % för dem som inledde studierna 1993 till 75 % för dem
+            som inledde studierna 2000.
+          </p>
+          <p xml:id="i-U31VDEeC1S7uP4hEyacmqx">
+            En tiondel av dem som lämnar grundskolan är alltså obehöriga
+            till gymnasiet och därmed hänvisade till det individuella programmet.
+            Förutom dessa elever deltar elever som hoppat av nationella program
+            och elever som genomgår introduktionsutbildning för invandrare
+            i det individuella programmet.
+          </p>
+          <p xml:id="i-4W1ofFS7fcJk9cnvsXQ4NU">
+            Rådet konstaterar att det faktum att elever som på grund av att
+            de inte erhållit godkända betyg i svenska, engelska och matematik
+            tvingas gå individuella programmet innebär en kostnad på 1,5 miljarder
+            kronor för hela landet. För den kostnaden per elev skulle en kommun
+            med 60 sådana elever kunna anställa 21 heltidslärare i grundskolan.
+            Det motsvarar tre elever per lärare. Detta räkneexempel ger en
+            bild av vad som skulle kunna åstadkommas om det individuella programmet
+            till stora delar flyttades över till grundskolan.
+          </p>
+          <p xml:id="i-pQ4vqfPrXJLpeKKETeE8J">
+            Folkpartiet har länge krävt att det individuella programmet ska
+            läggas ned. Pengarna ska i stället satsas så att de som behöver
+            det ska få mer stöd tidigt i grundskolan. Omställningen ska ske
+            successivt så att de som i dag går individuella programmet inte
+            blir utan stöd. Ett nationellt prov bör också införas i årskurs
+            tre för att kontrollera att ingen går vidare utan att kunna läsa
+            och skriva. Detta är avgörande för om eleven ska lyckas eller
+            misslyckas i skolan.
+          </p>
+          <p xml:id="i-NV4KGH4v7gfsR49MbUcbC5">
+            Regeringen har inte reagerat på de negativa rapporterna om skolans
+            resultat. Brister har förstärkts och skolan har steg för steg
+            försämrats, när kunskaperna vid varje skolreform hamnat mer och
+            mer i skymundan för annan verksamhet.
+          </p>
+          <p xml:id="i-X5o4eNNYmUk7mopXAkdWqF">
+            De alarmerande resultat som nu presenterats väcker frågan om
+            det äntligen är dags för regeringen att ompröva sin hållning och
+            lägga ned det individuella programmet till förmån för ökade stödinsatser
+            i grundskolans tidigare år. Det är ingen lösning i längden att
+            skjuta skolproblemen högre upp i utbildningssystemet.
+          </p>
+          <p xml:id="i-2nNuDj6JwoNRWG8VKPbHok">
+            Avser skolministern att vidta några åtgärder med anledning av
+            rapporterna om det individuella programmets misslyckade resultat?
+          </p>
+          <p xml:id="i-NQmeEBDHaee5sn1U53SKjh">
+            Avser skolministern att vidta några åtgärder med anledningen
+            av rapporterna om bristande stöd i grundskolans tidigare år?
+          </p>
+        </div>
       </div>
     </body>
   </text>

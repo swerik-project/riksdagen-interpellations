@@ -3,92 +3,128 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>förskrivningen av dextropropoxifen</title>
+        <author>Wikström, Cecilia (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>förskrivningen av dextropropoxifen till socialminister Lars Engqvist om förskrivningen av dextropropoxifen</title>
+          <idno type="rdwebb">GR10385</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10385/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10385</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10385</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-XN7bgwBGaQixfiHi5Cbu8f</idno>
+            <persName>Cecilia Wikström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-9rioSxUMYkm8GftQcmNH2v" corresp="i-XN7bgwBGaQixfiHi5Cbu8f">
+          <date when="2004-03-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-We95eErFB8ste394jcbMRz">
+          <date when="2004-03-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-WFfEiKuZv9FfVkTcrGN6PS">
+          <date when="2004-04-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-2Yi36GqAS49kpzkeXFvwaz" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-03-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-B6rSmt4KGqcxVMopPi3q36" corresp="i-ESKbhHz2VETwMj9meYcmxk">
+          <date when="2004-04-14"/>
+        </correspAction>
+        <correspContext corresp="i-B6rSmt4KGqcxVMopPi3q36">
+          <ref type="record" target="prot-200304--095">Riksdagens protokoll 2003/04:95 Onsdagen den 14 april</ref>
+          <ref type="recordSection" target="unsetDivId">6 § Svar på interpellation 2003/04:385 om förskrivningen av dextropropoxifen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0385</head>
-        <author who="i-XN7bgwBGaQixfiHi5Cbu8f">Cecilia Wikström</author>
-        <recipient who="i-ESKbhHz2VETwMj9meYcmxk">Lars Engqvist</recipient>
-        <topic>förskrivningen av dextropropoxifen</topic>
-        <docDate when="2004-03-25">den 25 mars</docDate>
-        <status when="2004-04-14" byWhom="Lars Engqvist" byWhomId="i-ESKbhHz2VETwMj9meYcmxk" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10385</external_id>
-        <debate>
-          <turn when="2004-04-14 11:00:53" duration="95">Lars Engqvist (S)</turn>
-          <turn when="2004-04-14 11:02:24" duration="248">Cecilia Wikström (Fp)</turn>
-          <turn when="2004-04-14 11:06:29" duration="68">Lars Engqvist (S)</turn>
-          <turn when="2004-04-14 11:07:34" duration="100">Cecilia Wikström (Fp)</turn>
-          <turn when="2004-04-14 11:09:11" duration="62">Lars Engqvist (S)</turn>
-          <turn when="2004-04-14 11:10:09" duration="59">Cecilia Wikström (Fp)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:385 av Cecilia Wikström (fp) till socialminister
-          Lars Engqvist om förskrivningen av dextropropoxifen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-KsqoakbqHfkiZtJqzjBR6U">
+            Interpellation 2003/04:385 av Cecilia Wikström (fp) till socialminister
+            Lars Engqvist om förskrivningen av dextropropoxifen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-1G7ukjB96Z8Cy5gSeqrbZ">
+            den 25 mars
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-ervucbymbX97YjyNs11Tc">
-          Den smärtstillande substansen dextropropoxifen (DXP) har funnits
-          i Sverige sedan 1970-talet. Dextropropoxifen är ett stort problem
-          över hela världen. Nya forskningsresultat visar att det bara i
-          Sverige är ca 200 personer per år mellan 1992 @ 1999 som har förgiftats
-          så allvarligt att det lett till döden.
-        </p>
-        <p xml:id="i-7ZtuhQ4KgtJZPap9VSGyAv">
-          Substansen finns i läkemedel som används mot smärta. Preparaten
-          heter Distalgesic, Dexofen, Doloxene, Dolotard, Dexodon, Doleron
-          och Paraflex Comp. Fortfarande finns det i Sverige fem läkemedel
-          som innehåller DXP.
-        </p>
-        <p xml:id="i-R9bDFrtJevdT3yg8SBLQkG">
-          Den 15 juni 2001 införde Läkemedelsverket restriktioner vid förskrivning
-          av DXP. Detta innebar att medlet måste skrivas ut på en speciell
-          blankett, alltså samma förfarande som vid förskrivning av narkotikaklassade
-          läkemedel.
-        </p>
-        <p xml:id="i-7ekH8WVio8M2A1ZyZgWeDK">
-          Restriktionerna visar sig ha haft en mycket stor betydelse, vilket
-          påvisats i en ny studie av Ulf Jonasson. Bakom studien står också
-          Rättsmedicinalverket, Läkemedelsverket, Riksförsäkringsverket
-          och Giftinformationscentralen. I denna studie klargörs att de
-          dödliga förgiftningarna minskat med cirka två tredjedelar efter
-          att restriktionerna infördes.
-        </p>
-        <p xml:id="i-GQDUCPPS3YvhXew9y8F9zr">
-          De svenska forskningsresultaten har också uppmärksammats utomlands,
-          till exempel av EU:s övergripande läkemedelsorganisation EMEA,
-          som inom kort väntas ta ett beslut i frågan om DXP inom EU.
-        </p>
-        <p xml:id="i-Rbio2nE77bA45gg1Kq3ceE">
-          Mot bakgrund av ovanstående vill jag fråga ministern:
-        </p>
-        <p xml:id="i-LXXxbqr9Pgiz79sQtyr971">
-          Vilka åtgärder har ministern för avsikt att vidta för att ytterligare
-          skärpa restriktionerna för förskrivningen av dextropropoxifen?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-SLzWkm47b2zFaNo79Kkt7Q">
+            Den smärtstillande substansen dextropropoxifen (DXP) har funnits
+            i Sverige sedan 1970-talet. Dextropropoxifen är ett stort problem
+            över hela världen. Nya forskningsresultat visar att det bara i
+            Sverige är ca 200 personer per år mellan 1992 @ 1999 som har förgiftats
+            så allvarligt att det lett till döden.
+          </p>
+          <p xml:id="i-SQUrKHiyrXFcccz6qpsPCo">
+            Substansen finns i läkemedel som används mot smärta. Preparaten
+            heter Distalgesic, Dexofen, Doloxene, Dolotard, Dexodon, Doleron
+            och Paraflex Comp. Fortfarande finns det i Sverige fem läkemedel
+            som innehåller DXP.
+          </p>
+          <p xml:id="i-XEDdagR1tVXrzHZB1Rcizv">
+            Den 15 juni 2001 införde Läkemedelsverket restriktioner vid förskrivning
+            av DXP. Detta innebar att medlet måste skrivas ut på en speciell
+            blankett, alltså samma förfarande som vid förskrivning av narkotikaklassade
+            läkemedel.
+          </p>
+          <p xml:id="i-He2ymtHuGZhUtXit1vWs1d">
+            Restriktionerna visar sig ha haft en mycket stor betydelse, vilket
+            påvisats i en ny studie av Ulf Jonasson. Bakom studien står också
+            Rättsmedicinalverket, Läkemedelsverket, Riksförsäkringsverket
+            och Giftinformationscentralen. I denna studie klargörs att de
+            dödliga förgiftningarna minskat med cirka två tredjedelar efter
+            att restriktionerna infördes.
+          </p>
+          <p xml:id="i-9xeJMQCQcJbffiEavhSsWT">
+            De svenska forskningsresultaten har också uppmärksammats utomlands,
+            till exempel av EU:s övergripande läkemedelsorganisation EMEA,
+            som inom kort väntas ta ett beslut i frågan om DXP inom EU.
+          </p>
+          <p xml:id="i-GNe6xedEeP2dz9AXyfk6Yq">
+            Mot bakgrund av ovanstående vill jag fråga ministern:
+          </p>
+          <p xml:id="i-MK5sS94yAQQ3S5mG9qG99R">
+            Vilka åtgärder har ministern för avsikt att vidta för att ytterligare
+            skärpa restriktionerna för förskrivningen av dextropropoxifen?
+          </p>
+        </div>
       </div>
     </body>
   </text>

@@ -3,102 +3,137 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>prekursorsbrott i narkotikastrafflagen</title>
+        <author>Magnusson, Cecilia (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>prekursorsbrott i narkotikastrafflagen till justitieminister Thomas Bodström om prekursorsbrott i narkotikastrafflagen</title>
+          <idno type="rdwebb">GR10164</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10164/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10164</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10164</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="woman">
+            <idno>i-Evjo9hsKrPvb3KMyegAipb</idno>
+            <persName>Cecilia Magnusson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-3p2WstrE1QrjrURMJJesWj" corresp="i-Evjo9hsKrPvb3KMyegAipb">
+          <date when="2003-11-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-93SaQXta1WLdozzJef1zZ1" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-11-27"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Q5JKiB78BHzw7bJHazbZAY">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-PTHmy8sVQcdTkcuJdyj4R1" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2003-12-12"/>
+        </correspAction>
+        <correspContext corresp="i-PTHmy8sVQcdTkcuJdyj4R1">
+          <ref type="record" target="prot-200304--048">Riksdagens protokoll 2003/04:48 Fredagen den 12 december</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2003/04:164 om prekursorsbrott i narkotikastrafflagen</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0164</head>
-        <author who="i-Evjo9hsKrPvb3KMyegAipb">Cecilia Magnusson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>prekursorsbrott i narkotikastrafflagen</topic>
-        <docDate when="2003-11-27">den 27 november</docDate>
-        <status when="2003-12-12" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10164</external_id>
-        <debate>
-          <turn when="2003-12-12 10:59:46" duration="102">Thomas Bodström (S)</turn>
-          <turn when="2003-12-12 11:01:25" duration="148">Beatrice Ask (M)</turn>
-          <turn when="2003-12-12 11:04:58" duration="130">Beatrice Ask (M)</turn>
-          <turn when="2003-12-12 11:07:05" duration="222">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:164 av Cecilia Magnusson (m) till justitieminister
-          Thomas Bodström om prekursorsbrott i narkotikastrafflagen
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-2Vn1vziLWeNvoHrDAxWN56">
+            Interpellation 2003/04:164 av Cecilia Magnusson (m) till justitieminister
+            Thomas Bodström om prekursorsbrott i narkotikastrafflagen
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-5tgW4tufbmvnLrEt88KL9W">
+            den 27 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-F7ah9D1Spi27UiUzjP6rpa">
-          De syntetiska drogerna är ett växande problem för den svenska
-          narkotikapolitiken. Den oroande utvecklingen är gemensam för hela
-          Europa. EU-länderna översvämmas i dag av billig narkotika av hög
-          teknisk kvalitet, masstillverkad i framför allt Central- och Östeuropa.
-          Såväl tillverkningsprocessen som handeln med de nya syntetiska
-          drogerna är tämligen okomplicerad. Själva nyttjandet är snabbt,
-          enkelt, billigt @ men livsfarligt.
-        </p>
-        <p xml:id="i-Sq9jPutqJQuxm61ykiQz7V">
-          De internationella knarktillverkarna är uppfinningsrika. Redan
-          innan en drog bedömts hälsofarlig eller narkotikaklassats och
-          förts upp på listan över förbjudna preparat, finns det på marknaden
-          en "ny" drog som ersätter den gamla. Knarkkemisterna förändrar
-          ingredienserna en aning i förhållande till den kemiska formel
-          som ligger till grund för narkotikaklassificeringen och drogen
-          är på nytt helt laglig. För att förekomma knarkkemisterna och
-          motverka den negativa utvecklingen är det angeläget att Sverige
-          får en lagstiftning som möjliggör snabba ingripanden mot nya droger.
-        </p>
-        <p xml:id="i-JTk6m1saxWYizkYU5kZj7Q">
-          Denna fråga har debatterats länge och justitieministern har haft
-          god tid på sig att förbereda den situation vi befinner oss i nu.
-          På EU-nivå har diskussioner länge förts om utformningen av rambeslutet
-          om minimibestämmelser för brottsrekvisit och påföljder för olaglig
-          narkotikahandel. Rambeslutet, som förmodas snart bli antaget,
-          innebär att svensk narkotikalagstiftning kraftfullt måste förändras.
-        </p>
-        <p xml:id="i-Xa9t8Cp14fKpg1hdLux5y2">
-          Rambeslutet innebär att Sverige kommer att behöva ändra lagstiftningen
-          för att inkludera även prekursorer. Detta torde innebära viktiga
-          avvägningar, då prekursorer också har ett stort antal lagliga
-          användningsområden.
-        </p>
-        <p xml:id="i-78chwJfgyuQAK1bskkDSgD">
-          När nu antagandet av rambeslutet är nära förestående är det särskilt
-          viktigt att den planerade följdlagstiftningen för svenskt vidkommande
-          noga förbereds och konsekvenserna av införande av ett prekursorsbrott
-          utreds noggrant. Med tanke på att frågan varit aktuell under lång
-          tid borde Justitiedepartementet ligga långt framme i dessa förberedelser,
-          och förslag till lagändringar borde kunna presenteras senast i
-          samband med en godkännandeproposition. Det är dock märkligt att
-          justitieministern i ett svar till mig så sent som den 27 maj 2003,
-          ansåg att det inte fanns något behov att ta initiativ till någon
-          förändrad straffrättslig narkotikalagstiftning.
-        </p>
-        <p xml:id="i-32B4vXxko8aKstF3AEA7rn">
-          Vad avser justitieministern att göra för att förslag till prekursorsbrott
-          ska kunna läggas fram i samband med riksdagens antagande av ovan
-          nämnda rambeslut?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-RAEPrkbGjKFgzzoXxGpKYQ">
+            De syntetiska drogerna är ett växande problem för den svenska
+            narkotikapolitiken. Den oroande utvecklingen är gemensam för hela
+            Europa. EU-länderna översvämmas i dag av billig narkotika av hög
+            teknisk kvalitet, masstillverkad i framför allt Central- och Östeuropa.
+            Såväl tillverkningsprocessen som handeln med de nya syntetiska
+            drogerna är tämligen okomplicerad. Själva nyttjandet är snabbt,
+            enkelt, billigt @ men livsfarligt.
+          </p>
+          <p xml:id="i-NudibBkT7HgXB4ZaRWA2A8">
+            De internationella knarktillverkarna är uppfinningsrika. Redan
+            innan en drog bedömts hälsofarlig eller narkotikaklassats och
+            förts upp på listan över förbjudna preparat, finns det på marknaden
+            en "ny" drog som ersätter den gamla. Knarkkemisterna förändrar
+            ingredienserna en aning i förhållande till den kemiska formel
+            som ligger till grund för narkotikaklassificeringen och drogen
+            är på nytt helt laglig. För att förekomma knarkkemisterna och
+            motverka den negativa utvecklingen är det angeläget att Sverige
+            får en lagstiftning som möjliggör snabba ingripanden mot nya droger.
+          </p>
+          <p xml:id="i-A1Pec6fJxCn1fbynU8ndFz">
+            Denna fråga har debatterats länge och justitieministern har haft
+            god tid på sig att förbereda den situation vi befinner oss i nu.
+            På EU-nivå har diskussioner länge förts om utformningen av rambeslutet
+            om minimibestämmelser för brottsrekvisit och påföljder för olaglig
+            narkotikahandel. Rambeslutet, som förmodas snart bli antaget,
+            innebär att svensk narkotikalagstiftning kraftfullt måste förändras.
+          </p>
+          <p xml:id="i-ByZTGyqBk7sDBgkfuao8hj">
+            Rambeslutet innebär att Sverige kommer att behöva ändra lagstiftningen
+            för att inkludera även prekursorer. Detta torde innebära viktiga
+            avvägningar, då prekursorer också har ett stort antal lagliga
+            användningsområden.
+          </p>
+          <p xml:id="i-CyUJXtfhmn7EzF2CaUA2MG">
+            När nu antagandet av rambeslutet är nära förestående är det särskilt
+            viktigt att den planerade följdlagstiftningen för svenskt vidkommande
+            noga förbereds och konsekvenserna av införande av ett prekursorsbrott
+            utreds noggrant. Med tanke på att frågan varit aktuell under lång
+            tid borde Justitiedepartementet ligga långt framme i dessa förberedelser,
+            och förslag till lagändringar borde kunna presenteras senast i
+            samband med en godkännandeproposition. Det är dock märkligt att
+            justitieministern i ett svar till mig så sent som den 27 maj 2003,
+            ansåg att det inte fanns något behov att ta initiativ till någon
+            förändrad straffrättslig narkotikalagstiftning.
+          </p>
+          <p xml:id="i-VbjHTPpsHxS9Tjqcz3JGWX">
+            Vad avser justitieministern att göra för att förslag till prekursorsbrott
+            ska kunna läggas fram i samband med riksdagens antagande av ovan
+            nämnda rambeslut?
+          </p>
+        </div>
       </div>
     </body>
   </text>

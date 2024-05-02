@@ -3,101 +3,132 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>ekonomin i åklagarväsendet</title>
+        <author>Pehrson, Johan (fp)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>ekonomin i åklagarväsendet till justitieminister Thomas Bodström om ekonomin i åklagarväsendet</title>
+          <idno type="rdwebb">GS10556</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GS10556/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GS10556</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GS10556</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-NHq9tTM9EGV9GJbaVCbBrq" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Nmt2my7Jt4hxCqpPQdvzFi">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-2P3d5j4aQy13gE3wBFc3SP">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-5JpDZ5cAJkoQxpRPJ6ZTQs" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-04-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-4ofeo4vFaT1Ega2nEWQGWE" corresp="i-STyFs6Gu3boin31eFp1bNM">
+          <date when="2005-05-13"/>
+        </correspAction>
+        <correspContext corresp="i-4ofeo4vFaT1Ega2nEWQGWE">
+          <ref type="record" target="prot-200405--120">Riksdagens protokoll 2004/05:120 Fredagen den 13 maj</ref>
+          <ref type="recordSection" target="unsetDivId">9 § Svar på interpellation 2004/05:556 om ekonomin i åklagarväsendet</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200405--0556</head>
-        <author who="i-PyYxwdbw2KYpXyCWKWHmmT">Johan Pehrson</author>
-        <recipient who="i-STyFs6Gu3boin31eFp1bNM">Thomas Bodström</recipient>
-        <topic>ekonomin i åklagarväsendet</topic>
-        <docDate when="2005-04-25">den 25 april</docDate>
-        <status when="2005-05-13" byWhom="Thomas Bodström" byWhomId="i-STyFs6Gu3boin31eFp1bNM" status="answered">besvarad</status>
-        <external_id source="rdwebb">GS10556</external_id>
-        <debate>
-          <turn when="2005-05-13 11:49:45" duration="154">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 11:52:16" duration="279">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 11:56:49" duration="200">Beatrice Ask (M)</turn>
-          <turn when="2005-05-13 12:00:05" duration="187">Hillevi Engström (M)</turn>
-          <turn when="2005-05-13 12:03:08" duration="171">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 12:05:56" duration="278">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 12:10:30" duration="125">Beatrice Ask (M)</turn>
-          <turn when="2005-05-13 12:12:33" duration="119">Hillevi Engström (M)</turn>
-          <turn when="2005-05-13 12:14:28" duration="113">Thomas Bodström (S)</turn>
-          <turn when="2005-05-13 12:16:17" duration="156">Johan Pehrson (Fp)</turn>
-          <turn when="2005-05-13 12:18:52" duration="100">Thomas Bodström (S)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2004/05:556 av Johan Pehrson (fp) till justitieminister
-          Thomas Bodström om ekonomin i åklagarväsendet
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-79WCy98DFZidpRTJCirW4L">
+            Interpellation 2004/05:556 av Johan Pehrson (fp) till justitieminister
+            Thomas Bodström om ekonomin i åklagarväsendet
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-Dsd8JQYVu6LWYxB3793UGo">
+            den 25 april
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-FbisCBL3nb32RnSVcEWpYe">
-          Indragna pengar, särskilda anslagssparanden och uppsagda krediter
-          @ det är verkligheten för det svenska åklagarväsendet som är hårt
-          pressat av en ekonomisk tvångströja. Risken är stor att regeringens
-          ekonomiska styrning av åklagarväsendet kommer ge skadeverkningar
-          som blir djupa och tar lång tid att reparera.
-        </p>
-        <p xml:id="i-314xr45cuuCirMXLFrwEb3">
-          Sverige har ett bra åklagarväsende. Det finns all anledning att
-          deras ledord som kompetens, kvalitet och förtroende ska få bästa
-          möjliga förutsättningar att omsättas i praktisk handling. Det
-          kräver dock att regeringen på samma sätt låter den ekonomiska
-          styrningen av åklagarna präglas av långsiktighet, kvalitet och
-          kompetens.
-        </p>
-        <p xml:id="i-WtkZGicaSBsNgEA3QX2fZ2">
-          De omfattande budgetneddragningarna för åklagarna inträffade
-          strax före jul förra året och helt i strid med riksdagens beslut
-          om statsbudgeten några dagar tidigare. När nu vårbudgeten presenterats
-          kan vi konstatera att inga förbättringar står i utsikt för åklagarna.
-        </p>
-        <p xml:id="i-2XftkpeTXWzMhoXGiPXNCF">
-          Riksåklagaren har nyligen för riksdagens justitieutskott redovisat
-          sin verksamhetsplanering @ en komplicerad bild för åklagarväsendet
-          gällande den ekonomiska styrningen. Tänkta satsningar på vardagsbrott
-          och våld i nära relationer kommer att försvåras. Samtidigt kommer
-          fler åklagare att riskera att bli sjukskrivna. Viktiga utbildningsinsatser
-          inom kunskapsorganisationen kommer också att utebli vilket leder
-          till kvalitetsförsämringar som följd. Riksåklagaren tvingas i
-          dag driva verksamheten med beräknat underskott för att inte den
-          nyligen genomförda stora omorganisationen ska riskera att slå
-          bakut.
-        </p>
-        <p xml:id="i-N8nuDQ171Gs6uRqzvrst6C">
-          Oron är stor hos många åklagare över att såväl kvalitet och effektivitet
-          i brottsbekämpningen inte är vad den borde vara.
-        </p>
-        <p xml:id="i-Dt7peuhuKaYofJaiATCDVw">
-          Jag vill fråga justitieministern om han avser att vidta några
-          åtgärder för att förändra den ekonomiska styrningen av svenskt
-          åklagarväsende för att befrämja långsiktighet och möjlighet till
-          hållbar utveckling.
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-NNFSWH6cLXGBbeykzodgB9">
+            Indragna pengar, särskilda anslagssparanden och uppsagda krediter
+            @ det är verkligheten för det svenska åklagarväsendet som är hårt
+            pressat av en ekonomisk tvångströja. Risken är stor att regeringens
+            ekonomiska styrning av åklagarväsendet kommer ge skadeverkningar
+            som blir djupa och tar lång tid att reparera.
+          </p>
+          <p xml:id="i-DhyXeXaSwfkg72VJ3XU4Pr">
+            Sverige har ett bra åklagarväsende. Det finns all anledning att
+            deras ledord som kompetens, kvalitet och förtroende ska få bästa
+            möjliga förutsättningar att omsättas i praktisk handling. Det
+            kräver dock att regeringen på samma sätt låter den ekonomiska
+            styrningen av åklagarna präglas av långsiktighet, kvalitet och
+            kompetens.
+          </p>
+          <p xml:id="i-8a28U6KuoNTeVMMfZbQxzq">
+            De omfattande budgetneddragningarna för åklagarna inträffade
+            strax före jul förra året och helt i strid med riksdagens beslut
+            om statsbudgeten några dagar tidigare. När nu vårbudgeten presenterats
+            kan vi konstatera att inga förbättringar står i utsikt för åklagarna.
+          </p>
+          <p xml:id="i-EjDLwbvGVQ5wqnb6PofKer">
+            Riksåklagaren har nyligen för riksdagens justitieutskott redovisat
+            sin verksamhetsplanering @ en komplicerad bild för åklagarväsendet
+            gällande den ekonomiska styrningen. Tänkta satsningar på vardagsbrott
+            och våld i nära relationer kommer att försvåras. Samtidigt kommer
+            fler åklagare att riskera att bli sjukskrivna. Viktiga utbildningsinsatser
+            inom kunskapsorganisationen kommer också att utebli vilket leder
+            till kvalitetsförsämringar som följd. Riksåklagaren tvingas i
+            dag driva verksamheten med beräknat underskott för att inte den
+            nyligen genomförda stora omorganisationen ska riskera att slå
+            bakut.
+          </p>
+          <p xml:id="i-6CcywohHsxfFRmKkuF4mQ2">
+            Oron är stor hos många åklagare över att såväl kvalitet och effektivitet
+            i brottsbekämpningen inte är vad den borde vara.
+          </p>
+          <p xml:id="i-W7YHAyRYPNb6vepxoRAYRZ">
+            Jag vill fråga justitieministern om han avser att vidta några
+            åtgärder för att förändra den ekonomiska styrningen av svenskt
+            åklagarväsende för att befrämja långsiktighet och möjlighet till
+            hållbar utveckling.
+          </p>
+        </div>
       </div>
     </body>
   </text>

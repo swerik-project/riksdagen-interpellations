@@ -3,98 +3,136 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>Skolverket</title>
+        <author>Billström, Tobias (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>Skolverket till utbildningsminister Thomas Östros om Skolverket</title>
+          <idno type="rdwebb">GR10323</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10323/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10323</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10323</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-5KiAEn1vTwXQ1xuUP9MDya" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
+          <date when="2004-02-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Y1F2kJ22eYn1Eg2KvWfskG">
+          <date when="2004-03-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-9NX3LCQycxrfehYH3U2xFy">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-Ffxb1umZtC8c2mjvqxgqkk" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-03-01"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Wno3AddgYbNqZuBDbyvVWh" corresp="i-PzNviXpYSimQsvSkF9CmDz">
+          <date when="2004-03-16"/>
+        </correspAction>
+        <correspContext corresp="i-Wno3AddgYbNqZuBDbyvVWh">
+          <ref type="record" target="prot-200304--083">Riksdagens protokoll 2003/04:83 Tisdagen den 16 mars</ref>
+          <ref type="recordSection" target="unsetDivId">8 § Svar på interpellation 2003/04:323 om Skolverket</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0323</head>
-        <author who="i-KPGvtK4s6Zp3E6XH6vj18n">Tobias Billström</author>
-        <recipient who="i-PzNviXpYSimQsvSkF9CmDz">Thomas Östros</recipient>
-        <topic>Skolverket</topic>
-        <docDate when="2004-02-26">den 26 februari</docDate>
-        <status when="2004-03-16" byWhom="Thomas Östros" byWhomId="i-PzNviXpYSimQsvSkF9CmDz" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10323</external_id>
-        <debate>
-          <turn when="2004-03-16 15:56:22" duration="108">Thomas Östros (S)</turn>
-          <turn when="2004-03-16 15:58:06" duration="180">Tomas Högström (M)</turn>
-          <turn when="2004-03-16 16:01:01" duration="59">Thomas Östros (S)</turn>
-          <turn when="2004-03-16 16:01:56" duration="85">Tomas Högström (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:323 av Tobias Billström (m) till utbildningsminister
-          Thomas Östros om Skolverket
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-Fi8VbT6sfxx73AqknvrZ4h">
+            Interpellation 2003/04:323 av Tobias Billström (m) till utbildningsminister
+            Thomas Östros om Skolverket
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-2HXS6x3a6u1tU2Cc6GVNX1">
+            den 26 februari
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-DoNM4GjzGSs2pz7SUWzxt9">
-          Frustrationen i Skol-Sverige växer. Samtidigt som Skolverket
-          har kraft att föreslå att det självt ska få rätten att stänga
-          skolor utan lagakraftvunna beslut så saknas tydligen resurser
-          till en av verkets kärnuppgifter.
-        </p>
-        <p xml:id="i-aRL6UMHWJU4JFpq2ZYM7C">
-          Ett talande exempel utgör Minervaskolan i Umeå AB. Den är nu
-          inne på femte läsåret och bedriver undervisning för 520 elever
-          i åldrarna förskoleklass till andra året på gymnasiet. Nästa läsår,
-          när skolan tagit in den nya förskoleklassen, är den fullt utbyggd
-          och har elever i varje klass från förskoleklass till studenten.
-        </p>
-        <p xml:id="i-2EoY5CKGNQxC9oXpcWi3RN">
-          Resultatet är också lysande med 1 600 elever i kö och i Sverigetopp
-          i årskurs 9 med sina 253 p i snitt.
-        </p>
-        <p xml:id="i-4ChsN4WbvxSxPbVFbBF9vP">
-          För att sprida denna best practice och utveckla goda skolor även
-          för andra elever har de @ i god tid före den 1 april 2003 @ sökt
-          tillstånd om rätt till bidrag.
-        </p>
-        <p xml:id="i-WJGASZkmyGbNYLJ9dtroF1">
-          Skolverket har alltså haft mer än tio månader på sig att besluta
-          om tillstånd. Under resans gång har kommunen vid otaliga tillfällen
-          yttrat sig och skolan har tvingats avge yttranden med mera. En
-          tidsödande och till synes oändlig korrespondens har upprätthållits
-          från verkets sida.
-        </p>
-        <p xml:id="i-Kitr14usvgmZgRZdPN2BPC">
-          Vi är nu inne på andra veckan i februari 2004 och eleverna i
-          Umeå ska inom två veckor bestämma sig för sitt skolval. Minervaskolans
-          ledning har fortfarande inte fått något besked.
-        </p>
-        <p xml:id="i-PCTS65tq5V7kWW3FJiCeZa">
-          Att på ett halvår dra i gång en ny skola för 120 elever är ingen
-          enkel sak utan borde mötas med respekt och rimlig framförhållning
-          @ både för skolledningens men framför allt för elevernas skull.
-        </p>
-        <p xml:id="i-9vMYKTK7TX4wfY7AnJHfcY">
-          Skolverket har under året fått extra resurstillskott för vissa
-          uppdrag som regeringen funnit särskilt angelägna.
-        </p>
-        <p xml:id="i-Xg2tj832NcxtvkH7gmLEGj">
-          Vilka åtgärder avser statsrådet att vidta för att korta beslutsvägarna
-          på Skolverket med avseende på tillståndsgivning?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-CDQZVmosHvRXrvFnx6PznV">
+            Frustrationen i Skol-Sverige växer. Samtidigt som Skolverket
+            har kraft att föreslå att det självt ska få rätten att stänga
+            skolor utan lagakraftvunna beslut så saknas tydligen resurser
+            till en av verkets kärnuppgifter.
+          </p>
+          <p xml:id="i-GQkWqdAyC5uWMjJSVgSe9k">
+            Ett talande exempel utgör Minervaskolan i Umeå AB. Den är nu
+            inne på femte läsåret och bedriver undervisning för 520 elever
+            i åldrarna förskoleklass till andra året på gymnasiet. Nästa läsår,
+            när skolan tagit in den nya förskoleklassen, är den fullt utbyggd
+            och har elever i varje klass från förskoleklass till studenten.
+          </p>
+          <p xml:id="i-RW6Ce2eZfJvcCXsaW9zHdj">
+            Resultatet är också lysande med 1 600 elever i kö och i Sverigetopp
+            i årskurs 9 med sina 253 p i snitt.
+          </p>
+          <p xml:id="i-SWTqoVmtdbAuRJXgCR9YiR">
+            För att sprida denna best practice och utveckla goda skolor även
+            för andra elever har de @ i god tid före den 1 april 2003 @ sökt
+            tillstånd om rätt till bidrag.
+          </p>
+          <p xml:id="i-CgmZEJ6WAE9qyATQVKRTfn">
+            Skolverket har alltså haft mer än tio månader på sig att besluta
+            om tillstånd. Under resans gång har kommunen vid otaliga tillfällen
+            yttrat sig och skolan har tvingats avge yttranden med mera. En
+            tidsödande och till synes oändlig korrespondens har upprätthållits
+            från verkets sida.
+          </p>
+          <p xml:id="i-siT4dVHb816oLy7MHqd5G">
+            Vi är nu inne på andra veckan i februari 2004 och eleverna i
+            Umeå ska inom två veckor bestämma sig för sitt skolval. Minervaskolans
+            ledning har fortfarande inte fått något besked.
+          </p>
+          <p xml:id="i-JAfGQ3gc387dnRMpU8tDqX">
+            Att på ett halvår dra i gång en ny skola för 120 elever är ingen
+            enkel sak utan borde mötas med respekt och rimlig framförhållning
+            @ både för skolledningens men framför allt för elevernas skull.
+          </p>
+          <p xml:id="i-NLkJKgftEnojxg8CjgZafr">
+            Skolverket har under året fått extra resurstillskott för vissa
+            uppdrag som regeringen funnit särskilt angelägna.
+          </p>
+          <p xml:id="i-N7hjsGTB9GxBFV7BkTmqqy">
+            Vilka åtgärder avser statsrådet att vidta för att korta beslutsvägarna
+            på Skolverket med avseende på tillståndsgivning?
+          </p>
+        </div>
       </div>
     </body>
   </text>

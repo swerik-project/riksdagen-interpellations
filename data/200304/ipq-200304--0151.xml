@@ -3,110 +3,151 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Interpellation Question</title>
+        <title>näringsfrihet och gränser för politisk maktutövning</title>
+        <author>von Sydow, Henrik (m)</author>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK PROJECT</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation Question</title>
+          <title>näringsfrihet och gränser för politisk maktutövning till statsrådet Gunnar Lund om näringsfrihet och gränser för politisk maktutövning</title>
+          <idno type="rdwebb">GR10151</idno>
+          <ref type="dokument_url_text">http://data.riksdagen.se/dokument/GR10151/text</ref>
+          <ref type="dokument_url_html">http://data.riksdagen.se/dokument/GR10151</ref>
+          <ref type="dokumentstatus_url_xml">http://data.riksdagen.se/dokumentstatus/GR10151</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>No correction of source texts was performed.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person gender="man">
+            <idno>i-TSGehE1rwudkXFF6bgJHmH</idno>
+            <persName>Henrik von Sydow</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-GRX2GfDazmcwmcRyZSiKdA</idno>
+            <persName>Gunnar Lund</persName>
+            <state ref="unknown" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+        </listPerson>
+      </particDesc>
+      <correspDesc>
+        <correspAction type="sent" xml:id="i-VgVnPa1xADXk7ubQfAxNz6" corresp="i-TSGehE1rwudkXFF6bgJHmH">
+          <date when="2003-11-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-LsXBbsAZ5VmwFzwcBuRF3A">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-Jxn14z1rhcn7no5epePWuM">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="i-3c8Gv9Tog1DHUmrnmay7sm" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2003-11-25"/>
+        </correspAction>
+        <correspAction type="answered" xml:id="i-FzXEjgJvepBDYMtrqb4D8P" corresp="i-GRX2GfDazmcwmcRyZSiKdA">
+          <date when="2003-12-05"/>
+        </correspAction>
+        <correspContext corresp="i-FzXEjgJvepBDYMtrqb4D8P">
+          <ref type="record" target="prot-200304--043">Riksdagens protokoll 2003/04:43 Fredagen den 5 december</ref>
+          <ref type="recordSection" target="unsetDivId">16 § Svar på interpellation 2003/04:151 om näringsfrihet och gränser för politisk maktutövning</ref>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="preface">
-        <head>ipq-200304--0151</head>
-        <author who="i-TSGehE1rwudkXFF6bgJHmH">Henrik von Sydow</author>
-        <recipient who="i-GRX2GfDazmcwmcRyZSiKdA">Gunnar Lund</recipient>
-        <topic>näringsfrihet och gränser för politisk maktutövning</topic>
-        <docDate when="2003-11-24">den 24 november</docDate>
-        <status when="2003-12-05" byWhom="Gunnar Lund" byWhomId="i-GRX2GfDazmcwmcRyZSiKdA" status="answered">besvarad</status>
-        <external_id source="rdwebb">GR10151</external_id>
-        <debate>
-          <turn when="2003-12-05 14:11:14" duration="222">Henrik von Sydow (M)</turn>
-        </debate>
-      </div>
-    </front>
     <body>
-      <div type="IPQuestionHeader">
-        <IPQ_title>
-          Interpellation 2003/04:151 av Henrik von Sydow (m) till statsrådet
-          Gunnar Lund om näringsfrihet och gränser för politisk maktutövning
-        </IPQ_title>
+      <div type="ipqHeader">
+        <div type="ipqTitle">
+          <p xml:id="i-56sY6KyWWeBmHxtCJCjLz6">
+            Interpellation 2003/04:151 av Henrik von Sydow (m) till statsrådet
+            Gunnar Lund om näringsfrihet och gränser för politisk maktutövning
+          </p>
+        </div>
+        <div type="ipqSubmissionInfo">
+          <p xml:id="i-TmmiDtTTpoZKsWExENkuND">
+            den 24 november
+          </p>
+        </div>
       </div>
-      <div type="IPQuestionBody">
-        <p xml:id="i-EWegFB1LfwwF8ExiQGRfRa">
-          I samband med uppmärksamheten kring livbolagens affärer och tilldelning
-          av lägenheter till medarbetare från det egna fastighetsbeståndet
-          blev biträdande finansminister Gunnar Lund fredagen den 7 november
-          2003 intervjuad i Sveriges Radios Ekonomieko. Statsrådet framhöll
-          då bland annat att tilldelningen av lägenheter till anställda
-          är ett uttryck för en "galen och olycklig kultur som livbolagen
-          har hamnat i. Jag tycker därför man ska sluta att över huvud taget
-          ägna sig åt att erbjuda lägenheter".
-        </p>
-        <p xml:id="i-obfUzq9BJtYc41DyrnevJ">
-          Det finns skäl att resa några angelägna frågor med anledning
-          av uttalandet från statsrådet. Visst är det rätt och riktigt att
-          som statsråd markera mot de direkta oegentligheter i näringslivet,
-          dit ett antal så kallade lägenhetsaffärer också kan räknas, vilket
-          vi blivit varse denna höst. Opportunistiska uttalanden som statsrådets
-          riskerar emellertid bara att undergräva näringslivets förtroende
-          för politiker i allmänhet och regeringen i synnerhet.
-        </p>
-        <p xml:id="i-CGpdkvxjrVcKbD4rNxdMA9">
-          Principer om näringsfrihet och gränser för den politiska maktens
-          räckvidd måste rimligen gälla också i stunder då opinionen rasar
-          mot ett enskilt företag och bransch. Statsrådet utgör, med sitt
-          uttalande, ett oroväckande tecken på en politisk makt omedveten
-          om sina begränsningar, som omyndigförklarar näringslivet och som
-          i förlängningen kan verka direkt hämmande för företagsamhetens
-          växtkraft i vårt land.
-        </p>
-        <p xml:id="i-QFJsomuUwYJA8UVA1FxBBN">
-          Fastighetsförvaltning är en del av ett livbolags kärnverksamhet
-          och något som ska kunna anförtros en företagsledning utan pekpinnar
-          från en minister. Udden i uttalandet riktas dessutom mot alla
-          de vanliga, kämpande medarbetare i livbolagen som, av flera, fullt
-          legitima skäl, har tilldelats lägenheter och nu finner sig smutskastade
-          och placerade i de anklagades bås av statsrådet.
-        </p>
-        <p xml:id="i-3jsZQzH3qGhMmkS3rAYvzc">
-          Uttalandet väcker också frågor över skillnaden mellan att vara
-          anställd i ett livbolag och att verka som riksdagsledamot. I det
-          första fallet är det uppenbart att ministern anser att det är
-          fel att arbetsgivaren hjälper en anställd med övernattningslägenhet
-          om arbetsplatsen finns i Stockholm medan hemmet finns på annan
-          ort. I det andra fallet har det hittills aldrig hörts några synpunkter
-          från statsrådet om det orättmätiga i att hjälpa riksdagsledamöter
-          med övernattningslägenheter.
-        </p>
-        <p xml:id="i-89YNRuTJoq1t5txWj1Eong">
-          Slutligen reser biträdande finansministerns uttalanden frågor
-          om vilken syn han har på sitt politiska uppdrag och sitt mandat.
-          Att näringsfriheten är grundlagsskyddad hindrar uppenbarligen
-          inte statsrådet från att uttrycka åsikter om hur enskilda företag
-          bör driva sin löpande affärsverksamhet.
-        </p>
-        <p xml:id="i-RbSRYmsokyM4eecXpwBqrj">
-          Mot bakgrund av ovanstående vill jag därför ställa följande fråga
-          till statsrådet:
-        </p>
-        <p xml:id="i-JQYqTcMg7gcbgAgQLKLyzM">
-          Vilka åtgärder avser statsrådet att vidta för att tydliggöra
-          gränsdragningen mellan sin egen maktutövning och näringslivets
-          normala, löpande verksamhet?
-        </p>
+      <div type="ipqBody">
+        <div type="ipContext">
+          <p xml:id="i-JACU2T23gXVzrE7EPQ8W8X">
+            I samband med uppmärksamheten kring livbolagens affärer och tilldelning
+            av lägenheter till medarbetare från det egna fastighetsbeståndet
+            blev biträdande finansminister Gunnar Lund fredagen den 7 november
+            2003 intervjuad i Sveriges Radios Ekonomieko. Statsrådet framhöll
+            då bland annat att tilldelningen av lägenheter till anställda
+            är ett uttryck för en "galen och olycklig kultur som livbolagen
+            har hamnat i. Jag tycker därför man ska sluta att över huvud taget
+            ägna sig åt att erbjuda lägenheter".
+          </p>
+          <p xml:id="i-ShbvCnep5N2cj89gpmL6hT">
+            Det finns skäl att resa några angelägna frågor med anledning
+            av uttalandet från statsrådet. Visst är det rätt och riktigt att
+            som statsråd markera mot de direkta oegentligheter i näringslivet,
+            dit ett antal så kallade lägenhetsaffärer också kan räknas, vilket
+            vi blivit varse denna höst. Opportunistiska uttalanden som statsrådets
+            riskerar emellertid bara att undergräva näringslivets förtroende
+            för politiker i allmänhet och regeringen i synnerhet.
+          </p>
+          <p xml:id="i-8gqWRPAyWft2gC4mo7dZiv">
+            Principer om näringsfrihet och gränser för den politiska maktens
+            räckvidd måste rimligen gälla också i stunder då opinionen rasar
+            mot ett enskilt företag och bransch. Statsrådet utgör, med sitt
+            uttalande, ett oroväckande tecken på en politisk makt omedveten
+            om sina begränsningar, som omyndigförklarar näringslivet och som
+            i förlängningen kan verka direkt hämmande för företagsamhetens
+            växtkraft i vårt land.
+          </p>
+          <p xml:id="i-bZXLBwjLkMEJnaZuMhUYP">
+            Fastighetsförvaltning är en del av ett livbolags kärnverksamhet
+            och något som ska kunna anförtros en företagsledning utan pekpinnar
+            från en minister. Udden i uttalandet riktas dessutom mot alla
+            de vanliga, kämpande medarbetare i livbolagen som, av flera, fullt
+            legitima skäl, har tilldelats lägenheter och nu finner sig smutskastade
+            och placerade i de anklagades bås av statsrådet.
+          </p>
+          <p xml:id="i-RdVYPgx1sHs42tXWqJBxo4">
+            Uttalandet väcker också frågor över skillnaden mellan att vara
+            anställd i ett livbolag och att verka som riksdagsledamot. I det
+            första fallet är det uppenbart att ministern anser att det är
+            fel att arbetsgivaren hjälper en anställd med övernattningslägenhet
+            om arbetsplatsen finns i Stockholm medan hemmet finns på annan
+            ort. I det andra fallet har det hittills aldrig hörts några synpunkter
+            från statsrådet om det orättmätiga i att hjälpa riksdagsledamöter
+            med övernattningslägenheter.
+          </p>
+          <p xml:id="i-THwqH9uCvQfErgfQu2DWfZ">
+            Slutligen reser biträdande finansministerns uttalanden frågor
+            om vilken syn han har på sitt politiska uppdrag och sitt mandat.
+            Att näringsfriheten är grundlagsskyddad hindrar uppenbarligen
+            inte statsrådet från att uttrycka åsikter om hur enskilda företag
+            bör driva sin löpande affärsverksamhet.
+          </p>
+          <p xml:id="i-XYEnhcdSNnzEN6rCWadaAS">
+            Mot bakgrund av ovanstående vill jag därför ställa följande fråga
+            till statsrådet:
+          </p>
+          <p xml:id="i-XjgYrgEXThw4K4rRPVwALZ">
+            Vilka åtgärder avser statsrådet att vidta för att tydliggöra
+            gränsdragningen mellan sin egen maktutövning och näringslivets
+            normala, löpande verksamhet?
+          </p>
+        </div>
       </div>
     </body>
   </text>
