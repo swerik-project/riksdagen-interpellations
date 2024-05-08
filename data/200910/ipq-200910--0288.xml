@@ -23,41 +23,6 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9xcMYrrML4AzXQ6jGcD6e2</idno>
-            <persName>Christin Hagberg</persName>
-            <state ref="Q105112" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="Q110843">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9xcMYrrML4AzXQ6jGcD6e2</idno>
-            <persName>Christin Hagberg (S)</persName>
-            <state type="partyAffiliation" ref="Q105112">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
             <persName>Marie Engström (V)</persName>
             <state type="partyAffiliation" ref="Q110837">
@@ -67,6 +32,20 @@
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9xcMYrrML4AzXQ6jGcD6e2</idno>
+            <persName>Christin Hagberg</persName>
             <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>

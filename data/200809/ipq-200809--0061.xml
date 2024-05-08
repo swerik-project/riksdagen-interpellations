@@ -22,41 +22,6 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="Q105112" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt (M)</persName>
-            <state type="partyAffiliation" ref="Q110843">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="Q105112">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
@@ -102,6 +67,20 @@
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
+            <persName>Fredrik Reinfeldt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
             <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>

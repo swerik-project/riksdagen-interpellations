@@ -24,25 +24,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state ref="Q110843" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
             <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
+            <persName>Elisabeth Svantesson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>

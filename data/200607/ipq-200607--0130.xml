@@ -23,13 +23,6 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
-            <persName>Karin Åström</persName>
-            <state ref="Q105112" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
             <state ref="Q110832" type="partyAffiliation">
@@ -48,13 +41,6 @@
             <persName>Maud Olofsson</persName>
             <state type="partyAffiliation" ref="Q105112">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
-            <persName>Karin Åström (S)</persName>
-            <state type="partyAffiliation" ref="Q105112">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
@@ -62,6 +48,13 @@
             <persName>Per Bolund (Mp)</persName>
             <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
+            <persName>Karin Åström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>

@@ -23,13 +23,6 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson</persName>
-            <state ref="Q105112" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
             <state ref="Q110843" type="partyAffiliation">
@@ -48,13 +41,6 @@
             <persName>Tobias Billström</persName>
             <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson (S)</persName>
-            <state type="partyAffiliation" ref="Q105112">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
@@ -76,6 +62,13 @@
             <persName>Bodil Ceballos (Mp)</persName>
             <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
+            <persName>Leif Jakobsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
