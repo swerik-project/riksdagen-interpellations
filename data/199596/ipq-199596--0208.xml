@@ -27,8 +27,10 @@
             </state>
             <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
           </person>
-          <person>
-            <persName>inrikesministern</persName>
+          <person gender="man">
+            <persName>Jörgen Andersson</persName>
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state ref="Q105112" type="partyAffiliation"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,7 +38,7 @@
         <correspAction type="sent" xml:id="i-386GbsXjtN59ohS7AKw1ty" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
           <date when="1996-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G91qtJwaYGuYScipEc742r">
+        <correspAction type="received" xml:id="i-G91qtJwaYGuYScipEc742r" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
           <name>inrikesministern</name>
         </correspAction>
