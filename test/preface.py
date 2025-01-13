@@ -132,7 +132,7 @@ class Test(unittest.TestCase):
                 if idno is None:
                     person_no_id += 1
                 else:
-                    if idno.text.startswith("r-"):
+                    if idno.text is not None and idno.text.startswith("r-"):
                         person_no_id += 1
         print(f"\nPERSON ID TEST: {person_no_id} of {person_count} missing ID :: {person_no_id/person_count}")
 
