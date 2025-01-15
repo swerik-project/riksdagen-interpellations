@@ -22,60 +22,53 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Jennie Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Jennie Nilsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
             <persName>Maria Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
+            <persName>Jennie Nilsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +77,12 @@
         <correspAction type="sent" xml:id="i-GEqJZL3auGXBQ9waMbZHrY" corresp="i-LKQKWG3JJUBFg12z1vrFwt">
           <date when="2008-04-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A4g4qQLMQxY4JSzPzrvyLr">
-          <date when="2008-04-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9FctjiWq2F4zcDhU9NMKAB" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ewn1rBtT5rg6yevvN73NQc">
-          <date when="2008-05-12"/>
-          <time when="14:05:08" dur="PT272S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GET9MZYDbnzpv5QFMMZaD" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-05-12"/>
+          <time when="14:05:08" dur="PT272S"/>
         </correspAction>
         <correspContext corresp="i-Ewn1rBtT5rg6yevvN73NQc">
           <ref type="record" target="prot-200708--109">Riksdagens protokoll 2007/08:109 Måndagen den 12 maj</ref>

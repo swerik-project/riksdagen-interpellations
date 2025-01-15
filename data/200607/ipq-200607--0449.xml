@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stock (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5CH7vHLGXLfDB5Tn7xx95V</idno>
             <persName>Siv Holma (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
+            <persName>Helene Petersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Waut4Df2hSEvxVRz42oDZH" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2007-03-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MZ8PcxuWqoN4eWX9GJfU3H">
-          <date when="2007-03-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9tP1JAzoxhUwebfPGMEzys" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-03-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5drwV4Pe35KzPQNTiznEQH">
-          <date when="2007-04-17"/>
-          <time when="14:26:25" dur="PT260S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NB7YnRQrof1CU1Ctos1YAr" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-04-17"/>
+          <time when="14:26:25" dur="PT260S"/>
         </correspAction>
         <correspContext corresp="i-5drwV4Pe35KzPQNTiznEQH">
           <ref type="record" target="prot-200607--092">Riksdagens protokoll 2006/07:92 Tisdagen den 17 april</ref>

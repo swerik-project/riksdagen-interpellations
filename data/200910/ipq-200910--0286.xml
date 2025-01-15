@@ -25,35 +25,14 @@
           <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
             <persName>Karin Åström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
-            <persName>Karin Åström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-7nEyciwBNbyg2AC3kvjANj" corresp="i-VhAPHtDbXzmUeiVRSdRFGD">
           <date when="2010-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PHvhgt9de3QH1CXB5fVCAW">
-          <date when="2010-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9XbNoNUvbW7e5SiHydfCTj" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Db32mBC5ku9jJque66QsFa">
-          <date when="2010-03-19"/>
-          <time when="11:17:25" dur="PT224S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8vySxdvAeh5jJUX4rqSZqj" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-03-19"/>
+          <time when="11:17:25" dur="PT224S"/>
         </correspAction>
         <correspContext corresp="i-Db32mBC5ku9jJque66QsFa">
           <ref type="record" target="prot-200910--091">Riksdagens protokoll 2009/10:91 Fredagen den 19 mars</ref>

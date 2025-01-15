@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-HEFVnyjqEko8Fb5Bx8Zzbv" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4CPTzpWUoBqRFymi7mLvWw">
-          <date when="2008-04-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8rJBER3bBbZuugXNGg5RFc" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K4KXLoz4U1r9yDir4CvFTs">
-          <date when="2008-04-25"/>
-          <time when="09:19:54" dur="PT196S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RpYDo7UtFC1HzQaJFPvYno" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-04-25"/>
+          <time when="09:19:54" dur="PT196S"/>
         </correspAction>
         <correspContext corresp="i-K4KXLoz4U1r9yDir4CvFTs">
           <ref type="record" target="prot-200708--103">Riksdagens protokoll 2007/08:103 Fredagen den 25 april</ref>

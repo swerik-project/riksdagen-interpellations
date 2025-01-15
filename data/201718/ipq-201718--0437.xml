@@ -25,37 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
             <persName>Jessika Roswall</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-E5BvZ7QR21B9HLDKnggmdp" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2018-03-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-E3wDjgU9owvyFKVUcUMF1Y">
-          <date when="2018-04-10"/>
-          <time when="13:04:12" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9iuqt6K976E8xVws75Qrgm" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2018-04-10"/>
+          <time when="13:04:12" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-E3wDjgU9owvyFKVUcUMF1Y">
           <ref type="record" target="prot-201718--094">Protokoll 2017/18:94 Tisdagen den 10 april</ref>

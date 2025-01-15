@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
             <persName>Marléne Lund Kopparklint</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-DcvSyMssYjsfTsEqKHYAc7" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GYNU5sR84WMiaecFCuZPyL">
-          <date when="2019-06-11"/>
-          <time when="13:24:37" dur="PT255S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-J12u7HjjhNzindDMVuLiC9" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-06-11"/>
+          <time when="13:24:37" dur="PT255S"/>
         </correspAction>
         <correspContext corresp="i-GYNU5sR84WMiaecFCuZPyL">
           <ref type="record" target="prot-201819--102">Protokoll 2018/19:102 Tisdagen den 11 juni</ref>

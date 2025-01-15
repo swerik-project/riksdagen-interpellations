@@ -27,42 +27,35 @@
           <person gender="man">
             <idno>i-8UHfFy8Egv2UxrL1auT5kE</idno>
             <persName>Anders Forsberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
             <persName>Lars Tysklind</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KTqdCJiS7tAKyXZgtyJwHs</idno>
             <persName>Monica Haider</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-C5ijrmrEzHwFRjmPqcFs58" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2016-01-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5H4EedQEJZzsSRqCmHdw4P">
-          <date when="2016-02-02"/>
-          <time when="15:09:56" dur="PT335S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6GmEAmq5Z4LFZU98z6wEX5">
           <date when="2016-02-02"/>
+          <time when="15:09:56" dur="PT335S"/>
         </correspAction>
         <correspAction xml:id="i-EbKaeS6Pyb7va94NU19f1M" type="discussed" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2016-02-02"/>

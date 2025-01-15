@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5sQf8wA27pVo43qpEZ2jUa</idno>
             <persName>David Josefsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-CqAxtz44csgG5PUjzsqN98" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-03-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8eKr5dsqbfTnzkviqYLJjx">
-          <date when="2021-04-09"/>
-          <time when="12:18:06" dur="PT96S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F518AeTt6j6UsT2fCHcLzx">
           <date when="2021-04-09"/>
+          <time when="12:18:06" dur="PT96S"/>
         </correspAction>
         <correspContext corresp="i-8eKr5dsqbfTnzkviqYLJjx">
           <ref type="record" target="prot-202021--105">Protokoll 2020/21:105 Fredagen den 9 april</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
             <persName>Désirée Pethrus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-DHFuYZoQH3zWLKqcmdNGbb" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-94XA2cq62VBi4Pt26Y5jPE">
-          <date when="2019-02-15"/>
-          <time when="10:48:39" dur="PT275S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WmW3idutkKcCjWVaLmk6fF">
           <date when="2019-02-15"/>
+          <time when="10:48:39" dur="PT275S"/>
         </correspAction>
         <correspContext corresp="i-94XA2cq62VBi4Pt26Y5jPE">
           <ref type="record" target="prot-201819--054">Protokoll 2018/19:54 Fredagen den 15 februari</ref>

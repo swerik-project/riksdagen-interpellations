@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9B5amPgq3xS4SHsouGXcaR" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QLwAu6nGHSWWmwBTZR6BFE">
-          <date when="2008-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9QKGoA8TXFWKXtRRX7ZED5" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WaPF1ZpzyA5vXdy2YM8DQ9">
-          <date when="2008-03-28"/>
-          <time when="14:55:07" dur="PT300S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T9YrMxsVuKPpN9zhxyUt3Z" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-03-28"/>
+          <time when="14:55:07" dur="PT300S"/>
         </correspAction>
         <correspContext corresp="i-WaPF1ZpzyA5vXdy2YM8DQ9">
           <ref type="record" target="prot-200708--085">Riksdagens protokoll 2007/08:85 Fredagen den 28 mars</ref>

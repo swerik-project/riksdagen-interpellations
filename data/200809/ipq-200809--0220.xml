@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
-            <persName>Berit Högman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
-            <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
+            <persName>Berit Högman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Vo8nen6srM54MLjYnmZcay" corresp="i-Ty8QCuVFBPKpfBLfr6zVqn">
           <date when="2008-12-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6U2iE5PjxwdCD5t9XVvQq4">
-          <date when="2008-12-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-A3hjZ8FhfVAH3s8Y5thHKF" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AopA84MtcHEvJYjdcCKXpG">
-          <date when="2009-01-27"/>
-          <time when="18:26:18" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-J3Nh2ZWKjcQWERcRfUvz2u" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-01-27"/>
+          <time when="18:26:18" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-AopA84MtcHEvJYjdcCKXpG">
           <ref type="record" target="prot-200809--063">Riksdagens protokoll 2008/09:63 Tisdagen den 27 januari</ref>

@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7p7goD9VC5HZh4VdEN1AFo</idno>
             <persName>Sara Gille</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
+            <persName>Jakob Forssmed</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-3DGDdPYwn6juvoSCucRhyQ" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2024-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PJ1vRdBaY7A9j1x3qmnv88">
-          <date when="2024-03-08"/>
-          <time when="13:02:01" dur="PT143S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RW1AAE6jnGtNAjt9sV19gW" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2024-03-08"/>
+          <time when="13:02:01" dur="PT143S"/>
         </correspAction>
         <correspContext corresp="i-PJ1vRdBaY7A9j1x3qmnv88">
           <ref type="record" target="prot-202324--082">Protokoll 2023/24:82 Fredagen den 8 mars</ref>

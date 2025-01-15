@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-XW5yTNFuZaCi3D7usT1bR3" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2021-08-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3dhupk85xveDwJh2eEQer5">
-          <date when="2021-09-09"/>
-          <time when="13:56:56" dur="PT75S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AtAqPW69QXBoAsBEUvm6q8" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2021-09-09"/>
+          <time when="13:56:56" dur="PT75S"/>
         </correspAction>
         <correspContext corresp="i-3dhupk85xveDwJh2eEQer5">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

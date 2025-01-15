@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-RKredXrySvHNaS6h2o1jPV" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-08-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-stejvNucTEWnYvQ3WDJQ4">
-          <date when="2021-09-09"/>
-          <time when="17:09:23" dur="PT179S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-83kXS98dccETtNdcjBzq2d" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-09-09"/>
+          <time when="17:09:23" dur="PT179S"/>
         </correspAction>
         <correspContext corresp="i-stejvNucTEWnYvQ3WDJQ4">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

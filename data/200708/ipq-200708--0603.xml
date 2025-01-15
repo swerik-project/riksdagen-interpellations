@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
-            <persName>Anneli Särnblad</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
-            <persName>Anneli Särnblad (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Anneli Särnblad</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RwaM6BZSRALqBqxqG8qmB1" corresp="i-FTuxB98cDMBkWw68Y9RHEc">
           <date when="2008-04-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9s4Sa7MWmZ4DwhRHtKQHCU">
-          <date when="2008-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-U83i5grTfe1EUsKpYCovKU" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KHWjbrVv4bmihcHN1v7K9P">
-          <date when="2008-05-05"/>
-          <time when="12:42:05" dur="PT271S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-gS7ggai5kPSYiDyWjWwfg" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-05-05"/>
+          <time when="12:42:05" dur="PT271S"/>
         </correspAction>
         <correspContext corresp="i-KHWjbrVv4bmihcHN1v7K9P">
           <ref type="record" target="prot-200708--104">Riksdagens protokoll 2007/08:104 Måndagen den 5 maj</ref>

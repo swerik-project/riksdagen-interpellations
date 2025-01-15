@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8Ernz5jYkoMVrW1z7HgEzH" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2022-01-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2u4U7APAbabmAK2LjtMo9R">
-          <date when="2022-02-01"/>
-          <time when="13:02:06" dur="PT256S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FKskkZKm19U5wW5nFioKQC">
           <date when="2022-02-01"/>
+          <time when="13:02:06" dur="PT256S"/>
         </correspAction>
         <correspContext corresp="i-2u4U7APAbabmAK2LjtMo9R">
           <ref type="record" target="prot-202122--062">Protokoll 2021/22:62 Tisdagen den 1 februari</ref>

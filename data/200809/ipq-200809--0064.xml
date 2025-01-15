@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
-            <persName>Göte Wahlström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
-            <persName>Göte Wahlström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HMf3KYjw3nvgVVjUa7gnGs</idno>
             <persName>Magdalena Streijffert (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
+            <persName>Göte Wahlström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-C8rRL88PVdbEzAnQSNvpHz" corresp="i-J95EwJKvWuN9JUNcJSJKgp">
           <date when="2008-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2gLz7tZRwCDsC3h11PB3TT">
-          <date when="2008-10-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3kJd6Qz1UsKk9iEKdsHbBy" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-10-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ma5onuo6uYRXDVbw2RdLse">
-          <date when="2008-11-14"/>
-          <time when="10:01:30" dur="PT222S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3hV6PagH8Wri4AxkHuqQfc" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-11-14"/>
+          <time when="10:01:30" dur="PT222S"/>
         </correspAction>
         <correspContext corresp="i-Ma5onuo6uYRXDVbw2RdLse">
           <ref type="record" target="prot-200809--028">Riksdagens protokoll 2008/09:28 Fredagen den 14 november</ref>

@@ -27,35 +27,35 @@
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TpcaF4RFviyytGA8rW5Jer</idno>
             <persName>Samuel Gonzalez Westling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -71,12 +71,9 @@
         <correspAction type="received" xml:id="i-FDCfWHxVBwbeJ5YjVyUZ9u" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-12-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NddyLZJcwpiZzf3jeJVGff">
-          <date when="2024-01-18"/>
-          <time when="13:23:30" dur="PT162S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9o4uanccKJtUR7iH8EmjpF">
           <date when="2024-01-18"/>
+          <time when="13:23:30" dur="PT162S"/>
         </correspAction>
         <correspContext corresp="i-NddyLZJcwpiZzf3jeJVGff">
           <ref type="record" target="prot-202324--057">Protokoll 2023/24:57 Torsdagen den 18 januari</ref>

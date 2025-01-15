@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisings Backa</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Gunilla Carlsson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-Qg9tCym6X6BaizVg1L1mXy" corresp="i-HNZrYrLbstv8KywRLm2FMv">
           <date when="2007-03-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-F1zKL6pPehyL8Qw5cHuuGM">
-          <date when="2007-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QmwdsUtfCTtgQ2NkSDirXD" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-03-12"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-TAutHGYu5wkzAP9KyYghcz">
-          <date when="2007-03-26"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-TUJ77o1YZH5XZCduKHRdyn" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-03-26"/>

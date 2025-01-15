@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Westerberg (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-D74cdq6EQpWG5dWigfnSSw</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-6eKB6M92Ha2PqgBwwQxQQN" corresp="i-D74cdq6EQpWG5dWigfnSSw">
           <date when="1997-10-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JBtPxg2peHuwPS6ieZwE8L">
+        <correspAction type="received" xml:id="i-JBtPxg2peHuwPS6ieZwE8L" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PQgDHgR2xyAsmZv2Ncqgy6">
           <note>Besvarad</note>

@@ -25,77 +25,57 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-3pb3B2MkmEoxSvMpXK9cHQ</idno>
             <persName>Marie Granlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
             <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FdoD219QSnSV59bQLxhamx</idno>
             <persName>Tone Tingsgård (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LBN95MD8hn6zkXhRBcbJbB</idno>
             <persName>Lennart Hedquist (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-Ca6Lr9YCsQK6ktjXZnEqKA">
-          <date when="2009-03-31"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-Ss8oqrmBXCK1wdhZjPKeu7" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2009-03-31"/>
         </correspAction>
         <correspAction type="received" xml:id="i-46LFYs1zQ8iPQMVAGnv2An" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-03-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8pwyzpcAuMetfoj5nmYxm3">
-          <date when="2009-05-05"/>
-          <time when="13:31:05" dur="PT383S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GZMwLWZ7ZFoguxmpba1H8E" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-05-05"/>
+          <time when="13:31:05" dur="PT383S"/>
         </correspAction>
         <correspContext corresp="i-8pwyzpcAuMetfoj5nmYxm3">
           <ref type="record" target="prot-200809--111">Riksdagens protokoll 2008/09:111 Tisdagen den 5 maj</ref>

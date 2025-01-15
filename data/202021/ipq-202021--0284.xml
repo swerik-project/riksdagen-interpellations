@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-TcpRMvA7NUH7VxZ1m46K1W</idno>
             <persName>Mikael Strandman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VSpe3Neb3wvpCpctCuzph8" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-01-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RNHDsWpsLERnTVmcdLLx4R">
-          <date when="2021-01-21"/>
-          <time when="12:45:20" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QWEcibeTPKGHvYTfSMXbL2">
           <date when="2021-01-21"/>
+          <time when="12:45:20" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-RNHDsWpsLERnTVmcdLLx4R">
           <ref type="record" target="prot-202021--068">Protokoll 2020/21:68 Torsdagen den 21 januari</ref>

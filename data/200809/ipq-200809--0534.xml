@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-Bszy82zz6r39SLpfYDcK3V" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VHGUhQRjCHPY11gPqiMgLe">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FqjkVRf35gADJnii5Vgip3" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-05-14"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-RsGEddktGDzTo1Fdz1qPUN">
-          <date when="2009-06-01"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-Hq4gxjfgo953kNZXNSFnoi" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-06-01"/>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-3y4o8soU9qx5tQQ1cG92h3</idno>
             <persName>Kalle Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
+            <persName>Anna Tenje</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-BSyzDmcFU65U41VWponiH9" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UrmaUbPc2d49SYQbcthLgP">
-          <date when="2022-11-15"/>
-          <time when="15:17:49" dur="PT239S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WGkqwNV9PjPmuZyCan4PG6">
           <date when="2022-11-15"/>
+          <time when="15:17:49" dur="PT239S"/>
         </correspAction>
         <correspAction xml:id="i-JExrh2ggnRt9gzTbYporT2" type="discussed" corresp="i-TqkCALix3mzcE3yNqV7Nee">
           <date when="2022-11-15"/>

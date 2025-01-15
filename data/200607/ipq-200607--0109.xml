@@ -25,35 +25,35 @@
           <person gender="woman">
             <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
             <persName>Ann Arleklo</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsso</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Ann Arleklo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
+            <persName>Ann Arleklo</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-QgqLKPE4B9NgQTHPeMEiDV" corresp="i-YHze8naQ3VfThjRidPfYK7">
           <date when="2006-11-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BjRJoxhFwV7QNL6G55BhRF">
-          <date when="2006-11-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-P7XGakTLNQc1AhYH8rp6zR" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2006-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9hEwFo8NMeTm1M4v28BeWX">
-          <date when="2007-01-18"/>
-          <time when="15:44:00" dur="PT320S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5hKFx5tQLmjRHt6FASZfwU" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2007-01-18"/>
+          <time when="15:44:00" dur="PT320S"/>
         </correspAction>
         <correspContext corresp="i-9hEwFo8NMeTm1M4v28BeWX">
           <ref type="record" target="prot-200607--050">Riksdagens protokoll 2006/07:50 Torsdagen den 18 januari</ref>

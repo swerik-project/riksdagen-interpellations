@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-7Ct1TDEbkJXekcgzbtq1ku" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2022-05-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FAKg7W8JEcZamAABXhyA8p">
-          <date when="2022-06-10"/>
-          <time when="15:16:51" dur="PT159S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-X2nXmTH1nNGXV26WmmXCBE" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2022-06-10"/>
+          <time when="15:16:51" dur="PT159S"/>
         </correspAction>
         <correspContext corresp="i-FAKg7W8JEcZamAABXhyA8p">
           <ref type="record" target="prot-202122--128">Protokoll 2021/22:128 Fredagen den 10 juni</ref>

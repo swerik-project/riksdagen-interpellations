@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-DmUZytVbrrufqUhEMo3Q2X</idno>
             <persName>Malin Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-MSAunHP7khekYm2PKZTohH" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-03-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Rhy7Aynyh2eanX9qeCmMSZ">
-          <date when="2023-05-05"/>
-          <time when="09:00:56" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7GwhFoPpyo9ankC2hpxjz4" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-05-05"/>
+          <time when="09:00:56" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-Rhy7Aynyh2eanX9qeCmMSZ">
           <ref type="record" target="prot-202223--104">Protokoll 2022/23:104 Fredagen den 5 maj</ref>

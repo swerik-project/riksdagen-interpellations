@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
             <persName>Karin Svensson Smith</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
-            <persName>Karin Svensson Smith (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-2QzfoAYFGmpq1VVPA8idni" corresp="i-5QNmudGpnjjRJCTYzakn9H">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8gtKFuqsMJgcN5emYh2Mzo">
-          <date when="2009-11-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5WjT3wEwKhX2sy4HsXm1qd" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Awsi4TccteKcEmgbDFKfYg">
-          <date when="2010-01-22"/>
-          <time when="10:20:15" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MjTBjP7Sw9N71B3hiNS3QU" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-01-22"/>
+          <time when="10:20:15" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-Awsi4TccteKcEmgbDFKfYg">
           <ref type="record" target="prot-200910--061">Riksdagens protokoll 2009/10:61 Fredagen den 22 januari</ref>

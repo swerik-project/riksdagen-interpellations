@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -61,15 +54,12 @@
         <correspAction type="sent" xml:id="i-HygwyEeGEN5MfDSBM2TxPh" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2015-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UEjd16XTc9Cj4AZopczENv">
-          <date when="2016-01-12"/>
-          <time when="13:37:16" dur="PT195S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UH5KH7BAS7hoSkLgdNYxqa" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-01-12"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-9BYLqbeehiPcn4Yhtz8WdR">
           <date when="2016-01-12"/>
+          <time when="13:37:16" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-UEjd16XTc9Cj4AZopczENv">
           <ref type="record" target="prot-201516--050">Protokoll 2015/16:50 Tisdagen den 12 januari</ref>

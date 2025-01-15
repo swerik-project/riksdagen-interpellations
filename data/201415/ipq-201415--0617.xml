@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CUvgh8FbAS51NxDGz1KFL7</idno>
             <persName>Anders Ahlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-W1SpeP85RXQTDYN2miQfXU</idno>
+            <persName>Daniel Bäckström</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-W1SpeP85RXQTDYN2miQfXU</idno>
-            <persName>Daniel Bäckström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-Fad9zRfbGf8u6RswoDatGo" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2015-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Y8Rqu8Km5MuWzBdtR2fhkR">
-          <date when="2015-06-22"/>
-          <time when="17:28:27" dur="PT155S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PAabFRCBdSLvniZ4ASbxNT" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-06-22"/>
+          <time when="17:28:27" dur="PT155S"/>
         </correspAction>
         <correspContext corresp="i-Y8Rqu8Km5MuWzBdtR2fhkR">
           <ref type="record" target="ip-201415--617">Jordbruksverkets nya regler för stöd till bredbandsutbyggnad</ref>

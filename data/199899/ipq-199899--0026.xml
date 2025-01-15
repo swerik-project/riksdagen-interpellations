@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Fredrik Reinfeldt (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-JQzaHXVjuMUCEwLE1qUHrL" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="1998-11-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DDHB9Ln4ETy7KtDHzgCA7F">
+        <correspAction type="received" xml:id="i-DDHB9Ln4ETy7KtDHzgCA7F" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PEwZCDq3YtRhrkZUCA61xC">
           <note>Besvarad</note>

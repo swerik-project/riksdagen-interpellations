@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-17rLcHuXL7eT8W1nwmMH4h</idno>
             <persName>Sotiris Delis</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-JVPGgXcSoH2CK7GtDiNcwn" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-11-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YR2i76Kc59VEWaCyyhNch2">
-          <date when="2017-12-01"/>
-          <time when="09:00:54" dur="PT260S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Kw7YDj7S4obQPFhVmBmgQV">
           <date when="2017-12-01"/>
+          <time when="09:00:54" dur="PT260S"/>
         </correspAction>
         <correspContext corresp="i-YR2i76Kc59VEWaCyyhNch2">
           <ref type="record" target="prot-201718--041">Protokoll 2017/18:41 Fredagen den 1 december</ref>

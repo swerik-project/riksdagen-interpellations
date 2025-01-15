@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LYQPb9ksaJCBnsiWmYH4Ax" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2017-08-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CXzz9k5eHP26qLcnTaKSkv">
-          <date when="2017-09-14"/>
-          <time when="12:38:27" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4oejgX39GMm4FPN2faPMyy">
           <date when="2017-09-14"/>
+          <time when="12:38:27" dur="PT86S"/>
         </correspAction>
         <correspContext corresp="i-CXzz9k5eHP26qLcnTaKSkv">
           <ref type="record" target="f-lista-201718--004">Torsdag den 14 september 2017</ref>

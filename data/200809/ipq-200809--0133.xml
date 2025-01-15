@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5MU9P3eACZu6MWZyH4rQvy" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Y57c6j3BZ3qsiDCYUS1sq4">
-          <date when="2008-11-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BA3dBdDLEHiPSco2gT1pM3" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9mmmzmoh4oEUPGdZJf2XtG">
-          <date when="2008-12-02"/>
-          <time when="21:07:36" dur="PT145S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TwwjAocacm4F4m6vUJTwjk" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-12-02"/>
+          <time when="21:07:36" dur="PT145S"/>
         </correspAction>
         <correspContext corresp="i-9mmmzmoh4oEUPGdZJf2XtG">
           <ref type="record" target="prot-200809--040">Riksdagens protokoll 2008/09:40 Tisdagen den 2 december</ref>

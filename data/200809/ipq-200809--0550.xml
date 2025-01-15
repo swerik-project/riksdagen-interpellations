@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-rdhNKRH4pZC48XsBY7ACe" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AVUgbDv3REvCyxCu63GLnV">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VjUYwt5wLVsR6kXsfdFEPy" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JNsEM2eRWnQKNp95A1ceLx">
-          <date when="2009-06-08"/>
-          <time when="15:19:03" dur="PT219S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LHKqNPnQRiJYbR7LPM1iLA" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-06-08"/>
+          <time when="15:19:03" dur="PT219S"/>
         </correspAction>
         <correspContext corresp="i-JNsEM2eRWnQKNp95A1ceLx">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

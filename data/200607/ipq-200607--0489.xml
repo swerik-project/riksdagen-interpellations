@@ -25,43 +25,29 @@
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
             <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9xcMYrrML4AzXQ6jGcD6e2</idno>
             <persName>Christin Hagberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Ca15236go1dL7Jhn2QpbfK" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GBACTB2W12NEzAAWP6acWp">
-          <date when="2007-04-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5ZZQHB8MrYbtsVfetKPJ26" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BRCdSyRc2fvVRi14cyPXz3">
-          <date when="2007-05-14"/>
-          <time when="14:33:46" dur="PT296S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-H5GVTb4cBVyd8sDsMqFDTi" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-14"/>
+          <time when="14:33:46" dur="PT296S"/>
         </correspAction>
         <correspContext corresp="i-BRCdSyRc2fvVRi14cyPXz3">
           <ref type="record" target="prot-200607--106">Riksdagens protokoll 2006/07:106 Måndagen den 14 maj</ref>

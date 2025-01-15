@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-KoABdAPF5wcu7bTLEqhj3Z</idno>
             <persName>Helena Storckenfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Trntd2imScoJ4J2KzDeJi3" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-01-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TTyVa4z62qU9WioVsik4yC">
-          <date when="2022-02-04"/>
-          <time when="12:17:25" dur="PT105S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7pbpLJYheyaCcbnPteggGS" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-02-04"/>
+          <time when="12:17:25" dur="PT105S"/>
         </correspAction>
         <correspContext corresp="i-TTyVa4z62qU9WioVsik4yC">
           <ref type="record" target="prot-202122--065">Protokoll 2021/22:65 Fredagen den 4 februari</ref>

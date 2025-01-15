@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
-            <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
-            <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-L3xspgThUxUN1YtSDqcmk8</idno>
             <persName>Barbro Westerholm (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
             <persName>Eva Johnsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
+            <persName>Staffan Danielsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-JSkmaApA14PsQACLhtkduY" corresp="i-N9Pi9YpD4nvtCEsVp2CGcX">
           <date when="2008-11-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MztfYPE3td8vknmZ8ipvP9">
-          <date when="2008-12-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3agrXuhRxVBQPDRSFrewA4" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QHVFzmoitYjZ5cB8hVPyZv">
-          <date when="2009-01-15"/>
-          <time when="18:58:57" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C5GDjm6FoBSwm1WtsrJHA5" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-01-15"/>
+          <time when="18:58:57" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-QHVFzmoitYjZ5cB8hVPyZv">
           <ref type="record" target="prot-200809--057">Riksdagens protokoll 2008/09:57 Torsdagen den 15 januari</ref>

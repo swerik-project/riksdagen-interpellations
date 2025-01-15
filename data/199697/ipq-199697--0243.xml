@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marie Engström (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
@@ -29,22 +29,22 @@
           <person gender="woman">
             <persName>statsrådet Maj- Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-MZypLEjn9edaLPp6MN6T4J" corresp="i-pSqD9LHdbNUrj3thRcKhS">
-          <date when="1996-03-14"/>
+          <date when="1997-03-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LvcZaDu93s3KxDwEnznYTo">
+        <correspAction type="received" xml:id="i-LvcZaDu93s3KxDwEnznYTo" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj- Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Phq5Uc12xKnjUPTakKW6RV">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-U6THhNdaajkomC49EDQH25">
-          <date when="1996-04-17"/>
+          <date when="1997-04-17"/>
         </correspAction>
         <correspContext corresp="i-U6THhNdaajkomC49EDQH25">
           <ref type="record" target="prot-199697--091">Prot. 1996/97:91</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Vv46T3wcT6CftbHRGKfT93" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-01-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XRX5nSyrgwiHi1mdAYFvQ1">
-          <date when="2021-02-02"/>
-          <time when="14:04:37" dur="PT156S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EUctXibjNKeGVbFNdqChoH">
           <date when="2021-02-02"/>
+          <time when="14:04:37" dur="PT156S"/>
         </correspAction>
         <correspContext corresp="i-XRX5nSyrgwiHi1mdAYFvQ1">
           <ref type="record" target="prot-202021--074">Protokoll 2020/21:74 Tisdagen den 2 februari</ref>

@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
             <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Uy7DHUHA3FXxYijUPVqy1c" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-05-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NwBSntywCJXkMMMxqfATsy">
-          <date when="2007-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TcJhjoxCHbbqgZyHezjg4Q" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2007-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TmB3qx4kYjTpVftPoe6cUt">
-          <date when="2007-05-29"/>
-          <time when="13:31:21" dur="PT316S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KzDuLUTUQ9NG559QS9CxZT" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2007-05-29"/>
+          <time when="13:31:21" dur="PT316S"/>
         </correspAction>
         <correspContext corresp="i-TmB3qx4kYjTpVftPoe6cUt">
           <ref type="record" target="prot-200607--115">Riksdagens protokoll 2006/07:115 Tisdagen den 29 maj</ref>

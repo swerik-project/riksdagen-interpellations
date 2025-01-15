@@ -27,28 +27,28 @@
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-UAEpfg3vspFrVkRoANPPGp" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-03-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5tqDvgHMQyP2Rmn4PPaTPK">
-          <date when="2023-03-17"/>
-          <time when="09:50:10" dur="PT257S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4CQyUCUFE3tsWjGBm33M5g">
           <date when="2023-03-17"/>
+          <time when="09:50:10" dur="PT257S"/>
         </correspAction>
         <correspContext corresp="i-5tqDvgHMQyP2Rmn4PPaTPK">
           <ref type="record" target="prot-202223--077">Protokoll 2022/23:77 Fredagen den 17 mars</ref>

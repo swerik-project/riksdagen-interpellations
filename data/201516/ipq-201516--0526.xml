@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-15BSnVgKx6zhoi5W1dgtPK" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2016-04-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TKXZ4ukXFcGGVfebiryJ2z">
-          <date when="2016-04-15"/>
-          <time when="10:41:34" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Km35Axaxss2cAxm6QyceoL">
           <date when="2016-04-15"/>
+          <time when="10:41:34" dur="PT165S"/>
         </correspAction>
         <correspContext corresp="i-TKXZ4ukXFcGGVfebiryJ2z">
           <ref type="record" target="prot-201516--093">Protokoll 2015/16:93 Fredagen den 15 april</ref>

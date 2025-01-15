@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-PPtpTU7erj7n8C4rdQihuK</idno>
-            <persName>Lage Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PPtpTU7erj7n8C4rdQihuK</idno>
-            <persName>Lage Rahm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PPtpTU7erj7n8C4rdQihuK</idno>
+            <persName>Lage Rahm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-AShJKPdD4rutqEeBuDW4oJ" corresp="i-PPtpTU7erj7n8C4rdQihuK">
           <date when="2009-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EUaS2EuwvTHXGzNsCDKFju">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EuDfJK8ow1DEyqCkuUV1TF" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TwFAFHBe6N2NMHnuVj2m3X">
-          <date when="2009-02-10"/>
-          <time when="18:57:28" dur="PT223S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AELfFdU9BvPv3JZVMkbGH7" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-02-10"/>
+          <time when="18:57:28" dur="PT223S"/>
         </correspAction>
         <correspContext corresp="i-TwFAFHBe6N2NMHnuVj2m3X">
           <ref type="record" target="prot-200809--067">Riksdagens protokoll 2008/09:67 Tisdagen den 10 februari</ref>

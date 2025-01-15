@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-Xte2hVf6qgEgJA6sWB1cDH</idno>
             <persName>Malcolm Momodou Jallow</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-A4GfqA84wgJpFxWTz44GXT" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wdb3CQSyauJazA4wkWpzjm">
-          <date when="2023-12-20"/>
-          <time when="18:33:13" dur="PT168S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8yL5DXF3kGkm7vxCF9F7Rd" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-12-20"/>
+          <time when="18:33:13" dur="PT168S"/>
         </correspAction>
         <correspContext corresp="i-Wdb3CQSyauJazA4wkWpzjm">
           <ref type="record" target="prot-202324--053">Protokoll 2023/24:53 Onsdagen den 20 december</ref>

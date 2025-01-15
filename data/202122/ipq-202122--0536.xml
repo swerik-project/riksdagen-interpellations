@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-LHNecLttGkFNptLa6AG81p</idno>
             <persName>Helena Vilhelmsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Bm4StkMPtsB6rTFvxdgyin" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-06-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AHTH2ps8ek8pPJSWJdLsS">
-          <date when="2022-06-29"/>
-          <time when="12:10:37" dur="PT93S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MiAt8o1893JnAcLriKugWh" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-06-29"/>
+          <time when="12:10:37" dur="PT93S"/>
         </correspAction>
         <correspContext corresp="i-AHTH2ps8ek8pPJSWJdLsS">
           <ref type="record" target="prot-202122--139">Protokoll 2021/22:139 Onsdagen den 29 juni</ref>

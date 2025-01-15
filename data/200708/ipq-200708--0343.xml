@@ -22,59 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
-            <persName>Berit Högman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
-            <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
+            <persName>Berit Högman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-TLccac33ndip78yqWUaqW6" corresp="i-Ty8QCuVFBPKpfBLfr6zVqn">
           <date when="2008-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G9cVa9fU29w8qV1tTYQ1Dg">
-          <date when="2008-01-31"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CDotCkaCrBpNSFvz2J4MU1" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-01-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VNFStnD8Hm521jF7oT6f1i">
-          <date when="2008-02-19"/>
-          <time when="13:32:52" dur="PT291S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3qYfe47fayT5TU2jfxd53W" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-02-19"/>
+          <time when="13:32:52" dur="PT291S"/>
         </correspAction>
         <correspContext corresp="i-VNFStnD8Hm521jF7oT6f1i">
           <ref type="record" target="prot-200708--067">Riksdagens snabbprotokoll 2007/08:67 Tisdagen den 19 februari</ref>

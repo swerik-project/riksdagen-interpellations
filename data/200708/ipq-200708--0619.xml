@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-CWQq7hTbSZXfxJrhdbVQaM" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-04-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HEanUofMfPTUxmtCYNDxAv">
-          <date when="2008-04-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FCahodQqtu6bw4kS6eb2Gc" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-04-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2ZGK5N76N3ugsYksP5HVMf">
-          <date when="2008-05-09"/>
-          <time when="15:03:47" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5JvpRwyaUY37GEZQm7J6EU" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-05-09"/>
+          <time when="15:03:47" dur="PT165S"/>
         </correspAction>
         <correspContext corresp="i-2ZGK5N76N3ugsYksP5HVMf">
           <ref type="record" target="prot-200708--108">Riksdagens protokoll 2007/08:108 Fredagen den 9 maj</ref>

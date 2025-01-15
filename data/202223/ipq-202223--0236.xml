@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
             <persName>Carl-Oskar Bohlin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-8wNeXR5sPDaU1YZ5K2fxM3" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-03-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2LgTT2K83r5bxonZXBYb3B">
-          <date when="2023-03-14"/>
-          <time when="19:37:13" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HgcrhzYvUMjjVqwCuHGMgJ">
           <date when="2023-03-14"/>
+          <time when="19:37:13" dur="PT214S"/>
         </correspAction>
         <correspContext corresp="i-2LgTT2K83r5bxonZXBYb3B">
           <ref type="record" target="prot-202223--074">Protokoll 2022/23:74 Tisdagen den 14 mars</ref>

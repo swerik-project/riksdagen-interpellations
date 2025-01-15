@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
@@ -31,22 +31,22 @@
           <person gender="woman">
             <persName>statsrådet Britta Lejon</persName>
             <idno>i-sS6VZTVNkCN6AHvZNaaYb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-SNy9hPqQhpvGH1WvhtcBEL" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
-          <date when="1998-04-16"/>
+          <date when="1999-04-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VWeVarKzvfAeB4r1S2D863">
+        <correspAction type="received" xml:id="i-VWeVarKzvfAeB4r1S2D863" corresp="i-sS6VZTVNkCN6AHvZNaaYb">
           <note>date unknown</note>
-          <name>statsrådet Britta Lejon</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-2MM4vsR7cqeTUGmTDRWwYZ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-LN3K7zm6HYjd53hYqwgTJj">
-          <date when="1998-05-07"/>
+          <date when="1999-05-07"/>
         </correspAction>
         <correspContext corresp="i-LN3K7zm6HYjd53hYqwgTJj">
           <ref type="record" target="prot-199899--093">Prot. 1998/99:93</ref>

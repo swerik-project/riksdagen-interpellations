@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Socialförsäkringsminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
             <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-R744EQRBYcMwAchJ49gNEJ" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2017-06-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VbA4L3ovVuwtEkWUuBFY7B">
-          <date when="2017-06-27"/>
-          <time when="09:56:58" dur="PT155S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TYaPhy2oPPnaNc9fpAzhfa" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-06-27"/>
+          <time when="09:56:58" dur="PT155S"/>
         </correspAction>
         <correspContext corresp="i-VbA4L3ovVuwtEkWUuBFY7B">
           <ref type="record" target="prot-201617--132">Protokoll 2016/17:132 Tisdagen den 27 juni</ref>

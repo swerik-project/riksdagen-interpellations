@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
+            <persName>Eva Lindh</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
-            <persName>Eva Lindh</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-FPeDpEEyadK8gVofp7BGa8" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-10-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YFSKcMZZw8jty8w9pynez9">
-          <date when="2023-11-10"/>
-          <time when="09:59:46" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BkLJn5miyQV6vZ3ZicV22r" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-11-10"/>
+          <time when="09:59:46" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-YFSKcMZZw8jty8w9pynez9">
           <ref type="record" target="prot-202324--028">Protokoll 2023/24:28 Fredagen den 10 november</ref>

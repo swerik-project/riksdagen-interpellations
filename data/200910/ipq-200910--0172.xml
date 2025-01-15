@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
             <persName>Jan Lindholm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Piu33x26eLxQKA78ZTgdoE" corresp="i-VRHymVx7EsX48sg7b5qmpS">
           <date when="2009-12-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JeTb2eFZWcP1tMdrBEZrRi">
-          <date when="2009-12-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Pbgu7hVuB8ZkH1YpfV7xuw" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NMmZrkz55JSJA6s5sTCq3R">
-          <date when="2010-02-04"/>
-          <time when="12:42:45" dur="PT453S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RQt3hmQ5qHZqfT6oLCe53q" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-02-04"/>
+          <time when="12:42:45" dur="PT453S"/>
         </correspAction>
         <correspContext corresp="i-NMmZrkz55JSJA6s5sTCq3R">
           <ref type="record" target="prot-200910--069">Riksdagens protokoll 2009/10:69 Torsdagen den 4 februari</ref>

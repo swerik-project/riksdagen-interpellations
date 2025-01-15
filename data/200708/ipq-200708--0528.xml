@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lars Mejern Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-RrZnS7FhPSdX5bGwFm3k1t">
-          <date when="2008-03-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-T5BeNHwfr1hU5g1Z1Rq2PY" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-03-27"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-7FW1CQ354EE7QwGxmnaQVR" corresp="i-76ETKL7PQscJy3dmshR8mr">
           <date when="2008-03-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9SK1DtRwQnSNgVtGETmNVF">
-          <date when="2008-04-11"/>
-          <time when="13:39:19" dur="PT159S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2uUFftRW67Ay9BQYUocKpb" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-04-11"/>
+          <time when="13:39:19" dur="PT159S"/>
         </correspAction>
         <correspContext corresp="i-9SK1DtRwQnSNgVtGETmNVF">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

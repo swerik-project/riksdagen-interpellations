@@ -22,52 +22,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-6Tm6CkqvW55XWkdqUgBH82</idno>
-            <persName>Marina Pettersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6Tm6CkqvW55XWkdqUgBH82</idno>
-            <persName>Marina Pettersson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
             <persName>Lars U Granberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-6Tm6CkqvW55XWkdqUgBH82</idno>
+            <persName>Marina Pettersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-3j4J8JvmQGFHp4MUGMQG9E" corresp="i-6Tm6CkqvW55XWkdqUgBH82">
           <date when="2009-11-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WBgbRM5X5LoQG9gZymW47A">
-          <date when="2009-12-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AAD955bFFf9z4Ut5KGPvNg" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AeQdVtjGhwmSF2SMXASb3j">
-          <date when="2009-12-15"/>
-          <time when="15:45:44" dur="PT272S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YMwtjfyZD6ixHoktHu4okc" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-12-15"/>
+          <time when="15:45:44" dur="PT272S"/>
         </correspAction>
         <correspContext corresp="i-AeQdVtjGhwmSF2SMXASb3j">
           <ref type="record" target="prot-200910--050">Riksdagens protokoll 2009/10:50 Tisdagen den 15 december</ref>

@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
-            <persName>Marie Engström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
-            <persName>Marie Engström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
+            <persName>Marie Engström</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-8gPd12WwPYF4U3GmYScehU" corresp="i-pSqD9LHdbNUrj3thRcKhS">
           <date when="2008-12-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HBXmReeVQk6QGQ8jzv3fqv">
-          <date when="2008-12-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SMxgCb58VTRmgs7rQJWjhY" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-12-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AMY2PV1SDTiighnuR17qjd">
-          <date when="2009-01-15"/>
-          <time when="16:16:09" dur="PT299S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S8aDrDM7fA1oqu2UX9eFG9" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-01-15"/>
+          <time when="16:16:09" dur="PT299S"/>
         </correspAction>
         <correspContext corresp="i-AMY2PV1SDTiighnuR17qjd">
           <ref type="record" target="prot-200809--057">Riksdagens protokoll 2008/09:57 Torsdagen den 15 januari</ref>

@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
             <persName>Marie Nordén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
+            <persName>Matilda Ernkrans</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-TiqPo25T11CBNuU3VJ5LRm" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2010-02-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KYjCCke1Xa5we6Uf4dMeU3">
-          <date when="2010-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TGuL8pSVsK4bzZCyBpmDxD" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Vq1oasE6Bu3wvYed4A1vmF">
-          <date when="2010-03-02"/>
-          <time when="14:02:26" dur="PT377S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WB2qHPVbSKCFgbePHEF6ss" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-03-02"/>
+          <time when="14:02:26" dur="PT377S"/>
         </correspAction>
         <correspContext corresp="i-Vq1oasE6Bu3wvYed4A1vmF">
           <ref type="record" target="prot-200910--080">Riksdagens protokoll 2009/10:80 Tisdagen den 2 mars</ref>

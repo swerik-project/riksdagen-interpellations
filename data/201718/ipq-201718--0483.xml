@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
             <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-TquMAfmLN4374PSznDMqyJ" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2018-04-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5FzaZGpMPhJN1s5kqpuMWS">
-          <date when="2018-05-21"/>
-          <time when="13:19:46" dur="PT141S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VfYtQjTzbLyHqntsgXh7p6" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-05-21"/>
+          <time when="13:19:46" dur="PT141S"/>
         </correspAction>
         <correspContext corresp="i-5FzaZGpMPhJN1s5kqpuMWS">
           <ref type="record" target="prot-201718--115">Protokoll 2017/18:115 Måndagen den 21 maj</ref>

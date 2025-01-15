@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Ca4vSGXLUHJmoroaLz9BvD</idno>
             <persName>Åsa Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3VxwEBzyEfCdex2ZrmdQru</idno>
             <persName>Jimmy Ståhl</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-PKHkwWfSyKCm1B7QM6BxhH" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jk2y6zkfCMQpLuB9hK4DtZ">
-          <date when="2023-02-07"/>
-          <time when="15:38:25" dur="PT75S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3oULYvQRdppZkNcZCUUgws">
           <date when="2023-02-07"/>
+          <time when="15:38:25" dur="PT75S"/>
         </correspAction>
         <correspContext corresp="i-Jk2y6zkfCMQpLuB9hK4DtZ">
           <ref type="record" target="prot-202223--058">Protokoll 2022/23:58 Tisdagen den 7 februari</ref>

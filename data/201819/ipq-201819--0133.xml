@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-5pt7V9L88gFuC3UA5MjoNb</idno>
             <persName>Lotta Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-7DKaJA2WeNo2XQg8afdy8f" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2019-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CTMoWM2xHANBvohBrUTnYm">
-          <date when="2019-04-02"/>
-          <time when="14:23:33" dur="PT184S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GASF7vsRU5J2meQ4H2yXw7">
           <date when="2019-04-02"/>
+          <time when="14:23:33" dur="PT184S"/>
         </correspAction>
         <correspContext corresp="i-CTMoWM2xHANBvohBrUTnYm">
           <ref type="record" target="prot-201819--071">Protokoll 2018/19:71 Tisdagen den 2 april</ref>

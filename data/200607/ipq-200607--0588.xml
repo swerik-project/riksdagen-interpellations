@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-WdzdpUJPSTm2Pu1ueVHJyc" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2007-05-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-B4KGuP9ETwbxCXK3sN8zQW">
-          <date when="2007-05-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-R1vjT1qxZrjLGqafAMo8Va" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-05-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7qJcKP8VVQgpCPPCnKW9FX">
-          <date when="2007-06-12"/>
-          <time when="18:20:08" dur="PT299S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-xaaBB2K2byGTrRQ2Ezf9y" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-06-12"/>
+          <time when="18:20:08" dur="PT299S"/>
         </correspAction>
         <correspContext corresp="i-7qJcKP8VVQgpCPPCnKW9FX">
           <ref type="record" target="prot-200607--124">Riksdagens protokoll 2006/07:124 Tisdagen den 12 juni</ref>

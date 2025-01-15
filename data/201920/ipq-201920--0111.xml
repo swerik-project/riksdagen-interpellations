@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Eva Nordmark</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
             <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
+            <persName>Eva Nordmark</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-VEAd47oQV3DZv7n6Y5LGCt" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2019-11-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5KR4fftyjYzM1hpPpAW5Eb">
-          <date when="2019-12-03"/>
-          <time when="14:08:50" dur="PT211S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QnMoCmbVRXuU4CNtyXqhAv" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2019-12-03"/>
+          <time when="14:08:50" dur="PT211S"/>
         </correspAction>
         <correspContext corresp="i-5KR4fftyjYzM1hpPpAW5Eb">
           <ref type="record" target="prot-201920--043">Protokoll 2019/20:43 Tisdagen den 3 december</ref>

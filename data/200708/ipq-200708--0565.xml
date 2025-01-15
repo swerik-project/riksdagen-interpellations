@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-3p3w5Vw2i74gEMeqzABeEG</idno>
             <persName>Lars Elinderson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
+            <persName>Lars Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-6oUCnJfg1np2bi7nxxpfJ1" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2008-04-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LZa4ZiNMZBhPVj5bHyCFi4">
-          <date when="2008-04-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8TENyjcuy1jp36no7gVc9J" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-04-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Xh6gdyh5E66HNL5Fi4qd3K">
-          <date when="2008-05-06"/>
-          <time when="14:53:46" dur="PT278S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BKFmcasVamg5HKFooT9SFR" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-05-06"/>
+          <time when="14:53:46" dur="PT278S"/>
         </correspAction>
         <correspContext corresp="i-Xh6gdyh5E66HNL5Fi4qd3K">
           <ref type="record" target="prot-200708--105">Riksdagens protokoll 2007/08:105 Tisdagen den 6 maj</ref>

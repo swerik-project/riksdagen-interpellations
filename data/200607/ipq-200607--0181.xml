@@ -23,87 +23,66 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-NirXfc8JiwP3Ssuz3NR6e2</idno>
-            <persName>Annie Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NirXfc8JiwP3Ssuz3NR6e2</idno>
-            <persName>Annie Johansson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HMf3KYjw3nvgVVjUa7gnGs</idno>
             <persName>Magdalena Streijffert (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nywj47pd422wBAiv8K2vPV</idno>
             <persName>Jan Ertsborn (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
             <persName>Hans Linde (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-WCrN5vpCNm6z9SvfXfby4e</idno>
             <persName>Alf Svensson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TECanR77Prb79DHwPvLitN</idno>
             <persName>Annelie Enochson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NirXfc8JiwP3Ssuz3NR6e2</idno>
+            <persName>Annie Lööf</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -112,18 +91,12 @@
         <correspAction type="sent" xml:id="i-59zjWQijNAqmRbnUk7Sruq" corresp="i-NirXfc8JiwP3Ssuz3NR6e2">
           <date when="2006-12-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PsTHNFwgvWGScVxRBtVL7C">
-          <date when="2006-12-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-J5FVvtdBYCpdkYK5sLBUM2" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2006-12-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8ysZd7Duj66gmtPawoGjXz">
-          <date when="2007-01-18"/>
-          <time when="13:03:15" dur="PT596S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HKq3bMVaqNbuaquVnW1Deg" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-01-18"/>
+          <time when="13:03:15" dur="PT596S"/>
         </correspAction>
         <correspContext corresp="i-8ysZd7Duj66gmtPawoGjXz">
           <ref type="record" target="prot-200607--050">Riksdagens protokoll 2006/07:50 Torsdagen den 18 januari</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-15XKZT3hRjksEvtHa8x3vk</idno>
             <persName>Marcus Wennerström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
+            <persName>Erik Slottner</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-UmqfEv5ECeNbwspa3QBUM8" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2024-01-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9v1fXocRMMXVW5vAH9ZpK6">
-          <date when="2024-01-30"/>
-          <time when="18:51:53" dur="PT153S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JaX1mRZKdGTm7gwkqkCrUr">
           <date when="2024-01-30"/>
+          <time when="18:51:53" dur="PT153S"/>
         </correspAction>
         <correspContext corresp="i-9v1fXocRMMXVW5vAH9ZpK6">
           <ref type="record" target="prot-202324--062">Protokoll 2023/24:62 Tisdagen den 30 januari</ref>

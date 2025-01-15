@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-2EZPhWWR7yHztg3zN2aNvh</idno>
             <persName>Peter Rådberg (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
+            <persName>Ewa Björling</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
+            <persName>Hans Linde</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-3ihECDjtRP5ixgDWxZfzu3" corresp="i-K3yJ7rruozYUK99nj91ffc">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-N3tEVMwwWSbofjubUH2Y8K">
-          <date when="2007-10-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WNE4v1hPPhEKTHLAvDLHcy" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SLvMnhWqAK7xL55TVTF6CQ">
-          <date when="2007-11-13"/>
-          <time when="21:14:48" dur="PT380S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ACJPpgcFGXZmJmxQu9V2tN" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2007-11-13"/>
+          <time when="21:14:48" dur="PT380S"/>
         </correspAction>
         <correspContext corresp="i-SLvMnhWqAK7xL55TVTF6CQ">
           <ref type="record" target="prot-200708--023">Riksdagens protokoll 2007/08:23 Tisdagen den 13 november</ref>

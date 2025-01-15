@@ -22,14 +22,19 @@
         <listPerson>
           <person gender="man">
             <persName>Inge Carlsson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-WMA5CvSwpnzJGeJntPaK4Q</idno>
           </person>
           <person gender="man">
-            <persName>socialministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +42,14 @@
         <correspAction type="sent" xml:id="i-C9EVC59Gh7hsMdpRg2gSzx" corresp="i-WMA5CvSwpnzJGeJntPaK4Q">
           <date when="1998-12-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4cN7JQwnXYrGWEFG6PXwXt">
+        <correspAction type="received" xml:id="i-4cN7JQwnXYrGWEFG6PXwXt" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-ATtSC9uX1s75pHCATHsChm">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PypMNEKtRi2eqHKQ2rV651">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
         <correspContext corresp="i-PypMNEKtRi2eqHKQ2rV651">
           <ref type="record" target="prot-199899--046">Prot. 1998/99:46</ref>

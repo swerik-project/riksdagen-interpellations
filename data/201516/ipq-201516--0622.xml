@@ -27,35 +27,21 @@
           <person gender="woman">
             <idno>i-SQtBtzxQLj4TaXXq9jLy7r</idno>
             <persName>Pia Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
             <persName>Leif Pettersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-MeYfwQJkLrXQEQvj9zYYKE" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-05-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DiXJNhJHNvZuTDeHydetiS">
-          <date when="2016-06-07"/>
-          <time when="18:00:13" dur="PT118S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Xvw84f5Y1rypvFCkWVMPZx" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-06-07"/>
+          <time when="18:00:13" dur="PT118S"/>
         </correspAction>
         <correspContext corresp="i-DiXJNhJHNvZuTDeHydetiS">
           <ref type="record" target="prot-201516--114">Protokoll 2015/16:114 Tisdagen den 7 juni</ref>

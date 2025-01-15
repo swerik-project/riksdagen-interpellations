@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-QTr35xSAvL26J27hT5Baos" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2022-05-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BSoqWQkU49F6UUPd7VfCZb">
-          <date when="2022-06-10"/>
-          <time when="14:55:51" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TRqepSStfam5uFT6vC27uk" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2022-06-10"/>
+          <time when="14:55:51" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-BSoqWQkU49F6UUPd7VfCZb">
           <ref type="record" target="prot-202122--128">Protokoll 2021/22:128 Fredagen den 10 juni</ref>

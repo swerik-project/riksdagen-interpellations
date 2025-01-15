@@ -23,80 +23,59 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-4htYS85JpBwxyYZ32aVtBc</idno>
             <persName>Gunilla Tjernberg (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
             <persName>Eva Johnsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KGqrEB2Pzg8goYxy9CcDhd</idno>
-            <persName>Lars Gustafsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lars Gustafsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -105,18 +84,12 @@
         <correspAction type="sent" xml:id="i-5VQnsskdNSH4bMyoPYmaFo" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2008-01-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A2D5ThqFddurNVDrGdsU8f">
-          <date when="2008-01-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Nro9Xvn1jpD6AqyDK4N1wL" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-01-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Vx5muTScrMzAsKFBKh1LLi">
-          <date when="2008-02-19"/>
-          <time when="18:01:28" dur="PT394S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-A6m3pd2o1Po4yE82gDWaMR" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-02-19"/>
+          <time when="18:01:28" dur="PT394S"/>
         </correspAction>
         <correspContext corresp="i-Vx5muTScrMzAsKFBKh1LLi">
           <ref type="record" target="prot-200708--067">Riksdagens snabbprotokoll 2007/08:67 Tisdagen den 19 februari</ref>

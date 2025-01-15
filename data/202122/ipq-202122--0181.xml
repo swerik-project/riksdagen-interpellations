@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Fm476krC87a2ACZof1QqTm" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-12-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-P1sdg5UfkU8ygmZMhGNtDF">
-          <date when="2022-01-25"/>
-          <time when="15:25:56" dur="PT276S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8WZa9GfFRqkhrxrBZXcYj7" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-01-25"/>
+          <time when="15:25:56" dur="PT276S"/>
         </correspAction>
         <correspContext corresp="i-P1sdg5UfkU8ygmZMhGNtDF">
           <ref type="record" target="prot-202122--058">Protokoll 2021/22:58 Tisdagen den 25 januari</ref>

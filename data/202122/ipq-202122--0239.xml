@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-5JKbBodBpCZ1A4ajEWCxPv</idno>
             <persName>Mattias Bäckström Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Klimat- och miljöminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XBxAbUXD6Qpc9KmdA853AP</idno>
             <persName>Ulrik Bergman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
+            <persName>Annika Strandhäll</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -68,15 +61,12 @@
         <correspAction type="sent" xml:id="i-CpFpkeR2Uac6NkXcWMf58R" corresp="i-5JKbBodBpCZ1A4ajEWCxPv">
           <date when="2021-12-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-35zaVqNw4gy1pTz5N1cSYZ">
-          <date when="2022-01-11"/>
-          <time when="14:20:46" dur="PT314S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XwXNhgqWRcw9iRiPTDiWSs" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2022-01-11"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-CPPPqSCeZxbPa7segREuPa">
           <date when="2022-01-11"/>
+          <time when="14:20:46" dur="PT314S"/>
         </correspAction>
         <correspAction xml:id="i-5NsiRQeh4H48je4EjXxwBR" type="discussed" corresp="i-XBxAbUXD6Qpc9KmdA853AP">
           <date when="2022-01-11"/>

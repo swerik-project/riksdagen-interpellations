@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-CFMcPuBjDh2M8x8iEmFfY7" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2009-08-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C36id8PbkbsYHktYinCExg">
-          <date when="2009-08-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TpyWip2x1pTwaKKxcCBocz" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-08-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-34nw7phTB7KqyvaqHb3VeZ">
-          <date when="2009-08-20"/>
-          <time when="15:22:47" dur="PT158S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TVUJ3fuEqP89v4TVYSySR5" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-08-20"/>
+          <time when="15:22:47" dur="PT158S"/>
         </correspAction>
         <correspContext corresp="i-34nw7phTB7KqyvaqHb3VeZ">
           <ref type="record" target="prot-200809--139">Riksdagens protokoll 2008/09:139 Torsdagen den 20 augusti</ref>

@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-L2KZeDLeFCtLbNDDsEJssq</idno>
             <persName>Sanne Lennström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
+            <persName>Sofia Amloh</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
-            <persName>Sofia Amloh</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-NGtt4T4S6E1vJHgXZ3ASF7" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-04-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BWJQsq81mo5S45wSKfPFwH">
-          <date when="2023-05-12"/>
-          <time when="09:33:00" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9q17c3LFJco465YdidR7az" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-05-12"/>
+          <time when="09:33:00" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-BWJQsq81mo5S45wSKfPFwH">
           <ref type="record" target="prot-202223--108">Protokoll 2022/23:108 Fredagen den 12 maj</ref>

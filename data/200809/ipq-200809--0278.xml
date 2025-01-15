@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Thomas Östros</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-FFSDWX9TDfGx5UydF7dL8i" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2009-01-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3gtQig99kCZpuEEuEm9pwb">
-          <date when="2009-01-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KnUiNYK7TdJvnozo3vnKtK" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-01-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2KcTy3CQpQ6cQrFwimsDoU">
-          <date when="2009-02-13"/>
-          <time when="10:55:28" dur="PT414S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7n9aJrepDtri76VFXJF5re" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-02-13"/>
+          <time when="10:55:28" dur="PT414S"/>
         </correspAction>
         <correspContext corresp="i-2KcTy3CQpQ6cQrFwimsDoU">
           <ref type="record" target="prot-200809--070">Riksdagens protokoll 2008/09:70 Fredagen den 13 februari</ref>

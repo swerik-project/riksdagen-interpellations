@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-CwVjNqMneZm6zhJTP798e5</idno>
             <persName>Helena Bargholtz (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
+            <persName>Carina Moberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-2LbD2ZdwyGQTwozqfyytYD" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
           <date when="2009-03-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TX448KZB5TeaUVij943wom">
-          <date when="2009-03-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-utmHFCQx5UbP9t2oPheZL" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-03-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AKjLv6uxyg1gMQkrXKRxoL">
-          <date when="2009-03-23"/>
-          <time when="11:58:52" dur="PT270S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-35Q6aVc6hjvXqNGEGJnC2Y" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-03-23"/>
+          <time when="11:58:52" dur="PT270S"/>
         </correspAction>
         <correspContext corresp="i-AKjLv6uxyg1gMQkrXKRxoL">
           <ref type="record" target="prot-200809--089">Riksdagens protokoll 2008/09:89 Måndagen den 23 mars</ref>

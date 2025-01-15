@@ -25,28 +25,21 @@
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
             <persName>Ulla Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
@@ -56,18 +49,12 @@
         <correspAction type="sent" xml:id="i-NDA5zARsoaDUjTWQHPxKrd" corresp="i-M5o8cYSRJsbmZdvevomfQX">
           <date when="2008-05-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NoXfEXZtqBUMxi3jNzZ2vH">
-          <date when="2008-05-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-88QNhFcWQCFJtsVm732CXY" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-05-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Fv1RRNA8b6FPn7xnMicdQR">
-          <date when="2008-06-10"/>
-          <time when="09:01:14" dur="PT309S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MqBSUCHodavauUN7U6NFLC" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-06-10"/>
+          <time when="09:01:14" dur="PT309S"/>
         </correspAction>
         <correspContext corresp="i-Fv1RRNA8b6FPn7xnMicdQR">
           <ref type="record" target="prot-200708--125">Riksdagens protokoll 2007/08:125 Tisdagen den 10 juni</ref>

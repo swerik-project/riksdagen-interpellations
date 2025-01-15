@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-BfGcrBSX7Q33BsLgedm7sh" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-03-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3tMXMVfksbcFNq9rPyG1Eg">
-          <date when="2015-04-28"/>
-          <time when="19:00:17" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VqMY7pMAUJHAn45Ygct5wk" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-04-28"/>
+          <time when="19:00:17" dur="PT160S"/>
         </correspAction>
         <correspAction xml:id="i-XNvNfw9sz3hV5ywTcZdDyN" type="discussed" corresp="i-UfuzZaG1S7bnPkLrgux2Au">
           <date when="2015-04-28"/>

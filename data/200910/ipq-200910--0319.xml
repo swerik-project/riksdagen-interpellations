@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
-            <persName>Kalle Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
-            <persName>Kalle Larsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
             <persName>Gunnar Axén (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
+            <persName>Kalle Larsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-MjKsLsZLj4RoFVEdZ8oBqB" corresp="i-mN8mVTBvBYjtHLNThWLo4">
           <date when="2010-03-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G7jQuryH3VZC7EoxMgAm7q">
-          <date when="2010-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CugxTQ8HzwsoyPNbUeHehj" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4E9bDPa4addKKAow9JgWnY">
-          <date when="2010-04-09"/>
-          <time when="11:12:59" dur="PT333S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C1a7c1YSJWGhvNs4dsqoa2" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-04-09"/>
+          <time when="11:12:59" dur="PT333S"/>
         </correspAction>
         <correspContext corresp="i-4E9bDPa4addKKAow9JgWnY">
           <ref type="record" target="prot-200910--101">Riksdagens protokoll 2009/10:101 Fredagen den 9 april</ref>

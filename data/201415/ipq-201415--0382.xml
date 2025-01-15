@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-D6V9ti7ETxin1WbJjDaShE</idno>
             <persName>Nina Lundström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-PiLtoP3CebBrCNKRb3ugZF" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5ByEuspHf4PR3Ds33vX8m4">
-          <date when="2015-03-24"/>
-          <time when="20:35:36" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BywTD3Udj2kJvUzU8TZ5tf">
           <date when="2015-03-24"/>
+          <time when="20:35:36" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-5ByEuspHf4PR3Ds33vX8m4">
           <ref type="record" target="prot-201415--077">Protokoll 2014/15:77 Tisdagen den 24 mars</ref>

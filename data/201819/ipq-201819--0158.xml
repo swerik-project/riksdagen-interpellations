@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-KEqHuEZEbq5NvHHenfRSVW</idno>
             <persName>Johanna Rantsi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8smdfzk59xkArQMXCbPLNs" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-03-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3xroVHqGsaKcMGf8e57wMa">
-          <date when="2019-04-05"/>
-          <time when="11:43:23" dur="PT131S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EqVFNuoHbo4NXwhAfc3NQo">
           <date when="2019-04-05"/>
+          <time when="11:43:23" dur="PT131S"/>
         </correspAction>
         <correspContext corresp="i-3xroVHqGsaKcMGf8e57wMa">
           <ref type="record" target="prot-201819--074">Protokoll 2018/19:74 Fredagen den 5 april</ref>

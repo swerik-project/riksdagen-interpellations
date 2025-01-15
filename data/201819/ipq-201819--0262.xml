@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
             <persName>Jessika Roswall</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Lo7kJp9rvJsZgdfnM8qfrF" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LffsMopJiK2pwpmpGEM36g">
-          <date when="2019-06-11"/>
-          <time when="19:43:42" dur="PT37S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-45fdv7oJfUTFyMLRuLeHHb" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-06-11"/>
+          <time when="19:43:42" dur="PT37S"/>
         </correspAction>
         <correspContext corresp="i-LffsMopJiK2pwpmpGEM36g">
           <ref type="record" target="prot-201819--102">Protokoll 2018/19:102 Tisdagen den 11 juni</ref>

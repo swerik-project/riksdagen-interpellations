@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Berit Johannesson (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-LmkkKmc2XQLDmqAXoGoovP</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-BD6vYugEj8w9U4FyNtGZs4" corresp="i-LmkkKmc2XQLDmqAXoGoovP">
           <date when="1998-11-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4R4TpcUBLn5wzqSBXMhhoK">
+        <correspAction type="received" xml:id="i-4R4TpcUBLn5wzqSBXMhhoK" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CUBHcVjUT73MbiDPRQYu8q">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MHxu5yq7o2YGxSJYoqZfyp">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-MHxu5yq7o2YGxSJYoqZfyp">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-CvmaDbz8ueGm8meSVWj6vr</idno>
-            <persName>Ingvar Svensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-CvmaDbz8ueGm8meSVWj6vr</idno>
-            <persName>Ingvar Svensson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ey2xJ5PQcAYBGtnz2AK3qu</idno>
             <persName>Anti Avsan (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nywj47pd422wBAiv8K2vPV</idno>
             <persName>Jan Ertsborn (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-CvmaDbz8ueGm8meSVWj6vr</idno>
+            <persName>Ingvar Svensson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-F6ni8d2X8zsH8LyQscWa8n" corresp="i-CvmaDbz8ueGm8meSVWj6vr">
           <date when="2007-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WAujK5Txc6xXxBdT5NkcQj">
-          <date when="2007-02-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BFs5Z53qW5p7fseD2fad3q" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PMh82ogwgFAhzDJmVU85D2">
-          <date when="2007-03-20"/>
-          <time when="13:31:59" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GJWEKLKM8ciQYQeKygA6ZF" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-03-20"/>
+          <time when="13:31:59" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-PMh82ogwgFAhzDJmVU85D2">
           <ref type="record" target="prot-200607--078">Riksdagens protokoll 2006/07:78 Tisdagen den 20 mars</ref>

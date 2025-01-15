@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VT6cvk9a2YY7XUX1GNSptq" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UjcwVqWiPEgVsGEvBTdeti">
-          <date when="2024-01-25"/>
-          <time when="12:29:18" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6vdXNKDMXtUhyXNBBFBmZp">
           <date when="2024-01-25"/>
+          <time when="12:29:18" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-UjcwVqWiPEgVsGEvBTdeti">
           <ref type="record" target="prot-202324--061">Protokoll 2023/24:61 Torsdagen den 25 januari</ref>

@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
             <persName>Karin Svensson Smith</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Statsrådet Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Statsrådet Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JyuoWkg9RUZd3XVSA6MfE6</idno>
             <persName>Gunilla Nordgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-T92w1X7PHdTn68t7svWL9M" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2017-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TcUxeFiLLVtSYB1jPbwifN">
-          <date when="2017-12-20"/>
-          <time when="12:14:10" dur="PT241S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Lcxe2ckBbQLVgBCZHDVFFM" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2017-12-20"/>
+          <time when="12:14:10" dur="PT241S"/>
         </correspAction>
         <correspAction xml:id="i-JBT7KLHjVeAXqeHLf3Vio3" type="discussed" corresp="i-JyuoWkg9RUZd3XVSA6MfE6">
           <date when="2017-12-20"/>

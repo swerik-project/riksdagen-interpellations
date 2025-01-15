@@ -26,29 +26,15 @@
         <listPerson>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-7H4PDcMCMUzP6iinK28TBh</idno>
-            <persName>Jonas Andersson i Skellefteå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7H4PDcMCMUzP6iinK28TBh</idno>
             <persName>Jonas Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-82wEsoSGewR68XAdFktFN8" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-03-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HHEkNydeRGQv2tsXcBuFdu">
-          <date when="2021-04-09"/>
-          <time when="10:48:18" dur="PT88S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JLcJnf4VcXhxu4dLoJtdRu">
           <date when="2021-04-09"/>
+          <time when="10:48:18" dur="PT88S"/>
         </correspAction>
         <correspContext corresp="i-HHEkNydeRGQv2tsXcBuFdu">
           <ref type="record" target="prot-202021--105">Protokoll 2020/21:105 Fredagen den 9 april</ref>

@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TKwDinNn4twnLieK52EXRu</idno>
             <persName>Björn Söder</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-Thsf26G9ApRERfKbNSWfua" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-04-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wp2iRzHUF55bh7DVe7iu1g">
-          <date when="2022-04-19"/>
-          <time when="15:18:23" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4XHM9okQGtdrtfYxfoQcN8">
           <date when="2022-04-19"/>
+          <time when="15:18:23" dur="PT198S"/>
         </correspAction>
         <correspAction xml:id="i-CJKZQ327KnDcfRx4z4vAu4" type="discussed" corresp="i-TKwDinNn4twnLieK52EXRu">
           <date when="2022-04-19"/>

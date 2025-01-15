@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
           </person>
           <person gender="woman">
-            <persName>so­cialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-SnCyEVwWwbe2ZJrcuiY1NX" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
           <date when="1996-11-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8UHuoZZ4KWHPgG7FZ9hUTc">
+        <correspAction type="received" xml:id="i-8UHuoZZ4KWHPgG7FZ9hUTc" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>so­cialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KnuLb1YtBJQkHVaGxX3WAd">
           <note>Besvarad</note>

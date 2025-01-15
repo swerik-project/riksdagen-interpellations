@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
             <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Jbr8UBmpA1HrpjdNc54Pck" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2016-09-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XggUpmJy9AFaUnaC2weixh">
-          <date when="2016-10-11"/>
-          <time when="15:50:59" dur="PT186S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2LVxxmVeA7zs12BdYzU4TH">
           <date when="2016-10-11"/>
+          <time when="15:50:59" dur="PT186S"/>
         </correspAction>
         <correspContext corresp="i-XggUpmJy9AFaUnaC2weixh">
           <ref type="record" target="prot-201617--012">Protokoll 2016/17:12 Tisdagen den 11 oktober</ref>

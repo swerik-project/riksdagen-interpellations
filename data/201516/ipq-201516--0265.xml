@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialförsäkringsminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SZBjqV7W7WRQh6kHtH9oS2" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2015-12-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SE4sb8xLY7dkgybW7bL4qB">
-          <date when="2016-01-12"/>
-          <time when="15:01:46" dur="PT88S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S9BqC3RG7sC2vGVf5trzyD">
           <date when="2016-01-12"/>
+          <time when="15:01:46" dur="PT88S"/>
         </correspAction>
         <correspContext corresp="i-SE4sb8xLY7dkgybW7bL4qB">
           <ref type="record" target="prot-201516--050">Protokoll 2015/16:50 Tisdagen den 12 januari</ref>

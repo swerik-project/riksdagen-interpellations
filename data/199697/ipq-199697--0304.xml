@@ -24,30 +24,30 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-B2r1Mf3WtGfxogpsDP9r2C" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
-          <date when="1996-05-13"/>
+          <date when="1997-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C1yZYMULdey2UMzVs9dzXb">
+        <correspAction type="received" xml:id="i-C1yZYMULdey2UMzVs9dzXb" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-V3vwQDoN1c1fwFmnS9Ngnp">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-FTp2p7Pb8of6HpWMDpKx5L">
-          <date when="1996-06-02"/>
+          <date when="1997-06-02"/>
         </correspAction>
         <correspContext corresp="i-FTp2p7Pb8of6HpWMDpKx5L">
           <ref type="record" target="prot-199697--112">Prot. 1996/97:112</ref>

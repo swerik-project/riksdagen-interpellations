@@ -25,43 +25,29 @@
           <person gender="woman">
             <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
             <persName>Ann-Christin Ahlberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Ybn2iQsjS3qJUYAL9q8zCq" corresp="i-79cRBqVjCpwABr2BiKwH7S">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CRwdzGNidjacog73dKZKxe">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YLLDETcfctXBL29GaTirXB" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-pmo9Z1gPXNxcNYVjqnkyJ">
-          <date when="2008-05-28"/>
-          <time when="09:03:16" dur="PT438S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-54gFfDxd4iaqYLXZ2mTGqM" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-28"/>
+          <time when="09:03:16" dur="PT438S"/>
         </correspAction>
         <correspContext corresp="i-pmo9Z1gPXNxcNYVjqnkyJ">
           <ref type="record" target="prot-200708--119">Riksdagens protokoll 2007/08:119 Onsdagen den 28 maj</ref>

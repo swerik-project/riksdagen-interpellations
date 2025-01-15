@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-YVn7bHWq33ziBuqm8fKFGq</idno>
             <persName>Per-Ingvar Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Pa6chkpCrWW1PaaqwzvmgD" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CNorXFicXrKeNJ6wCHFHiE">
-          <date when="2018-05-25"/>
-          <time when="11:37:14" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-cgCW89tUrKuZ1QgiB9uqc">
           <date when="2018-05-25"/>
+          <time when="11:37:14" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-CNorXFicXrKeNJ6wCHFHiE">
           <ref type="record" target="prot-201718--119">Protokoll 2017/18:119 Fredagen den 25 maj</ref>

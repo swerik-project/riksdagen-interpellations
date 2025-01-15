@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-LHnM4Er87J2DaH7xRg62zz</idno>
             <persName>Roger Tiefensee (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-8Z5NxMLfoswRdDd9S6RV6c" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-D5yuejLPnmuAsbgSb9ozJh">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AxKDssiNmuvveeDeQk6JTM" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FJ4ptMqdrud3Qgey349y3H">
-          <date when="2010-06-28"/>
-          <time when="17:56:49" dur="PT249S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5C8ptXHE5zYCZfeVJWYF4h" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-06-28"/>
+          <time when="17:56:49" dur="PT249S"/>
         </correspAction>
         <correspContext corresp="i-FJ4ptMqdrud3Qgey349y3H">
           <ref type="record" target="prot-200910--144">Riksdagens protokoll 2009/10:144 Måndagen den 28 juni</ref>

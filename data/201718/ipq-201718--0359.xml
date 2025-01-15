@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-HSoMb9VvPsdW3hSn6Lz5pV" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-02-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AcoqW9dECfLkjMHtYooTKN">
-          <date when="2018-02-16"/>
-          <time when="10:43:05" dur="PT81S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Fs5okT5x19WYZCHU7FabZU">
           <date when="2018-02-16"/>
+          <time when="10:43:05" dur="PT81S"/>
         </correspAction>
         <correspContext corresp="i-AcoqW9dECfLkjMHtYooTKN">
           <ref type="record" target="prot-201718--074">Protokoll 2017/18:74 Fredagen den 16 februari</ref>

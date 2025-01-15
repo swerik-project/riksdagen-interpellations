@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-BhkutgRG5mRr9ggME6pjqE" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2020-12-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NWVYof1eD3WYu1baGoLCD9">
-          <date when="2021-01-14"/>
-          <time when="12:23:29" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UBjeQ8pp9wGTMRJg8LcrvF">
           <date when="2021-01-14"/>
+          <time when="12:23:29" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-NWVYof1eD3WYu1baGoLCD9">
           <ref type="record" target="prot-202021--064">Protokoll 2020/21:64 Torsdagen den 14 januari</ref>

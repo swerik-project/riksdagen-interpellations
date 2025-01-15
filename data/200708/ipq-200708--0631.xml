@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
             <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
+            <persName>Fredrik Reinfeldt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-MK763RqbnnqzJYXynHRwbh" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2008-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8FDRzezK8qG9BUHFbpPbRs">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RpMB5dcqxDBx9nfPW7o12t" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Pxd5FViUwGtg7HgF3BcmvZ">
-          <date when="2008-05-09"/>
-          <time when="13:00:23" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LdEwWLbFyBC5v79AmJxhJ7" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2008-05-09"/>
+          <time when="13:00:23" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-Pxd5FViUwGtg7HgF3BcmvZ">
           <ref type="record" target="prot-200708--108">Riksdagens protokoll 2007/08:108 Fredagen den 9 maj</ref>

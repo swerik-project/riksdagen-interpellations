@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Torsten Gavelin (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NFZydMJZ1urVXKsZJTsWka</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-B6LaEmQQs5hsE5kSNfKmqR" corresp="i-NFZydMJZ1urVXKsZJTsWka">
           <date when="1997-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SPcwGGpwANtzqgxNujS5s9">
+        <correspAction type="received" xml:id="i-SPcwGGpwANtzqgxNujS5s9" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-UFFXBDPD9H2Bqcpsgtw5io">
           <note>Besvarad</note>

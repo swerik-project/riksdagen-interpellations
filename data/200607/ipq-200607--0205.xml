@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
-            <persName>Hans Wallmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
-            <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hans Wallmark</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-XHbVVL4ZRgPhFXdz8RwSK2" corresp="i-9xarzmckV5SS8EyJPN5b3x">
           <date when="2006-12-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8hcwxYLcp6PsCF85ZR5673">
-          <date when="2007-01-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SA5S9r9KBXEVBLWw9hXm7n" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-M3QC8LMobkD1JcGL6FHifB">
-          <date when="2007-01-19"/>
-          <time when="11:31:24" dur="PT196S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-vfNGgMNJHU3b72VG5PFbk" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-19"/>
+          <time when="11:31:24" dur="PT196S"/>
         </correspAction>
         <correspContext corresp="i-M3QC8LMobkD1JcGL6FHifB">
           <ref type="record" target="prot-200607--051">Riksdagens protokoll 2006/07:51 Fredagen den 19 januari</ref>

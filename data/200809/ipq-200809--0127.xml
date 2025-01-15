@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
-            <persName>Hans Stenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
-            <persName>Hans Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hans Stenberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5njQP8mnSSX9KGSAbiCXJV" corresp="i-JERWRnB227uTCW6FGLWfYs">
           <date when="2008-11-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-65sPxBQiWcFjA3gQukUBtm">
-          <date when="2008-11-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Xd7FZEvoFdrVw3t2QMBpyF" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-11-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UUQXwH2YDLuo9SgaMuYZRQ">
-          <date when="2008-11-25"/>
-          <time when="14:21:24" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2jA3Lnx6NGz6gmZoBsPvUe" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-11-25"/>
+          <time when="14:21:24" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-UUQXwH2YDLuo9SgaMuYZRQ">
           <ref type="record" target="prot-200809--035">Riksdagens protokoll 2008/09:35 Tisdagen den 25 november</ref>

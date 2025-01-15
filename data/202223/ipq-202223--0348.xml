@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-JZgLiagTc1Uwgw1yzLWrSS</idno>
             <persName>Birger Lahti</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U8W4uUAKEoMtNdRs3JJRK8</idno>
             <persName>Kajsa Fredholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
+            <persName>Romina Pourmokhtari</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-8gKXEnnTK3KGNe5R7WwnWJ" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J73wJGXuJukZVXfEWStv2h">
-          <date when="2023-06-02"/>
-          <time when="12:47:03" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HeuYiyLNrRJeKE5emivmWU" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-06-02"/>
+          <time when="12:47:03" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-J73wJGXuJukZVXfEWStv2h">
           <ref type="record" target="prot-202223--118">Protokoll 2022/23:118 Fredagen den 2 juni</ref>

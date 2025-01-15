@@ -20,8 +20,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -29,22 +29,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-ACG3sZoTU43N4ab2hhwKkp" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
-          <date when="1998-03-08"/>
+          <date when="1999-03-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3wWaLCDF4BRMtX2gBX4TjV">
+        <correspAction type="received" xml:id="i-3wWaLCDF4BRMtX2gBX4TjV" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MBNzej1EYFdr9s2mPfZ8xE">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-EX3fCEr3wq4v5B2RRiTNye">
-          <date when="1998-04-15"/>
+          <date when="1999-04-15"/>
         </correspAction>
         <correspContext corresp="i-EX3fCEr3wq4v5B2RRiTNye">
           <ref type="record" target="prot-199899--080">Prot. 1998/99:80</ref>

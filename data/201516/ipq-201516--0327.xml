@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-Xzt52E3ZeNyJ9HLW4B5Sk1</idno>
             <persName>Statsminister Stefan Löfven</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-HYqdAmFUDg9SjffVwv14xj" corresp="i-Xzt52E3ZeNyJ9HLW4B5Sk1">
           <date when="2016-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9qLu4KZBZA4CkXKTEdMCYP">
-          <date when="2016-02-12"/>
-          <time when="09:35:11" dur="PT105S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TkEqp8cTwLK4L2SjxvmZP8" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-02-12"/>
+          <time when="09:35:11" dur="PT105S"/>
         </correspAction>
         <correspContext corresp="i-9qLu4KZBZA4CkXKTEdMCYP">
           <ref type="record" target="prot-201516--067">Protokoll 2015/16:67 Fredagen den 12 februari</ref>

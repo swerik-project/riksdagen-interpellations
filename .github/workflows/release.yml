@@ -26,6 +26,7 @@ jobs:
         pip install pyriksdagen
         pip install pytest-cfg-fetcher
         pip install cycler
+
     - name: Zip data
       run: zip -r interpellation-questions.zip data
 
@@ -33,5 +34,6 @@ jobs:
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: interpellation-questions.zip
+        file: ./*.zip
         tag: ${{ github.ref }}
+        file_glob: true

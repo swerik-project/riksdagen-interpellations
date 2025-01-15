@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
             <persName>Eva Nordmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-RaTuyPpwmnadqd93FHppmJ" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2021-09-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SRbcEgUicquFAoR2ywF5st">
-          <date when="2021-09-23"/>
-          <time when="13:00:24" dur="PT202S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WK5xzQZY1gLg8UEY9UgxsQ" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2021-09-23"/>
+          <time when="13:00:24" dur="PT202S"/>
         </correspAction>
         <correspContext corresp="i-SRbcEgUicquFAoR2ywF5st">
           <ref type="record" target="f-lista-202122--009">Torsdag den 23 september 2021</ref>

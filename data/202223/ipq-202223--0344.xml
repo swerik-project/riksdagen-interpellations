@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TMwpsik9bguNXgjB4GcxTS</idno>
             <persName>Jessica Stegrud</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
+            <persName>Ebba Busch</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-HMXu84tkjzukBn3yt9Rpx4" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PcpbV7JD6T1jqX28RbjcMC">
-          <date when="2023-05-29"/>
-          <time when="11:48:24" dur="PT282S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SekcamogmdH3LGntmHxFpK">
           <date when="2023-05-29"/>
+          <time when="11:48:24" dur="PT282S"/>
         </correspAction>
         <correspContext corresp="i-PcpbV7JD6T1jqX28RbjcMC">
           <ref type="record" target="prot-202223--114">Protokoll 2022/23:114 Måndagen den 29 maj</ref>

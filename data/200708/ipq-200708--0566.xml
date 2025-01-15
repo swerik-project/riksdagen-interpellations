@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
             <persName>Carina Moberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-GDFdKPNRdaGpkLXrouuiC1</idno>
             <persName>Johan Löfstrand (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RG53TqqFvtUmqCEyY2Sic2" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
           <date when="2008-04-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GUWEzuC5yeRS4oPVCmpsd">
-          <date when="2008-04-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-S5nitGT6zAH3KfcwTM3WTF" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-04-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3okfAh6AHC7CBFWZVzo5GA">
-          <date when="2008-06-03"/>
-          <time when="12:07:24" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-311qbWLGwmFak8vU1P4EyK" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-06-03"/>
+          <time when="12:07:24" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-3okfAh6AHC7CBFWZVzo5GA">
           <ref type="record" target="prot-200708--121">Riksdagens protokoll 2007/08:121 Tisdagen den 3 juni</ref>

@@ -22,46 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
+            <persName>Amineh Kakabaveh</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-9CZXbGQ1hEPxhNnvLToTJw" corresp="i-548HUVvKe8n48M3pQmFeUC">
           <date when="2010-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MNdkd82b8KmBUHijzdiFeK">
-          <date when="2010-02-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-L49uv2Kc3J6howZ2JhvNuT" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ANFU4VQp1H6TAbTBwJtWyU">
-          <date when="2010-03-09"/>
-          <time when="14:39:56" dur="PT262S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EVSihUMo6f3LYyNhSbeKu6" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2010-03-09"/>
+          <time when="14:39:56" dur="PT262S"/>
         </correspAction>
         <correspContext corresp="i-ANFU4VQp1H6TAbTBwJtWyU">
           <ref type="record" target="prot-200910--084">Riksdagens protokoll 2009/10:84 Tisdagen den 9 mars</ref>

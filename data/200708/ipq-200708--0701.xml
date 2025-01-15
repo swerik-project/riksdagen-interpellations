@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-KyLTsBLmv5zVGDK9oxrSui" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AscZRStBc1sckx5Ef3947y">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-K52uVBWnSee2E7jyjihMjX" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KUh1HBujJgzzoPjs4NpWHx">
-          <date when="2008-06-02"/>
-          <time when="17:15:17" dur="PT192S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NrHYfZdCLJ4nuwcyZuUFZ1" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-06-02"/>
+          <time when="17:15:17" dur="PT192S"/>
         </correspAction>
         <correspContext corresp="i-KUh1HBujJgzzoPjs4NpWHx">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

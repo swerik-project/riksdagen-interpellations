@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2gdhKsYbFKrYAjvLBT3vRj" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-03-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2Kdy8WH6RVX2DioGZ7m6oX">
-          <date when="2022-04-19"/>
-          <time when="18:00:29" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NuWZ684f1VnnttbCk3J893" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-04-19"/>
+          <time when="18:00:29" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-2Kdy8WH6RVX2DioGZ7m6oX">
           <ref type="record" target="prot-202122--098">Protokoll 2021/22:98 Tisdagen den 19 april</ref>

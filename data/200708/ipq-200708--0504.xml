@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-BxKeqRuHQxqBcMSe4AAJ8M" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9AngcHdEDznnYnbFq457aT">
-          <date when="2008-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5u2APfjYctYi1CyuLxFG6p" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XvYzqpjK19qBURL12hzeEq">
-          <date when="2008-04-11"/>
-          <time when="15:05:47" dur="PT336S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LehMtZ2J6ZXSxZARQzhGkU" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-04-11"/>
+          <time when="15:05:47" dur="PT336S"/>
         </correspAction>
         <correspContext corresp="i-XvYzqpjK19qBURL12hzeEq">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

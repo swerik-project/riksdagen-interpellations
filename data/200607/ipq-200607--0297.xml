@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
             <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
             <persName>Chatrine Pålsson Ahlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
-            <persName>Chatrine Pålsson Ahlgren (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-PZ9yH6AQiFVrtyD32KaSPB" corresp="i-WJM6edqhGfBK1ijhNxfgoj">
           <date when="2007-02-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QhfiM2GD8F27VJPHM1f7uu">
-          <date when="2007-02-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Bj7WnV7YKdD5rLuHicofL6" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WiUMxym4Uq23gKr3rCaSrZ">
-          <date when="2007-03-20"/>
-          <time when="15:39:13" dur="PT211S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-N8KoyEG4J2FK6jS9VVfVSk" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-03-20"/>
+          <time when="15:39:13" dur="PT211S"/>
         </correspAction>
         <correspContext corresp="i-WiUMxym4Uq23gKr3rCaSrZ">
           <ref type="record" target="prot-200607--078">Riksdagens protokoll 2006/07:78 Tisdagen den 20 mars</ref>

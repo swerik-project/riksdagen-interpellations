@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
             <persName>Torbjörn Björlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-86kQTviTQVqFn27AKdTELa" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-05-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5JJkZXuts22mAyi1jcJ7JR">
-          <date when="2015-06-12"/>
-          <time when="09:00:52" dur="PT208S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-49tLbmNVrH1r1Zgg1DFNwp" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-06-12"/>
+          <time when="09:00:52" dur="PT208S"/>
         </correspAction>
         <correspContext corresp="i-5JJkZXuts22mAyi1jcJ7JR">
           <ref type="record" target="prot-201415--115">Protokoll 2014/15:115 Fredagen den 12 juni</ref>

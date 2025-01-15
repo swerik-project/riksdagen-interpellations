@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-BpN4e3VEgNvyoJBSQQnKkp" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-09-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ECiyRTCVKYgHpsKZ7U9Cko">
-          <date when="2021-10-19"/>
-          <time when="13:51:19" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XbHn6QnhzNFfULfbSh33Nc" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-10-19"/>
+          <time when="13:51:19" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-ECiyRTCVKYgHpsKZ7U9Cko">
           <ref type="record" target="prot-202122--017">Protokoll 2021/22:17 Tisdagen den 19 oktober</ref>

@@ -22,87 +22,74 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CetFkRWST91ShCPmaZKsM4</idno>
             <persName>Jan Andersson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-P6GXEpfWYY5DKdSc7Fjw38">
-          <date when="2008-02-12"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-C2CMqtj2tnz9xr4M2FMKX9" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2008-02-07"/>
         </correspAction>
         <correspAction type="received" xml:id="i-9n7jJv3S5VVPSa6enwbszp" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CkXgBV1WPoUZJWdXvEzzmn">
-          <date when="2008-03-11"/>
-          <time when="13:53:04" dur="PT94S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4TAerogjjuq6tNbTsPXULK" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-03-11"/>
+          <time when="13:53:04" dur="PT94S"/>
         </correspAction>
         <correspContext corresp="i-CkXgBV1WPoUZJWdXvEzzmn">
           <ref type="record" target="prot-200708--076">Riksdagens protokoll 2007/08:76 Tisdagen den 11 mars</ref>

@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
             <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
             <persName>Eva Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
-            <persName>Eva Johnsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-UgpRd1PebT1cQUTgvJBH5U" corresp="i-W4ZdT3cRpUqSBcZCGKXaji">
           <date when="2008-11-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-623awnSYERWgQqC1jPdopn">
-          <date when="2008-11-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2rqfoHNQ4TDZAZtSU57Koe" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-11-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2hxopDqENMokEUmPSqimaf">
-          <date when="2008-12-02"/>
-          <time when="21:52:05" dur="PT243S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PCUogN82aTxRpBA7omPHYj" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-12-02"/>
+          <time when="21:52:05" dur="PT243S"/>
         </correspAction>
         <correspContext corresp="i-2hxopDqENMokEUmPSqimaf">
           <ref type="record" target="prot-200809--040">Riksdagens protokoll 2008/09:40 Tisdagen den 2 december</ref>

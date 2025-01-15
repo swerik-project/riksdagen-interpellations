@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Klimat- och miljöminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Klimat- och miljöminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
+            <persName>Jens Holm</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
-            <persName>Jens Holm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-FtcJUExMU3vyxizL9oDzNE" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2022-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JdUqrYWufQPftmGmha6cNg">
-          <date when="2022-06-27"/>
-          <time when="14:03:27" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Tzvg3eAP6HzSMaipQeGcoj" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2022-06-27"/>
+          <time when="14:03:27" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-JdUqrYWufQPftmGmha6cNg">
           <ref type="record" target="prot-202122--137">Protokoll 2021/22:137 Måndagen den 27 juni</ref>

@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
             <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lars Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Yb8mVoDRHQ2oPUGHTZ7qS" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SPfnq1PyzNYs85g18CUtTn">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Y5hYbakpfBkGdNYe37xDUw" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WELDxbrTrYQtvmrUcNS7VJ">
-          <date when="2009-05-25"/>
-          <time when="11:38:28" dur="PT328S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HcSgF1iuwP1ssdHFsas81X" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2009-05-25"/>
+          <time when="11:38:28" dur="PT328S"/>
         </correspAction>
         <correspContext corresp="i-WELDxbrTrYQtvmrUcNS7VJ">
           <ref type="record" target="prot-200809--123">Riksdagens protokoll 2008/09:123 Måndagen den 25 maj</ref>

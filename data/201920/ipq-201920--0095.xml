@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-JBACFC4pEsZecZL92334e6" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-11-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SHMjKYCiaoqiyaXPiQSE7m">
-          <date when="2019-11-19"/>
-          <time when="14:06:53" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5eaC1KVRKdXRtEB5Jwpk3D" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-11-19"/>
+          <time when="14:06:53" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-SHMjKYCiaoqiyaXPiQSE7m">
           <ref type="record" target="prot-201920--034">Protokoll 2019/20:34 Tisdagen den 19 november</ref>

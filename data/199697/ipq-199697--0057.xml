@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Gullan Lindblad (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-5sxzSZSUx9KLqvREcwz58f</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-NEXuu8qXcUzc4Fc61RvS66" corresp="i-5sxzSZSUx9KLqvREcwz58f">
           <date when="1996-11-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-L73hPs7goj3YfaQkZ9xNQ4">
+        <correspAction type="received" xml:id="i-L73hPs7goj3YfaQkZ9xNQ4" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-ADL7WrLwkSdApd8CqPN16c">
           <note>Besvarad</note>

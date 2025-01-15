@@ -27,49 +27,35 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Miljö- och klimatminister Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Miljö- och klimatminister Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KNRqa17M8avm4WSafSQiUy</idno>
             <persName>Elin Segerlind</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2D6mwMLvYjVnxu8WpPCAeL</idno>
             <persName>Lorentz Tovatt</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
+            <persName>Isabella Lövin</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-NZnLzMNLE7jLmCwnJBzwyG" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2020-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DMMzUGCek9DMv7GDzweZZK">
-          <date when="2021-01-15"/>
-          <time when="09:03:08" dur="PT230S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Nij5zRTpRQCTkh8b7gFWHx" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2021-01-15"/>
+          <time when="09:03:08" dur="PT230S"/>
         </correspAction>
         <correspAction xml:id="i-Ka6NGUFGetX8tfRbtRsLXL" type="discussed" corresp="i-KNRqa17M8avm4WSafSQiUy">
           <date when="2021-01-15"/>

@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HMf3KYjw3nvgVVjUa7gnGs</idno>
-            <persName>Magdalena Streijffert</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HMf3KYjw3nvgVVjUa7gnGs</idno>
-            <persName>Magdalena Streijffert (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Magdalena Streijffert</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-84MYTHWRxSNJsjJkTE57j4" corresp="i-HMf3KYjw3nvgVVjUa7gnGs">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C9uipw9wsw4dMQr7XaiWjg">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HFm9GXZz9wgzGyn1sBHcim" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TMdoRWSpQD9MZBrorxxace">
-          <date when="2009-06-08"/>
-          <time when="13:00:55" dur="PT338S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4SFEyKHMhRWrFXghBuw4Ed" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-06-08"/>
+          <time when="13:00:55" dur="PT338S"/>
         </correspAction>
         <correspContext corresp="i-TMdoRWSpQD9MZBrorxxace">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TECanR77Prb79DHwPvLitN</idno>
-            <persName>Annelie Enochson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TECanR77Prb79DHwPvLitN</idno>
-            <persName>Annelie Enochson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Bs6HAugbEikWxWig1ej69y</idno>
             <persName>Lennart Sacrédeus (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TECanR77Prb79DHwPvLitN</idno>
+            <persName>Annelie Enochson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-PiH7QMtd9Uy6EovE9AQtNp" corresp="i-TECanR77Prb79DHwPvLitN">
           <date when="2008-01-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Lcoq8f5GuY1C1RAQjdTvHS">
-          <date when="2008-01-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JiPmZpqnmodYYHDzJFXfHH" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-01-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Rn4jASu78fouNhwAumUA6b">
-          <date when="2008-02-19"/>
-          <time when="14:45:29" dur="PT353S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U53pFT25wdJsUoBzkzxhRr" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-02-19"/>
+          <time when="14:45:29" dur="PT353S"/>
         </correspAction>
         <correspContext corresp="i-Rn4jASu78fouNhwAumUA6b">
           <ref type="record" target="prot-200708--067">Riksdagens snabbprotokoll 2007/08:67 Tisdagen den 19 februari</ref>

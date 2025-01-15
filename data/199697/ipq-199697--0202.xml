@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Gudrun Lindvall (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-PvJTHCyJiaxUeJhG5osdHg</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-AmAdQfCA6FF4Bwv8RMpTTJ" corresp="i-PvJTHCyJiaxUeJhG5osdHg">
-          <date when="1996-02-24"/>
+          <date when="1997-02-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MUM21wBt1VEMvZpw2EMJ9p">
+        <correspAction type="received" xml:id="i-MUM21wBt1VEMvZpw2EMJ9p" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TbsZmqpWYqp46718TncWek">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-8CQztBsVC2Vp8vxiSKB9Py">
-          <date when="1996-04-10"/>
+          <date when="1997-04-10"/>
         </correspAction>
         <correspContext corresp="i-8CQztBsVC2Vp8vxiSKB9Py">
           <ref type="record" target="prot-199697--087">Prot. 1996/97:87</ref>

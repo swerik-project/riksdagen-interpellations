@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QS3FCcuDyGgZdKgE3VDjZ9</idno>
             <persName>Niels Paarup-Petersen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
             <persName>Niklas Sigvardsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
+            <persName>Lotta Edholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-E6nhdgYPcHgQcPuRJsyhA4" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YHMTQ7XCGfyoBxouF72nMp">
-          <date when="2023-12-11"/>
-          <time when="13:29:24" dur="PT251S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LLSQQt4q93s7mcHBpTrDkJ">
           <date when="2023-12-11"/>
+          <time when="13:29:24" dur="PT251S"/>
         </correspAction>
         <correspContext corresp="i-YHMTQ7XCGfyoBxouF72nMp">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

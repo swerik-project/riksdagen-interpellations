@@ -21,32 +21,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>Kerstin Wamerbrmg (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Kerstin Warnerbring</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-CakSt71sHecUuCwQm5ALoP</idno>
           </person>
           <person gender="woman">
-            <persName>kommunika­tionsministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-YYjtTxV1FTcvjaZw2t8ekV">
-          <name/>
-          <date when="1997-01-20"/>
+        <correspAction type="sent" xml:id="i-YYjtTxV1FTcvjaZw2t8ekV" corresp="i-CakSt71sHecUuCwQm5ALoP">
+          <date when="1998-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4z3Ho2N3DYExiTptrc3fyc">
+        <correspAction type="received" xml:id="i-4z3Ho2N3DYExiTptrc3fyc" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunika­tionsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4wY4WGSgkLs13WswfwYqEM">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-D8edLBoS7iocfr8DYyPy6m">
-          <date when="1997-02-10"/>
+          <date when="1998-02-10"/>
         </correspAction>
         <correspContext corresp="i-D8edLBoS7iocfr8DYyPy6m">
           <ref type="record" target="prot-199798--064">Prot. 1997/98:64</ref>

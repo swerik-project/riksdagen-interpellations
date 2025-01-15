@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-4fjwccvGrtcBzgdzdxhXhs</idno>
             <persName>Jörgen Warborn</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
+            <persName>Ardalan Shekarabi</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-HmjZfRCLSFN4WzXdD44Vfd" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2018-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JhFnKSSdLzaD5Hq5PJW9ei">
-          <date when="2018-04-10"/>
-          <time when="14:49:18" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9DKqQAbuXaH63tXvgqwCo1" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2018-04-10"/>
+          <time when="14:49:18" dur="PT151S"/>
         </correspAction>
         <correspAction xml:id="i-HhHrvddUVYjdLxxqoUzmpo" type="discussed" corresp="i-Mf3zjD1SVGBHTEHbp1Vz4A">
           <date when="2018-04-10"/>

@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
-            <persName>Krister Örnfjäder</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
-            <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
+            <persName>Krister Örnfjäder</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-GkQNQx9GYuRkVAGbqMfzrL" corresp="i-122QwSSpyGJQiTJjmrUJCM">
           <date when="2007-09-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-N5wx6tmXaucbUB3rGY4Ysx">
-          <date when="2007-09-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WtTUe7DAb3XRAVreojWH6F" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2007-09-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XrsfTi8UeDeQkZdiDGua1x">
-          <date when="2007-10-16"/>
-          <time when="20:43:55" dur="PT232S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LL2fzagByXPencb1oS5bWL" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2007-10-16"/>
+          <time when="20:43:55" dur="PT232S"/>
         </correspAction>
         <correspContext corresp="i-XrsfTi8UeDeQkZdiDGua1x">
           <ref type="record" target="prot-200708--010">Riksdagens protokoll 2007/08:10 Tisdagen den 16 oktober</ref>

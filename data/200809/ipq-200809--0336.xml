@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
             <persName>Ann-Kristine Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-P2x4fiHNXrW2XTzJZRJeJJ</idno>
             <persName>Bengt-Anders Johansson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
+            <persName>Bo Bernhardsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-4JPiB8VJaLMQgPduzqnrde" corresp="i-MKm68HiDPih8eisvsh6GJg">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KcSUWfLSf56CVh9Z7AemaP">
-          <date when="2009-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-G28f5PvW2FmZjz949z9NCC" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FFrU7jEfqFVpFRDs51WXYT">
-          <date when="2009-02-24"/>
-          <time when="13:32:02" dur="PT365S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2mKTMutM2MwhwtdZ2fvdPv" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-02-24"/>
+          <time when="13:32:02" dur="PT365S"/>
         </correspAction>
         <correspContext corresp="i-FFrU7jEfqFVpFRDs51WXYT">
           <ref type="record" target="prot-200809--076">Riksdagens protokoll 2008/09:76 Tisdagen den 24 februari</ref>

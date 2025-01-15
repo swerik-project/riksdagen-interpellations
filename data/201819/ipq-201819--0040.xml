@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8eW9PBFTe9YzoBCbAvSH57" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2019-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XbzFUBjWwhdkXdutatwVdR">
-          <date when="2019-02-12"/>
-          <time when="20:52:30" dur="PT148S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SajdjGKdpsXynSHzZFmwUe">
           <date when="2019-02-12"/>
+          <time when="20:52:30" dur="PT148S"/>
         </correspAction>
         <correspContext corresp="i-XbzFUBjWwhdkXdutatwVdR">
           <ref type="record" target="prot-201819--051">Protokoll 2018/19:51 Tisdagen den 12 februari</ref>

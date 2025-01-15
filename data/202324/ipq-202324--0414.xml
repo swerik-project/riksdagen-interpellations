@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
             <persName>Parisa Liljestrand</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-KJuNsP447tB82JgnrP8MtC" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2024-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XYEyr2hxHAC43L89Bi1xNz">
-          <date when="2024-02-13"/>
-          <time when="19:31:35" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VpoFqPqJ1PZz8aK8F9Qc9m">
           <date when="2024-02-13"/>
+          <time when="19:31:35" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-XYEyr2hxHAC43L89Bi1xNz">
           <ref type="record" target="prot-202324--070">Protokoll 2023/24:70 Tisdagen den 13 februari</ref>

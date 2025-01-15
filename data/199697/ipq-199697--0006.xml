@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Mats Odell (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-JnCCqeBMNULZb8r9jEc1oQ" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="1996-09-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HyKx2hNixZ8cBW3HNWYB6E">
+        <correspAction type="received" xml:id="i-HyKx2hNixZ8cBW3HNWYB6E" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5teacFvcqbbKXbQaCxyYkG">
           <note>Besvarad</note>

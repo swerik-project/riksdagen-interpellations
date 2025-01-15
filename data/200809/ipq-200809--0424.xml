@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-GHweeGmZb5BiP1XnZGrF8T" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2009-03-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-W6TNfPiSMPh2soqB3AnAQS">
-          <date when="2009-03-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HVH14zwtdVKRvSnWyaZLxF" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-03-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WuofMQxdPHtfwyRKZmkiPG">
-          <date when="2009-05-08"/>
-          <time when="12:40:32" dur="PT224S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-14LNdnicVuure1fVfSoEJa" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-05-08"/>
+          <time when="12:40:32" dur="PT224S"/>
         </correspAction>
         <correspContext corresp="i-WuofMQxdPHtfwyRKZmkiPG">
           <ref type="record" target="prot-200809--114">Riksdagens protokoll 2008/09:114 Fredagen den 8 maj</ref>

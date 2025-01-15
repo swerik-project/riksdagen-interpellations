@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
             <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-N6uUnY7oo3JWsKKvcPcBka" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2009-03-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Qsja7LfCqa4EG3fuQHoEcc">
-          <date when="2009-03-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-82DkA9cCQFmHdkC3JBwjBH" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-03-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4rF3B1xGcwSFTMBYSnYXdN">
-          <date when="2009-04-03"/>
-          <time when="09:27:17" dur="PT457S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TN5URiSi75gs3Wyz9RjstE" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-04-03"/>
+          <time when="09:27:17" dur="PT457S"/>
         </correspAction>
         <correspContext corresp="i-4rF3B1xGcwSFTMBYSnYXdN">
           <ref type="record" target="prot-200809--097">Riksdagens protokoll 2008/09:97 Fredagen den 3 april</ref>

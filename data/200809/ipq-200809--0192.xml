@@ -23,45 +23,25 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
-            <persName>Marianne Berg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
-            <persName>Marianne Berg (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Marianne Berg</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="answered" xml:id="i-Jh3ptWoqBAYdccprjm8ikJ">
-          <date when="2008-12-16"/>
-          <time when="13:06:04" dur="PT311S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AJzPpXmpu6VNxKZFn2YWeN">
           <date when="2008-12-16"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-RNrCPQcsghtpszoQDzBKhN">
-          <date when="2008-12-08"/>
+          <time when="13:06:04" dur="PT311S"/>
         </correspAction>
         <correspAction type="received" xml:id="i-UiaodDnJxRgcVTwjX7SEZX" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-12-08"/>

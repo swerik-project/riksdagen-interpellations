@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-VwrMtDR2d6XZNzousqaPto</idno>
             <persName>Hanna Wagenius</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CdKPr5PV7B8cJEHJFtQGGn</idno>
             <persName>Peter Helander</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
+            <persName>Anna-Caren Sätherberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-3shB6MEjmAEVg1QKwZ9qVM" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2022-04-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7xY3K6G5NyaCLU6zKN6mVp">
-          <date when="2022-05-10"/>
-          <time when="15:45:01" dur="PT212S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XgBJn13fftejnfmRy3834f" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2022-05-10"/>
+          <time when="15:45:01" dur="PT212S"/>
         </correspAction>
         <correspContext corresp="i-7xY3K6G5NyaCLU6zKN6mVp">
           <ref type="record" target="prot-202122--110">Protokoll 2021/22:110 Tisdagen den 10 maj</ref>
@@ -179,9 +162,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-J6JDYVaPB8cnovL7XNTvoh">
-            
-            <list rend="unordered">
+          <p xml:id="i-J6JDYVaPB8cnovL7XNTvoh"><list rend="unordered">
               <item>
                 Vad gör statsrådet för att fäbodbruket ska erkännas som riksintresse?
               </item>

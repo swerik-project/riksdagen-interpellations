@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Wi6GXFNbmtNYyAdTHDeqam" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-11-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-239SbDq9YwtjM8jds5sUVB">
-          <date when="2017-11-24"/>
-          <time when="11:13:13" dur="PT112S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QCCNVvMyKRtiN4vrBdXEFH">
           <date when="2017-11-24"/>
+          <time when="11:13:13" dur="PT112S"/>
         </correspAction>
         <correspContext corresp="i-239SbDq9YwtjM8jds5sUVB">
           <ref type="record" target="prot-201718--037">Protokoll 2017/18:37 Fredagen den 24 november</ref>

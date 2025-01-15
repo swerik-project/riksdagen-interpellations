@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SQtBtzxQLj4TaXXq9jLy7r</idno>
-            <persName>Pia Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SQtBtzxQLj4TaXXq9jLy7r</idno>
-            <persName>Pia Nilsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
             <persName>Jörgen Johansson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SQtBtzxQLj4TaXXq9jLy7r</idno>
+            <persName>Pia Nilsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-36BrmL2UiT2gB1E2xWQUdL" corresp="i-SQtBtzxQLj4TaXXq9jLy7r">
           <date when="2008-11-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4LWKFsRh1BvJCMv1EVyuic">
-          <date when="2008-11-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YR4ubVy9tVF9aFowQp76xh" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-11-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2Tmx8tkgQFg66nLo4we7uU">
-          <date when="2008-12-02"/>
-          <time when="18:48:25" dur="PT317S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Y5F83TKvyP1B2WcND4H3Sx" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-12-02"/>
+          <time when="18:48:25" dur="PT317S"/>
         </correspAction>
         <correspContext corresp="i-2Tmx8tkgQFg66nLo4we7uU">
           <ref type="record" target="prot-200809--040">Riksdagens protokoll 2008/09:40 Tisdagen den 2 december</ref>

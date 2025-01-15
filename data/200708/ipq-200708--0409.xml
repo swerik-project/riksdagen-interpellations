@@ -25,42 +25,42 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q213654">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -70,18 +70,12 @@
         <correspAction type="sent" xml:id="i-5vaoN4TMHKYreyiEmb6NWW" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2008-02-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9SBzu85uF4vhhCfRtnubEZ">
-          <date when="2008-02-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7t3RL7VjUQmL3WH8BGvkUs" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-02-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8KUbya2jEWoxQ8DB6TgGfh">
-          <date when="2008-03-11"/>
-          <time when="20:06:15" dur="PT314S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EAxgBLMtFErPR2iaXbUEJh" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-03-11"/>
+          <time when="20:06:15" dur="PT314S"/>
         </correspAction>
         <correspContext corresp="i-8KUbya2jEWoxQ8DB6TgGfh">
           <ref type="record" target="prot-200708--076">Riksdagens protokoll 2007/08:76 Tisdagen den 11 mars</ref>

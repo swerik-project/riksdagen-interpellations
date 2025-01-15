@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
             <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-KH1phQUfqQgksCFpYffxMG" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-09-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HPALDosoDmDB6jTSYAVn2q">
-          <date when="2021-09-30"/>
-          <time when="12:01:31" dur="PT106S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EF4LQcAB1VYsLqKrMXCa2y">
           <date when="2021-09-30"/>
+          <time when="12:01:31" dur="PT106S"/>
         </correspAction>
         <correspContext corresp="i-HPALDosoDmDB6jTSYAVn2q">
           <ref type="record" target="prot-202122--013">Protokoll 2021/22:13 Torsdagen den 30 september</ref>

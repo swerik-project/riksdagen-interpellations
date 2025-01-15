@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Murad Artin (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-49NsrGrr1mktuYaMtH4YAk</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <persName>Anna Lindh</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-aNkNZJMLANc3qqKxntGQG" corresp="i-49NsrGrr1mktuYaMtH4YAk">
-          <date when="1998-03-31"/>
+          <date when="1999-03-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KZEoxkeSLHVsRHvAoGxhoi">
+        <correspAction type="received" xml:id="i-KZEoxkeSLHVsRHvAoGxhoi" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Ux9sPDmyzGGprdcbMydusS">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-NB2FCo5e2pXoeaNU68jrHV">
-          <date when="1998-04-27"/>
+          <date when="1999-04-27"/>
         </correspAction>
         <correspContext corresp="i-NB2FCo5e2pXoeaNU68jrHV">
           <ref type="record" target="prot-199899--086">Prot. 1998/99:86</ref>

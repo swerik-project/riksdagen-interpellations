@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Moberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-LuYSWpTgPjKqzNKr3oayTN" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5A8aE8mRfiM68gYbcnVim1">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UrdbRuxgaarPVkcXqHTJxP" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6dhtLB8NY8ajYrfUZ2G1L5">
-          <date when="2008-06-13"/>
-          <time when="11:33:16" dur="PT288S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-37bYg4DazcqkyQXMHG64CC" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-06-13"/>
+          <time when="11:33:16" dur="PT288S"/>
         </correspAction>
         <correspContext corresp="i-6dhtLB8NY8ajYrfUZ2G1L5">
           <ref type="record" target="prot-200708--128">Riksdagens protokoll 2007/08:128 Fredagen den 13 juni</ref>

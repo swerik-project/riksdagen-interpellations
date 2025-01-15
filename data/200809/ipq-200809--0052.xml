@@ -23,37 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-du5LHNwBWrCH1am94GCk1</idno>
-            <persName>Eva Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-du5LHNwBWrCH1am94GCk1</idno>
-            <persName>Eva Olofsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-5ZnJkHGVni2XM7JurphJCx" corresp="i-du5LHNwBWrCH1am94GCk1">
           <date when="2008-10-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MeEkhHsBsB17Bd8Vjys9C3">
-          <date when="2008-10-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4F3A7E1VZzNWqKAUg6uzn1" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-10-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3GLWSyii6NYqzDmDydMHVc">
-          <date when="2008-11-21"/>
-          <time when="11:56:52" dur="PT423S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MgNPTo2A9Z6kkJoLKDCzB7" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-11-21"/>
+          <time when="11:56:52" dur="PT423S"/>
         </correspAction>
         <correspContext corresp="i-3GLWSyii6NYqzDmDydMHVc">
           <ref type="record" target="prot-200809--033">Riksdagens protokoll 2008/09:33 Fredagen den 21 november</ref>

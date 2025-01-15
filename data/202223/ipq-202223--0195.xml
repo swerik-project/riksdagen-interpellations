@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ws7TTEJpudwigKX5RjyhR4</idno>
-            <persName>Statsrådet Camilla Waltersson Grönvall</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Ws7TTEJpudwigKX5RjyhR4</idno>
-            <persName>Statsrådet Camilla Waltersson Grönvall</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Ws7TTEJpudwigKX5RjyhR4</idno>
             <persName>Camilla Waltersson Grönvall</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2yAFxo3maFtzS2h5m4q2T1" corresp="i-Ws7TTEJpudwigKX5RjyhR4">
           <date when="2023-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WqrLPomRWgVMDgMTBYb2mF">
-          <date when="2023-03-21"/>
-          <time when="14:15:46" dur="PT359S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GZZfppxDXBHpZxSkeZLuqe" corresp="i-Ws7TTEJpudwigKX5RjyhR4">
           <date when="2023-03-21"/>
+          <time when="14:15:46" dur="PT359S"/>
         </correspAction>
         <correspContext corresp="i-WqrLPomRWgVMDgMTBYb2mF">
           <ref type="record" target="prot-202223--078">Protokoll 2022/23:78 Tisdagen den 21 mars</ref>

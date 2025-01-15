@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RNLiVMpCYiPgzxr2ERSxMt</idno>
             <persName>Lars-Arne Staxäng</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-EcpkJZKA9itkg13r6BpRsi" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-12-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BR2bcoeqM1mECe6tNNbh8h">
-          <date when="2017-12-20"/>
-          <time when="11:49:39" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Jp2hhkfxWSF9kxdLrvN92k" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-12-20"/>
+          <time when="11:49:39" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-BR2bcoeqM1mECe6tNNbh8h">
           <ref type="record" target="prot-201718--054">Protokoll 2017/18:54 Onsdagen den 20 december</ref>

@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-BFNfDRHWZznTyiyRJ5s9qZ" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-04-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-E3vLu6tibnsS9oo5HiZvoT">
-          <date when="2022-05-10"/>
-          <time when="15:02:53" dur="PT74S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8TMgsUPJce4E22AUeewFpc" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-05-10"/>
+          <time when="15:02:53" dur="PT74S"/>
         </correspAction>
         <correspContext corresp="i-E3vLu6tibnsS9oo5HiZvoT">
           <ref type="record" target="prot-202122--110">Protokoll 2021/22:110 Tisdagen den 10 maj</ref>

@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
             <persName>Hans Stenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
             <persName>Hans Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
-            <persName>Hans Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-X3MCvHFkqa8aVoyYYGkYF9" corresp="i-JERWRnB227uTCW6FGLWfYs">
           <date when="2002-11-26"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-GxhHXXCAwJ3Fs5vV1JFGy3">
-          <date when="2002-11-27"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-Gu7EToP4FXvWy3YCsmoo2K">
-          <date when="2003-01-21"/>
         </correspAction>
         <correspAction type="received" xml:id="i-YVre9vuJW8a3tNk8HnuVqP" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
           <date when="2002-11-27"/>

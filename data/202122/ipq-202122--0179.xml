@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-7ZPxJeCHRtHEizbaoZNggL" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-12-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q51KfDyU6xbKosaTUMsUvj">
-          <date when="2022-01-14"/>
-          <time when="10:13:10" dur="PT194S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LjjzWXFqfwoES8Umm9act5" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2022-01-14"/>
+          <time when="10:13:10" dur="PT194S"/>
         </correspAction>
         <correspContext corresp="i-Q51KfDyU6xbKosaTUMsUvj">
           <ref type="record" target="prot-202122--053">Protokoll 2021/22:53 Fredagen den 14 januari</ref>

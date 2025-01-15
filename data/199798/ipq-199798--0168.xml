@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Mats Odell (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-5rJnCLdxqGXnpsbQYvbXAH" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
-          <date when="1997-02-05"/>
+          <date when="1998-02-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Aat3f67qjQbx8QJYyjLdcC">
+        <correspAction type="received" xml:id="i-Aat3f67qjQbx8QJYyjLdcC" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VY9sfLJLdWKujhzR6Etu4D">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-VLmYQATRh92tA8dGYjCfKB">
-          <date when="1997-02-20"/>
+          <date when="1998-02-20"/>
         </correspAction>
         <correspContext corresp="i-VLmYQATRh92tA8dGYjCfKB">
           <ref type="record" target="prot-199798--071">Prot. 1997/98:71</ref>

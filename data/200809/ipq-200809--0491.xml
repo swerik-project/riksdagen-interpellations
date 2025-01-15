@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-AHFV4TTPAG6YJaWzXSfd43" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2009-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9gB5WHeAN8yGJyPBa8Bpf4">
-          <date when="2009-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-36EaJCmmvXxXQc8oNB4CfW" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ei8ZSyG1HG4kpi3pyDf2Gd">
-          <date when="2009-06-16"/>
-          <time when="10:29:34" dur="PT282S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Cb5Z128rf83LFbdiucw8BS" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-06-16"/>
+          <time when="10:29:34" dur="PT282S"/>
         </correspAction>
         <correspContext corresp="i-Ei8ZSyG1HG4kpi3pyDf2Gd">
           <ref type="record" target="prot-200809--133">Riksdagens protokoll 2008/09:133 Tisdagen den 16 juni</ref>

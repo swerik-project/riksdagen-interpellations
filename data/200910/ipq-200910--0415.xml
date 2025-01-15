@@ -22,66 +22,45 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
             <persName>Jennie Nilsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-K3i8K1jaXpum8ysn97QDNP" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4tMKYaxQEsfPhCDtK8r84d">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KRqzeaQPAtWxsUvVVSoqkm" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KhNvQDt7CPoMVNPSsNPcjr">
-          <date when="2010-06-29"/>
-          <time when="16:29:30" dur="PT231S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NWFL86rcnthMabYbrfizzW" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-06-29"/>
+          <time when="16:29:30" dur="PT231S"/>
         </correspAction>
         <correspContext corresp="i-KhNvQDt7CPoMVNPSsNPcjr">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

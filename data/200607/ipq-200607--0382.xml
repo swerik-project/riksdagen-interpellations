@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-FjMufUdWzRMYzgPY98P8j7" corresp="i-2Bind9dyirGQ1UMwS9XjsT">
           <date when="2007-03-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2yVMQipriW8X3KjLNo518V">
-          <date when="2007-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YLDBLGdbohDbjgmzwQwDBc" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-03-12"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-Vqo54yEixYC23ywcytXH2">
-          <date when="2007-04-10"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-2JqifoSkizSaNBdNXtMhiX" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-04-10"/>

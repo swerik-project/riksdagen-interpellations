@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FucmvyHZ22CXcKRGnfjaC4</idno>
             <persName>Anders Åkesson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
+            <persName>Karolina Skog</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-TmAexz36CpJDBKXTtgVMNx" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2016-06-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4NEpxqa23EPm2Pfm4LqjM6">
-          <date when="2016-06-14"/>
-          <time when="20:43:34" dur="PT357S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-By8s3QmouwxwvvpMFH5YTg">
           <date when="2016-06-14"/>
+          <time when="20:43:34" dur="PT357S"/>
         </correspAction>
         <correspAction xml:id="i-8maXBqFcoASnTX3gSfgxyQ" type="discussed" corresp="i-UfuzZaG1S7bnPkLrgux2Au">
           <date when="2016-06-14"/>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-6CAgZyR6FvVqYZHQfCw5HJ</idno>
             <persName>Hanna Gunnarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Phdi8fvPhFQb2SeuBXcfXH" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2019-11-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-cNW9AndrFCuXXcnffNjJ7">
-          <date when="2019-12-02"/>
-          <time when="11:00:56" dur="PT96S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NiYLdu5XHoC4m1xEFwu7Sq">
           <date when="2019-12-02"/>
+          <time when="11:00:56" dur="PT96S"/>
         </correspAction>
         <correspContext corresp="i-cNW9AndrFCuXXcnffNjJ7">
           <ref type="record" target="prot-201920--042">Protokoll 2019/20:42 Måndagen den 2 december</ref>

@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-GqTMsNLLFn5C2MaEe9w2N1</idno>
             <persName>Arwin Sohrabi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MeFCbDpKPnR5B8CQwp68xh</idno>
+            <persName>Markus Kallifatides</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MeFCbDpKPnR5B8CQwp68xh</idno>
-            <persName>Markus Kallifatides</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-PxD6QYKJMbx5vH4Ro3a4zM" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-06-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q2E1byMmmG2qs2izD9DxFW">
-          <date when="2023-06-27"/>
-          <time when="09:32:04" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TuxNsn2rdMMHutZTTc1Pyc" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-06-27"/>
+          <time when="09:32:04" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-Q2E1byMmmG2qs2izD9DxFW">
           <ref type="record" target="prot-202223--131">Protokoll 2022/23:131 Tisdagen den 27 juni</ref>

@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-Y5fgQ33MMnP4uyafJ9fz8i</idno>
             <persName>Robert Hannah</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-CfhEiCTBPgRZLfEsAf6wVL" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2016-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D4K6FX9EwZ31TDN2PZMMVn">
-          <date when="2016-12-16"/>
-          <time when="15:15:00" dur="PT235S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UXH964fDD3KohpLVTZztLw" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2016-12-16"/>
+          <time when="15:15:00" dur="PT235S"/>
         </correspAction>
         <correspContext corresp="i-D4K6FX9EwZ31TDN2PZMMVn">
           <ref type="record" target="prot-201617--048">Protokoll 2016/17:48 Fredagen den 16 december</ref>

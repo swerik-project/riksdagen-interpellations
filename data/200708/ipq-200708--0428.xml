@@ -22,46 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
             <persName>Torbjörn Björlund (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +63,12 @@
         <correspAction type="sent" xml:id="i-HLSbnYA7PKEu6BFqPsFvyw" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-02-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HfCUTv4UFm7ro7yK1mfF6F">
-          <date when="2008-03-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Kw3AKp7Ak8pJzEjB5wNdvz" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-03-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NRQBJnzZe3NxoDw5CDms9V">
-          <date when="2008-03-14"/>
-          <time when="13:48:40" dur="PT400S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PP2M5p8n3NdRufHxdZLwr7" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-03-14"/>
+          <time when="13:48:40" dur="PT400S"/>
         </correspAction>
         <correspContext corresp="i-NRQBJnzZe3NxoDw5CDms9V">
           <ref type="record" target="prot-200708--079">Riksdagens protokoll 2007/08:79 Fredagen den 14 mars</ref>

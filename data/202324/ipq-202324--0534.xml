@@ -24,38 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-XS1DYyajKnUSXB7m9DT6C2</idno>
             <persName>Rasmus Ling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Parisa Liljestrand</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G6ALRwTCkd7wtQYkTEocrD</idno>
             <persName>Ulrik Nilsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
+            <persName>Parisa Liljestrand</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-74gQYahX37ghjn65EjytV9" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2024-02-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ksd6sB51wupDcbPQ1AJbFx">
-          <date when="2024-03-12"/>
-          <time when="18:34:53" dur="PT285S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WL7R9iAY9czrXiiZzJMLTy" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2024-03-12"/>
+          <time when="18:34:53" dur="PT285S"/>
         </correspAction>
         <correspContext corresp="i-Ksd6sB51wupDcbPQ1AJbFx">
           <ref type="record" target="prot-202324--083">Protokoll 2023/24:83 Tisdagen den 12 mars</ref>

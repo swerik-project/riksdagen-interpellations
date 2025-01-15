@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
+            <persName>Ewa Björling</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
+            <persName>Bo Bernhardsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-QxhnRpFzPVgLFAnmVMmbzh" corresp="i-MKm68HiDPih8eisvsh6GJg">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-U7VZMTsv7x8FTGbeYXtanP">
-          <date when="2009-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-X61KZRjA9ayt21JGju8Yve" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XcHNSc7xEzyEHkCSEMirF">
-          <date when="2009-03-09"/>
-          <time when="14:41:28" dur="PT491S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KLuoMPQA9JnFTkbknwpdvC" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2009-03-09"/>
+          <time when="14:41:28" dur="PT491S"/>
         </correspAction>
         <correspContext corresp="i-XcHNSc7xEzyEHkCSEMirF">
           <ref type="record" target="prot-200809--080">Riksdagens protokoll 2008/09:80 Måndagen den 9 mars</ref>

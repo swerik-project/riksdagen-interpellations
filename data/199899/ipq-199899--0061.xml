@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Jan-Evert Rådhström (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9beYBFzEh8w1EjPQHXW3mC</idno>
           </person>
           <person gender="man">
-            <persName>miljöminis­tern</persName>
+            <persName>Kjell Larsson</persName>
             <idno>i-9ih4smVvRYKCMas4i52Xiw</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-ATVfscDWqAPX4iSoapCV5L" corresp="i-9beYBFzEh8w1EjPQHXW3mC">
           <date when="1998-11-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9B2Bfm3dUsvp7x6frmjArb">
+        <correspAction type="received" xml:id="i-9B2Bfm3dUsvp7x6frmjArb" corresp="i-9ih4smVvRYKCMas4i52Xiw">
           <note>date unknown</note>
-          <name>miljöminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VqMRytJoGmHAjbbKiVgHQw">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-F4BThtygniVPDUuoLzXmxH">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-F4BThtygniVPDUuoLzXmxH">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

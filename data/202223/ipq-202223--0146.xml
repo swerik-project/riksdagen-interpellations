@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-XYorBBswJHmzvkzAvCFPDM</idno>
             <persName>Ulrika Westerlund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
             <persName>Acko Ankarberg Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2L6n9vbjUcBFQNkUm7KH7T" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2023-01-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GxWyRELwstWCjhCdrUJYSH">
-          <date when="2023-02-14"/>
-          <time when="14:13:07" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MKWLbzjqCEkNUMPBzg2YVp" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2023-02-14"/>
+          <time when="14:13:07" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-GxWyRELwstWCjhCdrUJYSH">
           <ref type="record" target="prot-202223--062">Protokoll 2022/23:62 Tisdagen den 14 februari</ref>

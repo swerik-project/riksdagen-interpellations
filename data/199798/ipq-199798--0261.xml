@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -30,21 +30,24 @@
           <person>
             <persName>statsrådet Lars Engqvist</persName>
           </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-NshH1UBQ32ty5JNwdYKVPa" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
-          <date when="1997-04-16"/>
+          <date when="1998-04-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ks31SbquBqQCsS68ShK77">
+        <correspAction type="received" xml:id="i-ks31SbquBqQCsS68ShK77" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>statsrådet Lars Engqvist</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-6cUHNrDRFAHQqFCV1KdR23">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-5zAgdUpTWQjAHmdRadQUUe">
-          <date when="1997-05-08"/>
+          <date when="1998-05-08"/>
         </correspAction>
         <correspContext corresp="i-5zAgdUpTWQjAHmdRadQUUe">
           <ref type="record" target="prot-199798--104">Prot. 1997/98:104</ref>

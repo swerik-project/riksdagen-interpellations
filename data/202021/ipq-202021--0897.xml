@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-DwxYm9yDWznJg1azvmMBXP</idno>
             <persName>Jörgen Grubb</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-BbXtGQNPHnMUVXk8Cs4mu2" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2021-09-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V5aNUckpgFPeXqrdNgY2QK">
-          <date when="2021-09-17"/>
-          <time when="09:21:26" dur="PT130S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HBHb4dLjw5vPDDvE58cJaS">
           <date when="2021-09-17"/>
+          <time when="09:21:26" dur="PT130S"/>
         </correspAction>
         <correspContext corresp="i-V5aNUckpgFPeXqrdNgY2QK">
           <ref type="record" target="f-lista-202122--005">Fredag den 17 september 2021</ref>

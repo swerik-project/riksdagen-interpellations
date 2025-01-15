@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
             <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5kLPqJYKuXdEi7mU2QqyGZ</idno>
             <persName>Maria Stockhaus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-4Tp9aUKanRoXekd2nAFoPT" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2015-10-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PoYMPs5fmnMwwys3EPXcUr">
-          <date when="2015-10-23"/>
-          <time when="09:40:32" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Fvezd4k8PQG4gpSWG6Wmco" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2015-10-23"/>
+          <time when="09:40:32" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-PoYMPs5fmnMwwys3EPXcUr">
           <ref type="record" target="prot-201516--019">Protokoll 2015/16:19 Fredagen den 23 oktober</ref>

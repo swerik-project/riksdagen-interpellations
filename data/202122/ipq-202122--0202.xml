@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MDmz3BZyW3T2P9Tp6bvsBM</idno>
             <persName>John Widegren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7GFif5DyTUbb8eBXsbicsF</idno>
             <persName>Magnus Oscarsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
+            <persName>Anna-Caren Sätherberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-Q4Ru7SLMnPowZDcr9Frhs3" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2021-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wh7KAC3LPnLqWZ1R5psPkE">
-          <date when="2022-01-20"/>
-          <time when="12:43:04" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RVTBZ8N8SL9bGUUoXmewTT">
           <date when="2022-01-20"/>
+          <time when="12:43:04" dur="PT228S"/>
         </correspAction>
         <correspAction xml:id="i-EWxL5c9Gafvg4ZqwDoHzXz" type="discussed" corresp="i-Ch6N1ddXaHhYxZN72JKZAS">
           <date when="2022-01-20"/>

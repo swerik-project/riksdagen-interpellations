@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-PFB74RmQz94BLRkmoo3vht" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7wpD1knmEDEerMjDhvPiZa">
-          <date when="2023-11-09"/>
-          <time when="16:18:24" dur="PT63S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WxiiU4M3wZZriKc2P4J3uF">
           <date when="2023-11-09"/>
+          <time when="16:18:24" dur="PT63S"/>
         </correspAction>
         <correspContext corresp="i-7wpD1knmEDEerMjDhvPiZa">
           <ref type="record" target="prot-202324--027">Protokoll 2023/24:27 Torsdagen den 9 november</ref>

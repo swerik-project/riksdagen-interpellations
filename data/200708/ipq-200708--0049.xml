@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Kfdn7AogfhAskXJ9sLBUJC" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2007-10-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HGzk1wyudjvfXMTXYCcka1">
-          <date when="2007-10-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4dS7YuimaAMSjo6oynJyMB" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-10-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7vFxvVFA95kfJa6m8NRjPu">
-          <date when="2007-10-26"/>
-          <time when="11:27:42" dur="PT255S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-88Py2KYtWpinm1Bh5p7kY3" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-10-26"/>
+          <time when="11:27:42" dur="PT255S"/>
         </correspAction>
         <correspContext corresp="i-7vFxvVFA95kfJa6m8NRjPu">
           <ref type="record" target="prot-200708--017">Riksdagens protokoll 2007/08:17 Fredagen den 26 oktober</ref>

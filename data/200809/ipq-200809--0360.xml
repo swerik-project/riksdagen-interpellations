@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
-            <persName>Ann Arleklo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
-            <persName>Ann Arleklo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
             <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
+            <persName>Ann Arleklo</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-NUkFANFj8TcRofgEVdV2S9" corresp="i-YHze8naQ3VfThjRidPfYK7">
           <date when="2009-02-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CJTNJdvaEsLmqqxkhC7SCZ">
-          <date when="2009-02-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Pj8xRmwK2Yvtp83jZTTFf7" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-02-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Gkzrgi5upfzmqN8P2qa5Pn">
-          <date when="2009-03-17"/>
-          <time when="20:03:38" dur="PT357S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4DM29LbjS4HeLAmbpqg9Zk" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-03-17"/>
+          <time when="20:03:38" dur="PT357S"/>
         </correspAction>
         <correspContext corresp="i-Gkzrgi5upfzmqN8P2qa5Pn">
           <ref type="record" target="prot-200809--085">Riksdagens protokoll 2008/09:85 Tisdagen den 17 mars</ref>

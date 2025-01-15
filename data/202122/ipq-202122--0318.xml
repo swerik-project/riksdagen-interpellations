@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>-</desc>
-            </state>
-          </person>
-          <person gender="unknown">
-            <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
-            <persName>Statsrådet Lina Axelsson Kihlblom</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="female">
             <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
             <persName>Lina Axelsson Kihlblom</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FaD96kCWrrdSDssgwatbw9" corresp="i-TvxkyB44TapcZqHJAqPGrn">
           <date when="2022-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9wVPiuMQKrGsMvWF6SLom4">
-          <date when="2022-02-22"/>
-          <time when="18:53:40" dur="PT381S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UtvJELbuyZjhP16PMHNNbB">
           <date when="2022-02-22"/>
+          <time when="18:53:40" dur="PT381S"/>
         </correspAction>
         <correspContext corresp="i-9wVPiuMQKrGsMvWF6SLom4">
           <ref type="record" target="prot-202122--070">Protokoll 2021/22:70 Tisdagen den 22 februari</ref>

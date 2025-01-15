@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-3S4u3rsmsb3bjgrsrZUU6Q</idno>
-            <persName>Anders Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3S4u3rsmsb3bjgrsrZUU6Q</idno>
-            <persName>Anders Karlsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3S4u3rsmsb3bjgrsrZUU6Q</idno>
+            <persName>Anders Karlsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Nf3BnS7EGFqQAKcVv4dPrG" corresp="i-3S4u3rsmsb3bjgrsrZUU6Q">
           <date when="2007-01-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6rnUuyFDZVMr5W8ePmZSy7">
-          <date when="2007-01-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CuKwuKe1MWtQNAat4NYnuQ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RfgukFMs3YgbMa47XBCU6Z">
-          <date when="2007-01-19"/>
-          <time when="12:07:18" dur="PT172S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NpMkKe2GfCpfPws3vB4x6g" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-19"/>
+          <time when="12:07:18" dur="PT172S"/>
         </correspAction>
         <correspContext corresp="i-RfgukFMs3YgbMa47XBCU6Z">
           <ref type="record" target="prot-200607--051">Riksdagens protokoll 2006/07:51 Fredagen den 19 januari</ref>

@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Peter Pedersen (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-KnfRfemwD98TyCA1A8KCeX</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Björn Rosengren</persName>
             <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-AxShvSWPK7DzM493K3YaNS" corresp="i-KnfRfemwD98TyCA1A8KCeX">
           <date when="1998-12-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6XtGnBZZr23eufWyqUNw5X">
+        <correspAction type="received" xml:id="i-6XtGnBZZr23eufWyqUNw5X" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S2TdRLpbPaUqrPoan3zizb">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-KJLKJsVqfF1M3BY7ZBTG9i">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-KJLKJsVqfF1M3BY7ZBTG9i">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

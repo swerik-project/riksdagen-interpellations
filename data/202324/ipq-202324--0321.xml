@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UQcnRomhD3QwUvHJm9NQo2</idno>
             <persName>Johan Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-B9jvk2MBvYJwZFkcJxESi" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Dexv47gtDdAuwZNyZqaNPS">
-          <date when="2024-01-19"/>
-          <time when="09:00:46" dur="PT87S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YVhKpR9ZDFb52o8Jyzz6yu">
           <date when="2024-01-19"/>
+          <time when="09:00:46" dur="PT87S"/>
         </correspAction>
         <correspContext corresp="i-Dexv47gtDdAuwZNyZqaNPS">
           <ref type="record" target="prot-202324--058">Protokoll 2023/24:58 Fredagen den 19 januari</ref>

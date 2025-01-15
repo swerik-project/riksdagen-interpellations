@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
             <persName>Acko Ankarberg Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8fK693oyxC4NWv7nMn7WWG" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2023-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EKxBmnF4tfSYTE1aKXCTeE">
-          <date when="2023-02-21"/>
-          <time when="14:38:46" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7R3y6YUEK3rpvQPCohrVDy">
           <date when="2023-02-21"/>
+          <time when="14:38:46" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-EKxBmnF4tfSYTE1aKXCTeE">
           <ref type="record" target="prot-202223--066">Protokoll 2022/23:66 Tisdagen den 21 februari</ref>

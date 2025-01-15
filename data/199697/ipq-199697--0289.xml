@@ -21,30 +21,30 @@
         <listPerson>
           <person gender="man">
             <persName>Rolf Åbjörnsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-M6F85qijn9rB9XrUARJYDS</idno>
           </person>
           <person gender="woman">
-            <persName>kulturministern</persName>
+            <persName>Marita Ulvskog</persName>
             <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-NUpaik7KN8yky5Br2uDVKK" corresp="i-M6F85qijn9rB9XrUARJYDS">
-          <date when="1996-05-02"/>
+          <date when="1997-05-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VvKwDW9QDDrk3A8Pwv1B8g">
+        <correspAction type="received" xml:id="i-VvKwDW9QDDrk3A8Pwv1B8g" corresp="i-JchxQfU1zc3XVbvadFgBSn">
           <note>date unknown</note>
-          <name>kulturministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-3YVK4x9HPgkNyWJjfrodih">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-45cYsghe6pibUb9uvfDPWC">
-          <date when="1996-05-20"/>
+          <date when="1997-05-20"/>
         </correspAction>
         <correspContext corresp="i-45cYsghe6pibUb9uvfDPWC">
           <ref type="record" target="prot-199697--105">Prot. 1996/97:105</ref>

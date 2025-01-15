@@ -22,38 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Amineh Kakabaveh</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-8VGKoAcQqdAtv6Ajd2SoLo" corresp="i-548HUVvKe8n48M3pQmFeUC">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-93f1pduUiHCy7tf533PSVL">
-          <date when="2010-02-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4gxVi9hkr3bNNKZe1fEr1g" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XNoxufqjZPpi3E7g5jxhBd">
-          <date when="2010-02-12"/>
-          <time when="14:08:27" dur="PT319S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GdFG4qMrvz1TZNhwSoyP6z" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2010-02-12"/>
+          <time when="14:08:27" dur="PT319S"/>
         </correspAction>
         <correspContext corresp="i-XNoxufqjZPpi3E7g5jxhBd">
           <ref type="record" target="prot-200910--074">Riksdagens protokoll 2009/10:74 Fredagen den 12 februari</ref>

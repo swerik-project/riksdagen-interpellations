@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-YDnK8VSSiRoNGUj2EGkAeD</idno>
-            <persName>Peter Jeppsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YDnK8VSSiRoNGUj2EGkAeD</idno>
-            <persName>Peter Jeppsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
             <persName>Anneli Särnblad (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YDnK8VSSiRoNGUj2EGkAeD</idno>
+            <persName>Peter Jeppsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-GHLwC59n7NPUeJvdSkuA6z" corresp="i-YDnK8VSSiRoNGUj2EGkAeD">
           <date when="2008-05-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9S2ZzESQgMEJVPYgZAJQuZ">
-          <date when="2008-05-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NccV9KsN6uVxSSGUXYE2z2" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GKxv1r5pmcqCHFdH6jvy73">
-          <date when="2008-06-03"/>
-          <time when="15:28:14" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QfRSuBXURsS46hTdArViFs" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-06-03"/>
+          <time when="15:28:14" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-GKxv1r5pmcqCHFdH6jvy73">
           <ref type="record" target="prot-200708--121">Riksdagens protokoll 2007/08:121 Tisdagen den 3 juni</ref>

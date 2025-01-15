@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
-            <persName>Krister Örnfjäder</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
-            <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NhqvviMR3JAxbwn9T7i1dL</idno>
             <persName>Claes-Göran Brandin (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
+            <persName>Krister Örnfjäder</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-JBQuFzrZZ4NL8hnurDSXpF" corresp="i-122QwSSpyGJQiTJjmrUJCM">
           <date when="2007-05-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TZeEBUJV39WRZVq8mSnUgg">
-          <date when="2007-05-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-W8m1F6Cxt321rV2sAFfy9o" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RF2mgDmfCUoM1CGnJaxkUW">
-          <date when="2007-06-12"/>
-          <time when="13:07:19" dur="PT153S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U9D1hx9tx7LUjxLHwobaBe" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-06-12"/>
+          <time when="13:07:19" dur="PT153S"/>
         </correspAction>
         <correspContext corresp="i-RF2mgDmfCUoM1CGnJaxkUW">
           <ref type="record" target="prot-200607--124">Riksdagens protokoll 2006/07:124 Tisdagen den 12 juni</ref>

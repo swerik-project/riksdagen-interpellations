@@ -23,37 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-MScE7rxsu8kNw5NBgVvpG3" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2008-10-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-U4yk5pJJiHz5TjfPdPW7Yg">
-          <date when="2008-10-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-73a4Upwknrd7Jb9dCwVYCQ" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-10-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WzLXdXpjpe1estby1QwLMs">
-          <date when="2008-10-28"/>
-          <time when="13:31:42" dur="PT218S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GXuhMaqdwWjKLRFfhhdDEx" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-10-28"/>
+          <time when="13:31:42" dur="PT218S"/>
         </correspAction>
         <correspContext corresp="i-WzLXdXpjpe1estby1QwLMs">
           <ref type="record" target="prot-200809--021">Riksdagens protokoll 2008/09:21 Tisdagen den 28 oktober</ref>

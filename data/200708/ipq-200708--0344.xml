@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
             <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-7RLZXWwQxehEiN2BMiVSXP" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2008-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-R1Z4peN4BGwAr58sV9sdkT">
-          <date when="2008-01-31"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WooxZ9jrswcUodd9kR5HAa" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-01-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DgHUiU9d6zeYP4oNAXRXLL">
-          <date when="2008-02-15"/>
-          <time when="09:27:38" dur="PT406S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9m75G4eSJ8rALg99Shfeo6" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-02-15"/>
+          <time when="09:27:38" dur="PT406S"/>
         </correspAction>
         <correspContext corresp="i-DgHUiU9d6zeYP4oNAXRXLL">
           <ref type="record" target="prot-200708--065">Riksdagens protokoll 2007/08:65 Fredagen den 15 februari</ref>

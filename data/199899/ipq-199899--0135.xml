@@ -11,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation 1998/99:135 av Sofia Jonsson (c) till statsrådet Inge­gerd Wämersson om skolor i glesbygd</title>
+          <title>Interpellation 1998/99:135 av Sofia Jonsson (c) till statsrådet Inge­gerd Wärnersson om skolor i glesbygd</title>
           <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_151.pdf</ref>
           <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199899/pages/ip_199899_152.pdf</ref>
         </bibl>
@@ -21,32 +21,36 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>Sofia Jonsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sofia Jonsson</persName>
+            <idno>i-XXuTUfCrSzD7sKMdyYtEft</idno>
+            <state type="partyAffiliation" ref="Q110832"/>
+          </person>
+          <person gender="woman">
+            <persName>Margot Wallström</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
           </person>
           <person gender="woman">
-            <persName>statsrådet Inge­gerd Wämersson</persName>
+            <persName>Ingegerd Wärnersson</persName>
             <idno>i-3wVE19WEnkoueWU41a2FfR</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-G2PZmhCoom4wvqdEobvr1Y">
-          <name/>
-          <date when="1998-01-28"/>
+        <correspAction type="sent" xml:id="i-G2PZmhCoom4wvqdEobvr1Y" corresp="i-XXuTUfCrSzD7sKMdyYtEft">
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QPgVqoizqFBEC8WCXa3PqL">
+        <correspAction type="received" xml:id="i-QPgVqoizqFBEC8WCXa3PqL" corresp="i-3wVE19WEnkoueWU41a2FfR">
           <note>date unknown</note>
-          <name>statsrådet Inge­gerd Wämersson</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KqgK4E55SbvZiPEHAYWscz">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-3HVJbx3k2g2ArN5daaA4rB">
-          <date when="1998-03-04"/>
+          <date when="1999-03-04"/>
         </correspAction>
         <correspContext corresp="i-3HVJbx3k2g2ArN5daaA4rB">
           <ref type="record" target="prot-199899--063">Prot. 1998/99:63</ref>

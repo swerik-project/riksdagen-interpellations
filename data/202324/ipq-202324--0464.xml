@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-bRyJHEKb5DCkicXkuZwMY</idno>
             <persName>Statsminister Ulf Kristersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JcKCTgKHkJvANnMd68nS8n" corresp="i-bRyJHEKb5DCkicXkuZwMY">
           <date when="2024-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Rib7s7NZFqzamXYDpxa8nZ">
-          <date when="2024-03-01"/>
-          <time when="11:30:30" dur="PT112S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Hxv2dLW3h9iSbtqwXbfugH" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2024-03-01"/>
+          <time when="11:30:30" dur="PT112S"/>
         </correspAction>
         <correspContext corresp="i-Rib7s7NZFqzamXYDpxa8nZ">
           <ref type="record" target="prot-202324--078">Protokoll 2023/24:78 Fredagen den 1 mars</ref>

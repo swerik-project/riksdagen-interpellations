@@ -22,38 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-DX9vwE6BNNgQ4CMEskRC9D" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2008-04-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7N2XC41uuSQnd8VLr8kNF8">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-V58rKrA7yfYfzL4eGy2LNw" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SxxNyySGJNGLZ4r5g11v1Y">
-          <date when="2008-05-19"/>
-          <time when="10:02:21" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Zckm3StxsnKLo4k32vimN" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-05-19"/>
+          <time when="10:02:21" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-SxxNyySGJNGLZ4r5g11v1Y">
           <ref type="record" target="prot-200708--114">Riksdagens protokoll 2007/08:114 Måndagen den 19 maj</ref>

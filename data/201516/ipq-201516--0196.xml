@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Xbq1HVkxhCYVmfPLN63HRo</idno>
             <persName>Daniel Riazat</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
             <persName>Gustav Fridolin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-17DDN2xLRzhGbos8jyTY4U" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2015-11-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UjuJka7Aj8cGsi9fbk7a9Q">
-          <date when="2015-12-01"/>
-          <time when="18:00:18" dur="PT201S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YLzgk2xA8W8GZZD9RnKCqZ">
           <date when="2015-12-01"/>
+          <time when="18:00:18" dur="PT201S"/>
         </correspAction>
         <correspContext corresp="i-UjuJka7Aj8cGsi9fbk7a9Q">
           <ref type="record" target="prot-201516--036">Protokoll 2015/16:36 Tisdagen den 1 december</ref>

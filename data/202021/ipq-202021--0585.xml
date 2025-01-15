@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-PjQgLPLrkyDV2oYQfyuWq2</idno>
-            <persName>Statsrådet Märta Stenevi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PjQgLPLrkyDV2oYQfyuWq2</idno>
             <persName>Märta Stenevi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-4oDyM2PTiS68x9AwU4cg3v" corresp="i-PjQgLPLrkyDV2oYQfyuWq2">
           <date when="2021-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DBfzSSEv8LyziRD5bnhnLw">
-          <date when="2021-04-06"/>
-          <time when="19:03:13" dur="PT171S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-rx1NwihhESHx1jvSZTDTG">
           <date when="2021-04-06"/>
+          <time when="19:03:13" dur="PT171S"/>
         </correspAction>
         <correspContext corresp="i-DBfzSSEv8LyziRD5bnhnLw">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

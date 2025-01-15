@@ -25,44 +25,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KvKhrEa3hJDxAgEGxpLp41</idno>
             <persName>Katarina Brännström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
+            <persName>Åsa Regnér</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-S5totzC4BgiH2Y3kFQa4Ua" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-09-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3C4X1o6fKci7SPFynpT4NY">
-          <date when="2017-10-24"/>
-          <time when="14:06:17" dur="PT285S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3GYfvekq9MepVnxQAfXfjD" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-10-24"/>
+          <time when="14:06:17" dur="PT285S"/>
         </correspAction>
         <correspContext corresp="i-3C4X1o6fKci7SPFynpT4NY">
           <ref type="record" target="prot-201718--022">Protokoll 2017/18:22 Tisdagen den 24 oktober</ref>

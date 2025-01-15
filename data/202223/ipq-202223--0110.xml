@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-DAzwuDmrMCAk4CXBrm86y5</idno>
             <persName>Elin Söderberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-5ki2YAeermc63MLb8t9EKn" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2022-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wz7sf5ntduqNXUyN3cmcvH">
-          <date when="2023-01-26"/>
-          <time when="12:56:08" dur="PT240S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Yb9rdc5EKqSchzxYv1mjW5" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-01-26"/>
+          <time when="12:56:08" dur="PT240S"/>
         </correspAction>
         <correspContext corresp="i-Wz7sf5ntduqNXUyN3cmcvH">
           <ref type="record" target="prot-202223--052">Protokoll 2022/23:52 Torsdagen den 26 januari</ref>

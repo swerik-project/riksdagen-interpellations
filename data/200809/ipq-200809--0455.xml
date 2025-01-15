@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-9Cx1eF969kF7M23wchL9Na" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-04-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ktnj7uc4SoB1MwCk6o3ee2">
-          <date when="2009-04-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-85CfbhXwy2PKiNeoxGdyak" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-04-14"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-LiQUXGyjifwAJb5Sfsz8H3">
-          <date when="2009-05-15"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-TixCjjfzTzAmU224JsoRdi" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-05-15"/>

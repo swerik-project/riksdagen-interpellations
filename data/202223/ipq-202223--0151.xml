@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UB2UKCr2W8fJ3Rr4dtCeHb</idno>
             <persName>Mattias Vepsä</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-DHjqeViUB1U6YNepvFXmPZ" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-01-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MiNoz6DoBg5dQCvxt3eKy5">
-          <date when="2023-02-10"/>
-          <time when="09:24:26" dur="PT186S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FAoxsKNpRvu1V6gGJscws1" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-02-10"/>
+          <time when="09:24:26" dur="PT186S"/>
         </correspAction>
         <correspContext corresp="i-MiNoz6DoBg5dQCvxt3eKy5">
           <ref type="record" target="prot-202223--061">Protokoll 2022/23:61 Fredagen den 10 februari</ref>

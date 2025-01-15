@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-pmk6n2xPhRdoUhDGS3crQ" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2007-04-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3561x6nBib3Q9EEe6bXofe">
-          <date when="2007-04-26"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-T21NGGe3EEAAVS1HFTXeP2" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QaQbGQukLCJd1c79y5tWK1">
-          <date when="2007-05-11"/>
-          <time when="09:01:33" dur="PT171S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UJhqbWVx9mGynaV7AhjbLT" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-05-11"/>
+          <time when="09:01:33" dur="PT171S"/>
         </correspAction>
         <correspContext corresp="i-QaQbGQukLCJd1c79y5tWK1">
           <ref type="record" target="prot-200607--105">Riksdagens protokoll 2006/07:105 Fredagen den 11 maj</ref>

@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
             <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2dwC5U2RuvHwfhzcwB91oo</idno>
             <persName>Mattias Eriksson Falk</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
+            <persName>Romina Pourmokhtari</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-LewrorYh3cgEKFQ1C36T4w" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2023-11-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MNjwdCUSdG9v9cGu6UH8yY">
-          <date when="2023-12-20"/>
-          <time when="20:40:43" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LBGzU4Maam8TUFZ3JHLsa9" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-12-20"/>
+          <time when="20:40:43" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-MNjwdCUSdG9v9cGu6UH8yY">
           <ref type="record" target="prot-202324--053">Protokoll 2023/24:53 Onsdagen den 20 december</ref>

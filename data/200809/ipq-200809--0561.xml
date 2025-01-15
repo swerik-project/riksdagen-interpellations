@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
             <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MUuKbxXQHvHtQbqsLyfbkm" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HreS5zvmLfyT3VRKHgFfHf">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-T9F8h1kmkVZuh5vbmkQWG3" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wsch97aTjoSf1Xt1EMfSSB">
-          <date when="2009-06-08"/>
-          <time when="16:18:10" dur="PT309S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GZcT6jpx1AfTJyXPUs4p7F" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2009-06-08"/>
+          <time when="16:18:10" dur="PT309S"/>
         </correspAction>
         <correspContext corresp="i-Wsch97aTjoSf1Xt1EMfSSB">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

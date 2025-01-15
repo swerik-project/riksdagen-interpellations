@@ -22,52 +22,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-F1rUiLS4ipAkpzNoeye6ud" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2008-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2bdteLw2EnFz4aAmJ2FuQK">
-          <date when="2008-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Q5T4Ujpuiv1FvtVsZk5bxa" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5CBQkpXGPU154L273wWFUi">
-          <date when="2008-11-18"/>
-          <time when="14:54:31" dur="PT331S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GxMNcjfwMvHtFuEBPXTTMg" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-11-18"/>
+          <time when="14:54:31" dur="PT331S"/>
         </correspAction>
         <correspContext corresp="i-5CBQkpXGPU154L273wWFUi">
           <ref type="record" target="prot-200809--030">Riksdagens protokoll 2008/09:30 Tisdagen den 18 november</ref>

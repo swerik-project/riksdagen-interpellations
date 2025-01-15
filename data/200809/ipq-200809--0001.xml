@@ -23,79 +23,58 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Lars Hjälmered (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
+            <persName>Lars Hjälmered</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
-            <persName>Tomas Eneroth (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Berit Högman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UukxhVrpswE5ADBkFe7Q3V</idno>
             <persName>Jan Björkman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
+            <persName>Lars Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -105,18 +84,12 @@
         <correspAction type="sent" xml:id="i-8eg3yzk7TZAjx9Rqr1j7aM" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2008-09-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KZtarShKmDH5eGGpJTbAmQ">
-          <date when="2008-09-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HPDd62bwnQTypk94baJMWo" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-09-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Gibpdo76He9vWt9pz2djFu">
-          <date when="2008-10-03"/>
-          <time when="09:23:05" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-M8DFNW7j2oKDY7nH3HegJ1" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-10-03"/>
+          <time when="09:23:05" dur="PT151S"/>
         </correspAction>
         <correspContext corresp="i-Gibpdo76He9vWt9pz2djFu">
           <ref type="record" target="prot-200809--010">Riksdagens protokoll 2008/09:10 Fredagen den 3 oktober</ref>

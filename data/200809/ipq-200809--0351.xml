@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Elina Linna</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-VpDxcxKzoHrKzhWThFX6KH" corresp="i-WTCYyz27itjvuvffL1vZLi">
           <date when="2009-02-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8FKhHiQSWvnXFp3y6iuhVQ">
-          <date when="2009-02-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7k928axLFuz9hrqEUCVTZF" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3K19i1RTxpw9MBurjNX4US">
-          <date when="2009-03-17"/>
-          <time when="19:11:37" dur="PT466S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HyLusYG29GSAY1EY8WVHLv" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-03-17"/>
+          <time when="19:11:37" dur="PT466S"/>
         </correspAction>
         <correspContext corresp="i-3K19i1RTxpw9MBurjNX4US">
           <ref type="record" target="prot-200809--085">Riksdagens protokoll 2008/09:85 Tisdagen den 17 mars</ref>

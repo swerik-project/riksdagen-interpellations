@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-C3fSSzQDuoh3kKasHW4AKa</idno>
             <persName>Sonja Fransson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
             <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-M4ixMXis7sLmwSZn4jsaE6" corresp="i-C3fSSzQDuoh3kKasHW4AKa">
           <date when="2002-12-05"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-CyCJK9ro2zga1YU2T3k6mf">
-          <date when="2002-12-05"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-T3DjPryCMnFitMWxhkf3n1">
-          <date when="2003-01-21"/>
         </correspAction>
         <correspAction type="received" xml:id="i-NJgitwNgeXeDrUG73EN46m" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2002-12-05"/>

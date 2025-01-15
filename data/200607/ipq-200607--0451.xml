@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5CH7vHLGXLfDB5Tn7xx95V</idno>
-            <persName>Siv Holma</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5CH7vHLGXLfDB5Tn7xx95V</idno>
-            <persName>Siv Holma (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Siv Holma</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-JrUKphHD3ZkqZnNw2Lt7yL" corresp="i-5CH7vHLGXLfDB5Tn7xx95V">
           <date when="2007-03-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5MV1AUMkNRtzYrhNBAazRh">
-          <date when="2007-03-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-55A1wwVF3oo6UszZvYSiUY" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-03-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R7qLkdTqnwJN4y98qCMtza">
-          <date when="2007-04-13"/>
-          <time when="11:43:09" dur="PT372S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9TF82uNvKPVnmaZfUcGb2p" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-04-13"/>
+          <time when="11:43:09" dur="PT372S"/>
         </correspAction>
         <correspContext corresp="i-R7qLkdTqnwJN4y98qCMtza">
           <ref type="record" target="prot-200607--090">Riksdagens protokoll 2006/07:90 Fredagen den 13 april</ref>

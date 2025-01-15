@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-BjqKbwGDbrSKDq376JQXSp" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2024-01-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wxohe353bdZA5FjsDLp4YB">
-          <date when="2024-02-01"/>
-          <time when="12:01:36" dur="PT121S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HAgtigF3vSnnTrmNukvrvG">
           <date when="2024-02-01"/>
+          <time when="12:01:36" dur="PT121S"/>
         </correspAction>
         <correspContext corresp="i-Wxohe353bdZA5FjsDLp4YB">
           <ref type="record" target="prot-202324--064">Protokoll 2023/24:64 Torsdagen den 1 februari</ref>

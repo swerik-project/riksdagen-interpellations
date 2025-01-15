@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Thomas Bodström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-ArSZorL9ScjmxJjJoKNKSH" corresp="i-STyFs6Gu3boin31eFp1bNM">
           <date when="2009-08-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FGBdnJzizzBz7MxhAXRWX7">
-          <date when="2009-08-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9zGa6hcdJdMxECq3vTWhRN" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-08-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3wjxaNoMhYhmvpjGjnv9HF">
-          <date when="2009-08-20"/>
-          <time when="14:46:36" dur="PT166S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CGFynxQoSbc6usg3CNnwbU" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-08-20"/>
+          <time when="14:46:36" dur="PT166S"/>
         </correspAction>
         <correspContext corresp="i-3wjxaNoMhYhmvpjGjnv9HF">
           <ref type="record" target="prot-200809--139">Riksdagens protokoll 2008/09:139 Torsdagen den 20 augusti</ref>

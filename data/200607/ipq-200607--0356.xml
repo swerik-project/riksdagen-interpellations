@@ -25,42 +25,28 @@
           <person gender="man">
             <idno>i-9KG7jeGdkJDsSQQb3gKA2U</idno>
             <persName>Urban Ahlin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
             <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-MbCQUkcE8xZH6wzqTqt5SN" corresp="i-9KG7jeGdkJDsSQQb3gKA2U">
           <date when="2007-02-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8jSNiGUxxueQ1rjLktvMKz">
-          <date when="2007-02-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WyajuBcu383UovpveX8QvR" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-02-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PM7WVNiWrex3MDBFHujLRX">
-          <date when="2007-04-16"/>
-          <time when="14:04:58" dur="PT555S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CEnLf9x651SGPTx64hKGwm" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-04-16"/>
+          <time when="14:04:58" dur="PT555S"/>
         </correspAction>
         <correspContext corresp="i-PM7WVNiWrex3MDBFHujLRX">
           <ref type="record" target="prot-200607--091">Riksdagens protokoll 2006/07:91 Måndagen den 16 april</ref>

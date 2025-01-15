@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-LGuxQcep33nPWKPbzHtqsR</idno>
             <persName>Cecilie Tenfjord-Toftby</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
+            <persName>Gabriel Wikström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-GwWYP4PgvoGy2PuJ8LYMSm" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2016-12-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PhkxvqeveTE7eQ5hS7UrtG">
-          <date when="2017-01-10"/>
-          <time when="14:26:30" dur="PT135S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S1PCUPMGVp9N1s32uBbrC2">
           <date when="2017-01-10"/>
+          <time when="14:26:30" dur="PT135S"/>
         </correspAction>
         <correspContext corresp="i-PhkxvqeveTE7eQ5hS7UrtG">
           <ref type="record" target="prot-201617--051">Protokoll 2016/17:51 Tisdagen den 10 januari</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-ST3KmJ7dwych9bUEkWZEu6</idno>
-            <persName>Klimat- och miljöminister Åsa Romson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-ST3KmJ7dwych9bUEkWZEu6</idno>
-            <persName>Åsa Romson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JyuoWkg9RUZd3XVSA6MfE6</idno>
             <persName>Gunilla Nordgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-ST3KmJ7dwych9bUEkWZEu6</idno>
+            <persName>Åsa Romson</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-QYeBpRYLNkr3SEzXhj7Vxz" corresp="i-ST3KmJ7dwych9bUEkWZEu6">
           <date when="2016-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4gwcYw796Da77MS1aF9qBN">
-          <date when="2016-02-04"/>
-          <time when="12:00:50" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VkJcVLorh23zcDkxSUvetj">
           <date when="2016-02-04"/>
+          <time when="12:00:50" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-4gwcYw796Da77MS1aF9qBN">
           <ref type="record" target="prot-201516--063">Protokoll 2015/16:63 Torsdagen den 4 februari</ref>

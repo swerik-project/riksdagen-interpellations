@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Rolf Kenneryd (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-S5PCk5aLzcaX5qooYtMdGY</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Lars-Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-4CdPkfW4Vm5RHpCYx4rcTA" corresp="i-S5PCk5aLzcaX5qooYtMdGY">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FfA1H1cu3WY4yvxqJBSAJA">
+        <correspAction type="received" xml:id="i-FfA1H1cu3WY4yvxqJBSAJA" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars-Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8PzgsVGwAazz5M9VrJCDd6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-YVAePLFFBBTd2D7ZKEf83T">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-YVAePLFFBBTd2D7ZKEf83T">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

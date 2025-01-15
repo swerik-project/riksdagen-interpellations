@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-XQAzCv28W16uuk7HhQLdZZ</idno>
             <persName>Anders W Jonsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Acko Ankarberg Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Uq8cgRMrRNcxY3QYetppCT</idno>
             <persName>Linda Lindberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
+            <persName>Acko Ankarberg Johansson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-HUMeMDwyHftaWPZCJUg4RX" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2022-10-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V4CyATBmDj7UMzaEXUmTfQ">
-          <date when="2022-11-15"/>
-          <time when="13:03:01" dur="PT287S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RyQ5wHW4LzD4hZwk6VU2zH" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2022-11-15"/>
+          <time when="13:03:01" dur="PT287S"/>
         </correspAction>
         <correspAction xml:id="i-TFDmcnQG4vvts9yQsT7M3G" type="discussed" corresp="i-XQAzCv28W16uuk7HhQLdZZ">
           <date when="2022-11-15"/>

@@ -23,58 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-cTvnFNCTwGHRy1gphkR7q</idno>
-            <persName>Lennart Levi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-cTvnFNCTwGHRy1gphkR7q</idno>
-            <persName>Lennart Levi (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lennart Levi</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-2Lc1u4xWP6nUQJQyozdhfm">
-          <date when="2009-08-20"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-9L3PVMezXirhXuLtVz5PLU" corresp="i-cTvnFNCTwGHRy1gphkR7q">
           <date when="2009-08-19"/>
         </correspAction>
         <correspAction type="received" xml:id="i-92ou9kt4a2UD2178aW85vE" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-08-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BEmvPy9eHVB2zZP9Bxefva">
-          <date when="2009-09-03"/>
-          <time when="14:51:07" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9NAQhm9t2MeDCjBUYPamTp" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-09-03"/>
+          <time when="14:51:07" dur="PT214S"/>
         </correspAction>
         <correspContext corresp="i-BEmvPy9eHVB2zZP9Bxefva">
           <ref type="record" target="prot-200809--140">Riksdagens protokoll 2008/09:140 Torsdagen den 3 september</ref>

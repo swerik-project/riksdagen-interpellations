@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-J2TD8cPyHpwkL4ivM5aw6x" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2020-12-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Qr1h7De42Z7kY6mPQJqCx7">
-          <date when="2021-01-12"/>
-          <time when="18:26:29" dur="PT131S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U4R4pGLGNyQndLiwKk8Dk1">
           <date when="2021-01-12"/>
+          <time when="18:26:29" dur="PT131S"/>
         </correspAction>
         <correspContext corresp="i-Qr1h7De42Z7kY6mPQJqCx7">
           <ref type="record" target="prot-202021--062">Protokoll 2020/21:62 Tisdagen den 12 januari</ref>

@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
             <persName>Sven Bergström (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
+            <persName>Cecilia Malmström</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
+            <persName>Ulf Holm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-V1HUGz3gDEMmXNs4B9Fnho" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-09-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VjRaYy83b7hGJDR8N6fvRN">
-          <date when="2007-09-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RnaM8EJ72sYCRJPyYrz6Vf" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-09-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3mXFfaMuVVAdKxo3StPaRX">
-          <date when="2007-10-16"/>
-          <time when="20:13:43" dur="PT266S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QJvzEvPg8AkWLatyiJfMt5" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-10-16"/>
+          <time when="20:13:43" dur="PT266S"/>
         </correspAction>
         <correspContext corresp="i-3mXFfaMuVVAdKxo3StPaRX">
           <ref type="record" target="prot-200708--010">Riksdagens protokoll 2007/08:10 Tisdagen den 16 oktober</ref>

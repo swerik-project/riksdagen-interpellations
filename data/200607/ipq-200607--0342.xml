@@ -23,87 +23,66 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-YReAj4T8PWK3QbxXgEneMx</idno>
             <persName>Helena Frisk (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RNLiVMpCYiPgzxr2ERSxMt</idno>
             <persName>Lars-Arne Staxäng (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-h1aVBzexdmWPt4dFvXiYA</idno>
             <persName>Inger Davidson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KCyyRs9HnkQhss61gii5F7</idno>
             <persName>Fredrik Lundh (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CSSvFYJqF1rNFZNiY5Xnmx</idno>
             <persName>Mats Gerdau (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
+            <persName>Ann-Christin Ahlberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -112,18 +91,12 @@
         <correspAction type="sent" xml:id="i-KrUQ5ArygLyHkfHhAq8xPX" corresp="i-79cRBqVjCpwABr2BiKwH7S">
           <date when="2007-02-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9wDK6U3oZeTzDrfWAJcr24">
-          <date when="2007-02-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NaZRqAw6gycyvxBp8AYsgg" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DERZMdK77eHqjMA7DFY8Vr">
-          <date when="2007-03-20"/>
-          <time when="18:38:10" dur="PT365S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8yoQ9pVi9y9vP7cRqboXZ9" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-03-20"/>
+          <time when="18:38:10" dur="PT365S"/>
         </correspAction>
         <correspContext corresp="i-DERZMdK77eHqjMA7DFY8Vr">
           <ref type="record" target="prot-200607--078">Riksdagens protokoll 2006/07:78 Tisdagen den 20 mars</ref>

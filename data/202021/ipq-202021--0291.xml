@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-4RSYUYGELGZwtgN4mqTmVe" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-01-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Cy498K3MjKWJ5yyhzVnVMf">
-          <date when="2021-01-26"/>
-          <time when="14:01:11" dur="PT117S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8b1ZmozdvuFkCCvHkPL6KZ">
           <date when="2021-01-26"/>
+          <time when="14:01:11" dur="PT117S"/>
         </correspAction>
         <correspContext corresp="i-Cy498K3MjKWJ5yyhzVnVMf">
           <ref type="record" target="prot-202021--070">Protokoll 2020/21:70 Tisdagen den 26 januari</ref>

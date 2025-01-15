@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-5sQf8wA27pVo43qpEZ2jUa</idno>
             <persName>David Josefsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-HhvM7YZq81BNhew5hjTiyw" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-06-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3jwvb6BR67kXRnpaAyaoTq">
-          <date when="2019-06-24"/>
-          <time when="11:47:33" dur="PT91S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LVgKC6JGAH3juAqHzp57c5">
           <date when="2019-06-24"/>
+          <time when="11:47:33" dur="PT91S"/>
         </correspAction>
         <correspContext corresp="i-3jwvb6BR67kXRnpaAyaoTq">
           <ref type="record" target="prot-201819--109">Protokoll 2018/19:109 Måndagen den 24 juni</ref>

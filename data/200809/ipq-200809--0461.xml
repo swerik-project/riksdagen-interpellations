@@ -25,28 +25,14 @@
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -56,18 +42,12 @@
         <correspAction type="sent" xml:id="i-S1fgyxkjoLbSZy9dMqRHwJ" corresp="i-BUYvEhrSc9gnHcd6iS4eDJ">
           <date when="2009-04-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2DkfnPhjPwQGwzXtfev4C4">
-          <date when="2009-04-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SkkskYBT2aAkoAhnqVGcQW" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-04-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UiMn1uWBNvKVn3LvkUztnp">
-          <date when="2009-05-05"/>
-          <time when="16:01:32" dur="PT308S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-G7ujBBiSbB3hzDzg4d5tuP" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-05-05"/>
+          <time when="16:01:32" dur="PT308S"/>
         </correspAction>
         <correspContext corresp="i-UiMn1uWBNvKVn3LvkUztnp">
           <ref type="record" target="prot-200809--111">Riksdagens protokoll 2008/09:111 Tisdagen den 5 maj</ref>

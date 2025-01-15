@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-8D1Xb5xvLE2YRWLnmb9hGW</idno>
             <persName>Isabella Hökmark</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-HsjgmhPLPAKPA16tyYT3qE" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GEvy25eaDiq39TotrY5QSg">
-          <date when="2017-11-21"/>
-          <time when="18:12:23" dur="PT175S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5KcH8FKZ2baD2jK9s71fZS" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-11-21"/>
+          <time when="18:12:23" dur="PT175S"/>
         </correspAction>
         <correspContext corresp="i-GEvy25eaDiq39TotrY5QSg">
           <ref type="record" target="prot-201718--034">Protokoll 2017/18:34 Tisdagen den 21 november</ref>

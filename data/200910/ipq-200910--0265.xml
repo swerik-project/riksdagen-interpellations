@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-HMmj4K2DHMh4jrA7LfWs6a" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2010-02-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MSRrkQytTR2rbSkxMTfUse">
-          <date when="2010-03-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XZg4YoK6g7MYo5koYgYoWS" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-03-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CvmeU23JX1zSGUkeSmkDFo">
-          <date when="2010-03-12"/>
-          <time when="09:25:41" dur="PT185S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Nz8gQb2bQhkF4hEq2Lf8dW" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-03-12"/>
+          <time when="09:25:41" dur="PT185S"/>
         </correspAction>
         <correspContext corresp="i-CvmeU23JX1zSGUkeSmkDFo">
           <ref type="record" target="prot-200910--087">Riksdagens protokoll 2009/10:87 Fredagen den 12 mars</ref>

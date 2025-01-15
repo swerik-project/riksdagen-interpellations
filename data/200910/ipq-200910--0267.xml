@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-JSf7QrDVKmRWGCdnNcHqos" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2010-02-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ARBDQT8ApzqnGxZHjZYTcf">
-          <date when="2010-03-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MtKEhNTRJB65dpKpqQnVKv" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-03-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NLJ6oUM6vw556CnWGwSbkB">
-          <date when="2010-03-09"/>
-          <time when="14:23:24" dur="PT236S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RJELqRmRshT1RKmU5jrjLo" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-03-09"/>
+          <time when="14:23:24" dur="PT236S"/>
         </correspAction>
         <correspContext corresp="i-NLJ6oUM6vw556CnWGwSbkB">
           <ref type="record" target="prot-200910--084">Riksdagens protokoll 2009/10:84 Tisdagen den 9 mars</ref>

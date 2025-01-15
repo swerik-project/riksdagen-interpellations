@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QncsjeqVcGrNpNi8SPzrX4</idno>
             <persName>Michael Rubbestad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-P8CxqdxnQos9JLPfLBAq3m" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2021-12-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7ATaam6VzskfqkK4hUFRu2">
-          <date when="2022-01-13"/>
-          <time when="15:13:20" dur="PT197S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-95RR1VUutQLksgDJeNN7ax">
           <date when="2022-01-13"/>
+          <time when="15:13:20" dur="PT197S"/>
         </correspAction>
         <correspContext corresp="i-7ATaam6VzskfqkK4hUFRu2">
           <ref type="record" target="prot-202122--052">Protokoll 2021/22:52 Torsdagen den 13 januari</ref>

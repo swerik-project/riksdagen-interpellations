@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-L3xspgThUxUN1YtSDqcmk8</idno>
             <persName>Barbro Westerholm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
             <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-WWjD1qAvqkBykeFdRkVzeg" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2016-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5UQtuJHnpEa196d4krRxXA">
-          <date when="2016-01-26"/>
-          <time when="20:46:08" dur="PT226S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SZez9Tjt1HdL28d9AJavRN">
           <date when="2016-01-26"/>
+          <time when="20:46:08" dur="PT226S"/>
         </correspAction>
         <correspContext corresp="i-5UQtuJHnpEa196d4krRxXA">
           <ref type="record" target="prot-201516--058">Protokoll 2015/16:58 Tisdagen den 26 januari</ref>

@@ -23,38 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9hz9iPqymCdhBS9gVoZrbj</idno>
-            <persName>Thomas Nihlén</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9hz9iPqymCdhBS9gVoZrbj</idno>
-            <persName>Thomas Nihlén (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
+            <persName>Thomas Nihlén</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-XJEnSSkLDRHo81SSs1L4ix" corresp="i-9hz9iPqymCdhBS9gVoZrbj">
           <date when="2009-03-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WHewjw3Bpzhoo7W5PJTsVH">
-          <date when="2009-03-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RQ6QB9VXkyk6TAEc1YQr66" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-03-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FJFarRoqurfKkyGfR7gYh1">
-          <date when="2009-05-08"/>
-          <time when="10:31:42" dur="PT397S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-V3UYNTLEKfPZfzd4aSvawd" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-05-08"/>
+          <time when="10:31:42" dur="PT397S"/>
         </correspAction>
         <correspContext corresp="i-FJFarRoqurfKkyGfR7gYh1">
           <ref type="record" target="prot-200809--114">Riksdagens protokoll 2008/09:114 Fredagen den 8 maj</ref>

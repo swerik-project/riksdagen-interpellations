@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
             <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
+            <persName>Ulla Andersson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-6sUg7NUiYf8Y1bJi831AdW" corresp="i-M5o8cYSRJsbmZdvevomfQX">
           <date when="2009-11-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LD3tmMsZo8HRqdBcAydQdT">
-          <date when="2009-11-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-6wkrUr24j1QJismHj8BE6k" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-11-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WV1RwbvdKdeFLiUaLXfjuz">
-          <date when="2009-12-11"/>
-          <time when="14:54:30" dur="PT274S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VdZx9qYpjpyPauiD5pXZH6" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-12-11"/>
+          <time when="14:54:30" dur="PT274S"/>
         </correspAction>
         <correspContext corresp="i-WV1RwbvdKdeFLiUaLXfjuz">
           <ref type="record" target="prot-200910--048">Riksdagens protokoll 2009/10:48 Fredagen den 11 december</ref>

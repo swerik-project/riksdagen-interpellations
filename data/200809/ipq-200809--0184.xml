@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-GQzX6vWx4U9VMh4ci9D9yF</idno>
             <persName>Margareta Israelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LutTcg2m9spsoVaK7cAQeB</idno>
             <persName>Lars Wegendal (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-VqNCi1fhayCu1kR4cBrkUK" corresp="i-GQzX6vWx4U9VMh4ci9D9yF">
           <date when="2008-12-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Wq3EFvX6KMHrW4Apw65p2s">
-          <date when="2008-12-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-REeaN9wS7HX7XLuyBzedr3" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-12-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5VFNmuskctvfKSbtqb1fKG">
-          <date when="2008-12-16"/>
-          <time when="21:44:15" dur="PT210S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HSmw3KpQo66YXDd2TREsv" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-12-16"/>
+          <time when="21:44:15" dur="PT210S"/>
         </correspAction>
         <correspContext corresp="i-5VFNmuskctvfKSbtqb1fKG">
           <ref type="record" target="prot-200809--050">Riksdagens protokoll 2008/09:50 Tisdagen den 16 december</ref>

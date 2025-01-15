@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-K5TKzoi4BThzP8aSHouqRX" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-09-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EgLNwYvCgbSCpwSMEQNoxA">
-          <date when="2021-10-12"/>
-          <time when="19:02:36" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3LU6PcvkyPDmd1QZc4wL16">
           <date when="2021-10-12"/>
+          <time when="19:02:36" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-EgLNwYvCgbSCpwSMEQNoxA">
           <ref type="record" target="prot-202122--014">Protokoll 2021/22:14 Tisdagen den 12 oktober</ref>

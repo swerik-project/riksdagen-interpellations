@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+          <person gender="man">
+            <idno>i-Hvym8X4V4D65vho9xbmJpa</idno>
+            <persName>Rikard Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
             <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Hvym8X4V4D65vho9xbmJpa</idno>
-            <persName>Rikard Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-QK1YQXpoiLC3sqbEw7t6y1" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2016-04-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-E3i4WaQF4acB6t3zamiSN1">
-          <date when="2016-04-26"/>
-          <time when="19:02:37" dur="PT111S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C7r9Z559FmVZX6G1vjS29Q">
           <date when="2016-04-26"/>
+          <time when="19:02:37" dur="PT111S"/>
         </correspAction>
         <correspContext corresp="i-E3i4WaQF4acB6t3zamiSN1">
           <ref type="record" target="prot-201516--098">Protokoll 2015/16:98 Tisdagen den 26 april</ref>

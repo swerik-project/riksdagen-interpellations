@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Bvr4fNXyzWN4b81V1YsTu6" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-09-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3zEQi3uDfXtBezahvkH9zP">
-          <date when="2021-10-12"/>
-          <time when="18:40:22" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VVWncSvagJsXC2VbpNbgTv" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-10-12"/>
+          <time when="18:40:22" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-3zEQi3uDfXtBezahvkH9zP">
           <ref type="record" target="prot-202122--014">Protokoll 2021/22:14 Tisdagen den 12 oktober</ref>

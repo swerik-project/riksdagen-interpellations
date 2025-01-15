@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-PPHx4aZJ13iyCwXxbymj7H" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5mJjfE7ejKci6Ww88aTawi">
-          <date when="2023-05-22"/>
-          <time when="12:07:36" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9gD5Xw5zPdsxf6yTv5PqX9">
           <date when="2023-05-22"/>
+          <time when="12:07:36" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-5mJjfE7ejKci6Ww88aTawi">
           <ref type="record" target="prot-202223--109">Protokoll 2022/23:109 Måndagen den 22 maj</ref>

@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
+            <persName>Pål Jonson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-7MSZnv3oTqYCjNnNPYum5x" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-11-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RvHPw6XGX5vq7kWRVL8C7S">
-          <date when="2018-01-30"/>
-          <time when="15:50:55" dur="PT161S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DPiJgg5ZMPw46UyJ7LymSV" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2018-01-30"/>
+          <time when="15:50:55" dur="PT161S"/>
         </correspAction>
         <correspContext corresp="i-RvHPw6XGX5vq7kWRVL8C7S">
           <ref type="record" target="prot-201718--063">Protokoll 2017/18:63 Tisdagen den 30 januari</ref>

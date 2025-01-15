@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9aV6a5JgMMU7racuNkrEgj</idno>
             <persName>Richard Jomshof</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SRx5MYgiUBkgGLPueXgws5</idno>
             <persName>Ola Möller</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
+            <persName>Maria Malmer Stenergard</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-NU5rHVBJZouGUtYmD6MGwT" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2022-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V9cS6GCZWibEFiHBEMxybK">
-          <date when="2023-01-24"/>
-          <time when="15:20:23" dur="PT87S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SeUBHK36Gm4Wji7mwPXFE1" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-01-24"/>
+          <time when="15:20:23" dur="PT87S"/>
         </correspAction>
         <correspContext corresp="i-V9cS6GCZWibEFiHBEMxybK">
           <ref type="record" target="prot-202223--050">Protokoll 2022/23:50 Tisdagen den 24 januari</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-9P5NZaksQybZxn8tBxUxvh</idno>
             <persName>Carina Ståhl Herrstedt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LEXnj5L8Bgc6SbzkmdKieX" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2020-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GULwyXvWxQShrQgogvizhR">
-          <date when="2021-01-14"/>
-          <time when="15:55:51" dur="PT126S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-iXiCmDSzq8hgSsBV61Edg">
           <date when="2021-01-14"/>
+          <time when="15:55:51" dur="PT126S"/>
         </correspAction>
         <correspContext corresp="i-GULwyXvWxQShrQgogvizhR">
           <ref type="record" target="prot-202021--064">Protokoll 2020/21:64 Torsdagen den 14 januari</ref>

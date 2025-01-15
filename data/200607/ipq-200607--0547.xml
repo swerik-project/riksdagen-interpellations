@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5pddtLwy622h33X3RtqGeL</idno>
             <persName>Pernilla Zethraeus (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
+            <persName>Elina Linna</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Q9Ef9pEy2JepzD3eUBRUiQ" corresp="i-WTCYyz27itjvuvffL1vZLi">
           <date when="2007-05-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-W5AVUYt2sSDxerqXbuw9jK">
-          <date when="2007-05-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CzDvXqDaDfDQQQCmJQHttt" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MnE6Ugkx7nHmYCiF8rTo7t">
-          <date when="2007-06-04"/>
-          <time when="15:49:58" dur="PT321S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GsXJJu2oZFSZS7pbGzC25c" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-06-04"/>
+          <time when="15:49:58" dur="PT321S"/>
         </correspAction>
         <correspContext corresp="i-MnE6Ugkx7nHmYCiF8rTo7t">
           <ref type="record" target="prot-200607--119">Riksdagens protokoll 2006/07:119 Måndagen den 4 juni</ref>

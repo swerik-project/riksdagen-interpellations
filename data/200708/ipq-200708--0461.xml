@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-XN7bgwBGaQixfiHi5Cbu8f</idno>
-            <persName>Cecilia Wikström i Uppsala</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Cecilia Wikström</persName>
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-3XFRhWTfWoL1f2R6ifWn4j" corresp="i-XN7bgwBGaQixfiHi5Cbu8f">
           <date when="2008-03-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FfRK2cBY8y3mNjkTcxc24">
-          <date when="2008-03-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-ToEQHLRVmvADyM8Y2rtxZ9" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-03-05"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-4PWimCwyvaNJqkAs8kofqo">
-          <date when="2008-04-01"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-H1grJsXE6uxfSvc8ejq9Ja" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-04-01"/>

@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ey2xJ5PQcAYBGtnz2AK3qu</idno>
             <persName>Anti Avsan (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-YCc5Y5zJNAicgDowwT3Gzd" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WaQasCRikPQXpTsNfA21bC">
-          <date when="2007-05-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2enwqys5VxsWUqk4HHZGkC" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3mQpAycMSnFwaTRshHunUh">
-          <date when="2007-06-15"/>
-          <time when="10:08:59" dur="PT161S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QAyEtaMYqCxWqLvJRi8i62" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-06-15"/>
+          <time when="10:08:59" dur="PT161S"/>
         </correspAction>
         <correspContext corresp="i-3mQpAycMSnFwaTRshHunUh">
           <ref type="record" target="prot-200607--127">Riksdagens protokoll 2006/07:127 Fredagen den 15 juni</ref>

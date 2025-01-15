@@ -25,43 +25,29 @@
           <person gender="man">
             <idno>i-YDnK8VSSiRoNGUj2EGkAeD</idno>
             <persName>Peter Jeppsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3S4u3rsmsb3bjgrsrZUU6Q</idno>
             <persName>Anders Karlsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Eyc37yBqvYSqU344cwRBkT" corresp="i-YDnK8VSSiRoNGUj2EGkAeD">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ScKmxm1KHqz5a8KKtQSz5x">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4r7q1HYMi2CiujprbUsWTH" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ya915hNwp2EwqX1wQ8TeP4">
-          <date when="2009-05-26"/>
-          <time when="16:23:55" dur="PT287S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3H3S411ZAr4EhYJxQ22uyc" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-05-26"/>
+          <time when="16:23:55" dur="PT287S"/>
         </correspAction>
         <correspContext corresp="i-Ya915hNwp2EwqX1wQ8TeP4">
           <ref type="record" target="prot-200809--124">Riksdagens protokoll 2008/09:124 Tisdagen den 26 maj</ref>

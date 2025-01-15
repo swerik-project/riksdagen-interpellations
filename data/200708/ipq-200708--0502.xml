@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
             <persName>Yvonne Andersson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
+            <persName>Kent Persson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-BqfxwCLS2VwQxwv7gXn6CM" corresp="i-FAhoYDeAxVXRZmnF5LnHgv">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HfsFWLy8RNBKwvbwaCrKLe">
-          <date when="2008-03-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GexbxQkNWJvT3shyKiWyYp" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LYMwuveRTrh5BUKYnMJrSR">
-          <date when="2008-04-11"/>
-          <time when="14:30:04" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YKPewKnJEzHmggKGXL3g3w" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-04-11"/>
+          <time when="14:30:04" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-LYMwuveRTrh5BUKYnMJrSR">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

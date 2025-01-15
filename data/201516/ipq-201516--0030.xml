@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-DyTmp7YURsib9gzvRDZtm9</idno>
             <persName>Stig Henriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Q7nXJh6puRwhHzUEHmAPRd" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2015-10-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jr6r97zd8JHZcdQVaL8aE9">
-          <date when="2015-10-15"/>
-          <time when="12:42:56" dur="PT124S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-L1JxBFQ7DUwB12U66q7Nq5">
           <date when="2015-10-15"/>
+          <time when="12:42:56" dur="PT124S"/>
         </correspAction>
         <correspContext corresp="i-Jr6r97zd8JHZcdQVaL8aE9">
           <ref type="record" target="prot-201516--014">Protokoll 2015/16:14 Torsdagen den 15 oktober</ref>

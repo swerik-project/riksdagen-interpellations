@@ -24,46 +24,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MeFCbDpKPnR5B8CQwp68xh</idno>
             <persName>Markus Kallifatides</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9fmcZcGuiE51S4XGih65wn</idno>
             <persName>Mikael Eskilandersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-H85MKNqkfYRpkEaKHaphQg" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UCYZkbHsKjwLxL7wi9ABnN">
-          <date when="2023-11-09"/>
-          <time when="13:46:56" dur="PT216S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q7YzM6dKXSfrupEezUUhK9">
           <date when="2023-11-09"/>
+          <time when="13:46:56" dur="PT216S"/>
         </correspAction>
         <correspContext corresp="i-UCYZkbHsKjwLxL7wi9ABnN">
           <ref type="record" target="prot-202324--027">Protokoll 2023/24:27 Torsdagen den 9 november</ref>

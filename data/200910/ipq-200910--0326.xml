@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
+            <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
+            <persName>Finn Bengtsson (M)</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WG11xmCpAW9nyyXv1sJFAK</idno>
             <persName>Helena Leander</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WG11xmCpAW9nyyXv1sJFAK</idno>
-            <persName>Helena Leander (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
-            <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-N78za1uhwAsW23hHrbE83E" corresp="i-WG11xmCpAW9nyyXv1sJFAK">
           <date when="2010-04-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HF2K1wuCgtxG3Pf6qxBZvb">
-          <date when="2010-04-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Far2FLrNVDkTm2JvPQj1jz" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-04-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2PgQQtPbVdfELpbXkD3iW2">
-          <date when="2010-04-20"/>
-          <time when="14:01:07" dur="PT402S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T3141m1joyxfCuyqUHKWrH" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-04-20"/>
+          <time when="14:01:07" dur="PT402S"/>
         </correspAction>
         <correspContext corresp="i-2PgQQtPbVdfELpbXkD3iW2">
           <ref type="record" target="prot-200910--106">Riksdagens protokoll 2009/10:106 Tisdagen den 20 april</ref>

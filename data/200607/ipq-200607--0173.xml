@@ -25,36 +25,29 @@
           <person gender="woman">
             <idno>i-2aZQBvMx8o6ihusfvExbt8</idno>
             <persName>Alice Åström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
             <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-2aZQBvMx8o6ihusfvExbt8</idno>
+            <persName>Alice Åström</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Alice Åström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +56,12 @@
         <correspAction type="sent" xml:id="i-YYtYZ1HzRxUFjoarBNV8sr" corresp="i-2aZQBvMx8o6ihusfvExbt8">
           <date when="2006-12-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LW9CzQZMwAA74Lur6udpZF">
-          <date when="2006-12-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-6b1WpchkVo6nE2uuBUfc5g" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2006-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DPi7PVTj8nrci6DokMzmz9">
-          <date when="2007-01-18"/>
-          <time when="16:31:02" dur="PT340S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4oXa4U6UPsSqV3vD676RUg" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-01-18"/>
+          <time when="16:31:02" dur="PT340S"/>
         </correspAction>
         <correspContext corresp="i-DPi7PVTj8nrci6DokMzmz9">
           <ref type="record" target="prot-200607--050">Riksdagens protokoll 2006/07:50 Torsdagen den 18 januari</ref>

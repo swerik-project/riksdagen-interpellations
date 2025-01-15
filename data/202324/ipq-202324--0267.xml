@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
             <persName>Acko Ankarberg Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VhsZak2Xu8bz6kxDBeCWuE" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2023-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GRXmq61av1kT2x9iwL4yn2">
-          <date when="2023-12-11"/>
-          <time when="12:40:53" dur="PT365S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C1CbH72KMGjmar6YZXbSxv">
           <date when="2023-12-11"/>
+          <time when="12:40:53" dur="PT365S"/>
         </correspAction>
         <correspContext corresp="i-GRXmq61av1kT2x9iwL4yn2">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

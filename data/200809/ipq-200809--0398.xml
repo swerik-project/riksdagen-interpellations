@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
-            <persName>Leif Pagrotsky</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
-            <persName>Leif Pagrotsky (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Leif Pagrotsky</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3p4mq25fp7DxJwoHKjaxQj" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <date when="2009-03-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3sBBNE8mBaxFBSzz1hfRRk">
-          <date when="2009-03-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Bfi82FPLJihJfztbXk8fnu" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9Wsk5YHKTm8rjXdJ7Djz4T">
-          <date when="2009-03-24"/>
-          <time when="21:58:12" dur="PT232S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NX2DrF4Ht3RMeMvhnEeYCv" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-03-24"/>
+          <time when="21:58:12" dur="PT232S"/>
         </correspAction>
         <correspContext corresp="i-9Wsk5YHKTm8rjXdJ7Djz4T">
           <ref type="record" target="prot-200809--090">Riksdagens protokoll 2008/09:90 Tisdagen den 24 mars</ref>

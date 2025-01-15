@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-NF4BomvcfAd9CuZEwt9Bwv</idno>
             <persName>Joe Frans</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
             <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-GfHU4PX4B5biwR54E85Uim" corresp="i-NF4BomvcfAd9CuZEwt9Bwv">
           <date when="2003-12-05"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-XMHKScenV9CY8VvFrTMh77">
-          <date when="2003-12-05"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-LLAu9rWV6GEtEh7J9jTPd6">
-          <date when="2004-01-20"/>
         </correspAction>
         <correspAction type="received" xml:id="i-SD1gbc4rzUQ7XzG5UejZGN" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2003-12-05"/>

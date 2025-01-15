@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
             <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-XUFQk7TSYRd3sZuF3VKVfF" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2018-04-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AbgFZyQkFsAG9SJGgrurNn">
-          <date when="2018-04-17"/>
-          <time when="20:32:50" dur="PT81S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DUmbcRTVtFzaMLJgV6gyqu">
           <date when="2018-04-17"/>
+          <time when="20:32:50" dur="PT81S"/>
         </correspAction>
         <correspContext corresp="i-AbgFZyQkFsAG9SJGgrurNn">
           <ref type="record" target="prot-201718--099">Protokoll 2017/18:99 Tisdagen den 17 april</ref>

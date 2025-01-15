@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
             <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
+            <persName>Ulf Holm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-PiWpHRpKNp587LYKcMc7og" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-05-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Rs4Rx95LbZYtFVF7nhGMPv">
-          <date when="2007-05-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-T6xRC96CTPr3j4BcwcY2EQ" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-05-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KRUhUzdVv2XbSxe32NDZak">
-          <date when="2007-06-15"/>
-          <time when="12:28:42" dur="PT333S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PLFQ5qe4wKKLkGavTU23gc" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-06-15"/>
+          <time when="12:28:42" dur="PT333S"/>
         </correspAction>
         <correspContext corresp="i-KRUhUzdVv2XbSxe32NDZak">
           <ref type="record" target="prot-200607--127">Riksdagens protokoll 2006/07:127 Fredagen den 15 juni</ref>

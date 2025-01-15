@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3Hw7tVgJf8hw3aPyvVdKdC" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BT4u2qX13A3xs26VkfQWSe">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GEFQJAAnfDcd1tvKA5VpCf" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3dZo4XZX6TvWeXtNHRbLLg">
-          <date when="2009-05-26"/>
-          <time when="13:44:36" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Hnj28YUYhKLcsUkVXcnySg" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-05-26"/>
+          <time when="13:44:36" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-3dZo4XZX6TvWeXtNHRbLLg">
           <ref type="record" target="prot-200809--124">Riksdagens protokoll 2008/09:124 Tisdagen den 26 maj</ref>

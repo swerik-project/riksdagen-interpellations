@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-UAcocvxdZVyzHT2XBMpsD4</idno>
             <persName>Ida Ekeroth Clausson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8fLDFKe7DukdiZtVTQStKM</idno>
             <persName>Angelica Lundberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-38jBhirK3Q2WpsVMafAn24</idno>
             <persName>Hanna Westerén</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-WkHLSq3iMTQLhpBgHVzy65" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2023-10-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SamcAFTovxqVg1EP5paMHk">
-          <date when="2023-11-07"/>
-          <time when="19:13:55" dur="PT244S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SwdK2UNgsoiY3WkoCuWQah" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-11-07"/>
+          <time when="19:13:55" dur="PT244S"/>
         </correspAction>
         <correspAction xml:id="i-9iQ2fDjxvDG9kdQ2kyDpWL" type="discussed" corresp="i-8fLDFKe7DukdiZtVTQStKM">
           <date when="2023-11-07"/>

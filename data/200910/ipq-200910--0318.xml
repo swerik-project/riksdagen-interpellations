@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Maryam Yazdanfar</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-KFmiJnyzi3E3uz8Cc76KTS" corresp="i-TcNfrp7fRvP58buMahA7Gi">
           <date when="2010-03-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5Un5Bivdr7bBCUxRFdU9bv">
-          <date when="2010-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-ScrrD2aVtFUP4KXQPVDHd1" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AEmXeznmtvEUipjnGydJ4e">
-          <date when="2010-04-08"/>
-          <time when="12:23:36" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BhEufMoeMTVjyWsAxT6Sc" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-04-08"/>
+          <time when="12:23:36" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-AEmXeznmtvEUipjnGydJ4e">
           <ref type="record" target="prot-200910--100">Riksdagens protokoll 2009/10:100 Torsdagen den 8 april</ref>

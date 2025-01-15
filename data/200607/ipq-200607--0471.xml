@@ -25,35 +25,35 @@
           <person gender="woman">
             <idno>i-YU8i88S8eJQ5ZYdJzkoGef</idno>
             <persName>Eva Selin Lindgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Eva Selin Lindgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-YU8i88S8eJQ5ZYdJzkoGef</idno>
+            <persName>Eva Selin Lindgren</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>C</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-9dhvCakQCuzSNA53735xjn" corresp="i-YU8i88S8eJQ5ZYdJzkoGef">
           <date when="2007-04-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LTquduYAj2HwfbDQQnur9D">
-          <date when="2007-04-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VZGKHomprgbBnwDL8gAo9y" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-04-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GQs2RvF9WMmUCktQhXcuCv">
-          <date when="2007-04-24"/>
-          <time when="15:07:36" dur="PT329S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KTxPXFk6DX5X4ynkvz55Rg" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-04-24"/>
+          <time when="15:07:36" dur="PT329S"/>
         </correspAction>
         <correspContext corresp="i-GQs2RvF9WMmUCktQhXcuCv">
           <ref type="record" target="prot-200607--097">Riksdagens protokoll 2006/07:97 Tisdagen den 24 april</ref>

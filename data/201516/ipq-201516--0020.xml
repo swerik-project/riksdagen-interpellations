@@ -27,35 +27,28 @@
           <person gender="man">
             <idno>i-YSKeLiTp6e1eVBrTwK4cRX</idno>
             <persName>Aron Modig</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-C3uoiPvtkUCjEhpYpuebZp" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-09-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ULD4zSvHpWrWY24PKR9hAv">
-          <date when="2015-10-13"/>
-          <time when="14:55:21" dur="PT118S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Qk2od2h5d8gEVbtaLDpfWj">
           <date when="2015-10-13"/>
+          <time when="14:55:21" dur="PT118S"/>
         </correspAction>
         <correspContext corresp="i-ULD4zSvHpWrWY24PKR9hAv">
           <ref type="record" target="prot-201516--012">Protokoll 2015/16:12 Tisdagen den 13 oktober</ref>

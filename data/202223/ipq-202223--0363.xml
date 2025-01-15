@@ -25,45 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-M2rNBQVSaqrQcUZQkmkCCX</idno>
             <persName>Serkan Köse</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Johan Pehrson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-9beZY8hW9P8etABifYNjVL" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FbRnXNPJQo6aNZKMffEZna">
-          <date when="2023-06-26"/>
-          <time when="11:41:47" dur="PT109S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CzGmfQL4hu12ibrDyFLjQx" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-06-26"/>
+          <time when="11:41:47" dur="PT109S"/>
         </correspAction>
         <correspContext corresp="i-FbRnXNPJQo6aNZKMffEZna">
           <ref type="record" target="prot-202223--130">Protokoll 2022/23:130 Måndagen den 26 juni</ref>

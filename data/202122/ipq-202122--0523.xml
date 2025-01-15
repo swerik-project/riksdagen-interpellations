@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-29mfDMsJPWEiP2a3sbi67r" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-05-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6hj6uajJrvcSo1sMVaM3cp">
-          <date when="2022-06-27"/>
-          <time when="15:11:12" dur="PT103S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MGk2TisYX6bWrNcW1D6ZFM" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-06-27"/>
+          <time when="15:11:12" dur="PT103S"/>
         </correspAction>
         <correspContext corresp="i-6hj6uajJrvcSo1sMVaM3cp">
           <ref type="record" target="prot-202122--137">Protokoll 2021/22:137 Måndagen den 27 juni</ref>

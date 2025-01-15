@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-3BPSkDjmTQfynFNdopmM2B" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2017-11-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3i9NfuoDeh799Xnmn4XTgf">
-          <date when="2017-11-21"/>
-          <time when="19:02:04" dur="PT255S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Li5jXXCk8VR6i9spLoAzbv" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2017-11-21"/>
+          <time when="19:02:04" dur="PT255S"/>
         </correspAction>
         <correspContext corresp="i-3i9NfuoDeh799Xnmn4XTgf">
           <ref type="record" target="prot-201718--034">Protokoll 2017/18:34 Tisdagen den 21 november</ref>

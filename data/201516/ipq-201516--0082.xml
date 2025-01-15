@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-AJ75KoHbRUFDM2sbJjkvBE" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2015-10-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JmfHnmU81fXMJdee1Z9BN3">
-          <date when="2015-11-05"/>
-          <time when="12:31:47" dur="PT103S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BnxXGoUMY3iUFuWTaPd3W4">
           <date when="2015-11-05"/>
+          <time when="12:31:47" dur="PT103S"/>
         </correspAction>
         <correspContext corresp="i-JmfHnmU81fXMJdee1Z9BN3">
           <ref type="record" target="prot-201516--022">Protokoll 2015/16:22 Torsdagen den 5 november</ref>

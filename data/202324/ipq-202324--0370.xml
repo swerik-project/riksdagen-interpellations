@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
-            <persName>Parisa Liljestrand</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JPgedjW7JshtfAExS9H21b</idno>
             <persName>Emma Ahlström Köster</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
+            <persName>Parisa Liljestrand</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-YRLQF3PFGYJfybf1GraBLf" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2024-01-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2oFTvtzbQfkR4FXffR37YA">
-          <date when="2024-02-01"/>
-          <time when="12:22:01" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9mMTgAYQyxLfmsgBWJpdtW">
           <date when="2024-02-01"/>
+          <time when="12:22:01" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-2oFTvtzbQfkR4FXffR37YA">
           <ref type="record" target="prot-202324--064">Protokoll 2023/24:64 Torsdagen den 1 februari</ref>

@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
+            <persName>Amineh Kakabaveh</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Rq1ECGg4WC76eZc1hcKK59" corresp="i-548HUVvKe8n48M3pQmFeUC">
           <date when="2008-03-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3gfoRYt6UJt9mC5e3Q6d3u">
-          <date when="2008-03-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DXiWxiwLshjukcGbm19F9W" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LEoBFXnm5BYzB953DqA929">
-          <date when="2008-04-11"/>
-          <time when="09:37:08" dur="PT378S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3dT1YpQmkxSvzF41qwSo5m" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-04-11"/>
+          <time when="09:37:08" dur="PT378S"/>
         </correspAction>
         <correspContext corresp="i-LEoBFXnm5BYzB953DqA929">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

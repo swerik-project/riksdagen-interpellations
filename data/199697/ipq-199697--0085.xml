@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Ragnhild Pohanka (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-FaHZVPWVR2eB2WbWdES1dK</idno>
@@ -29,6 +29,7 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,15 +37,14 @@
         <correspAction type="sent" xml:id="i-8p6Kme84dRT4MeDRcjRBo3" corresp="i-FaHZVPWVR2eB2WbWdES1dK">
           <date when="1996-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XRGdHgoY46CG4rURnTdqU5">
+        <correspAction type="received" xml:id="i-XRGdHgoY46CG4rURnTdqU5" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-J7T7V3b8bPnZ3kfBs23kzv">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9GSjaoFZQKek9cSU21a5X2">
-          <date when="1996-01-29"/>
+          <date when="1997-01-29"/>
         </correspAction>
         <correspContext corresp="i-9GSjaoFZQKek9cSU21a5X2">
           <ref type="record" target="prot-199697--056">Prot. 1996/97:56</ref>

@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Annika Nordgren (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-WhkYyHkAQJinZzBj9xsEfU</idno>
@@ -31,6 +31,7 @@
           <person gender="man">
             <persName>statsrådet Leif Pagrotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-9ZSbA3gwfYDnJGDsMTiuGQ" corresp="i-WhkYyHkAQJinZzBj9xsEfU">
           <date when="1996-11-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SwMXXrdxtCgVBoWpLr82LB">
+        <correspAction type="received" xml:id="i-SwMXXrdxtCgVBoWpLr82LB" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pagrotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9iTSV93vNTx6xB75DRBPew">
           <note>Besvarad</note>

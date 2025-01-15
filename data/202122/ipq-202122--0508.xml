@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-FucmvyHZ22CXcKRGnfjaC4</idno>
             <persName>Anders Åkesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-3Em142FyYKrGAUXsxobKo9" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-05-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9u8PqYKjTaUSb5bLAPWidA">
-          <date when="2022-06-22"/>
-          <time when="16:35:56" dur="PT60S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9vPzmHo6p1rCtvhv1idMMo" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-06-22"/>
+          <time when="16:35:56" dur="PT60S"/>
         </correspAction>
         <correspContext corresp="i-9u8PqYKjTaUSb5bLAPWidA">
           <ref type="record" target="prot-202122--136">Protokoll 2021/22:136 Onsdagen den 22 juni</ref>

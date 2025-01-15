@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
             <persName>Pontus Andersson Garpvall</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HpAiPdAaT8ibF3ZUVvyDdX</idno>
             <persName>Adrian Magnusson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-SStg2XJu6H5TqHPpCgxNrR" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2024-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SzKVnMwrdZPYLTwfWDFVDf">
-          <date when="2024-01-30"/>
-          <time when="21:59:51" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4J5RaXJCsBtZ74kjuizPsF">
           <date when="2024-01-30"/>
+          <time when="21:59:51" dur="PT214S"/>
         </correspAction>
         <correspContext corresp="i-SzKVnMwrdZPYLTwfWDFVDf">
           <ref type="record" target="prot-202324--062">Protokoll 2023/24:62 Tisdagen den 30 januari</ref>

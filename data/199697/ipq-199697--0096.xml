@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Ewa Larsson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-LQkHPw9HasEs3KVdtLozXh</idno>
@@ -30,21 +30,24 @@
           <person>
             <persName>inrikesministern</persName>
           </person>
+          <person gender="man">
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <persName>Jörgen Andersson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-CxxTuQ6T2NL5mzraNNgNzt" corresp="i-LQkHPw9HasEs3KVdtLozXh">
-          <date when="1996-01-07"/>
+          <date when="1997-01-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NSpWBBXwixZngrN1Ga5rcA">
+        <correspAction type="received" xml:id="i-NSpWBBXwixZngrN1Ga5rcA" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-AVShUQ366QFyECwPEGDDDj">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2RpFsgvpBS3HieHt9AVaQy">
-          <date when="1996-01-28"/>
+          <date when="1997-01-28"/>
         </correspAction>
         <correspContext corresp="i-2RpFsgvpBS3HieHt9AVaQy">
           <ref type="record" target="prot-199697--055">Prot. 1996/97:55</ref>

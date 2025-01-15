@@ -22,53 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
             <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
+            <persName>Jan Lindholm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Y9ZVkJozBmqDwCJNyDY2rj" corresp="i-VRHymVx7EsX48sg7b5qmpS">
           <date when="2008-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JY4a5AQYKeYp2WFp1T92YF">
-          <date when="2008-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JDZ6KdvwY58KExmCnoa9Hz" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Gm6aLWsohLTx2YMYrWpPph">
-          <date when="2008-03-11"/>
-          <time when="18:28:32" dur="PT495S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Tn9aiimPn6LCqsKr5U9WtM" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2008-03-11"/>
+          <time when="18:28:32" dur="PT495S"/>
         </correspAction>
         <correspContext corresp="i-Gm6aLWsohLTx2YMYrWpPph">
           <ref type="record" target="prot-200708--076">Riksdagens protokoll 2007/08:76 Tisdagen den 11 mars</ref>

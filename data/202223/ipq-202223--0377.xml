@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-7EGhEVdWhirq9oiHvVcrQR</idno>
             <persName>Lotta Johnsson Fornarve</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-6xogZGKsWfPoN1VD3ubMcP" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2023-06-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5Y6ARSeANLPNk68p7iMEgY">
-          <date when="2023-08-22"/>
-          <time when="12:02:12" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6Gyu3Vx43kEyCnSZBo5X9L" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2023-08-22"/>
+          <time when="12:02:12" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-5Y6ARSeANLPNk68p7iMEgY">
           <ref type="record" target="prot-202223--134">Protokoll 2022/23:134 Tisdagen den 22 augusti</ref>
@@ -179,9 +162,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-SFpTp8GDYEsvSfebjeRJVk">
-            
-            <list rend="unordered">
+          <p xml:id="i-SFpTp8GDYEsvSfebjeRJVk"><list rend="unordered">
               <item>
                 På vilket sätt har regeringen agerat i frågan om gasattackerna
                 på iranska skolflickor?

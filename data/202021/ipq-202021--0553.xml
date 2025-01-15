@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>-</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-PwT2NWZLCZw2iTNmM8Rtnt" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DMMLBmzpjYzhKzXiiBe42">
-          <date when="2021-04-06"/>
-          <time when="13:02:33" dur="PT202S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XxCf1osVG5rW9NUQtPXdh8" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-04-06"/>
+          <time when="13:02:33" dur="PT202S"/>
         </correspAction>
         <correspContext corresp="i-DMMLBmzpjYzhKzXiiBe42">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

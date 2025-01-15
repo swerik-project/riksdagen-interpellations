@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-B8wFGVyzJsDS6zUEFaUgeN</idno>
             <persName>Joakim Järrebring</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ArWgzVgSNPorLNtwCZq5ms" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-03-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Y8tvpz2yoWkTGyz4FciePi">
-          <date when="2023-04-11"/>
-          <time when="20:15:01" dur="PT102S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S4J2F8yq76SDgYiHW2uNdZ">
           <date when="2023-04-11"/>
+          <time when="20:15:01" dur="PT102S"/>
         </correspAction>
         <correspContext corresp="i-Y8tvpz2yoWkTGyz4FciePi">
           <ref type="record" target="prot-202223--086">Protokoll 2022/23:86 Tisdagen den 11 april</ref>

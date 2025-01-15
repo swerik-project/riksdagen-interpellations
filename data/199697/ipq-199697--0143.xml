@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -30,21 +30,24 @@
           <person>
             <persName>inrikesministern</persName>
           </person>
+          <person gender="man">
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <persName>Jörgen Andersson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-S7m2dspvQirCV8ZBXbpAfs" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
-          <date when="1996-02-03"/>
+          <date when="1997-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Y7Dew5dz1F4dWfyKsw7juh">
+        <correspAction type="received" xml:id="i-Y7Dew5dz1F4dWfyKsw7juh" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-h9NQi9TqaKEKQ3iWCqad7">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QvdrwJbz9k8J7DY9STkkEh">
-          <date when="1996-02-11"/>
+          <date when="1997-02-11"/>
         </correspAction>
         <correspContext corresp="i-QvdrwJbz9k8J7DY9STkkEh">
           <ref type="record" target="prot-199697--063">Prot. 1996/97:63</ref>

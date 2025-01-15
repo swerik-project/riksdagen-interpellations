@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Annika Jonsell (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-EP6GLnbcXJQENTaGnpm52Z</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-491XvCSnXuL61rM1jdn7Af" corresp="i-EP6GLnbcXJQENTaGnpm52Z">
           <date when="1997-11-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-V2zf3LYbopnQoYZAY3dcUQ">
+        <correspAction type="received" xml:id="i-V2zf3LYbopnQoYZAY3dcUQ" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LoBE8PjN3j8emypKJ5fy5P">
           <note>Besvarad</note>

@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-RZNwwHohbyBgLVVG4Dy1Bj</idno>
-            <persName>Carin Runeson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-RZNwwHohbyBgLVVG4Dy1Bj</idno>
-            <persName>Carin Runeson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carin Runeson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5t946gCRHdbYgWXLjqZJ1i" corresp="i-RZNwwHohbyBgLVVG4Dy1Bj">
           <date when="2009-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-V6Rg7azsQu7xbt8HJjGSwa">
-          <date when="2009-01-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PVmHE1QEozWyYi9mGUYVzK" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-01-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PkATsuGBJtKBgWX13cvxDs">
-          <date when="2009-02-10"/>
-          <time when="21:03:12" dur="PT218S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T5pVKDX5jK3q6CFaTqucuR" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-02-10"/>
+          <time when="21:03:12" dur="PT218S"/>
         </correspAction>
         <correspContext corresp="i-PkATsuGBJtKBgWX13cvxDs">
           <ref type="record" target="prot-200809--067">Riksdagens protokoll 2008/09:67 Tisdagen den 10 februari</ref>

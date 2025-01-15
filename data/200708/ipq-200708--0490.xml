@@ -23,59 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BiMpWamDCrtYZ5cYZ97cjT</idno>
             <persName>Malin Löfsjögård (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +70,12 @@
         <correspAction type="sent" xml:id="i-8dL2gwNjEoTn9yysVptVHR" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2008-03-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JQkedf8S74YrJPYLxestn6">
-          <date when="2008-03-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NGvwp878C4UTb4LybmCDk5" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BeTxWTXfKqmucgWKFqQNv9">
-          <date when="2008-04-11"/>
-          <time when="11:17:38" dur="PT370S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Ea5uVW3oSUn5en1gJnpyTP" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-04-11"/>
+          <time when="11:17:38" dur="PT370S"/>
         </correspAction>
         <correspContext corresp="i-BeTxWTXfKqmucgWKFqQNv9">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

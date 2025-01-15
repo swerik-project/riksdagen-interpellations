@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
+            <persName>Marléne Lund Kopparklint</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
-            <persName>Marléne Lund Kopparklint</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-4LQxCV94NyCZSds8qagCvA" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-01-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XmpcQxnxFy3pTZQFY7bMW9">
-          <date when="2022-02-15"/>
-          <time when="18:39:27" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8ZdbkNnAKDozw7rJ4XgGjr" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-02-15"/>
+          <time when="18:39:27" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-XmpcQxnxFy3pTZQFY7bMW9">
           <ref type="record" target="prot-202122--066">Protokoll 2021/22:66 Tisdagen den 15 februari</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
             <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8gWp8Yy1wED2fVbDW53LF8" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2019-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AZjRH1s6gJrc9umGhxj2uA">
-          <date when="2019-02-12"/>
-          <time when="20:37:54" dur="PT121S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-APUxj1C4RWeWwUAcNr6T61">
           <date when="2019-02-12"/>
+          <time when="20:37:54" dur="PT121S"/>
         </correspAction>
         <correspContext corresp="i-AZjRH1s6gJrc9umGhxj2uA">
           <ref type="record" target="prot-201819--051">Protokoll 2018/19:51 Tisdagen den 12 februari</ref>

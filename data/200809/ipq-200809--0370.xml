@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-NhMa3WmbcWAwevjpo3zxZh" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2009-02-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JpA7LHkJH2gkEoqLRoQJAD">
-          <date when="2009-02-26"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EMY52MdqMD7EbG5TBvNNya" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DKGp6X6D54Ya46XtsVMXfc">
-          <date when="2009-03-17"/>
-          <time when="18:22:30" dur="PT409S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WiziLzAqovqQoCNSKsqBPA" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-03-17"/>
+          <time when="18:22:30" dur="PT409S"/>
         </correspAction>
         <correspContext corresp="i-DKGp6X6D54Ya46XtsVMXfc">
           <ref type="record" target="prot-200809--085">Riksdagens protokoll 2008/09:85 Tisdagen den 17 mars</ref>

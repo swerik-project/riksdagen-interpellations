@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
             <persName>Statsrådet Heléne Fritzon</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WjgeYy5RFWngMB9NwFvFEY</idno>
             <persName>Christina Höj Larsen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-W7P1QZqSC8NJYGnoRhLTKq" corresp="i-7M6cUJxC6g2gyqHr59NnJQ">
           <date when="2018-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9zUqSSAwP765DzHXcaRnZC">
-          <date when="2018-03-23"/>
-          <time when="09:32:23" dur="PT295S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Gq2iGA8UPCtQTmkR5kyfqY" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-03-23"/>
+          <time when="09:32:23" dur="PT295S"/>
         </correspAction>
         <correspContext corresp="i-9zUqSSAwP765DzHXcaRnZC">
           <ref type="record" target="prot-201718--090">Protokoll 2017/18:90 Fredagen den 23 mars</ref>

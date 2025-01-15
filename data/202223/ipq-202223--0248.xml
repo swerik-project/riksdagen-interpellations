@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HaBKPQ5yfZK6LYjmYU1tZy</idno>
             <persName>Aida Birinxhiku</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
+            <persName>Ebba Busch</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Uv8vR1w4M5xhN3MdtEVLMp" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Cjxd7vLFk7ejUDVmieJUr6">
-          <date when="2023-03-21"/>
-          <time when="13:44:22" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P8dEpY6iX3BWe36k4dCwu">
           <date when="2023-03-21"/>
+          <time when="13:44:22" dur="PT267S"/>
         </correspAction>
         <correspContext corresp="i-Cjxd7vLFk7ejUDVmieJUr6">
           <ref type="record" target="prot-202223--078">Protokoll 2022/23:78 Tisdagen den 21 mars</ref>

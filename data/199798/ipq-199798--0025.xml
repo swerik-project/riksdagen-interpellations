@@ -20,15 +20,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-9f6P1EAbysC1DoLZviVXft" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1997-10-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Vm2PXB3AEMPAmgTvBjv5XC">
+        <correspAction type="received" xml:id="i-Vm2PXB3AEMPAmgTvBjv5XC" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KwKaKkyc5e2v6S9RnAFgFE">
           <note>Besvarad</note>

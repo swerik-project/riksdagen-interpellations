@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HEv6de5edZnUutAL5FAKFt</idno>
             <persName>Mirja Räihä</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-JGSgrRM98pxtJjMzUEkHuS</idno>
             <persName>Kadir Kasirga</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
+            <persName>Lotta Edholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-GmhdVCaHxqjdSGh4vJVqC9" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MdJt49Std7kjDeoBF1q2re">
-          <date when="2024-03-01"/>
-          <time when="09:58:36" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QmZb64ivgszrAjdETp8W7o">
           <date when="2024-03-01"/>
+          <time when="09:58:36" dur="PT165S"/>
         </correspAction>
         <correspAction xml:id="i-Fku1eUaBRzTG7uVFCi5QS6" type="discussed" corresp="i-Xvwr4Q7CsjqRAtkC5NmcYG">
           <date when="2024-03-01"/>

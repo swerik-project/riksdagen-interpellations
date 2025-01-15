@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
             <persName>Statsrådet Jessika Roswall</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
+            <persName>Maria Malmer Stenergard</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-DU8sDFRAevobfiJK4Nr96t" corresp="i-TMBKCxFj2h6LkEEpYodyut">
           <date when="2023-03-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LUSBYM9YPuFXRLzNgvoPtu">
-          <date when="2023-04-11"/>
-          <time when="18:24:14" dur="PT148S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Vxfjuvh8einLWob7PzfkKG" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-04-11"/>
+          <time when="18:24:14" dur="PT148S"/>
         </correspAction>
         <correspContext corresp="i-LUSBYM9YPuFXRLzNgvoPtu">
           <ref type="record" target="prot-202223--086">Protokoll 2022/23:86 Tisdagen den 11 april</ref>

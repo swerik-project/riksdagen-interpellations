@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MzXaegnmBQej56i8amZoDN</idno>
             <persName>Tomas Kronståhl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
+            <persName>Peter Kullgren</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-8sG7AUfnMGemAwasaKGMJk" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-11-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QVSLUqgzXQuEN9XqDkxHHx">
-          <date when="2023-11-21"/>
-          <time when="18:00:28" dur="PT358S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TYscDQ1KgnWLhDxj21HjMN">
           <date when="2023-11-21"/>
+          <time when="18:00:28" dur="PT358S"/>
         </correspAction>
         <correspContext corresp="i-QVSLUqgzXQuEN9XqDkxHHx">
           <ref type="record" target="prot-202324--033">Protokoll 2023/24:33 Tisdagen den 21 november</ref>

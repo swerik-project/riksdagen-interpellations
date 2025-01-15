@@ -23,66 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HsmyrkjqQGCAargTNWaeXi</idno>
             <persName>Siw Wittgren-Ahl (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UT1ponddSVxoVpn779syr7</idno>
             <persName>Solveig Zander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
             <persName>Gunnar Axén (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
             <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-3pg77Te3F8XwmTD4QAQnnn" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2008-03-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RdppAvzPoKCM9VE9d5f1cd">
-          <date when="2008-03-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-31zL8daumN13d5cu4ea4u3" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-03-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PVXVbarmTt2RXpb1DAMNrv">
-          <date when="2008-03-28"/>
-          <time when="12:32:52" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KjnnPa5K5BNfAbcReXntWr" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-03-28"/>
+          <time when="12:32:52" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-PVXVbarmTt2RXpb1DAMNrv">
           <ref type="record" target="prot-200708--085">Riksdagens protokoll 2007/08:85 Fredagen den 28 mars</ref>

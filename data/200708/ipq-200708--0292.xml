@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
             <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hans Linde</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Lg2Pg8EdcznWfJugW1toQG" corresp="i-K3yJ7rruozYUK99nj91ffc">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-S7S71yfxxcDjmz3A31aJPc">
-          <date when="2007-12-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CivSoVA8LGhhbuHW3469ck" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RBMukGTePFKxGbCUabxYLC">
-          <date when="2008-01-25"/>
-          <time when="09:01:18" dur="PT434S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GAwsNyLCh4kpcJ4t1SNSua" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2008-01-25"/>
+          <time when="09:01:18" dur="PT434S"/>
         </correspAction>
         <correspContext corresp="i-RBMukGTePFKxGbCUabxYLC">
           <ref type="record" target="prot-200708--058">Riksdagens protokoll 2007/08:58 Fredagen den 25 januari</ref>

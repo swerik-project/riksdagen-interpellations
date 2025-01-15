@@ -23,38 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
+            <persName>Jan Lindholm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RVUFySvfmPC45kZu5d7Xad" corresp="i-VRHymVx7EsX48sg7b5qmpS">
           <date when="2008-03-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3yHuBLkdJCWgY9N81xHM29">
-          <date when="2008-03-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Xcc56KbHpAxp4ewsQQFjrV" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-03-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-X11RhFAReyAoo9Pr2pNRtz">
-          <date when="2008-04-25"/>
-          <time when="10:04:44" dur="PT357S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q2iKHzJ2fFzw21GwzBAomn" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-04-25"/>
+          <time when="10:04:44" dur="PT357S"/>
         </correspAction>
         <correspContext corresp="i-X11RhFAReyAoo9Pr2pNRtz">
           <ref type="record" target="prot-200708--103">Riksdagens protokoll 2007/08:103 Fredagen den 25 april</ref>

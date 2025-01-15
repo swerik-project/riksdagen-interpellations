@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-5umfcREwyQVia7Nn6ZEDMz" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2018-04-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7eVt3y56enwoyMs47Ehnqf">
-          <date when="2018-04-17"/>
-          <time when="19:04:32" dur="PT55S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CBaFrjuzbq74E9CqTRvpE3">
           <date when="2018-04-17"/>
+          <time when="19:04:32" dur="PT55S"/>
         </correspAction>
         <correspContext corresp="i-7eVt3y56enwoyMs47Ehnqf">
           <ref type="record" target="prot-201718--099">Protokoll 2017/18:99 Tisdagen den 17 april</ref>

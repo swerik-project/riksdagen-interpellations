@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
             <persName>Désirée Pethrus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xbq1HVkxhCYVmfPLN63HRo</idno>
             <persName>Daniel Riazat</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-UW9aaSb3JUSZ5SErb9f21i" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2gNMvEwdZTmZJYeChxVqgt">
-          <date when="2018-01-26"/>
-          <time when="09:01:47" dur="PT235S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RV8A9Uug5zsVJJqGXQdfKa">
           <date when="2018-01-26"/>
+          <time when="09:01:47" dur="PT235S"/>
         </correspAction>
         <correspContext corresp="i-2gNMvEwdZTmZJYeChxVqgt">
           <ref type="record" target="prot-201718--062">Protokoll 2017/18:62 Fredagen den 26 januari</ref>

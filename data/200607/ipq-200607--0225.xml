@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-8hP3tMc2ZCNgkqnXfsDVYL" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2007-01-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UeFTUahRkT9LVJnGANE8nh">
-          <date when="2007-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-W34wXTNurfKBagwPUCXjQi" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RXRTadHiMMogdWVi3bDHii">
-          <date when="2007-01-30"/>
-          <time when="19:12:14" dur="PT244S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LzJjXBe7ZsZnmSB2uo4sR1" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-01-30"/>
+          <time when="19:12:14" dur="PT244S"/>
         </correspAction>
         <correspContext corresp="i-RXRTadHiMMogdWVi3bDHii">
           <ref type="record" target="prot-200607--056">Riksdagens protokoll 2006/07:56 Tisdagen den 30 januari</ref>

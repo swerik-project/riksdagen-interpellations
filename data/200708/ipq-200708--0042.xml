@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
-            <persName>Fredrik Malm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
-            <persName>Fredrik Malm (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
             <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
+            <persName>Fredrik Malm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-MBd4fembUaSnVnzwBJmLve" corresp="i-AHfQ621Fp1orxTGB2WDjUY">
           <date when="2007-10-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8EUZ5dBwDeissT3obgU6Ro">
-          <date when="2007-10-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-K6XWRCqmjKtKt1G5rptPPg" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-10-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QkWk23QfzLZpoGb7Xj8ewt">
-          <date when="2007-10-26"/>
-          <time when="10:31:35" dur="PT426S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TWcUWiyxT5bvNw82cDRFBA" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-10-26"/>
+          <time when="10:31:35" dur="PT426S"/>
         </correspAction>
         <correspContext corresp="i-QkWk23QfzLZpoGb7Xj8ewt">
           <ref type="record" target="prot-200708--017">Riksdagens protokoll 2007/08:17 Fredagen den 26 oktober</ref>

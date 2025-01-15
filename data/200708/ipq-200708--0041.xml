@@ -23,66 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
             <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xc2gauHt5Y4GsTNbgqrrAo</idno>
             <persName>Yilmaz Kerimo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SNtv8jZRB19Jr8oegj1mGK</idno>
             <persName>Esabelle Reshdouni (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
+            <persName>Mats Pertoft</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-JD89cVZ9HdtBEKFubg9TP" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2007-10-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RRzN8bpv9j6HLA9LuMoGW5">
-          <date when="2007-10-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EB7tgXpbcDtG24JnxXyEMB" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-10-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KuATgNAVYa2cfFfb4sS5o3">
-          <date when="2007-10-26"/>
-          <time when="09:43:54" dur="PT249S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-L2NT8wZ77nUc44jFUd4ae3" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-10-26"/>
+          <time when="09:43:54" dur="PT249S"/>
         </correspAction>
         <correspContext corresp="i-KuATgNAVYa2cfFfb4sS5o3">
           <ref type="record" target="prot-200708--017">Riksdagens protokoll 2007/08:17 Fredagen den 26 oktober</ref>

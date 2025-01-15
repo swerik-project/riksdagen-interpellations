@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-LQNcpTcMwugDJzo2biugNt" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-02-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PjroQKstwue435m9eaSoYA">
-          <date when="2023-03-17"/>
-          <time when="09:29:03" dur="PT105S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4bMToLoZRqF4J3cDQYucZA" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-03-17"/>
+          <time when="09:29:03" dur="PT105S"/>
         </correspAction>
         <correspContext corresp="i-PjroQKstwue435m9eaSoYA">
           <ref type="record" target="prot-202223--077">Protokoll 2022/23:77 Fredagen den 17 mars</ref>

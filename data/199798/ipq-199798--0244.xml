@@ -21,30 +21,30 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Rohdin (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-T576BDaw5pvVYLHtf4Pt4X</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DCbQ1KP6esD98CuThjfohj" corresp="i-T576BDaw5pvVYLHtf4Pt4X">
-          <date when="1997-03-27"/>
+          <date when="1998-03-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AXxCSeUW9epncQCcHEP4NE">
+        <correspAction type="received" xml:id="i-AXxCSeUW9epncQCcHEP4NE" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-C396Api8QSnaHWPs2bHVH9">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-LkUweGycGrtk37zNPwDCxn">
-          <date when="1997-04-17"/>
+          <date when="1998-04-17"/>
         </correspAction>
         <correspContext corresp="i-LkUweGycGrtk37zNPwDCxn">
           <ref type="record" target="prot-199798--092">Prot. 1997/98:92</ref>

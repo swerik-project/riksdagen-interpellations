@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7bVDjZpV72vdnYhJ8phHuW</idno>
             <persName>Louise Meijer</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-G6UAgy5TTMJnfVVmAAX7YM" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-03-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XGc9arHSZizuGb1JT23hV9">
-          <date when="2019-04-12"/>
-          <time when="10:30:52" dur="PT208S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DZ3KBNuE6wszNgkTuK2hzN" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2019-04-12"/>
+          <time when="10:30:52" dur="PT208S"/>
         </correspAction>
         <correspContext corresp="i-XGc9arHSZizuGb1JT23hV9">
           <ref type="record" target="prot-201819--078">Protokoll 2018/19:78 Fredagen den 12 april</ref>

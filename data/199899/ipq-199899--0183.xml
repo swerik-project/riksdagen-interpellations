@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
@@ -31,15 +31,18 @@
             <persName>statsministern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR19</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9eg6oUyU67QbbHBQ1ZhUex" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
-          <date when="1998-02-23"/>
+          <date when="1999-02-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-B9T8pjjkXZasoC3zTBr3Ct">
+        <correspAction type="received" xml:id="i-B9T8pjjkXZasoC3zTBr3Ct" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-RKngS8oUaXhZEWceeUs22s">
           <note>Förfallen</note>

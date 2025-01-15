@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-8j34aNrBk7m9DfpvQCrAwc" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-B7CjjSaCArdKHWuxwGgzD7">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9nSywKGeSmEEJT13EAWMM2" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3nkUMdoW3aY4WnsDrRBSRE">
-          <date when="2010-06-04"/>
-          <time when="09:33:19" dur="PT268S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YG9thdKhE36EjXcSNhNfHv" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2010-06-04"/>
+          <time when="09:33:19" dur="PT268S"/>
         </correspAction>
         <correspContext corresp="i-3nkUMdoW3aY4WnsDrRBSRE">
           <ref type="record" target="prot-200910--132">Riksdagens protokoll 2009/10:132 Fredagen den 4 juni</ref>

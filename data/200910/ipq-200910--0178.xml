@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
-            <persName>Wiwi-Anne Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
-            <persName>Wiwi-Anne Johansson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-UFTZBKNRWWLXUXAtcCcVfH</idno>
             <persName>Tina Ehn (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TyiLHdkXMMBBWN3zcwj3DS</idno>
             <persName>Erik A Eriksson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-P2x4fiHNXrW2XTzJZRJeJJ</idno>
             <persName>Bengt-Anders Johansson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
+            <persName>Wiwi-Anne Johansson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-N5rjsQy33qA5WDte16tnTr" corresp="i-UhKXyeGqJBzFW5wSyeoGMt">
           <date when="2010-01-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XbHrmHSbPZRqJYR85Kgbez">
-          <date when="2010-01-29"/>
-          <time when="09:53:51" dur="PT522S"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-9M4Cbbedqz5xcTLXHdcJGi">
-          <date when="2010-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-W6Azo37dHzWTgSJkRuARrw" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2010-01-18"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-YMQyPR4PCd95713NkXevNA" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2010-01-29"/>
+          <time when="09:53:51" dur="PT522S"/>
         </correspAction>
         <correspContext corresp="i-XbHrmHSbPZRqJYR85Kgbez">
           <ref type="record" target="prot-200910--066">Riksdagens protokoll 2009/10:66 Fredagen den 29 januari</ref>

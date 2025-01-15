@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Lars- Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-5TGqdr6QsMVmUq4fiX4Kgn" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1998-12-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ge8GYFpcnqwvexHtCKf1kq">
+        <correspAction type="received" xml:id="i-Ge8GYFpcnqwvexHtCKf1kq" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars- Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-7tmNiwBHdT9XpxunwzKGdf">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-EbRzZ24aYAPbRtWLXwPz45">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
         <correspContext corresp="i-EbRzZ24aYAPbRtWLXwPz45">
           <ref type="record" target="prot-199899--046">Prot. 1998/99:46</ref>

@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xzt52E3ZeNyJ9HLW4B5Sk1</idno>
             <persName>Statsminister Stefan Löfven</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
             <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-QfPMXWdaSBRAhnt7HCxdQa" corresp="i-Xzt52E3ZeNyJ9HLW4B5Sk1">
           <date when="2016-06-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-L3Ki2ASzQM4AMZeCtu5CvA">
-          <date when="2016-09-01"/>
-          <time when="14:26:46" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5ciqDWKqz9VYiVqPTRMJUX" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2016-09-01"/>
+          <time when="14:26:46" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-L3Ki2ASzQM4AMZeCtu5CvA">
           <ref type="record" target="prot-201516--129">Protokoll 2015/16:129 Torsdagen den 1 september</ref>

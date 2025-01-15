@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-4oCkQAgKes3ZgBTVxj646o" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9iHVsZFHHNKgefzkvpas4m">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HNQqqmVuSyHfRmBpZT7GtV" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DM1it8G59jHEWminri8SAH">
-          <date when="2008-06-02"/>
-          <time when="17:35:32" dur="PT200S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VVeLNYhEnLPKVQuVpgTW69" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-06-02"/>
+          <time when="17:35:32" dur="PT200S"/>
         </correspAction>
         <correspContext corresp="i-DM1it8G59jHEWminri8SAH">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

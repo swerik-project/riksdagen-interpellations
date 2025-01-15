@@ -23,66 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
             <persName>Jörgen Johansson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-XsnLF4nvyYDxjjY6dsMM2c" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2009-01-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UQPf5tW4DRuqEeFzukDGQa">
-          <date when="2009-01-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Dn4oKuEXokf8CqR75XwnL8" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-01-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D5HH9Z2HEWRbqiLFCmmtzg">
-          <date when="2009-03-09"/>
-          <time when="13:15:24" dur="PT215S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Fg2HN8gZMF889uuPtazi5Q" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-03-09"/>
+          <time when="13:15:24" dur="PT215S"/>
         </correspAction>
         <correspContext corresp="i-D5HH9Z2HEWRbqiLFCmmtzg">
           <ref type="record" target="prot-200809--080">Riksdagens protokoll 2008/09:80 Måndagen den 9 mars</ref>

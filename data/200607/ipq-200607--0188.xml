@@ -23,52 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
-            <persName>Göran Lindblad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
-            <persName>Göran Lindblad (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TECanR77Prb79DHwPvLitN</idno>
             <persName>Annelie Enochson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
+            <persName>Göran Lindblad</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +70,12 @@
         <correspAction type="sent" xml:id="i-PrAVdWF5eFFb8Qok7SdrJ9" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LYpgW7a3gcgzpGctF3saWW">
-          <date when="2006-12-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Sy2GHU5E5Ngvt7Xw8TU5Ud" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KX39CQ97gEqZRapmT8kEXy">
-          <date when="2007-01-18"/>
-          <time when="12:36:01" dur="PT318S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FW6Q4bd4KiJgZnD3oABncY" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-01-18"/>
+          <time when="12:36:01" dur="PT318S"/>
         </correspAction>
         <correspContext corresp="i-KX39CQ97gEqZRapmT8kEXy">
           <ref type="record" target="prot-200607--050">Riksdagens protokoll 2006/07:50 Torsdagen den 18 januari</ref>

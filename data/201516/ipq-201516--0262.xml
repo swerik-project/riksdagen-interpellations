@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
             <persName>Statsrådet Aida Hadzialic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-62MMfeaL7gD436HajxzeEp" corresp="i-DjeBWa5GvkPtwGp5yfccUZ">
           <date when="2015-12-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VAPchict9XgnAxD1e5YFbz">
-          <date when="2016-01-14"/>
-          <time when="12:23:24" dur="PT143S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-H89eBGdEqHau2HN6F6dVKC" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2016-01-14"/>
+          <time when="12:23:24" dur="PT143S"/>
         </correspAction>
         <correspContext corresp="i-VAPchict9XgnAxD1e5YFbz">
           <ref type="record" target="prot-201516--052">Protokoll 2015/16:52 Torsdagen den 14 januari</ref>

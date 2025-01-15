@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
+            <persName>Maryam Yazdanfar</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-5Hyv8DLUsNxirxkmELmASu" corresp="i-TcNfrp7fRvP58buMahA7Gi">
           <date when="2009-02-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-P2SMEm3KzJXaka7j5vmkxY">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XJCMZjRwTJ35J2NURXQGYz" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EKgkjrEsehjyUnHdfDeJfQ">
-          <date when="2009-02-20"/>
-          <time when="11:13:23" dur="PT171S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3deiqhakW7oxjg1DfMvnSe" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-02-20"/>
+          <time when="11:13:23" dur="PT171S"/>
         </correspAction>
         <correspContext corresp="i-EKgkjrEsehjyUnHdfDeJfQ">
           <ref type="record" target="prot-200809--074">Riksdagens protokoll 2008/09:74 Fredagen den 20 februari</ref>

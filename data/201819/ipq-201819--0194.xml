@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-HzxR5drvvumXGW3Fi7DiXX</idno>
             <persName>Lina Nordquist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Statsrådet Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Statsrådet Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-GVv2yZ3hb2SPXn7dV3Qnim" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2019-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6222uQnhMXfVLbeCLd1LTe">
-          <date when="2019-05-10"/>
-          <time when="11:03:06" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-24qxvRmFAhenA42u9oX3cN" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2019-05-10"/>
+          <time when="11:03:06" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-6222uQnhMXfVLbeCLd1LTe">
           <ref type="record" target="prot-201819--090">Protokoll 2018/19:90 Fredagen den 10 maj</ref>

@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Nywj47pd422wBAiv8K2vPV</idno>
             <persName>Jan Ertsborn (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-xb14VwjyVyCFLCdHrLnaX" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2007-01-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EvWWpNyZ4k9DKYarxyBqUA">
-          <date when="2007-01-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BgRaqo3Ln9rNootBC9eex3" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-B23N366Kpm9Usfi1GiEGh9">
-          <date when="2007-02-20"/>
-          <time when="14:43:47" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7cLsjgfqCLYrqcUUYCGx2G" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-02-20"/>
+          <time when="14:43:47" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-B23N366Kpm9Usfi1GiEGh9">
           <ref type="record" target="prot-200607--063">Riksdagens protokoll 2006/07:63 Tisdagen den 20 februari</ref>

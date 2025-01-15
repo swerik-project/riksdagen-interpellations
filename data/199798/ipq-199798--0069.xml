@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="man">
             <persName>Mikael Janson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-Kv4bkXbbqGQTq4g6DErkzF</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-HKxbqUuq29443uyxjoui33" corresp="i-Kv4bkXbbqGQTq4g6DErkzF">
           <date when="1997-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-REJmJ525EAbytbXMzFdEME">
+        <correspAction type="received" xml:id="i-REJmJ525EAbytbXMzFdEME" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Wps1iDp76noS6Nm3ey8NmK">
           <note>Besvarad</note>

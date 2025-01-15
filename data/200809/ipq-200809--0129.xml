@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
             <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
             <persName>Eva Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
-            <persName>Eva Johnsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-TJkrUGxRu7Hu5JMpwpk3ct" corresp="i-W4ZdT3cRpUqSBcZCGKXaji">
           <date when="2008-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-64KXEATfxTxwaGMCzgHrdM">
-          <date when="2008-11-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UhEdHSQR4LxF6aJDJrhD6R" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VwhWno3x8qdncSKYNy7Weu">
-          <date when="2008-12-09"/>
-          <time when="19:11:42" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QGLrbcYs9mZ8AmPZ6uX6yi" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-12-09"/>
+          <time when="19:11:42" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-VwhWno3x8qdncSKYNy7Weu">
           <ref type="record" target="prot-200809--045">Riksdagens protokoll 2008/09:45 Tisdagen den 9 december</ref>

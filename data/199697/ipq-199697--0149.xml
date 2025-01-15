@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Karin Falkmer (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-A16XHDHnpsSEskwvgsUhaw</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Sten Heckscher</persName>
             <idno>i-2vgVV6cyMz23oX8PyzP8Cm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <persName>Anders Sundström</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-A4UbBS52FaS3KZ2fYyiUMm" corresp="i-A16XHDHnpsSEskwvgsUhaw">
-          <date when="1996-02-03"/>
+          <date when="1997-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Msomkm6yZEicXdxsmzSHhS">
+        <correspAction type="received" xml:id="i-Msomkm6yZEicXdxsmzSHhS" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-XjzFrsdYC41TcCeQa8x8Hx">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-4XrWgG2FG895UvSz57HFzb">
-          <date when="1996-02-25"/>
+          <date when="1997-02-25"/>
         </correspAction>
         <correspContext corresp="i-4XrWgG2FG895UvSz57HFzb">
           <ref type="record" target="prot-199697--068">Prot. 1996/97:68</ref>

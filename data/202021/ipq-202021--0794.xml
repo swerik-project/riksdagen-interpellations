@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-QncsjeqVcGrNpNi8SPzrX4</idno>
             <persName>Michael Rubbestad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Statsrådet Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LrrG11adGyrJQJ2Mgy84ud" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2021-06-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TU5j6wsuJb7yMqEvhkjDtG">
-          <date when="2021-06-11"/>
-          <time when="09:01:43" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YbAEPQ5f7kvNJ5FRKXNbU6">
           <date when="2021-06-11"/>
+          <time when="09:01:43" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-TU5j6wsuJb7yMqEvhkjDtG">
           <ref type="record" target="prot-202021--139">Protokoll 2020/21:139 Fredagen den 11 juni</ref>

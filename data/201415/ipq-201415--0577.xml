@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Ev13DrJjHbo85jEmQ5EPLM</idno>
             <persName>Ewa Thalén Finné</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-D6V9ti7ETxin1WbJjDaShE</idno>
             <persName>Nina Lundström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
+            <persName>Mehmet Kaplan</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-YZoW5LTLHhTJ7yhbQd9sse" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9SEWgBFyeLvJdX7RTnVd3g">
-          <date when="2015-06-09"/>
-          <time when="15:13:55" dur="PT233S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-D1v876MEAPwFaK3V9mpFsG" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-06-09"/>
+          <time when="15:13:55" dur="PT233S"/>
         </correspAction>
         <correspContext corresp="i-9SEWgBFyeLvJdX7RTnVd3g">
           <ref type="record" target="prot-201415--112">Protokoll 2014/15:112 Tisdagen den 9 juni</ref>

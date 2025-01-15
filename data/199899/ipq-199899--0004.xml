@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
           </person>
           <person gender="woman">
-            <persName>statsrådet Ingegerd Wämersson</persName>
+            <persName>Ingegerd Wärnersson</persName>
             <idno>i-3wVE19WEnkoueWU41a2FfR</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-5TrEVohnMx3bbWAFmcRweN" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
           <date when="1998-10-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WBziBVn1trUtUkQfGrEi7X">
+        <correspAction type="received" xml:id="i-WBziBVn1trUtUkQfGrEi7X" corresp="i-3wVE19WEnkoueWU41a2FfR">
           <note>date unknown</note>
-          <name>statsrådet Ingegerd Wämersson</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-X4CUoSxyq6TYdeeihgMYcy">
           <note>Besvarad</note>

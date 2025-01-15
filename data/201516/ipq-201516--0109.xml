@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-QVqqZAPY1emsYgUbz5v2SA</idno>
             <persName>Michael Svensson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
-            <persName>Statsrådet Aida Hadzialic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
             <persName>Aida Hadzialic</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-AWPcVE3ZoEP3cd8KyT5KRt" corresp="i-DjeBWa5GvkPtwGp5yfccUZ">
           <date when="2015-11-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4jLZYHzaJ5SPX3YixSkKuX">
-          <date when="2015-11-12"/>
-          <time when="17:07:21" dur="PT150S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-99Dh4gk5MjbyVLSytByPaJ">
           <date when="2015-11-12"/>
+          <time when="17:07:21" dur="PT150S"/>
         </correspAction>
         <correspContext corresp="i-4jLZYHzaJ5SPX3YixSkKuX">
           <ref type="record" target="prot-201516--026">Protokoll 2015/16:26 Torsdagen den 12 november</ref>

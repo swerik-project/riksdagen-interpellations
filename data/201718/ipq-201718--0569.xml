@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-Xzt52E3ZeNyJ9HLW4B5Sk1</idno>
             <persName>Statsminister Stefan Löfven</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-42mC5GTVNHcPV5LNMmxmrj</idno>
             <persName>Carl Schlyter</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-MK5HfsAADMKCbCTR4UKptB" corresp="i-Xzt52E3ZeNyJ9HLW4B5Sk1">
           <date when="2018-05-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-gtUQxjfdapEoEhEteMvkh">
-          <date when="2018-06-25"/>
-          <time when="12:46:45" dur="PT32S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VDsgYAqd5bVggCDAgEToJC">
           <date when="2018-06-25"/>
+          <time when="12:46:45" dur="PT32S"/>
         </correspAction>
         <correspContext corresp="i-gtUQxjfdapEoEhEteMvkh">
           <ref type="record" target="prot-201718--137">Protokoll 2017/18:137 Måndagen den 25 juni</ref>

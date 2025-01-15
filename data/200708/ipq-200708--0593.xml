@@ -25,36 +25,29 @@
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
             <persName>Christina Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +56,12 @@
         <correspAction type="sent" xml:id="i-NFowW6nu9bwG3XUpZffET8" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-04-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5Zktb7HtdL1KYJ7ZZbBjHK">
-          <date when="2008-04-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KSW4Ysibch7ns2eJ1ofgoC" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-04-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R77A8DkkFuR35i426AWyjC">
-          <date when="2008-05-05"/>
-          <time when="12:21:35" dur="PT342S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q5THc6vNYMBB4aacPkEnPr" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-05-05"/>
+          <time when="12:21:35" dur="PT342S"/>
         </correspAction>
         <correspContext corresp="i-R77A8DkkFuR35i426AWyjC">
           <ref type="record" target="prot-200708--104">Riksdagens protokoll 2007/08:104 Måndagen den 5 maj</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-L1LuCbWbXEFDYHZxFWVzQ8" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2023-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U1kkMgb8cJxXWExhnqyQCF">
-          <date when="2023-12-11"/>
-          <time when="17:21:19" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QDtPPuSE2i8EaEuW7Hb95">
           <date when="2023-12-11"/>
+          <time when="17:21:19" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-U1kkMgb8cJxXWExhnqyQCF">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

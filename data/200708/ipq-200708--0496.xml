@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-CutvLF7TJQSz67bBq8mFxT">
-          <date when="2008-03-12"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-LVmgSHdCvsD3NAdnJrKpp2" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-03-12"/>
         </correspAction>
         <correspAction type="received" xml:id="i-2HTDktB2t97dgaCFYu47j5" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C91cb9Lc84u3P8RbwjUBG">
-          <date when="2008-04-04"/>
-          <time when="09:02:03" dur="PT223S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LYbFSF9o3hxYkQhie4zgDz" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-04-04"/>
+          <time when="09:02:03" dur="PT223S"/>
         </correspAction>
         <correspContext corresp="i-C91cb9Lc84u3P8RbwjUBG">
           <ref type="record" target="prot-200708--089">Riksdagens protokoll 2007/08:89 Fredagen den 4 april</ref>

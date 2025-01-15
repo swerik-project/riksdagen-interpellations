@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
+            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
+            <persName>Lars Beckman</persName>
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
-            <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
+            <persName>Kjell Jansson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
-            <persName>Kjell Jansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-7kyhqQAgjwPbxHwwSLKyym" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-02-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KGsMuExyWbTizLXJH1PSSZ">
-          <date when="2022-03-15"/>
-          <time when="18:35:14" dur="PT212S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KNQcp1aKzSDwnDMWkgNp7Y">
           <date when="2022-03-15"/>
+          <time when="18:35:14" dur="PT212S"/>
         </correspAction>
         <correspContext corresp="i-KGsMuExyWbTizLXJH1PSSZ">
           <ref type="record" target="prot-202122--081">Protokoll 2021/22:81 Tisdagen den 15 mars</ref>

@@ -25,36 +25,22 @@
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
-            <persName>Mikael Odenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
-            <persName>Mikael Odenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
-            <persName>Mikael Odenberg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
-            <persName>Mehmet Kaplan (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
+            <persName>Mehmet Kaplan</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
+            <persName>Mikael Odenberg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-7myKiy6yjZN6cH5Te3pbEE" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VUQHGGTGh5qGScqunpDbnv">
-          <date when="2006-12-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AVHVkNLc6uCScrK3ayAzD2" corresp="i-DnTstrvT1jenyw6pdMxfZi">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AknHnfhV87pqJekQeZW8TQ">
-          <date when="2007-01-19"/>
-          <time when="13:16:06" dur="PT226S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Pnz62kGHVhTLfxUdR5kvwu" corresp="i-DnTstrvT1jenyw6pdMxfZi">
           <date when="2007-01-19"/>
+          <time when="13:16:06" dur="PT226S"/>
         </correspAction>
         <correspContext corresp="i-AknHnfhV87pqJekQeZW8TQ">
           <ref type="record" target="prot-200607--051">Riksdagens protokoll 2006/07:51 Fredagen den 19 januari</ref>

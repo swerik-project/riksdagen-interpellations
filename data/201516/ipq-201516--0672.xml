@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
             <persName>Mikael Oscarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-3x1Cywjuxx69sjfbnVNW5h" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2016-05-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K1b4zEnUekfvGBMm39T66S">
-          <date when="2016-06-27"/>
-          <time when="11:03:01" dur="PT164S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-47JVk3cjB7Fg1VqH5X3nTN" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2016-06-27"/>
+          <time when="11:03:01" dur="PT164S"/>
         </correspAction>
         <correspContext corresp="i-K1b4zEnUekfvGBMm39T66S">
           <ref type="record" target="prot-201516--126">Protokoll 2015/16:126 Måndagen den 27 juni</ref>

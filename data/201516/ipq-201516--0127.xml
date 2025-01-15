@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PPZKpwNr5kqkWArvESGC5X</idno>
             <persName>Jonas Sjöstedt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7r5EMv9VstEFKe8CzeUCH5</idno>
             <persName>Daniel Sestrajcic</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LfejaxmUP1kR5ztLJaJTkY</idno>
             <persName>Emma Wallrup</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
+            <persName>Anna Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-Fkc2zYiGvDjheqFPPiFnB3" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2015-11-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BXstoigiiDdWQZmP3D8Wzy">
-          <date when="2015-11-27"/>
-          <time when="09:01:11" dur="PT224S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KbMQAaXW8oADFj8EFL1Bvn" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2015-11-27"/>
+          <time when="09:01:11" dur="PT224S"/>
         </correspAction>
         <correspContext corresp="i-BXstoigiiDdWQZmP3D8Wzy">
           <ref type="record" target="prot-201516--035">Protokoll 2015/16:35 Fredagen den 27 november</ref>

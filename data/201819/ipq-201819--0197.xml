@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-ChDzdZDYwg4X9oGXyFy8Ta</idno>
             <persName>Kristina Axén Olin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Statsrådet Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LdfyJD8UJVB4uxZ9qAC4Wd" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2019-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ME6U5eE4MxKQutgWXUnW3c">
-          <date when="2019-05-06"/>
-          <time when="11:26:47" dur="PT208S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NDyMW53fdSLAnMxz5mckjG">
           <date when="2019-05-06"/>
+          <time when="11:26:47" dur="PT208S"/>
         </correspAction>
         <correspContext corresp="i-ME6U5eE4MxKQutgWXUnW3c">
           <ref type="record" target="prot-201819--086">Protokoll 2018/19:86 Måndagen den 6 maj</ref>

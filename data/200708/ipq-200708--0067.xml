@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="woman">
+            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
+            <persName>Cecilia Malmström</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
           <person gender="man">
             <idno>i-Q6UywURdDfH4kXfTm7hwEb</idno>
             <persName>Max Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6UywURdDfH4kXfTm7hwEb</idno>
-            <persName>Max Andersson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-BFHjCEYSKay9Kub1fWb2bK" corresp="i-Q6UywURdDfH4kXfTm7hwEb">
           <date when="2007-10-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VQji9YWuL6CKRQQV2hxVhc">
-          <date when="2007-10-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5E89Zb5oZ1Dc4nWXEW1s8c" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-10-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EXXEJrxi3X9kkwN1hag72d">
-          <date when="2007-10-30"/>
-          <time when="15:35:40" dur="PT241S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HNeCRxDN17RZkDLLXY652m" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-10-30"/>
+          <time when="15:35:40" dur="PT241S"/>
         </correspAction>
         <correspContext corresp="i-EXXEJrxi3X9kkwN1hag72d">
           <ref type="record" target="prot-200708--018">Riksdagens protokoll 2007/08:18 Tisdagen den 30 oktober</ref>

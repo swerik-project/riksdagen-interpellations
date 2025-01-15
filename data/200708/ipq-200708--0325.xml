@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-2aZQBvMx8o6ihusfvExbt8</idno>
             <persName>Alice Åström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
             <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-gDEGemuD3FG8uKUB28Dit" corresp="i-2aZQBvMx8o6ihusfvExbt8">
           <date when="2008-01-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JmTcNyq6M12nWss7ygoCCF">
-          <date when="2008-01-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JAWrhcbhZY6yzFVrAH9kHs" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-01-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YSj7ngRKfYqkCnUafs4F1">
-          <date when="2008-02-12"/>
-          <time when="18:42:08" dur="PT210S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S1Pn3dDSi7YnMQTavnjrx4" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-02-12"/>
+          <time when="18:42:08" dur="PT210S"/>
         </correspAction>
         <correspContext corresp="i-YSj7ngRKfYqkCnUafs4F1">
           <ref type="record" target="prot-200708--062">Riksdagens protokoll 2007/08:62 Tisdagen den 12 februari</ref>

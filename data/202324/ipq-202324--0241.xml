@@ -27,50 +27,36 @@
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9fmcZcGuiE51S4XGih65wn</idno>
             <persName>Mikael Eskilandersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
             <persName>Niklas Sigvardsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-JQE5MqMcA5ZTejCD3KU4MB" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-11-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5CDK8Y2VCGXnGADSCButFH">
-          <date when="2023-12-11"/>
-          <time when="20:31:35" dur="PT163S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P7TEVWEPwtPBzBeNNnpHvb" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-12-11"/>
+          <time when="20:31:35" dur="PT163S"/>
         </correspAction>
         <correspContext corresp="i-5CDK8Y2VCGXnGADSCButFH">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

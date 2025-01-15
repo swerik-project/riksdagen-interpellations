@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
             <persName>Johan Forssell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SDQhRE4bepMRoCn4vDYS3b" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HBMMJCzW8jN4GTA2GmbEJ1">
-          <date when="2019-03-05"/>
-          <time when="18:17:58" dur="PT123S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EkA2oZN7WzX2JibkQXorRR">
           <date when="2019-03-05"/>
+          <time when="18:17:58" dur="PT123S"/>
         </correspAction>
         <correspContext corresp="i-HBMMJCzW8jN4GTA2GmbEJ1">
           <ref type="record" target="prot-201819--059">Protokoll 2018/19:59 Tisdagen den 5 mars</ref>

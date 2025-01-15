@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Statsrådet Jennie Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-KNRqa17M8avm4WSafSQiUy</idno>
             <persName>Elin Segerlind</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
             <persName>Jennie Nilsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-9pFMB3s4coAEhpktzYrPta" corresp="i-LKQKWG3JJUBFg12z1vrFwt">
           <date when="2019-04-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2qScGik1QKJfvWnh9drE4Y">
-          <date when="2019-04-09"/>
-          <time when="18:43:43" dur="PT117S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Kj21oTqC8sdP26n2zJmYwV">
           <date when="2019-04-09"/>
+          <time when="18:43:43" dur="PT117S"/>
         </correspAction>
         <correspContext corresp="i-2qScGik1QKJfvWnh9drE4Y">
           <ref type="record" target="prot-201819--075">Protokoll 2018/19:75 Tisdagen den 9 april</ref>

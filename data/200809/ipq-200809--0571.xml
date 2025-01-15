@@ -22,66 +22,45 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9fdWbFK67588CD12XaNZBq</idno>
             <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-S7wLw9aynA5vbRCsqxxL3N</idno>
             <persName>Tina Acketoft (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-FDPNGAV8hiJEw1ohaJGyWu" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-08-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2tNFMBB9stJP1ZX9KcbEgo">
-          <date when="2009-08-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KbcPkS2MztXNxnGg1i8tzt" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-08-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Lm4NhHNwG11JWdadY7Qqfs">
-          <date when="2009-09-10"/>
-          <time when="13:52:56" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P479TR6ahun6sXfN4DxWrA" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-09-10"/>
+          <time when="13:52:56" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-Lm4NhHNwG11JWdadY7Qqfs">
           <ref type="record" target="prot-200809--141">Riksdagens protokoll 2008/09:141 Torsdagen den 10 september</ref>

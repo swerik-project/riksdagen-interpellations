@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-SgLSQ3phK7HUZecEbLumwe</idno>
             <persName>Ingemar Kihlström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-PwJbtMtkwpa6YpYwYkrnsT" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-06-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ToHQPdikiNeAcyiww6F5PG">
-          <date when="2019-06-11"/>
-          <time when="14:31:11" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KDRMR5HGG3ac4ZfbL1NZgP">
           <date when="2019-06-11"/>
+          <time when="14:31:11" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-ToHQPdikiNeAcyiww6F5PG">
           <ref type="record" target="prot-201819--102">Protokoll 2018/19:102 Tisdagen den 11 juni</ref>

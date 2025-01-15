@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
             <persName>Chatrine Pålsson Ahlgren (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-77qzeU4L5rnXi3b6xRfm12" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2008-03-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TCUQA5ZE9EDsBA246zWrqM">
-          <date when="2008-03-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KLa18rHWWYmuLGpq6AjMHg" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-03-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BTkZHkYrUkyQNmp1W7jFTD">
-          <date when="2008-04-08"/>
-          <time when="19:33:48" dur="PT390S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YGMauogqsaTXe2EhBToX6u" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-04-08"/>
+          <time when="19:33:48" dur="PT390S"/>
         </correspAction>
         <correspContext corresp="i-BTkZHkYrUkyQNmp1W7jFTD">
           <ref type="record" target="prot-200708--091">Riksdagens protokoll 2007/08:91 Tisdagen den 8 april</ref>

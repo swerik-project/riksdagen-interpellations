@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Fnk9Zpnk5sS5WYPNBLTPx3</idno>
             <persName>Pia Steensland</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-WVitfXtzRVVUVSQAq8EnSi" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5yrVLACRQvPjPuyaJpPGu4">
-          <date when="2022-01-18"/>
-          <time when="13:24:17" dur="PT70S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YA8V1zteVYEDk1L8xGJey9">
           <date when="2022-01-18"/>
+          <time when="13:24:17" dur="PT70S"/>
         </correspAction>
         <correspContext corresp="i-5yrVLACRQvPjPuyaJpPGu4">
           <ref type="record" target="prot-202122--054">Protokoll 2021/22:54 Tisdagen den 18 januari</ref>

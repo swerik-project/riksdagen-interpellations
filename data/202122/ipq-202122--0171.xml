@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5pt7V9L88gFuC3UA5MjoNb</idno>
             <persName>Lotta Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ApNd2YyDnxf8CW6nkuRkpG" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2021-12-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Spk1cGBUHs5ZxViK3MJVNY">
-          <date when="2021-12-16"/>
-          <time when="18:29:29" dur="PT183S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2YBBgwSkJvT9rXZXDDwiN3">
           <date when="2021-12-16"/>
+          <time when="18:29:29" dur="PT183S"/>
         </correspAction>
         <correspContext corresp="i-Spk1cGBUHs5ZxViK3MJVNY">
           <ref type="record" target="prot-202122--047">Protokoll 2021/22:47 Torsdagen den 16 december</ref>

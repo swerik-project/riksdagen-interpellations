@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
+          <person gender="woman">
+            <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
+            <persName>Ann-Charlotte Hammar Johnsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
-            <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-5XQnxa5YukjTpcXrY6yBFD" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2022-11-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HgC4wDBrYETphmvfWnohRM">
-          <date when="2022-11-29"/>
-          <time when="13:04:55" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8M3RV41NkR8NmeYYLyXA33">
           <date when="2022-11-29"/>
+          <time when="13:04:55" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-HgC4wDBrYETphmvfWnohRM">
           <ref type="record" target="prot-202223--027">Protokoll 2022/23:27 Tisdagen den 29 november</ref>

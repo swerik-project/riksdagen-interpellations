@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
           </person>
           <person gender="woman">
-            <persName>jordbruksmi­nistern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-FXi5Un7Z3utNrrfwmk1cvt" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
           <date when="1998-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EPouYNem4LEn54VdU2WbdX">
+        <correspAction type="received" xml:id="i-EPouYNem4LEn54VdU2WbdX" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>jordbruksmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KxprxGkpn3Lo34fSu2kNLe">
           <note>Besvarad</note>

@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Statsrådet Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-GzW7KGcNEEZzmavYm2xGkh" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-05-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9EAmp3BCsGbv1kge4fv7aa">
-          <date when="2017-06-13"/>
-          <time when="19:02:37" dur="PT124S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4cKaRy7YVRhTrNrBjVcas9" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2017-06-13"/>
+          <time when="19:02:37" dur="PT124S"/>
         </correspAction>
         <correspContext corresp="i-9EAmp3BCsGbv1kge4fv7aa">
           <ref type="record" target="prot-201617--124">Protokoll 2016/17:124 Tisdagen den 13 juni</ref>

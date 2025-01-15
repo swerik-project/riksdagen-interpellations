@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-XYorBBswJHmzvkzAvCFPDM</idno>
             <persName>Ulrika Westerlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
+            <persName>Jakob Forssmed</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-GxaLxN6heS7UyKgfdyfFMF" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8ptru8gVcrSrY4K2d7ucqe">
-          <date when="2024-01-18"/>
-          <time when="12:50:35" dur="PT211S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BnaSG4njvfCUN7qcZJ9htY">
           <date when="2024-01-18"/>
+          <time when="12:50:35" dur="PT211S"/>
         </correspAction>
         <correspAction xml:id="i-ReqyneNnCvwCmJfihVw9xn" type="discussed" corresp="i-XYorBBswJHmzvkzAvCFPDM">
           <date when="2024-01-18"/>

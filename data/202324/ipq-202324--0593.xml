@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-YG3se2hZeuEdiGKSwKyaKF</idno>
             <persName>Caroline Helmersson Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>TREDJE VICE TALMANNEN</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
+            <persName>Mats Persson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Vf1DBAfGt1qCVuXBBdRdbc" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2024-03-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RUnwabjwQvaGEaXPtAoKb4">
-          <date when="2024-03-19"/>
-          <time when="15:44:13" dur="PT93S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-22UHz5seMET1oRVux7zuL8" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2024-03-19"/>
+          <time when="15:44:13" dur="PT93S"/>
         </correspAction>
         <correspContext corresp="i-RUnwabjwQvaGEaXPtAoKb4">
           <ref type="record" target="prot-202324--086">Protokoll 2023/24:86 Tisdagen den 19 mars</ref>

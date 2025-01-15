@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson i Luleå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
             <persName>Mattias Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-BC3WHSQtyAE4fmztLrmdtN" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4ZpsxV4bLScvFq7s3cinWX">
-          <date when="2019-06-03"/>
-          <time when="11:22:54" dur="PT129S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P5ViMuyEzW1cGkdCMpn8Ax">
           <date when="2019-06-03"/>
+          <time when="11:22:54" dur="PT129S"/>
         </correspAction>
         <correspContext corresp="i-4ZpsxV4bLScvFq7s3cinWX">
           <ref type="record" target="prot-201819--098">Protokoll 2018/19:98 Måndagen den 3 juni</ref>

@@ -25,35 +25,14 @@
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8AtQfc4p9Hm5yajEXEHtE5</idno>
             <persName>Thomas Strand</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8AtQfc4p9Hm5yajEXEHtE5</idno>
-            <persName>Thomas Strand (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-HzpDSuPgpojavcmw8wqbeL" corresp="i-8AtQfc4p9Hm5yajEXEHtE5">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PJ3NeLc3S9QimtE73pj8hy">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WSggdN4qv24RFwCVJ21c1o" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BzMds9KLbU8fZayFFuF39q">
-          <date when="2010-06-08"/>
-          <time when="16:31:59" dur="PT280S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TXEL7FdwoKc6FpgBqtAM8V" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-06-08"/>
+          <time when="16:31:59" dur="PT280S"/>
         </correspAction>
         <correspContext corresp="i-BzMds9KLbU8fZayFFuF39q">
           <ref type="record" target="prot-200910--134">Riksdagens protokoll 2009/10:134 Tisdagen den 8 juni</ref>

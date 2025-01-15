@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-NXdx35Qcat9qWFxvFTeWyu" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R3e9LnnJwNKSPoK1tbuVHy">
-          <date when="2022-03-29"/>
-          <time when="18:56:39" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HgCVvPN72gi3EY51uwS8X4" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-03-29"/>
+          <time when="18:56:39" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-R3e9LnnJwNKSPoK1tbuVHy">
           <ref type="record" target="prot-202122--089">Protokoll 2021/22:89 Tisdagen den 29 mars</ref>

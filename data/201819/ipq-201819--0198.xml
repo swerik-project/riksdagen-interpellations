@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-ChDzdZDYwg4X9oGXyFy8Ta</idno>
             <persName>Kristina Axén Olin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FbcomCdVte3wceCwKsnZd3" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BYZeKRnMn8cTVJGi3bvivK">
-          <date when="2019-05-06"/>
-          <time when="11:42:27" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-398s37wdEfYVfcWFqAbUe5">
           <date when="2019-05-06"/>
+          <time when="11:42:27" dur="PT151S"/>
         </correspAction>
         <correspContext corresp="i-BYZeKRnMn8cTVJGi3bvivK">
           <ref type="record" target="prot-201819--086">Protokoll 2018/19:86 Måndagen den 6 maj</ref>

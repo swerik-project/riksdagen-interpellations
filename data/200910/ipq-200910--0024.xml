@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Xb5n5BixUpcHm3pRKa4vmo" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2009-10-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MDBGGvLPVcpeF4Fdweu9zz">
-          <date when="2009-10-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WHBzLjRtodYcEVNdGkq9ob" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-10-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VMhPZ99vfYSvuh45GCkGak">
-          <date when="2009-11-05"/>
-          <time when="12:02:29" dur="PT237S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EtfT8teKFugCANCrGx4W5u" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-11-05"/>
+          <time when="12:02:29" dur="PT237S"/>
         </correspAction>
         <correspContext corresp="i-VMhPZ99vfYSvuh45GCkGak">
           <ref type="record" target="prot-200910--024">Riksdagens protokoll 2009/10:24 Torsdagen den 5 november</ref>

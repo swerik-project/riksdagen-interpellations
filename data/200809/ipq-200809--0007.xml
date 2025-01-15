@@ -22,66 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
+            <persName>Maryam Yazdanfar</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-E1hbFtBwp5owKPDYevLJhL">
-          <date when="2008-09-22"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-WPYmd3Tdmvy8997WvWZUDQ" corresp="i-TcNfrp7fRvP58buMahA7Gi">
           <date when="2008-09-18"/>
         </correspAction>
         <correspAction type="received" xml:id="i-PmqoGMPBT9gSPzkKsTeM9t" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-09-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3xDq1gwpVPoZkHctfAbNaA">
-          <date when="2008-10-14"/>
-          <time when="13:31:56" dur="PT325S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VV1eYofK2sKv38DoiM64j9" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-10-14"/>
+          <time when="13:31:56" dur="PT325S"/>
         </correspAction>
         <correspContext corresp="i-3xDq1gwpVPoZkHctfAbNaA">
           <ref type="record" target="prot-200809--012">Riksdagens protokoll 2008/09:12 Tisdagen den 14 oktober</ref>

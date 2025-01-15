@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-DJgH7q21vrKJDYHFpgpTiX</idno>
             <persName>Penilla Gunther</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -54,15 +47,12 @@
         <correspAction type="sent" xml:id="i-M4wEK1tCyL2mqxGGqQPoCS" corresp="i-DJgH7q21vrKJDYHFpgpTiX">
           <date when="2018-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Uii7f1rx5SMD5iHUwi3xMU">
-          <date when="2018-02-27"/>
-          <time when="13:40:57" dur="PT174S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Nj9PU6spLAHe3v5njCKzx1" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2018-02-27"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-QwdHDsj2Q1H4zkrDkrg2rN">
           <date when="2018-02-27"/>
+          <time when="13:40:57" dur="PT174S"/>
         </correspAction>
         <correspContext corresp="i-Uii7f1rx5SMD5iHUwi3xMU">
           <ref type="record" target="prot-201718--075">Protokoll 2017/18:75 Tisdagen den 27 februari</ref>

@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-DXcaGbEMZxcfKo9YZxCFfe" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2017-06-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NdHZUB3db4fTttpgEuRjt8">
-          <date when="2017-06-26"/>
-          <time when="11:02:41" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QrAJG1w7xjRg1pgqJhDL19">
           <date when="2017-06-26"/>
+          <time when="11:02:41" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-NdHZUB3db4fTttpgEuRjt8">
           <ref type="record" target="prot-201617--131">Protokoll 2016/17:131 Måndagen den 26 juni</ref>

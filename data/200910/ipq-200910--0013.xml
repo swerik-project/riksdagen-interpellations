@@ -25,56 +25,50 @@
           <person gender="woman">
             <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
             <persName>Gunvor G Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
+            <persName>Gunvor G Ericson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="answered" xml:id="i-Qw59j5hB5PzPwgt5MzKGtL">
-          <date when="2009-10-23"/>
-          <time when="11:30:41" dur="PT289S"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-Dz3mMYN9KjfHbn5bMfuiKW" corresp="i-7YbH6oTUwG4Qn94QEVE6as">
           <date when="2009-09-22"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-3Wjg4zJxwCTmwFWGHuR9PZ">
-          <date when="2009-09-24"/>
         </correspAction>
         <correspAction type="received" xml:id="i-XiBSwbU34pkqeJag7kRHNT" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-09-24"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-GQHKZGEeKvksongpe8wwaC" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-10-23"/>
+          <time when="11:30:41" dur="PT289S"/>
         </correspAction>
         <correspContext corresp="i-Qw59j5hB5PzPwgt5MzKGtL">
           <ref type="record" target="prot-200910--020">Riksdagens protokoll 2009/10:20 Fredagen den 23 oktober</ref>

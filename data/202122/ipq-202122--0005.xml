@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
+            <persName>Per Bolund</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-9ULCD9gz2gi2Gxk1K5LFVY" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-09-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JVXXvnHHgduVLkaxFDaiTY">
-          <date when="2021-10-12"/>
-          <time when="14:05:52" dur="PT50S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Y8jnZ3jvSCPDGidGD4VJXe" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-10-12"/>
+          <time when="14:05:52" dur="PT50S"/>
         </correspAction>
         <correspContext corresp="i-JVXXvnHHgduVLkaxFDaiTY">
           <ref type="record" target="prot-202122--014">Protokoll 2021/22:14 Tisdagen den 12 oktober</ref>

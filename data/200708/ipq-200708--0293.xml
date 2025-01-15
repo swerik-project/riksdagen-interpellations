@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-RnWtNUQCpycyMXbuRLTXcR</idno>
-            <persName>Josefin Brink</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-RnWtNUQCpycyMXbuRLTXcR</idno>
-            <persName>Josefin Brink (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Josefin Brink</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Uimto2GTPe6a1YcXY3E9L2" corresp="i-RnWtNUQCpycyMXbuRLTXcR">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KB1dRTN3BsC8mn61AksvAN">
-          <date when="2007-12-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2wFJxpngnUUWuqXhC2L63D" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-H8WgwTMi16yvG8NK9ajJc3">
-          <date when="2008-01-18"/>
-          <time when="10:54:04" dur="PT288S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TqThnpDFjseracgNCx6bsi" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-01-18"/>
+          <time when="10:54:04" dur="PT288S"/>
         </correspAction>
         <correspContext corresp="i-H8WgwTMi16yvG8NK9ajJc3">
           <ref type="record" target="prot-200708--054">Riksdagens protokoll 2007/08:54 Fredagen den 18 januari</ref>

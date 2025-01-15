@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-RnWtNUQCpycyMXbuRLTXcR</idno>
-            <persName>Josefin Brink</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-RnWtNUQCpycyMXbuRLTXcR</idno>
-            <persName>Josefin Brink (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-RnWtNUQCpycyMXbuRLTXcR</idno>
+            <persName>Josefin Brink</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-EMaayh86AG3uj51WMfatuZ" corresp="i-RnWtNUQCpycyMXbuRLTXcR">
           <date when="2009-03-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LwhPQaB2pXLvqHCdqnyLvz">
-          <date when="2009-03-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GkevoSTVNzwMNcQ9YBEaAt" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-03-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2Cz1dRvHTUmKwp2yvNGjZ4">
-          <date when="2009-04-27"/>
-          <time when="13:18:00" dur="PT231S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GwyhDym41HrcNAuJz6Wnk3" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-04-27"/>
+          <time when="13:18:00" dur="PT231S"/>
         </correspAction>
         <correspContext corresp="i-2Cz1dRvHTUmKwp2yvNGjZ4">
           <ref type="record" target="prot-200809--107">Riksdagens protokoll 2008/09:107 Måndagen den 27 april</ref>

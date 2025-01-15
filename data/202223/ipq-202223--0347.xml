@@ -25,45 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-TpcaF4RFviyytGA8rW5Jer</idno>
             <persName>Samuel Gonzalez Westling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
             <persName>Niklas Sigvardsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HpAiPdAaT8ibF3ZUVvyDdX</idno>
             <persName>Adrian Magnusson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
+            <persName>Mats Persson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-EeFn5r78ifqSu5tYyVYmDo" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-05-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PCQbxxroHUu9ELk9pLDPe8">
-          <date when="2023-06-01"/>
-          <time when="12:02:41" dur="PT262S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NRUa2iBDp5CwbCgfzpwdGc" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-06-01"/>
+          <time when="12:02:41" dur="PT262S"/>
         </correspAction>
         <correspAction xml:id="i-Tm8oV9b5Jt8JVScdAxMSZJ" type="discussed" corresp="i-KzsTMncnr5hiy4Se56WPv6">
           <date when="2023-06-01"/>

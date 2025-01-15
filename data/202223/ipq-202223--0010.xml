@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Statsrådet Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
-            <persName>Acko Ankarberg Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XQAzCv28W16uuk7HhQLdZZ</idno>
             <persName>Anders W Jonsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Uq8cgRMrRNcxY3QYetppCT</idno>
             <persName>Linda Lindberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
+            <persName>Acko Ankarberg Johansson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-CTLezCzJHTA1EBr8kqgMDK" corresp="i-NHqTsXnUVsZFg94vA6SKDr">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GjVHA3xC3AJXnrxyUnEXv">
-          <date when="2022-11-15"/>
-          <time when="13:03:01" dur="PT287S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2k3NEzxDGCj7E4HTh9QGD8">
           <date when="2022-11-15"/>
+          <time when="13:03:01" dur="PT287S"/>
         </correspAction>
         <correspAction xml:id="i-MuEPHFZwhFmQtGvLfnJdCe" type="discussed" corresp="i-XQAzCv28W16uuk7HhQLdZZ">
           <date when="2022-11-15"/>

@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
             <persName>Pontus Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
+              <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-JP8NeL17uoQgDiTaxrGnVM</idno>
+            <persName>Jonas Andersson</persName>
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-JP8NeL17uoQgDiTaxrGnVM</idno>
-            <persName>Jonas Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>SD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-WHj4wThQ2EmPPfLecAkS6M" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-04-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BX9vwebzTcp7bJzKD1wb5J">
-          <date when="2022-04-29"/>
-          <time when="13:10:30" dur="PT143S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DFkWSoPho3ojMuqZ1x5aFa" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-04-29"/>
+          <time when="13:10:30" dur="PT143S"/>
         </correspAction>
         <correspContext corresp="i-BX9vwebzTcp7bJzKD1wb5J">
           <ref type="record" target="prot-202122--105">Protokoll 2021/22:105 Fredagen den 29 april</ref>

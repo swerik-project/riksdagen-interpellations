@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-7vhvYfdv3H73d44FMgW7sh</idno>
             <persName>Malin Höglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Cv8kapm8b2FqUcC18NaWKW" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2020-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MN22ZwpURMc83eLZFL9uP7">
-          <date when="2021-01-12"/>
-          <time when="19:12:29" dur="PT155S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Pirq42ovXHP1ckNi168qwA">
           <date when="2021-01-12"/>
+          <time when="19:12:29" dur="PT155S"/>
         </correspAction>
         <correspContext corresp="i-MN22ZwpURMc83eLZFL9uP7">
           <ref type="record" target="prot-202021--062">Protokoll 2020/21:62 Tisdagen den 12 januari</ref>

@@ -25,49 +25,49 @@
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q110857">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
+            <persName>Carl B Hamilton</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +77,12 @@
         <correspAction type="sent" xml:id="i-HAVxyCpmLT8DaUa7kj1rJg" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2009-09-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8BKJReKX216fCedhswcYKJ">
-          <date when="2009-09-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7BLThC385WijQg54Xap6Wn" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-09-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D6RXUmwL9P9MEtjgURcDUG">
-          <date when="2009-10-23"/>
-          <time when="11:51:14" dur="PT245S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3dSqV17T8hoi82gmLrgnoy" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-10-23"/>
+          <time when="11:51:14" dur="PT245S"/>
         </correspAction>
         <correspContext corresp="i-D6RXUmwL9P9MEtjgURcDUG">
           <ref type="record" target="prot-200910--020">Riksdagens protokoll 2009/10:20 Fredagen den 23 oktober</ref>

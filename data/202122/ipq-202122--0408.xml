@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
-            <persName>Statsrådet Johan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
             <persName>Ola Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
             <persName>Johan Danielsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-17gMqqe3ydMra2st4TUq9E" corresp="i-5oQ4xWUi5Nh3NjqrvZeiNp">
           <date when="2022-03-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GRyVoX1ikF8FUzYetQ2ev">
-          <date when="2022-04-01"/>
-          <time when="10:42:17" dur="PT188S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GVPHQ3QEbZ5a5gEa4VasMJ">
           <date when="2022-04-01"/>
+          <time when="10:42:17" dur="PT188S"/>
         </correspAction>
         <correspContext corresp="i-GRyVoX1ikF8FUzYetQ2ev">
           <ref type="record" target="prot-202122--092">Protokoll 2021/22:92 Fredagen den 1 april</ref>

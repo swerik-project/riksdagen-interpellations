@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Lilian Virgin (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-Dt448JefoURo4sEMRH39aM</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikationsminis­tern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-QccCPvdXtUAhP6s82Y82aS" corresp="i-Dt448JefoURo4sEMRH39aM">
           <date when="1996-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CZGXYLEbu51wSjay3Qsw59">
+        <correspAction type="received" xml:id="i-CZGXYLEbu51wSjay3Qsw59" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikationsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8CrrR4pEAUB1uY5P5HiBs5">
           <note>Besvarad</note>

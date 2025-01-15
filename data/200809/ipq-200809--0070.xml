@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
+            <persName>Roland Bäckman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-SkHSjFvWCGmzEuG44zvDsW" corresp="i-Vw3jBQw26TxFbXrsoKmCH2">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-R6SXc8UntbkghHUHMRBZrC">
-          <date when="2008-10-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PiXdjXRkxXHppWigPZwfae" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EsoWVk4ngetPMAVDxJwRPq">
-          <date when="2008-11-11"/>
-          <time when="14:59:40" dur="PT235S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UB8dDnKMM9UJazHgf8F5d1" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-11-11"/>
+          <time when="14:59:40" dur="PT235S"/>
         </correspAction>
         <correspContext corresp="i-EsoWVk4ngetPMAVDxJwRPq">
           <ref type="record" target="prot-200809--025">Riksdagens protokoll 2008/09:25 Tisdagen den 11 november</ref>

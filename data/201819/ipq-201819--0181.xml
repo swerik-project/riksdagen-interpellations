@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-J1TTceqc1tCrraMEdea2nK" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-04-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5H9FS8LWjEs7CXJGsTN1Em">
-          <date when="2019-04-30"/>
-          <time when="12:25:25" dur="PT70S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6Gha85i944DNwo4JHLFJbe">
           <date when="2019-04-30"/>
+          <time when="12:25:25" dur="PT70S"/>
         </correspAction>
         <correspContext corresp="i-5H9FS8LWjEs7CXJGsTN1Em">
           <ref type="record" target="prot-201819--083">Protokoll 2018/19:83 Tisdagen den 30 april</ref>

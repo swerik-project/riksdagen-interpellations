@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-CphaobCDkTcFx9MN686234</idno>
             <persName>Lennart Pettersson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
+            <persName>Bo Bernhardsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-9jx7bX5bfty4gPMvxBSE9H" corresp="i-MKm68HiDPih8eisvsh6GJg">
           <date when="2008-04-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-U4i7aEWGvQPE8Kq8wamMJ4">
-          <date when="2008-04-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CXbFNyJgmW9kR2PHV7FzNk" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-04-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PZgbjzGbG5Sk9pVFCGpn38">
-          <date when="2008-04-21"/>
-          <time when="12:27:15" dur="PT275S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Wu1Vhfk77w4ckNJaPwvRX6" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-04-21"/>
+          <time when="12:27:15" dur="PT275S"/>
         </correspAction>
         <correspContext corresp="i-PZgbjzGbG5Sk9pVFCGpn38">
           <ref type="record" target="prot-200708--099">Riksdagens protokoll 2007/08:99 Måndagen den 21 april</ref>

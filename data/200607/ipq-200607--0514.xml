@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5FaDXr1QFiTXafqYxHBnBu" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2007-05-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WmGfAWn9f7Ee5zxLXhFkCN">
-          <date when="2007-05-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-K4wL1CGSizYqER5jG86Rre" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ENgBQEzRMWHHxzNrb2XvDS">
-          <date when="2007-05-21"/>
-          <time when="11:24:43" dur="PT327S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HXK7B7uYPwW66jovLyPNHr" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-05-21"/>
+          <time when="11:24:43" dur="PT327S"/>
         </correspAction>
         <correspContext corresp="i-ENgBQEzRMWHHxzNrb2XvDS">
           <ref type="record" target="prot-200607--109">Riksdagens protokoll 2006/07:109 Måndagen den 21 maj</ref>

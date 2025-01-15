@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
             <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-PeXw2aEQ6xVR6wJUGmYeX4" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2007-05-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FVyqUnWMg2iA3U17fCiSBQ">
-          <date when="2007-05-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5PdnNmaTprDqNGprH1GQsG" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2007-05-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4aMf8NkKWtTRbwMfp7VDu9">
-          <date when="2007-06-11"/>
-          <time when="11:20:03" dur="PT455S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4uMHWfH3ebp6NmeKGC5z9g" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2007-06-11"/>
+          <time when="11:20:03" dur="PT455S"/>
         </correspAction>
         <correspContext corresp="i-4aMf8NkKWtTRbwMfp7VDu9">
           <ref type="record" target="prot-200607--123">Riksdagens protokoll 2006/07:123 Måndagen den 11 juni</ref>

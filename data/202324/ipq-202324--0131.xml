@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
-            <persName>Statsrådet Carl-Oskar Bohlin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-4vMpE2cFsVtsya6jV8Mqda</idno>
             <persName>Markus Selin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
             <persName>Carl-Oskar Bohlin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-G8E238FtYraRi7uuEiVpbC" corresp="i-6X8Fc68oRcYCskG3k248x5">
           <date when="2023-10-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9worPCHNdCQq6oQ6YzwTMk">
-          <date when="2023-11-09"/>
-          <time when="13:22:13" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-So72UckLThfeaKSh9Ph4UM">
           <date when="2023-11-09"/>
+          <time when="13:22:13" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-9worPCHNdCQq6oQ6YzwTMk">
           <ref type="record" target="prot-202324--027">Protokoll 2023/24:27 Torsdagen den 9 november</ref>

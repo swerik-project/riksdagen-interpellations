@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-85ZBnp1g2v2P4ncNVuRwNK" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LmeVKeqpi2vbn3pAgGgE7b">
-          <date when="2016-02-26"/>
-          <time when="09:43:36" dur="PT91S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KzvSEvgjREgRDcngqELL8F">
           <date when="2016-02-26"/>
+          <time when="09:43:36" dur="PT91S"/>
         </correspAction>
         <correspContext corresp="i-LmeVKeqpi2vbn3pAgGgE7b">
           <ref type="record" target="prot-201516--071">Protokoll 2015/16:71 Fredagen den 26 februari</ref>

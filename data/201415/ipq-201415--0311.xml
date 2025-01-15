@@ -27,50 +27,36 @@
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
             <persName>Carl-Oskar Bohlin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-PWmVRgjoXKgppNCkWKskNj" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-T9o1hpKKMMoW4ooAkdeqZE">
-          <date when="2015-03-24"/>
-          <time when="18:43:45" dur="PT177S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SX5CSb5TDTrseeacPFiNjb" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-03-24"/>
+          <time when="18:43:45" dur="PT177S"/>
         </correspAction>
         <correspContext corresp="i-T9o1hpKKMMoW4ooAkdeqZE">
           <ref type="record" target="prot-201415--077">Protokoll 2014/15:77 Tisdagen den 24 mars</ref>

@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-Xte2hVf6qgEgJA6sWB1cDH</idno>
             <persName>Malcolm Momodou Jallow</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-TDnyisHTLSX4DZNe4cLQs1" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-03-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GXBXckwdcK8k2GghkY2Vpd">
-          <date when="2023-04-25"/>
-          <time when="13:01:08" dur="PT313S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LJvBwfZnhHDwAjA3WcLm87" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-04-25"/>
+          <time when="13:01:08" dur="PT313S"/>
         </correspAction>
         <correspContext corresp="i-GXBXckwdcK8k2GghkY2Vpd">
           <ref type="record" target="prot-202223--097">Protokoll 2022/23:97 Tisdagen den 25 april</ref>

@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-HMEQZGcMqKo8y9F6jxfnev</idno>
             <persName>Alireza Akhondi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9fmcZcGuiE51S4XGih65wn</idno>
             <persName>Mikael Eskilandersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-5WZT6pB1cBAa6J4vwRwoqS" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-11-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ESentKagsV3zyUZcEdDuV">
-          <date when="2023-12-11"/>
-          <time when="15:25:33" dur="PT188S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AKE5WiFZcC982aridir1vp" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-12-11"/>
+          <time when="15:25:33" dur="PT188S"/>
         </correspAction>
         <correspContext corresp="i-ESentKagsV3zyUZcEdDuV">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

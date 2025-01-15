@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Christina Axelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-GnsDMzEyRubBhQ1SLhwvpp" corresp="i-5gSCoqgN8cUnJLfPPLD7nv">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BvAqr4dFixbUcCGVetpXP8">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-U8kx1vraGsTcvTfFKutmh1" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QjG46Z9zFVxcyiGhUNWFiX">
-          <date when="2008-06-19"/>
-          <time when="13:14:55" dur="PT276S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ScfDPMD594P4cAMCpvpa7V" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-06-19"/>
+          <time when="13:14:55" dur="PT276S"/>
         </correspAction>
         <correspContext corresp="i-QjG46Z9zFVxcyiGhUNWFiX">
           <ref type="record" target="prot-200708--133">Riksdagens protokoll 2007/08:133 Torsdagen den 19 juni</ref>

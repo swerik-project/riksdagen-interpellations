@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Klimat- och miljöminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-5RezN52gaoykSfQgX4NEJo" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2021-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jt7BfmVrPQrNhFyxV7Jz3H">
-          <date when="2022-02-15"/>
-          <time when="18:21:13" dur="PT136S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7rViTdh72tPgpWoQHX1NAC" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-02-15"/>
+          <time when="18:21:13" dur="PT136S"/>
         </correspAction>
         <correspContext corresp="i-Jt7BfmVrPQrNhFyxV7Jz3H">
           <ref type="record" target="prot-202122--066">Protokoll 2021/22:66 Tisdagen den 15 februari</ref>

@@ -27,50 +27,43 @@
           <person gender="woman">
             <idno>i-2DoVBtekXdY2ysRmE7Ujm9</idno>
             <persName>Tina Ghasemi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialförsäkringsminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
             <persName>Johan Forssell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
+            <persName>Annika Strandhäll</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-SAu6RpUrpH1cfgMpwCJjwq" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2015-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4w6HohGdqPYoHFhKuzxuqu">
-          <date when="2015-03-10"/>
-          <time when="15:17:23" dur="PT105S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HvMGyK1yK8hj3JA4ND1LiH">
           <date when="2015-03-10"/>
+          <time when="15:17:23" dur="PT105S"/>
         </correspAction>
         <correspAction xml:id="i-Sco8FAMamnsWJYtWPrR76p" type="discussed" corresp="i-NRWqqo7iPdzBV8QrJyKnQb">
           <date when="2015-03-10"/>

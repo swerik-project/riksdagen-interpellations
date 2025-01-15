@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Bmi9XXt8ni373cdiv3K6qx</idno>
-            <persName>Kenneth G Forslund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Bmi9XXt8ni373cdiv3K6qx</idno>
-            <persName>Kenneth G Forslund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Kenneth G. Forslund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-HbLR8BQwYmokEHe5oWTLLn" corresp="i-Bmi9XXt8ni373cdiv3K6qx">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7MpBwia4nJLvBrdbPXhQEt">
-          <date when="2007-03-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Mni6azjDwtxo6JDdrJ6sV9" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FRqJpcEwhDX5CAfcv7zGyS">
-          <date when="2007-04-16"/>
-          <time when="15:23:44" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C9fzteBY6KL3bWv9RoGisJ" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-04-16"/>
+          <time when="15:23:44" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-FRqJpcEwhDX5CAfcv7zGyS">
           <ref type="record" target="prot-200607--091">Riksdagens protokoll 2006/07:91 Måndagen den 16 april</ref>

@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Dan Ericsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-UDXM9dqeHhySJV3ZevrZPw</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-5FqW8NJhR9DBVA76tsu7H4" corresp="i-UDXM9dqeHhySJV3ZevrZPw">
           <date when="1997-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5hUNkxYMAHvfHUrnCmrZFC">
+        <correspAction type="received" xml:id="i-5hUNkxYMAHvfHUrnCmrZFC" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-AhExfmt5knvaeMW4R8tiQz">
           <note>Besvarad</note>

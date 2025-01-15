@@ -23,66 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
             <persName>Hans Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
             <persName>Karin Åström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-2NwGFQecEcfKNrEzcweeGR" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2007-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-By4ZXLUuJg8H7viwcq3PUq">
-          <date when="2007-05-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5wy1GaiHPbLhvN5KT76hAT" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UdscAZj2NxxufDwshjT5Bc">
-          <date when="2007-05-29"/>
-          <time when="15:50:23" dur="PT194S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3L6nenLwk48kWNXNfHeEPT" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-29"/>
+          <time when="15:50:23" dur="PT194S"/>
         </correspAction>
         <correspContext corresp="i-UdscAZj2NxxufDwshjT5Bc">
           <ref type="record" target="prot-200607--115">Riksdagens protokoll 2006/07:115 Tisdagen den 29 maj</ref>

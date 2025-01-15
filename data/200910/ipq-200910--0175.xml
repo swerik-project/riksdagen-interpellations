@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Hybjwn9TLwRrmPEM4sqMg8" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2009-12-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WueYjjCqQJyG1rACfC8mpJ">
-          <date when="2009-12-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2sdZKfPYceym4cgp2J46im" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FZWQCyUwCjWMthZv9sbjio">
-          <date when="2010-01-22"/>
-          <time when="10:00:35" dur="PT147S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DCzhMFL9AFyad9fT3RaXpU" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-01-22"/>
+          <time when="10:00:35" dur="PT147S"/>
         </correspAction>
         <correspContext corresp="i-FZWQCyUwCjWMthZv9sbjio">
           <ref type="record" target="prot-200910--061">Riksdagens protokoll 2009/10:61 Fredagen den 22 januari</ref>

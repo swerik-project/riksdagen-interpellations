@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-FsHXC7jsTx9BdVnZvg7FS6" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
           <date when="1998-11-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Vkzq2aBSGRJTci1tu7nWK7">
+        <correspAction type="received" xml:id="i-Vkzq2aBSGRJTci1tu7nWK7" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-P3dFuyzEfgC3XCNgyZWqTm">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-34u5uJeky4dgEAPaeNwfmR">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-34u5uJeky4dgEAPaeNwfmR">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

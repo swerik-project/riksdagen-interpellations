@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-DF6yJMSNGfT6HwisDSi4qz</idno>
             <persName>Josef Fransson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2KLyDh7ap3GexNdshqvJAF" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-06-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Dw18SkYqESzWGsnZEi2gxw">
-          <date when="2023-08-22"/>
-          <time when="14:17:30" dur="PT219S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QAZcvJCimDaJsca3YNcpfP" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-08-22"/>
+          <time when="14:17:30" dur="PT219S"/>
         </correspAction>
         <correspContext corresp="i-Dw18SkYqESzWGsnZEi2gxw">
           <ref type="record" target="prot-202223--134">Protokoll 2022/23:134 Tisdagen den 22 augusti</ref>

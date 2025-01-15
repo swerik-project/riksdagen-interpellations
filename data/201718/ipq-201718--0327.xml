@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
             <persName>Christian Holm Barenfeld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-X9aTWGYJdN9Y9zmcEi2nDp" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C3wCY8GBWQQ5ByhaC7ufqP">
-          <date when="2018-02-02"/>
-          <time when="09:52:45" dur="PT77S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AjrmxfHEcY1u58eJvh95hX" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-02-02"/>
+          <time when="09:52:45" dur="PT77S"/>
         </correspAction>
         <correspContext corresp="i-C3wCY8GBWQQ5ByhaC7ufqP">
           <ref type="record" target="prot-201718--066">Protokoll 2017/18:66 Fredagen den 2 februari</ref>

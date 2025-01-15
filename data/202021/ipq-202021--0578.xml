@@ -27,28 +27,28 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-KbTc6GjCwzr5Kc4QSZBSfH" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-T3kyTAtiAvZpvbPBsHebgg">
-          <date when="2021-04-06"/>
-          <time when="13:26:01" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-M5ifa88AdS3pGAQEydJEGL">
           <date when="2021-04-06"/>
+          <time when="13:26:01" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-T3kyTAtiAvZpvbPBsHebgg">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

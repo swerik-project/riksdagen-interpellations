@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
             <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
             <persName>Karin Svensson Smith</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
-            <persName>Karin Svensson Smith (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Macge7iJaL7df5cytLYhBJ" corresp="i-5QNmudGpnjjRJCTYzakn9H">
           <date when="2009-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8rpfxHs7hAbNda2AKuVZ2t">
-          <date when="2009-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Uurrae6hiqh3Pq65MqV5pZ" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6MAk3dx2KfSaQ5TTRdMGnb">
-          <date when="2009-12-15"/>
-          <time when="19:18:41" dur="PT378S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LNJw1sMHhLLihbbE1yHUPq" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-12-15"/>
+          <time when="19:18:41" dur="PT378S"/>
         </correspAction>
         <correspContext corresp="i-6MAk3dx2KfSaQ5TTRdMGnb">
           <ref type="record" target="prot-200910--050">Riksdagens protokoll 2009/10:50 Tisdagen den 15 december</ref>

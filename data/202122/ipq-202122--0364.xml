@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Y6pV2kmHmseFnW9xv9t8yX</idno>
             <persName>Eric Palmqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-5fLZmekrYn56kq35PNkEos" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-02-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V81kGXMFJNScf4a9kwpusF">
-          <date when="2022-03-15"/>
-          <time when="15:45:33" dur="PT223S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CRqkcBkpqMa4NCa9bCUugU" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-03-15"/>
+          <time when="15:45:33" dur="PT223S"/>
         </correspAction>
         <correspContext corresp="i-V81kGXMFJNScf4a9kwpusF">
           <ref type="record" target="prot-202122--081">Protokoll 2021/22:81 Tisdagen den 15 mars</ref>

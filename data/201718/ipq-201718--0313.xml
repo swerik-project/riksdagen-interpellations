@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-7EGhEVdWhirq9oiHvVcrQR</idno>
             <persName>Lotta Johnsson Fornarve</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-RJkkz7ktDkq6VFH5KWe8RZ" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-rLpBw3ZHJGPyHa1jCDMZ5">
-          <date when="2018-01-19"/>
-          <time when="12:23:55" dur="PT215S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KbBETsXZ66rjhvd4us7Mvi">
           <date when="2018-01-19"/>
+          <time when="12:23:55" dur="PT215S"/>
         </correspAction>
         <correspContext corresp="i-rLpBw3ZHJGPyHa1jCDMZ5">
           <ref type="record" target="prot-201718--058">Protokoll 2017/18:58 Fredagen den 19 januari</ref>
@@ -175,9 +165,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-75vgXJHQQe7T1bYrMp1ASH">
-            
-            <list rend="unordered">
+          <p xml:id="i-75vgXJHQQe7T1bYrMp1ASH"><list rend="unordered">
               <item>
                 På vilket sätt anser ministern att Sverige bör agera för att
                 minska spridningen av kärnvapen i världen?

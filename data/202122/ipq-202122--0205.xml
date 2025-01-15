@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XBxAbUXD6Qpc9KmdA853AP</idno>
             <persName>Ulrik Bergman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LL8Bee3zYHnuxQrwejsiTf</idno>
             <persName>Ida Karkiainen</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-Qrv9ZV6xyAS6FnsSzfA6jh" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-12-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DzqqHnynG6tJDiww1PEGLs">
-          <date when="2022-01-20"/>
-          <time when="12:23:56" dur="PT253S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5MuUA63mqFiPXpq6KVjYZi">
           <date when="2022-01-20"/>
+          <time when="12:23:56" dur="PT253S"/>
         </correspAction>
         <correspContext corresp="i-DzqqHnynG6tJDiww1PEGLs">
           <ref type="record" target="prot-202122--056">Protokoll 2021/22:56 Torsdagen den 20 januari</ref>

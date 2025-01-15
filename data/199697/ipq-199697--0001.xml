@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Chatrine Pålsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-6E894yBSCKEUSKsYPKcCSc" corresp="i-WJM6edqhGfBK1ijhNxfgoj">
           <date when="1996-09-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-R4yvhm9CKu5nYYRGjrGone">
+        <correspAction type="received" xml:id="i-R4yvhm9CKu5nYYRGjrGone" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-44uDA995odtjFsmtaCz1m9">
           <note>Besvarad</note>

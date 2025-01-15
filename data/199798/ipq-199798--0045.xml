@@ -21,26 +21,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>L7/a Löfgren (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Marita Ulvskog</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person>
+            <persName>Ulla Löfgren</persName>
+            <idno>i-YEdxJPN8cJMwnqfd9tHmTD</idno>
+            <state type="partyAffiliation" ref="Q110843"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-AqvaAaJE6DyCbJyLPzThmg">
-          <name/>
+        <correspAction type="sent" xml:id="i-AqvaAaJE6DyCbJyLPzThmg" corresp="i-YEdxJPN8cJMwnqfd9tHmTD">
           <date when="1997-10-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FrPsx1oANLmLZWBrTrmqgF">
+        <correspAction type="received" xml:id="i-FrPsx1oANLmLZWBrTrmqgF" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BLY3Q2756n7X6y5okD486m">
           <note>Besvarad</note>

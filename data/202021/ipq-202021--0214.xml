@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-5pt7V9L88gFuC3UA5MjoNb</idno>
             <persName>Lotta Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
             <persName>Lars Hjälmered</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-QePokomA818eKvhAQ4Aynv" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2020-12-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-77Qb4iqse9tNWWNb4VTQj5">
-          <date when="2021-01-14"/>
-          <time when="19:45:54" dur="PT145S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YL6vbW6yK5uSdeodC2vkMR" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-01-14"/>
+          <time when="19:45:54" dur="PT145S"/>
         </correspAction>
         <correspContext corresp="i-77Qb4iqse9tNWWNb4VTQj5">
           <ref type="record" target="prot-202021--064">Protokoll 2020/21:64 Torsdagen den 14 januari</ref>

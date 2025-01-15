@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-BgYNdkuz5kYpyRLBxZ285o" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-01-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-74bnwNP8PhL4PassAiDKoN">
-          <date when="2023-02-14"/>
-          <time when="18:42:23" dur="PT242S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FY9ioMAq8Xcjarr3p5SVtx" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-02-14"/>
+          <time when="18:42:23" dur="PT242S"/>
         </correspAction>
         <correspContext corresp="i-74bnwNP8PhL4PassAiDKoN">
           <ref type="record" target="prot-202223--062">Protokoll 2022/23:62 Tisdagen den 14 februari</ref>

@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
             <persName>Marléne Lund Kopparklint</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
+            <persName>Lena Hallengren</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-8vMqRFHaPcrQB3SBqUPEz4" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2022-01-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MGv4mQNR8B6HAMk2Hk6jip">
-          <date when="2022-01-13"/>
-          <time when="12:56:07" dur="PT100S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6ZpcwUtecNVPnx3Lvr5Lip">
           <date when="2022-01-13"/>
+          <time when="12:56:07" dur="PT100S"/>
         </correspAction>
         <correspContext corresp="i-MGv4mQNR8B6HAMk2Hk6jip">
           <ref type="record" target="prot-202122--052">Protokoll 2021/22:52 Torsdagen den 13 januari</ref>

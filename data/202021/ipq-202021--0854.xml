@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Jkg3MjSPULsBPVbp3nRJKJ" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-08-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K7RAJ3xneyhHQon74YXY9H">
-          <date when="2021-09-09"/>
-          <time when="16:47:56" dur="PT168S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2shtkNy5RcAfJXJwztZH7q" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-09-09"/>
+          <time when="16:47:56" dur="PT168S"/>
         </correspAction>
         <correspContext corresp="i-K7RAJ3xneyhHQon74YXY9H">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

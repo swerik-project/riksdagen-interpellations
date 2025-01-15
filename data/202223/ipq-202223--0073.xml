@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-CUTJJgAGx5ob6YXU1BcjVG</idno>
             <persName>Denis Begic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JeJxfWb2to9UJpy8CZSDsr" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-12-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CoZ2VCqzBAVPsZW7UY9e2i">
-          <date when="2022-12-09"/>
-          <time when="10:02:07" dur="PT77S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GpuUXrVh9vHN2wRqEqzh1t">
           <date when="2022-12-09"/>
+          <time when="10:02:07" dur="PT77S"/>
         </correspAction>
         <correspContext corresp="i-CoZ2VCqzBAVPsZW7UY9e2i">
           <ref type="record" target="prot-202223--035">Protokoll 2022/23:35 Fredagen den 9 december</ref>

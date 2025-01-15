@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
+            <persName>Isak From</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
-            <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-NACKA9ifRuWJKV2HvxsnXS" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2022-11-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U6EHiDQ1njecxczmZLUjxk">
-          <date when="2022-12-02"/>
-          <time when="09:02:08" dur="PT292S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6sszjMBBwyouB2bQp4ZtM5" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2022-12-02"/>
+          <time when="09:02:08" dur="PT292S"/>
         </correspAction>
         <correspContext corresp="i-U6EHiDQ1njecxczmZLUjxk">
           <ref type="record" target="prot-202223--030">Protokoll 2022/23:30 Fredagen den 2 december</ref>

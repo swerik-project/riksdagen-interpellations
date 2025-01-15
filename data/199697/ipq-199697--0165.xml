@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Maud Ekendahl (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-F8qdE2eedz12PwFanq3ahv</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Thage G. Peterson</persName>
             <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <persName>Björn von Sydow</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-QMfniEr6jXM37jFBTmzHg" corresp="i-F8qdE2eedz12PwFanq3ahv">
-          <date when="1996-02-04"/>
+          <date when="1997-02-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-T9UGu1yoUyoAJwhHKqmfqo">
+        <correspAction type="received" xml:id="i-T9UGu1yoUyoAJwhHKqmfqo" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Jr4sXKYtACToEEZfZsspPa">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-7HmiNRJYUQdHqxDmLs6aEi">
-          <date when="1996-03-04"/>
+          <date when="1997-03-04"/>
         </correspAction>
         <correspContext corresp="i-7HmiNRJYUQdHqxDmLs6aEi">
           <ref type="record" target="prot-199697--072">Prot. 1996/97:72</ref>

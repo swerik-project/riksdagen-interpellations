@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
             <persName>Anne Ludvigsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xc2gauHt5Y4GsTNbgqrrAo</idno>
             <persName>Yilmaz Kerimo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
+            <persName>Jacob Johnson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-X4eQLQ8VniuD8iTuQP9Z6A" corresp="i-CNBy5dFgNNyEozHVpAj93c">
           <date when="2009-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5XYKTdoz8jEUtqWRm8HF3S">
-          <date when="2009-04-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9UWPqFnFRhcSARvA64pgCm" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-04-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UqqbpVzwEoiPM33H46ZvJk">
-          <date when="2009-06-08"/>
-          <time when="11:55:55" dur="PT273S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3s3HYU6UgekUXH2cFLPL85" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-06-08"/>
+          <time when="11:55:55" dur="PT273S"/>
         </correspAction>
         <correspContext corresp="i-UqqbpVzwEoiPM33H46ZvJk">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

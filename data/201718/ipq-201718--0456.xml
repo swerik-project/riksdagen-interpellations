@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-17rLcHuXL7eT8W1nwmMH4h</idno>
             <persName>Sotiris Delis</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
-            <persName>Kultur- och demokratiminister Alice Bah Kuhnke</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
-            <persName>Alice Bah Kuhnke</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
+            <persName>Alice Bah Kuhnke</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-DKuCZFGa6AWhczgyAZX7Am" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2018-03-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R5Zntxaib3KF26pfUMdgzi">
-          <date when="2018-04-20"/>
-          <time when="09:35:40" dur="PT142S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9CYS6ZpHF4863PRhWMsuQd" corresp="i-Uj7U5iTAaKpcG1mvQKxAc8">
           <date when="2018-04-20"/>
+          <time when="09:35:40" dur="PT142S"/>
         </correspAction>
         <correspContext corresp="i-R5Zntxaib3KF26pfUMdgzi">
           <ref type="record" target="prot-201718--102">Protokoll 2017/18:102 Fredagen den 20 april</ref>

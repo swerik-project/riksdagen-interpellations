@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="woman">
+            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
+            <persName>Cecilia Malmström</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
           <person gender="man">
             <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
             <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9Jp7iysYSYKbT5soNfmQ7V" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-05-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AxLBmM1uNCPwkwEdiua2oA">
-          <date when="2007-05-04"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-D4qMhDrQdEVg1SCySy46nd" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-05-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HhPL5dPP9BPuowUJdSRwbG">
-          <date when="2007-05-11"/>
-          <time when="12:03:33" dur="PT167S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VkySD2q5RFi3ocuwkuNnNN" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2007-05-11"/>
+          <time when="12:03:33" dur="PT167S"/>
         </correspAction>
         <correspContext corresp="i-HhPL5dPP9BPuowUJdSRwbG">
           <ref type="record" target="prot-200607--105">Riksdagens protokoll 2006/07:105 Fredagen den 11 maj</ref>

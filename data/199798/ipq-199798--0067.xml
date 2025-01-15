@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Gudrun Lindvall (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-PvJTHCyJiaxUeJhG5osdHg</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Leif Pagrotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-YGS3d6qF15yVCdYsHAnyCQ" corresp="i-PvJTHCyJiaxUeJhG5osdHg">
           <date when="1997-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-V3JNF3WwPgXtC17CQnXQM1">
+        <correspAction type="received" xml:id="i-V3JNF3WwPgXtC17CQnXQM1" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pagrotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TQSeprSsu7vNggdwpaNUan">
           <note>Besvarad</note>

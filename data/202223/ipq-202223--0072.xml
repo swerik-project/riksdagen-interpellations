@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-ALSqZDERrTV2VUJqcfC5VF</idno>
             <persName>Zara Leghissa</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-4a2D4Znb7kKNY49SzwsvpW" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2022-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-P3nnr3Zmnpa2QUPuSkn7HD">
-          <date when="2022-12-13"/>
-          <time when="20:08:45" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9d5AU8D6zMMCxgadTUuL2u">
           <date when="2022-12-13"/>
+          <time when="20:08:45" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-P3nnr3Zmnpa2QUPuSkn7HD">
           <ref type="record" target="prot-202223--037">Protokoll 2022/23:37 Tisdagen den 13 december</ref>

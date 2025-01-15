@@ -27,50 +27,43 @@
           <person gender="man">
             <idno>i-HMEQZGcMqKo8y9F6jxfnev</idno>
             <persName>Alireza Akhondi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-A9phxhhSVEV1RMX498pFjb</idno>
             <persName>Alexandra Völker</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-JGSgrRM98pxtJjMzUEkHuS</idno>
             <persName>Kadir Kasirga</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PQe8EhNJDXHurGqmN1U5hD</idno>
             <persName>Jacob Risberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-2RFbkFCQY32PBFLnbaw38B" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2023-11-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AZiwcpmQeQzyTsDEqre5Wq">
-          <date when="2023-12-04"/>
-          <time when="11:00:55" dur="PT124S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-M2MSRuGDC2N4mKTDDbZxMR">
           <date when="2023-12-04"/>
+          <time when="11:00:55" dur="PT124S"/>
         </correspAction>
         <correspContext corresp="i-AZiwcpmQeQzyTsDEqre5Wq">
           <ref type="record" target="prot-202324--041">Protokoll 2023/24:41 Måndagen den 4 december</ref>

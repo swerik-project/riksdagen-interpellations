@@ -22,24 +22,28 @@
         <listPerson>
           <person gender="man">
             <persName>Kent Härstedt (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-GsygH5UJM18UkfLBHFkVdD</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <persName>Anna Lindh</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9FHWsTPbF2NxDHRNGBRj4k" corresp="i-GsygH5UJM18UkfLBHFkVdD">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CYrY7jcQcGvunMRWqgwNas">
+        <correspAction type="received" xml:id="i-CYrY7jcQcGvunMRWqgwNas" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-TQXNaJwy9TeHbgiycbF4yA">
           <note>Återtagen</note>

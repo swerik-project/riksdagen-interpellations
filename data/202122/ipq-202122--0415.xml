@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-L2HPNauRJsyRcw18QBVQ6f" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-03-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C8FtRj9nSibNJAXw8enXTP">
-          <date when="2022-04-01"/>
-          <time when="10:20:23" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HTGEruFjV9jkwJGmLV7asv">
           <date when="2022-04-01"/>
+          <time when="10:20:23" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-C8FtRj9nSibNJAXw8enXTP">
           <ref type="record" target="prot-202122--092">Protokoll 2021/22:92 Fredagen den 1 april</ref>

@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-2MQDf4xGvkF49piSgubgMu" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2006-12-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BQxecipwfc1exQt3PYPH2f">
-          <date when="2006-12-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-E1gsCur69HhE4TDWCEUchu" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2006-12-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CwA1g9vfnPkbHM9U98sDcD">
-          <date when="2007-01-19"/>
-          <time when="13:32:13" dur="PT403S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Xiiw2DtG2r2Nrzy2vBFfwM" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2007-01-19"/>
+          <time when="13:32:13" dur="PT403S"/>
         </correspAction>
         <correspContext corresp="i-CwA1g9vfnPkbHM9U98sDcD">
           <ref type="record" target="prot-200607--051">Riksdagens protokoll 2006/07:51 Fredagen den 19 januari</ref>

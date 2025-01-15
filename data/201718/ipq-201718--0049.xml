@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-tBzuTboW76HqkPMHWGgfe" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WF5hWJ99YJxC7r6neZCY8S">
-          <date when="2018-01-16"/>
-          <time when="13:51:37" dur="PT58S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CJZwK2fJiCr675cSyCP7FN" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-01-16"/>
+          <time when="13:51:37" dur="PT58S"/>
         </correspAction>
         <correspAction xml:id="i-3DuX7b8Ro2hcPiPnx13vUb" type="discussed" corresp="i-Kc3AcmXkcmGKhXRxHt6DUP">
           <date when="2018-01-16"/>

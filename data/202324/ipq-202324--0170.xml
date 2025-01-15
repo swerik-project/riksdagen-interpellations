@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-ViJ12QcECKp5J4sEBkw5a2</idno>
             <persName>Sofie Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Gps4F6hVjXW5A5RX1t37kD" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-11-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Vz4XpLqJu7ffnRVZq8Bhxg">
-          <date when="2023-11-23"/>
-          <time when="12:33:07" dur="PT172S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2wkwpJK46TWQ9HubuVKM3d">
           <date when="2023-11-23"/>
+          <time when="12:33:07" dur="PT172S"/>
         </correspAction>
         <correspContext corresp="i-Vz4XpLqJu7ffnRVZq8Bhxg">
           <ref type="record" target="prot-202324--035">Protokoll 2023/24:35 Torsdagen den 23 november</ref>

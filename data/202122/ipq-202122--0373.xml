@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-9r5J5xUDmdHDAvdp2TobvV" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-02-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QJA3oQ2EonEPsqcd91Kuov">
-          <date when="2022-04-22"/>
-          <time when="09:01:14" dur="PT123S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NFfLZeiAm1UqMDWMC2SPGz" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-04-22"/>
+          <time when="09:01:14" dur="PT123S"/>
         </correspAction>
         <correspContext corresp="i-QJA3oQ2EonEPsqcd91Kuov">
           <ref type="record" target="prot-202122--101">Protokoll 2021/22:101 Fredagen den 22 april</ref>

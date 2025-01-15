@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Kyt2qXsKn94g7crAPsooog" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2007-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-R1PAUTrucAL5GBKXv6NzjL">
-          <date when="2007-05-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-69XpDbd18ziPoHL7yomtum" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-05-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C1M1UKsbYgZKmfFhpFJw4o">
-          <date when="2007-05-29"/>
-          <time when="15:32:41" dur="PT241S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JWcvTrZLnf724vaZmu94CH" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-05-29"/>
+          <time when="15:32:41" dur="PT241S"/>
         </correspAction>
         <correspContext corresp="i-C1M1UKsbYgZKmfFhpFJw4o">
           <ref type="record" target="prot-200607--115">Riksdagens protokoll 2006/07:115 Tisdagen den 29 maj</ref>

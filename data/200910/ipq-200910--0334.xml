@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
-            <persName>Ann Arleklo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-YHze8naQ3VfThjRidPfYK7</idno>
-            <persName>Ann Arleklo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ann Arleklo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-HkZntCmfai51HrVu9aguNh" corresp="i-YHze8naQ3VfThjRidPfYK7">
           <date when="2010-04-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-952FEtU3KBmPiyW38fNYbG">
-          <date when="2010-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Dd12qzeZr39fWKM7uWrcNR" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TbZxwzLhKCvSf5cwUiGdse">
-          <date when="2010-04-27"/>
-          <time when="13:01:09" dur="PT159S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-78adrHM7SxhXi4APmoHSvt" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-04-27"/>
+          <time when="13:01:09" dur="PT159S"/>
         </correspAction>
         <correspContext corresp="i-TbZxwzLhKCvSf5cwUiGdse">
           <ref type="record" target="prot-200910--110">Riksdagens protokoll 2009/10:110 Tisdagen den 27 april</ref>

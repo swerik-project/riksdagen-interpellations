@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Birger Schlaug (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-EfLrWUocZwsV2PVnPdzohZ</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-CG9TAjQ7zH5135sn5xpcS1" corresp="i-EfLrWUocZwsV2PVnPdzohZ">
-          <date when="1997-03-10"/>
+          <date when="1998-03-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3esTxmVFzUrTXxUByrTpRg">
+        <correspAction type="received" xml:id="i-3esTxmVFzUrTXxUByrTpRg" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8BfKePs3qRAPFJCRHz5D1F">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9qEuFegW7gnUYsjQZnY3si">
-          <date when="1997-04-17"/>
+          <date when="1998-04-17"/>
         </correspAction>
         <correspContext corresp="i-9qEuFegW7gnUYsjQZnY3si">
           <ref type="record" target="prot-199798--092">Prot. 1997/98:92</ref>

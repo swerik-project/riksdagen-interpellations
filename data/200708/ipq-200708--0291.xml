@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-D5W4KMbqzfAEfRXajZLt7z</idno>
-            <persName>Lars Lilja</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D5W4KMbqzfAEfRXajZLt7z</idno>
-            <persName>Lars Lilja (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lars Lilja</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-PTF22UpDK9aF39pGb7ngi6" corresp="i-D5W4KMbqzfAEfRXajZLt7z">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FT4S2wC6Kf4yioMPhGmWsg">
-          <date when="2007-12-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3Sf5nKBvzEzFFaFPwN8qFS" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-12-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XFwmT36spjCTWjRQPGKYk5">
-          <date when="2008-01-18"/>
-          <time when="10:28:05" dur="PT446S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ANXzQ2Q3HtCW4c1GcVMTAu" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-01-18"/>
+          <time when="10:28:05" dur="PT446S"/>
         </correspAction>
         <correspContext corresp="i-XFwmT36spjCTWjRQPGKYk5">
           <ref type="record" target="prot-200708--054">Riksdagens protokoll 2007/08:54 Fredagen den 18 januari</ref>

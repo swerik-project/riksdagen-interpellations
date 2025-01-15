@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
-            <persName>Marianne Berg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
-            <persName>Marianne Berg (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-du5LHNwBWrCH1am94GCk1</idno>
             <persName>Eva Olofsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
+            <persName>Marianne Berg</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-FUmYhmj6qFEgqnn6jFRSud" corresp="i-JxxHuvwXWsJTZYTnBZLHj">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BiEr4kWvfsCMWaBhEXvs4V">
-          <date when="2010-02-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8F9U2yyCtkbCtKyHrZ7NND" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A2QEqHCP9M45LAWVUgrK2C">
-          <date when="2010-02-12"/>
-          <time when="10:21:13" dur="PT404S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-43wZG74Pvs9NoTYLkbNXVS" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-02-12"/>
+          <time when="10:21:13" dur="PT404S"/>
         </correspAction>
         <correspContext corresp="i-A2QEqHCP9M45LAWVUgrK2C">
           <ref type="record" target="prot-200910--074">Riksdagens protokoll 2009/10:74 Fredagen den 12 februari</ref>

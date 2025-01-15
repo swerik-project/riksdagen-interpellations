@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LutTcg2m9spsoVaK7cAQeB</idno>
-            <persName>Lars Wegendal</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LutTcg2m9spsoVaK7cAQeB</idno>
-            <persName>Lars Wegendal (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LutTcg2m9spsoVaK7cAQeB</idno>
+            <persName>Lars Wegendal</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Ppuwf8CSVmQPL8C4srsSvU" corresp="i-LutTcg2m9spsoVaK7cAQeB">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-F5d5NjXXWfUW6CsXpPzPwc">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3Qm4ZYoUvFQS9rcWm1ePAP" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WxqHPKcpjLj2DLqeGnqZKD">
-          <date when="2008-06-02"/>
-          <time when="17:45:15" dur="PT244S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-94wSctAhhWNEnGV5J99pm7" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-06-02"/>
+          <time when="17:45:15" dur="PT244S"/>
         </correspAction>
         <correspContext corresp="i-WxqHPKcpjLj2DLqeGnqZKD">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

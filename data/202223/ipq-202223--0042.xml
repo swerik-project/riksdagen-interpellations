@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
+            <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
+            <persName>Niklas Sigvardsson</persName>
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
-            <persName>Niklas Sigvardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
+            <persName>Linus Sköld</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
-            <persName>Linus Sköld</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-7rF7jNHTTYdwDf1zSEUjAQ" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2022-11-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XienH9bQKeDhpBs9gqCNMT">
-          <date when="2022-11-29"/>
-          <time when="13:52:35" dur="PT175S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4L2jDhmWkEzy6ridwdUP5w">
           <date when="2022-11-29"/>
+          <time when="13:52:35" dur="PT175S"/>
         </correspAction>
         <correspContext corresp="i-XienH9bQKeDhpBs9gqCNMT">
           <ref type="record" target="prot-202223--027">Protokoll 2022/23:27 Tisdagen den 29 november</ref>

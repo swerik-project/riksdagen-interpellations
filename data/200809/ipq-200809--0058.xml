@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-5DQBfFmrBwawMLji2DMkie" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2008-10-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AfDwbMpYtHnTDxMQkD2Vra">
-          <date when="2008-10-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Sv6vWcTeGNyh5iCsWpB33P" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-10-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QkLfT5FnwY3GTmEpEhuRBo">
-          <date when="2008-11-11"/>
-          <time when="20:59:47" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6GhuvXtrYBhrserv11D56s" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-11-11"/>
+          <time when="20:59:47" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-QkLfT5FnwY3GTmEpEhuRBo">
           <ref type="record" target="prot-200809--025">Riksdagens protokoll 2008/09:25 Tisdagen den 11 november</ref>

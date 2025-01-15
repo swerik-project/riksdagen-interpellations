@@ -25,42 +25,28 @@
           <person gender="man">
             <idno>i-V3GjREvdYiesCjNn7quoGc</idno>
             <persName>Hans Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
             <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="unknown">
-            <idno>r-None</idno>
-            <persName>Göran Pettersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-29sSodYVXoni9iia1vszCy</idno>
+            <persName>Göran Pettersson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-2rHKA36eVdt5tV4yWnu73Q" corresp="i-V3GjREvdYiesCjNn7quoGc">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K1JeWF2RbgPDsbwHQUagiB">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TQ54C22FBbFa1Q9626utKP" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-T4bcP1Lr3CDtJZ87dEMMhJ">
-          <date when="2010-06-28"/>
-          <time when="15:50:51" dur="PT178S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Hq7SpHMJAxgTEBX8BQjZCX" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-06-28"/>
+          <time when="15:50:51" dur="PT178S"/>
         </correspAction>
         <correspContext corresp="i-T4bcP1Lr3CDtJZ87dEMMhJ">
           <ref type="record" target="prot-200910--144">Riksdagens protokoll 2009/10:144 Måndagen den 28 juni</ref>

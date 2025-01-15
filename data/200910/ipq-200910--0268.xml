@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-9UEDtQLVPsFsaMfH4drGN2" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2010-02-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-An8zdzd7PaDJgB3cXZB7YP">
-          <date when="2010-03-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2m2cHzvcjdCJCNjq42WQCv" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-03-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3L2fmadnJdNe6wu5uHNYQE">
-          <date when="2010-03-09"/>
-          <time when="13:37:29" dur="PT364S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3wECHPABd5T6dkxJjrV2Qz" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-03-09"/>
+          <time when="13:37:29" dur="PT364S"/>
         </correspAction>
         <correspContext corresp="i-3L2fmadnJdNe6wu5uHNYQE">
           <ref type="record" target="prot-200910--084">Riksdagens protokoll 2009/10:84 Tisdagen den 9 mars</ref>

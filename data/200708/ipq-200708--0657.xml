@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KGqrEB2Pzg8goYxy9CcDhd</idno>
-            <persName>Lars Gustafsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KGqrEB2Pzg8goYxy9CcDhd</idno>
-            <persName>Lars Gustafsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
             <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
             <persName>Ann-Kristine Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KGqrEB2Pzg8goYxy9CcDhd</idno>
+            <persName>Lars Gustafsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-UW67cmmdxKHTdzJ4c8aqv2" corresp="i-KGqrEB2Pzg8goYxy9CcDhd">
           <date when="2008-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WsymCQ95Yx1hFd6onrXcF2">
-          <date when="2008-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LnAXPH9XWtVfkWqGoMUZJX" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-T9kR97uw6t9dDk7YvNm9gK">
-          <date when="2008-06-10"/>
-          <time when="09:04:54" dur="PT252S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PbhscinuZMEt2UF5Cqvaxf" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-06-10"/>
+          <time when="09:04:54" dur="PT252S"/>
         </correspAction>
         <correspContext corresp="i-T9kR97uw6t9dDk7YvNm9gK">
           <ref type="record" target="prot-200708--125">Riksdagens protokoll 2007/08:125 Tisdagen den 10 juni</ref>

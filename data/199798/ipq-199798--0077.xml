@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Viola Furubjelke (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-HuA2xXt8AknKvizfMoSFQt</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-GXoQciCq6hpCR2itgm4d4e" corresp="i-HuA2xXt8AknKvizfMoSFQt">
           <date when="1997-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BYsMrosK1RsFRJ81W5PAhz">
+        <correspAction type="received" xml:id="i-BYsMrosK1RsFRJ81W5PAhz" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S3G4rLfHVPGMYCkgRTF2LN">
           <note>Besvarad</note>

@@ -27,35 +27,21 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-FMNif9gaXwoqbmLzxf9FaP" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PxbBS8LXwe5FrX8HRosjBv">
-          <date when="2019-04-02"/>
-          <time when="13:57:37" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MvUNMkGTdc3Y3yrHJ5hk9o" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-04-02"/>
+          <time when="13:57:37" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-PxbBS8LXwe5FrX8HRosjBv">
           <ref type="record" target="prot-201819--071">Protokoll 2018/19:71 Tisdagen den 2 april</ref>

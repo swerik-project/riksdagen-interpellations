@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
             <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-PMaPhBnkQZ7jawgQQkudDJ" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2009-01-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2pSVzGnEZa9vA28nnsnpwd">
-          <date when="2009-01-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-USDe9DxZkEbrFyqR6yHNSW" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8bpmqxd6hbFvYbMwbJy9A3">
-          <date when="2009-01-23"/>
-          <time when="09:52:16" dur="PT202S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Dk82Vhn4SpR2dPB7UPgSpf" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-01-23"/>
+          <time when="09:52:16" dur="PT202S"/>
         </correspAction>
         <correspContext corresp="i-8bpmqxd6hbFvYbMwbJy9A3">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

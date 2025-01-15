@@ -22,46 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-SQw6FvQRzHjKUPrDhiEMMz" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2009-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5RqpyLsD99J6dVDPEP8Uby">
-          <date when="2009-01-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-6NREFwrU7LPoWWXNpmRLG1" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-01-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-sTLVkaXg5uAdH4Hh8uccz">
-          <date when="2009-02-17"/>
-          <time when="14:15:41" dur="PT331S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WjSwiik4TAUQFm5feN3HZn" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-02-17"/>
+          <time when="14:15:41" dur="PT331S"/>
         </correspAction>
         <correspContext corresp="i-sTLVkaXg5uAdH4Hh8uccz">
           <ref type="record" target="prot-200809--071">Riksdagens protokoll 2008/09:71 Tisdagen den 17 februari</ref>

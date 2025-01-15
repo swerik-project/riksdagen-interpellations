@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
@@ -31,6 +31,7 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-AGYVQPdJL897gVFP9EYuhZ" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
           <date when="1998-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Hvexg4GxRuwnbBFiBNj4HV">
+        <correspAction type="received" xml:id="i-Hvexg4GxRuwnbBFiBNj4HV" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NDoRgLgCgWnRttVR2nf3RQ">
           <note>Besvarad</note>

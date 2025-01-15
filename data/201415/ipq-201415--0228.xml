@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-XGXudkHXmtGS8CjJ9L2Hkr</idno>
             <persName>Hanif Bali</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-XFwbEv5LCygaQc9ZaEF7A4" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2015-01-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WnVbiw7b2cMFVcCWBEtanK">
-          <date when="2015-02-10"/>
-          <time when="19:59:47" dur="PT117S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WsbYsZsLzCTQa36i6p6jXu">
           <date when="2015-02-10"/>
+          <time when="19:59:47" dur="PT117S"/>
         </correspAction>
         <correspAction xml:id="i-CRrRwc5nfsQ31TFBfEitVN" type="discussed" corresp="i-XGXudkHXmtGS8CjJ9L2Hkr">
           <date when="2015-02-10"/>

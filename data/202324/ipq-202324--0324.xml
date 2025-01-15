@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-bRyJHEKb5DCkicXkuZwMY</idno>
             <persName>Statsminister Ulf Kristersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
-            <persName>Statsrådet Jessika Roswall</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
-            <persName>Jessika Roswall</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-VFaAexqzCaq9JmKCfc1WJ9</idno>
             <persName>Julia Kronlid</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>ANDRE VICE TALMANNEN</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
+            <persName>Jessika Roswall</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-EFvrBQGekw1k43ANW4LnCV" corresp="i-bRyJHEKb5DCkicXkuZwMY">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NijFN8nNwG7abezqr3VDhh">
-          <date when="2024-01-23"/>
-          <time when="20:59:48" dur="PT279S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4L4oHSunYMFxpBDyZYwo85" corresp="i-TMBKCxFj2h6LkEEpYodyut">
           <date when="2024-01-23"/>
+          <time when="20:59:48" dur="PT279S"/>
         </correspAction>
         <correspContext corresp="i-NijFN8nNwG7abezqr3VDhh">
           <ref type="record" target="prot-202324--059">Protokoll 2023/24:59 Tisdagen den 23 januari</ref>

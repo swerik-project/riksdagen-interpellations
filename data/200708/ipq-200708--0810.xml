@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
+            <persName>Thomas Bodström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-ykC9q6zYcEbt2PgarXnSS" corresp="i-STyFs6Gu3boin31eFp1bNM">
           <date when="2008-07-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Jft66X6FbVFr1ehkkLE8tG">
-          <date when="2008-08-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GLscuvgiBdc4G1Rq7nQbf8" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-08-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LZNwdYmphJkAXiAFjfPwvi">
-          <date when="2008-08-28"/>
-          <time when="14:31:00" dur="PT229S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LVcNZSkpprXKDrzeVU322v" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-08-28"/>
+          <time when="14:31:00" dur="PT229S"/>
         </correspAction>
         <correspContext corresp="i-LZNwdYmphJkAXiAFjfPwvi">
           <ref type="record" target="prot-200708--138">Riksdagens protokoll 2007/08:138 Torsdagen den 28 augusti</ref>

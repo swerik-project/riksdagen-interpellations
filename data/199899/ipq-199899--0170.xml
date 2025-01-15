@@ -22,24 +22,24 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Tobisson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-QKH1DSWytvVGtUZkzdboRg</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-WRYqVe6fJLtBQx7BXS7MRe" corresp="i-QKH1DSWytvVGtUZkzdboRg">
-          <date when="1998-02-15"/>
+          <date when="1999-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-F46iWpWxGEx7sjwiomuxDg">
+        <correspAction type="received" xml:id="i-F46iWpWxGEx7sjwiomuxDg" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-2h9LdekCDPKN6TwCLdp7bS">
           <note>Förfallen</note>

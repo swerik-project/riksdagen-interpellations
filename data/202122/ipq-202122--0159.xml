@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-wfpsNMDyu1hz9XEYw6Tu2" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-12-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EojhL37z5hPtuH1dZA7KVt">
-          <date when="2022-01-28"/>
-          <time when="12:44:02" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Rnu2e8HNNUTt9kFtkYBPKk" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-01-28"/>
+          <time when="12:44:02" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-EojhL37z5hPtuH1dZA7KVt">
           <ref type="record" target="prot-202122--061">Protokoll 2021/22:61 Fredagen den 28 januari</ref>

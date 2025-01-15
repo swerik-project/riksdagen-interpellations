@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
+            <persName>Mats Pertoft</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RDxBw2DGUNA8rYECP4JCdB" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2007-01-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-X4RcHc5qoZbRzFPGVZcv5F">
-          <date when="2007-01-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-93YbZMDBDTGar9qzGpstDD" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GdMuQv4i6X7bHuAaxeh88X">
-          <date when="2007-02-02"/>
-          <time when="10:35:33" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4jyKrHbRjEGrps2dvoA7i2" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-02-02"/>
+          <time when="10:35:33" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-GdMuQv4i6X7bHuAaxeh88X">
           <ref type="record" target="prot-200607--058">Riksdagens protokoll 2006/07:58 Fredagen den 2 februari</ref>

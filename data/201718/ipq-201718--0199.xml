@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
+            <persName>Hans Rothenberg</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
-            <persName>Hans Rothenberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-42aRMK6N6dqDyZVR2nMPst" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-11-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QpRTDyShd2B2XrRwJ4c3M4">
-          <date when="2018-01-16"/>
-          <time when="15:20:59" dur="PT264S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8iHd2Xo5bZGXJtLxPddciD" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-01-16"/>
+          <time when="15:20:59" dur="PT264S"/>
         </correspAction>
         <correspContext corresp="i-QpRTDyShd2B2XrRwJ4c3M4">
           <ref type="record" target="prot-201718--055">Protokoll 2017/18:55 Tisdagen den 16 januari</ref>

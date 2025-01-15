@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QVqqZAPY1emsYgUbz5v2SA</idno>
             <persName>Michael Svensson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
             <persName>Statsrådet Aida Hadzialic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-4hnxyfs4UhMcZdDEabkHkF" corresp="i-DjeBWa5GvkPtwGp5yfccUZ">
           <date when="2016-06-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PCArFDKCxV1R1tWSXUe1ue">
-          <date when="2016-10-14"/>
-          <time when="09:00:57" dur="PT210S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7wen7vxKQpNhTyqR4ZLFfP" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2016-10-14"/>
+          <time when="09:00:57" dur="PT210S"/>
         </correspAction>
         <correspContext corresp="i-PCArFDKCxV1R1tWSXUe1ue">
           <ref type="record" target="f-lista-201617--015">Fredag den 14 oktober 2016</ref>

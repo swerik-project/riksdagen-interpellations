@@ -25,45 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5kLPqJYKuXdEi7mU2QqyGZ</idno>
             <persName>Maria Stockhaus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NDXytJ2sEVrtLhDNxEoc8A</idno>
             <persName>Ida Drougge</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
+            <persName>Anna Ekström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-Sez99CefV9DQ4MaymPpgT1" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-10-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VNoH1NB9VywPB441sCCa9q">
-          <date when="2017-11-09"/>
-          <time when="13:05:43" dur="PT197S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MpfndQ8sW3EkUTtqYbDhNY" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-11-09"/>
+          <time when="13:05:43" dur="PT197S"/>
         </correspAction>
         <correspContext corresp="i-VNoH1NB9VywPB441sCCa9q">
           <ref type="record" target="prot-201718--028">Protokoll 2017/18:28 Torsdagen den 9 november</ref>

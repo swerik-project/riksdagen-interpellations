@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-G9cpXThuSAP5KSY32ApDCj</idno>
             <persName>Ann-Britt Åsebol</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-TqQxd4k8Ltg6HQJLZaN5Am" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NxyeYctgUnKDRbNEFkDRmC">
-          <date when="2018-01-23"/>
-          <time when="18:54:24" dur="PT271S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-L8JcLPRDLenBfN8T7CZ1Bh">
           <date when="2018-01-23"/>
+          <time when="18:54:24" dur="PT271S"/>
         </correspAction>
         <correspContext corresp="i-NxyeYctgUnKDRbNEFkDRmC">
           <ref type="record" target="prot-201718--059">Protokoll 2017/18:59 Tisdagen den 23 januari</ref>

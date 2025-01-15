@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-DJgH7q21vrKJDYHFpgpTiX</idno>
             <persName>Penilla Gunther</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VDYw74umwxzwZtmodeH794" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-06-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MFQvMkhBUwTMNstojiVbbm">
-          <date when="2018-06-27"/>
-          <time when="09:00:50" dur="PT302S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Vd3epnXymfMLgRVNeJw3uz">
           <date when="2018-06-27"/>
+          <time when="09:00:50" dur="PT302S"/>
         </correspAction>
         <correspContext corresp="i-MFQvMkhBUwTMNstojiVbbm">
           <ref type="record" target="prot-201718--139">Protokoll 2017/18:139 Onsdagen den 27 juni</ref>

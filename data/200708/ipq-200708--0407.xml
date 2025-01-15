@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
-            <persName>Carina Moberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
+            <persName>Carina Moberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-QNmJtPeEA7ZT4f48EUZGd" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
           <date when="2008-02-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4k3RAMe5rokyCFFNTfurFW">
-          <date when="2008-02-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GQGtea54C1ahkFvRzrT2J8" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-02-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QMiBocRyuLDVrPvveuCsrZ">
-          <date when="2008-03-07"/>
-          <time when="09:26:04" dur="PT345S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6sf5dq5bpN7dH3n6aR4n5h" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-03-07"/>
+          <time when="09:26:04" dur="PT345S"/>
         </correspAction>
         <correspContext corresp="i-QMiBocRyuLDVrPvveuCsrZ">
           <ref type="record" target="prot-200708--075">Riksdagens protokoll 2007/08:75 Fredagen den 7 mars</ref>

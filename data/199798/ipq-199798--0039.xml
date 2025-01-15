@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Jan Backman (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-8rgPqLrraP4U2Uu8wEKuJF</idno>
           </person>
           <person gender="woman">
-            <persName>kulturministern</persName>
+            <persName>Marita Ulvskog</persName>
             <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-BLRekp7tXdBv37DGomeSH9" corresp="i-8rgPqLrraP4U2Uu8wEKuJF">
           <date when="1997-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2HaEPcgRAowrVZFobPjtot">
+        <correspAction type="received" xml:id="i-2HaEPcgRAowrVZFobPjtot" corresp="i-JchxQfU1zc3XVbvadFgBSn">
           <note>date unknown</note>
-          <name>kulturministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LSkQYpbUvyZcZWavZ56PzG">
           <note>Besvarad</note>

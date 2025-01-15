@@ -24,46 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-AFto3gTmjTfTgomtq31hLZ</idno>
             <persName>Jessica Rosencrantz</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-TSCNUgciRYBgdJRmCiDLmY" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TghUGGYsq9hcvZ4F3XAqrr">
-          <date when="2018-03-06"/>
-          <time when="14:38:45" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WKTHAGZUjp3Hx2h2EMDAft" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-03-06"/>
+          <time when="14:38:45" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-TghUGGYsq9hcvZ4F3XAqrr">
           <ref type="record" target="prot-201718--079">Protokoll 2017/18:79 Tisdagen den 6 mars</ref>

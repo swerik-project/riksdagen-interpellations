@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UukxhVrpswE5ADBkFe7Q3V</idno>
             <persName>Jan Björkman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
+            <persName>Ulf Holm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-H7sCFTKzTKLQg7zLuEPKsY" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2009-03-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RwuTqCGfxiGojXcNrnyGgD">
-          <date when="2009-03-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RxGGX3DoARV4WkctHiMdVn" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-03-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UhjDLo4RdwGNW3q2A6L99H">
-          <date when="2009-04-21"/>
-          <time when="14:23:27" dur="PT251S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F3PZZjs1ijPevfmVpHWf4L" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-04-21"/>
+          <time when="14:23:27" dur="PT251S"/>
         </correspAction>
         <correspContext corresp="i-UhjDLo4RdwGNW3q2A6L99H">
           <ref type="record" target="prot-200809--103">Riksdagens protokoll 2008/09:103 Tisdagen den 21 april</ref>

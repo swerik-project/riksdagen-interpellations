@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
             <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Vb4djocqhyZkuT3LAujqfv" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2015-10-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YaTSh7UNhSRWW4PbhXYbSX">
-          <date when="2015-10-20"/>
-          <time when="19:31:48" dur="PT114S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XFp3biXk68MkVY24fudnPS">
           <date when="2015-10-20"/>
+          <time when="19:31:48" dur="PT114S"/>
         </correspAction>
         <correspContext corresp="i-YaTSh7UNhSRWW4PbhXYbSX">
           <ref type="record" target="prot-201516--016">Protokoll 2015/16:16 Tisdagen den 20 oktober</ref>

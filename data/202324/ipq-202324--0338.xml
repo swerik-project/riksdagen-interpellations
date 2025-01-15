@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
+            <persName>Maria Malmer Stenergard</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-QB27uLKy5Gsf1VKu7cLNmZ" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CUUgKiKf3YpbBSc66Rcoas">
-          <date when="2024-01-18"/>
-          <time when="15:19:19" dur="PT101S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7N8PhJyRd2QnijynwxF8tC">
           <date when="2024-01-18"/>
+          <time when="15:19:19" dur="PT101S"/>
         </correspAction>
         <correspContext corresp="i-CUUgKiKf3YpbBSc66Rcoas">
           <ref type="record" target="prot-202324--057">Protokoll 2023/24:57 Torsdagen den 18 januari</ref>

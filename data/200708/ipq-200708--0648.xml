@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-YU8i88S8eJQ5ZYdJzkoGef</idno>
-            <persName>Eva Selin Lindgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-YU8i88S8eJQ5ZYdJzkoGef</idno>
-            <persName>Eva Selin Lindgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
             <persName>Lars Tysklind (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-YU8i88S8eJQ5ZYdJzkoGef</idno>
+            <persName>Eva Selin Lindgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-AfYakXt8wTVXTxWh6g26RH" corresp="i-YU8i88S8eJQ5ZYdJzkoGef">
           <date when="2008-05-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XS5bScCHEvWcRMJdSV8MAp">
-          <date when="2008-05-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-U4AkZSWUESux32JT3mqz8H" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2008-05-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8DDRqp9FScGy3dB8FDgAyL">
-          <date when="2008-05-23"/>
-          <time when="09:59:30" dur="PT475S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JVjnubADYgW6tMhoCKa4ox" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2008-05-23"/>
+          <time when="09:59:30" dur="PT475S"/>
         </correspAction>
         <correspContext corresp="i-8DDRqp9FScGy3dB8FDgAyL">
           <ref type="record" target="prot-200708--118">Riksdagens protokoll 2007/08:118 Fredagen den 23 maj</ref>

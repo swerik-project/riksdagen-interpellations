@@ -22,59 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
             <persName>Gunnar Axén (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HsmyrkjqQGCAargTNWaeXi</idno>
             <persName>Siw Wittgren-Ahl (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-6buBeWhDQySjXz5NEvD1WY" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GRdok7ahhUALnWWMVmv83k">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EHhpry1dn8jzSTGk3dNc7e" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-25bhMhoLyfUw1MfpWYyNUi">
-          <date when="2010-06-09"/>
-          <time when="14:11:00" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MzpxcCYwndSE3puMDtyUF8" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-06-09"/>
+          <time when="14:11:00" dur="PT228S"/>
         </correspAction>
         <correspContext corresp="i-25bhMhoLyfUw1MfpWYyNUi">
           <ref type="record" target="prot-200910--135">Riksdagens protokoll 2009/10:135 Onsdagen den 9 juni</ref>

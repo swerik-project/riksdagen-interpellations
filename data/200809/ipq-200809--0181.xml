@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-ThWSzLAAhPBVwHj5VJ8fHs" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2008-12-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MoHfJvbGEvUZUBuTGmW9KJ">
-          <date when="2008-12-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XU6MTGxzwybTE8CS5iie1D" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-12-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7qippNyeMdiYY2yMadMxmA">
-          <date when="2009-01-15"/>
-          <time when="19:41:39" dur="PT219S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AhbFSFVkKMXavVaARAw5MC" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-01-15"/>
+          <time when="19:41:39" dur="PT219S"/>
         </correspAction>
         <correspContext corresp="i-7qippNyeMdiYY2yMadMxmA">
           <ref type="record" target="prot-200809--057">Riksdagens protokoll 2008/09:57 Torsdagen den 15 januari</ref>

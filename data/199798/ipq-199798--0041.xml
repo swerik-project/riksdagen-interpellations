@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Chatrine Pålsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-WJM6edqhGfBK1ijhNxfgoj</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-MYeufs1368Rp9ELhQ8qUHD" corresp="i-WJM6edqhGfBK1ijhNxfgoj">
           <date when="1997-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PjxEThTV4av8kdMDjX57fK">
+        <correspAction type="received" xml:id="i-PjxEThTV4av8kdMDjX57fK" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-J3m6fEgLfcCpLuvKnqdXHb">
           <note>Besvarad</note>

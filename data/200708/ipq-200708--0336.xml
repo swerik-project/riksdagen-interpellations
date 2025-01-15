@@ -22,38 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ulla Andersson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-EBzrvjpMrqabbGtGneLMHT" corresp="i-M5o8cYSRJsbmZdvevomfQX">
           <date when="2008-01-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G9C7SmhZBGgBBaYzZ9ovfD">
-          <date when="2008-01-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-S8aXE4gP6c1ygMLxNAsd23" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-01-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4tH3pezahEgmQWdgvrBB8P">
-          <date when="2008-02-19"/>
-          <time when="19:44:32" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AeCx5fP9rRijjkuNp8KQuW" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-02-19"/>
+          <time when="19:44:32" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-4tH3pezahEgmQWdgvrBB8P">
           <ref type="record" target="prot-200708--067">Riksdagens snabbprotokoll 2007/08:67 Tisdagen den 19 februari</ref>

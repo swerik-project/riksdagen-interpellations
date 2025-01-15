@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
             <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-D7DqHhbFK6ki6aw3jr6nAA" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2004-12-15"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-Dbv5ipRwaQT2oWcgqZTgPR">
-          <date when="2004-12-15"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-DySg7FwDuhpjBQVkLqnMjZ">
-          <date when="2005-01-25"/>
         </correspAction>
         <correspAction type="received" xml:id="i-JMnjtJBxwz2wnYQJtzLW7m" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2004-12-15"/>

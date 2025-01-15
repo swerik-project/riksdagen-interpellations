@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-M8LKQKEcsjHJKv8kSmhVcX</idno>
             <persName>Tomas Tobé</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-3vUPwpKMDyUxaZaNk3M4V1" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-10-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TeDdTdkjU5BspoCPqE1YD3">
-          <date when="2018-01-19"/>
-          <time when="11:03:57" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UBwxLaifj5QD5kauc6duJh" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2018-01-19"/>
+          <time when="11:03:57" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-TeDdTdkjU5BspoCPqE1YD3">
           <ref type="record" target="prot-201718--058">Protokoll 2017/18:58 Fredagen den 19 januari</ref>

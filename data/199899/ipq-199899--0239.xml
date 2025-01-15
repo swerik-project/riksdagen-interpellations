@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Beijer (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-UjusnwqMxiEAJYzdWTSGQZ</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Bp9fFEcEdkHrutg1RUhBrG" corresp="i-UjusnwqMxiEAJYzdWTSGQZ">
-          <date when="1998-03-30"/>
+          <date when="1999-03-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4nEwZBJ5Hv6o8zbTPnjXPF">
+        <correspAction type="received" xml:id="i-4nEwZBJ5Hv6o8zbTPnjXPF" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LDxZq9V6ENuJudwB2uKgmd">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-VE2vtiv9F3wQoH3BFXJ9Ay">
-          <date when="1998-05-07"/>
+          <date when="1999-05-07"/>
         </correspAction>
         <correspContext corresp="i-VE2vtiv9F3wQoH3BFXJ9Ay">
           <ref type="record" target="prot-199899--093">Prot. 1998/99:93</ref>

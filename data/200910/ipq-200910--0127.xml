@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
             <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-2NrBdGtpSuuwKkPod2UG7k">
-          <date when="2009-11-24"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-98SSHjv3uThaXtbHwzGvSM" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2009-11-23"/>
         </correspAction>
         <correspAction type="received" xml:id="i-RKcvoN2uxTuvt3KiFS57ue" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2009-11-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MjrKwTibkoUpnXvkRa69i4">
-          <date when="2009-12-18"/>
-          <time when="09:00:55" dur="PT298S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-72qdKPCbhjRFSwVtC9AgDR" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2009-12-18"/>
+          <time when="09:00:55" dur="PT298S"/>
         </correspAction>
         <correspContext corresp="i-MjrKwTibkoUpnXvkRa69i4">
           <ref type="record" target="prot-200910--054">Riksdagens protokoll 2009/10:54 Fredagen den 18 december</ref>

@@ -22,31 +22,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Olof Johansson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Olof Johansson</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-FrizKF8qiYUeCD64QhzzFt</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-5QrzycGvk6z4PV7XqbCoHr" corresp="i-FrizKF8qiYUeCD64QhzzFt">
-          <date when="1997-01-20"/>
+          <date when="1998-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AjncAm2rF8DLSHMyLsTTbS">
+        <correspAction type="received" xml:id="i-AjncAm2rF8DLSHMyLsTTbS" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-FT93d4n8J4KmkwHnb6b3GA">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9aAdveprh3jXgbCSCz7VgW">
-          <date when="1997-02-17"/>
+          <date when="1998-02-17"/>
         </correspAction>
         <correspContext corresp="i-9aAdveprh3jXgbCSCz7VgW">
           <ref type="record" target="prot-199798--068">Prot. 1997/98:68</ref>

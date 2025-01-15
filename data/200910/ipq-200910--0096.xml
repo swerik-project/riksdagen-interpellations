@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
+            <persName>Roland Bäckman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-4fjc6ypk1wJRmbe4uJBfNj" corresp="i-Vw3jBQw26TxFbXrsoKmCH2">
           <date when="2009-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ShpHzT5FYiwwrB9Qj1wK1L">
-          <date when="2009-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FECcYFDNVgr5ccjRRcoZ4g" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7ACRqB9sRPCvcKu9pG3FN3">
-          <date when="2009-12-01"/>
-          <time when="14:34:57" dur="PT347S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AueQmXv1QR8tNqRDzqFpbP" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-12-01"/>
+          <time when="14:34:57" dur="PT347S"/>
         </correspAction>
         <correspContext corresp="i-7ACRqB9sRPCvcKu9pG3FN3">
           <ref type="record" target="prot-200910--040">Riksdagens protokoll 2009/10:40 Tisdagen den 1 december</ref>

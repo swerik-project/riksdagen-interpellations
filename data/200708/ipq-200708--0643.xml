@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
             <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Jacob Johnson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-XX7QJepbYS4XU5uRhUUWYy" corresp="i-CNBy5dFgNNyEozHVpAj93c">
           <date when="2008-05-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8GFJABhdppjg3bWmuPt6CC">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7ChPKBBzyfBiALBHCaVvrU" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PTcDcozG3zThth5uF5c33B">
-          <date when="2008-06-13"/>
-          <time when="12:20:32" dur="PT361S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FAddynutBjxCiHcN7zmSSz" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2008-06-13"/>
+          <time when="12:20:32" dur="PT361S"/>
         </correspAction>
         <correspContext corresp="i-PTcDcozG3zThth5uF5c33B">
           <ref type="record" target="prot-200708--128">Riksdagens protokoll 2007/08:128 Fredagen den 13 juni</ref>

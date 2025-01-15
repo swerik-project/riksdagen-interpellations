@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson i Luleå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
             <persName>Mattias Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-FDP4nbNVtD1S8nKpiGxKpB" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2019-11-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Bgr4ayvVsnZ6gmwX3M1uDB">
-          <date when="2019-11-26"/>
-          <time when="15:30:02" dur="PT170S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WCH85QuzDA8wij5yYjXJoM">
           <date when="2019-11-26"/>
+          <time when="15:30:02" dur="PT170S"/>
         </correspAction>
         <correspContext corresp="i-Bgr4ayvVsnZ6gmwX3M1uDB">
           <ref type="record" target="prot-201920--038">Protokoll 2019/20:38 Tisdagen den 26 november</ref>

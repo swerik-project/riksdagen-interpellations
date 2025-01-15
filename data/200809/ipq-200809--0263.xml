@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-3hmS3YtKuXCDu8pntcLAdc</idno>
-            <persName>Hans Hoff</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3hmS3YtKuXCDu8pntcLAdc</idno>
-            <persName>Hans Hoff (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-3hmS3YtKuXCDu8pntcLAdc</idno>
+            <persName>Hans Hoff</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-9HJf6w1aVkz9C7y8yVZbLV" corresp="i-3hmS3YtKuXCDu8pntcLAdc">
           <date when="2009-01-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MqfRUfHNMcrUk6z6VY8P8C">
-          <date when="2009-01-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WvBDEt8TsXf3J4wPnoCZhU" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-01-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U7J4HjrJ4AQnMAKSt6RB2u">
-          <date when="2009-02-13"/>
-          <time when="10:28:55" dur="PT288S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-35q2183bAkgdXET7Lenx5Z" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-02-13"/>
+          <time when="10:28:55" dur="PT288S"/>
         </correspAction>
         <correspContext corresp="i-U7J4HjrJ4AQnMAKSt6RB2u">
           <ref type="record" target="prot-200809--070">Riksdagens protokoll 2008/09:70 Fredagen den 13 februari</ref>

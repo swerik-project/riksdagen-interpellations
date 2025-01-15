@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-V7zg9k4dn89Hp1yr4eAYAW" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2015-09-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A4dQAqKCie1w8tb5ToTGRF">
-          <date when="2015-09-29"/>
-          <time when="13:24:36" dur="PT72S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-59XNBF5dtruXzawAGqHmY9">
           <date when="2015-09-29"/>
+          <time when="13:24:36" dur="PT72S"/>
         </correspAction>
         <correspContext corresp="i-A4dQAqKCie1w8tb5ToTGRF">
           <ref type="record" target="prot-201516--009">Protokoll 2015/16:9 Tisdagen den 29 september</ref>

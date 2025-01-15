@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TxLwXp3MJemR8iGdYER2aZ</idno>
             <persName>Ali Esbati</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -61,15 +54,12 @@
         <correspAction type="sent" xml:id="i-3sTmEVZqXk9EGxq6CRd8Uf" corresp="i-QhdbBfCQXCqPEr4GTwvK8F">
           <date when="2019-03-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RqCt7cjhqxZLWgAQNEA2q1">
-          <date when="2019-03-26"/>
-          <time when="15:24:46" dur="PT97S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DtsionfNoWwSFqUobtpg2h" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-03-26"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-B7eCdgu1pbRPKogidXGPYT">
           <date when="2019-03-26"/>
+          <time when="15:24:46" dur="PT97S"/>
         </correspAction>
         <correspAction xml:id="i-VZLGH9dULnW7R7zYhCEewv" type="discussed" corresp="i-TxLwXp3MJemR8iGdYER2aZ">
           <date when="2019-03-26"/>

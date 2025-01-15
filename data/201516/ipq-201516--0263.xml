@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
             <persName>Gustav Fridolin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-P7rNZHaCfG538g9umu6fwG" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2015-12-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5E1XJR9b8raKattsUM9uou">
-          <date when="2016-01-12"/>
-          <time when="18:00:18" dur="PT139S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Qiju4wxC7g8UpYVX8HxcxZ">
           <date when="2016-01-12"/>
+          <time when="18:00:18" dur="PT139S"/>
         </correspAction>
         <correspContext corresp="i-5E1XJR9b8raKattsUM9uou">
           <ref type="record" target="prot-201516--050">Protokoll 2015/16:50 Tisdagen den 12 januari</ref>

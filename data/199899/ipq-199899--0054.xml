@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Ronny Olander (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-KNqtzTyLq88RopWq6R35xs</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-FKDCXRxdALkyXxHbwtGkyM" corresp="i-KNqtzTyLq88RopWq6R35xs">
           <date when="1998-11-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DWfb4GQWxGNmuSQcmiCAFo">
+        <correspAction type="received" xml:id="i-DWfb4GQWxGNmuSQcmiCAFo" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VP13U7AbHtKA4xtmDkT8ob">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JPPPrgH719md4w6ZVkc9Lg">
-          <date when="1998-01-26"/>
+          <date when="1999-01-26"/>
         </correspAction>
         <correspContext corresp="i-JPPPrgH719md4w6ZVkc9Lg">
           <ref type="record" target="prot-199899--045">Prot. 1998/99:45</ref>

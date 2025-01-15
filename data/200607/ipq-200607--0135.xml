@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-V3GjREvdYiesCjNn7quoGc</idno>
             <persName>Hans Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-Wc3awUJoxbPniKrhtHDQpq" corresp="i-V3GjREvdYiesCjNn7quoGc">
           <date when="2006-12-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4FYB3u1BHvcNoQee92tCxT">
-          <date when="2006-12-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XZWAE5M2QPLZ4tGRQgkoD" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-12-07"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-BekxZeXoof1h6b7NL2fmbS">
-          <date when="2006-12-21"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-9Ft7A8DydCp4VQLCarRTiw" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-12-21"/>

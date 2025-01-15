@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-CSSvFYJqF1rNFZNiY5Xnmx</idno>
             <persName>Mats Gerdau (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
+            <persName>Mats Pertoft</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-NJFu7FzhW2nJPH6bUexBVc" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7gMtGMUBXY9soqK7aXKgft">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CZqrnYNgVa48qsR7CyJoms" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-662aeRh88Z6wEiueDyVCSY">
-          <date when="2009-05-26"/>
-          <time when="13:18:30" dur="PT243S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9LdXejnQWzoNFWU5XGAzzn" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-05-26"/>
+          <time when="13:18:30" dur="PT243S"/>
         </correspAction>
         <correspContext corresp="i-662aeRh88Z6wEiueDyVCSY">
           <ref type="record" target="prot-200809--124">Riksdagens protokoll 2008/09:124 Tisdagen den 26 maj</ref>

@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>Marianne Andersson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Marianne Andersson</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-4HwVdTBbapZ5KwNJtKs6Ux</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesminis­tern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-EvD5A3J5BMYHi5a1jiyRn" corresp="i-4HwVdTBbapZ5KwNJtKs6Ux">
           <date when="1996-11-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-YRPFLN8dYetvLAKQLCySuv">
+        <correspAction type="received" xml:id="i-YRPFLN8dYetvLAKQLCySuv" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BUJqHC38u3YqdnWmzqUniE">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-AwPXq9TgC2kWayxyvx2nxd">
-          <date when="1996-01-28"/>
+          <date when="1997-01-28"/>
         </correspAction>
         <correspContext corresp="i-AwPXq9TgC2kWayxyvx2nxd">
           <ref type="record" target="prot-199697--055">Prot. 1996/97:55</ref>

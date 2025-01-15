@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RVBRPDgYSffQso5SLJ9Cxr</idno>
             <persName>Larry Söder</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-NVXpCYWdVN1TeZRQU66f1f" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KNR38VA8tzu661BVoFgm11">
-          <date when="2019-08-29"/>
-          <time when="12:23:22" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9tMQmgThk8BHTo6p1mLsF2" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2019-08-29"/>
+          <time when="12:23:22" dur="PT86S"/>
         </correspAction>
         <correspContext corresp="i-KNR38VA8tzu661BVoFgm11">
           <ref type="record" target="prot-201819--111">Protokoll 2018/19:111 Torsdagen den 29 augusti</ref>

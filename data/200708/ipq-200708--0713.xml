@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5hfHA4xj6n9oat1ugXiege" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C6TKzhzvL7Z45VQpGg2xZX">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-91xJBUbzXvxgqV5mFatEaJ" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JoU6cvzKx4iaRDoxjTsWeQ">
-          <date when="2008-05-28"/>
-          <time when="09:39:02" dur="PT251S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-H1WAyD89MWQgTn5cLJW742" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-28"/>
+          <time when="09:39:02" dur="PT251S"/>
         </correspAction>
         <correspContext corresp="i-JoU6cvzKx4iaRDoxjTsWeQ">
           <ref type="record" target="prot-200708--119">Riksdagens protokoll 2007/08:119 Onsdagen den 28 maj</ref>

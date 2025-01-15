@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-4JJgCzcd7f2C6Tz1nqZ4dd" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-11-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VSfL5Bv7CmmhjmTRi2wmJL">
-          <date when="2015-11-24"/>
-          <time when="18:53:47" dur="PT94S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DfNVzAn3PiAMGnt89yKt5C" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-11-24"/>
+          <time when="18:53:47" dur="PT94S"/>
         </correspAction>
         <correspContext corresp="i-VSfL5Bv7CmmhjmTRi2wmJL">
           <ref type="record" target="prot-201516--032">Protokoll 2015/16:32 Tisdagen den 24 november</ref>

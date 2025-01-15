@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
+            <persName>Boriana Åberg</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
-            <persName>Boriana Åberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-CNZPw1duUawaxyd8t5kW4p" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-09-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3SCmF5bFVjbZ8F82rWaby2">
-          <date when="2021-10-19"/>
-          <time when="14:29:51" dur="PT133S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KvmvV9BnqDSTPqvtmBiC5o">
           <date when="2021-10-19"/>
+          <time when="14:29:51" dur="PT133S"/>
         </correspAction>
         <correspContext corresp="i-3SCmF5bFVjbZ8F82rWaby2">
           <ref type="record" target="prot-202122--017">Protokoll 2021/22:17 Tisdagen den 19 oktober</ref>

@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Hans Andersson (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Hans Andersson</persName>
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-QCRg2KTsg7cQV6CGsVeAfY</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Ao1DD6CP8pkbnQmz3ZGyMQ" corresp="i-QCRg2KTsg7cQV6CGsVeAfY">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Mms15DHZfDx737be3qaKFe">
+        <correspAction type="received" xml:id="i-Mms15DHZfDx737be3qaKFe" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8SWL3EWvt8RTMSCUBwH8TX">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-3erkjyjEbWKJuMoep1zQgv">
-          <date when="1996-05-21"/>
+          <date when="1997-05-21"/>
         </correspAction>
         <correspContext corresp="i-3erkjyjEbWKJuMoep1zQgv">
           <ref type="record" target="prot-199697--106">Prot. 1996/97:106</ref>

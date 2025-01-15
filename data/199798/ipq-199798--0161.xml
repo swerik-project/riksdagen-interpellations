@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Ulrica Messing</persName>
             <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-MU1XDwXq35TyNaGNNyU6Ur" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
-          <date when="1997-02-05"/>
+          <date when="1998-02-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Pp6kDJEkEdufGoG5pXSjVN">
+        <correspAction type="received" xml:id="i-Pp6kDJEkEdufGoG5pXSjVN" corresp="i-L7Ay5GaFaMutWEX7utMv62">
           <note>date unknown</note>
-          <name>statsrådet Ulrica Messing</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-E7wv9DnsmTbA7VLU1WyaEz">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JvnDd1hFehDKGozQMsfJFM">
-          <date when="1997-03-10"/>
+          <date when="1998-03-10"/>
         </correspAction>
         <correspContext corresp="i-JvnDd1hFehDKGozQMsfJFM">
           <ref type="record" target="prot-199798--077">Prot. 1997/98:77</ref>

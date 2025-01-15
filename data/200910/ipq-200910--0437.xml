@@ -22,66 +22,45 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-W6BJ44rcZjp5pD28NhHrCf</idno>
             <persName>Gunnar Axén (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UT1ponddSVxoVpn779syr7</idno>
             <persName>Solveig Zander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
             <persName>Ulf Nilsson (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HsmyrkjqQGCAargTNWaeXi</idno>
             <persName>Siw Wittgren-Ahl (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-GvFzmBg9ucyhHPyy5zaXRW" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SrPj3YCEXXjVm6Y5JrBHWA">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LFYx4U4fwGcaKQ9yZ8G4rQ" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BbLhQcc9k4tMWY3RGgRXFh">
-          <date when="2010-06-09"/>
-          <time when="14:48:32" dur="PT199S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NNerLaTAXZwNgBD3TAh6Xf" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-06-09"/>
+          <time when="14:48:32" dur="PT199S"/>
         </correspAction>
         <correspContext corresp="i-BbLhQcc9k4tMWY3RGgRXFh">
           <ref type="record" target="prot-200910--135">Riksdagens protokoll 2009/10:135 Onsdagen den 9 juni</ref>

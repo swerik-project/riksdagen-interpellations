@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-T1N6sKNpePNbDTu7HWaHbd</idno>
-            <persName>Maria Kornevik Jakobsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-T1N6sKNpePNbDTu7HWaHbd</idno>
-            <persName>Maria Kornevik Jakobsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-T1N6sKNpePNbDTu7HWaHbd</idno>
+            <persName>Maria Kornevik Jakobsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-WbCZDkxDqy4QasBjWZJASk" corresp="i-T1N6sKNpePNbDTu7HWaHbd">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-J5iGy8XtNZV33mZ6ymR6Nk">
-          <date when="2008-04-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BpmZTAtbX38S7TZprAPXuU" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TW5JKXoMpoJw2ZQsTH8mpk">
-          <date when="2008-04-22"/>
-          <time when="18:37:06" dur="PT391S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Lf4DCWwdpLWU2oidgXtpM" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-04-22"/>
+          <time when="18:37:06" dur="PT391S"/>
         </correspAction>
         <correspContext corresp="i-TW5JKXoMpoJw2ZQsTH8mpk">
           <ref type="record" target="prot-200708--100">Riksdagens protokoll 2007/08:100 Tisdagen den 22 april</ref>

@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Kn2C4HPwWcqbEgtUtWTc5F</idno>
             <persName>Roger Haddad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-CvkHh5yGmeM7gptX8QDiK5" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KPrjU5tQTGCGw7tdNaQ7mP">
-          <date when="2019-02-15"/>
-          <time when="12:20:05" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Mv1ig1GoSzn1NLQ9CtRWCv" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-02-15"/>
+          <time when="12:20:05" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-KPrjU5tQTGCGw7tdNaQ7mP">
           <ref type="record" target="prot-201819--054">Protokoll 2018/19:54 Fredagen den 15 februari</ref>

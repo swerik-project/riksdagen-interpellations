@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Inger Strömbom (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-FWydL5N493XBW1LnZgZjCH</idno>
@@ -31,15 +31,18 @@
             <persName>statsministern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR13</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-5sBC3eye3DoR8QKzpEmd9q" corresp="i-FWydL5N493XBW1LnZgZjCH">
           <date when="1998-11-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AaoPMrBxbS5312SiHZUkx1">
+        <correspAction type="received" xml:id="i-AaoPMrBxbS5312SiHZUkx1" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-AcBcNdCL1nKefBkouKxSnG">
           <note>Besvarad</note>

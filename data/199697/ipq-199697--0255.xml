@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Stjernkvist (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-L8FJ5Uq6DWCoY3cXS1trPk</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8sKUF33pTeQFXsBP4QLvdF" corresp="i-L8FJ5Uq6DWCoY3cXS1trPk">
-          <date when="1996-04-02"/>
+          <date when="1997-04-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QpxSY5TjELMXaAtgz7cWy4">
+        <correspAction type="received" xml:id="i-QpxSY5TjELMXaAtgz7cWy4" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-JdWpHyDEbYT6XRJR6GQ4Hk">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-CkcMnoz4c6cws8mwNSu1HA">
-          <date when="1996-04-25"/>
+          <date when="1997-04-25"/>
         </correspAction>
         <correspContext corresp="i-CkcMnoz4c6cws8mwNSu1HA">
           <ref type="record" target="prot-199697--096">Prot. 1996/97:96</ref>

@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-99yJZB59GSHYLz89zGPSv3" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FFjnVRT2t5KkbMwt2VBrhd">
-          <date when="2022-03-04"/>
-          <time when="12:05:24" dur="PT241S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FejLnWrnhYVHNjAKG2AWpC" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-03-04"/>
+          <time when="12:05:24" dur="PT241S"/>
         </correspAction>
         <correspContext corresp="i-FFjnVRT2t5KkbMwt2VBrhd">
           <ref type="record" target="prot-202122--079">Protokoll 2021/22:79 Fredagen den 4 mars</ref>

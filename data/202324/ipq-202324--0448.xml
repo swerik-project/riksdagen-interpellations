@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-ViJ12QcECKp5J4sEBkw5a2</idno>
             <persName>Sofie Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-36nyxqA7w17acL7s97ha3p</idno>
             <persName>Mikael Dahlqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7vhvYfdv3H73d44FMgW7sh</idno>
             <persName>Malin Höglund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKsrTm4gWQzab9KkjqBLKS</idno>
             <persName>Lena Bäckelin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
+            <persName>Anna Tenje</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-5qcFdvdkq7tr5zYH7pX5ff" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2024-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7GWU4fFYWraL64BzD8VgsK">
-          <date when="2024-02-27"/>
-          <time when="20:31:37" dur="PT278S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EF4DP3TnwWNsgHf4wAaTx4">
           <date when="2024-02-27"/>
+          <time when="20:31:37" dur="PT278S"/>
         </correspAction>
         <correspAction xml:id="i-KCDzHGMghk95i8tHTHo5ir" type="discussed" corresp="i-36nyxqA7w17acL7s97ha3p">
           <date when="2024-02-27"/>

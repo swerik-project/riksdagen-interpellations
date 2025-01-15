@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
-            <persName>Statsrådet Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-L6nEJZVpc6mo3meJrVc38z" corresp="i-26JwMpJPh7ufEnA9hhtP9j">
           <date when="2023-05-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EYVMkSMbVt3qfVHhBRu6TG">
-          <date when="2023-05-22"/>
-          <time when="11:46:44" dur="PT45S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8i1EVwyBL2b1AXRe8vfWHM">
           <date when="2023-05-22"/>
+          <time when="11:46:44" dur="PT45S"/>
         </correspAction>
         <correspContext corresp="i-EYVMkSMbVt3qfVHhBRu6TG">
           <ref type="record" target="prot-202223--109">Protokoll 2022/23:109 Måndagen den 22 maj</ref>

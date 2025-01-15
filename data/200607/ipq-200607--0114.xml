@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Elisabeth Svantesson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Dc2AEkX4cYCHbk5HAhSizE" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2006-11-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QatKyXphvjvysj8oRdQyVB">
-          <date when="2006-11-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DLodci9VuRoocKxLSvXUvJ" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2006-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VygB4weSbNQbZSZvzPs4Z7">
-          <date when="2007-01-16"/>
-          <time when="19:23:09" dur="PT294S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5eL2jZQTdPUE6KxW4eNRbT" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-01-16"/>
+          <time when="19:23:09" dur="PT294S"/>
         </correspAction>
         <correspContext corresp="i-VygB4weSbNQbZSZvzPs4Z7">
           <ref type="record" target="prot-200607--048">Riksdagens protokoll 2006/07:48 Tisdagen den 16 januari</ref>

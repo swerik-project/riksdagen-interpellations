@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-WCHMUz7tYjtT9qvPyuw67C" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2020-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2Nh8pUhTQZ5ENcgz3R2eBU">
-          <date when="2021-01-15"/>
-          <time when="10:18:20" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-75KqW3krS5bu7nR7JFcVLn" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-01-15"/>
+          <time when="10:18:20" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-2Nh8pUhTQZ5ENcgz3R2eBU">
           <ref type="record" target="prot-202021--065">Protokoll 2020/21:65 Fredagen den 15 januari</ref>

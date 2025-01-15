@@ -23,38 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
             <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
+            <persName>Jan Lindholm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-qtzzkXXMQeqRkoBDLxn7F" corresp="i-VRHymVx7EsX48sg7b5qmpS">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5KPE8tseTh6f1R9HdFUW3K">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BChNwLc78X2rNkAZr4ZvP4" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EBi8pcQPNQsD2D2qB6PN8Y">
-          <date when="2010-06-08"/>
-          <time when="17:12:36" dur="PT238S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UhRbqEAGTjDd4dhHmWe1sY" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2010-06-08"/>
+          <time when="17:12:36" dur="PT238S"/>
         </correspAction>
         <correspContext corresp="i-EBi8pcQPNQsD2D2qB6PN8Y">
           <ref type="record" target="prot-200910--134">Riksdagens protokoll 2009/10:134 Tisdagen den 8 juni</ref>

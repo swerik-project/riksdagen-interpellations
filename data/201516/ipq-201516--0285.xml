@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KGa34znP4SNkFTbwiVao8N</idno>
             <persName>Erik Ottoson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-BUCkFJP1GzY6xE1rvKSWaT" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U637fxZggSuV5W69VbHK77">
-          <date when="2016-01-19"/>
-          <time when="14:10:59" dur="PT292S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S17efTfyBokvaKyToGBRLu">
           <date when="2016-01-19"/>
+          <time when="14:10:59" dur="PT292S"/>
         </correspAction>
         <correspContext corresp="i-U637fxZggSuV5W69VbHK77">
           <ref type="record" target="prot-201516--054">Protokoll 2015/16:54 Tisdagen den 19 januari</ref>

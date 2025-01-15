@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-VSiy2mHN5m8fAgo9SDAGyR</idno>
             <persName>Hampus Hagman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-3KAbpodzauGo69gTqeCK5V" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Uzb4eG2TYzGhQNA2JSh5VY">
-          <date when="2019-02-05"/>
-          <time when="13:02:15" dur="PT87S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F32WMxNjv25HGkM2ySStC7">
           <date when="2019-02-05"/>
+          <time when="13:02:15" dur="PT87S"/>
         </correspAction>
         <correspContext corresp="i-Uzb4eG2TYzGhQNA2JSh5VY">
           <ref type="record" target="prot-201819--047">Protokoll 2018/19:47 Tisdagen den 5 februari</ref>

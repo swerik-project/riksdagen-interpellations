@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5ZFvYGqAt58ARxiYtJEYLV</idno>
             <persName>Staffan Eklöf</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-PArTLZWN5Z4QwAtCZDNu82" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-47Ev8k9JCW8kcxgFzjkkwy">
-          <date when="2022-03-25"/>
-          <time when="09:26:55" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Vqn9783r1m1FNkMDdjxKcW" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-03-25"/>
+          <time when="09:26:55" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-47Ev8k9JCW8kcxgFzjkkwy">
           <ref type="record" target="prot-202122--088">Protokoll 2021/22:88 Fredagen den 25 mars</ref>

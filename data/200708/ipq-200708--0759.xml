@@ -25,43 +25,29 @@
           <person gender="woman">
             <idno>i-7AB63eqvrGXGCT1mpkEM3J</idno>
             <persName>Louise Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-UDdfgCqz17SR3zbnXHbt4U" corresp="i-7AB63eqvrGXGCT1mpkEM3J">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3ap9TkQrLhNMy33iDCMZz8">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-B2NHzhhMHbP1aWMDv75tZL" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RoUU6jfhXuHVtK7nZqnkhq">
-          <date when="2008-06-19"/>
-          <time when="09:23:47" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-J2gNxx4Q91VGDMnRhDGeWW" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-06-19"/>
+          <time when="09:23:47" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-RoUU6jfhXuHVtK7nZqnkhq">
           <ref type="record" target="prot-200708--133">Riksdagens protokoll 2007/08:133 Torsdagen den 19 juni</ref>

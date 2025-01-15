@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Bodil Valero</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-NBt2ujgTnHQ9zmUsUwim9k" corresp="i-34FRvyXQKUigF3Qr9AwKJe">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-R8VowgvQqwhie9XAnSJ46M">
-          <date when="2008-04-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DFDTYyWJXk4jKUoAqVSRR8" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jr8US5SmoksaSZzb7icVs9">
-          <date when="2008-05-09"/>
-          <time when="09:01:18" dur="PT355S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ERNjMRRnB4CCWLcocuE98Z" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-05-09"/>
+          <time when="09:01:18" dur="PT355S"/>
         </correspAction>
         <correspContext corresp="i-Jr8US5SmoksaSZzb7icVs9">
           <ref type="record" target="prot-200708--108">Riksdagens protokoll 2007/08:108 Fredagen den 9 maj</ref>

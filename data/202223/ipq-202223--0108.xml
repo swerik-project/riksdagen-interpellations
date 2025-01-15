@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-WjFt6fTSYNFkhwrZDFYPM4</idno>
             <persName>Adnan Dibrani</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
+            <persName>Erik Slottner</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-AK3hMFaFtg3JS6FxrjDVcR" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2022-12-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XPFFNKAmutXDuXE2qEjCpB">
-          <date when="2023-02-17"/>
-          <time when="09:59:06" dur="PT222S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8XgxWT5xFW5paKmyA91b8R" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-02-17"/>
+          <time when="09:59:06" dur="PT222S"/>
         </correspAction>
         <correspContext corresp="i-XPFFNKAmutXDuXE2qEjCpB">
           <ref type="record" target="prot-202223--065">Protokoll 2022/23:65 Fredagen den 17 februari</ref>

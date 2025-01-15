@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5qayb573WK7KfrjRv8DR5g</idno>
             <persName>Roland Gustbée</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-R2UmG15TfUhTLYNLFmDMsg" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2017-01-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-G26UXs9JsBVoj6cvfv6kP3">
-          <date when="2017-02-14"/>
-          <time when="18:22:48" dur="PT134S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UN8z3juweWapyFseLk8PSA">
           <date when="2017-02-14"/>
+          <time when="18:22:48" dur="PT134S"/>
         </correspAction>
         <correspContext corresp="i-G26UXs9JsBVoj6cvfv6kP3">
           <ref type="record" target="prot-201617--067">Protokoll 2016/17:67 Tisdagen den 14 februari</ref>

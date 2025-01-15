@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Holger Gustafsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-5jLvgtZLz4tn3NhaKToY29</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-VaV5yG6uwMHraYxqHDQzZ4" corresp="i-5jLvgtZLz4tn3NhaKToY29">
           <date when="1996-10-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Hcknb8LbatVUxR7LsY6zRx">
+        <correspAction type="received" xml:id="i-Hcknb8LbatVUxR7LsY6zRx" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>statsrådet Björn von Sydow</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-uHWXeVQdNcnkM3Bi37Y7C">
           <note>Besvarad</note>

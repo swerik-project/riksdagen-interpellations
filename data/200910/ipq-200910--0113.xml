@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
             <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
-            <persName>Ulla Andersson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ulla Andersson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-7ZFTktHHf5ag2KFyFsCXNv" corresp="i-M5o8cYSRJsbmZdvevomfQX">
           <date when="2009-11-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6zvC9FgU1hfAHFEgZdxmKa">
-          <date when="2009-11-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-87pnfwqFQEXDz267S6bzmf" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2009-11-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Sm55xHcQWRrN9cHHAEkAg6">
-          <date when="2009-12-04"/>
-          <time when="11:54:09" dur="PT201S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RRVDowTtdxEgYEDQMVXfXw" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2009-12-04"/>
+          <time when="11:54:09" dur="PT201S"/>
         </correspAction>
         <correspContext corresp="i-Sm55xHcQWRrN9cHHAEkAg6">
           <ref type="record" target="prot-200910--043">Riksdagens protokoll 2009/10:43 Fredagen den 4 december</ref>

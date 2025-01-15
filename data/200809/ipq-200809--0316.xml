@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Jacob Johnson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-QMeb3qVBftyyExgntatqqW" corresp="i-CNBy5dFgNNyEozHVpAj93c">
           <date when="2009-02-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K4hktjvm7pbsCYaA6ssVBw">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SDHMJZauMF9ZWtysZBinoc" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-nGeZGZB4opCAJWzKGP7ry">
-          <date when="2009-02-17"/>
-          <time when="15:09:17" dur="PT497S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-36aTTeEpw93KzsMLDoa4AZ" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-02-17"/>
+          <time when="15:09:17" dur="PT497S"/>
         </correspAction>
         <correspContext corresp="i-nGeZGZB4opCAJWzKGP7ry">
           <ref type="record" target="prot-200809--071">Riksdagens protokoll 2008/09:71 Tisdagen den 17 februari</ref>

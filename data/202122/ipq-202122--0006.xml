@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-HPmYPeDSZ9c5oSMWziMEZB" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-09-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SkjorCupsTn91ME8n1GdYi">
-          <date when="2021-09-30"/>
-          <time when="12:37:51" dur="PT38S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-78w3KnHsEuxN415VKmgkQu" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-09-30"/>
+          <time when="12:37:51" dur="PT38S"/>
         </correspAction>
         <correspContext corresp="i-SkjorCupsTn91ME8n1GdYi">
           <ref type="record" target="prot-202122--013">Protokoll 2021/22:13 Torsdagen den 30 september</ref>

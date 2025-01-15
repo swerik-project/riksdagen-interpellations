@@ -22,46 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nywj47pd422wBAiv8K2vPV</idno>
             <persName>Jan Ertsborn (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-NkN5nR33dutSZMd447mrHd" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2008-11-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7THKmQnuzMQoDMcMnYQaN7">
-          <date when="2008-11-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BhuFGWbhpXvDCGwM91QRJv" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-11-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R2ithuuGTwjMjok5UUA43r">
-          <date when="2008-12-09"/>
-          <time when="21:08:21" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ozayshNSebpWtuGNSBy5S" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-12-09"/>
+          <time when="21:08:21" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-R2ithuuGTwjMjok5UUA43r">
           <ref type="record" target="prot-200809--045">Riksdagens protokoll 2008/09:45 Tisdagen den 9 december</ref>

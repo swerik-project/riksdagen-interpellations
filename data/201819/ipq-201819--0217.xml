@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-T4vFg2BhjFbpUUC25gUbEq" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-05-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WPjLKVJduR2UMsWeFcktz2">
-          <date when="2019-05-10"/>
-          <time when="11:22:55" dur="PT309S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q68TXMq3m3zhXGgTYMNAZa">
           <date when="2019-05-10"/>
+          <time when="11:22:55" dur="PT309S"/>
         </correspAction>
         <correspContext corresp="i-WPjLKVJduR2UMsWeFcktz2">
           <ref type="record" target="prot-201819--090">Protokoll 2018/19:90 Fredagen den 10 maj</ref>

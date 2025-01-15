@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-FnSJf76MUqArE7LELEDrNz" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-05-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-H3npK6RF2kiesdVvcU4Hzk">
-          <date when="2022-05-13"/>
-          <time when="09:52:01" dur="PT213S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4pCn9DuHwyX4wzCKGFPeki">
           <date when="2022-05-13"/>
+          <time when="09:52:01" dur="PT213S"/>
         </correspAction>
         <correspContext corresp="i-H3npK6RF2kiesdVvcU4Hzk">
           <ref type="record" target="prot-202122--113">Protokoll 2021/22:113 Fredagen den 13 maj</ref>

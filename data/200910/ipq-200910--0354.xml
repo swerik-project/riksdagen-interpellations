@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
             <persName>Ulf Nilsson (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-wLWjAWHi8kh64kuCsmNJr">
-          <date when="2010-04-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TZ8kgVDXv5XfthVy7uxaAW" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-04-29"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-XSXBavSNfU8YkppfpMtRD1" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2010-04-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NTZZWZ2N6EMHLcjX4r4xek">
-          <date when="2010-05-18"/>
-          <time when="14:08:30" dur="PT361S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Pvh34s9nXqy3S9rFYN5hAy" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-05-18"/>
+          <time when="14:08:30" dur="PT361S"/>
         </correspAction>
         <correspContext corresp="i-NTZZWZ2N6EMHLcjX4r4xek">
           <ref type="record" target="prot-200910--120">Riksdagens protokoll 2009/10:120 Tisdagen den 18 maj</ref>

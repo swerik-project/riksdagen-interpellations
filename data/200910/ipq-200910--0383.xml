@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
+            <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
+            <persName>Lars U Granberg (S)</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LzTEdVdf1xwBggoSshMrHP</idno>
             <persName>Per Svedberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LzTEdVdf1xwBggoSshMrHP</idno>
-            <persName>Per Svedberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
-            <persName>Lars U Granberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-64wBth1DGDwXbMhNGpX1xv" corresp="i-LzTEdVdf1xwBggoSshMrHP">
           <date when="2010-05-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-P7WczeHygDQTsqxEgVBy6D">
-          <date when="2010-05-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JFk9PCbK859NQmehgdnuha" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-05-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KdnDHU1ZUrsfknaok2JwfQ">
-          <date when="2010-06-29"/>
-          <time when="13:32:09" dur="PT356S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CT1aETWRB2nyJvUCndsaVr" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-06-29"/>
+          <time when="13:32:09" dur="PT356S"/>
         </correspAction>
         <correspContext corresp="i-KdnDHU1ZUrsfknaok2JwfQ">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

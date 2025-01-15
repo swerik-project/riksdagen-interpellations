@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Zetterberg (y)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>y</desc>
             </state>
             <idno>i-Kytbd3WZfQeKTPffXjTEpk</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-NYcd7wNStvTW1gJSVFtpqM" corresp="i-Kytbd3WZfQeKTPffXjTEpk">
           <date when="1996-09-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GVVMGcPRN7uceho3XKiJ4C">
+        <correspAction type="received" xml:id="i-GVVMGcPRN7uceho3XKiJ4C" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-FGRWY9VpQSw295szNiBY9E">
           <note>Besvarad</note>

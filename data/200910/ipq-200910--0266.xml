@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Gunvor G. Ericson</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3YRZ924X4t1R6QbpvwCNvA" corresp="i-7YbH6oTUwG4Qn94QEVE6as">
           <date when="2010-02-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-22cyY1DoTkEU1sF9VgvRaz">
-          <date when="2010-03-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-ATgoYqzUQezC9f1QaXQpSZ" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-03-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Tdw1gobEqEhhVK26msdMVK">
-          <date when="2010-03-16"/>
-          <time when="19:12:05" dur="PT211S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Qn9uxvnsGFNRSLACwS4G2w" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-03-16"/>
+          <time when="19:12:05" dur="PT211S"/>
         </correspAction>
         <correspContext corresp="i-Tdw1gobEqEhhVK26msdMVK">
           <ref type="record" target="prot-200910--088">Riksdagens protokoll 2009/10:88 Tisdagen den 16 mars</ref>

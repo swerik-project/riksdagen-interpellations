@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MMa2PA7yJ45qkfsEkcFqYb</idno>
             <persName>Christer Engelhardt (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-DW5Ejg2nTyfjeme44AxRNZ" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GxFeRJHSPxtTYA1hwS3FAX">
-          <date when="2007-03-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-K2C9QRoEXoPshuhNZ42V9D" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8GLdjcKJbpM5qHzgxgdhK6">
-          <date when="2007-04-13"/>
-          <time when="09:02:20" dur="PT346S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DHLPi2ucMeyCNSPhUZgVwu" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-04-13"/>
+          <time when="09:02:20" dur="PT346S"/>
         </correspAction>
         <correspContext corresp="i-8GLdjcKJbpM5qHzgxgdhK6">
           <ref type="record" target="prot-200607--090">Riksdagens protokoll 2006/07:90 Fredagen den 13 april</ref>

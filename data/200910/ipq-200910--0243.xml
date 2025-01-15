@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
-            <persName>Gunnar Sandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
-            <persName>Gunnar Sandberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
             <persName>Roland Bäckman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
             <persName>Sven Bergström (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
+            <persName>Gunnar Sandberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-4KcohKH681jHwm4DhU1FCL" corresp="i-8gcKLg8FFeh9DR71R7zcMv">
           <date when="2010-02-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-L8Wx8djQLnnJKBma2bTFoa">
-          <date when="2010-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TLrfV4JGakjWoDj2iFJ34Y" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HhdRXreLpNmCCbiiyf12W4">
-          <date when="2010-03-02"/>
-          <time when="19:10:55" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Kz4Lbyw5y1D7xNbMpHZy2z" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-03-02"/>
+          <time when="19:10:55" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-HhdRXreLpNmCCbiiyf12W4">
           <ref type="record" target="prot-200910--080">Riksdagens protokoll 2009/10:80 Tisdagen den 2 mars</ref>

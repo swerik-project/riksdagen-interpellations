@@ -24,46 +24,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xuj1vM6ABWqwaf2n7VoBVD</idno>
             <persName>Peder Björk</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2c9rVAoZGjLhTDcwaorNo9</idno>
             <persName>Niklas Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
+            <persName>Erik Slottner</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-G7yCbxz6kRfuNRzcXQ7GTL" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2024-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4r7envXXZNFh2Jvx5Vcx7R">
-          <date when="2024-02-08"/>
-          <time when="13:22:37" dur="PT166S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-79bFdsL3tDGRkhASgoTbDv">
           <date when="2024-02-08"/>
+          <time when="13:22:37" dur="PT166S"/>
         </correspAction>
         <correspContext corresp="i-4r7envXXZNFh2Jvx5Vcx7R">
           <ref type="record" target="prot-202324--068">Protokoll 2023/24:68 Torsdagen den 8 februari</ref>

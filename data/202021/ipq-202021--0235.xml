@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-6zWkU7prZL3trWMkQgSsJm" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2020-12-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3hK1EYBgcGZQHczLNeeoZc">
-          <date when="2021-01-22"/>
-          <time when="10:31:44" dur="PT53S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BJvj6YZEzjWvwSG5NHC3fA" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2021-01-22"/>
+          <time when="10:31:44" dur="PT53S"/>
         </correspAction>
         <correspContext corresp="i-3hK1EYBgcGZQHczLNeeoZc">
           <ref type="record" target="prot-202021--069">Protokoll 2020/21:69 Fredagen den 22 januari</ref>

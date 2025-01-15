@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
-            <persName>Aleksander Gabelic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
-            <persName>Aleksander Gabelic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
+            <persName>Aleksander Gabelic</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-A8zCJbHauxq5veqBVnNbbY" corresp="i-82JYkSfoXnEHz2Cm1hUTA2">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-STpCPxFkzKf891CAL7wGjJ">
-          <date when="2008-04-04"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5R9vsZn2JeVGBhRMvF8fGs" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-04-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CepzvJJANUDVVskqeEGCCW">
-          <date when="2008-05-13"/>
-          <time when="19:03:51" dur="PT285S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HFYS8cJhvdRezZRdZBGAti" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-05-13"/>
+          <time when="19:03:51" dur="PT285S"/>
         </correspAction>
         <correspContext corresp="i-CepzvJJANUDVVskqeEGCCW">
           <ref type="record" target="prot-200708--110">Riksdagens protokoll 2007/08:110 Tisdagen den 13 maj</ref>

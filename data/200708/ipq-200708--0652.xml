@@ -25,35 +25,35 @@
           <person gender="man">
             <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
             <persName>Lars U Granberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Lars U Granberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
+            <persName>Lars U Granberg</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-3ri5MNLr8Civ3yVPchFLa6" corresp="i-TZHBPDEfPriGgMd5y7LfJG">
           <date when="2008-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FUarzFWeJVD3MCN7vBD5HP">
-          <date when="2008-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Kf5CLdBFWmEYQ27AfYNCjX" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SBLw2qDmTPdtaXoohDX23o">
-          <date when="2008-06-23"/>
-          <time when="11:18:06" dur="PT180S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WY3dUpLK3HfXnR83inHcLf" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-06-23"/>
+          <time when="11:18:06" dur="PT180S"/>
         </correspAction>
         <correspContext corresp="i-SBLw2qDmTPdtaXoohDX23o">
           <ref type="record" target="prot-200708--134">Riksdagens protokoll 2007/08:134 Måndagen den 23 juni</ref>

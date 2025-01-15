@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisings Backa</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisin (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8AtQfc4p9Hm5yajEXEHtE5</idno>
             <persName>Thomas Strand (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
+            <persName>Gunilla Carlsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-9vn2WybkuYmEchMzWvmYq" corresp="i-HNZrYrLbstv8KywRLm2FMv">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MYGGFJmdViBMikMmRQgLpZ">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9d2nt9zy1bXw6Z3M8rtQ1B" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Hh2ecW45ftDWup1n7vQJax">
-          <date when="2010-06-08"/>
-          <time when="16:52:38" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AHq4xoTyogAjGniuTat6Ce" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-06-08"/>
+          <time when="16:52:38" dur="PT214S"/>
         </correspAction>
         <correspContext corresp="i-Hh2ecW45ftDWup1n7vQJax">
           <ref type="record" target="prot-200910--134">Riksdagens protokoll 2009/10:134 Tisdagen den 8 juni</ref>

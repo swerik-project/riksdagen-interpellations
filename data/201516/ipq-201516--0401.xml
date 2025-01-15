@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-E6nYY8dHTMA6WSe6Zud7n5" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6gi7MaChVKXPattYwXqv4c">
-          <date when="2016-03-18"/>
-          <time when="10:36:04" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5mYUTyajg2bpNCafqfzWNv" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-03-18"/>
+          <time when="10:36:04" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-6gi7MaChVKXPattYwXqv4c">
           <ref type="record" target="prot-201516--083">Protokoll 2015/16:83 Fredagen den 18 mars</ref>

@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-FucmvyHZ22CXcKRGnfjaC4</idno>
             <persName>Anders Åkesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+          <person gender="man">
+            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
+            <persName>Krister Örnfjäder</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
             <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
-            <persName>Krister Örnfjäder</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-UqxZMG43oHPxb6vT4gmR9v" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2016-04-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QFUvC9n4fNtk9iLLLhwqRD">
-          <date when="2016-04-12"/>
-          <time when="19:56:09" dur="PT110S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Rvqp68EstYP1aE8LWX582M">
           <date when="2016-04-12"/>
+          <time when="19:56:09" dur="PT110S"/>
         </correspAction>
         <correspContext corresp="i-QFUvC9n4fNtk9iLLLhwqRD">
           <ref type="record" target="prot-201516--090">Protokoll 2015/16:90 Tisdagen den 12 april</ref>

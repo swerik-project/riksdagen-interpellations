@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
             <persName>Lars Hjälmered</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-TmQN5Qkfy8sjzLJWv7cgNz" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-05-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3s4GD895R1kq6p5ni9mHGE">
-          <date when="2021-06-07"/>
-          <time when="11:24:57" dur="PT130S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7w1W74SHSem38VutVx45VV" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-06-07"/>
+          <time when="11:24:57" dur="PT130S"/>
         </correspAction>
         <correspContext corresp="i-3s4GD895R1kq6p5ni9mHGE">
           <ref type="record" target="prot-202021--135">Protokoll 2020/21:135 Måndagen den 7 juni</ref>

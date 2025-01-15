@@ -27,49 +27,35 @@
           <person gender="man">
             <idno>i-Y5fgQ33MMnP4uyafJ9fz8i</idno>
             <persName>Robert Hannah</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-M2rNBQVSaqrQcUZQkmkCCX</idno>
             <persName>Serkan Köse</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-MzhRpLRDKvXqcmN8vPRKeQ" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-01-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HA7npJzqbFjAxpngVhrXR8">
-          <date when="2016-02-11"/>
-          <time when="12:21:45" dur="PT200S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7xdrKtbq8rjg5hqHjZfxoz" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-02-11"/>
+          <time when="12:21:45" dur="PT200S"/>
         </correspAction>
         <correspAction xml:id="i-EL8yd6njMGYfyYGpgnm29i" type="discussed" corresp="i-Lw92TAaAVgG8Kdf7YxhViy">
           <date when="2016-02-11"/>

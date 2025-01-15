@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
+            <persName>Kent Persson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-BZmXfbRipaJQfWmB9UPJZH" corresp="i-FAhoYDeAxVXRZmnF5LnHgv">
           <date when="2009-05-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Q2ixUHgdN1Y9wbfmiCUbJq">
-          <date when="2009-05-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RtkuBJ2orH1ARPM9cwd9XN" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Rv9ZibX9qLmMdeGuQ2jymS">
-          <date when="2009-06-16"/>
-          <time when="10:58:12" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PQghJ6qvSMC24EfQNXyjJ2" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-06-16"/>
+          <time when="10:58:12" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-Rv9ZibX9qLmMdeGuQ2jymS">
           <ref type="record" target="prot-200809--133">Riksdagens protokoll 2008/09:133 Tisdagen den 16 juni</ref>

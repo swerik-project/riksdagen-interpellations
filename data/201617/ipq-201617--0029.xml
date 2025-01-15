@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-N8cnrnuVjh6dUFeaoQy3jV" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-10-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FaG2F4UZTkdWUeNpMjv7yZ">
-          <date when="2016-10-21"/>
-          <time when="10:30:37" dur="PT106S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U3D2BSZCsGTYann4oLkd4" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-10-21"/>
+          <time when="10:30:37" dur="PT106S"/>
         </correspAction>
         <correspContext corresp="i-FaG2F4UZTkdWUeNpMjv7yZ">
           <ref type="record" target="prot-201617--019">Protokoll 2016/17:19 Fredagen den 21 oktober</ref>

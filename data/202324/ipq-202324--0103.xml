@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6Y7QyEzZ7gFrVaMjjyMzXk</idno>
             <persName>Gunilla Svantorp</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
+            <persName>Elisabeth Svantesson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-RX5SggAJ2eKv7SKHpr8NKN" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2023-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RDe9YEWBSqeprHz6pbsyS2">
-          <date when="2023-11-17"/>
-          <time when="09:01:00" dur="PT91S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LuZkG4Y3YS71theE3TCsQg" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2023-11-17"/>
+          <time when="09:01:00" dur="PT91S"/>
         </correspAction>
         <correspAction xml:id="i-JDgYNTLnq4jdyc7wcfGbLT" type="discussed" corresp="i-6Y7QyEzZ7gFrVaMjjyMzXk">
           <date when="2023-11-17"/>

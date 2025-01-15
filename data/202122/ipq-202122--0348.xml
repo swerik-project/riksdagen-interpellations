@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-3VxwEBzyEfCdex2ZrmdQru</idno>
             <persName>Jimmy Ståhl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-N5ct9qvacrABoo45spATyh" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FVqJQ5aLFVoy3vm19aMWJx">
-          <date when="2022-03-15"/>
-          <time when="13:23:10" dur="PT135S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8bdkfCs7NEe9d3EBtB45A4" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-03-15"/>
+          <time when="13:23:10" dur="PT135S"/>
         </correspAction>
         <correspContext corresp="i-FVqJQ5aLFVoy3vm19aMWJx">
           <ref type="record" target="prot-202122--081">Protokoll 2021/22:81 Tisdagen den 15 mars</ref>

@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
             <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
             <persName>Ulla Andersson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Sw2GYBT6wTZRii8gkETqUm" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2008-03-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-L7ajq319UCrZ5mkZqburzp">
-          <date when="2008-03-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LxhGPM4urRLBrPxHkcUCQP" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-X4V7pckRZwFmJRu9aXoPDD">
-          <date when="2008-04-08"/>
-          <time when="20:17:40" dur="PT288S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-D8faJAXqutRbBCtdDDMYUB" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-04-08"/>
+          <time when="20:17:40" dur="PT288S"/>
         </correspAction>
         <correspContext corresp="i-X4V7pckRZwFmJRu9aXoPDD">
           <ref type="record" target="prot-200708--091">Riksdagens protokoll 2007/08:91 Tisdagen den 8 april</ref>

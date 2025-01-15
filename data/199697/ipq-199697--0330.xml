@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Erling Bager (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NLfT4RS4huMCGpWx1zB8Ag</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-BV7aYbga6dvwxReLNcGb8f" corresp="i-NLfT4RS4huMCGpWx1zB8Ag">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XwhWECfxL7hxrYQqWgr9do">
+        <correspAction type="received" xml:id="i-XwhWECfxL7hxrYQqWgr9do" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-SqsVdjnr62V1gTD1oAyvXW">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-FozNJPSDqYHMKFwQSaifep">
-          <date when="1996-06-09"/>
+          <date when="1997-06-09"/>
         </correspAction>
         <correspContext corresp="i-FozNJPSDqYHMKFwQSaifep">
           <ref type="record" target="prot-199697--116">Prot. 1996/97:116</ref>

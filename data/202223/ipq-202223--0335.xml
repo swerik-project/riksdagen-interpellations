@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-H5aoVhZ2vWDYdxmJ7B2CMk" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-05-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QaoGerCTZWD1WGpNFNHGj2">
-          <date when="2023-05-22"/>
-          <time when="11:03:15" dur="PT215S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2UyAVuTZHmTsLJTatgAmVt" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-05-22"/>
+          <time when="11:03:15" dur="PT215S"/>
         </correspAction>
         <correspContext corresp="i-QaoGerCTZWD1WGpNFNHGj2">
           <ref type="record" target="prot-202223--109">Protokoll 2022/23:109 Måndagen den 22 maj</ref>

@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
-            <persName>Ann-Kristine Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
-            <persName>Ann-Kristine Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ann-Kristine Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-YHyygcJ4s9SPWPuCpHMAEb" corresp="i-JfXS8EFEqMfBiyryszrVvW">
           <date when="2007-05-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-L4CHeRS33J1sQUgSttb99Y">
-          <date when="2007-05-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Syapu1zp2NNb3BoqqTXUwi" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2007-05-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QfW7rPk1SENPw44FFXjUuH">
-          <date when="2007-06-11"/>
-          <time when="13:16:49" dur="PT296S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5TF7GUhHu7ZoznSjH8KYQz" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2007-06-11"/>
+          <time when="13:16:49" dur="PT296S"/>
         </correspAction>
         <correspContext corresp="i-QfW7rPk1SENPw44FFXjUuH">
           <ref type="record" target="prot-200607--123">Riksdagens protokoll 2006/07:123 Måndagen den 11 juni</ref>

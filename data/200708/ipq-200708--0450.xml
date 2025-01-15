@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
             <persName>Sylvia Lindgren (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Xb4SqPdgzbjjksXhj1RU35" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2008-02-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-J8cmYSnkXtKbHuZgET3oWj">
-          <date when="2008-03-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-26vTK3GdZDYvidfuYqiUNb" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-03-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XoqU8vFLUzY5xM99JhTnAY">
-          <date when="2008-04-11"/>
-          <time when="14:04:41" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XV5o39XNXzWZc4xKFtRgau" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-04-11"/>
+          <time when="14:04:41" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-XoqU8vFLUzY5xM99JhTnAY">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KhCf7Li1jUJ7dRtgidL66D</idno>
-            <persName>Stefan Wikén</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KhCf7Li1jUJ7dRtgidL66D</idno>
-            <persName>Stefan Wikén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Stefan Wikén</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-L1HkJXCg36bTgmoBHmjtqT" corresp="i-KhCf7Li1jUJ7dRtgidL66D">
           <date when="2007-03-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CBFiw1L7dDFp881be93MFS">
-          <date when="2007-03-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QetPHP3353nVqJNnBj1G4B" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-03-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JAYTDNJ1s1gZ8Qo72EtS4b">
-          <date when="2007-03-30"/>
-          <time when="09:41:14" dur="PT375S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-66hvR3MchjRDt83MY22PWv" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-03-30"/>
+          <time when="09:41:14" dur="PT375S"/>
         </correspAction>
         <correspContext corresp="i-JAYTDNJ1s1gZ8Qo72EtS4b">
           <ref type="record" target="prot-200607--085">Riksdagens protokoll 2006/07:85 Fredagen den 30 mars</ref>

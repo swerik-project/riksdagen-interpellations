@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-HDUKWMEPpUMUK3MxQXxnpZ</idno>
             <persName>Jessica Rodén</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CUTJJgAGx5ob6YXU1BcjVG</idno>
             <persName>Denis Begic</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-3aMWZDiQmqEj5VWMtEK76v" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2022-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-uxPgcwhBYGPFBXqDfG5Ps">
-          <date when="2022-12-01"/>
-          <time when="12:01:40" dur="PT268S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SnpLcsse2gKf3fkGYaUddX" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2022-12-01"/>
+          <time when="12:01:40" dur="PT268S"/>
         </correspAction>
         <correspContext corresp="i-uxPgcwhBYGPFBXqDfG5Ps">
           <ref type="record" target="prot-202223--029">Protokoll 2022/23:29 Torsdagen den 1 december</ref>

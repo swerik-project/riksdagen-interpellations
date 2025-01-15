@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
             <persName>Carl-Oskar Bohlin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VdXJg5WgwusAzN9smRTj7u" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-03-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XPFoXrMvw2SSx64rwsUv7a">
-          <date when="2022-04-19"/>
-          <time when="21:26:48" dur="PT146S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DvCUusZ7sUfhKcGZmdjdES">
           <date when="2022-04-19"/>
+          <time when="21:26:48" dur="PT146S"/>
         </correspAction>
         <correspContext corresp="i-XPFoXrMvw2SSx64rwsUv7a">
           <ref type="record" target="prot-202122--098">Protokoll 2021/22:98 Tisdagen den 19 april</ref>

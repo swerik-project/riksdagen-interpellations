@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Kn2C4HPwWcqbEgtUtWTc5F</idno>
             <persName>Roger Haddad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Y7iGkcEHSfZ95uvs6kt7kS" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2021-03-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7h9QyqS8R6ogJyak5W2ALm">
-          <date when="2021-03-11"/>
-          <time when="16:04:40" dur="PT219S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YRPvxDMtp1LQMeBKKLh57F">
           <date when="2021-03-11"/>
+          <time when="16:04:40" dur="PT219S"/>
         </correspAction>
         <correspContext corresp="i-7h9QyqS8R6ogJyak5W2ALm">
           <ref type="record" target="prot-202021--092">Protokoll 2020/21:92 Torsdagen den 11 mars</ref>

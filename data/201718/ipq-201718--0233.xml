@@ -26,44 +26,30 @@
         <listPerson>
           <person gender="woman">
             <idno>i-CgLZxiLTqtr669ULBLHcuK</idno>
-            <persName>Yasmine Posio Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Yasmine Posio</persName>
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xte2hVf6qgEgJA6sWB1cDH</idno>
             <persName>Momodou Jallow</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
+            <persName>Isabella Lövin</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-732pxTEA52QPJkoNPExU22" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2017-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J9jpwgG989QFfjrMb2zgpE">
-          <date when="2017-12-20"/>
-          <time when="10:14:19" dur="PT299S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3pis3XqUE3qFdy15DWvRyb" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2017-12-20"/>
+          <time when="10:14:19" dur="PT299S"/>
         </correspAction>
         <correspContext corresp="i-J9jpwgG989QFfjrMb2zgpE">
           <ref type="record" target="prot-201718--054">Protokoll 2017/18:54 Onsdagen den 20 december</ref>

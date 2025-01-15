@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-QxYJ769m4maoQG9vMeNeF9" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-07-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VKUixnNfiHxX6AjdMXhQcp">
-          <date when="2009-08-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5igDHGHN8qqf6NneyTMUWS" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-08-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BZokV353g5HLkqfoNCkmsH">
-          <date when="2009-09-03"/>
-          <time when="16:26:57" dur="PT312S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CDrrUogSeXThBFDNGhb3NY" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-09-03"/>
+          <time when="16:26:57" dur="PT312S"/>
         </correspAction>
         <correspContext corresp="i-BZokV353g5HLkqfoNCkmsH">
           <ref type="record" target="prot-200809--140">Riksdagens protokoll 2008/09:140 Torsdagen den 3 september</ref>

@@ -25,28 +25,14 @@
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
             <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -56,18 +42,12 @@
         <correspAction type="sent" xml:id="i-64KKK9BxFjP3yyYiuTYzB5" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WHih8qynn14b71HTPRmgyJ">
-          <date when="2008-10-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-V6Av1bEzJrYnrFESThnXCg" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5kSAMYbhjq1rBPMTqY15yd">
-          <date when="2008-11-24"/>
-          <time when="13:06:00" dur="PT263S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8K8ihff9r2AMBQPLQwkd15" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-11-24"/>
+          <time when="13:06:00" dur="PT263S"/>
         </correspAction>
         <correspContext corresp="i-5kSAMYbhjq1rBPMTqY15yd">
           <ref type="record" target="prot-200809--034">Riksdagens protokoll 2008/09:34 Måndagen den 24 november</ref>

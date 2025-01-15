@@ -25,42 +25,42 @@
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Marie Engström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
+            <persName>Marie Engström</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>V</desc>
             </state>
           </person>
@@ -70,18 +70,12 @@
         <correspAction type="sent" xml:id="i-GDG56yrD7NHGdW4Lnp7dGD" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8MWbWJBci3nqtiUUvH6zGC">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SrmH1KEm1LyS4ra3gFPino" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-72G7y6zxdjNuWsDGG1vhDt">
-          <date when="2008-06-23"/>
-          <time when="11:47:03" dur="PT207S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PQkLaBNCqrefsqZ4zjK9W5" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-06-23"/>
+          <time when="11:47:03" dur="PT207S"/>
         </correspAction>
         <correspContext corresp="i-72G7y6zxdjNuWsDGG1vhDt">
           <ref type="record" target="prot-200708--134">Riksdagens protokoll 2007/08:134 Måndagen den 23 juni</ref>

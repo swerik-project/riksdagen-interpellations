@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Statsrådet Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Xpj6BVPMdw4qTXLg2b3Wxb" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2016-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2NxHKN8qi2GBrYMNbxtRui">
-          <date when="2016-03-08"/>
-          <time when="14:30:15" dur="PT181S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-72usfS46SuaUuLLG3Gyyrf">
           <date when="2016-03-08"/>
+          <time when="14:30:15" dur="PT181S"/>
         </correspAction>
         <correspContext corresp="i-2NxHKN8qi2GBrYMNbxtRui">
           <ref type="record" target="prot-201516--076">Protokoll 2015/16:76 Tisdagen den 8 mars</ref>

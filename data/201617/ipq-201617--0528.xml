@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-3SiHjpmKqDX1ahURx9ZWt3</idno>
             <persName>Maj Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
             <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Mfj7ySxCPnmdnTxGiF5E64" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-05-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VYofW438m8hKyrw1pQQjNG">
-          <date when="2017-06-13"/>
-          <time when="13:00:48" dur="PT264S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XPA2fe2ZWfJRBJHa7rQ34i" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-06-13"/>
+          <time when="13:00:48" dur="PT264S"/>
         </correspAction>
         <correspContext corresp="i-VYofW438m8hKyrw1pQQjNG">
           <ref type="record" target="prot-201617--124">Protokoll 2016/17:124 Tisdagen den 13 juni</ref>

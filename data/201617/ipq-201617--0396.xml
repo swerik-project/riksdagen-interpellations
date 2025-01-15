@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NU3HPSXKRWGcdWfzmr5Vhd</idno>
+            <persName>Åsa Coenraads</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
             <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NU3HPSXKRWGcdWfzmr5Vhd</idno>
-            <persName>Åsa Coenraads</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Lwd6ZqRQxATvK9JQ1muttx" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2017-03-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2dsoyzDTzU57Fm4Q2Tcyhu">
-          <date when="2017-04-04"/>
-          <time when="18:42:10" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FzPeA6V1GzPG3djk8G6ahK">
           <date when="2017-04-04"/>
+          <time when="18:42:10" dur="PT107S"/>
         </correspAction>
         <correspAction xml:id="i-VXm7BKwBV5dYnwkgiez4ik" type="discussed" corresp="i-S1jBpohzgG7cgcBjfgN1Fb">
           <date when="2017-04-04"/>

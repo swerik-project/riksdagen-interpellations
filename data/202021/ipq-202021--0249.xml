@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-DwxYm9yDWznJg1azvmMBXP</idno>
             <persName>Jörgen Grubb</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-YLhKz5mViwjFhqPVDZVBLV" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2020-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CiXzPQmY2diXQwEMatSiaV">
-          <date when="2021-01-15"/>
-          <time when="11:25:55" dur="PT218S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CdVzmVC7f1qYrPiCFrer8s" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2021-01-15"/>
+          <time when="11:25:55" dur="PT218S"/>
         </correspAction>
         <correspContext corresp="i-CiXzPQmY2diXQwEMatSiaV">
           <ref type="record" target="prot-202021--065">Protokoll 2020/21:65 Fredagen den 15 januari</ref>

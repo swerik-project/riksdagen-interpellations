@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-GimwrxR6QNfQTTYxqEbj7a</idno>
             <persName>Mats Wiking</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
+            <persName>Mats Persson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-YQAJLrPzApPDk8rrd2k4Eo" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WbxfAtYCgbkfTk9A1BvuMJ">
-          <date when="2023-06-01"/>
-          <time when="13:07:07" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-zUPPJsCH7KE7UffpsKF6N" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-06-01"/>
+          <time when="13:07:07" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-WbxfAtYCgbkfTk9A1BvuMJ">
           <ref type="record" target="prot-202223--117">Protokoll 2022/23:117 Torsdagen den 1 juni</ref>

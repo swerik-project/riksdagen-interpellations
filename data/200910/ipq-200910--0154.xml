@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Nikos Papadopoulos</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-YJ4YYmQcZFQMZWu1X6XdWF" corresp="i-SYmctpvT7BxsqFzwPADUfw">
           <date when="2009-12-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6FSQATYiHUDGqWNanYiiK4">
-          <date when="2009-12-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Qq1STT8KvDKyrbUqWtSR3s" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3aRRkFWEWaWhPTRsCNGpYY">
-          <date when="2010-01-19"/>
-          <time when="13:44:02" dur="PT227S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Rz6ktaqHnNsMBB2tTpy7fX" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-01-19"/>
+          <time when="13:44:02" dur="PT227S"/>
         </correspAction>
         <correspContext corresp="i-3aRRkFWEWaWhPTRsCNGpYY">
           <ref type="record" target="prot-200910--058">Riksdagens protokoll 2009/10:58 Tisdagen den 19 januari</ref>

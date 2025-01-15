@@ -22,26 +22,25 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Lars Stjemkvist (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Lars Stjernkvist</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-L8FJ5Uq6DWCoY3cXS1trPk</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-TY6RvP6TkhS6TfaU5hpVZj">
-          <name/>
+        <correspAction type="sent" xml:id="i-TY6RvP6TkhS6TfaU5hpVZj" corresp="i-L8FJ5Uq6DWCoY3cXS1trPk">
           <date when="1997-10-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VRHY6RUJicNBxBdtgJ8A8E">
+        <correspAction type="received" xml:id="i-VRHY6RUJicNBxBdtgJ8A8E" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YWK4hho19wv2SUuibUhUxS">
           <note>Besvarad</note>

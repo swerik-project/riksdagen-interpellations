@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-GWXQCk2dbPk7eA1yecPCSi" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7D6BLtnmWjo4FVtdpCgipf">
-          <date when="2019-05-29"/>
-          <time when="12:19:44" dur="PT110S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MZvNpZRpXU2386HP2a6FNA" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-05-29"/>
+          <time when="12:19:44" dur="PT110S"/>
         </correspAction>
         <correspContext corresp="i-7D6BLtnmWjo4FVtdpCgipf">
           <ref type="record" target="prot-201819--097">Protokoll 2018/19:97 Onsdagen den 29 maj</ref>

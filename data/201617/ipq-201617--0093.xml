@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-DyMWrZMvLW1B7NfePkXTu4</idno>
             <persName>Fredrik Christensson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XNhzoo8e4qc1cM8U6t4ep8</idno>
             <persName>Mathias Sundin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
+            <persName>Helene Hellmark Knutsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Et5SYJrnAFdS3bEn6Rf2kW" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2016-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KjuRLFyELRmYTy9o8kCxPV">
-          <date when="2016-11-25"/>
-          <time when="09:01:02" dur="PT175S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WYft8M7zsPTqpT44gf46vQ" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2016-11-25"/>
+          <time when="09:01:02" dur="PT175S"/>
         </correspAction>
         <correspAction xml:id="i-NP3srydT2hNNs5E5wpfGTf" type="discussed" corresp="i-DyMWrZMvLW1B7NfePkXTu4">
           <date when="2016-11-25"/>

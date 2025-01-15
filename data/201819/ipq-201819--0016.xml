@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TxLwXp3MJemR8iGdYER2aZ</idno>
             <persName>Ali Esbati</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-9jUGLWM2i3iRPqf92icqZ3" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2019-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-89Xs9ZPARzZCr7XvqGdTRN">
-          <date when="2019-02-01"/>
-          <time when="09:01:38" dur="PT108S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Y2JQXNFBwCGRXMSyB74Xrw">
           <date when="2019-02-01"/>
+          <time when="09:01:38" dur="PT108S"/>
         </correspAction>
         <correspContext corresp="i-89Xs9ZPARzZCr7XvqGdTRN">
           <ref type="record" target="prot-201819--046">Protokoll 2018/19:46 Fredagen den 1 februari</ref>

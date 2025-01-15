@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
-            <persName>Anne-Marie Pålsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
-            <persName>Anne-Marie Pålsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-425Q6s5GbQ4PVf8MroZHeD</idno>
             <persName>Sven Yngve Persson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QYUn9LH1BFyUaLeMaR5S5h</idno>
             <persName>Otto von Arnold (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FrC3WwfjWAuoWu4BnbedDa</idno>
             <persName>Jan-Olof Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
+            <persName>Anne-Marie Pålsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-DpHmzM58Mdh4vepxMpBbhN" corresp="i-UmhVhzFM3Rs65aFjMTgRvj">
           <date when="2009-04-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BgTVLf1qYHmpF5P2Zs1MHa">
-          <date when="2009-04-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-So8bEhtFzwDCe3HFd5Pp7b" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-04-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5zWc2fv4egPhuZD5W5U1ZL">
-          <date when="2009-05-12"/>
-          <time when="14:45:20" dur="PT528S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LdYp6wLdAZFb3ef6gt9L4U" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-05-12"/>
+          <time when="14:45:20" dur="PT528S"/>
         </correspAction>
         <correspContext corresp="i-5zWc2fv4egPhuZD5W5U1ZL">
           <ref type="record" target="prot-200809--116">Riksdagens protokoll 2008/09:116 Tisdagen den 12 maj</ref>

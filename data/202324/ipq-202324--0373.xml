@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-XPu3ZHL3w9uUH4TKYHMmif</idno>
             <persName>Linus Lakso</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-5XVEBxadSn4roxHtwJ1odP" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2024-01-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J85b8uoHCtZAwLLxkS7CTi">
-          <date when="2024-02-06"/>
-          <time when="13:53:51" dur="PT179S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VfpQCvFk1T3Kbzajsqmyxc">
           <date when="2024-02-06"/>
+          <time when="13:53:51" dur="PT179S"/>
         </correspAction>
         <correspContext corresp="i-J85b8uoHCtZAwLLxkS7CTi">
           <ref type="record" target="prot-202324--066">Protokoll 2023/24:66 Tisdagen den 6 februari</ref>

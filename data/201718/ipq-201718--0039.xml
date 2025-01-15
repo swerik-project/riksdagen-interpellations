@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
             <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-TfsbDp15saeDzXFCtSwGqW" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2017-10-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Y8o6fseYiirr6DPAPYXLDL">
-          <date when="2017-11-07"/>
-          <time when="13:01:42" dur="PT323S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SSVxhwJRNNWJyACEDxRV3d">
           <date when="2017-11-07"/>
+          <time when="13:01:42" dur="PT323S"/>
         </correspAction>
         <correspContext corresp="i-Y8o6fseYiirr6DPAPYXLDL">
           <ref type="record" target="prot-201718--026">Protokoll 2017/18:26 Tisdagen den 7 november</ref>

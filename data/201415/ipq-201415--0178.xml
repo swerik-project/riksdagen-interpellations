@@ -27,42 +27,35 @@
           <person gender="man">
             <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
             <persName>Lars Tysklind</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GJLL78ePjJhSXVWBYyRW8t</idno>
             <persName>Margareta Cederfelt</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
             <persName>Leif Pettersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
+            <persName>Anna Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-C1RUphASzhV2Vm4DAqfQh2" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2014-12-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-G7spQ7oCDdcKjGPJk9PTt7">
-          <date when="2015-01-13"/>
-          <time when="18:45:13" dur="PT154S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5yh8bo3NioAcK4mchsbrGy">
           <date when="2015-01-13"/>
+          <time when="18:45:13" dur="PT154S"/>
         </correspAction>
         <correspAction xml:id="i-PuTmv5oFcPNwNmDc7ypJWB" type="discussed" corresp="i-RDeqY3mXLBtUS9bixjvHS">
           <date when="2015-01-13"/>

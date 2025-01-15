@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-JiaWoNwSt3vVH4PjxT2cJd</idno>
             <persName>Ewa Pihl Krabbe</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-EAztutwgm99aFMead97A2M" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2023-11-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VVppXemAyCyidQApZyeVd4">
-          <date when="2023-12-11"/>
-          <time when="16:44:33" dur="PT208S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EsWJMMYabECib6K96P7oRi">
           <date when="2023-12-11"/>
+          <time when="16:44:33" dur="PT208S"/>
         </correspAction>
         <correspContext corresp="i-VVppXemAyCyidQApZyeVd4">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
-            <persName>Maria Stenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
-            <persName>Maria Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
             <persName>Marie Nordén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
+            <persName>Maria Stenberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-3fHYfXgTBfhqvRe5ZRTJZh" corresp="i-AQAc7L3yWtMcgD3r6CxRHG">
           <date when="2010-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WecHiauXzTnbWcRcrzUFCy">
-          <date when="2010-05-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JWJD2nsjtdUcRbky8N79s" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Cufex9qiDHAr6yr6XpPf6D">
-          <date when="2010-05-25"/>
-          <time when="19:28:56" dur="PT260S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PPjdk5ppLc6ztuysjMB9ij" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-25"/>
+          <time when="19:28:56" dur="PT260S"/>
         </correspAction>
         <correspContext corresp="i-Cufex9qiDHAr6yr6XpPf6D">
           <ref type="record" target="prot-200910--125">Riksdagens protokoll 2009/10:125 Tisdagen den 25 maj</ref>

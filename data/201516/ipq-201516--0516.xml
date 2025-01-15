@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
             <persName>Lars Tysklind</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-ST3KmJ7dwych9bUEkWZEu6</idno>
             <persName>Klimat- och miljöminister Åsa Romson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-VYPeMrEtrDVGYs4MobB65H" corresp="i-ST3KmJ7dwych9bUEkWZEu6">
           <date when="2016-04-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WvFKmg6JN4MLGyjLrcMHQT">
-          <date when="2016-04-15"/>
-          <time when="09:31:23" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PSkrwY3iFrSemfPiWVec8d">
           <date when="2016-04-15"/>
+          <time when="09:31:23" dur="PT228S"/>
         </correspAction>
         <correspContext corresp="i-WvFKmg6JN4MLGyjLrcMHQT">
           <ref type="record" target="prot-201516--093">Protokoll 2015/16:93 Fredagen den 15 april</ref>

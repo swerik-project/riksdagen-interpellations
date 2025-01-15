@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
-            <persName>Roland Bäckman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Roland Bäckman</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-28dFgdqYMWbbbCW1DQVQJc" corresp="i-Vw3jBQw26TxFbXrsoKmCH2">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Cjn6p1F9A2HSNboegV9dsh">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NibdmVcPpZ35RbEiraKxHQ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9uroCN72ZBhaLs9XdJ1iHB">
-          <date when="2009-06-01"/>
-          <time when="13:29:28" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KY53TqkuAnyJLdNXekQsA" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-06-01"/>
+          <time when="13:29:28" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-9uroCN72ZBhaLs9XdJ1iHB">
           <ref type="record" target="prot-200809--125">Riksdagens protokoll 2008/09:125 Måndagen den 1 juni</ref>

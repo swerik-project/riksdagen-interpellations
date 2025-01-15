@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
             <persName>Birgitta Ohlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
-            <persName>Birgitta Ohlsson (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-BssTX9xEjvBdJcPgvkzCtr" corresp="i-D8B2Xf6UADbqciPHrqFxSc">
           <date when="2007-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Co8trFEtb7yNWMzdSMA13P">
-          <date when="2007-04-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-A4q6U2usxMZMd6Z5niZVzi" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GwfapK9hmfpKTWDLxTjuzv">
-          <date when="2007-05-28"/>
-          <time when="13:06:44" dur="PT293S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TST4iNRTRu1TfCPsPXCF1m" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-05-28"/>
+          <time when="13:06:44" dur="PT293S"/>
         </correspAction>
         <correspContext corresp="i-GwfapK9hmfpKTWDLxTjuzv">
           <ref type="record" target="prot-200607--114">Riksdagens protokoll 2006/07:114 Måndagen den 28 maj</ref>

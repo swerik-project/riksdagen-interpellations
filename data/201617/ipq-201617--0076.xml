@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-FucmvyHZ22CXcKRGnfjaC4</idno>
             <persName>Anders Åkesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Ku8mLUxmsXzzw9Wdcaw6St" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2016-10-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YXSe1UHgKUhPbKhKKemsCh">
-          <date when="2016-11-10"/>
-          <time when="15:46:32" dur="PT31S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WmZzcHeNAPaCq1Xu36VKi4">
           <date when="2016-11-10"/>
+          <time when="15:46:32" dur="PT31S"/>
         </correspAction>
         <correspContext corresp="i-YXSe1UHgKUhPbKhKKemsCh">
           <ref type="record" target="prot-201617--026">Protokoll 2016/17:26 Torsdagen den 10 november</ref>

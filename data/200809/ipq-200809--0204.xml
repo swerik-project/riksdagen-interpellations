@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-WT8XyN996vM9CrcFb1hePU" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-12-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5dj3nU1jURJxYUzA31c3jv">
-          <date when="2008-12-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FCUytaoyeVftqySbpLrjJV" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-12-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2f8EW76GLke81NVYKwzfFe">
-          <date when="2009-01-23"/>
-          <time when="12:31:06" dur="PT213S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8J5ahGJRbVoExMFSNMKRLF" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-01-23"/>
+          <time when="12:31:06" dur="PT213S"/>
         </correspAction>
         <correspContext corresp="i-2f8EW76GLke81NVYKwzfFe">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

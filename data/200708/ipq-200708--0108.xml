@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-2J3r8zwqpPMPgVzdyt5mXb</idno>
-            <persName>Katarina Köhler</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-2J3r8zwqpPMPgVzdyt5mXb</idno>
-            <persName>Katarina Köhler (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Katarina Köhler</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-X7C48nugXHEngtHz8UgVVi" corresp="i-2J3r8zwqpPMPgVzdyt5mXb">
           <date when="2007-11-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7vrpcVoBVzdTJZNSEwzFna">
-          <date when="2007-11-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CBsfwrJTVyiMXfjcTBu86f" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-11-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KAzK32vknsppEndZ16EJT3">
-          <date when="2007-11-13"/>
-          <time when="20:02:21" dur="PT240S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Cj2cBis7nhZCbFjEanCpKK" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-11-13"/>
+          <time when="20:02:21" dur="PT240S"/>
         </correspAction>
         <correspContext corresp="i-KAzK32vknsppEndZ16EJT3">
           <ref type="record" target="prot-200708--023">Riksdagens protokoll 2007/08:23 Tisdagen den 13 november</ref>

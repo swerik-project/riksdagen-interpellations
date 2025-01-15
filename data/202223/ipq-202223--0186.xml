@@ -24,53 +24,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-ALSqZDERrTV2VUJqcfC5VF</idno>
             <persName>Zara Leghissa</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Johan Pehrson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-GFrBobsVTDvDuhFoPxAqEF" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-02-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XtBptaka6DDUtw6deYsy4x">
-          <date when="2023-03-07"/>
-          <time when="14:45:20" dur="PT269S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TcXPy4Wu3T2rxfbdS7QRDL" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-03-07"/>
+          <time when="14:45:20" dur="PT269S"/>
         </correspAction>
         <correspAction xml:id="i-VhuWX3z8jScJJoJfxULJT2" type="discussed" corresp="i-ALSqZDERrTV2VUJqcfC5VF">
           <date when="2023-03-07"/>

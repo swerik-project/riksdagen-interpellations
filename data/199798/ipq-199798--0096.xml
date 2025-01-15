@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="man">
             <persName>Olle Lindström (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-NAAZv6GeNG6UKYzSr8WGFB</idno>
@@ -29,6 +29,7 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,15 +37,14 @@
         <correspAction type="sent" xml:id="i-4TuC1gKGGAGJwbgMQcpjES" corresp="i-NAAZv6GeNG6UKYzSr8WGFB">
           <date when="1997-12-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4KZDaysRSn5wRCLjZSYy8X">
+        <correspAction type="received" xml:id="i-4KZDaysRSn5wRCLjZSYy8X" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MMMPfiogtTju755L91N3zE">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RnN8y9USz8pYTA6StCGseK">
-          <date when="1997-01-20"/>
+          <date when="1998-01-20"/>
         </correspAction>
         <correspContext corresp="i-RnN8y9USz8pYTA6StCGseK">
           <ref type="record" target="prot-199798--052">Prot. 1997/98:52</ref>

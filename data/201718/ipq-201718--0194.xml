@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-MDmz3BZyW3T2P9Tp6bvsBM</idno>
             <persName>John Widegren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
             <persName>Christian Holm Barenfeld</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
+            <persName>Karolina Skog</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-N97JJTnDs9n2462m6d8rmp" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2017-11-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-25VTynAY6Q7HRQxfQawHp5">
-          <date when="2018-01-16"/>
-          <time when="18:59:24" dur="PT226S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2uCEiCPQN2uby4478n5cBv" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2018-01-16"/>
+          <time when="18:59:24" dur="PT226S"/>
         </correspAction>
         <correspContext corresp="i-25VTynAY6Q7HRQxfQawHp5">
           <ref type="record" target="prot-201718--055">Protokoll 2017/18:55 Tisdagen den 16 januari</ref>

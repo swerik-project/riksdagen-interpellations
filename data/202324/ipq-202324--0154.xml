@@ -27,43 +27,29 @@
           <person gender="woman">
             <idno>i-JosdyCnxiZJQ4CCRnbiz7N</idno>
             <persName>Jytte Guteland</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3L2NmwsjEcuGo8fdwvHsQi</idno>
             <persName>Magnus Manhammar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
+            <persName>Mats Persson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-PYaiLwnKz4KxSnCEgdLk4F" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GNckVs6kpsznc6S6DXRSBV">
-          <date when="2023-11-23"/>
-          <time when="12:01:17" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8tNymemoELoY8LxvP6mcCT" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-11-23"/>
+          <time when="12:01:17" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-GNckVs6kpsznc6S6DXRSBV">
           <ref type="record" target="prot-202324--035">Protokoll 2023/24:35 Torsdagen den 23 november</ref>

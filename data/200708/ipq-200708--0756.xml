@@ -23,58 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-162aaUneLNpaRbnu5bGxrQ">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SortFKoGVKgc3UA4eHBTMp" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-05-13"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-DPRzn1wptC9wU6Fk25iK6o" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-M7XiEtXaEFXHtwZFnQcsR2">
-          <date when="2008-06-02"/>
-          <time when="13:13:52" dur="PT307S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Xc9851qu96164EDvQVjx7u" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-06-02"/>
+          <time when="13:13:52" dur="PT307S"/>
         </correspAction>
         <correspContext corresp="i-M7XiEtXaEFXHtwZFnQcsR2">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

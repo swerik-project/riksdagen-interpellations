@@ -27,71 +27,64 @@
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QS3FCcuDyGgZdKgE3VDjZ9</idno>
             <persName>Niels Paarup-Petersen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-X9jqcGenibr5tWEbnZgddm</idno>
             <persName>Annika Hirvonen</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-AFto3gTmjTfTgomtq31hLZ</idno>
             <persName>Jessica Rosencrantz</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9Hwwz2RnQnrJTjSv8uVmaM</idno>
             <persName>Camilla Hansén</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QvZufgg5hTjsd5q6PirHGF</idno>
             <persName>Stefan Olsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
+            <persName>Maria Malmer Stenergard</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -106,12 +99,9 @@
         <correspAction type="received" xml:id="i-AAc6uWJDBPTj38xe4Wv8a3" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-08-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3qbjG5ihyq3KHsuZigrk7M">
-          <date when="2023-09-15"/>
-          <time when="09:02:03" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XAikmHn2nfQjQDw2p6x9va" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-09-15"/>
+          <time when="09:02:03" dur="PT182S"/>
         </correspAction>
         <correspAction xml:id="i-Lb2L9aAqAy7tXrTezdKYfD" type="discussed" corresp="i-QS3FCcuDyGgZdKgE3VDjZ9">
           <date when="2023-09-15"/>

@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Maud Ekendahl (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-F8qdE2eedz12PwFanq3ahv</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Thage G. Peterson</persName>
             <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-8m9ddnuy1SirLoJCmyNfTs" corresp="i-F8qdE2eedz12PwFanq3ahv">
           <date when="1996-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NS4ZA4LtKhQvKsocU6GCJx">
+        <correspAction type="received" xml:id="i-NS4ZA4LtKhQvKsocU6GCJx" corresp="i-8rjVavTFp7UjLy1RbrHnia">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LKow25kGXDLJRAZm9Ntvdy">
           <note>Besvarad</note>

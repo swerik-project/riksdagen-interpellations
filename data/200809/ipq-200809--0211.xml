@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-39cCyAoZiHcecz2MXrEeFW" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-12-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RficWkKV19dpwhP1K1p4SD">
-          <date when="2008-12-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JgLtqLJQufftQVHPX1MZ9F" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-12-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-92MgMNm1MbmkCuMrPda6UH">
-          <date when="2009-01-23"/>
-          <time when="13:54:38" dur="PT233S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5JNL5RRsF4qQy6GBPDPkQ7" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-01-23"/>
+          <time when="13:54:38" dur="PT233S"/>
         </correspAction>
         <correspContext corresp="i-92MgMNm1MbmkCuMrPda6UH">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

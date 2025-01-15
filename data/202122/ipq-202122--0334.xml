@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
             <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-H7Z4eo5fgCSCyRM1kHEVnU" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SMQUfLrExBXqSGdjwfMLws">
-          <date when="2022-03-01"/>
-          <time when="18:43:04" dur="PT230S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Voxwnx7BdT2KPtF9ghrqYx" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-03-01"/>
+          <time when="18:43:04" dur="PT230S"/>
         </correspAction>
         <correspContext corresp="i-SMQUfLrExBXqSGdjwfMLws">
           <ref type="record" target="prot-202122--076">Protokoll 2021/22:76 Tisdagen den 1 mars</ref>

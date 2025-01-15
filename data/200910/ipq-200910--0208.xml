@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
-            <persName>Ewa Björling (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Vuf2iovr2aWWgDThaeqMPN</idno>
+            <persName>Ewa Björling</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
+            <persName>Gunvor G. Ericson</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-ANRk6uQJohCFGECJtopoA9" corresp="i-7YbH6oTUwG4Qn94QEVE6as">
           <date when="2010-02-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NEXWYeBacKnQsRyLFRQhTm">
-          <date when="2010-02-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QF1tguCMkkaQEZMtEidB2D" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QMfTHrZyztcSxuM7PskSe8">
-          <date when="2010-04-06"/>
-          <time when="18:08:17" dur="PT317S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-C2EgBwUHjyUMASyiQyff7n" corresp="i-Vuf2iovr2aWWgDThaeqMPN">
           <date when="2010-04-06"/>
+          <time when="18:08:17" dur="PT317S"/>
         </correspAction>
         <correspContext corresp="i-QMfTHrZyztcSxuM7PskSe8">
           <ref type="record" target="prot-200910--098">Riksdagens protokoll 2009/10:98 Tisdagen den 6 april</ref>

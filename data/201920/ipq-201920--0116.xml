@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8eXWd1vC6ZRoeQdNAwzhbS</idno>
-            <persName>Statsrådet Anna Hallberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8eXWd1vC6ZRoeQdNAwzhbS</idno>
-            <persName>Statsrådet Anna Hallberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8eXWd1vC6ZRoeQdNAwzhbS</idno>
-            <persName>Anna Hallberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KvKhrEa3hJDxAgEGxpLp41</idno>
             <persName>Katarina Brännström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8eXWd1vC6ZRoeQdNAwzhbS</idno>
+            <persName>Anna Hallberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-7y5E1vm6q5TgR1JcTYvPg7" corresp="i-8eXWd1vC6ZRoeQdNAwzhbS">
           <date when="2019-11-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9AWGeJNF1WfGNENqWFChkM">
-          <date when="2019-11-26"/>
-          <time when="20:29:19" dur="PT178S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9UPFMsWAwBiD38keyMELSw" corresp="i-8eXWd1vC6ZRoeQdNAwzhbS">
           <date when="2019-11-26"/>
+          <time when="20:29:19" dur="PT178S"/>
         </correspAction>
         <correspAction xml:id="i-aZuReee5A7mL7sjBeefPJ" type="discussed" corresp="i-KvKhrEa3hJDxAgEGxpLp41">
           <date when="2019-11-26"/>

@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9fmcZcGuiE51S4XGih65wn</idno>
             <persName>Mikael Eskilandersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
             <persName>Statsrådet Johan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-4PJdErf73WdZW9VbbN8w9N" corresp="i-5oQ4xWUi5Nh3NjqrvZeiNp">
           <date when="2022-06-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MGiu5MupJkBaSErEfH9iDn">
-          <date when="2022-06-22"/>
-          <time when="19:26:06" dur="PT120S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ReHNSZRxm9xyH7RGfaHVJc" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-06-22"/>
+          <time when="19:26:06" dur="PT120S"/>
         </correspAction>
         <correspContext corresp="i-MGiu5MupJkBaSErEfH9iDn">
           <ref type="record" target="prot-202122--136">Protokoll 2021/22:136 Onsdagen den 22 juni</ref>

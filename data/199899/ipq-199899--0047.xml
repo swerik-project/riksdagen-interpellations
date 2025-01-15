@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>stats­rådet Lars-Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-TEVvuF1mEn4AAQbKpJuEYQ" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
           <date when="1998-11-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EdGgb5rKhdQrmMTwhRMVxS">
+        <correspAction type="received" xml:id="i-EdGgb5rKhdQrmMTwhRMVxS" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>stats­rådet Lars-Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8wFikTrLGRtW1MyQMfmRvz">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PZt4vq5fXN5V4ixuJKLLrT">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
         <correspContext corresp="i-PZt4vq5fXN5V4ixuJKLLrT">
           <ref type="record" target="prot-199899--046">Prot. 1998/99:46</ref>

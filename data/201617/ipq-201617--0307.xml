@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
             <persName>Wiwi-Anne Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
+            <persName>Gabriel Wikström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-NtEoeC628cxVjM5cYRfguo" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2017-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N3yPmLCLPJxhrneV3bhMQu">
-          <date when="2017-03-21"/>
-          <time when="18:50:36" dur="PT281S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KwUDV6iGw5nkBUrzRFieCW" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2017-03-21"/>
+          <time when="18:50:36" dur="PT281S"/>
         </correspAction>
         <correspContext corresp="i-N3yPmLCLPJxhrneV3bhMQu">
           <ref type="record" target="prot-201617--083">Protokoll 2016/17:83 Tisdagen den 21 mars</ref>

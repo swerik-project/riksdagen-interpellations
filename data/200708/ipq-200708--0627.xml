@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
-            <persName>Karin Åström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
-            <persName>Karin Åström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-RJ83sTtQ8c3R3VD4B55j8P</idno>
             <persName>Åsa Lindestam (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-VhAPHtDbXzmUeiVRSdRFGD</idno>
+            <persName>Karin Åström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-X68Mr4DbNRe8UL456d97r8" corresp="i-VhAPHtDbXzmUeiVRSdRFGD">
           <date when="2008-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WyyYzcQ6QLbJPGPx9RSJjp">
-          <date when="2008-04-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NxCV6SgZMmYpG48R7CzLQT" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LBDRXSnNiSF3H1Nn4SKNNX">
-          <date when="2008-05-12"/>
-          <time when="14:59:55" dur="PT279S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Bvr5umoxr14HLma8dMFmSr" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-05-12"/>
+          <time when="14:59:55" dur="PT279S"/>
         </correspAction>
         <correspContext corresp="i-LBDRXSnNiSF3H1Nn4SKNNX">
           <ref type="record" target="prot-200708--109">Riksdagens protokoll 2007/08:109 Måndagen den 12 maj</ref>

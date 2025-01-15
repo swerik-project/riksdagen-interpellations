@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-B4xztskudaZRx8gWqEyNmX</idno>
-            <persName>Björn Lind</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B4xztskudaZRx8gWqEyNmX</idno>
-            <persName>Björn Lind (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
             <persName>Ulf Nilsson (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B4xztskudaZRx8gWqEyNmX</idno>
+            <persName>Björn Lind</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-K4kEi1hjZWzLoZkGK11JFz" corresp="i-B4xztskudaZRx8gWqEyNmX">
           <date when="2009-10-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2XpQMpmcZ2yfBw4r9bCBgC">
-          <date when="2009-10-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4XHNQCa12qGqzeVudyFze8" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-10-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LkKjc9ST9n6PZNtMP9bYth">
-          <date when="2009-11-10"/>
-          <time when="14:54:07" dur="PT224S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VpFDTaAidWNPtRtmfu6EVM" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-11-10"/>
+          <time when="14:54:07" dur="PT224S"/>
         </correspAction>
         <correspContext corresp="i-LkKjc9ST9n6PZNtMP9bYth">
           <ref type="record" target="prot-200910--026">Riksdagens protokoll 2009/10:26 Tisdagen den 10 november</ref>

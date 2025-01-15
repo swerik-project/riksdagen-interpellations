@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-7HDKF7yXNPvKCU5KUXRmHp" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-11-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SbwY7nWvkrF3QRdGWQUdLD">
-          <date when="2019-11-26"/>
-          <time when="15:08:08" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3HiCdB3RgCpXXZqbHWoydh">
           <date when="2019-11-26"/>
+          <time when="15:08:08" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-SbwY7nWvkrF3QRdGWQUdLD">
           <ref type="record" target="prot-201920--038">Protokoll 2019/20:38 Tisdagen den 26 november</ref>

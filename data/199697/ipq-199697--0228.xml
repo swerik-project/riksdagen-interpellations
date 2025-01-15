@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Hedguist (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-LBN95MD8hn6zkXhRBcbJbB</idno>
           </person>
           <person gender="woman">
-            <persName>kulturministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
+            <persName>Marita Ulvskog</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-AX377LQ5b4LH9TzMnRviga" corresp="i-LBN95MD8hn6zkXhRBcbJbB">
-          <date when="1996-03-07"/>
+          <date when="1997-03-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XbwJGqCF7RGua9J9FocRRB">
+        <correspAction type="received" xml:id="i-XbwJGqCF7RGua9J9FocRRB" corresp="i-JchxQfU1zc3XVbvadFgBSn">
           <note>date unknown</note>
-          <name>kulturministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MqvhqWwAD3DdpYPm4psnJs">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2p5sFFg1qQdUeWH3RNmDvn">
-          <date when="1996-04-17"/>
+          <date when="1997-04-17"/>
         </correspAction>
         <correspContext corresp="i-2p5sFFg1qQdUeWH3RNmDvn">
           <ref type="record" target="prot-199697--091">Prot. 1996/97:91</ref>

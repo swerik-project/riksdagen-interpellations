@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-S6dPxqd6BfME7uJp8zVNnv" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JjARQo8xCcCz8Qz8gXfvBz">
-          <date when="2022-05-06"/>
-          <time when="11:07:21" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FP8xHj1Fei6nu6i39pn8j9" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2022-05-06"/>
+          <time when="11:07:21" dur="PT173S"/>
         </correspAction>
         <correspContext corresp="i-JjARQo8xCcCz8Qz8gXfvBz">
           <ref type="record" target="prot-202122--109">Protokoll 2021/22:109 Fredagen den 6 maj</ref>

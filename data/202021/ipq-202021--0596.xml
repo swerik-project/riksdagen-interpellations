@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Qw9PAYgUt5nJNGKyFkgPKW" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-03-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Y4pofimuBMR6k2FrnwsZN8">
-          <date when="2021-04-09"/>
-          <time when="12:45:03" dur="PT330S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-STiBSaBnNcpnoiiyZPzT6Y">
           <date when="2021-04-09"/>
+          <time when="12:45:03" dur="PT330S"/>
         </correspAction>
         <correspContext corresp="i-Y4pofimuBMR6k2FrnwsZN8">
           <ref type="record" target="prot-202021--105">Protokoll 2020/21:105 Fredagen den 9 april</ref>

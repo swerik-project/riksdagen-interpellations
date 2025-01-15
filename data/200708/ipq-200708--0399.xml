@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
-            <persName>Anne Ludvigsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
-            <persName>Anne Ludvigsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Sfad9F8X5B5BVimWRiFKes</idno>
             <persName>Gunhild Wallin (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
+            <persName>Anne Ludvigsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-PcVs7j5X6QVmJqrvJzHuVU" corresp="i-DDTGf6wkyXKiMd3kYJ4KQv">
           <date when="2008-02-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SQ1JHPwx4UAs7w4Lq59ZAN">
-          <date when="2008-02-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7KZukdtTm1DGEJeFXop2cc" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QR5KvWHsMM6sGo5LyYrXQe">
-          <date when="2008-03-11"/>
-          <time when="15:21:30" dur="PT475S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Rtzwk5Yr8XJbnB8ZkfYWXe" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-03-11"/>
+          <time when="15:21:30" dur="PT475S"/>
         </correspAction>
         <correspContext corresp="i-QR5KvWHsMM6sGo5LyYrXQe">
           <ref type="record" target="prot-200708--076">Riksdagens protokoll 2007/08:76 Tisdagen den 11 mars</ref>

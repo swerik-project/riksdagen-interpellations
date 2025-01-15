@@ -27,35 +27,21 @@
           <person gender="man">
             <idno>i-Y5fgQ33MMnP4uyafJ9fz8i</idno>
             <persName>Robert Hannah</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-5NG8haprnyzzwKpK9HjwGZ</idno>
+            <persName>Lawen Redar</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5NG8haprnyzzwKpK9HjwGZ</idno>
-            <persName>Lawen Redar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-29tsHVoCbYTMa9ZTu397nT" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3oY1LKFZrWqFyiE8shKQZz">
-          <date when="2016-12-19"/>
-          <time when="11:49:06" dur="PT231S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3WwFU1voN6bacXtvoXhrUB" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-12-19"/>
+          <time when="11:49:06" dur="PT231S"/>
         </correspAction>
         <correspContext corresp="i-3oY1LKFZrWqFyiE8shKQZz">
           <ref type="record" target="prot-201617--049">Protokoll 2016/17:49 Måndagen den 19 december</ref>

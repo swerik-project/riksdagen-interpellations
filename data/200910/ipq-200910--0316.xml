@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
-            <persName>Lennart Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
-            <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
+            <persName>Lennart Axelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-WbVf1dA14D7u1zS6uGz1X5" corresp="i-2Bind9dyirGQ1UMwS9XjsT">
           <date when="2010-03-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LcuaVGiT7YfPdMBP4zYdjC">
-          <date when="2010-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VPeZ6AkiRxLu4DyZgwVsXp" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RVMRrj54Kx7hK9Fnh19Tk9">
-          <date when="2010-04-20"/>
-          <time when="14:29:57" dur="PT292S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LiFcxLeLdYnNgqYPEFZ3hz" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-04-20"/>
+          <time when="14:29:57" dur="PT292S"/>
         </correspAction>
         <correspContext corresp="i-RVMRrj54Kx7hK9Fnh19Tk9">
           <ref type="record" target="prot-200910--106">Riksdagens protokoll 2009/10:106 Tisdagen den 20 april</ref>

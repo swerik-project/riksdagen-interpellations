@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-7ueMHXSkJ4p8MZCwd6tvma</idno>
             <persName>Sofia Fölster</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
+            <persName>Christian Holm Barenfeld</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
-            <persName>Christian Holm Barenfeld</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-GSZPWUmhvYB3njn7Eq2Gz7" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-05-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A7KvJ2p9zpYF5zHwaind7E">
-          <date when="2017-08-31"/>
-          <time when="12:05:30" dur="PT293S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2SYxi6EJABLVKqTFcndBzR" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-08-31"/>
+          <time when="12:05:30" dur="PT293S"/>
         </correspAction>
         <correspAction xml:id="i-VgLyCrv6sCKJJGVuBszwSk" type="discussed" corresp="i-TX4XbGiaRx4H4u3YMo1twT">
           <date when="2017-08-31"/>

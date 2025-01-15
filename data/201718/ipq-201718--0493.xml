@@ -27,21 +27,21 @@
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-Me5NJc222R3imE8HKQLtpB" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-04-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-W7w1nN63rpVFwkeApAMi1k">
-          <date when="2018-04-27"/>
-          <time when="09:01:02" dur="PT181S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F8P5DSqFPRZ6Jtq3nTfaAF">
           <date when="2018-04-27"/>
+          <time when="09:01:02" dur="PT181S"/>
         </correspAction>
         <correspContext corresp="i-W7w1nN63rpVFwkeApAMi1k">
           <ref type="record" target="prot-201718--106">Protokoll 2017/18:106 Fredagen den 27 april</ref>

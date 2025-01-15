@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Mu8D3Cyy6PoWGop3KQtfh2</idno>
             <persName>Anette Åkesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-MXKbPhtVF9y9Nim7XVa9Ry" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2018-03-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MqWPRLDYY8DApY3iY1zQLf">
-          <date when="2018-03-16"/>
-          <time when="11:08:09" dur="PT314S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ucJLWowjeXGj1H78wivSt">
           <date when="2018-03-16"/>
+          <time when="11:08:09" dur="PT314S"/>
         </correspAction>
         <correspContext corresp="i-MqWPRLDYY8DApY3iY1zQLf">
           <ref type="record" target="prot-201718--086">Protokoll 2017/18:86 Fredagen den 16 mars</ref>

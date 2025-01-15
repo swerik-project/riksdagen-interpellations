@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Sr2bJAh51DSrP8NvznLwb3</idno>
             <persName>Sten Nordin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
+            <persName>Lars Mejern Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-M43fZxCUEBMgVn4KDWCasU" corresp="i-76ETKL7PQscJy3dmshR8mr">
           <date when="2008-03-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6nYVnW1C7vEqaHiHU4w1pv">
-          <date when="2008-03-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-15RVgYWY23P4JCt5NA7SMJ" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XMPPtj4PW71KFRQBzBbJWh">
-          <date when="2008-04-11"/>
-          <time when="13:09:33" dur="PT247S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4osPXSAikw5ns6WFyQ5eus" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-04-11"/>
+          <time when="13:09:33" dur="PT247S"/>
         </correspAction>
         <correspContext corresp="i-XMPPtj4PW71KFRQBzBbJWh">
           <ref type="record" target="prot-200708--094">Riksdagens protokoll 2007/08:94 Fredagen den 11 april</ref>

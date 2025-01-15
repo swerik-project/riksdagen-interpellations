@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-DyTmp7YURsib9gzvRDZtm9</idno>
             <persName>Stig Henriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-CdzHtZ2aZeXek5ikYcuf8J" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2017-10-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LPEKCLzZntQN6XzCjPgDD9">
-          <date when="2017-10-20"/>
-          <time when="09:20:06" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Sp38KL6rxBxfk9MzMMtoHE">
           <date when="2017-10-20"/>
+          <time when="09:20:06" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-LPEKCLzZntQN6XzCjPgDD9">
           <ref type="record" target="prot-201718--021">Protokoll 2017/18:21 Fredagen den 20 oktober</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-DJgH7q21vrKJDYHFpgpTiX</idno>
             <persName>Penilla Gunther</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8gVsqkagqG3r6USUYfhVVZ" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2018-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8CcBSW5xfTTPtYWvNtddVd">
-          <date when="2018-03-20"/>
-          <time when="13:23:41" dur="PT89S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MXqTBkUcnbbNbZP9qKEdsm">
           <date when="2018-03-20"/>
+          <time when="13:23:41" dur="PT89S"/>
         </correspAction>
         <correspContext corresp="i-8CcBSW5xfTTPtYWvNtddVd">
           <ref type="record" target="prot-201718--087">Protokoll 2017/18:87 Tisdagen den 20 mars</ref>

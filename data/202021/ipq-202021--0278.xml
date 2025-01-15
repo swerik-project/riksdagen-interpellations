@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-NHqTsXnUVsZFg94vA6SKDr</idno>
             <persName>Acko Ankarberg Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-R3HGxFZYGkzDbrWu9SYUFb" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-01-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4MkRpmqHZLg5iZH17XpiaD">
-          <date when="2021-01-21"/>
-          <time when="12:24:30" dur="PT94S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-W8dnTpvqHpXpJj6aF1Rvkf">
           <date when="2021-01-21"/>
+          <time when="12:24:30" dur="PT94S"/>
         </correspAction>
         <correspContext corresp="i-4MkRpmqHZLg5iZH17XpiaD">
           <ref type="record" target="prot-202021--068">Protokoll 2020/21:68 Torsdagen den 21 januari</ref>

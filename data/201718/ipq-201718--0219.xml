@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-3yGB8i2p5vZhm4Sy536rgC</idno>
             <persName>Anders Hansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-K5PqgvMkbE5Skgsmsuh7YJ" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-11-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UeDWHxLZpp5seNg5oqUKUV">
-          <date when="2018-02-09"/>
-          <time when="10:13:28" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TBfeCc5mr5KHNSEc6vKoEN" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2018-02-09"/>
+          <time when="10:13:28" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-UeDWHxLZpp5seNg5oqUKUV">
           <ref type="record" target="prot-201718--070">Protokoll 2017/18:70 Fredagen den 9 februari</ref>

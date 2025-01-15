@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FAhoYDeAxVXRZmnF5LnHgv</idno>
-            <persName>Kent Persson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Kent Persson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-4xpfEwWUBGJyXjfA3TpD5S" corresp="i-FAhoYDeAxVXRZmnF5LnHgv">
           <date when="2009-05-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Kcw6pgsR1HHKTM7dUrGK68">
-          <date when="2009-05-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YMScLtvyrauYz9Zjrh8RF3" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4sUBdsmsFsEEC4cMEosa8X">
-          <date when="2009-05-19"/>
-          <time when="15:25:22" dur="PT209S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7nhguEscpkNsp9YuX5gohg" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-05-19"/>
+          <time when="15:25:22" dur="PT209S"/>
         </correspAction>
         <correspContext corresp="i-4sUBdsmsFsEEC4cMEosa8X">
           <ref type="record" target="prot-200809--121">Riksdagens protokoll 2008/09:121 Tisdagen den 19 maj</ref>

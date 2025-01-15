@@ -25,45 +25,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Johan Pehrson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SHwqJX3QmUDS4ynvAk16a</idno>
             <persName>Linnéa Wickman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2BSEzHjiKvYCd8UmLJW4F</idno>
             <persName>Kristoffer Lindberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Rkuvz2uZsGGCtRXDRZK2YV</idno>
             <persName>Sanna Backeskog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-63sceuNjY77h434V3bbrSg" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-04-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-34AEQbofA4vke14PN8g46e">
-          <date when="2023-04-18"/>
-          <time when="14:44:48" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5ZrM2sP3REo2x7mSP1ek2p">
           <date when="2023-04-18"/>
+          <time when="14:44:48" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-34AEQbofA4vke14PN8g46e">
           <ref type="record" target="prot-202223--091">Protokoll 2022/23:91 Tisdagen den 18 april</ref>

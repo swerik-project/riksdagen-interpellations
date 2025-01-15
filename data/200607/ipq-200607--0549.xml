@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-WayCWQjZvNvTBisBfAEPty" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2007-05-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Dz8gjG17mEev5GECmgSoE2">
-          <date when="2007-05-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-75Zz1KjqVM9gJSdC5rQzYw" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Qdyd3dz79hAu8RB2Ga5HZU">
-          <date when="2007-06-12"/>
-          <time when="11:45:16" dur="PT170S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ojxUNxz6yCuVe9qWJmooc" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-06-12"/>
+          <time when="11:45:16" dur="PT170S"/>
         </correspAction>
         <correspContext corresp="i-Qdyd3dz79hAu8RB2Ga5HZU">
           <ref type="record" target="prot-200607--124">Riksdagens protokoll 2006/07:124 Tisdagen den 12 juni</ref>

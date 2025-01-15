@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson i Tyresö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Gunilla Carlsson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
             <persName>Laila Freivalds</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
-            <persName>Laila Freivalds</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-NYeXLxi2ECNiRnx3mp7yTj" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2005-11-08"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-7TtEiNk6hzo9QPR1pRu1dX">
-          <date when="2005-11-09"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-PtxG4Gqdq653cJmb25UbPy">
-          <date when="2005-11-22"/>
         </correspAction>
         <correspAction type="received" xml:id="i-X8wjBMzfPpKpjgSTt1Lsvs" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <date when="2005-11-09"/>

@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-2kTS9BkqXAKfMKbststmdB" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2021-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YU41t1VqBmXcJb8S7KGHW1">
-          <date when="2021-12-10"/>
-          <time when="09:03:20" dur="PT210S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LZsbdbUDoFBLEHuqaM8kzo">
           <date when="2021-12-10"/>
+          <time when="09:03:20" dur="PT210S"/>
         </correspAction>
         <correspContext corresp="i-YU41t1VqBmXcJb8S7KGHW1">
           <ref type="record" target="prot-202122--043">Protokoll 2021/22:43 Fredagen den 10 december</ref>

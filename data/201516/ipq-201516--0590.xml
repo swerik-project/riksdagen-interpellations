@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-KvKhrEa3hJDxAgEGxpLp41</idno>
             <persName>Katarina Brännström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-XGXudkHXmtGS8CjJ9L2Hkr</idno>
+            <persName>Hanif Bali</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XGXudkHXmtGS8CjJ9L2Hkr</idno>
-            <persName>Hanif Bali</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-M6KhcbV5ApM83tKBMbvS1H" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RqXurwkyM4wY59UbCyHHtT">
-          <date when="2016-05-13"/>
-          <time when="10:10:26" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NqGfcdjNT6zzMzapWbVRQo">
           <date when="2016-05-13"/>
+          <time when="10:10:26" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-RqXurwkyM4wY59UbCyHHtT">
           <ref type="record" target="prot-201516--105">Protokoll 2015/16:105 Fredagen den 13 maj</ref>

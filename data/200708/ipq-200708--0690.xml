@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
-            <persName>Lena Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
-            <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lena Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-PYgERyuL6gLNc2GQUc1EFj" corresp="i-6MWLY5JdykMGLLUo96skfp">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GwHwcqQEDfznwn3uqDPJQw">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QtLd4ch3WoN1DbigpgPinv" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2MscytQf2W7Wso4nVpqw4V">
-          <date when="2008-06-03"/>
-          <time when="09:45:58" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3UXTQMUGXEWnSy6uN3ifAi" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-06-03"/>
+          <time when="09:45:58" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-2MscytQf2W7Wso4nVpqw4V">
           <ref type="record" target="prot-200708--121">Riksdagens protokoll 2007/08:121 Tisdagen den 3 juni</ref>

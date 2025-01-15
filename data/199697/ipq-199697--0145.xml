@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Jan-Olof Franzén (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-KpAMBannLr5Me5Bpr1v8bp</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9b98QK7dYjp16eaNEqppET" corresp="i-KpAMBannLr5Me5Bpr1v8bp">
-          <date when="1996-02-03"/>
+          <date when="1997-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2APUtBVgqCPCnsYA3BwsAk">
+        <correspAction type="received" xml:id="i-2APUtBVgqCPCnsYA3BwsAk" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CtKhQZD6W54cbPq3dvtz9E">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-DcBAeiMQepx8pTWJkpKzCM">
-          <date when="1996-02-14"/>
+          <date when="1997-02-14"/>
         </correspAction>
         <correspContext corresp="i-DcBAeiMQepx8pTWJkpKzCM">
           <ref type="record" target="prot-199697--066">Prot. 1996/97:66</ref>

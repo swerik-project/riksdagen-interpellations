@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-XzbbqVeeweXKNMKKnzZ8xP" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2016-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NRBorQQzh3wGdZpFsNCjmV">
-          <date when="2016-11-11"/>
-          <time when="09:56:51" dur="PT181S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q8kD92gGQyx1eYzQSnAESq" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2016-11-11"/>
+          <time when="09:56:51" dur="PT181S"/>
         </correspAction>
         <correspContext corresp="i-NRBorQQzh3wGdZpFsNCjmV">
           <ref type="record" target="prot-201617--027">Protokoll 2016/17:27 Fredagen den 11 november</ref>

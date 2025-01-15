@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
             <persName>Jan Lindholm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
-            <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-KADUXHkSGUckwQwyJ6kxyZ">
-          <date when="2009-09-03"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-PBQHUF7LFkqUvvv3uEZFfh" corresp="i-VRHymVx7EsX48sg7b5qmpS">
           <date when="2009-08-21"/>
         </correspAction>
         <correspAction type="received" xml:id="i-DFjVTXxfJhkV9UZx5eoj9U" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-09-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EPVcppmSXGAeCj6YFU4CyP">
-          <date when="2009-09-03"/>
-          <time when="13:52:02" dur="PT212S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FCK2AumtoSabmfCXg53YUA" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-09-03"/>
+          <time when="13:52:02" dur="PT212S"/>
         </correspAction>
         <correspContext corresp="i-EPVcppmSXGAeCj6YFU4CyP">
           <ref type="record" target="prot-200809--140">Riksdagens protokoll 2008/09:140 Torsdagen den 3 september</ref>

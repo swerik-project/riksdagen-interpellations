@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
             <persName>Désirée Pethrus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-7wxB3JiCvLDczQoPkiiGaC" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2016-01-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-S6ZHfEyv9iBuPjHmS32jFB">
-          <date when="2016-01-19"/>
-          <time when="13:19:28" dur="PT291S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P2TG3tWZY6WdK7bch4Qump">
           <date when="2016-01-19"/>
+          <time when="13:19:28" dur="PT291S"/>
         </correspAction>
         <correspContext corresp="i-S6ZHfEyv9iBuPjHmS32jFB">
           <ref type="record" target="prot-201516--054">Protokoll 2015/16:54 Tisdagen den 19 januari</ref>

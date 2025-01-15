@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Inger René (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-MtQDAwnav9eHyeftxbQLvf</idno>
@@ -29,6 +29,7 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-WDNqjLdUFLrNtEJMRjdG6K" corresp="i-MtQDAwnav9eHyeftxbQLvf">
           <date when="1996-10-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LMhu9XLasijcGEw49qvyuQ">
+        <correspAction type="received" xml:id="i-LMhu9XLasijcGEw49qvyuQ" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MGM6RVqe862ntgfXBY4SQV">
           <note>Besvarad</note>

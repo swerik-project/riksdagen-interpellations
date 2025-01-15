@@ -24,39 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5kLPqJYKuXdEi7mU2QqyGZ</idno>
             <persName>Maria Stockhaus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-QYe969jeATfszA8isA4tV8" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PLFsxz62GChmJs28Yjddpd">
-          <date when="2021-02-02"/>
-          <time when="18:43:55" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NVPcPXLD6RgMABCU3Kjvz8">
           <date when="2021-02-02"/>
+          <time when="18:43:55" dur="PT86S"/>
         </correspAction>
         <correspAction xml:id="i-46yTCVvTiP9hSGJfKCSZ5B" type="discussed" corresp="i-HNw1w34Sd2tGfFnWtdrzZb">
           <date when="2021-02-02"/>

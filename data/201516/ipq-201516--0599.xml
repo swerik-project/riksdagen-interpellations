@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-3ShgxUoVP7f6BJTgBiA2Bo" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-04-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R1wiDeoyZWASysQP1zqd4D">
-          <date when="2016-06-10"/>
-          <time when="09:30:20" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Ww8SksK61XwUzHeJt3hNUT" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-06-10"/>
+          <time when="09:30:20" dur="PT86S"/>
         </correspAction>
         <correspContext corresp="i-R1wiDeoyZWASysQP1zqd4D">
           <ref type="record" target="prot-201516--117">Protokoll 2015/16:117 Fredagen den 10 juni</ref>

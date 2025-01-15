@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8JcBm1EirqNqBeRGA7Avhs" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2022-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D4DFjnaZLDGbgAfPn2s6s6">
-          <date when="2022-02-15"/>
-          <time when="18:00:17" dur="PT202S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5gieVWA52NmxJRETzry5Lg">
           <date when="2022-02-15"/>
+          <time when="18:00:17" dur="PT202S"/>
         </correspAction>
         <correspContext corresp="i-D4DFjnaZLDGbgAfPn2s6s6">
           <ref type="record" target="prot-202122--066">Protokoll 2021/22:66 Tisdagen den 15 februari</ref>

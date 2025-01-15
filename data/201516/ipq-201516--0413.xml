@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NXj58dUGKZNY5mhhE2y1sm</idno>
             <persName>Göran Lindell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-3EZJyYtg3sVLcKvSrF3a1P" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2016-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C5HUrCFzsLD8HttZmAHsni">
-          <date when="2016-03-04"/>
-          <time when="09:25:08" dur="PT254S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QD7X2V9r7mjtKh9ADjEoUY">
           <date when="2016-03-04"/>
+          <time when="09:25:08" dur="PT254S"/>
         </correspAction>
         <correspContext corresp="i-C5HUrCFzsLD8HttZmAHsni">
           <ref type="record" target="prot-201516--075">Protokoll 2015/16:75 Fredagen den 4 mars</ref>

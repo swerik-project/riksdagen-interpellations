@@ -25,56 +25,36 @@
           <person gender="woman">
             <idno>i-7AB63eqvrGXGCT1mpkEM3J</idno>
             <persName>Louise Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-46n9LvHodHcTBYLY9ZoGDk">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-HpbLLndcNfproNABxCc7KG" corresp="i-7AB63eqvrGXGCT1mpkEM3J">
           <date when="2008-05-13"/>
         </correspAction>
         <correspAction type="received" xml:id="i-U9mBRcs4AogBam2p44nypV" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6LHE1xMbysvrDJYkXX8PcC">
-          <date when="2008-05-28"/>
-          <time when="10:21:43" dur="PT343S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3NG4FgXuvTDtXpqWHm4VVh" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-28"/>
+          <time when="10:21:43" dur="PT343S"/>
         </correspAction>
         <correspContext corresp="i-6LHE1xMbysvrDJYkXX8PcC">
           <ref type="record" target="prot-200708--119">Riksdagens protokoll 2007/08:119 Onsdagen den 28 maj</ref>

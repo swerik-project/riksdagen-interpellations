@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TyiLHdkXMMBBWN3zcwj3DS</idno>
             <persName>Erik A Eriksson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-6sxkfCKXnor7C6kn9P8fxu" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-02-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4mBnGp3niwHrNSxGZM6JL9">
-          <date when="2009-02-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3dEog3RWB1riA8nS9uDLi2" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-02-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Du2cyaQQx5cCgAsyr95kca">
-          <date when="2009-03-13"/>
-          <time when="10:37:37" dur="PT206S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SZNh1fxi7tRJibST9kP7d4" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-03-13"/>
+          <time when="10:37:37" dur="PT206S"/>
         </correspAction>
         <correspContext corresp="i-Du2cyaQQx5cCgAsyr95kca">
           <ref type="record" target="prot-200809--084">Riksdagens protokoll 2008/09:84 Fredagen den 13 mars</ref>

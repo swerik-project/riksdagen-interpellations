@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LjpaL4XhPNoSZ44TkA9j3w</idno>
             <persName>Katja Nyberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-BRz1fTRh4UQYuCz6SrvAq2" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2020-12-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BBMMkiXB7ZWPrWHrbbxmtt">
-          <date when="2021-01-22"/>
-          <time when="11:48:00" dur="PT192S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QkMmTyHuNsu1J1qRB4wSYG" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-01-22"/>
+          <time when="11:48:00" dur="PT192S"/>
         </correspAction>
         <correspContext corresp="i-BBMMkiXB7ZWPrWHrbbxmtt">
           <ref type="record" target="prot-202021--069">Protokoll 2020/21:69 Fredagen den 22 januari</ref>

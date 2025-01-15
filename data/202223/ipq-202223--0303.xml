@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2XVoKbtmS4n8M1rSKUAyqA" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2023-04-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HkeoZatZzNdQhdHdwzXcnM">
-          <date when="2023-06-09"/>
-          <time when="09:33:57" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Kiw5gxVvPjE1SMXQasDBVZ" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2023-06-09"/>
+          <time when="09:33:57" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-HkeoZatZzNdQhdHdwzXcnM">
           <ref type="record" target="prot-202223--121">Protokoll 2022/23:121 Fredagen den 9 juni</ref>

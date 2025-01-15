@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
-            <persName>Allan Widman (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MsB2XiRWgdaie7SvRnPHvC" corresp="i-BUYvEhrSc9gnHcd6iS4eDJ">
           <date when="2009-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HjXixewoTQy8RbZnZ7x2ZD">
-          <date when="2009-05-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BQcVWkPVXmXLeDHY5pbYMH" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-05-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TgPF7ViPWJi2rVTkzGehnq">
-          <date when="2009-05-15"/>
-          <time when="12:01:34" dur="PT236S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QaUhkxVn1x5bofvoZJH4ni" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-05-15"/>
+          <time when="12:01:34" dur="PT236S"/>
         </correspAction>
         <correspContext corresp="i-TgPF7ViPWJi2rVTkzGehnq">
           <ref type="record" target="prot-200809--119">Riksdagens protokoll 2008/09:119 Fredagen den 15 maj</ref>

@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-X9jqcGenibr5tWEbnZgddm</idno>
             <persName>Annika Hirvonen</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Q8Vd8NbCBGdQyoMJvisVNz" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-06-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FBdJnQy9sBaDyanEVLnF6e">
-          <date when="2022-06-27"/>
-          <time when="12:01:40" dur="PT53S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XTRvxPdQwhRKpo2EUpdTU1" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-06-27"/>
+          <time when="12:01:40" dur="PT53S"/>
         </correspAction>
         <correspContext corresp="i-FBdJnQy9sBaDyanEVLnF6e">
           <ref type="record" target="prot-202122--137">Protokoll 2021/22:137 Måndagen den 27 juni</ref>

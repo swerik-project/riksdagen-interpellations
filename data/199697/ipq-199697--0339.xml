@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Karin Falkmer (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-A16XHDHnpsSEskwvgsUhaw</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Pagrotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8RGyVT7RozrhDyD4K8zK7H" corresp="i-A16XHDHnpsSEskwvgsUhaw">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DCtAABt8wSLsrta3bYy6u2">
+        <correspAction type="received" xml:id="i-DCtAABt8wSLsrta3bYy6u2" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pagrotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-W7ygVKjUJw3WDTx4B82qY5">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-8gDQf4W4bXXjRVbU2pojmJ">
-          <date when="1996-06-09"/>
+          <date when="1997-06-09"/>
         </correspAction>
         <correspContext corresp="i-8gDQf4W4bXXjRVbU2pojmJ">
           <ref type="record" target="prot-199697--116">Prot. 1996/97:116</ref>

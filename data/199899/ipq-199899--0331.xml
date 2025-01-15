@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Lars-Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-YGpwaPPRvnhWyFbKabsvJc" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9WZcx5AAy16WcikTURzswW">
+        <correspAction type="received" xml:id="i-9WZcx5AAy16WcikTURzswW" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars-Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4M3CbD2fyMtm9R9nZkKQic">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-89ejEXVbPirw5dVa7Cvwwp">
-          <date when="1998-05-31"/>
+          <date when="1999-05-31"/>
         </correspAction>
         <correspContext corresp="i-89ejEXVbPirw5dVa7Cvwwp">
           <ref type="record" target="prot-199899--103">Prot. 1998/99:103</ref>

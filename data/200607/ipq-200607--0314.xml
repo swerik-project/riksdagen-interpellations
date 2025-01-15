@@ -23,38 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-L3xspgThUxUN1YtSDqcmk8</idno>
-            <persName>Barbro Westerholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L3xspgThUxUN1YtSDqcmk8</idno>
-            <persName>Barbro Westerholm (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
+            <persName>Barbro Westerholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-KboZaEEyojda4e3nbWF55J" corresp="i-L3xspgThUxUN1YtSDqcmk8">
           <date when="2007-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EqX5bZ78obEAoCegibW4EX">
-          <date when="2007-02-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MPb2LiY1jp8sDYUP1tJKws" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8pCdcxxAkbzgKb5fWsLbVH">
-          <date when="2007-03-20"/>
-          <time when="19:58:14" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6fTtdCarQAfaPBnECamBQz" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-03-20"/>
+          <time when="19:58:14" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-8pCdcxxAkbzgKb5fWsLbVH">
           <ref type="record" target="prot-200607--078">Riksdagens protokoll 2006/07:78 Tisdagen den 20 mars</ref>

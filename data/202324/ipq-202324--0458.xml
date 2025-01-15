@@ -27,43 +27,29 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6QRZCXV1gpE5LaD6mKZ5GR</idno>
             <persName>Anna-Belle Strömberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4rA8nu7Qns2drm1ePJStLd</idno>
             <persName>Martin Westmont</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-YH3V8pDFsEYCUN7eu8eHCW" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2024-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VHMEXq4VvuaDsRhRcfyUyu">
-          <date when="2024-03-01"/>
-          <time when="10:51:34" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-jU8nmWjXiwSmFvz3uurJY" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2024-03-01"/>
+          <time when="10:51:34" dur="PT214S"/>
         </correspAction>
         <correspAction xml:id="i-QT4BSqTTGDpTXGNHi5BySo" type="discussed" corresp="i-TqkCALix3mzcE3yNqV7Nee">
           <date when="2024-03-01"/>

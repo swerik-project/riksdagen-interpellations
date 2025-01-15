@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-RgiFneJos5UFYxcw7xkPxz</idno>
             <persName>Erik Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2YD7fc2EPRHgycJZ5W81Gd" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2017-12-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V9YHSWsW2YcyTAjaGvvJJ3">
-          <date when="2018-01-23"/>
-          <time when="14:17:28" dur="PT348S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QFTLxrCM9NM8zXhsXT213B" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-01-23"/>
+          <time when="14:17:28" dur="PT348S"/>
         </correspAction>
         <correspContext corresp="i-V9YHSWsW2YcyTAjaGvvJJ3">
           <ref type="record" target="prot-201718--059">Protokoll 2017/18:59 Tisdagen den 23 januari</ref>

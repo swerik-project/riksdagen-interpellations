@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xbq1HVkxhCYVmfPLN63HRo</idno>
             <persName>Daniel Riazat</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-GDFCvCVBfYxn5c4U2pDbKU" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-05-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VQw5oY4xMQK2CAarwfzjZ3">
-          <date when="2017-06-27"/>
-          <time when="11:34:19" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U1WFHaRwEC7ftp3LBDLVLs" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-06-27"/>
+          <time when="11:34:19" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-VQw5oY4xMQK2CAarwfzjZ3">
           <ref type="record" target="prot-201617--132">Protokoll 2016/17:132 Tisdagen den 27 juni</ref>

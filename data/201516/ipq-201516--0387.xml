@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Potn3LYaxQCMS9ynWqtwQZ" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2016-02-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Np5rztSKWp3c6cvB1gLimW">
-          <date when="2016-02-23"/>
-          <time when="19:55:50" dur="PT142S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-99Dg4XSepimCEmu6G9PZ2e">
           <date when="2016-02-23"/>
+          <time when="19:55:50" dur="PT142S"/>
         </correspAction>
         <correspContext corresp="i-Np5rztSKWp3c6cvB1gLimW">
           <ref type="record" target="prot-201516--068">Protokoll 2015/16:68 Tisdagen den 23 februari</ref>

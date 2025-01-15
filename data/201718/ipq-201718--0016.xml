@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-7GFif5DyTUbb8eBXsbicsF</idno>
             <persName>Magnus Oscarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-WwrCLQMv1vWNjDtBd2QMBY" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2017-10-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QhjMwAXxk7katAZddh8PjH">
-          <date when="2017-10-17"/>
-          <time when="15:39:36" dur="PT83S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-aTC9MuKkhoPnrUHieeSSM">
           <date when="2017-10-17"/>
+          <time when="15:39:36" dur="PT83S"/>
         </correspAction>
         <correspContext corresp="i-QhjMwAXxk7katAZddh8PjH">
           <ref type="record" target="prot-201718--018">Protokoll 2017/18:18 Tisdagen den 17 oktober</ref>

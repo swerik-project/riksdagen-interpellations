@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-RsRDX1wYC4FkeSooQbadTC" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BkgEEmubsJGvLnEVYGvpwT">
-          <date when="2022-11-18"/>
-          <time when="09:52:52" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NiUk9tzSogWD8nEawRY7ha" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2022-11-18"/>
+          <time when="09:52:52" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-BkgEEmubsJGvLnEVYGvpwT">
           <ref type="record" target="prot-202223--023">Protokoll 2022/23:23 Fredagen den 18 november</ref>

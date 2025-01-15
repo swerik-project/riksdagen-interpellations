@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-6PVw9b14nHyyamxGVvRRDJ</idno>
-            <persName>Nils Oskar Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6PVw9b14nHyyamxGVvRRDJ</idno>
-            <persName>Nils Oskar Nilsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6PVw9b14nHyyamxGVvRRDJ</idno>
+            <persName>Nils Oskar Nilsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-3bkV2AeE9bkow4ZdQBYAHp">
-          <date when="2007-09-20"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-JVB6iXrs19uuPFbQnC8LGa" corresp="i-6PVw9b14nHyyamxGVvRRDJ">
           <date when="2007-09-19"/>
         </correspAction>
         <correspAction type="received" xml:id="i-62zxuCynf1QKv62aT4EyHi" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-09-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-L9ipjH4NMDFGG4pJvwgw8D">
-          <date when="2007-10-23"/>
-          <time when="18:35:22" dur="PT240S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PL254m3bRcdiqiBHjws3ju" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-10-23"/>
+          <time when="18:35:22" dur="PT240S"/>
         </correspAction>
         <correspContext corresp="i-L9ipjH4NMDFGG4pJvwgw8D">
           <ref type="record" target="prot-200708--014">Riksdagens protokoll 2007/08:14 Tisdagen den 23 oktober</ref>

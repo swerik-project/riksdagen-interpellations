@@ -23,58 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
             <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-V7cNAC5W5ZEY9WdTaiJX9j">
-          <date when="2009-02-26"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-Mfsf4bmjJe5MTM6YEopHec" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2009-02-26"/>
         </correspAction>
         <correspAction type="received" xml:id="i-LwkWwe8R1QSrPVvtqWjE4r" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-R4DZufCYX6C1do4XuUNadx">
-          <date when="2009-04-03"/>
-          <time when="14:49:53" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EmkzuqQWXbgZn7Wabv6uMm" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-04-03"/>
+          <time when="14:49:53" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-R4DZufCYX6C1do4XuUNadx">
           <ref type="record" target="prot-200809--097">Riksdagens protokoll 2008/09:97 Fredagen den 3 april</ref>

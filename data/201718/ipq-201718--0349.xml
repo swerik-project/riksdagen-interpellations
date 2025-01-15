@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-2sjb2rBTCJ8EVGeA8YPdt7" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VZwaKM5eWaCQmXeHUfSdiv">
-          <date when="2018-02-13"/>
-          <time when="18:08:54" dur="PT84S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5sKX9475ayXgrNGLWDgw27" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-02-13"/>
+          <time when="18:08:54" dur="PT84S"/>
         </correspAction>
         <correspContext corresp="i-VZwaKM5eWaCQmXeHUfSdiv">
           <ref type="record" target="prot-201718--071">Protokoll 2017/18:71 Tisdagen den 13 februari</ref>

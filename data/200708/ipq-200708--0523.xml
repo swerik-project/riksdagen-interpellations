@@ -23,37 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
             <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-A6KBDGcyPsxPknPmRh8nUu" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-03-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7sy6vvxTAZUkuYRiMZai8R">
-          <date when="2008-03-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VYqDkAdfpXQPyiVQoHU5rP" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2008-03-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ApVUDDg5MJxHZYbjGJt1yE">
-          <date when="2008-04-08"/>
-          <time when="19:08:59" dur="PT380S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HmUnhgZX2cKtoF75YpQb8h" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-04-08"/>
+          <time when="19:08:59" dur="PT380S"/>
         </correspAction>
         <correspContext corresp="i-ApVUDDg5MJxHZYbjGJt1yE">
           <ref type="record" target="prot-200708--091">Riksdagens protokoll 2007/08:91 Tisdagen den 8 april</ref>

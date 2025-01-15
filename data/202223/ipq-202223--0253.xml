@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Y6pV2kmHmseFnW9xv9t8yX</idno>
             <persName>Eric Palmqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
             <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-WfBbfDunRuTDCCKFn5ANrY" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HDr8EpFx2PbrLVKaR5aDrU">
-          <date when="2023-03-21"/>
-          <time when="13:25:20" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PwJbXQpAnGyTVdbYSQhXwB">
           <date when="2023-03-21"/>
+          <time when="13:25:20" dur="PT86S"/>
         </correspAction>
         <correspContext corresp="i-HDr8EpFx2PbrLVKaR5aDrU">
           <ref type="record" target="prot-202223--078">Protokoll 2022/23:78 Tisdagen den 21 mars</ref>

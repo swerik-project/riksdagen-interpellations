@@ -25,73 +25,52 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson i Luleå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Statsrådet Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Statsrådet Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-5sQf8wA27pVo43qpEZ2jUa</idno>
             <persName>David Josefsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NU3HPSXKRWGcdWfzmr5Vhd</idno>
             <persName>Åsa Coenraads</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-J7uJmvTQswBegURGxa5EHb</idno>
             <persName>Lars Püss</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LL8Bee3zYHnuxQrwejsiTf</idno>
             <persName>Ida Karkiainen</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
+            <persName>Annika Strandhäll</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
+            <persName>Mattias Karlsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -106,12 +85,9 @@
         <correspAction type="received" xml:id="i-LLBe3DHma8MB2a63YrM9J4" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AkuD8zwnzgTvGLRLnUfQZC">
-          <date when="2019-06-11"/>
-          <time when="18:09:34" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-23HmUZLPngucSkkuTP2JvR" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2019-06-11"/>
+          <time when="18:09:34" dur="PT160S"/>
         </correspAction>
         <correspAction xml:id="i-RLDqVnaY9xFKnQynER91sy" type="discussed" corresp="i-5sQf8wA27pVo43qpEZ2jUa">
           <date when="2019-06-11"/>

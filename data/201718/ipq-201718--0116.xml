@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RaMkfMt8MzwfqAxncChJEu</idno>
             <persName>Erik Bengtzboe</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-NDXytJ2sEVrtLhDNxEoc8A</idno>
+            <persName>Ida Drougge</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
             <persName>Gustav Fridolin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-NDXytJ2sEVrtLhDNxEoc8A</idno>
-            <persName>Ida Drougge</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-3KsiaAKffNHVUrDaXQJamE" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2017-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BjKexcNGezrEEKED4w5EEv">
-          <date when="2017-12-19"/>
-          <time when="13:44:40" dur="PT110S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U9vytowjJzVoobqnaavjt8" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2017-12-19"/>
+          <time when="13:44:40" dur="PT110S"/>
         </correspAction>
         <correspContext corresp="i-BjKexcNGezrEEKED4w5EEv">
           <ref type="record" target="prot-201718--053">Protokoll 2017/18:53 Tisdagen den 19 december</ref>

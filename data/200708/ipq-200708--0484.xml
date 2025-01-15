@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
             <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hans Linde</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MWr5DeT4ci6TLAdz3WrHxz" corresp="i-K3yJ7rruozYUK99nj91ffc">
           <date when="2008-03-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HwzLaCjkJudUfL1fDSyJiZ">
-          <date when="2008-03-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-M4UrssPsvkMetwbvJFTx8c" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5dmNVbjUGeA9nJaf1cGQhy">
-          <date when="2008-03-28"/>
-          <time when="14:12:57" dur="PT426S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MArX1G1fEJfRthR1HkmEES" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-03-28"/>
+          <time when="14:12:57" dur="PT426S"/>
         </correspAction>
         <correspContext corresp="i-5dmNVbjUGeA9nJaf1cGQhy">
           <ref type="record" target="prot-200708--085">Riksdagens protokoll 2007/08:85 Fredagen den 28 mars</ref>

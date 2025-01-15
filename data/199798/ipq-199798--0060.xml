@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Kia Andreasson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-TtTt6tncGj7Z7obngWSti</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-XLGzTei7CLUbTuakzWnYq6" corresp="i-TtTt6tncGj7Z7obngWSti">
           <date when="1997-11-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SrkYQBctnRxhWAv4rUYbAF">
+        <correspAction type="received" xml:id="i-SrkYQBctnRxhWAv4rUYbAF" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5Eu3NCKTcfYSFJe58hQAQ2">
           <note>Besvarad</note>

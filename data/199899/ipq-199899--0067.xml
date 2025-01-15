@@ -24,14 +24,15 @@
         <listPerson>
           <person gender="man">
             <persName>Martin Nilsson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-8HiHungHEQFnPqnUhnscP3</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -39,15 +40,14 @@
         <correspAction type="sent" xml:id="i-35U1hRztPpyAtxR2FzumeG" corresp="i-8HiHungHEQFnPqnUhnscP3">
           <date when="1998-11-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PyaZ46ar5ZHq4QuXsDGSb3">
+        <correspAction type="received" xml:id="i-PyaZ46ar5ZHq4QuXsDGSb3" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-J4cH32H2r3bNxM3YBjBk59">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-4u9ceNHoJzZ4F8JjbzXYeZ">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-4u9ceNHoJzZ4F8JjbzXYeZ">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

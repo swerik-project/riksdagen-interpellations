@@ -23,52 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +63,12 @@
         <correspAction type="sent" xml:id="i-W4HHRdeZ6QdCuL3Xh7LU5p" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2007-03-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MJP2QJxgQQVRmyq8wwmFeQ">
-          <date when="2007-03-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-7FLzqacHvaNue6dKQ2tJ1k" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-03-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2q8nTCL44mcwybJVf9FTYn">
-          <date when="2007-03-20"/>
-          <time when="18:00:47" dur="PT331S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DbqLUn7NAppUsFDaM5VNJs" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-03-20"/>
+          <time when="18:00:47" dur="PT331S"/>
         </correspAction>
         <correspContext corresp="i-2q8nTCL44mcwybJVf9FTYn">
           <ref type="record" target="prot-200607--078">Riksdagens protokoll 2006/07:78 Tisdagen den 20 mars</ref>

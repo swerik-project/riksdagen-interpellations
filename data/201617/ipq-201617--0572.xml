@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Socialförsäkringsminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BfmJ8hLMzGF9XMcc4M8Bfa</idno>
             <persName>Cassandra Sundin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
             <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-EtKtXUXSXGkpfHjs61hV9c" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2017-06-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4D3vkwP3FnXakTKWc3117x">
-          <date when="2017-08-31"/>
-          <time when="16:24:55" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KMchsvkxRD38DXMbBU8crv" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2017-08-31"/>
+          <time when="16:24:55" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-4D3vkwP3FnXakTKWc3117x">
           <ref type="record" target="prot-201617--133">Protokoll 2016/17:133 Torsdagen den 31 augusti</ref>

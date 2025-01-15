@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
             <persName>Berit Högman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
             <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -51,9 +44,6 @@
         </correspAction>
         <correspAction type="received" xml:id="i-6zf2u7VvzzwbGfQ731VSfq" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2004-04-22"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-DJZY3k1JWY8SJ6RhpQMSmG">
-          <date when="2004-06-14"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-DSpnWPUy7XJdi5M8BM2r8W" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2004-06-14"/>

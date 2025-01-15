@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Yam9ii4K4HfneDbj5TzDJY</idno>
             <persName>Ciczie Weidby</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-KxfcTGNc9uT4t3cA9KH7J8" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7m7EKT4aoGPacA93JsB14f">
-          <date when="2023-05-29"/>
-          <time when="12:28:49" dur="PT273S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WZ1XSZ6kPwLonzY42Ed9T4">
           <date when="2023-05-29"/>
+          <time when="12:28:49" dur="PT273S"/>
         </correspAction>
         <correspContext corresp="i-7m7EKT4aoGPacA93JsB14f">
           <ref type="record" target="prot-202223--114">Protokoll 2022/23:114 Måndagen den 29 maj</ref>

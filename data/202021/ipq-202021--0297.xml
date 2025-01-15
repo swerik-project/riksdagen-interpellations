@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknadsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
             <persName>Eva Nordmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-W7BuNSaVkq7MJRdNtN4Y9s" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2021-01-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5W1dk4LUErhxFn6LYbWhif">
-          <date when="2021-01-28"/>
-          <time when="17:01:39" dur="PT174S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TMXWLXTbxRQFUnfD9fU79v" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2021-01-28"/>
+          <time when="17:01:39" dur="PT174S"/>
         </correspAction>
         <correspContext corresp="i-5W1dk4LUErhxFn6LYbWhif">
           <ref type="record" target="prot-202021--072">Protokoll 2020/21:72 Torsdagen den 28 januari</ref>

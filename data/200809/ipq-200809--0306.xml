@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stock (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
             <persName>Göte Wahlström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
+            <persName>Helene Petersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-CZAabvMfUyLxR9A4GChcK5" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2009-02-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Xyoan2e7VfxtZSgqPwCoKh">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-J281zzMTRWtrHGqQFs7Y7u" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8oiH4Ufwrscds3myv8b6NA">
-          <date when="2009-03-17"/>
-          <time when="13:32:14" dur="PT310S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SMSoutRKAA2Fjo3fxJwjTm" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-03-17"/>
+          <time when="13:32:14" dur="PT310S"/>
         </correspAction>
         <correspContext corresp="i-8oiH4Ufwrscds3myv8b6NA">
           <ref type="record" target="prot-200809--085">Riksdagens protokoll 2008/09:85 Tisdagen den 17 mars</ref>

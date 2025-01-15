@@ -27,28 +27,28 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
             <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-42mC5GTVNHcPV5LNMmxmrj</idno>
             <persName>Carl Schlyter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-3KjTs2u4TBFpFjheNYDUHK" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2018-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3MC6TzRLYi5kXq8bNfmG91">
-          <date when="2018-02-06"/>
-          <time when="18:54:19" dur="PT311S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S6tJDykEK8La5r9dBXGTzP">
           <date when="2018-02-06"/>
+          <time when="18:54:19" dur="PT311S"/>
         </correspAction>
         <correspContext corresp="i-3MC6TzRLYi5kXq8bNfmG91">
           <ref type="record" target="prot-201718--067">Protokoll 2017/18:67 Tisdagen den 6 februari</ref>

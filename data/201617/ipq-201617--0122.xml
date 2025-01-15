@@ -27,42 +27,28 @@
           <person gender="man">
             <idno>i-8UHfFy8Egv2UxrL1auT5kE</idno>
             <persName>Anders Forsberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-QdWQKvTp3DF94KGhUGspzh" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2016-11-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FTJspXd17LYQ2qS2VYdqSm">
-          <date when="2016-11-29"/>
-          <time when="13:22:25" dur="PT344S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ENzm2C4GMf2NxNJuoLLuAg" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2016-11-29"/>
+          <time when="13:22:25" dur="PT344S"/>
         </correspAction>
         <correspAction xml:id="i-JfceMWQR6fdqRku68T5BTD" type="discussed" corresp="i-8UHfFy8Egv2UxrL1auT5kE">
           <date when="2016-11-29"/>

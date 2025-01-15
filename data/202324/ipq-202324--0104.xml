@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-L7ykJLhEB4B6D8ahqt1ei4" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KZmUiG34dFxodbwiBkPdCP">
-          <date when="2023-11-10"/>
-          <time when="11:10:02" dur="PT148S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GGDkkzLVAYJtu9AfL2vXQK" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-11-10"/>
+          <time when="11:10:02" dur="PT148S"/>
         </correspAction>
         <correspContext corresp="i-KZmUiG34dFxodbwiBkPdCP">
           <ref type="record" target="prot-202324--028">Protokoll 2023/24:28 Fredagen den 10 november</ref>

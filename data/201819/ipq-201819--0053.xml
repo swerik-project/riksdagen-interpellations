@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-NPE7HCaEQkVW4E3Sfin1mF" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2019-02-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9Px7vTnTQrMZK48aaGkVFg">
-          <date when="2019-02-15"/>
-          <time when="09:52:02" dur="PT210S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9xE7zdxe56UFnsmBKgd94Z">
           <date when="2019-02-15"/>
+          <time when="09:52:02" dur="PT210S"/>
         </correspAction>
         <correspContext corresp="i-9Px7vTnTQrMZK48aaGkVFg">
           <ref type="record" target="prot-201819--054">Protokoll 2018/19:54 Fredagen den 15 februari</ref>

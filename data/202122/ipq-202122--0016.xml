@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>-</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-366K4mTceNnPAPwfgLY56E" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-09-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VEe4QJqqrXRZpquE2Vqjny">
-          <date when="2021-10-29"/>
-          <time when="12:35:38" dur="PT292S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WcEQ48wj6KopkfzhXq5i16" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-10-29"/>
+          <time when="12:35:38" dur="PT292S"/>
         </correspAction>
         <correspContext corresp="i-VEe4QJqqrXRZpquE2Vqjny">
           <ref type="record" target="prot-202122--024">Protokoll 2021/22:24 Fredagen den 29 oktober</ref>

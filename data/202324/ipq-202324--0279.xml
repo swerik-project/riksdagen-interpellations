@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-XCrs5cGPH9J1SToBdwxJgt</idno>
             <persName>Patrik Lundqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-KNbJy6hivTB9zwnQZf3sLg" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-12-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HihR2GmWW17iK9Qca4SkB1">
-          <date when="2023-12-18"/>
-          <time when="16:08:15" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-G8RaEsQ3oqZd4qExye73TD">
           <date when="2023-12-18"/>
+          <time when="16:08:15" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-HihR2GmWW17iK9Qca4SkB1">
           <ref type="record" target="prot-202324--051">Protokoll 2023/24:51 Måndagen den 18 december</ref>

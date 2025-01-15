@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
-            <persName>Bo Bernhardsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Bo Bernhardsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-edUgh4d4vTvCz6ZDPVkby" corresp="i-MKm68HiDPih8eisvsh6GJg">
           <date when="2008-11-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Gg2d91VtGwkeL71YS5Erig">
-          <date when="2008-11-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-55sCmFXzPT3RjbceKduzFE" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-11-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U5ff5ffEUg55Ko31fN3gaF">
-          <date when="2008-11-25"/>
-          <time when="18:36:02" dur="PT180S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EV5yLLTUioC1XHCLtmwrAa" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-11-25"/>
+          <time when="18:36:02" dur="PT180S"/>
         </correspAction>
         <correspContext corresp="i-U5ff5ffEUg55Ko31fN3gaF">
           <ref type="record" target="prot-200809--035">Riksdagens protokoll 2008/09:35 Tisdagen den 25 november</ref>

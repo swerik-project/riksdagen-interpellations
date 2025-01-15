@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
             <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
             <persName>Hans Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-DzZkHb7arEsiM3cf9txkAh" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-03-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BHiAFFbYWco6eWrWkuhrE3">
-          <date when="2008-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Durmd2ZGs3Mwweofc85MSZ" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QjwEZqjAyH4qqQ3ke2DjYF">
-          <date when="2008-04-22"/>
-          <time when="18:01:13" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RhgWNz1GTya5R1qNQobCHH" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-04-22"/>
+          <time when="18:01:13" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-QjwEZqjAyH4qqQ3ke2DjYF">
           <ref type="record" target="prot-200708--100">Riksdagens protokoll 2007/08:100 Tisdagen den 22 april</ref>

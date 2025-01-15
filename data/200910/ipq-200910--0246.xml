@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MmbiPpBsn1dh7xFmqKFvR9" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2010-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VejW2ZPB7SpLtVkHUQeWZp">
-          <date when="2010-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NAdqYKPsVM2DJVgwZPSJEe" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2010-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9puBZNbvD2YsnabvhsSPyy">
-          <date when="2010-03-19"/>
-          <time when="10:09:13" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FgfFiq7Hy2aEy9Z1Pf5fHa" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2010-03-19"/>
+          <time when="10:09:13" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-9puBZNbvD2YsnabvhsSPyy">
           <ref type="record" target="prot-200910--091">Riksdagens protokoll 2009/10:91 Fredagen den 19 mars</ref>

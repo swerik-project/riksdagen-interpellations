@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
-            <persName>Désirée Pethrus Engström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Désirée Pethrus</persName>
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-X9pyYrzSusznJr8LGRvVkE" corresp="i-BaBRFz7sgjhbuqYiz8u7vt">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TsZcVcRT2HyXeBuwvWqQiz">
-          <date when="2007-05-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9NK9XSFKFnLyh9DBETeSb4" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-05-24"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-MqPt85XvpF69dTBQshLyKY">
-          <date when="2007-06-12"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-D5Gc1nzG9VtNzUMLK1eRHS" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-06-12"/>

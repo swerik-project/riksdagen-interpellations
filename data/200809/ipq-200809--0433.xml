@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-SWUyqXJem6bt8Yp53mc9zw" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-03-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JFpNJiin7dahY7jgzgwC8b">
-          <date when="2009-03-26"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PkLR4qPP66APjLc6VExCef" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LsCLXF6gGHPh6fzBHaqyDJ">
-          <date when="2009-04-08"/>
-          <time when="12:18:46" dur="PT427S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HrA1PGmRwyFkSLyMvEmvE1" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-04-08"/>
+          <time when="12:18:46" dur="PT427S"/>
         </correspAction>
         <correspContext corresp="i-LsCLXF6gGHPh6fzBHaqyDJ">
           <ref type="record" target="prot-200809--098">Riksdagens protokoll 2008/09:98 Onsdagen den 8 april</ref>

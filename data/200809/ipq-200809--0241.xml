@@ -22,52 +22,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
             <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -83,12 +62,9 @@
         <correspAction type="received" xml:id="i-XhrmfZ4XMUo8ZzgqcKsdeb" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BCqyDsM8BGRRsKaw8aDfVT">
-          <date when="2009-01-23"/>
-          <time when="11:00:10" dur="PT373S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TDzc6wV46EfPdABPumbTmE" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-01-23"/>
+          <time when="11:00:10" dur="PT373S"/>
         </correspAction>
         <correspContext corresp="i-BCqyDsM8BGRRsKaw8aDfVT">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

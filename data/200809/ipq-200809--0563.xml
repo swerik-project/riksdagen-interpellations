@@ -23,58 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
-            <persName>Kalle Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
-            <persName>Kalle Larsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Kalle Larsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-XQLMsetExvJQ99TLkWuMTa">
-          <date when="2009-06-05"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-NpaxnM1te47mYMfJHaiQSU" corresp="i-mN8mVTBvBYjtHLNThWLo4">
           <date when="2009-06-03"/>
         </correspAction>
         <correspAction type="received" xml:id="i-RodaJKnGS6aoS5cA4ntcaL" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-06-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-t1eYu9wgYgas3ScezjM5d">
-          <date when="2009-06-18"/>
-          <time when="11:00:48" dur="PT282S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-D1hjyRur7hTBMWV4f9N2am" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-06-18"/>
+          <time when="11:00:48" dur="PT282S"/>
         </correspAction>
         <correspContext corresp="i-t1eYu9wgYgas3ScezjM5d">
           <ref type="record" target="prot-200809--135">Riksdagens protokoll 2008/09:135 Torsdagen den 18 juni</ref>

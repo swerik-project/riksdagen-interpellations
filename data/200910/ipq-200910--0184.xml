@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KCyyRs9HnkQhss61gii5F7</idno>
             <persName>Fredrik Lundh (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-BDNL3khJxHLXtDbDhaVzZ" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2010-01-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VvV7rnanVkDkUti2yxZFQv">
-          <date when="2010-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JBkcqK8BjD8qjBPYC4d7Z6" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YHVV11oHGfPbhn9mtP9EEv">
-          <date when="2010-02-09"/>
-          <time when="15:30:15" dur="PT269S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MzvxUPX3Uvjssorrv4STp4" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-02-09"/>
+          <time when="15:30:15" dur="PT269S"/>
         </correspAction>
         <correspContext corresp="i-YHVV11oHGfPbhn9mtP9EEv">
           <ref type="record" target="prot-200910--071">Riksdagens protokoll 2009/10:71 Tisdagen den 9 februari</ref>

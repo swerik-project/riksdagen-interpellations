@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-Q6c6PTb1KbongkKbS6VDAD</idno>
             <persName>Joakim Sandell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
+            <persName>Ebba Busch</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-9s9FvhZik8GnuW112r223m" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8hdHZuqgteNmFxiHfa98RQ">
-          <date when="2023-01-31"/>
-          <time when="19:11:28" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SGo285wzwhRGE8cvMyUg1G" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-01-31"/>
+          <time when="19:11:28" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-8hdHZuqgteNmFxiHfa98RQ">
           <ref type="record" target="prot-202223--054">Protokoll 2022/23:54 Tisdagen den 31 januari</ref>

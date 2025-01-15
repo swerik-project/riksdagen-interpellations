@@ -25,36 +25,22 @@
           <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
             <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
+              <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q213654">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-29SVdYqfPRqHYmP2JRmkCg" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8zd2ZPrXkmtxXwMywMW1Li">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8tuyFLL3y9xmFKhvfTj5uq" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-T4PeoKuqEcaJPRabdZbLNm">
-          <date when="2008-06-13"/>
-          <time when="11:08:37" dur="PT252S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-N25RK1XrSxu94uxVzYXjqe" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-06-13"/>
+          <time when="11:08:37" dur="PT252S"/>
         </correspAction>
         <correspContext corresp="i-T4PeoKuqEcaJPRabdZbLNm">
           <ref type="record" target="prot-200708--128">Riksdagens protokoll 2007/08:128 Fredagen den 13 juni</ref>

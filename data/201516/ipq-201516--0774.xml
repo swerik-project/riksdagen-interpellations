@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
             <persName>Ola Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-NJoztir1ucr7ZbVbW24zdF" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2016-09-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JDiMj9CZBPQX5stwDNLtRJ">
-          <date when="2016-09-15"/>
-          <time when="15:45:01" dur="PT261S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2iAqfg5hteV6VXuqgZsbms">
           <date when="2016-09-15"/>
+          <time when="15:45:01" dur="PT261S"/>
         </correspAction>
         <correspContext corresp="i-JDiMj9CZBPQX5stwDNLtRJ">
           <ref type="record" target="f-lista-201617--003">Torsdag den 15 september 2016</ref>

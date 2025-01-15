@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-LrUzoFZxM5nZG5Jdm382hS" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2008-09-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3RwjQF4TbDQBbUj7ar4LTj">
-          <date when="2008-09-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VoiY3xGFfvp5G9H77yDd6z" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-09-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3QcGyduYwpQnETetzshT9J">
-          <date when="2008-10-21"/>
-          <time when="14:25:52" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FBKw3D3PoUX7qhvuR2hSTR" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-10-21"/>
+          <time when="14:25:52" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-3QcGyduYwpQnETetzshT9J">
           <ref type="record" target="prot-200809--016">Riksdagens protokoll 2008/09:16 Tisdagen den 21 oktober</ref>

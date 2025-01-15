@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
             <persName>Jörgen Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-Usq9dzauXgpRKSmYVfc27a" corresp="i-AyN7HRP1y38PeQoLunJifb">
           <date when="2006-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UoVyJZ6rf333M1rZn255xm">
-          <date when="2006-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-ZYzaBUUL6z9RRYhxBn6Lg" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-11-10"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-22LYvNrbs5kUdAr4vZdcmm">
-          <date when="2006-11-17"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-JhJ1zMc8VKSwMkmR5w8Cby" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-11-17"/>

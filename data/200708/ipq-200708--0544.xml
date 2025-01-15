@@ -22,66 +22,45 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
-            <persName>Fredrik Reinfeldt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
+            <persName>Fredrik Reinfeldt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-426Wieoou3iFAwQ6PdVjor" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-03-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-P3ii9gtD7zmXKBV359DhLN">
-          <date when="2008-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9oJsEZZBohqjzesYbthxWj" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2008-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3wNi8Y7QrUocAs7MRXtZcv">
-          <date when="2008-04-22"/>
-          <time when="13:02:20" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QNqYaWnrU7ShoWbP4KkYZF" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2008-04-22"/>
+          <time when="13:02:20" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-3wNi8Y7QrUocAs7MRXtZcv">
           <ref type="record" target="prot-200708--100">Riksdagens protokoll 2007/08:100 Tisdagen den 22 april</ref>

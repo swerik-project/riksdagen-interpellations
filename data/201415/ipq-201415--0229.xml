@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-TifWqzmRuorK3zFDqAUZk8</idno>
             <persName>Sara Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
-            <persName>Statsrådet Aida Hadzialic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DjeBWa5GvkPtwGp5yfccUZ</idno>
             <persName>Aida Hadzialic</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-3wnZ6MRc4gqxahWZUJqYS5" corresp="i-DjeBWa5GvkPtwGp5yfccUZ">
           <date when="2015-01-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HSeDoCFnNi6r1Y7K4WRX2P">
-          <date when="2015-02-06"/>
-          <time when="09:01:14" dur="PT199S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WT7HmHVCSjVnqssK5aYXjW">
           <date when="2015-02-06"/>
+          <time when="09:01:14" dur="PT199S"/>
         </correspAction>
         <correspAction xml:id="i-4mYXxqF1RAbGCVGw8n8rpF" type="discussed" corresp="i-TifWqzmRuorK3zFDqAUZk8">
           <date when="2015-02-06"/>

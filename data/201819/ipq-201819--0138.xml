@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-NRb4HpaQ87qUwhLNcKt7Gz</idno>
             <persName>Annika Qarlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SQY7dunJfEXkt233g1K2is" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KSavN1VD4M8EuaKRS61dHg">
-          <date when="2019-03-29"/>
-          <time when="09:25:13" dur="PT136S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7t8y7BH6yDrBY9Qw67EhTg">
           <date when="2019-03-29"/>
+          <time when="09:25:13" dur="PT136S"/>
         </correspAction>
         <correspContext corresp="i-KSavN1VD4M8EuaKRS61dHg">
           <ref type="record" target="prot-201819--070">Protokoll 2018/19:70 Fredagen den 29 mars</ref>

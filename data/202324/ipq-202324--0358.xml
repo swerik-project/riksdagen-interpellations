@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-JPGVjXRUn351VFoQqW2dy7</idno>
+            <persName>Sofia Skönnbrink</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-JPGVjXRUn351VFoQqW2dy7</idno>
-            <persName>Sofia Skönnbrink</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-CEC1d6c3Hi8WDFbSYPZgmM" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2024-01-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q1RfcJ7YmCjXZZjDmXTAFW">
-          <date when="2024-01-30"/>
-          <time when="19:16:42" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TZSWiqERooWVk8zcJNVp3V">
           <date when="2024-01-30"/>
+          <time when="19:16:42" dur="PT173S"/>
         </correspAction>
         <correspContext corresp="i-Q1RfcJ7YmCjXZZjDmXTAFW">
           <ref type="record" target="prot-202324--062">Protokoll 2023/24:62 Tisdagen den 30 januari</ref>

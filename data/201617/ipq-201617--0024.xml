@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-C3gegh8nbxoVQhK1KC6m4X" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2016-09-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-V4rZqUZBKHnkpj3p7AYbN9">
-          <date when="2016-10-14"/>
-          <time when="09:22:51" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Sz6RDmxMNxM3VPCTnf6mNM">
           <date when="2016-10-14"/>
+          <time when="09:22:51" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-V4rZqUZBKHnkpj3p7AYbN9">
           <ref type="record" target="prot-201617--015">Protokoll 2016/17:15 Fredagen den 14 oktober</ref>

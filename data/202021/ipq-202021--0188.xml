@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-73o5S2z3dmzixAt7gzz34E</idno>
             <persName>Sofia Westergren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-4kPXALTNHeVahKAySiiydF" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2020-11-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WeqUzrXWQPtefDZLob5tax">
-          <date when="2021-01-12"/>
-          <time when="14:00:03" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-USZUPPCrEHDKEhMqQnXftQ" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2021-01-12"/>
+          <time when="14:00:03" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-WeqUzrXWQPtefDZLob5tax">
           <ref type="record" target="prot-202021--062">Protokoll 2020/21:62 Tisdagen den 12 januari</ref>

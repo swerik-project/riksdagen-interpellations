@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
+            <persName>Gunilla Carlsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
+            <persName>Bodil Valero</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-UJYUpeTQpwRHMNAxTTPpzC" corresp="i-34FRvyXQKUigF3Qr9AwKJe">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-65k9eFZF7AnoicyUEpA4BW">
-          <date when="2008-10-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-F3e7wBYp3zhvpNEZkJzvFQ" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AD7xU1co6cFydwuAKZUSWq">
-          <date when="2008-11-18"/>
-          <time when="15:27:35" dur="PT450S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T1zR7Rp9Pz6sr96sTEtrA6" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-11-18"/>
+          <time when="15:27:35" dur="PT450S"/>
         </correspAction>
         <correspContext corresp="i-AD7xU1co6cFydwuAKZUSWq">
           <ref type="record" target="prot-200809--030">Riksdagens protokoll 2008/09:30 Tisdagen den 18 november</ref>

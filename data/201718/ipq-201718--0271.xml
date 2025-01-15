@@ -24,67 +24,53 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-G9cpXThuSAP5KSY32ApDCj</idno>
             <persName>Ann-Britt Åsebol</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-17rLcHuXL7eT8W1nwmMH4h</idno>
             <persName>Sotiris Delis</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
+            <persName>Annika Strandhäll</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -99,12 +85,9 @@
         <correspAction type="received" xml:id="i-E1RSKK4ykNhHptYonLQ29N" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2017-12-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UTJGBgZT29P7ep13r4MonR">
-          <date when="2018-01-30"/>
-          <time when="13:26:56" dur="PT280S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3bwjL8zhhN7jt3xMi1tBhx" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2018-01-30"/>
+          <time when="13:26:56" dur="PT280S"/>
         </correspAction>
         <correspContext corresp="i-UTJGBgZT29P7ep13r4MonR">
           <ref type="record" target="prot-201718--063">Protokoll 2017/18:63 Tisdagen den 30 januari</ref>

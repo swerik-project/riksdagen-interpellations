@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-7AB63eqvrGXGCT1mpkEM3J</idno>
-            <persName>Louise Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7AB63eqvrGXGCT1mpkEM3J</idno>
-            <persName>Louise Malmström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Louise Malmström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3UPyEp69etmh2jB75UVb2a" corresp="i-7AB63eqvrGXGCT1mpkEM3J">
           <date when="2009-08-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QA9jNvzfGxTjT5CEPmKGLy">
-          <date when="2009-08-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RNa5cdCqYcmiTZHDtNADYG" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-08-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WfhVc4N6KFDUVN7zLixNLY">
-          <date when="2009-09-03"/>
-          <time when="14:15:52" dur="PT221S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SnSHKhukkbJd4ZiXZpvYBL" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-09-03"/>
+          <time when="14:15:52" dur="PT221S"/>
         </correspAction>
         <correspContext corresp="i-WfhVc4N6KFDUVN7zLixNLY">
           <ref type="record" target="prot-200809--140">Riksdagens protokoll 2008/09:140 Torsdagen den 3 september</ref>

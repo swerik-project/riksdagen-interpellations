@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Peter Eriksson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern om regeringens informationskampanj</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-KMGfCbMZ9gxDdTd5mVg7Gw" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="1997-10-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PNY6VgBjNSYkZVqf4X4ctd">
+        <correspAction type="received" xml:id="i-PNY6VgBjNSYkZVqf4X4ctd" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern om regeringens informationskampanj</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-89DA5hCTU7rp2wVXSPwJND">
           <note>Besvarad</note>

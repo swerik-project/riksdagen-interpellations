@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
-            <persName>Statsrådet Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Klimat- och miljöminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-SfPg4boq2RYRXorZdKmNHL" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2022-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-E3rSRUk3RUkRHzrwvYt339">
-          <date when="2022-02-01"/>
-          <time when="18:00:23" dur="PT269S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5cmmJCXffQjjpGKTKxZx5t" corresp="i-6eosMH8o1uMi1nCPvvh1tH">
           <date when="2022-02-01"/>
+          <time when="18:00:23" dur="PT269S"/>
         </correspAction>
         <correspContext corresp="i-E3rSRUk3RUkRHzrwvYt339">
           <ref type="record" target="prot-202122--062">Protokoll 2021/22:62 Tisdagen den 1 februari</ref>

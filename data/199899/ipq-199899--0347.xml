@@ -22,24 +22,28 @@
         <listPerson>
           <person gender="man">
             <persName>Johan Pehrson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8R8mWuwcK3yPNiQ59QnfU3" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LuLePqn7uaf6ZCsgiZcr5i">
+        <correspAction type="received" xml:id="i-LuLePqn7uaf6ZCsgiZcr5i" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-X9o1dsrBVJauvrrfn8WeAw">
           <note>Återtagen</note>

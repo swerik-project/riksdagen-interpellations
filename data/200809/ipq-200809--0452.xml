@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
-            <persName>Mikael Oscarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
-            <persName>Mikael Oscarsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-UT1ponddSVxoVpn779syr7</idno>
             <persName>Solveig Zander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
+            <persName>Mikael Oscarsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-DevVb97yeX6hSLFqezLgR6" corresp="i-Ybw8JnrmHGCsqpipBke8a7">
           <date when="2009-04-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MD6CC9bGVLFVYDCbWj5HJu">
-          <date when="2009-04-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-K2zaFAiLFrLZphumqRiY7D" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-04-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7ztrsS9nSf6uPwSf6gntkz">
-          <date when="2009-05-11"/>
-          <time when="11:52:56" dur="PT221S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SSvmv2DTYcTd59rwCDbkrr" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-05-11"/>
+          <time when="11:52:56" dur="PT221S"/>
         </correspAction>
         <correspContext corresp="i-7ztrsS9nSf6uPwSf6gntkz">
           <ref type="record" target="prot-200809--115">Riksdagens protokoll 2008/09:115 Måndagen den 11 maj</ref>

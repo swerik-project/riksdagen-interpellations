@@ -23,72 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-3GrPnM5KDKuSxfWxymYNoC</idno>
-            <persName>Mikaela Valtersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-3GrPnM5KDKuSxfWxymYNoC</idno>
-            <persName>Mikaela Valtersson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-3GrPnM5KDKuSxfWxymYNoC</idno>
+            <persName>Mikaela Valtersson</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-XXAdKMSqkeW56BdA18mk6f">
-          <date when="2008-12-12"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-EB1CPPJk5ER7Kak4Qmu2n3" corresp="i-3GrPnM5KDKuSxfWxymYNoC">
           <date when="2008-12-12"/>
         </correspAction>
         <correspAction type="received" xml:id="i-EcNYEmM3Nf9iqUxsCoBFY2" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-12-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4jmXT873tKqpeaMdCLyXEk">
-          <date when="2009-01-23"/>
-          <time when="13:25:32" dur="PT224S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6spd4N78k7HbgwTYrm8wpM" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-01-23"/>
+          <time when="13:25:32" dur="PT224S"/>
         </correspAction>
         <correspContext corresp="i-4jmXT873tKqpeaMdCLyXEk">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

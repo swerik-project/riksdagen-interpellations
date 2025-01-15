@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KGa34znP4SNkFTbwiVao8N</idno>
             <persName>Erik Ottoson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-BSUVQCrHCSB525s8x2dCey" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-02-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JgAFQMYGS9yUf8hj8tJv6n">
-          <date when="2019-02-26"/>
-          <time when="13:50:19" dur="PT157S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PzXo9i65zcMDNQqupPnZJq">
           <date when="2019-02-26"/>
+          <time when="13:50:19" dur="PT157S"/>
         </correspAction>
         <correspContext corresp="i-JgAFQMYGS9yUf8hj8tJv6n">
           <ref type="record" target="prot-201819--055">Protokoll 2018/19:55 Tisdagen den 26 februari</ref>

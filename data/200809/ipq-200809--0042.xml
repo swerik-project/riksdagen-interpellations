@@ -23,66 +23,45 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
-            <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LBN95MD8hn6zkXhRBcbJbB</idno>
             <persName>Lennart Hedquist (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FrTJne8fam41FasSB9mLUA</idno>
             <persName>Kerstin Engle (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
+            <persName>Gunvor G. Ericson</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-QD9oJCyp6iktyMcHgnNajV" corresp="i-7YbH6oTUwG4Qn94QEVE6as">
           <date when="2008-10-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Y8VQi8vAF3UXh4NxwEBZg9">
-          <date when="2008-10-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GVpKbQo8SugN4E3q3b4zBU" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-10-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Um1tvoDYTBachg9tML8zhH">
-          <date when="2008-10-28"/>
-          <time when="18:30:53" dur="PT340S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4Y78jPsbK2pWtnYKJmKS9p" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2008-10-28"/>
+          <time when="18:30:53" dur="PT340S"/>
         </correspAction>
         <correspContext corresp="i-Um1tvoDYTBachg9tML8zhH">
           <ref type="record" target="prot-200809--021">Riksdagens protokoll 2008/09:21 Tisdagen den 28 oktober</ref>

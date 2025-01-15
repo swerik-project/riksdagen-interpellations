@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
             <persName>Marléne Lund Kopparklint</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
-            <persName>Kultur- och demokratiminister Amanda Lind</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
-            <persName>Amanda Lind</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
+            <persName>Amanda Lind</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-LkY2GyPy3TraQXSpR6NxBX" corresp="i-PAgTpr3nkZRPEoiqjPKQAf">
           <date when="2021-09-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9vYF7QTf8T3vjav9BXodhK">
-          <date when="2021-09-09"/>
-          <time when="18:49:31" dur="PT120S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-rsxp6Ad6oDCSjLvSUwSBK">
           <date when="2021-09-09"/>
+          <time when="18:49:31" dur="PT120S"/>
         </correspAction>
         <correspAction xml:id="i-QMpQ5113wcSFEkMJHk3BG5" type="discussed" corresp="i-Ldb2oqPG98BReLEGLTqU4A">
           <date when="2021-09-09"/>

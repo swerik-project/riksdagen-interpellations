@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 Test numbered ip questions are in sequence.
+
+.. include:: docs/test_sequence.md
 """
 from glob import glob
 import os, unittest, warnings
@@ -21,6 +23,9 @@ class OutOfRange(Warning):
 class Test(unittest.TestCase):
 
     def test_sequence(self):
+        """
+        Question numbers are sequential
+        """
         years = os.listdir("data")
         years = [_ for _ in years if os.path.isdir(f"data/{_}")]
         cum_out = []

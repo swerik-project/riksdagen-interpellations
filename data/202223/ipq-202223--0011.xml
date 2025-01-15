@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
             <persName>Åsa Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-AbqHmE1M56Sb1eL3DnaJgw" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UhyCJZEQGCmrqCr9E4LZwP">
-          <date when="2022-11-15"/>
-          <time when="15:48:38" dur="PT167S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DuDGCmF3WSEyGySYwEZgG5">
           <date when="2022-11-15"/>
+          <time when="15:48:38" dur="PT167S"/>
         </correspAction>
         <correspContext corresp="i-UhyCJZEQGCmrqCr9E4LZwP">
           <ref type="record" target="prot-202223--020">Protokoll 2022/23:20 Tisdagen den 15 november</ref>

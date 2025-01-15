@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
             <persName>Ola Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FMLPJBTKDb47Qk8fLE5bQg" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MqE1RTmb7PE9PP93oyr4Gj">
-          <date when="2022-02-04"/>
-          <time when="12:57:50" dur="PT179S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2mnNBuPAnisewuc5L9QJ5v">
           <date when="2022-02-04"/>
+          <time when="12:57:50" dur="PT179S"/>
         </correspAction>
         <correspContext corresp="i-MqE1RTmb7PE9PP93oyr4Gj">
           <ref type="record" target="prot-202122--065">Protokoll 2021/22:65 Fredagen den 4 februari</ref>

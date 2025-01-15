@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-HUDPaYbHxWAFbdcQb5vcFr" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-03-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PoofJijNtL9A4b1aESBGgh">
-          <date when="2018-04-10"/>
-          <time when="15:20:55" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KqVcVUyFbqPud3C31BKfAA" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-04-10"/>
+          <time when="15:20:55" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-PoofJijNtL9A4b1aESBGgh">
           <ref type="record" target="prot-201718--094">Protokoll 2017/18:94 Tisdagen den 10 april</ref>

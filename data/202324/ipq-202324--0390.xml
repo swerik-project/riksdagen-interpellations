@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-ViJ12QcECKp5J4sEBkw5a2</idno>
             <persName>Sofie Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-38jBhirK3Q2WpsVMafAn24</idno>
             <persName>Hanna Westerén</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>TREDJE VICE TALMANNEN</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
+            <persName>Elisabeth Svantesson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-7wohL3jfubAkcc9xF1eC4E" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2024-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KjDETp5iN4TNAsvXJNxrNx">
-          <date when="2024-02-06"/>
-          <time when="18:27:45" dur="PT65S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SBca8WbbquaL9yd4uNYgxk">
           <date when="2024-02-06"/>
+          <time when="18:27:45" dur="PT65S"/>
         </correspAction>
         <correspContext corresp="i-KjDETp5iN4TNAsvXJNxrNx">
           <ref type="record" target="prot-202324--066">Protokoll 2023/24:66 Tisdagen den 6 februari</ref>

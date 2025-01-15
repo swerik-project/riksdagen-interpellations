@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Juan Fonseca (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-NCm71g5anUBUXFniX6Er3C</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknadsminis­tern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-MHADkaBFtMbM9CY6dgdKTM" corresp="i-NCm71g5anUBUXFniX6Er3C">
           <date when="1997-12-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7yw3Ltp1HKLPqVFzL9BEcB">
+        <correspAction type="received" xml:id="i-7yw3Ltp1HKLPqVFzL9BEcB" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknadsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PxcLdRdymb5o9iC2kFsZJ1">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MMmtH4256E6GvNHa2Qc6u9">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-MMmtH4256E6GvNHa2Qc6u9">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

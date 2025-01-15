@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-PSqvgwRvyF3YFf84oY2bv3" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-01-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q3MvZjVm6W5G1LzZzPd3iz">
-          <date when="2022-01-20"/>
-          <time when="15:18:30" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Y94KouT2X1zmfsLGzNqUD1">
           <date when="2022-01-20"/>
+          <time when="15:18:30" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-Q3MvZjVm6W5G1LzZzPd3iz">
           <ref type="record" target="prot-202122--056">Protokoll 2021/22:56 Torsdagen den 20 januari</ref>

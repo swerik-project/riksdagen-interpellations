@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-5MtUtXRaGo1aRQ1x5Ng3kc" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2018-04-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TgkzDhXqiQga7XrwR7i1jq">
-          <date when="2018-06-08"/>
-          <time when="10:49:25" dur="PT254S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-R4ajmcnwUNDUkeMxEWSMc3" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2018-06-08"/>
+          <time when="10:49:25" dur="PT254S"/>
         </correspAction>
         <correspContext corresp="i-TgkzDhXqiQga7XrwR7i1jq">
           <ref type="record" target="prot-201718--128">Protokoll 2017/18:128 Fredagen den 8 juni</ref>

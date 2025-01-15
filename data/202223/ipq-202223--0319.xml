@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-Swns2VJiq8mNPgw8cBRfJ9</idno>
             <persName>Jamal El-Haj</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VZMbJh5xNmAhaer3xVedkW" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WqYfk3S3ydy4fJnQcEzaP9">
-          <date when="2023-04-28"/>
-          <time when="12:03:02" dur="PT70S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6rVocK7fvK5YwMaS6eGKdf">
           <date when="2023-04-28"/>
+          <time when="12:03:02" dur="PT70S"/>
         </correspAction>
         <correspContext corresp="i-WqYfk3S3ydy4fJnQcEzaP9">
           <ref type="record" target="prot-202223--100">Protokoll 2022/23:100 Fredagen den 28 april</ref>

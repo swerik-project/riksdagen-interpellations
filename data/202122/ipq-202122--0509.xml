@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-LjpaL4XhPNoSZ44TkA9j3w</idno>
             <persName>Katja Nyberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
+              <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
+            <persName>Ludvig Aspling</persName>
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
-            <persName>Ludvig Aspling</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>SD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-LKhJ6qE8bn1U7SHNK3hJUT" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-05-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-W1scMN6bGK7rcNoLrwTSmY">
-          <date when="2022-06-28"/>
-          <time when="09:01:36" dur="PT242S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T1zkX1PD5oqohYV8hWjVZL" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-06-28"/>
+          <time when="09:01:36" dur="PT242S"/>
         </correspAction>
         <correspAction xml:id="i-ULa5AQqevooxAEHug8KsR3" type="discussed" corresp="i-LjpaL4XhPNoSZ44TkA9j3w">
           <date when="2022-06-28"/>

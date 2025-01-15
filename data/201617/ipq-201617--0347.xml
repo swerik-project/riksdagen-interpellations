@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NiuBLX8hzt3w2Uyev12Wbt</idno>
             <persName>Krister Hammarbergh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VpEBbWYRrjn92NY8TTwVRv" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2017-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FifL3cNHd5FakrcjLSFwx6">
-          <date when="2017-03-17"/>
-          <time when="09:53:08" dur="PT98S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Be1mNMHHEAGsRW6QAtd4fs">
           <date when="2017-03-17"/>
+          <time when="09:53:08" dur="PT98S"/>
         </correspAction>
         <correspContext corresp="i-FifL3cNHd5FakrcjLSFwx6">
           <ref type="record" target="prot-201617--082">Protokoll 2016/17:82 Fredagen den 17 mars</ref>

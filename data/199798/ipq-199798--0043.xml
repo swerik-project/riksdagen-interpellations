@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Hans Andersson (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Hans Andersson</persName>
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-QCRg2KTsg7cQV6CGsVeAfY</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknads­ministern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-3JWnzN7BxL8eJ3YtSC5DZH" corresp="i-QCRg2KTsg7cQV6CGsVeAfY">
           <date when="1997-10-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-X4nrrRHzyvvBy2h45zcuP5">
+        <correspAction type="received" xml:id="i-X4nrrRHzyvvBy2h45zcuP5" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknads­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-EcWiYu8RBktxLMxSA66HGb">
           <note>Besvarad</note>

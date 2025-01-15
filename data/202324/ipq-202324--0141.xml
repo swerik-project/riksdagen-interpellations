@@ -25,45 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8mQv5P6KHAoGEiUHhANB2Q</idno>
             <persName>Jonathan Svensson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Johan Pehrson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HpAiPdAaT8ibF3ZUVvyDdX</idno>
             <persName>Adrian Magnusson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-M2rNBQVSaqrQcUZQkmkCCX</idno>
             <persName>Serkan Köse</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-KbSqUP4Np9GdoB6nsmTM23" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Fm7szfMoeYcYUyS3Nw7jyH">
-          <date when="2023-11-28"/>
-          <time when="20:08:16" dur="PT142S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9w7yhgYGviXNGJQabRHSEm" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-11-28"/>
+          <time when="20:08:16" dur="PT142S"/>
         </correspAction>
         <correspContext corresp="i-Fm7szfMoeYcYUyS3Nw7jyH">
           <ref type="record" target="prot-202324--037">Protokoll 2023/24:37 Tisdagen den 28 november</ref>

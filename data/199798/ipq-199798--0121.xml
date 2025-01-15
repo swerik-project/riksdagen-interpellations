@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Henrik Landerholm (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-KppE1YHfdGUC31EQj8LDUt</idno>
           </person>
           <person gender="man">
-            <persName>försvarsmi­nistern</persName>
+            <persName>Thage G. Peterson</persName>
             <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <persName>Björn von Sydow</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-22qTs1EnEwJFtkFRE7Pn9Y" corresp="i-KppE1YHfdGUC31EQj8LDUt">
-          <date when="1997-01-20"/>
+          <date when="1998-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5YkuodsjKLtH5yWVRi87PF">
+        <correspAction type="received" xml:id="i-5YkuodsjKLtH5yWVRi87PF" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5YDouEzZ4ZMEZekhrR2eSr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9fkG5R2Y3PUaGX23EKZacy">
-          <date when="1997-02-19"/>
+          <date when="1998-02-19"/>
         </correspAction>
         <correspContext corresp="i-9fkG5R2Y3PUaGX23EKZacy">
           <ref type="record" target="prot-199798--070">Prot. 1997/98:70</ref>

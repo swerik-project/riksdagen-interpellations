@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
+            <persName>Elina Linna</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-2fDGwAYKAqvFfF8GQmjboK" corresp="i-WTCYyz27itjvuvffL1vZLi">
           <date when="2010-01-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Co2GkyzM1VEgo6RivTgmm">
-          <date when="2010-01-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8ZrFP9vsSsS6nswy5UYWzz" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-67syL4MYPGPuCattBYckJw">
-          <date when="2010-02-09"/>
-          <time when="18:31:03" dur="PT353S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XbrYXdYnWsDDcVdCRzgcLw" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-02-09"/>
+          <time when="18:31:03" dur="PT353S"/>
         </correspAction>
         <correspContext corresp="i-67syL4MYPGPuCattBYckJw">
           <ref type="record" target="prot-200910--071">Riksdagens protokoll 2009/10:71 Tisdagen den 9 februari</ref>

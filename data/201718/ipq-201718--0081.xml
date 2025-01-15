@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9Rr7JqtzHpZv84evqPH4D8</idno>
             <persName>Karin Enström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
+            <persName>Edward Riedl</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
-            <persName>Edward Riedl</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-Kofzfekdwo9U5LKLmCE6Qj" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2017-11-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AQYhKZYzNWkeNE3co5bm2V">
-          <date when="2018-02-01"/>
-          <time when="12:38:10" dur="PT111S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PdW5WpPqFvzZdrdzHx2uvL" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2018-02-01"/>
+          <time when="12:38:10" dur="PT111S"/>
         </correspAction>
         <correspAction xml:id="i-MmQL2GsXTAsKcvKWF5BJEj" type="discussed" corresp="i-9Rr7JqtzHpZv84evqPH4D8">
           <date when="2018-02-01"/>

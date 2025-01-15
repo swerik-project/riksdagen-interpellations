@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-STyFs6Gu3boin31eFp1bNM</idno>
-            <persName>Thomas Bodström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Thomas Bodström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-JRMt5r7HcxfDz3wJWQrvWF" corresp="i-STyFs6Gu3boin31eFp1bNM">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-P4xzPZp6Y7mTpQUuS7uTau">
-          <date when="2010-02-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-22pnde5rAsRfv6vHDuhSkZ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LRZxryLGskXXsASsaRXFD2">
-          <date when="2010-02-12"/>
-          <time when="09:25:47" dur="PT159S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4YdmdL2zRYR63bW6jS9uiC" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-02-12"/>
+          <time when="09:25:47" dur="PT159S"/>
         </correspAction>
         <correspContext corresp="i-LRZxryLGskXXsASsaRXFD2">
           <ref type="record" target="prot-200910--074">Riksdagens protokoll 2009/10:74 Fredagen den 12 februari</ref>

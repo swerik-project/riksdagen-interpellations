@@ -21,14 +21,19 @@
         <listPerson>
           <person gender="man">
             <persName>Göte Jonsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-TZikyr5QETx1Srqmhk827L</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Ingela Thalén</persName>
             <idno>i-5CGPntyQKYyZVCsCYHPNrm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +41,8 @@
         <correspAction type="sent" xml:id="i-MDDGEizjm3XwD7ZspjtGS7" corresp="i-TZikyr5QETx1Srqmhk827L">
           <date when="1996-10-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JPELz9uEfp6wKQdXzYy8wz">
+        <correspAction type="received" xml:id="i-JPELz9uEfp6wKQdXzYy8wz" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KCg3yRC9JPdpzVwW5nDXiE">
           <note>Besvarad</note>

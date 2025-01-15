@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-X81EkzVn1u1hPA9QZVeacQ" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2019-11-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-F5af8G6eugCgbWSKNceAZY">
-          <date when="2019-11-26"/>
-          <time when="14:01:02" dur="PT163S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JknKJRMoDXB6euFkTNtz6z" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-11-26"/>
+          <time when="14:01:02" dur="PT163S"/>
         </correspAction>
         <correspContext corresp="i-F5af8G6eugCgbWSKNceAZY">
           <ref type="record" target="prot-201920--038">Protokoll 2019/20:38 Tisdagen den 26 november</ref>

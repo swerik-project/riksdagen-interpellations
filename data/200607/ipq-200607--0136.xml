@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-HXbqFEyQ3cDBEvGisHaWzR</idno>
             <persName>Birgitta Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-A8cWLCcbwTmBjvy7m1qRRb" corresp="i-HXbqFEyQ3cDBEvGisHaWzR">
           <date when="2006-12-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WnLMGzfLjGYujifsHuhSXZ">
-          <date when="2006-12-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CNcs4PEWtSVKiWL6RpvLDV" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-12-07"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-8uKUVuueVAbwGAjMBug4Ps">
-          <date when="2006-12-21"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-Ccq2QLvaqXvknCLUiP3qFi" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2006-12-21"/>

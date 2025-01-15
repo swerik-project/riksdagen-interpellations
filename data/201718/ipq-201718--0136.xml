@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-W1SpeP85RXQTDYN2miQfXU</idno>
             <persName>Daniel Bäckström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6Y7QyEzZ7gFrVaMjjyMzXk</idno>
             <persName>Gunilla Svantorp</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-MKqYizFBHzz9F1Ey5NQGP7" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-11-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7iUewhr59zW5wtKJXhEJkh">
-          <date when="2017-11-24"/>
-          <time when="10:45:27" dur="PT41S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VAKSQzZbQf93AmomJtKuW3">
           <date when="2017-11-24"/>
+          <time when="10:45:27" dur="PT41S"/>
         </correspAction>
         <correspContext corresp="i-7iUewhr59zW5wtKJXhEJkh">
           <ref type="record" target="prot-201718--037">Protokoll 2017/18:37 Fredagen den 24 november</ref>

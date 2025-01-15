@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
             <persName>Mikael Oscarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-7P1Dwr2HygQj1NvC84iwcH" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2018-01-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9LoRxTjPSV2PSmmkU3ukEs">
-          <date when="2018-02-02"/>
-          <time when="09:29:46" dur="PT117S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SpaGzXnwhmdQoYwZGyAUro" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2018-02-02"/>
+          <time when="09:29:46" dur="PT117S"/>
         </correspAction>
         <correspContext corresp="i-9LoRxTjPSV2PSmmkU3ukEs">
           <ref type="record" target="prot-201718--066">Protokoll 2017/18:66 Fredagen den 2 februari</ref>

@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-5ZFvYGqAt58ARxiYtJEYLV</idno>
             <persName>Staffan Eklöf</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-YcFvhWN1iKzk8VSCmn2AtC" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-06-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J2apjqQt5CSBwnPzmPckoD">
-          <date when="2021-09-02"/>
-          <time when="13:25:07" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2vN3SAxd5wjG1GqsBtaG8W" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-09-02"/>
+          <time when="13:25:07" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-J2apjqQt5CSBwnPzmPckoD">
           <ref type="record" target="prot-202021--155">Protokoll 2020/21:155 Torsdagen den 2 september</ref>

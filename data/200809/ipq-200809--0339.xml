@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ann-Christin Ahlberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-CaS71JQ2hY46AUrEutuAx4" corresp="i-79cRBqVjCpwABr2BiKwH7S">
           <date when="2009-02-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-59ff9ZcnKpVDj5EbbjNzWx">
-          <date when="2009-02-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UChaGPdc4ysZfHniCyhmVS" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-79Yy4j1iESWBrWYPA435HM">
-          <date when="2009-04-03"/>
-          <time when="11:32:22" dur="PT247S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2wnK2XLnyuwUb6CGGaT82v" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-04-03"/>
+          <time when="11:32:22" dur="PT247S"/>
         </correspAction>
         <correspContext corresp="i-79Yy4j1iESWBrWYPA435HM">
           <ref type="record" target="prot-200809--097">Riksdagens protokoll 2008/09:97 Fredagen den 3 april</ref>

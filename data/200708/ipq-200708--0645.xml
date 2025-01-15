@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
-            <persName>Anne-Marie Pålsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
-            <persName>Anne-Marie Pålsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-GiQwAM9FyCfg9tMbUzoEAg</idno>
             <persName>Göran Montan (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
+            <persName>Gunilla Carlsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UmhVhzFM3Rs65aFjMTgRvj</idno>
+            <persName>Anne-Marie Pålsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-H21khJymFi5AE2jD5QJ5W3" corresp="i-UmhVhzFM3Rs65aFjMTgRvj">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MCMaGWPnhURn7pWEnn7jYg">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-G8sv637kYkXjx27WktCn5L" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DmwBbzYDVyciykxffr1YFh">
-          <date when="2008-05-19"/>
-          <time when="11:32:05" dur="PT374S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GKiZgt6JtF1eMmQi5Astix" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2008-05-19"/>
+          <time when="11:32:05" dur="PT374S"/>
         </correspAction>
         <correspContext corresp="i-DmwBbzYDVyciykxffr1YFh">
           <ref type="record" target="prot-200708--114">Riksdagens protokoll 2007/08:114 Måndagen den 19 maj</ref>

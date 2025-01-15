@@ -23,58 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state ref="Q110857" type="partyAffiliation">
+              <desc>FP</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KCyyRs9HnkQhss61gii5F7</idno>
             <persName>Fredrik Lundh Sammeli</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KCyyRs9HnkQhss61gii5F7</idno>
-            <persName>Fredrik Lundh Sammeli (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-6w1HnKJ328nkN3HDXcoxGk">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FW4iW87P3g8Axi9aZEXshG" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2010-05-21"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-SGjQwJ7HwgHLCrhCTVif2" corresp="i-KCyyRs9HnkQhss61gii5F7">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AQWsNh6tKPbhoYHAhddDg4">
-          <date when="2010-06-07"/>
-          <time when="12:37:40" dur="PT177S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UXUPDajzvumjT17kh8mqS3" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-06-07"/>
+          <time when="12:37:40" dur="PT177S"/>
         </correspAction>
         <correspContext corresp="i-AQWsNh6tKPbhoYHAhddDg4">
           <ref type="record" target="prot-200910--133">Riksdagens protokoll 2009/10:133 Måndagen den 7 juni</ref>

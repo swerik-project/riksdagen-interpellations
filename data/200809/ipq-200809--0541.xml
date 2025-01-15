@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Bosse Ringholm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9AssAG39zuBpUpRNAkACYf" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ruq1K8inQNbYY3HLDvYv29">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Q4kaxRJf7BbC9Tq4rcjpi9" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U75TnK1kvUGUUEyBCZcAr7">
-          <date when="2009-06-18"/>
-          <time when="13:18:34" dur="PT198S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XcF4V7hjJba9PQCeR7DEa1" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-06-18"/>
+          <time when="13:18:34" dur="PT198S"/>
         </correspAction>
         <correspContext corresp="i-U75TnK1kvUGUUEyBCZcAr7">
           <ref type="record" target="prot-200809--135">Riksdagens protokoll 2008/09:135 Torsdagen den 18 juni</ref>

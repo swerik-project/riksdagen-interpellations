@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Jasenko Omanović</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-A7eLXsyGA74rqV1MCd4apS" corresp="i-AqkTDdERRgq7MWP7ajMpZo">
           <date when="2008-05-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LEg72id4FNHxpf2juJ3MAP">
-          <date when="2008-05-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BawHNawPvcVPe9yZjfvi44" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-38M6X89PhrQtwRxfCPLsJb">
-          <date when="2008-05-16"/>
-          <time when="09:34:15" dur="PT187S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NVUny46qf8PvEc6muXp6K5" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-16"/>
+          <time when="09:34:15" dur="PT187S"/>
         </correspAction>
         <correspContext corresp="i-38M6X89PhrQtwRxfCPLsJb">
           <ref type="record" target="prot-200708--113">Riksdagens protokoll 2007/08:113 Fredagen den 16 maj</ref>

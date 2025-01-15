@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
-            <persName>Ann-Kristine Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
-            <persName>Ann-Kristine Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-JfXS8EFEqMfBiyryszrVvW</idno>
+            <persName>Ann-Kristine Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-JToELsA25XraXdNqxP4AkF" corresp="i-JfXS8EFEqMfBiyryszrVvW">
           <date when="2007-05-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AYEgZzrpUWdC4mQzuxxmhp">
-          <date when="2007-05-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JRrnckgKYCtdxe63VVGcWL" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2007-05-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SykwWsbANuXRUUGZG36KuW">
-          <date when="2007-06-15"/>
-          <time when="13:58:16" dur="PT366S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Bnju5nJH9ofMhUiYPAdo4b" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2007-06-15"/>
+          <time when="13:58:16" dur="PT366S"/>
         </correspAction>
         <correspContext corresp="i-SykwWsbANuXRUUGZG36KuW">
           <ref type="record" target="prot-200607--127">Riksdagens protokoll 2006/07:127 Fredagen den 15 juni</ref>

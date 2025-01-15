@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5sQf8wA27pVo43qpEZ2jUa</idno>
             <persName>David Josefsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-CVYoQwPnL35AYuSP8aH25Y" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2020-12-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TN1TceL85m5ZpDwTdZhpe1">
-          <date when="2021-01-15"/>
-          <time when="09:56:52" dur="PT135S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Kr2eqA1P8MWBY1g95oWhJX" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-01-15"/>
+          <time when="09:56:52" dur="PT135S"/>
         </correspAction>
         <correspContext corresp="i-TN1TceL85m5ZpDwTdZhpe1">
           <ref type="record" target="prot-202021--065">Protokoll 2020/21:65 Fredagen den 15 januari</ref>

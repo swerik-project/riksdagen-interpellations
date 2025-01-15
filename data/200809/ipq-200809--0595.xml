@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-61T3MZCAWegcd4eqD85nTE" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2009-08-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VCoD6x7LuqMUSyzfLy1ZrJ">
-          <date when="2009-09-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5QSHWP7CrseEpKKWHdyNrq" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-09-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Cb9Fcez2JXmu6fX7WPcBVV">
-          <date when="2009-09-03"/>
-          <time when="15:44:42" dur="PT153S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MdbJtsQdGaUcok8bZr1Z81" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-09-03"/>
+          <time when="15:44:42" dur="PT153S"/>
         </correspAction>
         <correspContext corresp="i-Cb9Fcez2JXmu6fX7WPcBVV">
           <ref type="record" target="prot-200809--140">Riksdagens protokoll 2008/09:140 Torsdagen den 3 september</ref>

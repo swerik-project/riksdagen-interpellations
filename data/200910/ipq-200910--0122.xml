@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-2ctP9ALTbn8ZyNWwCHYPSv" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2009-11-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-X8qkhJg9iQ8t8ryJe2FCR9">
-          <date when="2009-11-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UqgWMZPkSJcR2JgwNmcf3a" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-11-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SJLYHuW8ZuNz3KcUtquBaA">
-          <date when="2009-12-04"/>
-          <time when="11:29:35" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KfUAeKf9GnrgpD9PPWynAF" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-12-04"/>
+          <time when="11:29:35" dur="PT228S"/>
         </correspAction>
         <correspContext corresp="i-SJLYHuW8ZuNz3KcUtquBaA">
           <ref type="record" target="prot-200910--043">Riksdagens protokoll 2009/10:43 Fredagen den 4 december</ref>

@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
-            <persName>Statsrådet Heléne Fritzon</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
-            <persName>Statsrådet Heléne Fritzon</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
             <persName>Heléne Fritzon</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-PRmavjXZAQ7s5pFxv5Mpyo" corresp="i-7M6cUJxC6g2gyqHr59NnJQ">
           <date when="2017-11-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DajQ8FELsNZpJK3oLiCtcP">
-          <date when="2017-11-28"/>
-          <time when="18:23:59" dur="PT162S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NPH9cWgp7FyjvDArANQ9zK" corresp="i-7M6cUJxC6g2gyqHr59NnJQ">
           <date when="2017-11-28"/>
+          <time when="18:23:59" dur="PT162S"/>
         </correspAction>
         <correspContext corresp="i-DajQ8FELsNZpJK3oLiCtcP">
           <ref type="record" target="prot-201718--038">Protokoll 2017/18:38 Tisdagen den 28 november</ref>

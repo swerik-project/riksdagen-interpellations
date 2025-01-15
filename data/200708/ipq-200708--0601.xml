@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
-            <persName>Amineh Kakabaveh (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Amineh Kakabaveh</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5rtLdTTXzGgZQ8o5RLiNCQ" corresp="i-548HUVvKe8n48M3pQmFeUC">
           <date when="2008-04-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-J8GKfsHB84yD8PrhdqEBcP">
-          <date when="2008-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CHLSthdbGUvouLBLfUx1RE" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MwbWNpMFMxf93PhWidxZdy">
-          <date when="2008-05-09"/>
-          <time when="15:50:53" dur="PT352S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DX13bvcbuK4RiuGbhSsLgT" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-05-09"/>
+          <time when="15:50:53" dur="PT352S"/>
         </correspAction>
         <correspContext corresp="i-MwbWNpMFMxf93PhWidxZdy">
           <ref type="record" target="prot-200708--108">Riksdagens protokoll 2007/08:108 Fredagen den 9 maj</ref>

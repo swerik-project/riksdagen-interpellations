@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-VFaAexqzCaq9JmKCfc1WJ9</idno>
             <persName>Julia Kronlid</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-DseAX2z2ZzXoN1AquKvaDC</idno>
             <persName>Anders Österberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
+            <persName>Isabella Lövin</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-F5QXAHTeXeAj4PoymgWaTZ" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2018-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EU1iL3A9yMFkXXGW5NcCwF">
-          <date when="2018-03-23"/>
-          <time when="09:01:52" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FLLDwyfgoqaiqDARopLVFe" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2018-03-23"/>
+          <time when="09:01:52" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-EU1iL3A9yMFkXXGW5NcCwF">
           <ref type="record" target="prot-201718--090">Protokoll 2017/18:90 Fredagen den 23 mars</ref>

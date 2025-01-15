@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-EXYVYkPKCfs39TA7VdUqhQ" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2008-11-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PSZn6ZWDjtCc6E7t6zCcCf">
-          <date when="2008-11-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8QTbbyxWA7nHdkZMFbZahC" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-11-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-66dTzoTBe25sHtvVBRgxxc">
-          <date when="2008-11-24"/>
-          <time when="12:35:22" dur="PT221S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UZtQxiBZ8Vv274fmG4s5qD" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-11-24"/>
+          <time when="12:35:22" dur="PT221S"/>
         </correspAction>
         <correspContext corresp="i-66dTzoTBe25sHtvVBRgxxc">
           <ref type="record" target="prot-200809--034">Riksdagens protokoll 2008/09:34 Måndagen den 24 november</ref>

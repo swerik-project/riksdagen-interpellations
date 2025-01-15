@@ -25,35 +25,35 @@
           <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
             <persName>Jacob Johnson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
             <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
+            <persName>Jacob Johnson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-X1Bikdhjquxq3B9toQzHAk" corresp="i-CNBy5dFgNNyEozHVpAj93c">
           <date when="2009-09-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GUiRmU5PTW4wvyCvGsLm8k">
-          <date when="2009-09-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QXuLm34QV1GTLKhx6H1qjJ" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-09-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-P7mk52Egwvh6BdZCKmDYVY">
-          <date when="2009-10-23"/>
-          <time when="10:38:54" dur="PT435S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Nvq4yjR7FVBPEo6fkkqkPF" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-10-23"/>
+          <time when="10:38:54" dur="PT435S"/>
         </correspAction>
         <correspContext corresp="i-P7mk52Egwvh6BdZCKmDYVY">
           <ref type="record" target="prot-200910--020">Riksdagens protokoll 2009/10:20 Fredagen den 23 oktober</ref>

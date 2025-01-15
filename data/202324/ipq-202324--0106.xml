@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-VtL6eVhFJQ7gVMWPiwrRHX" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UbRVR7o2o9oHrCGuMQoiuH">
-          <date when="2023-11-10"/>
-          <time when="10:15:19" dur="PT167S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BAT1hsjGvZywYEpE4XfHTG" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-11-10"/>
+          <time when="10:15:19" dur="PT167S"/>
         </correspAction>
         <correspContext corresp="i-UbRVR7o2o9oHrCGuMQoiuH">
           <ref type="record" target="prot-202324--028">Protokoll 2023/24:28 Fredagen den 10 november</ref>

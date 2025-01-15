@@ -22,67 +22,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
-            <persName>Marie Nordén</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
-            <persName>Marie Nordén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
             <persName>Leif Pettersson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-RZNwwHohbyBgLVVG4Dy1Bj</idno>
             <persName>Carin Runeson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
             <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NiuBLX8hzt3w2Uyev12Wbt</idno>
             <persName>Krister Hammarbergh (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
+            <persName>Marie Nordén</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +70,12 @@
         <correspAction type="sent" xml:id="i-Vq8D2XnoGsT5S5Tk8e7pXx" corresp="i-6gEtTPavyMJxxUX6JZn9LW">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DkTSxKiXG1W2b4SBzs5c3p">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Py66FjYXxBPrSi4G5avxYL" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RQUeEJmkku2pxGgFAkzE9K">
-          <date when="2008-06-03"/>
-          <time when="10:17:06" dur="PT107S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q2rnFBJqrKGCXX7EAKBxrm" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-06-03"/>
+          <time when="10:17:06" dur="PT107S"/>
         </correspAction>
         <correspContext corresp="i-RQUeEJmkku2pxGgFAkzE9K">
           <ref type="record" target="prot-200708--121">Riksdagens protokoll 2007/08:121 Tisdagen den 3 juni</ref>

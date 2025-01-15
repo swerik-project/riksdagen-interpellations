@@ -22,66 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
-            <persName>Lena Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
-            <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-U5MhCo51MGLLY94GAGJZhY</idno>
             <persName>Johan Linander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
+            <persName>Lena Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-38dGTTjvQU7mtS2LQN7wKd">
-          <date when="2010-03-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5zwjro6S8KupPSd84TaXXX" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-03-19"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-Cjm4aNsTHfXpH1AK1UYZ5t" corresp="i-6MWLY5JdykMGLLUo96skfp">
           <date when="2010-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5SsbcTczTbscMoyBHFigeh">
-          <date when="2010-04-09"/>
-          <time when="09:01:11" dur="PT258S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-85a5u5H5rAhi46VEqjN4Rk" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-04-09"/>
+          <time when="09:01:11" dur="PT258S"/>
         </correspAction>
         <correspContext corresp="i-5SsbcTczTbscMoyBHFigeh">
           <ref type="record" target="prot-200910--101">Riksdagens protokoll 2009/10:101 Fredagen den 9 april</ref>

@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
             <persName>Åsa Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Wu4Kbpd4atMQHkjpPLiRyv" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-11-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8yhMczZDwWrAGBWPtBCzJT">
-          <date when="2023-12-20"/>
-          <time when="21:39:28" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7YopPMD5ND4WCE2NajHF2f" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-12-20"/>
+          <time when="21:39:28" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-8yhMczZDwWrAGBWPtBCzJT">
           <ref type="record" target="prot-202324--053">Protokoll 2023/24:53 Onsdagen den 20 december</ref>

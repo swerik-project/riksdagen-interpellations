@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-521Zc6QjUkmrvLztbm3Jvc" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6cs83JqJVAGKmQ2WcAYcFW">
-          <date when="2008-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-USPkReUXjEEr3b6JsBa8Dp" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KSuefURUwKwz3fe8HAAAMr">
-          <date when="2008-05-12"/>
-          <time when="13:59:32" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RrYwouMhCbYnL5tenJvabd" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-05-12"/>
+          <time when="13:59:32" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-KSuefURUwKwz3fe8HAAAMr">
           <ref type="record" target="prot-200708--109">Riksdagens protokoll 2007/08:109 Måndagen den 12 maj</ref>

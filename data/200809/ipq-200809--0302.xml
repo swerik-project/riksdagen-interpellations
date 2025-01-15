@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RuVeHFjBEkSDZcGm9uQRze" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7pUEvvXhmpuZH1X2QKrLVH">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TNL6vPpYeW5HktijS2caT3" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PVXhfdpsSrkDahMEw926ee">
-          <date when="2009-04-03"/>
-          <time when="10:07:44" dur="PT186S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TTwLXG5tcDurWNNzSrxN8S" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-04-03"/>
+          <time when="10:07:44" dur="PT186S"/>
         </correspAction>
         <correspContext corresp="i-PVXhfdpsSrkDahMEw926ee">
           <ref type="record" target="prot-200809--097">Riksdagens protokoll 2008/09:97 Fredagen den 3 april</ref>

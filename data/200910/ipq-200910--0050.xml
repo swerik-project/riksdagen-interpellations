@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisings Backa</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisin (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Ty8QCuVFBPKpfBLfr6zVqn</idno>
             <persName>Berit Högman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-U6F8gqiuV2DEZN1aMhyDnJ</idno>
             <persName>Christer Nylander (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
+            <persName>Gunilla Carlsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Hu6smaWzsJjB5bxgVNV33Q" corresp="i-HNZrYrLbstv8KywRLm2FMv">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CCqtu6ubS45WUtNPyxz3wK">
-          <date when="2009-10-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MtLrLKxK3UrotJHqxYYxQy" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BZdGq8dzrhWHmRGjXRSbrq">
-          <date when="2009-11-24"/>
-          <time when="13:41:34" dur="PT297S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BWTVbkq9QVWKWEwNostsgm" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-11-24"/>
+          <time when="13:41:34" dur="PT297S"/>
         </correspAction>
         <correspContext corresp="i-BZdGq8dzrhWHmRGjXRSbrq">
           <ref type="record" target="prot-200910--036">Riksdagens protokoll 2009/10:36 Tisdagen den 24 november</ref>

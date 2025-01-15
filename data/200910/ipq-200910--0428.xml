@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UojdP4mF9dqkxf3QQ9oPFe</idno>
-            <persName>Håkan Juholt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UojdP4mF9dqkxf3QQ9oPFe</idno>
-            <persName>Håkan Juholt (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Håkan Juholt</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-TbEtxmrbc7UcsdxTwgSi4m" corresp="i-UojdP4mF9dqkxf3QQ9oPFe">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Lm6dteMo4CTMtwzQZYz8Ax">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QvS6MrL1QQfVbTTkMJFwkz" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FdQwMvMsvRqrqyVb1JgLTq">
-          <date when="2010-06-04"/>
-          <time when="12:58:57" dur="PT252S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9zeV5LFpUyer9PxeL5jum" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2010-06-04"/>
+          <time when="12:58:57" dur="PT252S"/>
         </correspAction>
         <correspContext corresp="i-FdQwMvMsvRqrqyVb1JgLTq">
           <ref type="record" target="prot-200910--132">Riksdagens protokoll 2009/10:132 Fredagen den 4 juni</ref>

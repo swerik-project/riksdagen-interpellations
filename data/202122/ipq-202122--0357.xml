@@ -25,44 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-JP8NeL17uoQgDiTaxrGnVM</idno>
-            <persName>Jonas Andersson i Linghem</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
+            <persName>Pontus Andersson</persName>
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-JP8NeL17uoQgDiTaxrGnVM</idno>
             <persName>Jonas Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
-            <persName>Pontus Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
@@ -78,12 +57,9 @@
         <correspAction type="received" xml:id="i-B4vAbHKFDXW8kpJpvmPn7d" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-02-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LN9a1trAcHRQiFBxn85JZo">
-          <date when="2022-03-15"/>
-          <time when="19:03:13" dur="PT246S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9judeCYVba7Mdo3KNVri3R" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-03-15"/>
+          <time when="19:03:13" dur="PT246S"/>
         </correspAction>
         <correspContext corresp="i-LN9a1trAcHRQiFBxn85JZo">
           <ref type="record" target="prot-202122--081">Protokoll 2021/22:81 Tisdagen den 15 mars</ref>

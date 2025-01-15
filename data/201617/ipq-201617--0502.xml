@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-S8nEC9Lt6D4hFBgjY1JMkR" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2017-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BVg9EJzEojrYCf9M9Vh6X3">
-          <date when="2017-05-29"/>
-          <time when="11:16:52" dur="PT100S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5GF2eVTPV5nLWw3XGiEyuL" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2017-05-29"/>
+          <time when="11:16:52" dur="PT100S"/>
         </correspAction>
         <correspContext corresp="i-BVg9EJzEojrYCf9M9Vh6X3">
           <ref type="record" target="prot-201617--115">Protokoll 2016/17:115 Måndagen den 29 maj</ref>

@@ -25,43 +25,29 @@
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
             <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
             <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-TAxmwNQEeybyLnRsxd1hnZ" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2010-05-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9GqXyCXyzP1uCoX9mybPqm">
-          <date when="2010-05-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HkAVpMkAE42fdvWGvq9KYb" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2010-05-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GvzZw79nsypk55XK54t4dD">
-          <date when="2010-06-04"/>
-          <time when="12:09:18" dur="PT188S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Eh3HZMgMksTTZaU86Cn8Fc" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2010-06-04"/>
+          <time when="12:09:18" dur="PT188S"/>
         </correspAction>
         <correspContext corresp="i-GvzZw79nsypk55XK54t4dD">
           <ref type="record" target="prot-200910--132">Riksdagens protokoll 2009/10:132 Fredagen den 4 juni</ref>

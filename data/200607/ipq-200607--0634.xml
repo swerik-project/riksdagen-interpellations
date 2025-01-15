@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
-            <persName>Göran Lindblad</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KdNZEf7wb1MAJv58QEHYrr</idno>
-            <persName>Göran Lindblad (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Göran Lindblad</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Ku9KZQBsQ9N6SvFoee1YQc" corresp="i-KdNZEf7wb1MAJv58QEHYrr">
           <date when="2007-05-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-98MnESVt7gvkrWGTR5tJTb">
-          <date when="2007-05-31"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-L5am8Dj8ZGjxwyHEtuKuVC" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-05-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VHDG87GiEYRFhn28ronb2V">
-          <date when="2007-06-15"/>
-          <time when="12:05:16" dur="PT443S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MyGUCDuNYGEYoeg1vVAVuw" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2007-06-15"/>
+          <time when="12:05:16" dur="PT443S"/>
         </correspAction>
         <correspContext corresp="i-VHDG87GiEYRFhn28ronb2V">
           <ref type="record" target="prot-200607--127">Riksdagens protokoll 2006/07:127 Fredagen den 15 juni</ref>

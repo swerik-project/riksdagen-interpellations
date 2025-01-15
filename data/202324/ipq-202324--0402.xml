@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-CUTJJgAGx5ob6YXU1BcjVG</idno>
             <persName>Denis Begic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-9SEx1RLaMeCPym9BNWcW1T" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2024-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4JboeRNiCziK2PR32cRqJM">
-          <date when="2024-02-08"/>
-          <time when="15:24:29" dur="PT152S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Gu1ykqBmEiETRsE6zsFssV">
           <date when="2024-02-08"/>
+          <time when="15:24:29" dur="PT152S"/>
         </correspAction>
         <correspContext corresp="i-4JboeRNiCziK2PR32cRqJM">
           <ref type="record" target="prot-202324--068">Protokoll 2023/24:68 Torsdagen den 8 februari</ref>

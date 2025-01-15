@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
             <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-4uCvS2pF3qbQ246QAYXKCT" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-01-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-25HZ3N1mYFCyrRNoSEG61z">
-          <date when="2007-01-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-L4kJgKiY2h1JCupfR65nwp" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-01-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MFMcoeT4bCNqnZdhyLu23B">
-          <date when="2007-02-02"/>
-          <time when="11:17:22" dur="PT234S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HbDB9V16PGzdQx2zxJgWka" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-02-02"/>
+          <time when="11:17:22" dur="PT234S"/>
         </correspAction>
         <correspContext corresp="i-MFMcoeT4bCNqnZdhyLu23B">
           <ref type="record" target="prot-200607--058">Riksdagens protokoll 2006/07:58 Fredagen den 2 februari</ref>

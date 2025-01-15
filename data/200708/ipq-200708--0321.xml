@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
-            <persName>Berit Andnor</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LdbVtbdPx3MQxR6GEgCqax</idno>
-            <persName>Berit Andnor (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Berit Andnor</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RwiSnZe26bF1NjzaqMZXp7" corresp="i-LdbVtbdPx3MQxR6GEgCqax">
           <date when="2008-01-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8zYPJoFFnMedoMWJnJ4mQS">
-          <date when="2008-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UjTQuDvg1qLAmGTCJxrUVj" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FGLG4bYbxZ3AFE4zofJkgg">
-          <date when="2008-01-29"/>
-          <time when="14:38:43" dur="PT125S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XifVT5df8odJovkr6wzUYV" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-01-29"/>
+          <time when="14:38:43" dur="PT125S"/>
         </correspAction>
         <correspContext corresp="i-FGLG4bYbxZ3AFE4zofJkgg">
           <ref type="record" target="prot-200708--059">Riksdagens protokoll 2007/08:59 Tisdagen den 29 januari</ref>

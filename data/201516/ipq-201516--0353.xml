@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Försvarsminister Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-A5CFnihN1DXdKD7uWTXBeu" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2016-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DBu5Azu79MUf7vNQQ9YCY7">
-          <date when="2016-02-09"/>
-          <time when="13:35:53" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-L44nFqpBK7H5LyvfpyLJ24">
           <date when="2016-02-09"/>
+          <time when="13:35:53" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-DBu5Azu79MUf7vNQQ9YCY7">
           <ref type="record" target="prot-201516--064">Protokoll 2015/16:64 Tisdagen den 9 februari</ref>

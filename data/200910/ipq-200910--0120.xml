@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KNqtzTyLq88RopWq6R35xs</idno>
             <persName>Ronny Olander (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MGs2jd2pNs8zvRaeYPLwcR</idno>
             <persName>Inge Garstedt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-QKZgPTaGx62UugvESbY7tC" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JyN993foHSiCooSvG71Vty">
-          <date when="2009-11-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-W1XoQgjUno8ob75HFomms2" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RZtw9c8dBMVsioSQxoF1wa">
-          <date when="2010-01-19"/>
-          <time when="14:04:55" dur="PT176S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TTPk73RBNTerKQAYtpoA28" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-01-19"/>
+          <time when="14:04:55" dur="PT176S"/>
         </correspAction>
         <correspContext corresp="i-RZtw9c8dBMVsioSQxoF1wa">
           <ref type="record" target="prot-200910--058">Riksdagens protokoll 2009/10:58 Tisdagen den 19 januari</ref>

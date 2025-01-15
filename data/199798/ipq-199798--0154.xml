@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Erling Bager (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NLfT4RS4huMCGpWx1zB8Ag</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-49ZKqXJyQDWPGGMQcHr7Fv" corresp="i-NLfT4RS4huMCGpWx1zB8Ag">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3FMp5hppnx44Bu2YVmQHb5">
+        <correspAction type="received" xml:id="i-3FMp5hppnx44Bu2YVmQHb5" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-HZYKZmoKCLNsVSe6RgH8Qd">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-4uGzrVJn9tLXAnbdNSxgQr">
-          <date when="1997-02-17"/>
+          <date when="1998-02-17"/>
         </correspAction>
         <correspContext corresp="i-4uGzrVJn9tLXAnbdNSxgQr">
           <ref type="record" target="prot-199798--068">Prot. 1997/98:68</ref>

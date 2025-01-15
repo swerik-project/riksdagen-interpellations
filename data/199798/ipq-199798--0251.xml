@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Göte Jonsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-TZikyr5QETx1Srqmhk827L</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-X7fMgZR1UGNSpKLCYwdED8" corresp="i-TZikyr5QETx1Srqmhk827L">
-          <date when="1997-04-06"/>
+          <date when="1998-04-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XiZiY5vHJ6CsV2T7XUS4od">
+        <correspAction type="received" xml:id="i-XiZiY5vHJ6CsV2T7XUS4od" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-RdM2uV2aHAzA7dvhNCi7cL">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-4UgJqcjhwYTjgT4nCcYnXu">
-          <date when="1997-04-28"/>
+          <date when="1998-04-28"/>
         </correspAction>
         <correspContext corresp="i-4UgJqcjhwYTjgT4nCcYnXu">
           <ref type="record" target="prot-199798--098">Prot. 1997/98:98</ref>

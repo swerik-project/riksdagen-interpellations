@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-KtyCVjEboFuc8XSgH8ugab" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2010-03-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MYJyydnjoPru7j3ZVxPS2g">
-          <date when="2010-03-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Eh1WRy18ZrwbJik1n9Kefc" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EHw32wuQXoZx2ddSxCxEt4">
-          <date when="2010-04-23"/>
-          <time when="09:52:43" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EgcgJGfjgpdXoCXbiKqCYp" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-04-23"/>
+          <time when="09:52:43" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-EHw32wuQXoZx2ddSxCxEt4">
           <ref type="record" target="prot-200910--109">Riksdagens protokoll 2009/10:109 Fredagen den 23 april</ref>

@@ -24,38 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
+            <persName>Lotta Edholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-VXuGdPhbJPomzjAC1L1NAj" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-02-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JzNvBggUSGUyh6x93Md7to">
-          <date when="2023-02-21"/>
-          <time when="14:58:36" dur="PT149S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JvQke1mz6iqZQQFnewJaUX" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2023-02-21"/>
+          <time when="14:58:36" dur="PT149S"/>
         </correspAction>
         <correspContext corresp="i-JzNvBggUSGUyh6x93Md7to">
           <ref type="record" target="prot-202223--066">Protokoll 2022/23:66 Tisdagen den 21 februari</ref>

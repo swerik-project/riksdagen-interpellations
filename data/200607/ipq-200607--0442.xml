@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
-            <persName>Leif Pettersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
-            <persName>Leif Pettersson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5CH7vHLGXLfDB5Tn7xx95V</idno>
             <persName>Siv Holma (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HRPpQ8qPTSDiXRLMZkqL1u</idno>
             <persName>Mats Johansson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
+            <persName>Leif Pettersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-R2iccioSCJQBdp4eVRBjHG" corresp="i-SvS8rTwUeKpVtp5mrPNCaP">
           <date when="2007-03-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G4py3pnVP3LKrCVBooRDn5">
-          <date when="2007-03-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5apHcScbsmDQ4y3KJsy2PL" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-03-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TCS3npgkh66hoAvcYVQHKr">
-          <date when="2007-04-13"/>
-          <time when="11:04:48" dur="PT309S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9wxG9ymvxdWAqKCRogKRai" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-04-13"/>
+          <time when="11:04:48" dur="PT309S"/>
         </correspAction>
         <correspContext corresp="i-TCS3npgkh66hoAvcYVQHKr">
           <ref type="record" target="prot-200607--090">Riksdagens protokoll 2006/07:90 Fredagen den 13 april</ref>

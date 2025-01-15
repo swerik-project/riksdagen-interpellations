@@ -25,35 +25,35 @@
           <person gender="man">
             <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
             <persName>Torbjörn Björlund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Torbjörn Björlund (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
+            <persName>Torbjörn Björlund</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-DRUaLkMfaGCapVN5EGUkYa" corresp="i-Beux79YM43dDCxrVuBqfWw">
           <date when="2007-03-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-htNjeawA9tpVGBP5MW3kb">
-          <date when="2007-03-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MPgr3vng55S4r9HTgNFVGP" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-03-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8BwuPutJ9kwPKsZp5yJ5Fu">
-          <date when="2007-04-27"/>
-          <time when="10:12:57" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-H4fRqbJEQLbSQzd4LFTYJV" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-04-27"/>
+          <time when="10:12:57" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-8BwuPutJ9kwPKsZp5yJ5Fu">
           <ref type="record" target="prot-200607--100">Riksdagens protokoll 2006/07:100 Fredagen den 27 april</ref>

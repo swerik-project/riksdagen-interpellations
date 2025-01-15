@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
-            <persName>Socialminister Annika Strandhäll</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9VQB2AJUahVE6YUpda5FKN</idno>
             <persName>Annika Strandhäll</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-AuQPmWQNNvg4G8isz7p8M" corresp="i-9VQB2AJUahVE6YUpda5FKN">
           <date when="2017-10-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AuoQgcvaiBYwqHTqsW9GRJ">
-          <date when="2017-11-14"/>
-          <time when="13:52:35" dur="PT301S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RdCbK7r67aVxbeRAdwa6Kx">
           <date when="2017-11-14"/>
+          <time when="13:52:35" dur="PT301S"/>
         </correspAction>
         <correspContext corresp="i-AuoQgcvaiBYwqHTqsW9GRJ">
           <ref type="record" target="prot-201718--030">Protokoll 2017/18:30 Tisdagen den 14 november</ref>

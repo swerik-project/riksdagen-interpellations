@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-DfMBmwjfAwnb2JfXgJ9isk</idno>
             <persName>Per-Arne Håkansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-6gnsHpujjLJtgcxbAFeMtz" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-06-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-kdXhKj1TeHC3T36scT2zW">
-          <date when="2023-06-16"/>
-          <time when="13:12:21" dur="PT63S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-X1WyKGpmAqNPtpQTuJpv7B">
           <date when="2023-06-16"/>
+          <time when="13:12:21" dur="PT63S"/>
         </correspAction>
         <correspContext corresp="i-kdXhKj1TeHC3T36scT2zW">
           <ref type="record" target="prot-202223--126">Protokoll 2022/23:126 Fredagen den 16 juni</ref>

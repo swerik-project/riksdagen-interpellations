@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-CNBy5dFgNNyEozHVpAj93c</idno>
             <persName>Jacob Johnson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-GUk8SWMdzDoc6mzAqFY2K1" corresp="i-548HUVvKe8n48M3pQmFeUC">
           <date when="2009-05-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EyEs9z5LsfTbCPMEBPY5xt">
-          <date when="2009-05-06"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2rbk9Y9BusP82tMLwgggNi" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-05-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Cef7iYAzhCub7vpXkGe3pe">
-          <date when="2009-06-08"/>
-          <time when="12:42:16" dur="PT361S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WXrDg2ps6xcTFMUXX26MwY" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-06-08"/>
+          <time when="12:42:16" dur="PT361S"/>
         </correspAction>
         <correspContext corresp="i-Cef7iYAzhCub7vpXkGe3pe">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

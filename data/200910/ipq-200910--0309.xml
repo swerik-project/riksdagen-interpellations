@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
-            <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
-            <persName>Staffan Danielsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-WHEJ8ymFxv9uo3uasyct2e</idno>
             <persName>Gunnel Wallin (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
+            <persName>Staffan Danielsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-MnGmDNv48jP8MM9Lj13aQZ" corresp="i-N9Pi9YpD4nvtCEsVp2CGcX">
           <date when="2010-03-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K3mkxG9PqCBxTmQAmzCyeC">
-          <date when="2010-03-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MJcHPWaeppR8D1nA9uAH5y" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-03-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GcBB3Uc8Fo4KoWuJkYFvzh">
-          <date when="2010-04-09"/>
-          <time when="11:47:23" dur="PT269S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3BZCCEKqZG627PGZfftEud" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-04-09"/>
+          <time when="11:47:23" dur="PT269S"/>
         </correspAction>
         <correspContext corresp="i-GcBB3Uc8Fo4KoWuJkYFvzh">
           <ref type="record" target="prot-200910--101">Riksdagens protokoll 2009/10:101 Fredagen den 9 april</ref>

@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-48Dg2ScegN8mpc2UJq5sE2</idno>
             <persName>Rebecka Le Moine</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-N6npxLPw3cpYzAyQBF8H43" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2022-12-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3FCpt7hJ2KK2Qpr9AcZF5k">
-          <date when="2023-01-17"/>
-          <time when="13:46:27" dur="PT218S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PTvLr3EyY9f7EXgvgE76RB">
           <date when="2023-01-17"/>
+          <time when="13:46:27" dur="PT218S"/>
         </correspAction>
         <correspContext corresp="i-3FCpt7hJ2KK2Qpr9AcZF5k">
           <ref type="record" target="prot-202223--046">Protokoll 2022/23:46 Tisdagen den 17 januari</ref>

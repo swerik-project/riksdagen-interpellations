@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-6eosMH8o1uMi1nCPvvh1tH</idno>
             <persName>Anna-Caren Sätherberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VSbEG19CEMJ1aVwTdmw9Jp</idno>
             <persName>Daniel Vencu Velasquez Castro</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
+            <persName>Romina Pourmokhtari</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JTo5goQxs49gB3acrtPtM9" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DAm4eEyK3ScLVCa2uZpVox">
-          <date when="2023-02-17"/>
-          <time when="14:42:35" dur="PT172S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YScbMwgr9aSgWBUDi9WLTj">
           <date when="2023-02-17"/>
+          <time when="14:42:35" dur="PT172S"/>
         </correspAction>
         <correspContext corresp="i-DAm4eEyK3ScLVCa2uZpVox">
           <ref type="record" target="prot-202223--065">Protokoll 2022/23:65 Fredagen den 17 februari</ref>

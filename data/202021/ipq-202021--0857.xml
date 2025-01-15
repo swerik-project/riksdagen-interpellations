@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-QncsjeqVcGrNpNi8SPzrX4</idno>
             <persName>Michael Rubbestad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-JkM2ZS6w46bGuyAHk2fiUA" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2021-08-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QzLAscAfEvzs1AeJJZssLM">
-          <date when="2021-09-09"/>
-          <time when="17:46:15" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EG3LetarebJaD4d3iNR7tL" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2021-09-09"/>
+          <time when="17:46:15" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-QzLAscAfEvzs1AeJJZssLM">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

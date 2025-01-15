@@ -24,46 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Utbildningsminister Gustav Fridolin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5kLPqJYKuXdEi7mU2QqyGZ</idno>
             <persName>Maria Stockhaus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
-            <persName>Gustav Fridolin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JyuoWkg9RUZd3XVSA6MfE6</idno>
             <persName>Gunilla Nordgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-U6F8gqiuV2DEZN1aMhyDnJ</idno>
             <persName>Christer Nylander</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9CH1KbWwyrj8DRqAQB3Fza</idno>
+            <persName>Gustav Fridolin</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-MVTH7YVcYJ8kE7aF4LWggc" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2014-11-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VcutCXnR6toY5EuYgmXM6M">
-          <date when="2015-01-13"/>
-          <time when="19:57:33" dur="PT189S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JjTK4QNXegvVxBBGqZ2wK5" corresp="i-9CH1KbWwyrj8DRqAQB3Fza">
           <date when="2015-01-13"/>
+          <time when="19:57:33" dur="PT189S"/>
         </correspAction>
         <correspContext corresp="i-VcutCXnR6toY5EuYgmXM6M">
           <ref type="record" target="prot-201415--044">Protokoll 2014/15:44 Tisdagen den 13 januari</ref>

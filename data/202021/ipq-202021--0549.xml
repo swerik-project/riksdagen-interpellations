@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-9JTUFkLW1ZWKek5Lop9w8n" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Nu4kb5M462SNt25noDN8t2">
-          <date when="2021-04-06"/>
-          <time when="15:09:48" dur="PT248S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VJR9ossaFrQ2xXFL26JEBh" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-04-06"/>
+          <time when="15:09:48" dur="PT248S"/>
         </correspAction>
         <correspContext corresp="i-Nu4kb5M462SNt25noDN8t2">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

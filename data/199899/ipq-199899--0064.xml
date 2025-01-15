@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Magnus Jacobsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-5QUSwQFaazTZF6GHyxaAkw</idno>
           </person>
           <person gender="man">
-            <persName>näringsminis­tern</persName>
+            <persName>Björn Rosengren</persName>
             <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-VDKiG1reFrpvGUB3cYgPoA" corresp="i-5QUSwQFaazTZF6GHyxaAkw">
           <date when="1998-11-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XBfotYfoknLpMHnyviBEPh">
+        <correspAction type="received" xml:id="i-XBfotYfoknLpMHnyviBEPh" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
           <note>date unknown</note>
-          <name>näringsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5wKC8YvBU1YiUQ4nHmwKe7">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-58h522P13Ye2HieSkSWAsB">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-58h522P13Ye2HieSkSWAsB">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

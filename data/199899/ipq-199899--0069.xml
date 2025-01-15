@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Inga Berggren (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-CZYhqMaUy5VkTwsMNWg9pc</idno>
           </person>
           <person gender="man">
-            <persName>miljöministern</persName>
+            <persName>Kjell Larsson</persName>
             <idno>i-9ih4smVvRYKCMas4i52Xiw</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-D7DY5eXBSXQHJKzeJzE22s" corresp="i-CZYhqMaUy5VkTwsMNWg9pc">
           <date when="1998-12-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5G6jnrPyACNMtT9dp8y1Eu">
+        <correspAction type="received" xml:id="i-5G6jnrPyACNMtT9dp8y1Eu" corresp="i-9ih4smVvRYKCMas4i52Xiw">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LXQeS2RyxG2r73pZd8Ur4x">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-HgfWkW2Dt3FTP9St6uyB3g">
-          <date when="1998-02-09"/>
+          <date when="1999-02-09"/>
         </correspAction>
         <correspContext corresp="i-HgfWkW2Dt3FTP9St6uyB3g">
           <ref type="record" target="prot-199899--052">Prot. 1998/99:52</ref>

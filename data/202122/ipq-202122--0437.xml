@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
             <persName>Pontus Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DGcLR21cjcBjrD374xbmmM</idno>
             <persName>Ellen Juntti</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-4hU3FKKa5zPbU7zagyebYH" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-04-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Am3j5HNWaAqWFy4RrWUhM3">
-          <date when="2022-04-29"/>
-          <time when="09:25:11" dur="PT194S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SfDc9DCSyjfyx5LX3S3Ghz" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-04-29"/>
+          <time when="09:25:11" dur="PT194S"/>
         </correspAction>
         <correspContext corresp="i-Am3j5HNWaAqWFy4RrWUhM3">
           <ref type="record" target="prot-202122--105">Protokoll 2021/22:105 Fredagen den 29 april</ref>

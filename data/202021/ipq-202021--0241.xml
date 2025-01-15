@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-Kc3AcmXkcmGKhXRxHt6DUP</idno>
             <persName>Edward Riedl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ENywDptUjVfpdGzP3RsZyR" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2020-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-pUNKgxutZUX37G9taHvAM">
-          <date when="2021-01-12"/>
-          <time when="18:49:36" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TDCsK8c5uEcRWKQccukzuF">
           <date when="2021-01-12"/>
+          <time when="18:49:36" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-pUNKgxutZUX37G9taHvAM">
           <ref type="record" target="prot-202021--062">Protokoll 2020/21:62 Tisdagen den 12 januari</ref>

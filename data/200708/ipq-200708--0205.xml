@@ -25,50 +25,43 @@
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +70,12 @@
         <correspAction type="sent" xml:id="i-LJYkHASR47V7DjRokjM4Sw" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2007-11-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GGA3xMb6X3tdXnURdQfk7n">
-          <date when="2007-11-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MwoSkAskC9EkGpVEKvpQyk" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-11-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VbP3fiprt3VQE1C31tfjek">
-          <date when="2008-01-15"/>
-          <time when="18:35:38" dur="PT342S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PFD34TfRdnU76pdq1GfM9E" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-01-15"/>
+          <time when="18:35:38" dur="PT342S"/>
         </correspAction>
         <correspContext corresp="i-VbP3fiprt3VQE1C31tfjek">
           <ref type="record" target="prot-200708--051">Riksdagens protokoll 2007/08:51 Tisdagen den 15 januari</ref>

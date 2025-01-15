@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
             <persName>Statsrådet Johan Forssell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HaBKPQ5yfZK6LYjmYU1tZy</idno>
             <persName>Aida Birinxhiku</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
+            <persName>Matilda Ernkrans</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
             <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-9XeFgFgGttbTFAY672FDfN" corresp="i-NRWqqo7iPdzBV8QrJyKnQb">
           <date when="2024-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TTW1xRXaehZxRBc5hsC8dJ">
-          <date when="2024-03-12"/>
-          <time when="13:01:11" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YbfmFYEPy5WdHDwnryx4ZS" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2024-03-12"/>
+          <time when="13:01:11" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-TTW1xRXaehZxRBc5hsC8dJ">
           <ref type="record" target="prot-202324--083">Protokoll 2023/24:83 Tisdagen den 12 mars</ref>

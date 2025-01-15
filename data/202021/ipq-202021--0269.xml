@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ArpqtrSYb3mEqZ7uRozMa6" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-01-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GddyNqiyMRVyyDDicM1dBu">
-          <date when="2021-01-14"/>
-          <time when="16:18:07" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LWcoXfN8DDhBChBf71tyXb">
           <date when="2021-01-14"/>
+          <time when="16:18:07" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-GddyNqiyMRVyyDDicM1dBu">
           <ref type="record" target="prot-202021--064">Protokoll 2020/21:64 Torsdagen den 14 januari</ref>

@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-GhvyJ2sJGF94nLptaHYSNr" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-11-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WB86SHJouYrB61AW9MhbJ5">
-          <date when="2017-12-19"/>
-          <time when="12:06:22" dur="PT164S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6Phoc9KXN3a3R3KwosxWzR" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-12-19"/>
+          <time when="12:06:22" dur="PT164S"/>
         </correspAction>
         <correspContext corresp="i-WB86SHJouYrB61AW9MhbJ5">
           <ref type="record" target="prot-201718--053">Protokoll 2017/18:53 Tisdagen den 19 december</ref>

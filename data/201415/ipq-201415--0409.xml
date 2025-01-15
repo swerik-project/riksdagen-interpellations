@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XHzgSBhvzhMtyTsYMbxgy4</idno>
             <persName>Fredrik Schulte</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-U7LjYpbGPHKqdnprspR7SA" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PYUwGpXJc4V6BT22Wy1Vbf">
-          <date when="2015-04-10"/>
-          <time when="10:16:15" dur="PT87S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5MsxCtEcuN2kVpxz1w4pwS" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2015-04-10"/>
+          <time when="10:16:15" dur="PT87S"/>
         </correspAction>
         <correspContext corresp="i-PYUwGpXJc4V6BT22Wy1Vbf">
           <ref type="record" target="prot-201415--084">Protokoll 2014/15:84 Fredagen den 10 april</ref>

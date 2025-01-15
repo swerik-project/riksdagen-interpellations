@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Rohdin (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-T576BDaw5pvVYLHtf4Pt4X</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-U15e8ReL8Yy49vx6KmsPA1" corresp="i-T576BDaw5pvVYLHtf4Pt4X">
           <date when="1996-10-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DqcnVtu4DKouJzedhVTj57">
+        <correspAction type="received" xml:id="i-DqcnVtu4DKouJzedhVTj57" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5XAtpG3AVbVFEi515XnpRh">
           <note>Besvarad</note>

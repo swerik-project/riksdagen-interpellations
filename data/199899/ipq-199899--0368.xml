@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Ragnwi Marcelind (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-Ha5uZXGHudhTidCuW8UjXN</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-FgsiZRTYGscV6TZkatSMdb" corresp="i-Ha5uZXGHudhTidCuW8UjXN">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WBodFf8aezcWj7zkUboCrW">
+        <correspAction type="received" xml:id="i-WBodFf8aezcWj7zkUboCrW" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-DSnAR3wwBRJFq7XLi7jra3">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-EhXSVAhhBDsooRUVzXG9D8">
-          <date when="1998-05-18"/>
+          <date when="1999-05-18"/>
         </correspAction>
         <correspContext corresp="i-EhXSVAhhBDsooRUVzXG9D8">
           <ref type="record" target="prot-199899--095">Prot. 1998/99:95</ref>

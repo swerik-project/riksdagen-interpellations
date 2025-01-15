@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Leif Jakobsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-54sV7HjU7Z3B68KMxNHqqj" corresp="i-HzSoQ1C7ZLGcuc11An72dD">
           <date when="2008-12-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-86tBkztEoczQgqsvyaYgJ5">
-          <date when="2008-12-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MnoBpBt4RZCNHTt239hLxf" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-12-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FL3dEA4ufTLNoNvRdviCUX">
-          <date when="2008-12-16"/>
-          <time when="11:10:09" dur="PT219S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3juDC1ioqaUmy4ifv142KZ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-12-16"/>
+          <time when="11:10:09" dur="PT219S"/>
         </correspAction>
         <correspContext corresp="i-FL3dEA4ufTLNoNvRdviCUX">
           <ref type="record" target="prot-200809--050">Riksdagens protokoll 2008/09:50 Tisdagen den 16 december</ref>

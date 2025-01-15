@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-XZE3Xp1BwZCvNVQ4VkrNUr" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-04-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GNfUWG93d7mK9CUTrMKxs">
-          <date when="2016-06-07"/>
-          <time when="15:43:13" dur="PT79S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YKK2En7h5kLSHfz7Y3uumu" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-06-07"/>
+          <time when="15:43:13" dur="PT79S"/>
         </correspAction>
         <correspContext corresp="i-GNfUWG93d7mK9CUTrMKxs">
           <ref type="record" target="prot-201516--114">Protokoll 2015/16:114 Tisdagen den 7 juni</ref>

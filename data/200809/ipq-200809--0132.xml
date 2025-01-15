@@ -22,66 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-29sSodYVXoni9iia1vszCy</idno>
             <persName>Göran Pettersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
+            <persName>Nyamko Sabuni</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-EPEH6Ydjzi8VmTyGE7t3qR">
-          <date when="2008-11-18"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-R5z39EjVgRKUkfa2fd9FYK" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-11-18"/>
         </correspAction>
         <correspAction type="received" xml:id="i-GVUXAtChjT7np7njs8FNn" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2nHrEr9mW5bGf2368pSQHv">
-          <date when="2008-12-05"/>
-          <time when="09:01:26" dur="PT310S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-X2TmrHkkrz9usG6PE3Cvnt" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-12-05"/>
+          <time when="09:01:26" dur="PT310S"/>
         </correspAction>
         <correspContext corresp="i-2nHrEr9mW5bGf2368pSQHv">
           <ref type="record" target="prot-200809--043">Riksdagens protokoll 2008/09:43 Fredagen den 5 december</ref>

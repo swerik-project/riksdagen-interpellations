@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HDUKWMEPpUMUK3MxQXxnpZ</idno>
             <persName>Jessica Rodén</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-13GSDu6zn1AQgrJ8vD6URb" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-03-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RRY4SmKVjUBAm1hACm5oWK">
-          <date when="2023-03-28"/>
-          <time when="15:24:27" dur="PT157S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-W15BnjcZnoMpRbosF71sNL">
           <date when="2023-03-28"/>
+          <time when="15:24:27" dur="PT157S"/>
         </correspAction>
         <correspContext corresp="i-RRY4SmKVjUBAm1hACm5oWK">
           <ref type="record" target="prot-202223--082">Protokoll 2022/23:82 Tisdagen den 28 mars</ref>

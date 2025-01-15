@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
-            <persName>Sylvia Lindgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
-            <persName>Sylvia Lindgren (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
+            <persName>Sylvia Lindgren</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-FAkpgX8vnrxyakrfG7HQ1o" corresp="i-TNGoE23iJfaY3bMVx88LYe">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NAN8Zw1LjMyFEPozGjNXqm">
-          <date when="2007-05-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FrX9koNvtAQpMG4cHpYmFM" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U6udbH7buEJegycGtDac5W">
-          <date when="2007-06-05"/>
-          <time when="15:12:54" dur="PT196S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XveCJc2b4xnb1LYSXLjJvL" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-06-05"/>
+          <time when="15:12:54" dur="PT196S"/>
         </correspAction>
         <correspContext corresp="i-U6udbH7buEJegycGtDac5W">
           <ref type="record" target="prot-200607--120">Riksdagens protokoll 2006/07:120 Tisdagen den 5 juni</ref>

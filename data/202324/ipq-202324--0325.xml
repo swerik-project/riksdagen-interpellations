@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-bRyJHEKb5DCkicXkuZwMY</idno>
             <persName>Statsminister Ulf Kristersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-TnHUJD1xfpWh6C5J3Y4GxU" corresp="i-bRyJHEKb5DCkicXkuZwMY">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D91PkfQBEXewtDW56JdCox">
-          <date when="2024-01-19"/>
-          <time when="09:37:19" dur="PT121S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4G2YmLfcMdnaGVkJUKeESg">
           <date when="2024-01-19"/>
+          <time when="09:37:19" dur="PT121S"/>
         </correspAction>
         <correspContext corresp="i-D91PkfQBEXewtDW56JdCox">
           <ref type="record" target="prot-202324--058">Protokoll 2023/24:58 Fredagen den 19 januari</ref>

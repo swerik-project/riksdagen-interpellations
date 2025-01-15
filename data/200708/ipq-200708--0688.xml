@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-RJ83sTtQ8c3R3VD4B55j8P</idno>
-            <persName>Åsa Lindestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-RJ83sTtQ8c3R3VD4B55j8P</idno>
-            <persName>Åsa Lindestam (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Åsa Lindestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-4qYaMF8g78EcJT3FNZ7tB9" corresp="i-RJ83sTtQ8c3R3VD4B55j8P">
           <date when="2008-05-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ef4qzD22FywYnZrXPQenFB">
-          <date when="2008-05-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-71Ek5ahmZDfLFimuN3huJN" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-B4b5N9Sjoz6Teo4PhJhmCS">
-          <date when="2008-06-03"/>
-          <time when="18:18:12" dur="PT252S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6FawhLH8epsucnaZunTvaQ" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-06-03"/>
+          <time when="18:18:12" dur="PT252S"/>
         </correspAction>
         <correspContext corresp="i-B4b5N9Sjoz6Teo4PhJhmCS">
           <ref type="record" target="prot-200708--121">Riksdagens protokoll 2007/08:121 Tisdagen den 3 juni</ref>

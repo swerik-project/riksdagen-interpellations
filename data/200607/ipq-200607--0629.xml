@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Göran Persson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-SdduAU6JxAG9jiz2hKpA3u" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2007-05-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CqwaVTBLwun9Ym6DWJvyWw">
-          <date when="2007-05-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GASDi5VwK3ns1zqDb7VLLs" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-05-30"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-CR1uLgLxXoj7QC2LGdLaTE">
-          <date when="2007-06-18"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-AbKTLoet3VJiyzPjFmtPRs" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-06-18"/>

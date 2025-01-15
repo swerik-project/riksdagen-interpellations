@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Jasenko Omanović</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-6veagi5YzqVeCAg6fLG6wG" corresp="i-AqkTDdERRgq7MWP7ajMpZo">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TZaGvht3mS9AgZKLR5oAzq">
-          <date when="2010-05-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PinPkwWJb7L5LH5TqVeHFt" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UsskZv3airbJRADu4EHBUE">
-          <date when="2010-06-18"/>
-          <time when="10:38:16" dur="PT270S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9Dfh1GmJSt8T7k8iVBryNM" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-06-18"/>
+          <time when="10:38:16" dur="PT270S"/>
         </correspAction>
         <correspContext corresp="i-UsskZv3airbJRADu4EHBUE">
           <ref type="record" target="prot-200910--140">Riksdagens protokoll 2009/10:140 Fredagen den 18 juni</ref>

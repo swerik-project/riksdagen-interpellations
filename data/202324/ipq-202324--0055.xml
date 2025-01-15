@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MRoUAGZ54TU7sMS1burP24</idno>
             <persName>Pontus Andersson Garpvall</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
+              <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
+            <persName>Nima Gholam Ali Pour</persName>
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
-            <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>SD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-Lt8TU86nfCzpA7suq5YF1B" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-10-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3cfsSr9b1NQjGUu49siHd6">
-          <date when="2023-11-07"/>
-          <time when="20:14:57" dur="PT176S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8C4VuDzotqiRkhADE2Y9eM" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-11-07"/>
+          <time when="20:14:57" dur="PT176S"/>
         </correspAction>
         <correspContext corresp="i-3cfsSr9b1NQjGUu49siHd6">
           <ref type="record" target="prot-202324--025">Protokoll 2023/24:25 Tisdagen den 7 november</ref>

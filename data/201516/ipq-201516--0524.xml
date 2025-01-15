@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RDeqY3mXLBtUS9bixjvHS</idno>
             <persName>Lars Tysklind</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-5RGbxKbuco7tKR2UcjB3M4" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2016-04-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UM7Zjp4pnxhRWEZJvQiLQf">
-          <date when="2016-04-15"/>
-          <time when="09:47:57" dur="PT246S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WL34HFXvncjgbzkv4UYdrk">
           <date when="2016-04-15"/>
+          <time when="09:47:57" dur="PT246S"/>
         </correspAction>
         <correspContext corresp="i-UM7Zjp4pnxhRWEZJvQiLQf">
           <ref type="record" target="prot-201516--093">Protokoll 2015/16:93 Fredagen den 15 april</ref>

@@ -25,50 +25,43 @@
           <person gender="woman">
             <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
             <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-mN8mVTBvBYjtHLNThWLo4</idno>
             <persName>Kalle Larsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6Tm6CkqvW55XWkdqUgBH82</idno>
             <persName>Marina Pettersson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +70,12 @@
         <correspAction type="sent" xml:id="i-EvLyn85UtTCFY7vdCHyLaw" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2008-05-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9D7EcFiPfMYCRe6Lb1irBd">
-          <date when="2008-05-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FiU9GphNDFJsFQLjT27dj3" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5zmzgf5MePWGPSYKyzM2UJ">
-          <date when="2008-06-19"/>
-          <time when="10:56:15" dur="PT409S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FZFgLdgNW6hLet7uXFPk37" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-06-19"/>
+          <time when="10:56:15" dur="PT409S"/>
         </correspAction>
         <correspContext corresp="i-5zmzgf5MePWGPSYKyzM2UJ">
           <ref type="record" target="prot-200708--133">Riksdagens protokoll 2007/08:133 Torsdagen den 19 juni</ref>

@@ -27,43 +27,36 @@
           <person gender="man">
             <idno>i-G9awhLbr4bPnUKQU3s4Xyq</idno>
             <persName>Mathias Tegnér</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UB2UKCr2W8fJ3Rr4dtCeHb</idno>
             <persName>Mattias Vepsä</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-38jBhirK3Q2WpsVMafAn24</idno>
             <persName>Hanna Westerén</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
+            <persName>Erik Slottner</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-MYeXo9VYQutWFJESZXUGUh" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2024-03-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N8RixaTC3cG2p1n4Ux8xUb">
-          <date when="2024-03-15"/>
-          <time when="14:28:31" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RTZTTa7mN2Unws1uG4atSD" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2024-03-15"/>
+          <time when="14:28:31" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-N8RixaTC3cG2p1n4Ux8xUb">
           <ref type="record" target="prot-202324--085">Protokoll 2023/24:85 Fredagen den 15 mars</ref>

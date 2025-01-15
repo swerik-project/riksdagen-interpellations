@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
@@ -31,21 +31,24 @@
           <person>
             <persName>inrikesministern</persName>
           </person>
+          <person gender="man">
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <persName>Jörgen Andersson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-PWJJvSexdhFxzBXLk5n8Bx" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
-          <date when="1996-02-27"/>
+          <date when="1997-02-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Cshr2MsESv5kQ4g5DTLLzD">
+        <correspAction type="received" xml:id="i-Cshr2MsESv5kQ4g5DTLLzD" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-A55gDxNT5Q4Ct7DctTWMJg">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-W8m8DvtQMrtwmYcbPXzCHj">
-          <date when="1996-04-17"/>
+          <date when="1997-04-17"/>
         </correspAction>
         <correspContext corresp="i-W8m8DvtQMrtwmYcbPXzCHj">
           <ref type="record" target="prot-199697--091">Prot. 1996/97:91</ref>

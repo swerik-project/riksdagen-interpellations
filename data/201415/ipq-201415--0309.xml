@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-QZZpXU2UafGbg1Gknymg2u" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-02-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-43ZfTJonZweLrCZFznTu26">
-          <date when="2015-03-27"/>
-          <time when="10:43:26" dur="PT91S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ZShrRRbvN4GmxfnwoHkcJ" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-03-27"/>
+          <time when="10:43:26" dur="PT91S"/>
         </correspAction>
         <correspContext corresp="i-43ZfTJonZweLrCZFznTu26">
           <ref type="record" target="prot-201415--080">Protokoll 2014/15:80 Fredagen den 27 mars</ref>

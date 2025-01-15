@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4FL9252Gm3rHAifaDrXzaZ</idno>
             <persName>Hans Dahlgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-8YSSeXk1Y6Xq5JJnB2yW2p" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HMy3yMPnAR5GjNrvWKQ1UJ">
-          <date when="2019-04-02"/>
-          <time when="14:46:29" dur="PT192S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HSVuf1Tat1KWRqvdULGzd5">
           <date when="2019-04-02"/>
+          <time when="14:46:29" dur="PT192S"/>
         </correspAction>
         <correspContext corresp="i-HMy3yMPnAR5GjNrvWKQ1UJ">
           <ref type="record" target="prot-201819--071">Protokoll 2018/19:71 Tisdagen den 2 april</ref>

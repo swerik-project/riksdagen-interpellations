@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="man">
             <persName>Ingvar Eriksson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-NXNY6RqNuERrrfDVTJBFkt</idno>
           </person>
           <person gender="man">
-            <persName>arbetsmark­nadsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <persName>Margareta Winberg</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-4SHTDFgFGmdiZtjEM5iP5C" corresp="i-NXNY6RqNuERrrfDVTJBFkt">
-          <date when="1996-02-13"/>
+          <date when="1997-02-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NN4sKq3WiBrt87UxxSWzNh">
+        <correspAction type="received" xml:id="i-NN4sKq3WiBrt87UxxSWzNh" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmark­nadsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-HoUSstqw4QiPzr6nts651S">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-C3KnVZT9xrawRhqZWbCmSv">
-          <date when="1996-02-28"/>
+          <date when="1997-02-28"/>
         </correspAction>
         <correspContext corresp="i-C3KnVZT9xrawRhqZWbCmSv">
           <ref type="record" target="prot-199697--071">Prot. 1996/97:71</ref>

@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stock (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
+            <persName>Helene Petersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-81ucwJWUgq79UWeGtT4HbT" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HSiUBYStg6uGq2SkUPqZxN">
-          <date when="2007-10-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MFRaqTeBCgCDrb2sNyBei" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Tm4ufEYWfSLNqQrBF8r4Fy">
-          <date when="2007-11-13"/>
-          <time when="15:49:51" dur="PT304S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FndKaRzxmJvwEaZZDGfuCs" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-11-13"/>
+          <time when="15:49:51" dur="PT304S"/>
         </correspAction>
         <correspContext corresp="i-Tm4ufEYWfSLNqQrBF8r4Fy">
           <ref type="record" target="prot-200708--023">Riksdagens protokoll 2007/08:23 Tisdagen den 13 november</ref>

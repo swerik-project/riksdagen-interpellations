@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-HPYYRQv4ch2ZKcsG9Poys5</idno>
             <persName>Maria Weimer</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-EtiUR3aY2twLcrqUvz4t5p" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3idoDkirWzNcbTXhSicijE">
-          <date when="2015-03-27"/>
-          <time when="11:01:40" dur="PT136S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4Nb4WqX9FhkquSYbVNcpkY">
           <date when="2015-03-27"/>
+          <time when="11:01:40" dur="PT136S"/>
         </correspAction>
         <correspContext corresp="i-3idoDkirWzNcbTXhSicijE">
           <ref type="record" target="prot-201415--080">Protokoll 2014/15:80 Fredagen den 27 mars</ref>

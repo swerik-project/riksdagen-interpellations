@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Björne (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-Pf4gypjM8ocbfUutLJqncW</idno>
           </person>
           <person gender="woman">
-            <persName>jordbruksministern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-QtJg9oNHiDkHLkgiCwmrBb</idno>
+            <persName>Annika Åhnberg</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-MV61jxbQh6jxdQ72avs8Hy" corresp="i-Pf4gypjM8ocbfUutLJqncW">
-          <date when="1996-01-30"/>
+          <date when="1997-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JF9j9fJmGMCJNLhPVqtX7y">
+        <correspAction type="received" xml:id="i-JF9j9fJmGMCJNLhPVqtX7y" corresp="i-QtJg9oNHiDkHLkgiCwmrBb">
           <note>date unknown</note>
-          <name>jordbruksministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-GBVyZCf91Eaq7trdHqR3WY">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PPfmbLzqNbPMp1AS723LHF">
-          <date when="1996-02-25"/>
+          <date when="1997-02-25"/>
         </correspAction>
         <correspContext corresp="i-PPfmbLzqNbPMp1AS723LHF">
           <ref type="record" target="prot-199697--068">Prot. 1996/97:68</ref>

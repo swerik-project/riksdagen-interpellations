@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-S7wLw9aynA5vbRCsqxxL3N</idno>
             <persName>Tina Acketoft (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
+            <persName>Cecilia Malmström</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-8QjDhTWtcuyAtgUepVPwTU" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TN9NY5juoBZBBPyv7w5Rn6">
-          <date when="2008-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NPpJ63ErFr45TEvhEYKNvd" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MuGyRoGnbikg4C3PcbHkK7">
-          <date when="2008-05-06"/>
-          <time when="19:24:39" dur="PT286S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JHo3gmhXAx5z6jdr7xhDx2" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2008-05-06"/>
+          <time when="19:24:39" dur="PT286S"/>
         </correspAction>
         <correspContext corresp="i-MuGyRoGnbikg4C3PcbHkK7">
           <ref type="record" target="prot-200708--105">Riksdagens protokoll 2007/08:105 Tisdagen den 6 maj</ref>

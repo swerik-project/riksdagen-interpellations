@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WTCYyz27itjvuvffL1vZLi</idno>
-            <persName>Elina Linna (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Elina Linna</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-VySmdvp4iQYg9hC8k6v44f" corresp="i-WTCYyz27itjvuvffL1vZLi">
           <date when="2009-02-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PMznSStXJsYon3UxNzYvL3">
-          <date when="2009-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FF2vETQeGi1VegEm9PqR3u" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-518UFTjWxz6nYVJc6VFSfb">
-          <date when="2009-02-20"/>
-          <time when="10:25:51" dur="PT293S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-17rdkCpwe6f7BMPHbLjMjK" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2009-02-20"/>
+          <time when="10:25:51" dur="PT293S"/>
         </correspAction>
         <correspContext corresp="i-518UFTjWxz6nYVJc6VFSfb">
           <ref type="record" target="prot-200809--074">Riksdagens protokoll 2008/09:74 Fredagen den 20 februari</ref>

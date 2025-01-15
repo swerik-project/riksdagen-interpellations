@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3k3SAGfCQCqFcVZnEuJjhs" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2009-01-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-39kepkRACjyDiUpEi9MdY8">
-          <date when="2009-01-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8rcCGpNLbd8N6QL3u54kBm" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HSsYMMdgHYr6cwvDpSPXhP">
-          <date when="2009-01-27"/>
-          <time when="19:17:45" dur="PT339S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AxsZLY3jPAc1WQqmNo7cwR" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-01-27"/>
+          <time when="19:17:45" dur="PT339S"/>
         </correspAction>
         <correspContext corresp="i-HSsYMMdgHYr6cwvDpSPXhP">
           <ref type="record" target="prot-200809--063">Riksdagens protokoll 2008/09:63 Tisdagen den 27 januari</ref>

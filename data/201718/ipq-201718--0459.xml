@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7GFif5DyTUbb8eBXsbicsF</idno>
             <persName>Magnus Oscarsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-B8KCou4jZeoZ6i8g1DP7wy" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2018-04-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-aPPQFBzyQA7VMX5Sf5UEs">
-          <date when="2018-04-17"/>
-          <time when="15:43:07" dur="PT156S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-L1bgTmaM2tWsM29Z5hTFKW">
           <date when="2018-04-17"/>
+          <time when="15:43:07" dur="PT156S"/>
         </correspAction>
         <correspContext corresp="i-aPPQFBzyQA7VMX5Sf5UEs">
           <ref type="record" target="prot-201718--099">Protokoll 2017/18:99 Tisdagen den 17 april</ref>

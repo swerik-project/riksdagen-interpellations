@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-B34sv9ytsiioT1XaQtyXUo</idno>
-            <persName>Helén Pettersson i Umeå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-B34sv9ytsiioT1XaQtyXUo</idno>
-            <persName>Helén Pettersson i Umeå (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NiuBLX8hzt3w2Uyev12Wbt</idno>
             <persName>Krister Hammarbergh (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-P2x4fiHNXrW2XTzJZRJeJJ</idno>
             <persName>Bengt-Anders Johansson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TyiLHdkXMMBBWN3zcwj3DS</idno>
             <persName>Erik A Eriksson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-B34sv9ytsiioT1XaQtyXUo</idno>
+            <persName>Helén Pettersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-4YtZNofGZ8E2oeBzcE4x34" corresp="i-B34sv9ytsiioT1XaQtyXUo">
           <date when="2008-10-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QDwjGyUdZqaBRSb7aWufns">
-          <date when="2008-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-J57YM1DPmCAXo6XNpszx1N" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2008-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QMiKVyXz9J9b5MRy4PCyJg">
-          <date when="2008-11-14"/>
-          <time when="11:29:23" dur="PT349S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RJcoySiq3Uaav8pLDPNAqX" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2008-11-14"/>
+          <time when="11:29:23" dur="PT349S"/>
         </correspAction>
         <correspContext corresp="i-QMiKVyXz9J9b5MRy4PCyJg">
           <ref type="record" target="prot-200809--028">Riksdagens protokoll 2008/09:28 Fredagen den 14 november</ref>

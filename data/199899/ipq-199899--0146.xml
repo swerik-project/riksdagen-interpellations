@@ -21,30 +21,30 @@
         <listPerson>
           <person gender="man">
             <persName>Henrik Westman (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-7KBbQxMwamQ8aEQRXJRw1j</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DNFhjwX5Vp9daJeTG5ck7u" corresp="i-7KBbQxMwamQ8aEQRXJRw1j">
-          <date when="1998-02-03"/>
+          <date when="1999-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7mHS25mskyC9qbWgVnTfSL">
+        <correspAction type="received" xml:id="i-7mHS25mskyC9qbWgVnTfSL" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BZUS4J2zz36EU1ZMDZqpWS">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-8MQ2Qak4i9fLTHZbfA4awU">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-8MQ2Qak4i9fLTHZbfA4awU">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

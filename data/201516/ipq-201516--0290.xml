@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-61G29TRMKF5b4nFApbUxap" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2016-01-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-STHc3PYTrbFcB4Ab17JK2N">
-          <date when="2016-01-22"/>
-          <time when="10:17:01" dur="PT63S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AuNhRaqPWuUq1Q4TnE7VHw">
           <date when="2016-01-22"/>
+          <time when="10:17:01" dur="PT63S"/>
         </correspAction>
         <correspContext corresp="i-STHc3PYTrbFcB4Ab17JK2N">
           <ref type="record" target="prot-201516--057">Protokoll 2015/16:57 Fredagen den 22 januari</ref>

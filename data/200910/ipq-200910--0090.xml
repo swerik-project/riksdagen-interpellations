@@ -22,52 +22,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-XqueWt23XLsUvF893hRNry</idno>
-            <persName>Torgny Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-XqueWt23XLsUvF893hRNry</idno>
-            <persName>Torgny Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TvPyEtuwNMQMGBtdEqsZRN</idno>
             <persName>Meeri Wasberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-XqueWt23XLsUvF893hRNry</idno>
+            <persName>Torgny Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-ERdqzwGUB6EwbCagCS8eaQ" corresp="i-XqueWt23XLsUvF893hRNry">
           <date when="2009-11-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CP7ogkfFuUcqGcQwCjMCKj">
-          <date when="2009-11-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LWGJf53kirRUun1rEv9rWb" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-11-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WcEQnnR79LJ47JVpqEgPuL">
-          <date when="2009-11-20"/>
-          <time when="12:10:11" dur="PT263S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MxDpDHYQhZUhj5WvBbRnwQ" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-11-20"/>
+          <time when="12:10:11" dur="PT263S"/>
         </correspAction>
         <correspContext corresp="i-WcEQnnR79LJ47JVpqEgPuL">
           <ref type="record" target="prot-200910--034">Riksdagens protokoll 2009/10:34 Fredagen den 20 november</ref>

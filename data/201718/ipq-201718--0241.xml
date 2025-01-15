@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-UfuzZaG1S7bnPkLrgux2Au</idno>
             <persName>Jonas Jacobsson Gjörtler</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SKC6wesNPCxEGGjHss4KL6" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-12-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FQf5m5ZzSYDsQ3cqvFF5mL">
-          <date when="2017-12-19"/>
-          <time when="13:24:43" dur="PT264S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EEjuvbDZkw4ACFePosGvsS">
           <date when="2017-12-19"/>
+          <time when="13:24:43" dur="PT264S"/>
         </correspAction>
         <correspContext corresp="i-FQf5m5ZzSYDsQ3cqvFF5mL">
           <ref type="record" target="prot-201718--053">Protokoll 2017/18:53 Tisdagen den 19 december</ref>

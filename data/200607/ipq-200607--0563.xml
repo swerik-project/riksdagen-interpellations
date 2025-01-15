@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
-            <persName>Désirée Pethrus Engström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Désirée Pethrus</persName>
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-BaBRFz7sgjhbuqYiz8u7vt</idno>
-            <persName>Désirée Pethrus Engström (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Crfdtz7xGEvD2wywEZa3NL" corresp="i-BaBRFz7sgjhbuqYiz8u7vt">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PqVp1vgd4CSYCxRWHHQN1Y">
-          <date when="2007-05-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Y5joK2r1xM4zyoVST3wr22" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-05-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5hxfGwoaCnSBh4PkGBUr4b">
-          <date when="2007-06-12"/>
-          <time when="11:02:18" dur="PT502S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5askiRU4Fqrz2Po96i3qMe" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-06-12"/>
+          <time when="11:02:18" dur="PT502S"/>
         </correspAction>
         <correspContext corresp="i-5hxfGwoaCnSBh4PkGBUr4b">
           <ref type="record" target="prot-200607--124">Riksdagens protokoll 2006/07:124 Tisdagen den 12 juni</ref>

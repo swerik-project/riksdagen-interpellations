@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-LL8Bee3zYHnuxQrwejsiTf</idno>
             <persName>Ida Karkiainen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-49AAMM5QhjuvPu9HVi47V5" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-03-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KLvR3psHhdRUhJz6G7sx6Q">
-          <date when="2023-04-11"/>
-          <time when="19:51:48" dur="PT192S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TyrS572SxJtKyuRua5DiQv" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-04-11"/>
+          <time when="19:51:48" dur="PT192S"/>
         </correspAction>
         <correspContext corresp="i-KLvR3psHhdRUhJz6G7sx6Q">
           <ref type="record" target="prot-202223--086">Protokoll 2022/23:86 Tisdagen den 11 april</ref>

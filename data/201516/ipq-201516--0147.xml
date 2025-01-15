@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-9Rr7JqtzHpZv84evqPH4D8</idno>
             <persName>Karin Enström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-NwoG9hwLkVc5n9rpDCAzhJ" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7JHL2BGtBuyS61GSiQxsKv">
-          <date when="2015-12-04"/>
-          <time when="09:00:59" dur="PT137S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T7od2g9sNUNHrmrea6bsaq" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-12-04"/>
+          <time when="09:00:59" dur="PT137S"/>
         </correspAction>
         <correspContext corresp="i-7JHL2BGtBuyS61GSiQxsKv">
           <ref type="record" target="prot-201516--039">Protokoll 2015/16:39 Fredagen den 4 december</ref>

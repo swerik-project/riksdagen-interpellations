@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Bosse Ringholm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RbL2csRHWUZMyWhXKGa7T3" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <date when="2010-03-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7yhq9DYjFvC4uzSAJgtoCy">
-          <date when="2010-03-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2gR7EpFtzsfWny7xuEV5kn" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-03-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KaydockDx1CanaYEwEZfVQ">
-          <date when="2010-04-06"/>
-          <time when="13:02:08" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VrED7Ux4qNxCaEL5edeSma" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-04-06"/>
+          <time when="13:02:08" dur="PT173S"/>
         </correspAction>
         <correspContext corresp="i-KaydockDx1CanaYEwEZfVQ">
           <ref type="record" target="prot-200910--098">Riksdagens protokoll 2009/10:98 Tisdagen den 6 april</ref>

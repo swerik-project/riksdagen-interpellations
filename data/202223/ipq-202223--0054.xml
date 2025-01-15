@@ -25,52 +25,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5NG8haprnyzzwKpK9HjwGZ</idno>
             <persName>Lawen Redar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6Y7QyEzZ7gFrVaMjjyMzXk</idno>
             <persName>Gunilla Svantorp</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
+            <persName>Mats Persson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-Mr27ykEp8HjcCLq7CNgEuE" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2022-11-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XY6m3GWJSqAZXrUn9krqg7">
-          <date when="2022-12-09"/>
-          <time when="09:01:15" dur="PT266S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WNanXxruJ71s58DkkGgmUC" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2022-12-09"/>
+          <time when="09:01:15" dur="PT266S"/>
         </correspAction>
         <correspContext corresp="i-XY6m3GWJSqAZXrUn9krqg7">
           <ref type="record" target="prot-202223--035">Protokoll 2022/23:35 Fredagen den 9 december</ref>

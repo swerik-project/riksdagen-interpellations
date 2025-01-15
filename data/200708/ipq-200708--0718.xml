@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FWGPPxcLZRFDrb58TQhLuJ</idno>
-            <persName>Mats Berglind</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FWGPPxcLZRFDrb58TQhLuJ</idno>
-            <persName>Mats Berglind (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
             <persName>Jörgen Johansson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-FWGPPxcLZRFDrb58TQhLuJ</idno>
+            <persName>Mats Berglind</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Ez3Yq1PBVqbn7wjCD5r871" corresp="i-FWGPPxcLZRFDrb58TQhLuJ">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C5QWt4yTvna7qbNMfzomh4">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FLc41LqDuvm97gBVZrA175" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BDk8THwSH9T2dxQnADmMti">
-          <date when="2008-06-02"/>
-          <time when="19:29:30" dur="PT350S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JPrsuyCEQWePFMFqxDVRTu" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2008-06-02"/>
+          <time when="19:29:30" dur="PT350S"/>
         </correspAction>
         <correspContext corresp="i-BDk8THwSH9T2dxQnADmMti">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

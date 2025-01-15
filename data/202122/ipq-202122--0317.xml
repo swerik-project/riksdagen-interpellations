@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-CdKPr5PV7B8cJEHJFtQGGn</idno>
             <persName>Peter Helander</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-2pbCQ9sTRNsexp5HLoPQNM" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BSvVMzQXGPkiCtubS6uARz">
-          <date when="2022-02-15"/>
-          <time when="21:19:14" dur="PT79S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BG9dJCnyD36SGMMBUFHybi">
           <date when="2022-02-15"/>
+          <time when="21:19:14" dur="PT79S"/>
         </correspAction>
         <correspContext corresp="i-BSvVMzQXGPkiCtubS6uARz">
           <ref type="record" target="prot-202122--066">Protokoll 2021/22:66 Tisdagen den 15 februari</ref>

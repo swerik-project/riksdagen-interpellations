@@ -27,43 +27,29 @@
           <person gender="woman">
             <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
             <persName>Marléne Lund Kopparklint</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-KFC4PbcyhGcd7MEf2gU12z" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-05-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8d5aySCjB9JQo1bCCJ6j5c">
-          <date when="2022-06-29"/>
-          <time when="09:49:00" dur="PT109S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KaPzLGCbj2XZEAW9hYAkc8" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-06-29"/>
+          <time when="09:49:00" dur="PT109S"/>
         </correspAction>
         <correspAction xml:id="i-4Jb3iBX6HaqpAKY76RHbi6" type="discussed" corresp="i-S1jBpohzgG7cgcBjfgN1Fb">
           <date when="2022-06-29"/>

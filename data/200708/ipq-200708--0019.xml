@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
             <persName>Christian Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-KC4Q5RDQCTgxTvzCkToged" corresp="i-TX4XbGiaRx4H4u3YMo1twT">
           <date when="2007-09-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-E3AsUTeewxnnKNcpoRfvWA">
-          <date when="2007-09-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Ph5Dw6kegHrZLPux5fX6LS" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-09-21"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-94G9fBENVtgRPStimEcbgt">
-          <date when="2007-10-02"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-47fyKskwdLDgpFgyRdeqXC" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-10-02"/>

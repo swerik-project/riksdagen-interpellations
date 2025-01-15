@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-7EGhEVdWhirq9oiHvVcrQR</idno>
             <persName>Lotta Johnsson Fornarve</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-3n6EfqRxXCRiPPywwnVKqb" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-04-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5L3rTHDiQbkahRneLgBQdv">
-          <date when="2018-05-28"/>
-          <time when="11:00:50" dur="PT298S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q4c5m73UKY2QK8XD94n1Zw" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2018-05-28"/>
+          <time when="11:00:50" dur="PT298S"/>
         </correspAction>
         <correspContext corresp="i-5L3rTHDiQbkahRneLgBQdv">
           <ref type="record" target="prot-201718--120">Protokoll 2017/18:120 Måndagen den 28 maj</ref>

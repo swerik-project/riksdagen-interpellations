@@ -27,28 +27,28 @@
           <person gender="woman">
             <idno>i-3FUZpwdM2vfsfx1xv9BrMk</idno>
             <persName>Statsrådet Kristina Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KvKhrEa3hJDxAgEGxpLp41</idno>
             <persName>Katarina Brännström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-4vRYm8U5XoDiYLvAL3xt3n" corresp="i-3FUZpwdM2vfsfx1xv9BrMk">
           <date when="2015-03-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KYwNHxUQTTZ6Zh3DyUHkdS">
-          <date when="2015-04-10"/>
-          <time when="09:39:21" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4tTcWe3dwi2gcCccRcq1ES">
           <date when="2015-04-10"/>
+          <time when="09:39:21" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-KYwNHxUQTTZ6Zh3DyUHkdS">
           <ref type="record" target="ip-201415--430">Ett längre arbetsliv</ref>

@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-PPtpTU7erj7n8C4rdQihuK</idno>
             <persName>Lage Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PPtpTU7erj7n8C4rdQihuK</idno>
-            <persName>Lage Rahm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-SrX8XuqGdpo7AgrYB1xnC6" corresp="i-PPtpTU7erj7n8C4rdQihuK">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-E9zJ95gVpmbFPaqV83z3Xi">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GAtMy2P62HYzvqqDAk9GQ8" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NUQH7Y3qb2gMJtU1FUMqyQ">
-          <date when="2008-06-19"/>
-          <time when="10:11:38" dur="PT168S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ThXbU2kkNHsE27ueESKtFV" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-06-19"/>
+          <time when="10:11:38" dur="PT168S"/>
         </correspAction>
         <correspContext corresp="i-NUQH7Y3qb2gMJtU1FUMqyQ">
           <ref type="record" target="prot-200708--133">Riksdagens protokoll 2007/08:133 Torsdagen den 19 juni</ref>

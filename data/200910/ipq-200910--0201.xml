@@ -22,59 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-V3GjREvdYiesCjNn7quoGc</idno>
-            <persName>Hans Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V3GjREvdYiesCjNn7quoGc</idno>
-            <persName>Hans Olsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-RV58z4JKLyvuKAyG2XobP8</idno>
             <persName>Laila Bjurling (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TVwo4mCECu692GW3ntqQzo</idno>
             <persName>Kurt Kvarnström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
             <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V3GjREvdYiesCjNn7quoGc</idno>
+            <persName>Hans Olsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-XbfRN9Q4m2dksvjVJddbaE" corresp="i-V3GjREvdYiesCjNn7quoGc">
           <date when="2010-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-E4Re4JxyiwyET4VuDTQy5V">
-          <date when="2010-01-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PEvefgyV1jbjpNckUeEMQu" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-01-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7rDZ9k7wnG8a1mvMfuQrCK">
-          <date when="2010-03-05"/>
-          <time when="10:05:08" dur="PT225S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RHC9gSBkwETtzgBJVVoqRh" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-03-05"/>
+          <time when="10:05:08" dur="PT225S"/>
         </correspAction>
         <correspContext corresp="i-7rDZ9k7wnG8a1mvMfuQrCK">
           <ref type="record" target="prot-200910--083">Riksdagens protokoll 2009/10:83 Fredagen den 5 mars</ref>

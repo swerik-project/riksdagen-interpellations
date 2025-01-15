@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Göte Jonsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-TZikyr5QETx1Srqmhk827L</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-VYNowTFRrqojQp7xNTz4Eg" corresp="i-TZikyr5QETx1Srqmhk827L">
           <date when="1997-11-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SmnWozJmLavxCZr7Wn6TdT">
+        <correspAction type="received" xml:id="i-SmnWozJmLavxCZr7Wn6TdT" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8rRZnk1a2nQttzxxsSyFzu">
           <note>Besvarad</note>

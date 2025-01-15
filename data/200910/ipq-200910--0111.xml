@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-UPK5yGfrWgspE39uxdX67h" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2009-11-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VJG8PmBcn6o7pLdtpvXrZV">
-          <date when="2009-11-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3TYLinxNg36kW41UbiUX7j" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-11-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-G5CtUnVd1XtQDR1kuGQHyd">
-          <date when="2009-12-07"/>
-          <time when="11:41:10" dur="PT221S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6Ng555x8A9kW8fGbTcJWmv" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2009-12-07"/>
+          <time when="11:41:10" dur="PT221S"/>
         </correspAction>
         <correspContext corresp="i-G5CtUnVd1XtQDR1kuGQHyd">
           <ref type="record" target="prot-200910--044">Riksdagens protokoll 2009/10:44 Måndagen den 7 december</ref>

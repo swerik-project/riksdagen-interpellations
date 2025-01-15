@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-QD4GfL1GvnpP4sJhXAw7aL" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2010-02-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GfMazkL7atiMoahMbzzLQN">
-          <date when="2010-02-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-KWV4BKunoMfgjC6Y99xxHN" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
           <date when="2010-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Vwcw8KB9AEWG4itY5LmQcH">
-          <date when="2010-02-16"/>
-          <time when="15:31:41" dur="PT265S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q7HW3stKAGtahKw4KpxXbm" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
           <date when="2010-02-16"/>
+          <time when="15:31:41" dur="PT265S"/>
         </correspAction>
         <correspContext corresp="i-Vwcw8KB9AEWG4itY5LmQcH">
           <ref type="record" target="prot-200910--075">Riksdagens protokoll 2009/10:75 Tisdagen den 16 februari</ref>

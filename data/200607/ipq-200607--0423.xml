@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Nikos Papadopoulos</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-3dwtvStL5bZVUyeFz9yfKd" corresp="i-SYmctpvT7BxsqFzwPADUfw">
           <date when="2007-03-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-J39UKPBywasKmYiQrZuSkH">
-          <date when="2007-03-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QJ65jvepotXTBriqZXD1Yd" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-03-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XTebgunBEcJ6BTwEPSur8L">
-          <date when="2007-04-17"/>
-          <time when="14:03:07" dur="PT242S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Bm9DGTuyidSeRxxhAn4cH6" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-04-17"/>
+          <time when="14:03:07" dur="PT242S"/>
         </correspAction>
         <correspContext corresp="i-XTebgunBEcJ6BTwEPSur8L">
           <ref type="record" target="prot-200607--092">Riksdagens protokoll 2006/07:92 Tisdagen den 17 april</ref>

@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5JKbBodBpCZ1A4ajEWCxPv</idno>
             <persName>Mattias Bäckström Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8oMxhcJgQhWd17QDuVYTVh" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2019-03-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MKLuoE7tpy3sri1DDGHq3N">
-          <date when="2019-03-12"/>
-          <time when="18:42:57" dur="PT174S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-J6wcFHxYiwYTwyJ8hgfd9q">
           <date when="2019-03-12"/>
+          <time when="18:42:57" dur="PT174S"/>
         </correspAction>
         <correspContext corresp="i-MKLuoE7tpy3sri1DDGHq3N">
           <ref type="record" target="prot-201819--063">Protokoll 2018/19:63 Tisdagen den 12 mars</ref>

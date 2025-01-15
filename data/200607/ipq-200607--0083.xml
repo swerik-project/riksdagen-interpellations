@@ -22,46 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
             <persName>Ulla Andersson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-7dHhqxavFtuVYt5cdaEY4S" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2006-11-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G52pzfWXM6yJzGUJXo9tsT">
-          <date when="2006-11-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8qrNn7fGhCJx9PGd5RYBvd" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2006-11-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BkAUwhVDK3HSDqeXrqNnDW">
-          <date when="2007-01-16"/>
-          <time when="15:19:06" dur="PT235S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DxExEw6nqKCLi6JtXxyUy5" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2007-01-16"/>
+          <time when="15:19:06" dur="PT235S"/>
         </correspAction>
         <correspContext corresp="i-BkAUwhVDK3HSDqeXrqNnDW">
           <ref type="record" target="prot-200607--048">Riksdagens protokoll 2006/07:48 Tisdagen den 16 januari</ref>

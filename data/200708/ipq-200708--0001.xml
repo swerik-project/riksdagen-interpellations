@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-WnkcphR1R715LPiuRSSEqA" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2007-09-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2jZYLjykuXgFopZtz9xCvc">
-          <date when="2007-09-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XvZUHjiuuUU3x7iyqnA3Xq" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-09-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QKamsz6Qa2rsfrbDPTnVBP">
-          <date when="2007-10-26"/>
-          <time when="11:51:38" dur="PT313S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4xt9i9qDpsRgPg1EdxSRPN" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-10-26"/>
+          <time when="11:51:38" dur="PT313S"/>
         </correspAction>
         <correspContext corresp="i-QKamsz6Qa2rsfrbDPTnVBP">
           <ref type="record" target="prot-200708--017">Riksdagens protokoll 2007/08:17 Fredagen den 26 oktober</ref>

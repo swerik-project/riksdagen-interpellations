@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Bodil Valero</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-PJrjjA4chpXSEYTt12ZhVK" corresp="i-34FRvyXQKUigF3Qr9AwKJe">
           <date when="2008-08-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WYR4p5PnZkMvvD1fRJQYin">
-          <date when="2008-08-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CbYrTdXGtLu73wXGZ5Wezv" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-08-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-62VJzaMPKtrnnA1rbbgMjL">
-          <date when="2008-09-11"/>
-          <time when="14:51:27" dur="PT326S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LJe2ULMVaq4uacS3dBpzrk" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-09-11"/>
+          <time when="14:51:27" dur="PT326S"/>
         </correspAction>
         <correspContext corresp="i-62VJzaMPKtrnnA1rbbgMjL">
           <ref type="record" target="prot-200708--141">Riksdagens protokoll 2007/08:141 Torsdagen den 11 september</ref>

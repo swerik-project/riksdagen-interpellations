@@ -22,59 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
             <persName>Lars U Granberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-UsX254nMYn45TiEsRik6eZ" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2010-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Aymdc11WEq3hzsDGFCDuqf">
-          <date when="2010-05-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BFFBWWFoBHCJAEphKifrQ9" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K5SMgJkMHPHxRgViNwtacV">
-          <date when="2010-06-29"/>
-          <time when="12:39:00" dur="PT364S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SFktXmSY7MEtopoqFkkGno" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-06-29"/>
+          <time when="12:39:00" dur="PT364S"/>
         </correspAction>
         <correspContext corresp="i-K5SMgJkMHPHxRgViNwtacV">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

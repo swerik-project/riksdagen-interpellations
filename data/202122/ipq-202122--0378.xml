@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
             <persName>Statsrådet Johan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-36RF8vXN3ScduGcd7KYrAZ" corresp="i-5oQ4xWUi5Nh3NjqrvZeiNp">
           <date when="2022-02-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ln1JakhibhiAWAMpytS1rP">
-          <date when="2022-04-22"/>
-          <time when="09:22:45" dur="PT118S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YZMAt7kMD7GyrEb4TmkCnw" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-04-22"/>
+          <time when="09:22:45" dur="PT118S"/>
         </correspAction>
         <correspContext corresp="i-Ln1JakhibhiAWAMpytS1rP">
           <ref type="record" target="prot-202122--101">Protokoll 2021/22:101 Fredagen den 22 april</ref>

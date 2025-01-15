@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-XGshyFMh8wg9ExkBGYPjsr</idno>
-            <persName>Désirée Liljevall</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-XGshyFMh8wg9ExkBGYPjsr</idno>
-            <persName>Désirée Liljevall (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
             <persName>Hans Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-XGshyFMh8wg9ExkBGYPjsr</idno>
+            <persName>Désirée Liljevall</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-KHnBpDUX2UyuPMpG6YkZa5" corresp="i-XGshyFMh8wg9ExkBGYPjsr">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TKbJxoLWV7KiwiMohuG5t3">
-          <date when="2008-10-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BKTqugDeqBMCFn2P9tT8c4" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2jLw5PHJuk2AifLaueobpT">
-          <date when="2008-11-14"/>
-          <time when="10:31:36" dur="PT254S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HA4sNAMeBS9qJpAQ41bFcA" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-11-14"/>
+          <time when="10:31:36" dur="PT254S"/>
         </correspAction>
         <correspContext corresp="i-2jLw5PHJuk2AifLaueobpT">
           <ref type="record" target="prot-200809--028">Riksdagens protokoll 2008/09:28 Fredagen den 14 november</ref>

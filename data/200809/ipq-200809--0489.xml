@@ -25,28 +25,14 @@
           <person gender="man">
             <idno>i-DSgCixAdAvhSA1u2TeDZQH</idno>
             <persName>Jan Emanuel Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -56,18 +42,12 @@
         <correspAction type="sent" xml:id="i-KGquWBp3vjF5zMiyvTfshJ" corresp="i-DSgCixAdAvhSA1u2TeDZQH">
           <date when="2009-05-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5AWo3xc2hJs9RpLetwn1Z7">
-          <date when="2009-05-06"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RYSxkEqVKMzPu4WTBqQExi" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-05-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XTrZLrjmp5aVv3s8Jh2iJ3">
-          <date when="2009-06-01"/>
-          <time when="13:01:25" dur="PT405S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JbNkXTpE5VTrnGoLrLQRfe" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-06-01"/>
+          <time when="13:01:25" dur="PT405S"/>
         </correspAction>
         <correspContext corresp="i-XTrZLrjmp5aVv3s8Jh2iJ3">
           <ref type="record" target="prot-200809--125">Riksdagens protokoll 2008/09:125 Måndagen den 1 juni</ref>

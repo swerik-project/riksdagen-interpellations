@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-48Dg2ScegN8mpc2UJq5sE2</idno>
             <persName>Rebecka Le Moine</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Ut7aqdyne8VhVCWZsWyDdU" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BwenS6gwEsyeJJt1FJx8Uy">
-          <date when="2023-03-31"/>
-          <time when="11:39:33" dur="PT184S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QKMXgdFhRD31iMv8MAt2cJ" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-03-31"/>
+          <time when="11:39:33" dur="PT184S"/>
         </correspAction>
         <correspContext corresp="i-BwenS6gwEsyeJJt1FJx8Uy">
           <ref type="record" target="prot-202223--085">Protokoll 2022/23:85 Fredagen den 31 mars</ref>

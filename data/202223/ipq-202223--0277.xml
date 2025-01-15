@@ -27,50 +27,36 @@
           <person gender="man">
             <idno>i-CUTJJgAGx5ob6YXU1BcjVG</idno>
             <persName>Denis Begic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SRx5MYgiUBkgGLPueXgws5</idno>
             <persName>Ola Möller</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-ViJ12QcECKp5J4sEBkw5a2</idno>
             <persName>Sofie Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
+            <persName>Erik Slottner</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-FubBTTet2kiL1YVTdGnnsD" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-03-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5Tx72Yd7owLAxrPBTtSvRc">
-          <date when="2023-04-11"/>
-          <time when="15:37:17" dur="PT172S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AtECsxGx4a56dcpEZK2ibn" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-04-11"/>
+          <time when="15:37:17" dur="PT172S"/>
         </correspAction>
         <correspContext corresp="i-5Tx72Yd7owLAxrPBTtSvRc">
           <ref type="record" target="prot-202223--086">Protokoll 2022/23:86 Tisdagen den 11 april</ref>

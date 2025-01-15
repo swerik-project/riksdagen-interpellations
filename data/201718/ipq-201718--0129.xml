@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Statsrådet Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
             <persName>Lars Hjälmered</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LGuxQcep33nPWKPbzHtqsR</idno>
             <persName>Cecilie Tenfjord-Toftby</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-TUAfwN6meLEneDEeJnDBN5" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2017-11-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9VZadJq72mEsLuyEEmTso2">
-          <date when="2017-11-21"/>
-          <time when="15:08:09" dur="PT225S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VGFDCaKPHQY6DJ4AkgCoxh">
           <date when="2017-11-21"/>
+          <time when="15:08:09" dur="PT225S"/>
         </correspAction>
         <correspContext corresp="i-9VZadJq72mEsLuyEEmTso2">
           <ref type="record" target="prot-201718--034">Protokoll 2017/18:34 Tisdagen den 21 november</ref>

@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Bill (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-R9MuNkxgtjYredKHhh6ujV</idno>
           </person>
           <person gender="man">
-            <persName>utbildningsministern</persName>
+            <persName>Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,15 +37,14 @@
         <correspAction type="sent" xml:id="i-Y8ab1EnZX3oJmvXnHFi4Xr" corresp="i-R9MuNkxgtjYredKHhh6ujV">
           <date when="1998-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VMr77pRyeuDvohWGsV6Q7z">
+        <correspAction type="received" xml:id="i-VMr77pRyeuDvohWGsV6Q7z" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>utbildningsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Mg7GDk4bPG5LTceEi2N56S">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-P3iHr15z17p4YVAm78kvha">
-          <date when="1998-01-26"/>
+          <date when="1999-01-26"/>
         </correspAction>
         <correspContext corresp="i-P3iHr15z17p4YVAm78kvha">
           <ref type="record" target="prot-199899--045">Prot. 1998/99:45</ref>

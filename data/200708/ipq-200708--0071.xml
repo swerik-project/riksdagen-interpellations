@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Bosse Ringholm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-TG2uAuF2sENc1dUY1KwWMg" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <date when="2007-10-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-48jJ14waviRw9ofWmehME7">
-          <date when="2007-10-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XoTaAvM8wBaX59RTGc2PWq" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-10-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-X6b481XeESQrXt5qVFHytu">
-          <date when="2007-11-02"/>
-          <time when="10:54:00" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-W7yqoZDipRHsnLzGZNFfDU" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-11-02"/>
+          <time when="10:54:00" dur="PT267S"/>
         </correspAction>
         <correspContext corresp="i-X6b481XeESQrXt5qVFHytu">
           <ref type="record" target="prot-200708--021">Riksdagens protokoll 2007/08:21 Fredagen den 2 november</ref>

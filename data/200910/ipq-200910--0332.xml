@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
+            <persName>Ann-Christin Ahlberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-4hPsfxgjMLiY23vXxbRgA8" corresp="i-79cRBqVjCpwABr2BiKwH7S">
           <date when="2010-04-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-D2m5XqUy5SCTsV8McbcA1D">
-          <date when="2010-04-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MpNpBzwPhnAsBymeYt7f5z" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-04-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C641jG9c2L2QzwaKsj3HmR">
-          <date when="2010-04-27"/>
-          <time when="15:07:00" dur="PT246S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MJhyYksSp5rMv3GHQbbMHW" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-04-27"/>
+          <time when="15:07:00" dur="PT246S"/>
         </correspAction>
         <correspContext corresp="i-C641jG9c2L2QzwaKsj3HmR">
           <ref type="record" target="prot-200910--110">Riksdagens protokoll 2009/10:110 Tisdagen den 27 april</ref>

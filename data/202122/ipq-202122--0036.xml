@@ -27,42 +27,28 @@
           <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TxLwXp3MJemR8iGdYER2aZ</idno>
             <persName>Ali Esbati</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-V94NXHxQRsQu6mMDHyZAxs</idno>
             <persName>Teres Lindberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-UAFPN7FcGXMQCBATEWuzqU" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-10-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K1PhLaB6GjX1FwZXDX6LGB">
-          <date when="2021-10-29"/>
-          <time when="10:15:00" dur="PT248S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Svu1ZDhzK5ZYnYyt83mK3i" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-10-29"/>
+          <time when="10:15:00" dur="PT248S"/>
         </correspAction>
         <correspAction xml:id="i-9N19reJBDeojpG1kDNzEMH" type="discussed" corresp="i-Srv2XCR7hGVyZ66wLkW6ad">
           <date when="2021-10-29"/>

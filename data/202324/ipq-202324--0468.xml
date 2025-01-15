@@ -24,46 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-VKn82G8HqN17j19VTfbE9g</idno>
             <persName>Heléne Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-L9CZiXn8bTbPsWkiSbzSLm</idno>
             <persName>Mattias Ottosson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-38jBhirK3Q2WpsVMafAn24</idno>
             <persName>Hanna Westerén</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-WA7a5PQWxdFtUmbwsiCJA3" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2024-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9rxd6DYYUjK7NKuBsLh6qh">
-          <date when="2024-03-15"/>
-          <time when="12:24:56" dur="PT111S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7cKFcRxf1etiXXWEnYkqv8" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2024-03-15"/>
+          <time when="12:24:56" dur="PT111S"/>
         </correspAction>
         <correspContext corresp="i-9rxd6DYYUjK7NKuBsLh6qh">
           <ref type="record" target="prot-202324--085">Protokoll 2023/24:85 Fredagen den 15 mars</ref>

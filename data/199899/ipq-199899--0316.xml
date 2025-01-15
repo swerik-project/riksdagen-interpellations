@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Ulf Nilsson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-nX9ipUS8FhkbQHkWWytwf</idno>
           </person>
           <person gender="woman">
-            <persName>statsrådet Ingegerd Wämersson</persName>
+            <persName>Ingegerd Wärnersson</persName>
             <idno>i-3wVE19WEnkoueWU41a2FfR</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-N4iVPG8PcwoqEoZ35msqLB" corresp="i-nX9ipUS8FhkbQHkWWytwf">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7LmL6Y3YVSvTEpUC6gD9jC">
+        <correspAction type="received" xml:id="i-7LmL6Y3YVSvTEpUC6gD9jC" corresp="i-3wVE19WEnkoueWU41a2FfR">
           <note>date unknown</note>
-          <name>statsrådet Ingegerd Wämersson</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-7dY5arUFJCFYC8EyjdqzPg">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-DCq6C8LtgfEnP4AFEg48hA">
-          <date when="1998-05-25"/>
+          <date when="1999-05-25"/>
         </correspAction>
         <correspContext corresp="i-DCq6C8LtgfEnP4AFEg48hA">
           <ref type="record" target="prot-199899--099">Prot. 1998/99:99</ref>

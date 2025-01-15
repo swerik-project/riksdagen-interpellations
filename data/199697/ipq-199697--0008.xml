@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Lager (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-E2VEuW8StdbwuJyGXtUP4D</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-7Kwn6sfesX5B2RACwaPxWz" corresp="i-E2VEuW8StdbwuJyGXtUP4D">
           <date when="1996-09-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BBABFZCAXY3Hyg6gwsT2gH">
+        <correspAction type="received" xml:id="i-BBABFZCAXY3Hyg6gwsT2gH" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WmMPsfsuM4sUGgryJCSQVh">
           <note>Besvarad</note>

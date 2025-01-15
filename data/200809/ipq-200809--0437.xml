@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
-            <persName>Karin Svensson Smith</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
-            <persName>Karin Svensson Smith (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
             <persName>Jan Lindholm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-5QNmudGpnjjRJCTYzakn9H</idno>
+            <persName>Karin Svensson Smith</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Doci1PJzTe9BH31ZTrnNNq" corresp="i-5QNmudGpnjjRJCTYzakn9H">
           <date when="2009-03-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XkikPyHUVCAyZCQK3aWBtC">
-          <date when="2009-03-31"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DbYFKw2S72p9Y8nfiizoHE" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-03-31"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SPuVyrxJsrKzDkrznpCLyc">
-          <date when="2009-05-11"/>
-          <time when="11:21:42" dur="PT442S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TABt7rJDneV51NzfxPatYP" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-05-11"/>
+          <time when="11:21:42" dur="PT442S"/>
         </correspAction>
         <correspContext corresp="i-SPuVyrxJsrKzDkrznpCLyc">
           <ref type="record" target="prot-200809--115">Riksdagens protokoll 2008/09:115 Måndagen den 11 maj</ref>

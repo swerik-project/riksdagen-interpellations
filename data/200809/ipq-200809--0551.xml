@@ -24,37 +24,23 @@
         <listPerson>
           <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Göran Persson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
             <persName>Leif Pagrotsky (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-VycHD6fXe8juyAtwRgZYtY" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9bNXMxjMPGZkxFpx2UVFfT">
-          <date when="2009-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2i2ziEqXwwCbbRxHQhZDWK" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-P4SetwviEuuTKDEEUPsCBs">
-          <date when="2009-06-01"/>
-          <time when="15:39:37" dur="PT208S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EzeLntceDDsKgvaBjC5Rhh" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-06-01"/>
+          <time when="15:39:37" dur="PT208S"/>
         </correspAction>
         <correspContext corresp="i-P4SetwviEuuTKDEEUPsCBs">
           <ref type="record" target="prot-200809--125">Riksdagens protokoll 2008/09:125 Måndagen den 1 juni</ref>

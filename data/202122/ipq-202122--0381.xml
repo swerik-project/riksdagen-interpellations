@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FTs5p2FETHt9pxByANAPag" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2022-02-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8vVZkV3sG9sKBDUGh4yMuv">
-          <date when="2022-03-17"/>
-          <time when="15:40:43" dur="PT209S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QriJnafLAiVNaawksjcXUN">
           <date when="2022-03-17"/>
+          <time when="15:40:43" dur="PT209S"/>
         </correspAction>
         <correspContext corresp="i-8vVZkV3sG9sKBDUGh4yMuv">
           <ref type="record" target="prot-202122--083">Protokoll 2021/22:83 Torsdagen den 17 mars</ref>

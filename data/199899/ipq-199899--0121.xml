@@ -24,7 +24,7 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Daléus (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
@@ -33,21 +33,24 @@
             <persName>statsministern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR14</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-PQPsTZLzp7g3nVXGTZmEnk" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NfHczii2ZLXeZFWS9RPstg">
+        <correspAction type="received" xml:id="i-NfHczii2ZLXeZFWS9RPstg" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YVtQx9gdJQGiGDKzNFuxjp">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-YQRcgC98SmJPMbduRH7gpN">
-          <date when="1998-03-02"/>
+          <date when="1999-03-02"/>
         </correspAction>
         <correspContext corresp="i-YQRcgC98SmJPMbduRH7gpN">
           <ref type="record" target="prot-199899--061">Prot. 1998/99:61</ref>

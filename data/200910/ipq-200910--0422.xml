@@ -25,35 +25,14 @@
           <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
             <persName>Göte Wahlström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
-            <persName>Göte Wahlström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-G1EPd77YVdFTtteNZNn4tg" corresp="i-J95EwJKvWuN9JUNcJSJKgp">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Bva7m2iN3noj2wTFo43ZgC">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JCKN9n6fWh97AFcPgigwML" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LmFzX7TsStJxLJRbkGq92P">
-          <date when="2010-06-09"/>
-          <time when="16:30:30" dur="PT336S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XcSz7M1KhusDuJ1pwoHRS5" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-06-09"/>
+          <time when="16:30:30" dur="PT336S"/>
         </correspAction>
         <correspContext corresp="i-LmFzX7TsStJxLJRbkGq92P">
           <ref type="record" target="prot-200910--135">Riksdagens protokoll 2009/10:135 Onsdagen den 9 juni</ref>

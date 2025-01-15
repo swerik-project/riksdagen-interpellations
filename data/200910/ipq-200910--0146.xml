@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-TvPyEtuwNMQMGBtdEqsZRN</idno>
-            <persName>Meeri Wasberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TvPyEtuwNMQMGBtdEqsZRN</idno>
-            <persName>Meeri Wasberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TvPyEtuwNMQMGBtdEqsZRN</idno>
+            <persName>Meeri Wasberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-JC4Hrm8hDyLzaUEkkvhWRF" corresp="i-TvPyEtuwNMQMGBtdEqsZRN">
           <date when="2009-11-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KNL8rLY1SDaiEiKjn7fVuz">
-          <date when="2009-12-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-E7CBbxWvw7MZv6DYFedEH6" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RdzphtcdrJ3aAZCt9r3N2o">
-          <date when="2009-12-21"/>
-          <time when="14:17:44" dur="PT226S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KsuxzZpSVrhpt92GdLWdeH" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-12-21"/>
+          <time when="14:17:44" dur="PT226S"/>
         </correspAction>
         <correspContext corresp="i-RdzphtcdrJ3aAZCt9r3N2o">
           <ref type="record" target="prot-200910--055">Riksdagens protokoll 2009/10:55 Måndagen den 21 december</ref>

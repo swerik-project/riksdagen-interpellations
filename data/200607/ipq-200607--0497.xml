@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
             <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AyN7HRP1y38PeQoLunJifb</idno>
             <persName>Jörgen Johansson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Jt9AKRyev2rTfBfY2HuVn8" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2007-04-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-1pQBkV7kR3bAf43H2Yp4T">
-          <date when="2007-04-26"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-L7pkinXXJdiAb5Fj2dD14T" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2007-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BLkSbtXRxThNrRmEPwuSRM">
-          <date when="2007-05-11"/>
-          <time when="10:44:48" dur="PT303S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VrV6mXtSeoHRVnshUxBoCK" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2007-05-11"/>
+          <time when="10:44:48" dur="PT303S"/>
         </correspAction>
         <correspContext corresp="i-BLkSbtXRxThNrRmEPwuSRM">
           <ref type="record" target="prot-200607--105">Riksdagens protokoll 2006/07:105 Fredagen den 11 maj</ref>

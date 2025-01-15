@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-C7VUi5qpZan6LkLYeySXyY" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-09-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EqGdHJuEssfte1BrECsYnk">
-          <date when="2017-10-19"/>
-          <time when="12:01:00" dur="PT121S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3xPJjVpcaxkVgpDTk5yjik" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-10-19"/>
+          <time when="12:01:00" dur="PT121S"/>
         </correspAction>
         <correspContext corresp="i-EqGdHJuEssfte1BrECsYnk">
           <ref type="record" target="prot-201718--020">Protokoll 2017/18:20 Torsdagen den 19 oktober</ref>

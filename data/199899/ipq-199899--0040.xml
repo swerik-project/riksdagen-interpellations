@@ -23,14 +23,19 @@
         <listPerson>
           <person gender="man">
             <persName>Leif Carlson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-3keJ4YLp7mio52y4ibMPhZ</idno>
           </person>
           <person gender="man">
-            <persName>socialministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +43,8 @@
         <correspAction type="sent" xml:id="i-Qy9aQDSBR9mNXPpi4YVPLE" corresp="i-3keJ4YLp7mio52y4ibMPhZ">
           <date when="1998-11-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TrJK17SfVC88tYkEzXzejU">
+        <correspAction type="received" xml:id="i-TrJK17SfVC88tYkEzXzejU" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-HW6iVyTrjHshfBTLdzVoqK">
           <note>Besvarad</note>

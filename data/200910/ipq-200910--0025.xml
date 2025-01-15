@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stock (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
+            <persName>Helene Petersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-2xSAMLKP9RgNFAv7nNGcpj" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2009-10-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A1stHu9XG9j6rGdJjiZvCt">
-          <date when="2009-10-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SQcE87eFriqu9SBVc8eGmN" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-10-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Tcp1ZWdJnFUf5gxi6WTsJN">
-          <date when="2009-10-20"/>
-          <time when="18:00:31" dur="PT243S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7qEygDXdgrXMz7nE23CvPt" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-10-20"/>
+          <time when="18:00:31" dur="PT243S"/>
         </correspAction>
         <correspContext corresp="i-Tcp1ZWdJnFUf5gxi6WTsJN">
           <ref type="record" target="prot-200910--017">Riksdagens protokoll 2009/10:17 Tisdagen den 20 oktober</ref>

@@ -25,37 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
+            <persName>Åsa Regnér</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-UcvitfZEQknmgLZbmMDU1G" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2017-12-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UnycdvyR1CoXybkfRHEMj4">
-          <date when="2018-01-23"/>
-          <time when="13:01:40" dur="PT278S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-K5Th6U2Ur4EA4eDq8CLiHH" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2018-01-23"/>
+          <time when="13:01:40" dur="PT278S"/>
         </correspAction>
         <correspContext corresp="i-UnycdvyR1CoXybkfRHEMj4">
           <ref type="record" target="prot-201718--059">Protokoll 2017/18:59 Tisdagen den 23 januari</ref>

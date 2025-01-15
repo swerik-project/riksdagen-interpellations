@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
             <persName>Anne Ludvigsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
+            <persName>Anne Ludvigsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Anne Ludvigsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-ThWDi1abPhddDntTsDkVhr" corresp="i-DDTGf6wkyXKiMd3kYJ4KQv">
           <date when="2009-12-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A7k6Vvp6MxoF3qBkdQCd1d">
-          <date when="2009-12-04"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EACMpQugx9kPUvBv7LLRKC" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-12-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MUAuyjd6f1BYXTaMtc2X34">
-          <date when="2009-12-21"/>
-          <time when="12:39:48" dur="PT172S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JUHDzv32gjWrqWBu1kGCa9" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-12-21"/>
+          <time when="12:39:48" dur="PT172S"/>
         </correspAction>
         <correspContext corresp="i-MUAuyjd6f1BYXTaMtc2X34">
           <ref type="record" target="prot-200910--055">Riksdagens protokoll 2009/10:55 Måndagen den 21 december</ref>

@@ -25,21 +25,14 @@
           <person gender="woman">
             <idno>i-VkgCZCfoAga9JDLAtq7rRZ</idno>
             <persName>Agneta Gille</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-S8uMMa5FZwsNXJNAJf8TM4" corresp="i-VkgCZCfoAga9JDLAtq7rRZ">
           <date when="2007-01-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5phFfHDgBA46WrkMdbbQdL">
-          <date when="2007-02-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MpEYnsmRT5LpAzjh88ro5k" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-02-01"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-AbPZLqrnMtdghEqT4b3qmP">
-          <date when="2007-02-16"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-618986JQn79PnQs2btR7pk" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-02-16"/>

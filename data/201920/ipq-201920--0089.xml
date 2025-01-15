@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-SgLSQ3phK7HUZecEbLumwe</idno>
             <persName>Ingemar Kihlström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-UuhTRMa93N5AZ9Jxpjd6HA" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-11-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-q3BDxPXaVEnetJsuybdLA">
-          <date when="2019-11-26"/>
-          <time when="19:51:52" dur="PT142S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EULaG4jfKkHjhZEoDSV5az" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-11-26"/>
+          <time when="19:51:52" dur="PT142S"/>
         </correspAction>
         <correspContext corresp="i-q3BDxPXaVEnetJsuybdLA">
           <ref type="record" target="prot-201920--038">Protokoll 2019/20:38 Tisdagen den 26 november</ref>

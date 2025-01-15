@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-ABapMH1nKRJTT2RpdAHLxb" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-10-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GGa9KYPytLue5HfF5rJ53E">
-          <date when="2021-10-29"/>
-          <time when="11:17:31" dur="PT145S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XP9RTyMKaTJ4pJ6TaqP9PR" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-10-29"/>
+          <time when="11:17:31" dur="PT145S"/>
         </correspAction>
         <correspContext corresp="i-GGa9KYPytLue5HfF5rJ53E">
           <ref type="record" target="prot-202122--024">Protokoll 2021/22:24 Fredagen den 29 oktober</ref>

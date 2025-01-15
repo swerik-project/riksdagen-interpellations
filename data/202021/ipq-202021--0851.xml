@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ybw8JnrmHGCsqpipBke8a7</idno>
             <persName>Mikael Oscarsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-JUvUw73PkeFaQZX2RxACUp" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-08-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N4LmxkckbqyvNqbu23588X">
-          <date when="2021-09-09"/>
-          <time when="17:31:31" dur="PT73S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HjTUdQBzExGiGAfPfxEmg2" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-09-09"/>
+          <time when="17:31:31" dur="PT73S"/>
         </correspAction>
         <correspContext corresp="i-N4LmxkckbqyvNqbu23588X">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

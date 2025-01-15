@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-9EqBr6nbX4xMmuEgNpXcks" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2008-10-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2E22x5nSTvZrZ9BmWyLdBt">
-          <date when="2008-10-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-X8Fr13mweV4FK4x6dsPWAq" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-10-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2p4sC7CaGxCvEinabeCquV">
-          <date when="2008-11-11"/>
-          <time when="21:24:37" dur="PT209S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GecPYZeHZb5gnbEpk9sn98" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-11-11"/>
+          <time when="21:24:37" dur="PT209S"/>
         </correspAction>
         <correspContext corresp="i-2p4sC7CaGxCvEinabeCquV">
           <ref type="record" target="prot-200809--025">Riksdagens protokoll 2008/09:25 Tisdagen den 11 november</ref>

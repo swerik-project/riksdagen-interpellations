@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
+            <persName>Lars Hjälmered</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
-            <persName>Lars Hjälmered</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-4qtCe6KD9eT5cjpdbFwawi" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2015-10-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KSuEVxv8vXnc2SQ5U13gbe">
-          <date when="2015-10-22"/>
-          <time when="13:33:45" dur="PT82S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XWmLZzHTM64sYZEHiwbhCw" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2015-10-22"/>
+          <time when="13:33:45" dur="PT82S"/>
         </correspAction>
         <correspContext corresp="i-KSuEVxv8vXnc2SQ5U13gbe">
           <ref type="record" target="prot-201516--018">Protokoll 2015/16:18 Torsdagen den 22 oktober</ref>

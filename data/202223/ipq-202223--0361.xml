@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-DeAZWbLpSkG9nisLzWV7AT" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-bpJd3Bf5dFNN1Ah5BEYRF">
-          <date when="2023-06-02"/>
-          <time when="10:34:02" dur="PT71S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BWZF8tqP5yo399PYdRYBs6" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-06-02"/>
+          <time when="10:34:02" dur="PT71S"/>
         </correspAction>
         <correspContext corresp="i-bpJd3Bf5dFNN1Ah5BEYRF">
           <ref type="record" target="prot-202223--118">Protokoll 2022/23:118 Fredagen den 2 juni</ref>

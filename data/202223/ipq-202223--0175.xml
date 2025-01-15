@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-S9N4wWD2qfoGM8u1D3QrvL</idno>
             <persName>Nadja Awad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-K1FsfdexUX8ZPjNRNSGiWT" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YNLNZjWhea4Qhsc5K6U3MS">
-          <date when="2023-02-17"/>
-          <time when="11:23:45" dur="PT265S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VFVS8G5vXczwvaf4BEgD5V" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-02-17"/>
+          <time when="11:23:45" dur="PT265S"/>
         </correspAction>
         <correspContext corresp="i-YNLNZjWhea4Qhsc5K6U3MS">
           <ref type="record" target="prot-202223--065">Protokoll 2022/23:65 Fredagen den 17 februari</ref>

@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RKrz98MNg1WWM4snerB53Z" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QBnHTgtjt29P3F7qNMqD9p">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Ay9tfHSUuxBUsZapQXQk4" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EwQtsjyhkjdARVqSN95Mx9">
-          <date when="2010-06-29"/>
-          <time when="11:08:59" dur="PT164S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KWKCVp8UspAmnCsmGpJFJi" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2010-06-29"/>
+          <time when="11:08:59" dur="PT164S"/>
         </correspAction>
         <correspContext corresp="i-EwQtsjyhkjdARVqSN95Mx9">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

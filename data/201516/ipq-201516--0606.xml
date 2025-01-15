@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-DFCckocPZRrPWtJdyEGs7s" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2016-04-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2duEXv9c12aYvjKypEMiq3">
-          <date when="2016-05-17"/>
-          <time when="20:18:45" dur="PT111S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XGEE6SaG8QvhZHThjTTGZX">
           <date when="2016-05-17"/>
+          <time when="20:18:45" dur="PT111S"/>
         </correspAction>
         <correspContext corresp="i-2duEXv9c12aYvjKypEMiq3">
           <ref type="record" target="prot-201516--106">Protokoll 2015/16:106 Tisdagen den 17 maj</ref>

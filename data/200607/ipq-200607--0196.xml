@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-WG11xmCpAW9nyyXv1sJFAK</idno>
             <persName>Helena Leander (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RfkFM1YZaZeLWBBAecbpQi" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-962ZadmFCCtP78Sj9Fr74V">
-          <date when="2006-12-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Dn8ssz5gfSwLypQb8xNAEM" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Kv4YxbgyvLMb1YEb1Lj2jM">
-          <date when="2007-01-19"/>
-          <time when="11:10:11" dur="PT212S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FtqJZ6w3sAwhCkEmMy9aGF" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2007-01-19"/>
+          <time when="11:10:11" dur="PT212S"/>
         </correspAction>
         <correspContext corresp="i-Kv4YxbgyvLMb1YEb1Lj2jM">
           <ref type="record" target="prot-200607--051">Riksdagens protokoll 2006/07:51 Fredagen den 19 januari</ref>

@@ -27,50 +27,43 @@
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-73o5S2z3dmzixAt7gzz34E</idno>
             <persName>Sofia Westergren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-5wagvT59VSudHziePaZhM2" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2019-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HaCAprHzG2iddSvCwtY9PG">
-          <date when="2019-04-23"/>
-          <time when="14:00:35" dur="PT79S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JD9gvXN2d4p35QAxE8YzBF" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-04-23"/>
+          <time when="14:00:35" dur="PT79S"/>
         </correspAction>
         <correspAction xml:id="i-4RxwSGVJ9apNCghfmf2TK9" type="discussed" corresp="i-Ldb2oqPG98BReLEGLTqU4A">
           <date when="2019-04-23"/>

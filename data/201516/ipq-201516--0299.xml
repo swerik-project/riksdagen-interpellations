@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
             <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JJ4CrEYZihkA9MG7wCR7X5" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2016-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HwWBauVQHoUEzEsvNaZP5e">
-          <date when="2016-01-26"/>
-          <time when="19:43:02" dur="PT369S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F8Tvs1Hx4roudUBtF1M2ZE" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2016-01-26"/>
+          <time when="19:43:02" dur="PT369S"/>
         </correspAction>
         <correspContext corresp="i-HwWBauVQHoUEzEsvNaZP5e">
           <ref type="record" target="prot-201516--058">Protokoll 2015/16:58 Tisdagen den 26 januari</ref>

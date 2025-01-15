@@ -27,28 +27,28 @@
           <person gender="woman">
             <idno>i-7p7goD9VC5HZh4VdEN1AFo</idno>
             <persName>Sara Gille</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Vk3BD1VwPAAm9tVnGHJL8B</idno>
             <persName>Mona Olin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-HVRG5UPS5AFUZvmhED2Dmc" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2023-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EBZfTh1oSZ2XLkWfgen6p8">
-          <date when="2023-12-11"/>
-          <time when="17:44:34" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-P4DH6ArSEKupzdgLXtMk1g">
           <date when="2023-12-11"/>
+          <time when="17:44:34" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-EBZfTh1oSZ2XLkWfgen6p8">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

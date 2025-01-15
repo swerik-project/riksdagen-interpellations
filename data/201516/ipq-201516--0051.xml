@@ -27,28 +27,28 @@
           <person gender="man">
             <idno>i-RgiFneJos5UFYxcw7xkPxz</idno>
             <persName>Erik Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TigPaPfe7eBTgfMXr1phgo</idno>
             <persName>Mats Green</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +64,9 @@
         <correspAction type="received" xml:id="i-UioujfY1zBzxkH9ESrLCUF" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-10-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-S7e5Nn7bDnFoRu5jv1wLeM">
-          <date when="2015-10-23"/>
-          <time when="10:10:10" dur="PT264S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2rjTPNgNdTf8bCDzcEevF4">
           <date when="2015-10-23"/>
+          <time when="10:10:10" dur="PT264S"/>
         </correspAction>
         <correspContext corresp="i-S7e5Nn7bDnFoRu5jv1wLeM">
           <ref type="record" target="prot-201516--019">Protokoll 2015/16:19 Fredagen den 23 oktober</ref>

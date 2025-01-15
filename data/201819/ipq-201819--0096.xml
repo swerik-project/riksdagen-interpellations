@@ -24,59 +24,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson i Luleå</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
-            <persName>Mattias Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-73o5S2z3dmzixAt7gzz34E</idno>
             <persName>Sofia Westergren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SUAEH6RCke4pVRKPPGZ14p</idno>
+            <persName>Mattias Karlsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -92,12 +71,9 @@
         <correspAction type="received" xml:id="i-LmQmMqydJiJd3XhwVZaUY8" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4cqbeU3JWsbBfsSJdrVgid">
-          <date when="2019-04-23"/>
-          <time when="13:02:17" dur="PT110S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8Rmm8QmoV8ZrdPpTzjmcic" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-04-23"/>
+          <time when="13:02:17" dur="PT110S"/>
         </correspAction>
         <correspAction xml:id="i-RsweWusGALm5bvHMxxTuf" type="discussed" corresp="i-SUAEH6RCke4pVRKPPGZ14p">
           <date when="2019-04-23"/>

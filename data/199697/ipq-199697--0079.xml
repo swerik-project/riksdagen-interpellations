@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Johansson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-8tpDmPvgnXjJkWGy9k68Ba</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-ApDVMKyzoyuNFpWktfgT89" corresp="i-8tpDmPvgnXjJkWGy9k68Ba">
           <date when="1996-11-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9TAdHetwSeqQQ41zkfiS4E">
+        <correspAction type="received" xml:id="i-9TAdHetwSeqQQ41zkfiS4E" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Bps5CfWym6K4HTAAzS49UG">
           <note>Besvarad</note>

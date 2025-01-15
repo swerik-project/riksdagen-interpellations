@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
             <persName>Sylvia Lindgren (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
+            <persName>Matilda Ernkrans</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-RLHCxaC9TwCSu9wpFMtkYK" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GR2FvsvwhgJA4xgAq3TopZ">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-T7Dyz99Q3BpXTLL5wGfACj" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XdQEotc59yzAtECLfmYZbx">
-          <date when="2008-06-13"/>
-          <time when="10:17:02" dur="PT206S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JM4h69ZvhBHXh6d2W91fMD" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2008-06-13"/>
+          <time when="10:17:02" dur="PT206S"/>
         </correspAction>
         <correspContext corresp="i-XdQEotc59yzAtECLfmYZbx">
           <ref type="record" target="prot-200708--128">Riksdagens protokoll 2007/08:128 Fredagen den 13 juni</ref>

@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
-            <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-LzTEdVdf1xwBggoSshMrHP</idno>
             <persName>Per Svedberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
             <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LHnM4Er87J2DaH7xRg62zz</idno>
             <persName>Roger Tiefensee (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
+            <persName>Jasenko Omanović</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Lp3sCwL6grhnjXBYWRXo5A" corresp="i-AqkTDdERRgq7MWP7ajMpZo">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Qsmha2atJkdiNi8rmjMNgE">
-          <date when="2010-05-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-75AHFmThT8eHGUen1PYtbB" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U56MhDtzcVWsXPm2fgkwQy">
-          <date when="2010-06-28"/>
-          <time when="14:02:14" dur="PT247S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-81kiKg6vKoKiiPtFzBAnQ7" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-06-28"/>
+          <time when="14:02:14" dur="PT247S"/>
         </correspAction>
         <correspContext corresp="i-U56MhDtzcVWsXPm2fgkwQy">
           <ref type="record" target="prot-200910--144">Riksdagens protokoll 2009/10:144 Måndagen den 28 juni</ref>

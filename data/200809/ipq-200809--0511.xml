@@ -23,38 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
+            <persName>Mats Pertoft</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-JEdSv4Fx8fiLdGAHavpRrB" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MqLVSnSKriLveZ94SajQTR">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CZGSjRUoUfSWXWsyV8XjkH" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YGZ3zJc6ejLGaTJmZ26kUX">
-          <date when="2009-06-01"/>
-          <time when="16:00:44" dur="PT365S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GzvfsA73f5Xz89QTmQNYnq" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2009-06-01"/>
+          <time when="16:00:44" dur="PT365S"/>
         </correspAction>
         <correspContext corresp="i-YGZ3zJc6ejLGaTJmZ26kUX">
           <ref type="record" target="prot-200809--125">Riksdagens protokoll 2008/09:125 Måndagen den 1 juni</ref>

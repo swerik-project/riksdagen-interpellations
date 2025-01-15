@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-Q6c6PTb1KbongkKbS6VDAD</idno>
             <persName>Joakim Sandell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
             <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Bj6Z8jwwCMSWahBGcymt36" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-10-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9uYw1YpUagiEudtZNMdVwN">
-          <date when="2023-10-24"/>
-          <time when="15:31:57" dur="PT126S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NtR8FSKftnLgUdrQfwGQQA">
           <date when="2023-10-24"/>
+          <time when="15:31:57" dur="PT126S"/>
         </correspAction>
         <correspContext corresp="i-9uYw1YpUagiEudtZNMdVwN">
           <ref type="record" target="prot-202324--021">Protokoll 2023/24:21 Tisdagen den 24 oktober</ref>

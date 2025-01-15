@@ -24,37 +24,30 @@
         <listPerson>
           <person gender="woman">
             <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisings Backa</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Gunilla Carlsson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
-            <persName>Andreas Carlgren (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FrC3WwfjWAuoWu4BnbedDa</idno>
             <persName>Jan-Olof Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
+            <persName>Andreas Carlgren</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +56,12 @@
         <correspAction type="sent" xml:id="i-B16LDCvQqvZgAzG5oj3rWh" corresp="i-HNZrYrLbstv8KywRLm2FMv">
           <date when="2009-10-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GXYHC5pt2ZwH3mUjBv6j6G">
-          <date when="2009-10-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-MuqfqUencpJ7nXgehodqfU" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2009-10-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HKARD4s4St9bPcyKDSrhFH">
-          <date when="2009-12-08"/>
-          <time when="18:00:31" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-rzZRRqQ9KGVeSVgkZyhq3" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
           <date when="2009-12-08"/>
+          <time when="18:00:31" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-HKARD4s4St9bPcyKDSrhFH">
           <ref type="record" target="prot-200910--045">Riksdagens protokoll 2009/10:45 Tisdagen den 8 december</ref>

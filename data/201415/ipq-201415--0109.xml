@@ -27,43 +27,36 @@
           <person gender="man">
             <idno>i-Xzt52E3ZeNyJ9HLW4B5Sk1</idno>
             <persName>Statsminister Stefan Löfven</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TX4XbGiaRx4H4u3YMo1twT</idno>
             <persName>Christian Holm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-5msNENKi5CpNttYJh45ouh" corresp="i-Xzt52E3ZeNyJ9HLW4B5Sk1">
           <date when="2014-11-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9gTyRiR4X6hJXk1eCkG8hE">
-          <date when="2015-02-03"/>
-          <time when="13:01:06" dur="PT197S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Q7nGgj4D4N9BEVNKEcYKm2" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2015-02-03"/>
+          <time when="13:01:06" dur="PT197S"/>
         </correspAction>
         <correspContext corresp="i-9gTyRiR4X6hJXk1eCkG8hE">
           <ref type="record" target="prot-201415--054">Protokoll 2014/15:54 Tisdagen den 3 februari</ref>

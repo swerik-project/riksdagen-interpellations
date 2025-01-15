@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-7bVJrdq6aYHwRs2v1CaYac</idno>
+            <persName>Helena Rivière</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Helena Rivière (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-51no7v91nimYVVHg9XKzxN" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-08-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MGJosrAhNag1WHerSe1De6">
-          <date when="2008-08-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AD1f3V3vAw1Ax9sG2mMoBc" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-08-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-6j38DHWkbNEmg6sGHXty3m">
-          <date when="2008-08-21"/>
-          <time when="13:02:13" dur="PT315S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FWDQufakW9BmwpwntiDjmK" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2008-08-21"/>
+          <time when="13:02:13" dur="PT315S"/>
         </correspAction>
         <correspContext corresp="i-6j38DHWkbNEmg6sGHXty3m">
           <ref type="record" target="prot-200708--137">Riksdagens protokoll 2007/08:137 Torsdagen den 21 augusti</ref>

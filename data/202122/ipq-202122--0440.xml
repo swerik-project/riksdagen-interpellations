@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-UrA77hyubxo7rP5jmPwLj4" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-04-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NSqjWNrGGaQ9ScXyyXQVhQ">
-          <date when="2022-04-26"/>
-          <time when="14:02:16" dur="PT53S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2YErL512C446PAdz7ENED6">
           <date when="2022-04-26"/>
+          <time when="14:02:16" dur="PT53S"/>
         </correspAction>
         <correspContext corresp="i-NSqjWNrGGaQ9ScXyyXQVhQ">
           <ref type="record" target="prot-202122--102">Protokoll 2021/22:102 Tisdagen den 26 april</ref>

@@ -21,32 +21,35 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>andre vice talman Görel Thurdin (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Görel Thurdin</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-TX8UjKrUpUeZgE2dqKJCFc</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Ingela Thalén</persName>
             <idno>i-5CGPntyQKYyZVCsCYHPNrm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-NgRkSGyZxp9cepgcFWq9rx">
-          <name/>
-          <date when="1996-02-19"/>
+        <correspAction type="sent" xml:id="i-NgRkSGyZxp9cepgcFWq9rx" corresp="i-TX8UjKrUpUeZgE2dqKJCFc">
+          <date when="1997-02-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XgTcRjdkJfP1QpkuMsFs52">
+        <correspAction type="received" xml:id="i-XgTcRjdkJfP1QpkuMsFs52" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4DmMetdD1PRcfbxgjxjuNo">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-SJy6TftFsebupYEsq7kQVQ">
-          <date when="1996-03-04"/>
+          <date when="1997-03-04"/>
         </correspAction>
         <correspContext corresp="i-SJy6TftFsebupYEsq7kQVQ">
           <ref type="record" target="prot-199697--072">Prot. 1996/97:72</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Stig Graues (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-DaicBBuxahZnC8TXUP7pKP</idno>
@@ -30,21 +30,24 @@
           <person>
             <persName>inrikesministern</persName>
           </person>
+          <person gender="man">
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <persName>Jörgen Andersson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-5uthDBcaKB7HqUeJxj3RcR" corresp="i-DaicBBuxahZnC8TXUP7pKP">
-          <date when="1996-02-13"/>
+          <date when="1997-02-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-kCG4e8kr177B82MCvQ3Li">
+        <correspAction type="received" xml:id="i-kCG4e8kr177B82MCvQ3Li" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-3qpYu6MbbVxQRiUmqEPNCd">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JMAWdaRHhkCX5qkgmeLUpV">
-          <date when="1996-03-04"/>
+          <date when="1997-03-04"/>
         </correspAction>
         <correspContext corresp="i-JMAWdaRHhkCX5qkgmeLUpV">
           <ref type="record" target="prot-199697--072">Prot. 1996/97:72</ref>

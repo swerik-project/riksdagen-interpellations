@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
-            <persName>Finn Bengtsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
-            <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Finn Bengtsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RvyGXc96xewjNPnmY33kxV" corresp="i-Ev6Dx3pWj2WT32VGQpabaz">
           <date when="2009-04-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UYdRcaX7dvE9nbopBx1wRD">
-          <date when="2009-04-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YHe6ko8TE8QTDE5cAXFMpZ" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-04-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GLAXS8ZrCXG6WBmZ3FNWgJ">
-          <date when="2009-04-28"/>
-          <time when="18:25:18" dur="PT189S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7xpMDBc7EUH5sZgpuQ7mPf" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-04-28"/>
+          <time when="18:25:18" dur="PT189S"/>
         </correspAction>
         <correspContext corresp="i-GLAXS8ZrCXG6WBmZ3FNWgJ">
           <ref type="record" target="prot-200809--108">Riksdagens protokoll 2008/09:108 Tisdagen den 28 april</ref>

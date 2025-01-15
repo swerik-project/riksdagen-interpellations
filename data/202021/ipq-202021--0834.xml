@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-XHkYWnn9J36vohiAevaapr" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-06-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8HxVW48ngZ21XNgX1EGghn">
-          <date when="2021-09-09"/>
-          <time when="12:48:12" dur="PT225S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5kcCYpUmCzbXdXWQCw3VjH" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-09-09"/>
+          <time when="12:48:12" dur="PT225S"/>
         </correspAction>
         <correspContext corresp="i-8HxVW48ngZ21XNgX1EGghn">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

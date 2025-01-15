@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="unknown">
-            <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
-            <persName>Statsrådet Lina Axelsson Kihlblom</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="female">
             <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
             <persName>Lina Axelsson Kihlblom</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-WjiH3JoLFWhhVRS7pcyijm" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-05-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-sxLgx9MtPNapJJ8c1Xuiy">
-          <date when="2022-06-22"/>
-          <time when="18:18:36" dur="PT163S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6MgLP5AUUPs5PEAPq8NvK6" corresp="i-TvxkyB44TapcZqHJAqPGrn">
           <date when="2022-06-22"/>
+          <time when="18:18:36" dur="PT163S"/>
         </correspAction>
         <correspContext corresp="i-sxLgx9MtPNapJJ8c1Xuiy">
           <ref type="record" target="prot-202122--136">Protokoll 2021/22:136 Onsdagen den 22 juni</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-9rrmwZ7uYhTjZe4uF61AZ7" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2019-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9T5fb2wLyZaBiLjfX8Sfjc">
-          <date when="2019-03-08"/>
-          <time when="11:09:25" dur="PT302S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LcqBkjZLqyw9MioHDF4Mdr">
           <date when="2019-03-08"/>
+          <time when="11:09:25" dur="PT302S"/>
         </correspAction>
         <correspContext corresp="i-9T5fb2wLyZaBiLjfX8Sfjc">
           <ref type="record" target="prot-201819--062">Protokoll 2018/19:62 Fredagen den 8 mars</ref>

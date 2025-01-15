@@ -23,87 +23,66 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Uxe3rhosBnSZpqJX5d7gpy</idno>
             <persName>Carina Ohlsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
             <persName>Marie Engström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
             <persName>Ann-Christin Ahlberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -112,18 +91,12 @@
         <correspAction type="sent" xml:id="i-77Q6qJVfohJ5yxG6WEqQ3w" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2010-03-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WM2vPBqKgvD37DfCDWMkc8">
-          <date when="2010-03-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-YAS1HVfyjRPBjzp9k1F41n" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-03-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q4CjzLYxWtZunJWofVaeL4">
-          <date when="2010-04-06"/>
-          <time when="13:54:57" dur="PT231S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HZv9No18zWswFkSwhYm5Fa" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-04-06"/>
+          <time when="13:54:57" dur="PT231S"/>
         </correspAction>
         <correspContext corresp="i-Q4CjzLYxWtZunJWofVaeL4">
           <ref type="record" target="prot-200910--098">Riksdagens protokoll 2009/10:98 Tisdagen den 6 april</ref>

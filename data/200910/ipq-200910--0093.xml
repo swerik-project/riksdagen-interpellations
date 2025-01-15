@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ey2xJ5PQcAYBGtnz2AK3qu</idno>
             <persName>Anti Avsan (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-EQmXFqDU1yLshnn26Jhwmh" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2009-11-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UqKaDjCFJKvhpgwDafDHMy">
-          <date when="2009-11-06"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-4RzN1rVhkyogXTxRiJoYR4" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9nzf1BpJtD7S54uYKqFTec">
-          <date when="2009-11-20"/>
-          <time when="10:36:07" dur="PT251S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Cgm9NbaEDcKS7SmPTip3Lp" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-20"/>
+          <time when="10:36:07" dur="PT251S"/>
         </correspAction>
         <correspContext corresp="i-9nzf1BpJtD7S54uYKqFTec">
           <ref type="record" target="prot-200910--034">Riksdagens protokoll 2009/10:34 Fredagen den 20 november</ref>

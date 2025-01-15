@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
-            <persName>LiseLotte Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>LiseLotte Olsson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-2dZ4277MaRKBb4LwL5DT3y" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2009-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Pm8TzB7Bu9BtFArx359uV6">
-          <date when="2009-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WbyUhaMpZTPPmknv6ajTyp" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WPNnzDp4c7iUXW5usTPcbq">
-          <date when="2009-05-05"/>
-          <time when="14:21:24" dur="PT281S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EeZshXJhCZefGoxHZx9tfr" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2009-05-05"/>
+          <time when="14:21:24" dur="PT281S"/>
         </correspAction>
         <correspContext corresp="i-WPNnzDp4c7iUXW5usTPcbq">
           <ref type="record" target="prot-200809--111">Riksdagens protokoll 2008/09:111 Tisdagen den 5 maj</ref>

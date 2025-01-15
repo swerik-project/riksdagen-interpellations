@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LfUqZceUvrtizCcCShswrU" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2024-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4oa8PvLyPopbmwGKTHsGJd">
-          <date when="2024-02-09"/>
-          <time when="10:27:58" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GQn6fnXtV3tYvTuTVmyZ7W">
           <date when="2024-02-09"/>
+          <time when="10:27:58" dur="PT160S"/>
         </correspAction>
         <correspContext corresp="i-4oa8PvLyPopbmwGKTHsGJd">
           <ref type="record" target="prot-202324--069">Protokoll 2023/24:69 Fredagen den 9 februari</ref>

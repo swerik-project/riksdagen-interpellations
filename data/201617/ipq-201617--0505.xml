@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
+            <persName>Lars Beckman</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
             <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
-            <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-2zNxnuEhPLrpRmHE2K6XAW" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2017-05-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VA3ZFmbu4LjCr2AHbfYvSy">
-          <date when="2017-05-19"/>
-          <time when="10:26:45" dur="PT185S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CDpM3YBHwnYMQbT9wyo22k">
           <date when="2017-05-19"/>
+          <time when="10:26:45" dur="PT185S"/>
         </correspAction>
         <correspAction xml:id="i-XJGDPHtUF7CqvatjZfTgTq" type="discussed" corresp="i-8LDEcfmJoNdnZMCPvSjiNu">
           <date when="2017-05-19"/>

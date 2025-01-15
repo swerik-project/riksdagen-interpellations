@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
             <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-XGshyFMh8wg9ExkBGYPjsr</idno>
-            <persName>Désirée Liljevall (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Désirée Liljevall</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
+            <persName>Maud Olofsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-ELEGuDQca3otxcdR4MkxS1" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2009-02-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ULricXiGSxcm4j2dTp4XkQ">
-          <date when="2009-02-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2PLtTf21EUuXE76YYVBaek" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-02-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XPxr1v8uEUYFLR9CyxvgVN">
-          <date when="2009-03-24"/>
-          <time when="18:01:13" dur="PT304S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T9YKyPC9EZfWiX5LDotcsk" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2009-03-24"/>
+          <time when="18:01:13" dur="PT304S"/>
         </correspAction>
         <correspContext corresp="i-XPxr1v8uEUYFLR9CyxvgVN">
           <ref type="record" target="prot-200809--090">Riksdagens protokoll 2008/09:90 Tisdagen den 24 mars</ref>

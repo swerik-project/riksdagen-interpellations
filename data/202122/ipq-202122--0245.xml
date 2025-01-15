@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
+            <persName>Lars Beckman</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
-            <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-5SUxpgaXEBUhAPgsmZVrg9" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-01-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3z7kWQegFZBxtpCc9aCoER">
-          <date when="2022-03-15"/>
-          <time when="19:30:44" dur="PT170S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AYmGBFB11pS1fMsfMit1Fh" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-03-15"/>
+          <time when="19:30:44" dur="PT170S"/>
         </correspAction>
         <correspContext corresp="i-3z7kWQegFZBxtpCc9aCoER">
           <ref type="record" target="prot-202122--081">Protokoll 2021/22:81 Tisdagen den 15 mars</ref>

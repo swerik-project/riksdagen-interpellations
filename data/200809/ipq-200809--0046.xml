@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
-            <persName>Torbjörn Björlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
-            <persName>Torbjörn Björlund (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Torbjörn Björlund</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-4Gc9Hn2Fof2aYmGCtPLvPi" corresp="i-Beux79YM43dDCxrVuBqfWw">
           <date when="2008-10-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4YFJm7U5ZXqhFRVatMvJg5">
-          <date when="2008-10-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SV39Z2EwJ8T1x3BSfA8gjg" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-10-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Hef34svEsQheXpCmtd6ji3">
-          <date when="2008-11-11"/>
-          <time when="20:20:24" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TxB4W5S3oF8KgjRZtrCe9p" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-11-11"/>
+          <time when="20:20:24" dur="PT228S"/>
         </correspAction>
         <correspContext corresp="i-Hef34svEsQheXpCmtd6ji3">
           <ref type="record" target="prot-200809--025">Riksdagens protokoll 2008/09:25 Tisdagen den 11 november</ref>

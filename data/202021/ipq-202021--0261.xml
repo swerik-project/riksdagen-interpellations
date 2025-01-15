@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
             <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-HxszhpUcK4xbwZLxyGtX7H" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2020-12-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4eCasuQAt2a9F33wcuDeFD">
-          <date when="2021-01-15"/>
-          <time when="10:41:01" dur="PT159S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MLjEpjnT1qPvW2uwwKqZaa" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-01-15"/>
+          <time when="10:41:01" dur="PT159S"/>
         </correspAction>
         <correspContext corresp="i-4eCasuQAt2a9F33wcuDeFD">
           <ref type="record" target="prot-202021--065">Protokoll 2020/21:65 Fredagen den 15 januari</ref>

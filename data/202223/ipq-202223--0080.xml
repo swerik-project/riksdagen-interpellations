@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-3y4o8soU9qx5tQQ1cG92h3</idno>
             <persName>Kalle Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Dv2SDMr2z8sk9NkfE6WnC8" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2022-12-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KbvpjqpvKouCZGJ3uj6HzY">
-          <date when="2022-12-13"/>
-          <time when="20:25:18" dur="PT237S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QDjFfY2fF7hqsVdHmX89mF">
           <date when="2022-12-13"/>
+          <time when="20:25:18" dur="PT237S"/>
         </correspAction>
         <correspContext corresp="i-KbvpjqpvKouCZGJ3uj6HzY">
           <ref type="record" target="prot-202223--037">Protokoll 2022/23:37 Tisdagen den 13 december</ref>

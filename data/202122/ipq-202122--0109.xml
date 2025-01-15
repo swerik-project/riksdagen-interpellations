@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-FhuiB9ur1dr2PTgaUZp497" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LvtLsvPH1pWknfSq4wSCfn">
-          <date when="2022-01-25"/>
-          <time when="14:25:33" dur="PT113S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JSKDUWrLWP96ZJJaWLBhPT" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-01-25"/>
+          <time when="14:25:33" dur="PT113S"/>
         </correspAction>
         <correspContext corresp="i-LvtLsvPH1pWknfSq4wSCfn">
           <ref type="record" target="prot-202122--058">Protokoll 2021/22:58 Tisdagen den 25 januari</ref>

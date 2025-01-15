@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
+            <persName>Nikos Papadopoulos</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-5MXgCX617D3SrJubcwe9wr" corresp="i-SYmctpvT7BxsqFzwPADUfw">
           <date when="2008-02-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PdoqQpam6mxvx8BvyLEfUv">
-          <date when="2008-02-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DsE4PWB6D5zdED8rsbyiSw" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QeucDPnWm8geHEXffVNgvp">
-          <date when="2008-03-11"/>
-          <time when="18:00:26" dur="PT249S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FNoNKTA2tqH1rUhSoRDvLB" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-03-11"/>
+          <time when="18:00:26" dur="PT249S"/>
         </correspAction>
         <correspContext corresp="i-QeucDPnWm8geHEXffVNgvp">
           <ref type="record" target="prot-200708--076">Riksdagens protokoll 2007/08:76 Tisdagen den 11 mars</ref>

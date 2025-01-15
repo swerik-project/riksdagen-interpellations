@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
             <persName>Statsrådet Jennie Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VCBwijV18pWsvC1p2xZJJm</idno>
             <persName>Runar Filper</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-6GLP8URrbjH4DGfSx5gH87" corresp="i-LKQKWG3JJUBFg12z1vrFwt">
           <date when="2021-06-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jmtyj5QghrojxSyWmUnxvL">
-          <date when="2021-09-02"/>
-          <time when="12:30:48" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RcvxVHjv168FQL2PFVGhPS" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-09-02"/>
+          <time when="12:30:48" dur="PT267S"/>
         </correspAction>
         <correspContext corresp="i-Jmtyj5QghrojxSyWmUnxvL">
           <ref type="record" target="prot-202021--155">Protokoll 2020/21:155 Torsdagen den 2 september</ref>

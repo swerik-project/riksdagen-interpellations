@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Bodil Valero</persName>
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
-            <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MqRpUuEQyYpv4R96B8HcFp" corresp="i-34FRvyXQKUigF3Qr9AwKJe">
           <date when="2010-01-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-95f3Snk2UzxR8tkNQ2iLcy">
-          <date when="2010-01-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9nnU4NCwvL7s9N7GSErfTM" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-01-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AttX6bs8AEgBnXBmxrjHYM">
-          <date when="2010-02-12"/>
-          <time when="14:31:35" dur="PT279S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Gy4M1cX2B6zJCsx3W5oxD5" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-02-12"/>
+          <time when="14:31:35" dur="PT279S"/>
         </correspAction>
         <correspContext corresp="i-AttX6bs8AEgBnXBmxrjHYM">
           <ref type="record" target="prot-200910--074">Riksdagens protokoll 2009/10:74 Fredagen den 12 februari</ref>

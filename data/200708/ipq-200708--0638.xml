@@ -25,49 +25,35 @@
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Bs6HAugbEikWxWig1ej69y</idno>
             <persName>Lennart Sacrédeus (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -77,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Q8zMvF9zpjLoxnEshj67Ua" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2008-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HcmiyCCjtUqsThx9yR5Qg7">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EBtZGyMQRAeKLXsdaHyxda" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GDzK9sDqQC7ghWg7TgwAnd">
-          <date when="2008-05-16"/>
-          <time when="09:01:51" dur="PT200S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YJ5nMojQ9GGJN8RbjDx1Pu" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-05-16"/>
+          <time when="09:01:51" dur="PT200S"/>
         </correspAction>
         <correspContext corresp="i-GDzK9sDqQC7ghWg7TgwAnd">
           <ref type="record" target="prot-200708--113">Riksdagens protokoll 2007/08:113 Fredagen den 16 maj</ref>

@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
-            <persName>Maria Stenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-AQAc7L3yWtMcgD3r6CxRHG</idno>
-            <persName>Maria Stenberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Maria Stenberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-TEtPvzHin1aXQetAqWiNpF" corresp="i-AQAc7L3yWtMcgD3r6CxRHG">
           <date when="2010-02-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4XvGYRJtTJxNupF4H7zqTS">
-          <date when="2010-02-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BGCmryAv85NhrETgZfY8Vf" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-02-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AUAgpkVEJ2KXtWwb2zyM1p">
-          <date when="2010-03-26"/>
-          <time when="09:46:23" dur="PT291S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NU5CyoBmXFvaxE9qKteBAg" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2010-03-26"/>
+          <time when="09:46:23" dur="PT291S"/>
         </correspAction>
         <correspContext corresp="i-AUAgpkVEJ2KXtWwb2zyM1p">
           <ref type="record" target="prot-200910--096">Riksdagens protokoll 2009/10:96 Fredagen den 26 mars</ref>

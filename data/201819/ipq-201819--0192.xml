@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-MDmz3BZyW3T2P9Tp6bvsBM</idno>
             <persName>John Widegren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Statsrådet Jennie Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Jennie Nilsson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Eo9kRYLJjs1m75cXCdvmdh</idno>
             <persName>Kjell-Arne Ottosson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
+            <persName>Jennie Nilsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -68,15 +61,12 @@
         <correspAction type="sent" xml:id="i-W9AU5FwzprksG8YMKqrYcb" corresp="i-MDmz3BZyW3T2P9Tp6bvsBM">
           <date when="2019-04-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JxYoYbTWyK1J5H12mqce33">
-          <date when="2019-04-23"/>
-          <time when="18:14:15" dur="PT292S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Gzm7ufwaZDL92R7qbxMYc5" corresp="i-LKQKWG3JJUBFg12z1vrFwt">
           <date when="2019-04-23"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-4VDj3yicseT3UcxGEbcZDk">
           <date when="2019-04-23"/>
+          <time when="18:14:15" dur="PT292S"/>
         </correspAction>
         <correspAction xml:id="i-Hi7ZWqesPZzQpe4WKRXJeu" type="discussed" corresp="i-8LDEcfmJoNdnZMCPvSjiNu">
           <date when="2019-04-23"/>

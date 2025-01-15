@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-MeFCbDpKPnR5B8CQwp68xh</idno>
             <persName>Markus Kallifatides</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Bf368swm64niEwr4WMMFi" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-12-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SzrBzkdAqbGrj58qGfdUVK">
-          <date when="2023-01-24"/>
-          <time when="18:00:32" dur="PT132S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DyFZZQAci5EW812J9iRpkc" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-01-24"/>
+          <time when="18:00:32" dur="PT132S"/>
         </correspAction>
         <correspAction xml:id="i-7BCiN1JGNNevPvHbkut5Mi" type="discussed" corresp="i-MeFCbDpKPnR5B8CQwp68xh">
           <date when="2023-01-24"/>

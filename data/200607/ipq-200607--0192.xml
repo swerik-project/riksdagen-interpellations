@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KhCf7Li1jUJ7dRtgidL66D</idno>
             <persName>Stefan Wikén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
             <persName>Sylvia Lindgren (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
+            <persName>Lars Leijonborg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-477DN7gXWp78xNbPwGFaqn" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5qoigTuotc6GjSNoiRJA13">
-          <date when="2006-12-22"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-H28do88zCYqtjkBYCPzbNu" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2006-12-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WJorP9CAQtYFidVcyw3BDm">
-          <date when="2007-01-23"/>
-          <time when="15:42:36" dur="PT239S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RBStbNHszRxYdqsu6TCJML" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-01-23"/>
+          <time when="15:42:36" dur="PT239S"/>
         </correspAction>
         <correspContext corresp="i-WJorP9CAQtYFidVcyw3BDm">
           <ref type="record" target="prot-200607--052">Riksdagens protokoll 2006/07:52 Tisdagen den 23 januari</ref>

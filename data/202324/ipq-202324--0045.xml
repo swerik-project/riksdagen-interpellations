@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-6UNFa2V25wnCzLT178t6sh</idno>
             <persName>Carina Ödebrink</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xuj1vM6ABWqwaf2n7VoBVD</idno>
             <persName>Peder Björk</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-AZMToEknLs83bgd846ZWfT" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-10-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KVALY5x9KLBKgbD6BfSXE7">
-          <date when="2023-10-20"/>
-          <time when="10:44:34" dur="PT94S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YXwHi6TxzShNkqyv46sXrJ" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-10-20"/>
+          <time when="10:44:34" dur="PT94S"/>
         </correspAction>
         <correspContext corresp="i-KVALY5x9KLBKgbD6BfSXE7">
           <ref type="record" target="prot-202324--020">Protokoll 2023/24:20 Fredagen den 20 oktober</ref>

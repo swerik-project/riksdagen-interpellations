@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
-            <persName>Eva Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
-            <persName>Eva Johnsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
             <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-J95EwJKvWuN9JUNcJSJKgp</idno>
             <persName>Göte Wahlström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-W4ZdT3cRpUqSBcZCGKXaji</idno>
+            <persName>Eva Johnsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-L5DmFqqubYu2WBqeozQwJK" corresp="i-W4ZdT3cRpUqSBcZCGKXaji">
           <date when="2008-03-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RhAP9M1xh5f1dADfnrz3zJ">
-          <date when="2008-03-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HeHRp1kXqLmwP49tovzDXt" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HA887wFn6CzCTs58Ev9MNC">
-          <date when="2008-04-08"/>
-          <time when="20:56:19" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EoBT9ed5PKZvLURfixBkc8" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2008-04-08"/>
+          <time when="20:56:19" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-HA887wFn6CzCTs58Ev9MNC">
           <ref type="record" target="prot-200708--091">Riksdagens protokoll 2007/08:91 Tisdagen den 8 april</ref>

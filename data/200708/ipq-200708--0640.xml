@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
             <persName>Yvonne Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EFJ93MgPh6dJrzDB1Tt657</idno>
-            <persName>Yvonne Andersson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-BY6tKNyntx1br9Tv6wLpAm" corresp="i-EFJ93MgPh6dJrzDB1Tt657">
           <date when="2008-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9ghq74RZXw99W1EEbUWegd">
-          <date when="2008-05-05"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Bhvnbc2qBFdKSrxDkJoMeT" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-87i22jKv1MXnMRnqs8vuvb">
-          <date when="2008-05-19"/>
-          <time when="11:02:07" dur="PT194S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DNtzrumDtzFdkwxj5RPwXG" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-19"/>
+          <time when="11:02:07" dur="PT194S"/>
         </correspAction>
         <correspContext corresp="i-87i22jKv1MXnMRnqs8vuvb">
           <ref type="record" target="prot-200708--114">Riksdagens protokoll 2007/08:114 Måndagen den 19 maj</ref>

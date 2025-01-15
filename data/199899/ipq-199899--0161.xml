@@ -23,24 +23,24 @@
         <listPerson>
           <person gender="woman">
             <persName>Catharina Hagen (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-8mSRnxfYHK2ozt88boweNc</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-BRS1Rj5WfGXqt9M2sy7ve8" corresp="i-8mSRnxfYHK2ozt88boweNc">
-          <date when="1998-02-11"/>
+          <date when="1999-02-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PapYkPWURX78UmRJdCWyxP">
+        <correspAction type="received" xml:id="i-PapYkPWURX78UmRJdCWyxP" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-5rE1rhJns81Kx1HFePGssd">
           <note>Förfallen</note>

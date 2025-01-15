@@ -24,38 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-5QUSwQFaazTZF6GHyxaAkw</idno>
             <persName>Magnus Jacobsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-WjFt6fTSYNFkhwrZDFYPM4</idno>
             <persName>Adnan Dibrani</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-3E4KMZdVvUjCec7mydx6fh" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PPNqJUbbC8UZ4fmZKEuuXL">
-          <date when="2019-02-12"/>
-          <time when="13:59:39" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6yTYz6AvLYbGjYBqLNJagX" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-02-12"/>
+          <time when="13:59:39" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-PPNqJUbbC8UZ4fmZKEuuXL">
           <ref type="record" target="prot-201819--051">Protokoll 2018/19:51 Tisdagen den 12 februari</ref>

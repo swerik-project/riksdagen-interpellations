@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrishamn</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-U5MhCo51MGLLY94GAGJZhY</idno>
             <persName>Johan Linander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-GFxZZ4qzEPAsS7uzZ1M4Cn" corresp="i-67wRp4zduspVaKE8AzS9qR">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NRCs7b4LK8RG4eePh7rG63">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-XwQzj6e612MCTkXuPphj69" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3tbuUCnP59bEtPZ5HMokLK">
-          <date when="2010-06-07"/>
-          <time when="12:58:45" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5BBPjVJDANg2mYUtMGEJMs" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-06-07"/>
+          <time when="12:58:45" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-3tbuUCnP59bEtPZ5HMokLK">
           <ref type="record" target="prot-200910--133">Riksdagens protokoll 2009/10:133 Måndagen den 7 juni</ref>

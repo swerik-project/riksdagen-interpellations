@@ -27,43 +27,36 @@
           <person gender="man">
             <idno>i-Xte2hVf6qgEgJA6sWB1cDH</idno>
             <persName>Momodou Malcolm Jallow</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PjQgLPLrkyDV2oYQfyuWq2</idno>
-            <persName>Statsrådet Märta Stenevi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PjQgLPLrkyDV2oYQfyuWq2</idno>
-            <persName>Märta Stenevi</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xbq1HVkxhCYVmfPLN63HRo</idno>
             <persName>Daniel Riazat</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PjQgLPLrkyDV2oYQfyuWq2</idno>
+            <persName>Märta Stenevi</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-LUw7S8iW5fiSn6YGUCKd1v" corresp="i-PjQgLPLrkyDV2oYQfyuWq2">
           <date when="2021-03-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TaavJVdXsF4hrh2dnDQTUd">
-          <date when="2021-04-06"/>
-          <time when="18:20:27" dur="PT205S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8M3kRoAknpK3xiYm33eGZG">
           <date when="2021-04-06"/>
+          <time when="18:20:27" dur="PT205S"/>
         </correspAction>
         <correspContext corresp="i-TaavJVdXsF4hrh2dnDQTUd">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

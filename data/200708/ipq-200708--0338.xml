@@ -22,46 +22,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
+            <persName>Tobias Krantz</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="answered" xml:id="i-SeirM2vcRSZ6uYvs9vrDkg">
-          <date when="2008-02-12"/>
-          <time when="19:12:24" dur="PT177S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-McaQ8MB4iq1pTNfcD5JHm2">
           <date when="2008-02-12"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-JRb4vzShtn4A9VfhtTFQEC">
-          <date when="2008-01-29"/>
+          <time when="19:12:24" dur="PT177S"/>
         </correspAction>
         <correspAction type="received" xml:id="i-E4JRbBPKBB13Ptghk6EQa" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-01-29"/>

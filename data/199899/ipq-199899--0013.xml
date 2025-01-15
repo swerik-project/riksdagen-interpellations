@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Anders Karlsson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Anders Karlsson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-3S4u3rsmsb3bjgrsrZUU6Q</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Björn Rosengren</persName>
             <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-YCEVERT4iiqMpV25YDMdA1" corresp="i-3S4u3rsmsb3bjgrsrZUU6Q">
           <date when="1998-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-YaQGWmx6XTG4MGhi1xMKuM">
+        <correspAction type="received" xml:id="i-YaQGWmx6XTG4MGhi1xMKuM" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LDSmRNsUStLEKgnZ61yDi2">
           <note>Besvarad</note>

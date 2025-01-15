@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-79cRBqVjCpwABr2BiKwH7S</idno>
-            <persName>Ann-Christin Ahlberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Ann-Christin Ahlberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-UkfyE45HSj6WzP5nrKCLYh" corresp="i-79cRBqVjCpwABr2BiKwH7S">
           <date when="2010-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VyhnG7K2GqrpFmqXJfv1B">
-          <date when="2010-05-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-P6gHqNJCWZGYzTpN5Voazp" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5yQHfuWeNjDMoTVge7wc7z">
-          <date when="2010-05-25"/>
-          <time when="18:30:44" dur="PT211S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Aa3GphESTcDSVmW7aT1EEG" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-25"/>
+          <time when="18:30:44" dur="PT211S"/>
         </correspAction>
         <correspContext corresp="i-5yQHfuWeNjDMoTVge7wc7z">
           <ref type="record" target="prot-200910--125">Riksdagens protokoll 2009/10:125 Tisdagen den 25 maj</ref>

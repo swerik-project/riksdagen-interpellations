@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
             <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-W2RLCBATcYXQiLzcoCL4Mq" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2016-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WifTFgedi4P5VtxW9Pk6ay">
-          <date when="2016-03-22"/>
-          <time when="15:30:01" dur="PT318S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F8rjLRBhW3xWUa1zmKzkhU" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2016-03-22"/>
+          <time when="15:30:01" dur="PT318S"/>
         </correspAction>
         <correspContext corresp="i-WifTFgedi4P5VtxW9Pk6ay">
           <ref type="record" target="prot-201516--084">Protokoll 2015/16:84 Tisdagen den 22 mars</ref>

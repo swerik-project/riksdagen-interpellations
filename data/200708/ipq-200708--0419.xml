@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
-            <persName>Nikos Papadopoulos (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Nikos Papadopoulos</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-UM8CfitPagPrm6WBWL8NYz" corresp="i-SYmctpvT7BxsqFzwPADUfw">
           <date when="2008-02-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CbMALSsy8Jwtz7dqduV4wD">
-          <date when="2008-02-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-J36rBKSvfreV8e4k8tSkWD" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q3qzQjqnB1FBarV8Q9isy8">
-          <date when="2008-03-07"/>
-          <time when="12:06:30" dur="PT258S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KP639NaC4bAZrAf8J767Xo" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-03-07"/>
+          <time when="12:06:30" dur="PT258S"/>
         </correspAction>
         <correspContext corresp="i-Q3qzQjqnB1FBarV8Q9isy8">
           <ref type="record" target="prot-200708--075">Riksdagens protokoll 2007/08:75 Fredagen den 7 mars</ref>

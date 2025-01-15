@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KGa34znP4SNkFTbwiVao8N</idno>
             <persName>Erik Ottoson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-3LCZS41tfjZgNKEtgofqfQ" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-06-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WwgtdkShQt198nQN93t1Nv">
-          <date when="2015-09-10"/>
-          <time when="13:49:27" dur="PT216S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2XLr1pvsnXoEx3iLkTcRaK" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2015-09-10"/>
+          <time when="13:49:27" dur="PT216S"/>
         </correspAction>
         <correspContext corresp="i-WwgtdkShQt198nQN93t1Nv">
           <ref type="record" target="prot-201415--123">Protokoll 2014/15:123 Torsdagen den 10 september</ref>

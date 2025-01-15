@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-DF6yJMSNGfT6HwisDSi4qz</idno>
             <persName>Josef Fransson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-VJZjpVWyZ2tn87jDonL9Lr" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-05-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LCdh2WjXwiLy9toPVVNQBd">
-          <date when="2022-06-10"/>
-          <time when="16:01:09" dur="PT276S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VspmurdJNUDRRZqZi1iFNw" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2022-06-10"/>
+          <time when="16:01:09" dur="PT276S"/>
         </correspAction>
         <correspContext corresp="i-LCdh2WjXwiLy9toPVVNQBd">
           <ref type="record" target="prot-202122--128">Protokoll 2021/22:128 Fredagen den 10 juni</ref>

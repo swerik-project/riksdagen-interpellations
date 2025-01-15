@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Statsrådet Åsa Regnér</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
-            <persName>Åsa Regnér</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VRHymVx7EsX48sg7b5qmpS</idno>
             <persName>Jan Lindholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-5zZmScML2Rj5tCWwFkarcD</idno>
+            <persName>Åsa Regnér</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-UjVX7tp3dXU8KhfzRAAbya" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2018-01-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GQp6Gk647Ltdwn5Xr2PzZT">
-          <date when="2018-01-30"/>
-          <time when="21:22:36" dur="PT206S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YbxRn4wYv3dDvFZ6wvJmq1" corresp="i-5zZmScML2Rj5tCWwFkarcD">
           <date when="2018-01-30"/>
+          <time when="21:22:36" dur="PT206S"/>
         </correspAction>
         <correspContext corresp="i-GQp6Gk647Ltdwn5Xr2PzZT">
           <ref type="record" target="prot-201718--063">Protokoll 2017/18:63 Tisdagen den 30 januari</ref>

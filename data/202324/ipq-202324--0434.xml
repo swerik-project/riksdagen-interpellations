@@ -24,46 +24,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-GimwrxR6QNfQTTYxqEbj7a</idno>
             <persName>Mats Wiking</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DhFtpnk9dqFrTXA2tvjJnb</idno>
             <persName>Paula Örn</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9rzEiT5qs2rumTNiqr6kVD</idno>
             <persName>Rose-Marie Carlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
+            <persName>Lotta Edholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-WVSwWuZNRGmgNYBsVuXbS" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-02-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-15xQ98bbHaXH621DAL1Uw7">
-          <date when="2024-02-27"/>
-          <time when="18:17:30" dur="PT302S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5KD488qt94cpaaKNEZPQFC" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-02-27"/>
+          <time when="18:17:30" dur="PT302S"/>
         </correspAction>
         <correspContext corresp="i-15xQ98bbHaXH621DAL1Uw7">
           <ref type="record" target="prot-202324--075">Protokoll 2023/24:75 Tisdagen den 27 februari</ref>

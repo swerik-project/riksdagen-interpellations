@@ -25,35 +25,14 @@
           <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
             <persName>Christina Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-5247wXctHJf7Us7wr3iatF" corresp="i-5gSCoqgN8cUnJLfPPLD7nv">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K8C2jAWggpjoYtzijHAcmB">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Ab6YPNmiqVqr9tKupJ5dTg" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N7RjAcSFujRfJAuKwrZX9U">
-          <date when="2010-06-04"/>
-          <time when="13:22:21" dur="PT379S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QxeMG8veAGzCD9X2MetGEx" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2010-06-04"/>
+          <time when="13:22:21" dur="PT379S"/>
         </correspAction>
         <correspContext corresp="i-N7RjAcSFujRfJAuKwrZX9U">
           <ref type="record" target="prot-200910--132">Riksdagens protokoll 2009/10:132 Fredagen den 4 juni</ref>

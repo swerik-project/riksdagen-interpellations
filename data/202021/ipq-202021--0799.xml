@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-Ev2bAyMrQ6WFtkDbPD2E9z</idno>
             <persName>Magnus Stuart</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
-            <persName>Kultur- och demokratiminister Amanda Lind</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
-            <persName>Amanda Lind</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-GYDmDYBwvSBCyuntDBrarj</idno>
             <persName>Viktor Wärnick</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Pu4JFuoHUq5W6JaAtvinyz</idno>
             <persName>Annicka Engblom</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PAgTpr3nkZRPEoiqjPKQAf</idno>
+            <persName>Amanda Lind</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-2Mm3W1jtTULJpLTMD1dh2o" corresp="i-PAgTpr3nkZRPEoiqjPKQAf">
           <date when="2021-06-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ro2sEcXnu11Yr9CW7pTFzc">
-          <date when="2021-06-11"/>
-          <time when="09:37:30" dur="PT105S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-1N8t1pMU8CEBrxGCGkAw9">
           <date when="2021-06-11"/>
+          <time when="09:37:30" dur="PT105S"/>
         </correspAction>
         <correspContext corresp="i-Ro2sEcXnu11Yr9CW7pTFzc">
           <ref type="record" target="prot-202021--139">Protokoll 2020/21:139 Fredagen den 11 juni</ref>

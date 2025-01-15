@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
-            <persName>Statsrådet Johan Forssell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
-            <persName>Statsrådet Johan Forssell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9awhLbr4bPnUKQU3s4Xyq</idno>
             <persName>Mathias Tegnér</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NRWqqo7iPdzBV8QrJyKnQb</idno>
             <persName>Johan Forssell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-LPbLymKAE8wBd1xMs4Lo16" corresp="i-NRWqqo7iPdzBV8QrJyKnQb">
           <date when="2023-03-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CLrmKifWyakvCPkUVdjNdo">
-          <date when="2023-04-18"/>
-          <time when="18:37:07" dur="PT149S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7Yo3vGUonR7KUsL5LiCHJi" corresp="i-NRWqqo7iPdzBV8QrJyKnQb">
           <date when="2023-04-18"/>
+          <time when="18:37:07" dur="PT149S"/>
         </correspAction>
         <correspContext corresp="i-CLrmKifWyakvCPkUVdjNdo">
           <ref type="record" target="prot-202223--091">Protokoll 2022/23:91 Tisdagen den 18 april</ref>

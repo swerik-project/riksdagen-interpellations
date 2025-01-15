@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-XScHuZhUG7vGfDLenjxRiL</idno>
             <persName>Saila Quicklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-T3bw3wJzhFLf8v7tM9USPJ" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-21V5WfwELPcRsP7hW3KBpW">
-          <date when="2018-01-23"/>
-          <time when="20:47:25" dur="PT222S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GiV5ZKFDadBZ8BQKsS1aVA">
           <date when="2018-01-23"/>
+          <time when="20:47:25" dur="PT222S"/>
         </correspAction>
         <correspContext corresp="i-21V5WfwELPcRsP7hW3KBpW">
           <ref type="record" target="prot-201718--059">Protokoll 2017/18:59 Tisdagen den 23 januari</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-BG62CjWHzJPrnkPkGYJy9c</idno>
             <persName>Eva Lohman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-8FWx8WQYiMm7CJhYdb1eQS" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-11-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GuqBYDKRpqKwySLbvNKz4Y">
-          <date when="2017-11-28"/>
-          <time when="15:31:44" dur="PT221S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FMRUsRMeCcT4tqnGtywCKp">
           <date when="2017-11-28"/>
+          <time when="15:31:44" dur="PT221S"/>
         </correspAction>
         <correspContext corresp="i-GuqBYDKRpqKwySLbvNKz4Y">
           <ref type="record" target="prot-201718--038">Protokoll 2017/18:38 Tisdagen den 28 november</ref>

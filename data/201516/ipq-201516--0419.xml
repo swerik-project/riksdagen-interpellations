@@ -25,37 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-NRb4HpaQ87qUwhLNcKt7Gz</idno>
             <persName>Annika Qarlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-X5tptwqoPqFuRvb6yoEQWP" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2dZbhXN3iPYYQs8V1kTU4C">
-          <date when="2016-03-11"/>
-          <time when="09:24:19" dur="PT106S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8xP1MyDtPFws6vb3oxBDRz" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-03-11"/>
+          <time when="09:24:19" dur="PT106S"/>
         </correspAction>
         <correspContext corresp="i-2dZbhXN3iPYYQs8V1kTU4C">
           <ref type="record" target="prot-201516--079">Protokoll 2015/16:79 Fredagen den 11 mars</ref>

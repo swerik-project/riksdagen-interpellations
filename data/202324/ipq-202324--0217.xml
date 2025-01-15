@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-LjpaL4XhPNoSZ44TkA9j3w</idno>
             <persName>Katja Nyberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-TUGpQ4e6u4FDcLocKWik4h" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-11-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QCpy1bLXMpq6hP9F1K8KfY">
-          <date when="2023-12-04"/>
-          <time when="11:44:07" dur="PT176S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-37QaEuyx9VStxxjY7J4Ebs">
           <date when="2023-12-04"/>
+          <time when="11:44:07" dur="PT176S"/>
         </correspAction>
         <correspContext corresp="i-QCpy1bLXMpq6hP9F1K8KfY">
           <ref type="record" target="prot-202324--041">Protokoll 2023/24:41 Måndagen den 4 december</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Pär-Axel Sahlberg (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-Dnc5M1DTGNVBxsnXz7TcBj</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-FjXW6tGRu91py8i7ocpoMY" corresp="i-Dnc5M1DTGNVBxsnXz7TcBj">
           <date when="1996-10-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-L99YWoKjH1wzCp4TrosL36">
+        <correspAction type="received" xml:id="i-L99YWoKjH1wzCp4TrosL36" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PcUqYABx8JCrXsh9aU3Ekn">
           <note>Besvarad</note>

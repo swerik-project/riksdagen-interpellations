@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-DSgCixAdAvhSA1u2TeDZQH</idno>
-            <persName>Jan Emanuel Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-DSgCixAdAvhSA1u2TeDZQH</idno>
-            <persName>Jan Emanuel Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Jan Emanuel</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-J7hfDA8HLsrKkY2wLfcZUz" corresp="i-DSgCixAdAvhSA1u2TeDZQH">
           <date when="2008-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-M9qy8XpMNhdj7HqtPyvBGX">
-          <date when="2009-01-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-J1o7tLB4PZdNbTex5T2vQZ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CYc5z39eDALVZBBCC9tNRD">
-          <date when="2009-01-23"/>
-          <time when="09:29:34" dur="PT317S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Dt8c4rbxQpbWeUX2dYgR3h" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-01-23"/>
+          <time when="09:29:34" dur="PT317S"/>
         </correspAction>
         <correspContext corresp="i-CYc5z39eDALVZBBCC9tNRD">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

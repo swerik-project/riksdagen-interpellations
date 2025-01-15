@@ -24,39 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5kLPqJYKuXdEi7mU2QqyGZ</idno>
             <persName>Maria Stockhaus</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
+            <persName>Ann-Charlotte Hammar Johnsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
-            <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-LjoheEqF1Gxqvxm1TusWAE" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-06-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FboNjAZNrWk3FHoWcmiQhd">
-          <date when="2021-06-18"/>
-          <time when="12:09:13" dur="PT50S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XZ3qtQ3McPixYg4FqThSjw" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-06-18"/>
+          <time when="12:09:13" dur="PT50S"/>
         </correspAction>
         <correspContext corresp="i-FboNjAZNrWk3FHoWcmiQhd">
           <ref type="record" target="prot-202021--144">Protokoll 2020/21:144 Fredagen den 18 juni</ref>

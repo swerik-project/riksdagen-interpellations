@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-NF4BomvcfAd9CuZEwt9Bwv</idno>
             <persName>Joe Frans</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
             <persName>Lars-Erik Lövdén</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
-            <persName>Lars-Erik Lövdén</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-JmdYEGMayU9XLs4cYwPKFS" corresp="i-NF4BomvcfAd9CuZEwt9Bwv">
           <date when="2003-02-24"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-Wy8SYDVCGjLvKw8Fas6sN4">
-          <date when="2003-03-03"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-5yc92FLNqQ1EEBKkZWRXKy">
-          <date when="2003-03-14"/>
         </correspAction>
         <correspAction type="received" xml:id="i-JxSrX9fQDrryU4iyNgV82s" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <date when="2003-03-03"/>

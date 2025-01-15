@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
-            <persName>Lars Leijonborg (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stock (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Helene Petersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Vwcbegsj1rPKMUVvcne4wQ" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2007-01-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-U3zPiRrn9akM9uibu6t3YA">
-          <date when="2007-01-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-PLLfeQxsy4sUVgP5kpAsC5" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CUcgcGm32YW4g8NSCytgkg">
-          <date when="2007-01-30"/>
-          <time when="15:37:12" dur="PT262S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RaQrNRxTwGr9ookPRDcczY" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2007-01-30"/>
+          <time when="15:37:12" dur="PT262S"/>
         </correspAction>
         <correspContext corresp="i-CUcgcGm32YW4g8NSCytgkg">
           <ref type="record" target="prot-200607--056">Riksdagens protokoll 2006/07:56 Tisdagen den 30 januari</ref>

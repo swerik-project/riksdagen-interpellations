@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
           </person>
           <person gender="man">
-            <persName>nä­ringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-HpXvwKq8SXk9pJft2EFag3" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
           <date when="1996-12-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8tGosvmtAjoFH3fRWJuXd1">
+        <correspAction type="received" xml:id="i-8tGosvmtAjoFH3fRWJuXd1" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>nä­ringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-RWAwidkQKuXdSSCmXgBtio">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QvLzCKdy8WeYtqgozabDGe">
-          <date when="1996-01-21"/>
+          <date when="1997-01-21"/>
         </correspAction>
         <correspContext corresp="i-QvLzCKdy8WeYtqgozabDGe">
           <ref type="record" target="prot-199697--052">Prot. 1996/97:52</ref>

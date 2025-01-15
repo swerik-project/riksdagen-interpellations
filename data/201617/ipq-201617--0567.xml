@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-4YifRYGYTVJNRsVFdPxcMv" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-06-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-14XaNdYXxBAxKcMgAofjsN">
-          <date when="2017-06-27"/>
-          <time when="11:53:24" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LJHpsWH9yEMcrh3oZPV4Er" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-06-27"/>
+          <time when="11:53:24" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-14XaNdYXxBAxKcMgAofjsN">
           <ref type="record" target="prot-201617--132">Protokoll 2016/17:132 Tisdagen den 27 juni</ref>

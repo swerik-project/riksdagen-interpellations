@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Lager (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-E2VEuW8StdbwuJyGXtUP4D</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-63HWkxH5f2iKJnNKB1TNp5" corresp="i-E2VEuW8StdbwuJyGXtUP4D">
           <date when="1996-11-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Krr86Ku8siQZxyw3n1Tpkc">
+        <correspAction type="received" xml:id="i-Krr86Ku8siQZxyw3n1Tpkc" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MsswwzbcH12veScWMVEWKS">
           <note>Besvarad</note>

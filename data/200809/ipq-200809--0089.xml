@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-HNZrYrLbstv8KywRLm2FMv</idno>
-            <persName>Gunilla Carlsson i Hisings Backa</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Gunilla Carlsson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
             <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-RVEt4hR8EU45cHtjmqubp7" corresp="i-HNZrYrLbstv8KywRLm2FMv">
           <date when="2008-10-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NWbM7dakr1DYDm4q7GTDPJ">
-          <date when="2008-11-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HZnEqQU7vHow5ePcLJPMt7" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-11-10"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-9MH7yXtUjNWbGSUCHh2vBj">
-          <date when="2008-11-14"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-UFrrCMTSXSxMUK9P9hubqA" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2008-11-14"/>

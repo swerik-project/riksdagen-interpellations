@@ -22,38 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
             <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Ems8BhyhZcr6nJZcMR7TcY" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2009-11-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8E4WeCmpG5gErAx8HqYX8F">
-          <date when="2009-11-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SDk5W6h3j8uhfQxvfS1itU" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q22Lwd1UJHYNXfbh6dDBps">
-          <date when="2009-12-08"/>
-          <time when="15:05:23" dur="PT257S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Fdt3mxdbg9L7yTzHne9rnE" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-12-08"/>
+          <time when="15:05:23" dur="PT257S"/>
         </correspAction>
         <correspContext corresp="i-Q22Lwd1UJHYNXfbh6dDBps">
           <ref type="record" target="prot-200910--045">Riksdagens protokoll 2009/10:45 Tisdagen den 8 december</ref>

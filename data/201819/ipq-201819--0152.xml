@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-CCqxzgHxh8naAWAWv54eUt" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FeUghQvkJ3ah9ktS2rvkx4">
-          <date when="2019-04-23"/>
-          <time when="14:55:49" dur="PT104S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SrBBQ96jscFh3AcPFGCBoR" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-04-23"/>
+          <time when="14:55:49" dur="PT104S"/>
         </correspAction>
         <correspContext corresp="i-FeUghQvkJ3ah9ktS2rvkx4">
           <ref type="record" target="prot-201819--079">Protokoll 2018/19:79 Tisdagen den 23 april</ref>

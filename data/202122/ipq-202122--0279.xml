@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-UaZvTRVNuSq9ZNTKSPSucN" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QzkpXyDFbAssQPYnzNz6KW">
-          <date when="2022-02-01"/>
-          <time when="20:31:43" dur="PT281S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BP4LTUVwTaSMy1y6YDKtPm">
           <date when="2022-02-01"/>
+          <time when="20:31:43" dur="PT281S"/>
         </correspAction>
         <correspContext corresp="i-QzkpXyDFbAssQPYnzNz6KW">
           <ref type="record" target="prot-202122--062">Protokoll 2021/22:62 Tisdagen den 1 februari</ref>

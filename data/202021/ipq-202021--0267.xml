@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-DHyJnTqHxJuz92Y1rFf2i4</idno>
             <persName>Arin Karapet</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TKwDinNn4twnLieK52EXRu</idno>
             <persName>Björn Söder</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-51GsfsTszsqdCcMZ3YDpB8" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-01-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9W4Uh5idRUyPsAo9xkSxUV">
-          <date when="2021-01-22"/>
-          <time when="13:12:24" dur="PT296S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DSQM3SVfJx3wMMP93bLpsu" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-01-22"/>
+          <time when="13:12:24" dur="PT296S"/>
         </correspAction>
         <correspContext corresp="i-9W4Uh5idRUyPsAo9xkSxUV">
           <ref type="record" target="prot-202021--069">Protokoll 2020/21:69 Fredagen den 22 januari</ref>

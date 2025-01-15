@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-CdKPr5PV7B8cJEHJFtQGGn</idno>
             <persName>Peter Helander</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-EFLuNPamzZKv5kYvFahu9b" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2017-10-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AfCuvKZZPZ6Wkxwmh1GM4G">
-          <date when="2017-10-24"/>
-          <time when="15:02:05" dur="PT236S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-91HESNvpqcbmzCcRcirq3Z">
           <date when="2017-10-24"/>
+          <time when="15:02:05" dur="PT236S"/>
         </correspAction>
         <correspContext corresp="i-AfCuvKZZPZ6Wkxwmh1GM4G">
           <ref type="record" target="prot-201718--022">Protokoll 2017/18:22 Tisdagen den 24 oktober</ref>

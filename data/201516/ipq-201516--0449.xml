@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-9118KyeHJPwjSm2gBg9zwB</idno>
             <persName>Lars Hjälmered</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
             <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-rdjkghYEs2EeG2mVpG1J8" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2016-03-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5QrXH8Cbg6qNZKWQDqscHK">
-          <date when="2016-03-15"/>
-          <time when="18:11:59" dur="PT50S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XBZVtFfsboUeWpAsbx3ttg">
           <date when="2016-03-15"/>
+          <time when="18:11:59" dur="PT50S"/>
         </correspAction>
         <correspContext corresp="i-5QrXH8Cbg6qNZKWQDqscHK">
           <ref type="record" target="prot-201516--080">Protokoll 2015/16:80 Tisdagen den 15 mars</ref>

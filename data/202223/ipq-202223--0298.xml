@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
-            <persName>Statsrådet Carl-Oskar Bohlin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
-            <persName>Statsrådet Carl-Oskar Bohlin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-HpAiPdAaT8ibF3ZUVvyDdX</idno>
             <persName>Adrian Magnusson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6X8Fc68oRcYCskG3k248x5</idno>
             <persName>Carl-Oskar Bohlin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Tz3Xb4i86DQfBa6CoZv4Hz" corresp="i-6X8Fc68oRcYCskG3k248x5">
           <date when="2023-04-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5RkaEcauX3LtNVDtTxiKER">
-          <date when="2023-04-25"/>
-          <time when="13:51:44" dur="PT180S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BXom53DR2Y6woMCxcWFiyG" corresp="i-6X8Fc68oRcYCskG3k248x5">
           <date when="2023-04-25"/>
+          <time when="13:51:44" dur="PT180S"/>
         </correspAction>
         <correspContext corresp="i-5RkaEcauX3LtNVDtTxiKER">
           <ref type="record" target="prot-202223--097">Protokoll 2022/23:97 Tisdagen den 25 april</ref>

@@ -27,43 +27,36 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6Y7QyEzZ7gFrVaMjjyMzXk</idno>
             <persName>Gunilla Svantorp</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKsrTm4gWQzab9KkjqBLKS</idno>
             <persName>Lena Bäckelin</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-9okpUK3B7aUYUrmQjR2aDE" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2023-11-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N1C3Q82WirUytmf3w9DzPB">
-          <date when="2023-12-20"/>
-          <time when="17:21:15" dur="PT104S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Ct8KGePsnDu1trEE3Bn6NU" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-12-20"/>
+          <time when="17:21:15" dur="PT104S"/>
         </correspAction>
         <correspContext corresp="i-N1C3Q82WirUytmf3w9DzPB">
           <ref type="record" target="prot-202324--053">Protokoll 2023/24:53 Onsdagen den 20 december</ref>

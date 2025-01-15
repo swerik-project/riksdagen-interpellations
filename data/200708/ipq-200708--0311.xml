@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
-            <persName>Hans Linde (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Hans Linde</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Qegwn7aLM1VHfgKmxJvE4c" corresp="i-K3yJ7rruozYUK99nj91ffc">
           <date when="2008-01-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PFEaXtUye1XXDcsJxf5Zva">
-          <date when="2008-01-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AHXkrWx7s8bGv4XAgNpP5R" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-01-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Sg8svcG7bYfmuA8QPNqDAG">
-          <date when="2008-02-19"/>
-          <time when="15:27:54" dur="PT307S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Gr3wjWom1uzesAXRMuWqK1" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2008-02-19"/>
+          <time when="15:27:54" dur="PT307S"/>
         </correspAction>
         <correspContext corresp="i-Sg8svcG7bYfmuA8QPNqDAG">
           <ref type="record" target="prot-200708--067">Riksdagens snabbprotokoll 2007/08:67 Tisdagen den 19 februari</ref>

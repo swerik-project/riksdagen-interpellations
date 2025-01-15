@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-URRdNczFZhV4cmKQz4835r" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2022-02-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3tn3rwPVv41dbZYRis2dCu">
-          <date when="2022-03-04"/>
-          <time when="12:49:38" dur="PT233S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8Zyf36CAmiVMA7iNjVcTjr">
           <date when="2022-03-04"/>
+          <time when="12:49:38" dur="PT233S"/>
         </correspAction>
         <correspContext corresp="i-3tn3rwPVv41dbZYRis2dCu">
           <ref type="record" target="prot-202122--079">Protokoll 2021/22:79 Fredagen den 4 mars</ref>
@@ -169,9 +159,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-QSMHJYcWxvS3HWVENKTKsa">
-            
-            <list rend="unordered">
+          <p xml:id="i-QSMHJYcWxvS3HWVENKTKsa"><list rend="unordered">
               <item>
                 Överväger regeringen att införa nationella riktlinjer för bedömningen
                 av omvårdnadsbidraget och merkostnadsersättningen?

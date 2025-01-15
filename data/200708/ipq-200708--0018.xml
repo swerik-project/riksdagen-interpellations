@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
+            <persName>Sten Tolgfors</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-2EZPhWWR7yHztg3zN2aNvh</idno>
             <persName>Peter Rådberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
-            <persName>Sten Tolgfors (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2EZPhWWR7yHztg3zN2aNvh</idno>
-            <persName>Peter Rådberg (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9WEMXVDtbscoEJnLKvAriA" corresp="i-2EZPhWWR7yHztg3zN2aNvh">
           <date when="2007-09-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RaN62EfS8FJ5D3fg1hUntY">
-          <date when="2007-09-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8xtopxLHMhf7sFdGTT7Bsp" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2007-09-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CYZktFki8geWgzqBAJKqwa">
-          <date when="2007-10-16"/>
-          <time when="22:05:03" dur="PT316S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FLXTzM4SnDbmR1BpbrPiRY" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
           <date when="2007-10-16"/>
+          <time when="22:05:03" dur="PT316S"/>
         </correspAction>
         <correspContext corresp="i-CYZktFki8geWgzqBAJKqwa">
           <ref type="record" target="prot-200708--010">Riksdagens protokoll 2007/08:10 Tisdagen den 16 oktober</ref>

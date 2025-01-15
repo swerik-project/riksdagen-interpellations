@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-TigPaPfe7eBTgfMXr1phgo</idno>
             <persName>Mats Green</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-KGoAnNTx1iTNXQ6SaLcKkr" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-10-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GMaBSK4jrY3B39RuSoft5g">
-          <date when="2015-10-22"/>
-          <time when="12:59:00" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-29fWixuQWzgEBK91wWFdkG" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-10-22"/>
+          <time when="12:59:00" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-GMaBSK4jrY3B39RuSoft5g">
           <ref type="record" target="prot-201516--018">Protokoll 2015/16:18 Torsdagen den 22 oktober</ref>

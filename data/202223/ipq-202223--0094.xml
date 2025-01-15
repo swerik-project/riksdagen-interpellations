@@ -27,57 +27,43 @@
           <person gender="woman">
             <idno>i-DmUZytVbrrufqUhEMo3Q2X</idno>
             <persName>Malin Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KCyyRs9HnkQhss61gii5F7</idno>
             <persName>Fredrik Lundh Sammeli</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
+            <persName>Ebba Busch</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -92,12 +78,9 @@
         <correspAction type="received" xml:id="i-P89wq9Xgd8mrA46J3PNR4d" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2022-12-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FCs346z3YscbZiz1BMweDZ">
-          <date when="2023-01-31"/>
-          <time when="13:59:27" dur="PT235S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Eg6ZVoxJuF84kB2huy7wDu" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-01-31"/>
+          <time when="13:59:27" dur="PT235S"/>
         </correspAction>
         <correspAction xml:id="i-8sHBNNdu3ouChE64wEC7av" type="discussed" corresp="i-KCyyRs9HnkQhss61gii5F7">
           <date when="2023-01-31"/>

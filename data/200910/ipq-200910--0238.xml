@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ey2xJ5PQcAYBGtnz2AK3qu</idno>
             <persName>Anti Avsan (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-BXxnP7D3SetCvNWhyEPAde">
-          <date when="2010-02-10"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FZJ3CAh9S6zHmotPs23NJq" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-02-10"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-AGkjrxTa93xKvvzfbKA8k1" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2010-02-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4RAgdJt4d5zbvB2ZPoCdyu">
-          <date when="2010-03-02"/>
-          <time when="14:39:04" dur="PT220S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-76TU7cBMsv9FGJwb2tTTwm" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2010-03-02"/>
+          <time when="14:39:04" dur="PT220S"/>
         </correspAction>
         <correspContext corresp="i-4RAgdJt4d5zbvB2ZPoCdyu">
           <ref type="record" target="prot-200910--080">Riksdagens protokoll 2009/10:80 Tisdagen den 2 mars</ref>

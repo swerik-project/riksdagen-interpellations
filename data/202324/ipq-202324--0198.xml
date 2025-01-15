@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-HpAiPdAaT8ibF3ZUVvyDdX</idno>
             <persName>Adrian Magnusson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
             <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-56xU5ZBBo5wHD7ZTW1bRHu" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2023-11-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3d67vFHWMyVgCnK7N5BtyG">
-          <date when="2023-11-30"/>
-          <time when="18:18:15" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UkgDyu1eUQWwZRfXd3mms1">
           <date when="2023-11-30"/>
+          <time when="18:18:15" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-3d67vFHWMyVgCnK7N5BtyG">
           <ref type="record" target="prot-202324--039">Protokoll 2023/24:39 Torsdagen den 30 november</ref>

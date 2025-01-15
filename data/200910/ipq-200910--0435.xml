@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-7YbH6oTUwG4Qn94QEVE6as</idno>
             <persName>Gunvor G Ericson (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-UiHJr5Pos4UxFXhjsRmiwZ" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6JcbYZvLTkjEYhbv5YLke6">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-6a2bGaEuVZNCm4RytRYtmf" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BnR2wLFSu7is6nbVJmzuat">
-          <date when="2010-06-29"/>
-          <time when="14:17:20" dur="PT300S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7Y1oZVeMfLrQvrbEfq6bps" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-06-29"/>
+          <time when="14:17:20" dur="PT300S"/>
         </correspAction>
         <correspContext corresp="i-BnR2wLFSu7is6nbVJmzuat">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

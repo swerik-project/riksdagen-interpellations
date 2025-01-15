@@ -23,28 +23,26 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kds)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kds</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
           </person>
           <person gender="woman">
-            <persName>statsrådet Ylva Johans­son</persName>
+            <persName>Ylva Johans­son</persName>
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-J936myZKtndjhZkZyngjzB">
-          <name/>
-          <date when="1994-04-06"/>
+        <correspAction type="sent" xml:id="i-J936myZKtndjhZkZyngjzB" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
+          <date when="1995-04-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-fdyd5oqkjuhWtmCi8wWw8">
+        <correspAction type="received" xml:id="i-fdyd5oqkjuhWtmCi8wWw8" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <note>date unknown</note>
-          <name>statsrådet Ylva Johans­son</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-RW43NZscit7WtTsgf7YmtT">
-          <note>: Återtagen</note>
+          <note>Återtagen</note>
         </correspAction>
       </correspDesc>
     </profileDesc>

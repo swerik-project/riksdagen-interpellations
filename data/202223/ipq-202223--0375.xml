@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LHNecLttGkFNptLa6AG81p</idno>
             <persName>Helena Vilhelmsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-ACWcyUjNNS7h6oQcbHBybm" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-06-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JdqxDvBkmsG4fmHuHMyjf8">
-          <date when="2023-06-16"/>
-          <time when="12:25:41" dur="PT278S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SPEPTCe6ZMJ7QzSeN5tV8v" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-06-16"/>
+          <time when="12:25:41" dur="PT278S"/>
         </correspAction>
         <correspContext corresp="i-JdqxDvBkmsG4fmHuHMyjf8">
           <ref type="record" target="prot-202223--126">Protokoll 2022/23:126 Fredagen den 16 juni</ref>

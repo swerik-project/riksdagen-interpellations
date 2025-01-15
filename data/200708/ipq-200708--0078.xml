@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PyuBrn6sPrF8RQEvmB9xdP</idno>
             <persName>Cecilia Widegren (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-3J9tM4tRDq8SQYXSSFFFeY" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2007-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WccEPBVhRa5PCf2TntsEfg">
-          <date when="2007-10-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Mt29kwciRrawjNTYw44osm" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LKAs943dYvHZ8X5Bw9CbHu">
-          <date when="2007-11-13"/>
-          <time when="18:53:08" dur="PT302S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RBoya6fc6WgoKkKBjRj8Vn" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-11-13"/>
+          <time when="18:53:08" dur="PT302S"/>
         </correspAction>
         <correspContext corresp="i-LKAs943dYvHZ8X5Bw9CbHu">
           <ref type="record" target="prot-200708--023">Riksdagens protokoll 2007/08:23 Tisdagen den 13 november</ref>

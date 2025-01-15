@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-4VdzbZfXXeVi4pDwWXs6YZ" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2016-03-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D8JDgYP8jZERi9dDLPGDdE">
-          <date when="2016-04-08"/>
-          <time when="09:01:13" dur="PT74S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TFQX1ZcYu8cCPdqVcrncu3">
           <date when="2016-04-08"/>
+          <time when="09:01:13" dur="PT74S"/>
         </correspAction>
         <correspContext corresp="i-D8JDgYP8jZERi9dDLPGDdE">
           <ref type="record" target="prot-201516--089">Protokoll 2015/16:89 Fredagen den 8 april</ref>

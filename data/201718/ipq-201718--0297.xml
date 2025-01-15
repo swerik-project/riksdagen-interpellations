@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-LfejaxmUP1kR5ztLJaJTkY</idno>
             <persName>Emma Wallrup</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-A28BPU5nBFoo8updhEUwam" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9NvEpZy8wjQ2EugDJEkKgY">
-          <date when="2018-01-25"/>
-          <time when="12:21:30" dur="PT183S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RVGDgT7fJasGJhvXn4JNxP" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-01-25"/>
+          <time when="12:21:30" dur="PT183S"/>
         </correspAction>
         <correspContext corresp="i-9NvEpZy8wjQ2EugDJEkKgY">
           <ref type="record" target="prot-201718--061">Protokoll 2017/18:61 Torsdagen den 25 januari</ref>

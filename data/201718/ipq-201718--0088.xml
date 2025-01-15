@@ -24,45 +24,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -75,15 +68,12 @@
         <correspAction type="sent" xml:id="i-B2aDqEKx26KMKeaz6fm8Vn" corresp="i-5wVnuGs5cNm9JWZrGWeZfP">
           <date when="2017-10-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5fTJgQW5aLTBYVxfXEkZvo">
-          <date when="2017-11-07"/>
-          <time when="13:43:36" dur="PT172S"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AZVDdcM4LuCtfEznY7kFSK" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2017-11-07"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-LPTarvsgauSnUzmNQ8TgUb">
           <date when="2017-11-07"/>
+          <time when="13:43:36" dur="PT172S"/>
         </correspAction>
         <correspAction xml:id="i-JQ5jA4BikCYrjbud4JtYK" type="discussed" corresp="i-Ldb2oqPG98BReLEGLTqU4A">
           <date when="2017-11-07"/>

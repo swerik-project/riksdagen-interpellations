@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-XS1DYyajKnUSXB7m9DT6C2</idno>
             <persName>Rasmus Ling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-LFR8KpG13QtS5inpHQuPUr" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-10-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-H3c11brMa8Cijxs7azW6Z1">
-          <date when="2023-11-09"/>
-          <time when="12:24:39" dur="PT212S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8Kg8G2RckAoskgNH5goJZA" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-11-09"/>
+          <time when="12:24:39" dur="PT212S"/>
         </correspAction>
         <correspContext corresp="i-H3c11brMa8Cijxs7azW6Z1">
           <ref type="record" target="prot-202324--027">Protokoll 2023/24:27 Torsdagen den 9 november</ref>

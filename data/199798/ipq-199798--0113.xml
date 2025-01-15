@@ -24,30 +24,30 @@
         <listPerson>
           <person gender="man">
             <persName>Bengt Hurtig (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-PTwgnmFQaFTXvr8SByLQzu</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-XAWgNjgewUVKpJwbCPDR4R" corresp="i-PTwgnmFQaFTXvr8SByLQzu">
-          <date when="1997-01-13"/>
+          <date when="1998-01-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WDTpEjHie6dkHDeJ57Tw6G">
+        <correspAction type="received" xml:id="i-WDTpEjHie6dkHDeJ57Tw6G" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CHynCZ99EtFLe6Fqfq56UY">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-XRrBnqCxAaEdabZLB4HkCW">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-XRrBnqCxAaEdabZLB4HkCW">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

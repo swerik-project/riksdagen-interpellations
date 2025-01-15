@@ -27,28 +27,21 @@
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JsQYYtGzwfdbK1R9tH5gA7" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2018-04-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VKzK9cHrWTctKf5CgoaVtx">
-          <date when="2018-05-25"/>
-          <time when="10:27:46" dur="PT223S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LAyV328oWVRFgTcuNLy4T5" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2018-05-25"/>
+          <time when="10:27:46" dur="PT223S"/>
         </correspAction>
         <correspContext corresp="i-VKzK9cHrWTctKf5CgoaVtx">
           <ref type="record" target="prot-201718--119">Protokoll 2017/18:119 Fredagen den 25 maj</ref>

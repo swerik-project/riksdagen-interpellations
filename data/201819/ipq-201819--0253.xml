@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J3vB7EYXWFGfYPGahysXrd</idno>
             <persName>Noria Manouchi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-D6uY2K8RBTwCdS5HaaKGW6" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DEj1NbjQJyNmsWAKbAa4ef">
-          <date when="2019-06-03"/>
-          <time when="14:08:36" dur="PT123S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-B2yymfGiKnpv1PqwLi3D6c">
           <date when="2019-06-03"/>
+          <time when="14:08:36" dur="PT123S"/>
         </correspAction>
         <correspContext corresp="i-DEj1NbjQJyNmsWAKbAa4ef">
           <ref type="record" target="prot-201819--098">Protokoll 2018/19:98 Måndagen den 3 juni</ref>

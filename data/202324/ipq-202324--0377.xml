@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
             <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-3NQ8rEqYxreiBXvUUyFpuH" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2024-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-bdxjySnGV9pDYGcTNmMeV">
-          <date when="2024-02-16"/>
-          <time when="12:00:46" dur="PT244S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Bwsu22iFy5WpsjLBh8Vh4b" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2024-02-16"/>
+          <time when="12:00:46" dur="PT244S"/>
         </correspAction>
         <correspContext corresp="i-bdxjySnGV9pDYGcTNmMeV">
           <ref type="record" target="prot-202324--073">Protokoll 2023/24:73 Fredagen den 16 februari</ref>

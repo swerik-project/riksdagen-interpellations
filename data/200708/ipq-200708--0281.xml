@@ -25,36 +25,22 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-RUSFPKfSd8WxGJdurYtPBR" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2007-12-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PhP5RNsBU3DFBy67oTfuct">
-          <date when="2007-12-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-U6dYeHpqbjzPpUKFXUfSJz" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-12-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BBH5ygvT6obLyYkrawT6fZ">
-          <date when="2008-01-17"/>
-          <time when="16:34:40" dur="PT277S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QHr6H3EX4f5yzKZRGeavfD" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-01-17"/>
+          <time when="16:34:40" dur="PT277S"/>
         </correspAction>
         <correspContext corresp="i-BBH5ygvT6obLyYkrawT6fZ">
           <ref type="record" target="prot-200708--053">Riksdagens protokoll 2007/08:53 Torsdagen den 17 januari</ref>

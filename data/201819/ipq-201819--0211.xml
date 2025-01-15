@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
+            <persName>Jan Ericson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
-            <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-MXWJjLETGx9HMUPhFGjJqu" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-04-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-L2r63SRJW68Dk68NKR42y4">
-          <date when="2019-06-11"/>
-          <time when="19:16:30" dur="PT104S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EG1grnx5ppLU5J9ZHcqKCR" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-06-11"/>
+          <time when="19:16:30" dur="PT104S"/>
         </correspAction>
         <correspContext corresp="i-L2r63SRJW68Dk68NKR42y4">
           <ref type="record" target="prot-201819--102">Protokoll 2018/19:102 Tisdagen den 11 juni</ref>

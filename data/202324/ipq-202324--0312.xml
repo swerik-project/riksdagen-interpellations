@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-KmjjRuCw2jtXhxJg7fhgXE</idno>
             <persName>Lars Wistedt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-AC9apVr5XimS4bcaFoyGHa" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-12-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PaEkNUQU6yMbKhBzybimPQ">
-          <date when="2024-01-19"/>
-          <time when="10:41:33" dur="PT123S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U8Hzf9LkVi6HH1sg5qmDru">
           <date when="2024-01-19"/>
+          <time when="10:41:33" dur="PT123S"/>
         </correspAction>
         <correspContext corresp="i-PaEkNUQU6yMbKhBzybimPQ">
           <ref type="record" target="prot-202324--058">Protokoll 2023/24:58 Fredagen den 19 januari</ref>

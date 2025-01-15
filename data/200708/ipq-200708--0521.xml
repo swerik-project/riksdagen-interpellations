@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-E76LzjbVqhM6KVEXEAcCQw" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2008-03-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MDcHzSRpSMmNwH8fZyYmN3">
-          <date when="2008-03-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9hDZ1aJ2sFkkqijtubu8C5" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-03-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Vh22EpwGcYoGTYKSRGsBXs">
-          <date when="2008-04-04"/>
-          <time when="09:27:51" dur="PT259S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PzGhV9CE6sDYj15yMKoRAT" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-04-04"/>
+          <time when="09:27:51" dur="PT259S"/>
         </correspAction>
         <correspContext corresp="i-Vh22EpwGcYoGTYKSRGsBXs">
           <ref type="record" target="prot-200708--089">Riksdagens protokoll 2007/08:89 Fredagen den 4 april</ref>

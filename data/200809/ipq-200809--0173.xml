@@ -23,45 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
             <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
-            <persName>Cecilia Malmström (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-8GdisrKiGzJAj9xDdUP929</idno>
+            <persName>Cecilia Malmström</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-JjJ5m66xo2v5k5BdqJcfg" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2008-12-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8yRsc7Hzydr46SrvW92brF">
-          <date when="2008-12-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-A37YnAUS6ZgFbTKDrXweoX" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2008-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TMsBFP1o6HRRb1bS2mKmac">
-          <date when="2008-12-16"/>
-          <time when="21:32:03" dur="PT204S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TY9M6VNft9ZhQSRMwLdeTa" corresp="i-8GdisrKiGzJAj9xDdUP929">
           <date when="2008-12-16"/>
+          <time when="21:32:03" dur="PT204S"/>
         </correspAction>
         <correspContext corresp="i-TMsBFP1o6HRRb1bS2mKmac">
           <ref type="record" target="prot-200809--050">Riksdagens protokoll 2008/09:50 Tisdagen den 16 december</ref>

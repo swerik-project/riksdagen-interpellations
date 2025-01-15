@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UB2UKCr2W8fJ3Rr4dtCeHb</idno>
             <persName>Mattias Vepsä</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-Jxbqxf1kS693LZmPRNWWLN" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-11-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J9xcWh2f2sjB8vycWf4D3m">
-          <date when="2023-12-11"/>
-          <time when="14:23:36" dur="PT298S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LP1dxQWj4zSJFM32Rzg8nu" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-12-11"/>
+          <time when="14:23:36" dur="PT298S"/>
         </correspAction>
         <correspContext corresp="i-J9xcWh2f2sjB8vycWf4D3m">
           <ref type="record" target="prot-202324--046">Protokoll 2023/24:46 Måndagen den 11 december</ref>

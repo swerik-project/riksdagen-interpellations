@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5tbgYo4dBB9rh3uBeCweBm</idno>
             <persName>Johan Hultberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-FRTWi6v1HQzkeywA1JhYs" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9niE1EVzm2gDScSbU2edcm">
-          <date when="2019-03-05"/>
-          <time when="14:00:18" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-6E8FCZuN1EcyEo895f9QpX" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-03-05"/>
+          <time when="14:00:18" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-9niE1EVzm2gDScSbU2edcm">
           <ref type="record" target="prot-201819--059">Protokoll 2018/19:59 Tisdagen den 5 mars</ref>

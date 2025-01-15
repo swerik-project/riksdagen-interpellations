@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Harald Bergström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-UtrdG3TunFF2Q5dXbR45yN</idno>
@@ -31,22 +31,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-28szX28EQ572CHcpCcwFZG" corresp="i-UtrdG3TunFF2Q5dXbR45yN">
-          <date when="1998-01-11"/>
+          <date when="1999-01-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FDV7uJghfWVz3RMyLJYzqJ">
+        <correspAction type="received" xml:id="i-FDV7uJghfWVz3RMyLJYzqJ" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KufeEjdxAQqauQFwKUs3Vv">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PiYBwHytVvmtGQrNYdA5bm">
-          <date when="1998-02-11"/>
+          <date when="1999-02-11"/>
         </correspAction>
         <correspContext corresp="i-PiYBwHytVvmtGQrNYdA5bm">
           <ref type="record" target="prot-199899--054">Prot. 1998/99:54</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-F7Beas1AzwrPWgG7dL5Eok" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-11-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RDBdhkH1Aoxfnp8jBtUQYa">
-          <date when="2023-12-04"/>
-          <time when="13:07:53" dur="PT255S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3Jcp92nCjEgaTvqniK1HQP">
           <date when="2023-12-04"/>
+          <time when="13:07:53" dur="PT255S"/>
         </correspAction>
         <correspContext corresp="i-RDBdhkH1Aoxfnp8jBtUQYa">
           <ref type="record" target="prot-202324--041">Protokoll 2023/24:41 Måndagen den 4 december</ref>

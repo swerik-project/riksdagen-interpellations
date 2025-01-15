@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-442JuLndkVvoz843GH512t" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2015-10-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7fg21JQh3puLxb6adrHyLX">
-          <date when="2015-10-23"/>
-          <time when="09:22:00" dur="PT86S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WVz8SicVDS8SMa6TGFuJUi">
           <date when="2015-10-23"/>
+          <time when="09:22:00" dur="PT86S"/>
         </correspAction>
         <correspContext corresp="i-7fg21JQh3puLxb6adrHyLX">
           <ref type="record" target="prot-201516--019">Protokoll 2015/16:19 Fredagen den 23 oktober</ref>

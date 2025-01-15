@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-P8ud9t2FDiNCN5TAFAsfAq</idno>
             <persName>Johanna Haraldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-HPeXdkD8fngYMaAsTs5Dtk" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2022-11-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RVKd8wfhemibdWFK5gdeT5">
-          <date when="2022-12-06"/>
-          <time when="19:32:35" dur="PT346S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JEF6EZQ2SJ5Fn4QsL3fLbk">
           <date when="2022-12-06"/>
+          <time when="19:32:35" dur="PT346S"/>
         </correspAction>
         <correspContext corresp="i-RVKd8wfhemibdWFK5gdeT5">
           <ref type="record" target="prot-202223--032">Protokoll 2022/23:32 Tisdagen den 6 december</ref>

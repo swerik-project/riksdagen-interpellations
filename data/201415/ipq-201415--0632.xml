@@ -27,36 +27,29 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8D1Xb5xvLE2YRWLnmb9hGW</idno>
             <persName>Isabella Hökmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
+            <persName>Ardalan Shekarabi</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-CujW6rynw47UnsKdYFknLw" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2015-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-34FrJTqacgSAcs144rscio">
-          <date when="2015-09-22"/>
-          <time when="18:22:41" dur="PT268S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TtstmacYLHUcTpcV6osFMN" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2015-09-22"/>
+          <time when="18:22:41" dur="PT268S"/>
         </correspAction>
         <correspContext corresp="i-34FrJTqacgSAcs144rscio">
           <ref type="record" target="f-lista-201516--006">Tisdag den 22 september 2015</ref>

@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-MLF8CTGVmPMFQA6FKZpz9k" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2017-10-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-W8WLvN9yBQ8RCiUfw5e3Wm">
-          <date when="2017-11-07"/>
-          <time when="18:19:26" dur="PT306S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MvsJHW2k2mSewiFeyjyXMy" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2017-11-07"/>
+          <time when="18:19:26" dur="PT306S"/>
         </correspAction>
         <correspContext corresp="i-W8WLvN9yBQ8RCiUfw5e3Wm">
           <ref type="record" target="prot-201718--026">Protokoll 2017/18:26 Tisdagen den 7 november</ref>

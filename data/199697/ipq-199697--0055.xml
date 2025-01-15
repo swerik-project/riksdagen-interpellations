@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Marianne Samuelsson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-NAZHDwfGffE63ZZmJW4qqn</idno>
           </person>
           <person gender="man">
-            <persName>statsminis­tern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-XRxMFKFk5tqoJwCzTLAJcT" corresp="i-NAZHDwfGffE63ZZmJW4qqn">
           <date when="1996-11-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JwTkCzS1gUtgZjGsPcKnXV">
+        <correspAction type="received" xml:id="i-JwTkCzS1gUtgZjGsPcKnXV" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-42FgMsEv3fmtW3ZycyL81u">
           <note>Förfallen</note>

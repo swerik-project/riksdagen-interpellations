@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
-            <persName>Anneli Särnblad</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
-            <persName>Anneli Särnblad (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5CH7vHLGXLfDB5Tn7xx95V</idno>
             <persName>Siv Holma (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-FTuxB98cDMBkWw68Y9RHEc</idno>
+            <persName>Anneli Särnblad</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-AmQELCQUBmtd6rybKXkVQn" corresp="i-FTuxB98cDMBkWw68Y9RHEc">
           <date when="2008-05-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-869yAnijWGrBwdwy7jFG5e">
-          <date when="2008-05-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8N1Wbwwgext7mGG6WT5B6M" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9TABWRAGJJDQs7RGr6yBML">
-          <date when="2008-06-02"/>
-          <time when="18:44:44" dur="PT225S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-M6E1gChM8vpvij7FTmpcmc" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-06-02"/>
+          <time when="18:44:44" dur="PT225S"/>
         </correspAction>
         <correspContext corresp="i-9TABWRAGJJDQs7RGr6yBML">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

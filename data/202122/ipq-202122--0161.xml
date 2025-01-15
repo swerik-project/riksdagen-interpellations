@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
             <persName>Niklas Wykman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
+            <persName>Kjell Jansson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
-            <persName>Kjell Jansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Asw9LamPgJAkrgysbvBAM1" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-12-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-93kXMmLvAYz7WWtFiyZeTH">
-          <date when="2022-01-11"/>
-          <time when="13:29:24" dur="PT43S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NM5hFiWQKwiWvsaG69byqH" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-01-11"/>
+          <time when="13:29:24" dur="PT43S"/>
         </correspAction>
         <correspAction xml:id="i-F7cd3veSM2QgCsvbZyvkj1" type="discussed" corresp="i-56GdsFT6s6AKjKP51Hrmn5">
           <date when="2022-01-11"/>

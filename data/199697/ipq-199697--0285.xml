@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Elisa Abascal Reyes (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-VG4CpX8R3VTMhQCny6GDjZ</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Gd32C2NWNW7JXCATPPdHZD" corresp="i-VG4CpX8R3VTMhQCny6GDjZ">
-          <date when="1996-04-28"/>
+          <date when="1997-04-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ADRJUrb3F6Dk1QNhYcc4ji">
+        <correspAction type="received" xml:id="i-ADRJUrb3F6Dk1QNhYcc4ji" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Wj6Kub8QrA6NUPb2MataG6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-5kL1gFZMtjim42MnPcryCE">
-          <date when="1996-05-20"/>
+          <date when="1997-05-20"/>
         </correspAction>
         <correspContext corresp="i-5kL1gFZMtjim42MnPcryCE">
           <ref type="record" target="prot-199697--105">Prot. 1996/97:105</ref>

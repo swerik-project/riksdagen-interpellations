@@ -25,43 +25,36 @@
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +63,12 @@
         <correspAction type="sent" xml:id="i-TRsCKCmYASShJiqUSWm79M" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2009-04-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MBpE8GUsMWD7E6Q6d7PzYH">
-          <date when="2009-04-01"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-HNfXTLAREjGzXMBoUSudvx" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-04-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8dbgMrVJ15Fxod9MGT7GSk">
-          <date when="2009-04-28"/>
-          <time when="15:07:01" dur="PT315S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-F3FyFcNKJ68xJ9xM42QurR" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-04-28"/>
+          <time when="15:07:01" dur="PT315S"/>
         </correspAction>
         <correspContext corresp="i-8dbgMrVJ15Fxod9MGT7GSk">
           <ref type="record" target="prot-200809--108">Riksdagens protokoll 2008/09:108 Tisdagen den 28 april</ref>

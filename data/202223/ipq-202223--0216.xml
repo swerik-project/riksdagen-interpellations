@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-J9YYjptVDTE5xVop1UtSiN</idno>
             <persName>Marcus Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-Hrwp2CirHc1Lt8EbiBxiJN" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-02-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9dk72pYxHgBZ1boQw36jFK">
-          <date when="2023-03-10"/>
-          <time when="10:00:43" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KsTKyANNGwZjsvBQTQcb5Q" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-03-10"/>
+          <time when="10:00:43" dur="PT151S"/>
         </correspAction>
         <correspContext corresp="i-9dk72pYxHgBZ1boQw36jFK">
           <ref type="record" target="prot-202223--073">Protokoll 2022/23:73 Fredagen den 10 mars</ref>

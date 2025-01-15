@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Bo Könberg (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-JZKa6caqdSKy8yhUyfEJeU</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-ASsTeduYwSSBPrzo2FGzLm" corresp="i-JZKa6caqdSKy8yhUyfEJeU">
           <date when="1997-11-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CTkSqDqfFuEWBbGwDqNP8C">
+        <correspAction type="received" xml:id="i-CTkSqDqfFuEWBbGwDqNP8C" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-MYF4dqG7LpugjAGbq47Vfe">
           <note>Förfallen</note>

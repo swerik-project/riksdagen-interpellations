@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TigPaPfe7eBTgfMXr1phgo</idno>
             <persName>Mats Green</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
+            <persName>Ardalan Shekarabi</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-XXmPZwd8fBRsWfbXRfhX9" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2016-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TgkBZS8aj4HTApUcqJAcCv">
-          <date when="2016-03-04"/>
-          <time when="10:09:36" dur="PT187S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QnebnNEAdAehyEtEYcCPCj">
           <date when="2016-03-04"/>
+          <time when="10:09:36" dur="PT187S"/>
         </correspAction>
         <correspContext corresp="i-TgkBZS8aj4HTApUcqJAcCv">
           <ref type="record" target="prot-201516--075">Protokoll 2015/16:75 Fredagen den 4 mars</ref>

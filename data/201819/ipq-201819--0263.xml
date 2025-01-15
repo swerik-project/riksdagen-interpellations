@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-9XTMNkDLu5u66FsWiwysh1</idno>
             <persName>Karin Rågsjö</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-2QngjfQnzJZmLzi782vUcj" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-526Eb3pi9xk2zRd2tw3mpU">
-          <date when="2019-06-03"/>
-          <time when="13:50:16" dur="PT116S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NJbBq9ori5Fxdsgdqmijom">
           <date when="2019-06-03"/>
+          <time when="13:50:16" dur="PT116S"/>
         </correspAction>
         <correspContext corresp="i-526Eb3pi9xk2zRd2tw3mpU">
           <ref type="record" target="prot-201819--098">Protokoll 2018/19:98 Måndagen den 3 juni</ref>

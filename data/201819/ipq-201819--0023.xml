@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
+            <persName>Elisabeth Björnsdotter Rahm</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
-            <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-WVY2LFJAR7ME7UKKfSCj4q" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3Hjyfrihq2Y9qzNytjPwEU">
-          <date when="2019-02-12"/>
-          <time when="19:49:08" dur="PT199S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ApkcWEsHdChvCfz8jVq43Y" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-02-12"/>
+          <time when="19:49:08" dur="PT199S"/>
         </correspAction>
         <correspContext corresp="i-3Hjyfrihq2Y9qzNytjPwEU">
           <ref type="record" target="prot-201819--051">Protokoll 2018/19:51 Tisdagen den 12 februari</ref>

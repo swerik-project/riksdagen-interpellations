@@ -27,50 +27,43 @@
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A4xHkoj5hLnWEChHnCCjS5</idno>
             <persName>Jonny Cato</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SRx5MYgiUBkgGLPueXgws5</idno>
             <persName>Ola Möller</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
+            <persName>Maria Malmer Stenergard</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-FxttC2GAYoUAk4JPGMqiS5" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-02-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-77SPUayGcHE2WuNgY5U6NM">
-          <date when="2023-03-07"/>
-          <time when="19:27:26" dur="PT343S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7M3WbWYjFWp5VzeRDjiqzy">
           <date when="2023-03-07"/>
+          <time when="19:27:26" dur="PT343S"/>
         </correspAction>
         <correspAction xml:id="i-Gmi5c7ntPGKr6XFAzUJKvK" type="discussed" corresp="i-A4xHkoj5hLnWEChHnCCjS5">
           <date when="2023-03-07"/>

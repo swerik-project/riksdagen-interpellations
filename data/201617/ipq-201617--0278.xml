@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Statsrådet Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Hwq1AUDdZSueKJGCY4LcPp" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2017-02-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-89ufJY83heXEqXeXBGeNyL">
-          <date when="2017-02-21"/>
-          <time when="20:29:26" dur="PT253S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Sma5aMYQwfEjpvXoSzHJh9">
           <date when="2017-02-21"/>
+          <time when="20:29:26" dur="PT253S"/>
         </correspAction>
         <correspContext corresp="i-89ufJY83heXEqXeXBGeNyL">
           <ref type="record" target="prot-201617--071">Protokoll 2016/17:71 Tisdagen den 21 februari</ref>

@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-L2KZeDLeFCtLbNDDsEJssq</idno>
             <persName>Sanne Lennström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
             <persName>Åsa Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BLJsSYde4NkMtqfqGADxxj</idno>
             <persName>Jim Svensk Larm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-XPFqDcwmAVHA18wd3Xpegw" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2023-03-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5W8GiSLq4NXeGj7LN6wVN2">
-          <date when="2023-03-14"/>
-          <time when="18:54:39" dur="PT250S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AyCNU3DDv63dvPtTSvQKff">
           <date when="2023-03-14"/>
+          <time when="18:54:39" dur="PT250S"/>
         </correspAction>
         <correspContext corresp="i-5W8GiSLq4NXeGj7LN6wVN2">
           <ref type="record" target="prot-202223--074">Protokoll 2022/23:74 Tisdagen den 14 mars</ref>

@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-PYk1FHT5xHTWNczRYuGRJg</idno>
             <persName>Anders Ådahl</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GLpGALNASBTHSmgDcbTu4m</idno>
             <persName>Åsa Westlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
+            <persName>Lotta Edholm</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-VKME3c7iYd6pviu72EwSHS" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-02-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XMgJCHRRfFmLP2mzmzZusk">
-          <date when="2024-03-01"/>
-          <time when="09:30:00" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XAis23SEQvYbqKKp6dTmQn">
           <date when="2024-03-01"/>
+          <time when="09:30:00" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-XMgJCHRRfFmLP2mzmzZusk">
           <ref type="record" target="prot-202324--078">Protokoll 2023/24:78 Fredagen den 1 mars</ref>

@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Etc67wxBkpNTVUy3CjqL6L" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2023-01-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PN2MxLzwm8f9SKgBGzGJVh">
-          <date when="2023-02-03"/>
-          <time when="09:01:26" dur="PT191S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JYJbtuXLJ5MiPQLFe3jPbh">
           <date when="2023-02-03"/>
+          <time when="09:01:26" dur="PT191S"/>
         </correspAction>
         <correspContext corresp="i-PN2MxLzwm8f9SKgBGzGJVh">
           <ref type="record" target="prot-202223--057">Protokoll 2022/23:57 Fredagen den 3 februari</ref>

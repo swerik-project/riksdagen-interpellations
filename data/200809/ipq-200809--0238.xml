@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Jennie Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
-            <persName>Jennie Nilsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
             <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-LKQKWG3JJUBFg12z1vrFwt</idno>
+            <persName>Jennie Nilsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-W81C9aeZcAkhYRAV6PgMae" corresp="i-LKQKWG3JJUBFg12z1vrFwt">
           <date when="2008-12-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K2YC11foaPTkTgYJcpnRAC">
-          <date when="2009-01-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AsWrSt9ZuahddLwuqWZkta" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5LAWqTMVNV9gJvPociK3XL">
-          <date when="2009-01-27"/>
-          <time when="18:52:51" dur="PT239S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XQxiBH1cXMS66v9GBu35q8" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-01-27"/>
+          <time when="18:52:51" dur="PT239S"/>
         </correspAction>
         <correspContext corresp="i-5LAWqTMVNV9gJvPociK3XL">
           <ref type="record" target="prot-200809--063">Riksdagens protokoll 2008/09:63 Tisdagen den 27 januari</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-X9jqcGenibr5tWEbnZgddm</idno>
             <persName>Annika Hirvonen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-NgdK3j5EyHfm2TpzJuYN3Q" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2022-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Lh4kauDUxt9ri51kNc36ZN">
-          <date when="2022-11-08"/>
-          <time when="19:27:55" dur="PT101S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SpgAMYgpwXLNFmR8E2nSQ9">
           <date when="2022-11-08"/>
+          <time when="19:27:55" dur="PT101S"/>
         </correspAction>
         <correspContext corresp="i-Lh4kauDUxt9ri51kNc36ZN">
           <ref type="record" target="prot-202223--016">Protokoll 2022/23:16 Tisdagen den 8 november</ref>

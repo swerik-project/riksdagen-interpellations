@@ -20,15 +20,20 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
           </person>
           <person gender="man">
-            <persName>socialministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <persName>Maj-Inger Klingvall</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +41,8 @@
         <correspAction type="sent" xml:id="i-KVghGk3vam9kiAbfiaqYtk" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1998-11-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SbN26iTYuAeKpLCfQXB4gu">
+        <correspAction type="received" xml:id="i-SbN26iTYuAeKpLCfQXB4gu" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-N23vbWanWYx6C2Pvfg3fW4">
           <note>Besvarad</note>

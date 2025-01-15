@@ -23,37 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
-            <persName>Anne Ludvigsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
             <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DDTGf6wkyXKiMd3kYJ4KQv</idno>
-            <persName>Anne Ludvigsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Anne Ludvigsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Wi64xFHEgknHpogH2DUwxe" corresp="i-DDTGf6wkyXKiMd3kYJ4KQv">
           <date when="2010-03-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UVgCtNBqSmUDxasDnHHBTR">
-          <date when="2010-03-04"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WkDeLXT3kU2AFUtbXzB4xJ" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-03-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A97hcrokiQ9pe4XrhbcLWd">
-          <date when="2010-03-16"/>
-          <time when="15:19:22" dur="PT359S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-B8nHh5ryTWrTtbBH21RSEb" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-03-16"/>
+          <time when="15:19:22" dur="PT359S"/>
         </correspAction>
         <correspContext corresp="i-A97hcrokiQ9pe4XrhbcLWd">
           <ref type="record" target="prot-200910--088">Riksdagens protokoll 2009/10:88 Tisdagen den 16 mars</ref>

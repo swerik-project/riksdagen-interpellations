@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
             <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRFN1BS8QWUhjjGAM8w3Fj</idno>
-            <persName>Maud Olofsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-EEd51h3Jzu6RqYE6tEtK4j" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2008-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2Ef4yTtzrU1pSudWks2h2d">
-          <date when="2008-10-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BPd5jHjoCtUBmvWZupyzeR" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-10-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-F39bZ8AHJh7HCYEcfGrD5a">
-          <date when="2008-11-24"/>
-          <time when="11:01:35" dur="PT178S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-G4wLDirRe94N7JXriDfdWh" corresp="i-PRFN1BS8QWUhjjGAM8w3Fj">
           <date when="2008-11-24"/>
+          <time when="11:01:35" dur="PT178S"/>
         </correspAction>
         <correspContext corresp="i-F39bZ8AHJh7HCYEcfGrD5a">
           <ref type="record" target="prot-200809--034">Riksdagens protokoll 2008/09:34 Måndagen den 24 november</ref>

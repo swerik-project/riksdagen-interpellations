@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Bmi9XXt8ni373cdiv3K6qx</idno>
-            <persName>Kenneth G Forslund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Bmi9XXt8ni373cdiv3K6qx</idno>
-            <persName>Kenneth G Forslund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Kenneth G. Forslund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-M4GoiCh8anCfQ8wjdosi4w" corresp="i-Bmi9XXt8ni373cdiv3K6qx">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4Ge3w2GqJYicSGfZEwdMLT">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RwLU7e6TCREcntoZbm7WYf" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-96Qjv6Fmyw1Yb7CiYnRXPW">
-          <date when="2010-06-18"/>
-          <time when="11:02:18" dur="PT253S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-3skdJcrSXHQApFdgzt8Par" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2010-06-18"/>
+          <time when="11:02:18" dur="PT253S"/>
         </correspAction>
         <correspContext corresp="i-96Qjv6Fmyw1Yb7CiYnRXPW">
           <ref type="record" target="prot-200910--140">Riksdagens protokoll 2009/10:140 Fredagen den 18 juni</ref>

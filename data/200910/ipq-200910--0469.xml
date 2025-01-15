@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
-            <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MKm68HiDPih8eisvsh6GJg</idno>
             <persName>Bo Bernhardsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-LvBF2GjuesuifTbwoe1SEb" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JHGJs5oZ679AZd1sdjMeYG">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Vp67g4gn4cCggCrcDV2mUH" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8eqWgADdvJsuy4aM238EWh">
-          <date when="2010-06-28"/>
-          <time when="18:38:10" dur="PT220S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TPGvHm2eEcDC49CWH8BQDk" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-06-28"/>
+          <time when="18:38:10" dur="PT220S"/>
         </correspAction>
         <correspContext corresp="i-8eqWgADdvJsuy4aM238EWh">
           <ref type="record" target="prot-200910--144">Riksdagens protokoll 2009/10:144 Måndagen den 28 juni</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Carl Erik Hedlund (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-BDyTfvRPbqHRWnog75qTEp</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-PWt1CDu12TcJ2DFLZ7ZhTA" corresp="i-BDyTfvRPbqHRWnog75qTEp">
-          <date when="1996-04-04"/>
+          <date when="1997-04-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XzeqzjK4Y3JR4VrxxL1rHm">
+        <correspAction type="received" xml:id="i-XzeqzjK4Y3JR4VrxxL1rHm" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-stb6joaeEgD9Ese9BTRDN">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-B79KNwccB3Z5wkAVdi4Msu">
-          <date when="1996-04-18"/>
+          <date when="1997-04-18"/>
         </correspAction>
         <correspContext corresp="i-B79KNwccB3Z5wkAVdi4Msu">
           <ref type="record" target="prot-199697--092">Prot. 1996/97:92</ref>

@@ -27,50 +27,43 @@
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Miljö- och klimatminister Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DGTHVhbApAq9J741uJW2uT</idno>
             <persName>Marléne Lund Kopparklint</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
+            <persName>Per Bolund</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -85,12 +78,9 @@
         <correspAction type="received" xml:id="i-6Foh4VF28Qq4o3CWZqdW4c" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2021-09-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-S3eKKfgRBRq5B2gqgHK5JU">
-          <date when="2021-10-12"/>
-          <time when="14:40:12" dur="PT125S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AkWycRM924DUb9QAwiFfk9">
           <date when="2021-10-12"/>
+          <time when="14:40:12" dur="PT125S"/>
         </correspAction>
         <correspAction xml:id="i-36BEpSRrM6U5mgLza5Swch" type="discussed" corresp="i-DGTHVhbApAq9J741uJW2uT">
           <date when="2021-10-12"/>

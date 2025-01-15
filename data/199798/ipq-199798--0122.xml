@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Eskil Erlandsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
           </person>
           <person gender="woman">
-            <persName>kommunika­tionsministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-2NdFhGuGXHT5TfB6Sxz83p" corresp="i-B471TcSCwHNHrNRk1EdJek">
-          <date when="1997-01-20"/>
+          <date when="1998-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FU1VENDEoTZNrViCSz9BUE">
+        <correspAction type="received" xml:id="i-FU1VENDEoTZNrViCSz9BUE" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunika­tionsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-QHPN49DSN9szffRcv4bhU">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2ZFeFZyrZkr4EdD3gc2zs4">
-          <date when="1997-02-03"/>
+          <date when="1998-02-03"/>
         </correspAction>
         <correspContext corresp="i-2ZFeFZyrZkr4EdD3gc2zs4">
           <ref type="record" target="prot-199798--060">Prot. 1997/98:60</ref>

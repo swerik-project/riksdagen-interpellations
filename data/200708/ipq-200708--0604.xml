@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Morgan Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Morgan Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9VjZv6Yr4uYXerjX6xkZNG" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2008-04-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HxSyFZcFivm6jcUdKpDNbS">
-          <date when="2008-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-9ryxU7RK8BYic4HUDwc7pQ" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8KpEK7qSkJpdEe6kvedmHE">
-          <date when="2008-05-23"/>
-          <time when="09:33:07" dur="PT415S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VsPEXLcksfam88z6etC6W7" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-05-23"/>
+          <time when="09:33:07" dur="PT415S"/>
         </correspAction>
         <correspContext corresp="i-8KpEK7qSkJpdEe6kvedmHE">
           <ref type="record" target="prot-200708--118">Riksdagens protokoll 2007/08:118 Fredagen den 23 maj</ref>

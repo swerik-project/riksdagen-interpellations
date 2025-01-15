@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-WEvWjktyzaNccceUjywVYE</idno>
             <persName>Frida Tånghag</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-5bQB8TRw76HGq8rUzwC8Mm" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-03-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LwvaWWhGDS57LNd1rUyWFn">
-          <date when="2023-04-11"/>
-          <time when="18:51:50" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-V6WZqqFG4Bq21fnM4EPTU4" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2023-04-11"/>
+          <time when="18:51:50" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-LwvaWWhGDS57LNd1rUyWFn">
           <ref type="record" target="prot-202223--086">Protokoll 2022/23:86 Tisdagen den 11 april</ref>

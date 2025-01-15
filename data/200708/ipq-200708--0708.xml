@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-A5v1wRVXbYoRiLBgT8rTd1">
-          <date when="2008-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8qogL9XfJY2fK3SaPwTfGj" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-05-13"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-HpY7PqueqJuewDGfznfv6y" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2008-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5u8WS9Ugqjy1hYk8EzRsha">
-          <date when="2008-06-10"/>
-          <time when="15:47:43" dur="PT171S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-H1TzZrvMrmB65pTdnNQDru" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-06-10"/>
+          <time when="15:47:43" dur="PT171S"/>
         </correspAction>
         <correspContext corresp="i-5u8WS9Ugqjy1hYk8EzRsha">
           <ref type="record" target="prot-200708--125">Riksdagens protokoll 2007/08:125 Tisdagen den 10 juni</ref>

@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Maryam Yazdanfar</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-2iangwBDFaMQqXmrPZxcHx" corresp="i-TcNfrp7fRvP58buMahA7Gi">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XzokTr3LESbgpA2nq3TTto">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-ERjGKDhShmthrVCddbGP8b" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Aok9BSRCjutegguKu97qXs">
-          <date when="2010-06-04"/>
-          <time when="11:04:55" dur="PT300S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CaLpGUn8anRHbbNnwwaWKs" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-06-04"/>
+          <time when="11:04:55" dur="PT300S"/>
         </correspAction>
         <correspContext corresp="i-Aok9BSRCjutegguKu97qXs">
           <ref type="record" target="prot-200910--132">Riksdagens protokoll 2009/10:132 Fredagen den 4 juni</ref>

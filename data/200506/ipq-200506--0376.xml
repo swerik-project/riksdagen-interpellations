@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
             <persName>Hans Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-WMD43YDAt2Efk5C5qFXnaQ</idno>
-            <persName>Hans Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-Xb9JgfduwXRQA38YWbZcUz" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2006-05-02"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-FnweCQnG7TJfkSNiEukhhR">
-          <date when="2006-05-02"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-GfQRjXrJXWPC76qNQq84Ht">
-          <date when="2006-05-15"/>
         </correspAction>
         <correspAction type="received" xml:id="i-X5MzZdg2c2txhtfNAeT3PH" corresp="i-WMD43YDAt2Efk5C5qFXnaQ">
           <date when="2006-05-02"/>

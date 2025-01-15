@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
-            <persName>Lennart Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
-            <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-M4D6arkL4NDotKE5J8bLHn</idno>
             <persName>Curt Linderoth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LBN95MD8hn6zkXhRBcbJbB</idno>
             <persName>Lennart Hedquist (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
+            <persName>Lennart Axelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-UB4XvozyQFr84X1JqKjVwB" corresp="i-2Bind9dyirGQ1UMwS9XjsT">
           <date when="2009-03-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DVCMW7Yuhg5utKEiuCj282">
-          <date when="2009-03-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8FFvSGsnzMb5AMT6RJVqSs" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-03-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-L9ouHGAqv5Z1iesVYxqYhQ">
-          <date when="2009-05-08"/>
-          <time when="11:31:28" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-K2jAGHpTykMLGJhAgCEVrd" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-05-08"/>
+          <time when="11:31:28" dur="PT214S"/>
         </correspAction>
         <correspContext corresp="i-L9ouHGAqv5Z1iesVYxqYhQ">
           <ref type="record" target="prot-200809--114">Riksdagens protokoll 2008/09:114 Fredagen den 8 maj</ref>

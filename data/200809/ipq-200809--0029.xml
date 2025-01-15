@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-GQzX6vWx4U9VMh4ci9D9yF</idno>
-            <persName>Margareta Israelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GQzX6vWx4U9VMh4ci9D9yF</idno>
-            <persName>Margareta Israelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
+            <persName>Lena Adelsohn Liljeroth</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GQzX6vWx4U9VMh4ci9D9yF</idno>
+            <persName>Margareta Israelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-XjFR5VHTmSnhgVwVeHi1K3" corresp="i-GQzX6vWx4U9VMh4ci9D9yF">
           <date when="2008-10-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TziqQvwtEmqnVTzLgYco2i">
-          <date when="2008-10-07"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BGnp8BYt7brh2Kica2VyDw" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-10-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-67ZXzejyBj6yuE85LEBDN9">
-          <date when="2008-10-21"/>
-          <time when="19:31:39" dur="PT157S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JxUsapQqHrRpr1FgWY5zxJ" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2008-10-21"/>
+          <time when="19:31:39" dur="PT157S"/>
         </correspAction>
         <correspContext corresp="i-67ZXzejyBj6yuE85LEBDN9">
           <ref type="record" target="prot-200809--016">Riksdagens protokoll 2008/09:16 Tisdagen den 21 oktober</ref>

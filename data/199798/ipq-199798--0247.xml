@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Johan Lönnroth (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-WvrkgGMVWbiVxVoPqgJuEF</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-N3L3hp5SkPuTQiYjtzV3qz" corresp="i-WvrkgGMVWbiVxVoPqgJuEF">
-          <date when="1997-03-31"/>
+          <date when="1998-03-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VSsAqTYy5hNcocS9QjT5pq">
+        <correspAction type="received" xml:id="i-VSsAqTYy5hNcocS9QjT5pq" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-FT57WboTSH1fCRL46P2i6m">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JjnnVztzMheywdbQr6aLYg">
-          <date when="1997-04-27"/>
+          <date when="1998-04-27"/>
         </correspAction>
         <correspContext corresp="i-JjnnVztzMheywdbQr6aLYg">
           <ref type="record" target="prot-199798--097">Prot. 1997/98:97</ref>

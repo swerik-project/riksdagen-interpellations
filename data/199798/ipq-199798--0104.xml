@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Roland Larsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Roland Larsson</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-9GkZmWA6j3AXTPSkudVbZ</idno>
           </person>
           <person gender="woman">
-            <persName>kulturministern</persName>
+            <persName>Marita Ulvskog</persName>
             <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-HsodG3rKdej5vnhG8Qc9qM" corresp="i-9GkZmWA6j3AXTPSkudVbZ">
           <date when="1997-12-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Bwhzch9FSUEBxWqiDagAWw">
+        <correspAction type="received" xml:id="i-Bwhzch9FSUEBxWqiDagAWw" corresp="i-JchxQfU1zc3XVbvadFgBSn">
           <note>date unknown</note>
-          <name>kulturministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NxSC6PQvHun54dfR9UuZNc">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RajTDc2gRXywTgt7dgsQwQ">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-RajTDc2gRXywTgt7dgsQwQ">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

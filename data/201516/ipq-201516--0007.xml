@@ -27,36 +27,22 @@
           <person gender="woman">
             <idno>i-9Rr7JqtzHpZv84evqPH4D8</idno>
             <persName>Karin Enström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-F7At3v6PvJpNCH37qRhr8A</idno>
             <persName>Sofia Damm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
+            <persName>Isabella Lövin</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-FTGoEBzrKhJNQwXVpYiUJL" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2015-09-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8k69wUm9jYpttTCeKQSGoh">
-          <date when="2015-10-02"/>
-          <time when="09:57:44" dur="PT229S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HKpi3GrmjTWhZcW3qd1apg" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2015-10-02"/>
+          <time when="09:57:44" dur="PT229S"/>
         </correspAction>
         <correspContext corresp="i-8k69wUm9jYpttTCeKQSGoh">
           <ref type="record" target="prot-201516--011">Protokoll 2015/16:11 Fredagen den 2 oktober</ref>

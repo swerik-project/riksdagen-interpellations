@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-TxLwXp3MJemR8iGdYER2aZ</idno>
             <persName>Ali Esbati</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
-            <persName>Näringsminister Karl-Petter Thorwaldsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-D2uJEWzkUt2JAeCGbpSqPy</idno>
             <persName>Karl-Petter Thorwaldsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-YP13GoJbBRAVpd5g4sRirK" corresp="i-D2uJEWzkUt2JAeCGbpSqPy">
           <date when="2021-12-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MdBaZCR5DH5ziFPbFnPDaV">
-          <date when="2022-01-11"/>
-          <time when="18:28:19" dur="PT115S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-T5qW856rMdqm24FLU8Xknv">
           <date when="2022-01-11"/>
+          <time when="18:28:19" dur="PT115S"/>
         </correspAction>
         <correspContext corresp="i-MdBaZCR5DH5ziFPbFnPDaV">
           <ref type="record" target="prot-202122--050">Protokoll 2021/22:50 Tisdagen den 11 januari</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-Kn2C4HPwWcqbEgtUtWTc5F</idno>
             <persName>Roger Haddad</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-42mC5GTVNHcPV5LNMmxmrj</idno>
             <persName>Carl Schlyter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
+            <persName>Anders Ygeman</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-pW7JDErAJqEstmfTgGEpC" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2017-04-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MVDvYyEcPBvSmyfRs7fXNP">
-          <date when="2017-04-21"/>
-          <time when="09:48:56" dur="PT128S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XkCBSqpr8A3nZh7rmqhEf5">
           <date when="2017-04-21"/>
+          <time when="09:48:56" dur="PT128S"/>
         </correspAction>
         <correspContext corresp="i-MVDvYyEcPBvSmyfRs7fXNP">
           <ref type="record" target="prot-201617--098">Protokoll 2016/17:98 Fredagen den 21 april</ref>

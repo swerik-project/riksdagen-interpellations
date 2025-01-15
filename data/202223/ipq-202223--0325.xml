@@ -25,30 +25,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-L4Y4PvD16HC8njPMzpsxLF" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7ChdX3YjVRPEaZQ9UEqQrD">
-          <date when="2023-05-22"/>
-          <time when="13:35:12" dur="PT80S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NfztPSRPuH4gVFZxo42fri" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-05-22"/>
+          <time when="13:35:12" dur="PT80S"/>
         </correspAction>
         <correspContext corresp="i-7ChdX3YjVRPEaZQ9UEqQrD">
           <ref type="record" target="prot-202223--109">Protokoll 2022/23:109 Måndagen den 22 maj</ref>

@@ -27,43 +27,36 @@
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-M5o8cYSRJsbmZdvevomfQX</idno>
             <persName>Ulla Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-MrDYHQYobJiVrmAi8PUzzz" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2019-02-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-59nkNzHcp6tJS2ATuaepMD">
-          <date when="2019-03-05"/>
-          <time when="14:29:06" dur="PT176S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UubwuCMeTTUf7ZSBEwFpSF" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-03-05"/>
+          <time when="14:29:06" dur="PT176S"/>
         </correspAction>
         <correspAction xml:id="i-YXtCnWRTPZ5GZVsBbV7kB6" type="discussed" corresp="i-QhdbBfCQXCqPEr4GTwvK8F">
           <date when="2019-03-05"/>

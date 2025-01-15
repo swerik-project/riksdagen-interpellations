@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-HRPpQ8qPTSDiXRLMZkqL1u</idno>
             <persName>Mats Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
             <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-W9g5g3nUh3Fu7mKUtFoBFH</idno>
-            <persName>Gunilla Carlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-RzLKTRrLxHVTyYKZJfZga1" corresp="i-HRPpQ8qPTSDiXRLMZkqL1u">
           <date when="2006-11-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-B5jo8GvVnpqX8xYARpNa5v">
-          <date when="2006-11-14"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GYihdR4ZB8CvVcQHtmPoPS" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2006-11-14"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-YVNu3U6UWQfyNJsbMrSPt4">
-          <date when="2006-11-30"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-V6XrcnhrXxtqAVjPnyyiY7" corresp="i-W9g5g3nUh3Fu7mKUtFoBFH">
           <date when="2006-11-30"/>

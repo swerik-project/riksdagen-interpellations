@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Britt-Marie Danestig (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-RsJr1rsFNFbn3SapToHxbM</idno>
           </person>
           <person gender="man">
-            <persName>utbildnings­ministern</persName>
+            <persName>Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-BXdiJ5eUWTDvtBrAnQxW8N" corresp="i-RsJr1rsFNFbn3SapToHxbM">
           <date when="1998-12-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-2Et2t9hVtbKmGL55BvZtkR">
+        <correspAction type="received" xml:id="i-2Et2t9hVtbKmGL55BvZtkR" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>utbildnings­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Nm3K9PG1yc8ihprWo9H4zP">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JgZ6DSBGjAQ6X453k76avx">
-          <date when="1998-01-26"/>
+          <date when="1999-01-26"/>
         </correspAction>
         <correspContext corresp="i-JgZ6DSBGjAQ6X453k76avx">
           <ref type="record" target="prot-199899--045">Prot. 1998/99:45</ref>

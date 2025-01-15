@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Johansson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-8tpDmPvgnXjJkWGy9k68Ba</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Jörgen Andersson</persName>
             <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <persName>Anders Sundström</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-91CcEoAPjmJSre5Yej5A6r" corresp="i-8tpDmPvgnXjJkWGy9k68Ba">
-          <date when="1996-03-06"/>
+          <date when="1997-03-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Wjq7vvsVLWYQPGXukpjjxR">
+        <correspAction type="received" xml:id="i-Wjq7vvsVLWYQPGXukpjjxR" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-X9quUrFkBepzFguA73Ux21">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-J8C3hpcwHQ2thsy5RFEook">
-          <date when="1996-04-25"/>
+          <date when="1997-04-25"/>
         </correspAction>
         <correspContext corresp="i-J8C3hpcwHQ2thsy5RFEook">
           <ref type="record" target="prot-199697--096">Prot. 1996/97:96</ref>

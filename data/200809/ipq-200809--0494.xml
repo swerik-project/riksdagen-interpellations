@@ -22,39 +22,18 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person gender="man">
+            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
+            <persName>Carl Bildt</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
           <person gender="woman">
             <idno>i-TECanR77Prb79DHwPvLitN</idno>
             <persName>Annelie Enochson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TECanR77Prb79DHwPvLitN</idno>
-            <persName>Annelie Enochson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-SYfx7ECWnTEtCCkEupdZUB" corresp="i-TECanR77Prb79DHwPvLitN">
           <date when="2009-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AvSMeMVAQiodyXtnRuAdvv">
-          <date when="2009-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Pr6pskNfg2Y1DnrKQyWQMa" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KnZnQy52rZD7GBaBXadSE">
-          <date when="2009-06-01"/>
-          <time when="13:06:41" dur="PT469S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FjD2fEAuGP8v3u5nrSmvRd" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-06-01"/>
+          <time when="13:06:41" dur="PT469S"/>
         </correspAction>
         <correspContext corresp="i-KnZnQy52rZD7GBaBXadSE">
           <ref type="record" target="prot-200809--125">Riksdagens protokoll 2008/09:125 Måndagen den 1 juni</ref>

@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-X9jqcGenibr5tWEbnZgddm</idno>
             <persName>Annika Hirvonen</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Gaj5GV1w2xSjZUce8Ca3LD" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2022-12-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A8CBqx7tkgwGPzDTv2cDGy">
-          <date when="2022-12-13"/>
-          <time when="21:19:45" dur="PT269S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HuLz9X8NfJhCK5TB1EySNt">
           <date when="2022-12-13"/>
+          <time when="21:19:45" dur="PT269S"/>
         </correspAction>
         <correspContext corresp="i-A8CBqx7tkgwGPzDTv2cDGy">
           <ref type="record" target="prot-202223--037">Protokoll 2022/23:37 Tisdagen den 13 december</ref>

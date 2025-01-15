@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Fredrik Reinfeldt (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
@@ -30,6 +30,7 @@
           <person gender="woman">
             <persName>statsrådet Ulrica Messing</persName>
             <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-VBaA84rNLFGGnses8iTUmn" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="1996-09-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XGfYw41Wc27k7TonqHLSsF">
+        <correspAction type="received" xml:id="i-XGfYw41Wc27k7TonqHLSsF" corresp="i-L7Ay5GaFaMutWEX7utMv62">
           <note>date unknown</note>
-          <name>statsrådet Ulrica Messing</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Py8KZTM3nQpwJbiLxYxyxn">
           <note>Besvarad</note>

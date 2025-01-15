@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Rkuvz2uZsGGCtRXDRZK2YV</idno>
             <persName>Sanna Backeskog</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-7stbF8sRGztPbFycLpMPDA" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-06-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3ocWCuYW8JEoVGfuhheZys">
-          <date when="2023-06-26"/>
-          <time when="14:18:04" dur="PT253S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DJiGu18CkJq92L1uwYsrPS">
           <date when="2023-06-26"/>
+          <time when="14:18:04" dur="PT253S"/>
         </correspAction>
         <correspContext corresp="i-3ocWCuYW8JEoVGfuhheZys">
           <ref type="record" target="prot-202223--130">Protokoll 2022/23:130 Måndagen den 26 juni</ref>

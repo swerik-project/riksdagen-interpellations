@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ldb2oqPG98BReLEGLTqU4A</idno>
             <persName>Jan Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-WYPJbzxBw8xje98eqigyUY" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-06-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CZEV9wCnitjmhzQy8suuaK">
-          <date when="2022-06-28"/>
-          <time when="10:20:18" dur="PT194S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TKbkouvSLgFVkMFMQeYtzv">
           <date when="2022-06-28"/>
+          <time when="10:20:18" dur="PT194S"/>
         </correspAction>
         <correspContext corresp="i-CZEV9wCnitjmhzQy8suuaK">
           <ref type="record" target="prot-202122--138">Protokoll 2021/22:138 Tisdagen den 28 juni</ref>

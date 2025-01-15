@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Rolf Gunnarsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-3TzUjUVop5GV6tpKYjGYGr</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-NgCFZUzaN2Fi5HuewsLjTw" corresp="i-3TzUjUVop5GV6tpKYjGYGr">
           <date when="1996-10-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VYptdSoTLGuuVBcDrrzAeU">
+        <correspAction type="received" xml:id="i-VYptdSoTLGuuVBcDrrzAeU" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-AgUMGkCZ41gK9woaeavX9p">
           <note>Besvarad</note>

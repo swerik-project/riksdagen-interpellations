@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-T6AT9fKDGQUF9erXxGGXMB" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2019-05-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-51QjQowMUYCbxPjFJr6Mig">
-          <date when="2019-06-03"/>
-          <time when="12:25:23" dur="PT169S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LQbwXSXdbx8KxymmquPi2">
           <date when="2019-06-03"/>
+          <time when="12:25:23" dur="PT169S"/>
         </correspAction>
         <correspContext corresp="i-51QjQowMUYCbxPjFJr6Mig">
           <ref type="record" target="prot-201819--098">Protokoll 2018/19:98 Måndagen den 3 juni</ref>

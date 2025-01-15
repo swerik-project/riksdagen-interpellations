@@ -27,43 +27,29 @@
           <person gender="woman">
             <idno>i-ViJ12QcECKp5J4sEBkw5a2</idno>
             <persName>Sofie Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-4B1oBJ9aTZSuLuku4zxamc" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RC5SvybWWx5YwHoZhC5SdU">
-          <date when="2023-12-20"/>
-          <time when="17:52:24" dur="PT209S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Udng8rAXuzhVFTyq4AWddE" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-12-20"/>
+          <time when="17:52:24" dur="PT209S"/>
         </correspAction>
         <correspAction xml:id="i-TYJqw4Fk1pAHCS55U3WRtx" type="discussed" corresp="i-QpWVRM55tMRcHYZCMDFcHW">
           <date when="2023-12-20"/>

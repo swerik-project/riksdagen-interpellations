@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-Ei3Hc1Z6mnifStMjLSFCys" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8YEzPNXvFavQV6vBE2SmnK">
-          <date when="2022-02-15"/>
-          <time when="20:04:23" dur="PT42S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SiWNBWUc8xdvXze7XirekT">
           <date when="2022-02-15"/>
+          <time when="20:04:23" dur="PT42S"/>
         </correspAction>
         <correspContext corresp="i-8YEzPNXvFavQV6vBE2SmnK">
           <ref type="record" target="prot-202122--066">Protokoll 2021/22:66 Tisdagen den 15 februari</ref>

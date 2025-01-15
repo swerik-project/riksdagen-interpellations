@@ -25,45 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-2dwC5U2RuvHwfhzcwB91oo</idno>
             <persName>Mattias Eriksson Falk</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XQAzCv28W16uuk7HhQLdZZ</idno>
             <persName>Anders W Jonsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-9VU2EHJKi44G6qBu8NosKx" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-11-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HuCh3pPHhZNAVCVWGPj5NP">
-          <date when="2023-12-20"/>
-          <time when="16:48:26" dur="PT144S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-W6QhYsy747zduPSeZ38TdG" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2023-12-20"/>
+          <time when="16:48:26" dur="PT144S"/>
         </correspAction>
         <correspContext corresp="i-HuCh3pPHhZNAVCVWGPj5NP">
           <ref type="record" target="prot-202324--053">Protokoll 2023/24:53 Onsdagen den 20 december</ref>

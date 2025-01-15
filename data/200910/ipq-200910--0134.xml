@@ -22,52 +22,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-6MWLY5JdykMGLLUo96skfp</idno>
             <persName>Lena Olsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-37Sor8u2gurT4KoJm3P5Rb" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GJJgrxns98xyFPEuTG67t2">
-          <date when="2009-11-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FYWC7bAwswUUDcjsk1SvRY" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BfhozxiDVH1ueJyTj6hPrL">
-          <date when="2009-12-08"/>
-          <time when="15:24:14" dur="PT284S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UgYDLKrro4siA5aqrzweou" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2009-12-08"/>
+          <time when="15:24:14" dur="PT284S"/>
         </correspAction>
         <correspContext corresp="i-BfhozxiDVH1ueJyTj6hPrL">
           <ref type="record" target="prot-200910--045">Riksdagens protokoll 2009/10:45 Tisdagen den 8 december</ref>

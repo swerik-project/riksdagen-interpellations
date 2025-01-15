@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
-            <persName>Marie Nordén</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
             <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-6gEtTPavyMJxxUX6JZn9LW</idno>
-            <persName>Marie Nordén (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Marie Nordén</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-N77HdijMVHZc54Tx2J6Nn6" corresp="i-6gEtTPavyMJxxUX6JZn9LW">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7UeagQDHBrJrE9zZxoaM3b">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-965NKhYL4ZFaAEVD3N5Rq3" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KGxVApkv8q8LEh4WTgqvqS">
-          <date when="2010-06-08"/>
-          <time when="12:50:34" dur="PT164S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NU1seJHUJ6bu818GxSTGtj" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2010-06-08"/>
+          <time when="12:50:34" dur="PT164S"/>
         </correspAction>
         <correspContext corresp="i-KGxVApkv8q8LEh4WTgqvqS">
           <ref type="record" target="prot-200910--134">Riksdagens protokoll 2009/10:134 Tisdagen den 8 juni</ref>

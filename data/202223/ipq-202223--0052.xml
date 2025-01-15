@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-215Ak4qRgwAFCrMXnzwcVG" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-11-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3euHAgVybEFUpnD4WPUTnj">
-          <date when="2022-12-09"/>
-          <time when="10:53:50" dur="PT118S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YM5JNhtnyQuzvAHWmU32m3" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-12-09"/>
+          <time when="10:53:50" dur="PT118S"/>
         </correspAction>
         <correspContext corresp="i-3euHAgVybEFUpnD4WPUTnj">
           <ref type="record" target="prot-202223--035">Protokoll 2022/23:35 Fredagen den 9 december</ref>

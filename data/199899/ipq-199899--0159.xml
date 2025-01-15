@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Annika Nilsson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-22wFp6y6WQMw5wNfwCbp8w</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-STFE6zVhWTvXnYnaqHLhcb" corresp="i-22wFp6y6WQMw5wNfwCbp8w">
-          <date when="1998-02-11"/>
+          <date when="1999-02-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4c5s8b9UVmcjSQ6fMLwJqA">
+        <correspAction type="received" xml:id="i-4c5s8b9UVmcjSQ6fMLwJqA" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CmooPvpTtCFgJN297oACi1">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-CiLfccMM3XUAX5uorZasYP">
-          <date when="1998-03-12"/>
+          <date when="1999-03-12"/>
         </correspAction>
         <correspContext corresp="i-CiLfccMM3XUAX5uorZasYP">
           <ref type="record" target="prot-199899--068">Prot. 1998/99:68</ref>

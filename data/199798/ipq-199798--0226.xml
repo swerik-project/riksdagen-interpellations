@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Zetterberg (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-Kytbd3WZfQeKTPffXjTEpk</idno>
@@ -29,22 +29,22 @@
           <person gender="man">
             <persName>statsrådet Leif Pagrotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-XbWeyZSmjvZJS4eycXbN1k" corresp="i-Kytbd3WZfQeKTPffXjTEpk">
-          <date when="1997-03-12"/>
+          <date when="1998-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ki8DEQNURv1J8mRCx7EHBE">
+        <correspAction type="received" xml:id="i-Ki8DEQNURv1J8mRCx7EHBE" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pagrotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S4zXydbB2gQG2bKC8XYvtW">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MHtCNAq3dcn1sZC69T6bFK">
-          <date when="1997-03-27"/>
+          <date when="1998-03-27"/>
         </correspAction>
         <correspContext corresp="i-MHtCNAq3dcn1sZC69T6bFK">
           <ref type="record" target="prot-199798--088">Prot. 1997/98:88</ref>

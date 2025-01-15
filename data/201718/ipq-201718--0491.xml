@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-LfejaxmUP1kR5ztLJaJTkY</idno>
             <persName>Emma Wallrup</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-VxB7e3KjPcrqUH5SCv7AyX" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-04-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-QSefupfurUFXbotxJ18GG1">
-          <date when="2018-04-24"/>
-          <time when="13:28:38" dur="PT186S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2hUh3PddYGnDW7pWt7ekZh">
           <date when="2018-04-24"/>
+          <time when="13:28:38" dur="PT186S"/>
         </correspAction>
         <correspContext corresp="i-QSefupfurUFXbotxJ18GG1">
           <ref type="record" target="prot-201718--103">Protokoll 2017/18:103 Tisdagen den 24 april</ref>

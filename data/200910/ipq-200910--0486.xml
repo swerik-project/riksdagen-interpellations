@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
-            <persName>Maryam Yazdanfar (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-U5MhCo51MGLLY94GAGJZhY</idno>
             <persName>Johan Linander (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TcNfrp7fRvP58buMahA7Gi</idno>
+            <persName>Maryam Yazdanfar</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-CdniVvdLrVS2UQQPTuC86i" corresp="i-TcNfrp7fRvP58buMahA7Gi">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BVNqFmAWkKG62Mn1tWdpD8">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8xXZ43fokxzGWQMrNJeXEQ" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3hhL8N7CC4ewbBj32Mjg4y">
-          <date when="2010-06-07"/>
-          <time when="13:46:08" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UQwFCujt9EHbuMMm7t7oGV" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2010-06-07"/>
+          <time when="13:46:08" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-3hhL8N7CC4ewbBj32Mjg4y">
           <ref type="record" target="prot-200910--133">Riksdagens protokoll 2009/10:133 Måndagen den 7 juni</ref>

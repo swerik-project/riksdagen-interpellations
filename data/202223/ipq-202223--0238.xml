@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-DfMBmwjfAwnb2JfXgJ9isk</idno>
             <persName>Per-Arne Håkansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LjpaL4XhPNoSZ44TkA9j3w</idno>
             <persName>Katja Nyberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
+            <persName>Gunnar Strömmer</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-ALvGCfHUMCn8rmLjepntyD" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-03-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-D45Qcpi2p2DxNbgLzh22qt">
-          <date when="2023-04-21"/>
-          <time when="09:48:15" dur="PT160S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-62mW2o54s9Xr7hQavvCr6E" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-04-21"/>
+          <time when="09:48:15" dur="PT160S"/>
         </correspAction>
         <correspAction xml:id="i-5UmnjUP157uSh1Fqq3jcFG" type="discussed" corresp="i-DfMBmwjfAwnb2JfXgJ9isk">
           <date when="2023-04-21"/>

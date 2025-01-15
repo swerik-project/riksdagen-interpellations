@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
-            <persName>Statsrådet Mehmet Kaplan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
+            <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
+            <persName>Ola Johansson</persName>
+            <state ref="Q110832" type="partyAffiliation">
+              <desc>C</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
-            <persName>Ola Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-DyMWrZMvLW1B7NfePkXTu4</idno>
+            <persName>Fredrik Christensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-FfCiJc8kVZcwio9wsCvVkH</idno>
             <persName>Mehmet Kaplan</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-DyMWrZMvLW1B7NfePkXTu4</idno>
-            <persName>Fredrik Christensson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-SfzQbsjzpLp5WaZrppUr6g" corresp="i-FfCiJc8kVZcwio9wsCvVkH">
           <date when="2015-06-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-H6eZCPxPfJ6wQTPghvGL8v">
-          <date when="2015-08-27"/>
-          <time when="14:00:42" dur="PT266S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-418GvayWpYMNHW8eiE7saw">
           <date when="2015-08-27"/>
+          <time when="14:00:42" dur="PT266S"/>
         </correspAction>
         <correspContext corresp="i-H6eZCPxPfJ6wQTPghvGL8v">
           <ref type="record" target="prot-201415--121">Protokoll 2014/15:121 Torsdagen den 27 augusti</ref>

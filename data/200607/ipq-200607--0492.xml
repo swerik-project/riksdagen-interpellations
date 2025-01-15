@@ -22,67 +22,53 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-XgRZtFgzPDL7KcwsDvGVej</idno>
             <persName>Fredrik Reinfeldt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
             <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9xcMYrrML4AzXQ6jGcD6e2</idno>
             <persName>Christin Hagberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
             <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -91,18 +77,12 @@
         <correspAction type="sent" xml:id="i-GXA3P6dtBg28E4uuJMgAcH" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PRRGmi6hEjbCzuTCSCXkmF">
-          <date when="2007-04-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-6rQrCVYxcFfrF11M38pcwY" corresp="i-XgRZtFgzPDL7KcwsDvGVej">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CDu6Da6uZKcbaDF67JLKPD">
-          <date when="2007-05-14"/>
-          <time when="14:43:25" dur="PT195S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Si8qRWv8a8pgyXMgvyPCUt" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-14"/>
+          <time when="14:43:25" dur="PT195S"/>
         </correspAction>
         <correspContext corresp="i-CDu6Da6uZKcbaDF67JLKPD">
           <ref type="record" target="prot-200607--106">Riksdagens protokoll 2006/07:106 Måndagen den 14 maj</ref>

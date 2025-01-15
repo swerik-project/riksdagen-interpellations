@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgestam</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
-            <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Adolfsson Elgestam</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-MQ6DcNMHRogQtfSv8Ex81T" corresp="i-FL3Tee8NjTSCkq4XGmHcyw">
           <date when="2009-11-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8oo5ejfnyZaUywXKsBCMYm">
-          <date when="2009-11-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-SALbmZeVAtnxzHpWkbXaD6" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MffbtH5twC1WzCft1NdwaH">
-          <date when="2009-12-04"/>
-          <time when="09:35:05" dur="PT354S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-14ExcJyJnUuBQNBz7PgoNi" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-12-04"/>
+          <time when="09:35:05" dur="PT354S"/>
         </correspAction>
         <correspContext corresp="i-MffbtH5twC1WzCft1NdwaH">
           <ref type="record" target="prot-200910--043">Riksdagens protokoll 2009/10:43 Fredagen den 4 december</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-F7At3v6PvJpNCH37qRhr8A</idno>
             <persName>Sofia Damm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-HGFWKbwutHe7pyB2QBfrhp" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DZqKDF8poptrCD4YVcJwHx">
-          <date when="2018-01-19"/>
-          <time when="11:49:18" dur="PT230S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LVHyJkyuLjZCxK6ndaWU3k">
           <date when="2018-01-19"/>
+          <time when="11:49:18" dur="PT230S"/>
         </correspAction>
         <correspAction xml:id="i-DqArhYkpHu1VQj8obWNgTg" type="discussed" corresp="i-F7At3v6PvJpNCH37qRhr8A">
           <date when="2018-01-19"/>

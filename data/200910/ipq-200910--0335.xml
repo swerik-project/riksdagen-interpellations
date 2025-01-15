@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-TZNT5r5iGKsQAPZHL4SdRt">
-          <date when="2010-04-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EfpARjer78aEfN54s8zi5e" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-04-21"/>
         </correspAction>
         <correspAction type="sent" xml:id="i-SwU7Qm1RTBnpuduRp6E4ow" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2010-04-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-X91ugnCofpa3AJvvv3Qi8n">
-          <date when="2010-05-28"/>
-          <time when="11:23:21" dur="PT405S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-D5dLQcxhQEBMt7tccxpgCh" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2010-05-28"/>
+          <time when="11:23:21" dur="PT405S"/>
         </correspAction>
         <correspContext corresp="i-X91ugnCofpa3AJvvv3Qi8n">
           <ref type="record" target="prot-200910--128">Riksdagens protokoll 2009/10:128 Fredagen den 28 maj</ref>

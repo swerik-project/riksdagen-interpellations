@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-9Rr7JqtzHpZv84evqPH4D8</idno>
             <persName>Karin Enström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Statsrådet Isabella Lövin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
-            <persName>Isabella Lövin</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HAhJoyMXKr6u13gLG6SszU</idno>
             <persName>Hillevi Engström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-CicdbyfBoitjsXT8ugY99b</idno>
+            <persName>Isabella Lövin</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-HMADWbmH4utw73SApUbEid" corresp="i-CicdbyfBoitjsXT8ugY99b">
           <date when="2015-01-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BsgSspmRs9Yrq1aARHR2Xh">
-          <date when="2015-01-15"/>
-          <time when="13:15:00" dur="PT308S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HBhTY29ofR5AYQwEKYfXZA">
           <date when="2015-01-15"/>
+          <time when="13:15:00" dur="PT308S"/>
         </correspAction>
         <correspContext corresp="i-BsgSspmRs9Yrq1aARHR2Xh">
           <ref type="record" target="prot-201415--046">Protokoll 2014/15:46 Torsdagen den 15 januari</ref>

@@ -22,52 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
-            <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
             <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AqkTDdERRgq7MWP7ajMpZo</idno>
             <persName>Jasenko Omanovic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
+            <persName>Hillevi Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +63,12 @@
         <correspAction type="sent" xml:id="i-NsxyqspPscwVHpokUR2RTs" corresp="i-EgqHRHVoW5y9USDYuNoYuA">
           <date when="2010-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7XpACLpsnqX3k94pUjq7X2">
-          <date when="2010-05-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DZAtAnru9gxwJgZyEAVY8q" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-E2KK4YYAgpoXZXi1QofPQ5">
-          <date when="2010-06-08"/>
-          <time when="15:10:19" dur="PT280S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4FVN9YLg8CkHbaoYsJrXvP" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2010-06-08"/>
+          <time when="15:10:19" dur="PT280S"/>
         </correspAction>
         <correspContext corresp="i-E2KK4YYAgpoXZXi1QofPQ5">
           <ref type="record" target="prot-200910--134">Riksdagens protokoll 2009/10:134 Tisdagen den 8 juni</ref>

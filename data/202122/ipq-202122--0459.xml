@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
-            <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Khashayar Farmanbar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-LANFKqUwKpz41RsnavcGhF" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2022-04-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Q5qWw7ZE2HAyxXP94LAzXY">
-          <date when="2022-05-06"/>
-          <time when="11:30:30" dur="PT181S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GpB3tpKZ2CNpXDac3GAyvc" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-05-06"/>
+          <time when="11:30:30" dur="PT181S"/>
         </correspAction>
         <correspContext corresp="i-Q5qWw7ZE2HAyxXP94LAzXY">
           <ref type="record" target="prot-202122--109">Protokoll 2021/22:109 Fredagen den 6 maj</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
@@ -30,6 +30,7 @@
           <person gender="woman">
             <persName>stats­rådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-F41oBZt8MYjF6rpneGkhqz" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
           <date when="1998-11-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KQAf83C8VfXMxMZDTAsK4A">
+        <correspAction type="received" xml:id="i-KQAf83C8VfXMxMZDTAsK4A" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>stats­rådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MtQfyJ9sGmibpoXAdd5xNp">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9hWNuq5A6BZq28XraPyFWC">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
         <correspContext corresp="i-9hWNuq5A6BZq28XraPyFWC">
           <ref type="record" target="prot-199899--046">Prot. 1998/99:46</ref>

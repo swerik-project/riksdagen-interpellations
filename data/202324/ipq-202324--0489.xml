@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-4vMpE2cFsVtsya6jV8Mqda</idno>
             <persName>Markus Selin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-B1UxfMGWqMCatzrKHv5fGY" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2024-02-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9TNhjpxz5JLZPDG5dFdjDL">
-          <date when="2024-03-08"/>
-          <time when="09:41:56" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Grzp8HUBQEM3jNkXxDBaBC" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2024-03-08"/>
+          <time when="09:41:56" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-9TNhjpxz5JLZPDG5dFdjDL">
           <ref type="record" target="prot-202324--082">Protokoll 2023/24:82 Fredagen den 8 mars</ref>

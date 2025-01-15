@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Karin Israelsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-TVpY9zEquJ2jKT7pqxS85w</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-5TbmLmTGPxM1XP97gcTm4g" corresp="i-TVpY9zEquJ2jKT7pqxS85w">
           <date when="1997-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VgjPmSMaK4VvEw7CrRGaXs">
+        <correspAction type="received" xml:id="i-VgjPmSMaK4VvEw7CrRGaXs" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9LcRGkDR9sJkw4LaFKSzwx">
           <note>Besvarad</note>

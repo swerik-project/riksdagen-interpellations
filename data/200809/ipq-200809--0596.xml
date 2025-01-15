@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-YUXNoHo3SkMbh4f21t3XwK">
-          <date when="2009-09-03"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-2JeXuid3pES4ptQaHin92G" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2009-08-27"/>
         </correspAction>
         <correspAction type="received" xml:id="i-KoydQ3Cgtj74z4TBTuTKZW" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-09-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-77vMt2hEwYN4vMeYzVmPYP">
-          <date when="2009-09-10"/>
-          <time when="15:37:51" dur="PT249S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EXeuTumQFmGekguWbeYeo8" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-09-10"/>
+          <time when="15:37:51" dur="PT249S"/>
         </correspAction>
         <correspContext corresp="i-77vMt2hEwYN4vMeYzVmPYP">
           <ref type="record" target="prot-200809--141">Riksdagens protokoll 2008/09:141 Torsdagen den 10 september</ref>

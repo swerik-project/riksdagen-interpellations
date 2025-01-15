@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Landsbygdsminister Peter Kullgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-DmUZytVbrrufqUhEMo3Q2X</idno>
             <persName>Malin Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
-            <persName>Peter Kullgren</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-BE9rE88w7g6A9eUimJmA8D</idno>
             <persName>Anders Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-7FjNhEaszmRyzFCMMdCPPW</idno>
+            <persName>Peter Kullgren</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-2EGrwLq1tcwXzpDv2stbqD" corresp="i-7FjNhEaszmRyzFCMMdCPPW">
           <date when="2024-02-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jt1ykYnMi7xA25uTDKBUxx">
-          <date when="2024-02-16"/>
-          <time when="10:46:48" dur="PT240S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-NaZSo92U287KXzghJfheWH">
           <date when="2024-02-16"/>
+          <time when="10:46:48" dur="PT240S"/>
         </correspAction>
         <correspContext corresp="i-Jt1ykYnMi7xA25uTDKBUxx">
           <ref type="record" target="prot-202324--073">Protokoll 2023/24:73 Fredagen den 16 februari</ref>
@@ -197,9 +187,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-FqcjuziygeYM7y8VFpreqK">
-            
-            <list rend="unordered">
+          <p xml:id="i-FqcjuziygeYM7y8VFpreqK"><list rend="unordered">
               <item>
                 Hur ser ministern på ersättningsfrågan?
               </item>

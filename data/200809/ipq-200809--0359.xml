@@ -23,58 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
-            <persName>Sven Bergström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
-            <persName>Sven Bergström (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Sven Bergström</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-TCVQbnGZAf2Bmc5dUb8Tka">
-          <date when="2009-02-25"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-6QAxh9do9Mthz9FfMy6evD" corresp="i-KtELEJ9HytY7HFgQExEzLq">
           <date when="2009-02-25"/>
         </correspAction>
         <correspAction type="received" xml:id="i-4WWq5JQyWYTuhRPFQGsved" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-02-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JCZp2ftPYN8ZEYvEALAqLv">
-          <date when="2009-04-03"/>
-          <time when="09:02:29" dur="PT408S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VMiCtbpNm2Ay54XgEdgbKs" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2009-04-03"/>
+          <time when="09:02:29" dur="PT408S"/>
         </correspAction>
         <correspContext corresp="i-JCZp2ftPYN8ZEYvEALAqLv">
           <ref type="record" target="prot-200809--097">Riksdagens protokoll 2008/09:97 Fredagen den 3 april</ref>

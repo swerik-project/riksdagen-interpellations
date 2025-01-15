@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
-            <persName>Sylvia Lindgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
-            <persName>Sylvia Lindgren (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
             <persName>Torbjörn Björlund (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-TNGoE23iJfaY3bMVx88LYe</idno>
+            <persName>Sylvia Lindgren</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-LSeJcUevYqg1SQD5ium19C" corresp="i-TNGoE23iJfaY3bMVx88LYe">
           <date when="2009-11-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LT5tF5u6VMZPYrJj4diyfk">
-          <date when="2009-11-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LtRjhZTzkpAcKXfUmPVYrP" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-11-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LkHtLsDfbsf7Vd7y9PyX2H">
-          <date when="2009-12-07"/>
-          <time when="11:02:24" dur="PT296S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UjSahRKWL111bNo3GznKjP" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2009-12-07"/>
+          <time when="11:02:24" dur="PT296S"/>
         </correspAction>
         <correspContext corresp="i-LkHtLsDfbsf7Vd7y9PyX2H">
           <ref type="record" target="prot-200910--044">Riksdagens protokoll 2009/10:44 Måndagen den 7 december</ref>

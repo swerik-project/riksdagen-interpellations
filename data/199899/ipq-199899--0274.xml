@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Maria Larsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-2sTautdhNjDNRfbsxCdKbM" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
-          <date when="1998-04-21"/>
+          <date when="1999-04-21"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-vWoru3AWWHNrFGavoSjCN">
+        <correspAction type="received" xml:id="i-vWoru3AWWHNrFGavoSjCN" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-AMHhdwKBazjxTT4uF2xDeZ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-LCznN8Ujcz2eBs9HW2zXND">
-          <date when="1998-05-07"/>
+          <date when="1999-05-07"/>
         </correspAction>
         <correspContext corresp="i-LCznN8Ujcz2eBs9HW2zXND">
           <ref type="record" target="prot-199899--093">Prot. 1998/99:93</ref>

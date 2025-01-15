@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
             <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-NNooTEy21Po9aPGsMfvpze" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2017-01-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Tmzfi2VNTpk4ggakApk1eR">
-          <date when="2017-02-14"/>
-          <time when="18:00:21" dur="PT134S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CAHqU3Aqnv9AqEFpETKiy8">
           <date when="2017-02-14"/>
+          <time when="18:00:21" dur="PT134S"/>
         </correspAction>
         <correspContext corresp="i-Tmzfi2VNTpk4ggakApk1eR">
           <ref type="record" target="prot-201617--067">Protokoll 2016/17:67 Tisdagen den 14 februari</ref>

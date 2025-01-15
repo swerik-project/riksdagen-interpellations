@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
-            <persName>Statsrådet Erik Slottner</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-6QRZCXV1gpE5LaD6mKZ5GR</idno>
             <persName>Anna-Belle Strömberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-SvMHLyZPvreCGKnj63vgkc</idno>
             <persName>Erik Slottner</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-MutDcsmi8gszHwpYF8WeJK" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-11-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XGjuMsEf138333YbVCL53b">
-          <date when="2023-11-24"/>
-          <time when="10:05:24" dur="PT171S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5X5Dktmgh9RVf95o6FqTU7" corresp="i-SvMHLyZPvreCGKnj63vgkc">
           <date when="2023-11-24"/>
+          <time when="10:05:24" dur="PT171S"/>
         </correspAction>
         <correspContext corresp="i-XGjuMsEf138333YbVCL53b">
           <ref type="record" target="prot-202324--036">Protokoll 2023/24:36 Fredagen den 24 november</ref>

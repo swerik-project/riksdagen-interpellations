@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
-            <persName>Statsrådet Jessika Roswall</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TMBKCxFj2h6LkEEpYodyut</idno>
             <persName>Jessika Roswall</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-HBTdEnTBPvJihC18v2bviK" corresp="i-TMBKCxFj2h6LkEEpYodyut">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-XD5kz4XmWa2VmkwXph6AnM">
-          <date when="2022-11-15"/>
-          <time when="14:56:32" dur="PT124S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KAduXjomr33Nt44SajUDDs">
           <date when="2022-11-15"/>
+          <time when="14:56:32" dur="PT124S"/>
         </correspAction>
         <correspContext corresp="i-XD5kz4XmWa2VmkwXph6AnM">
           <ref type="record" target="prot-202223--020">Protokoll 2022/23:20 Tisdagen den 15 november</ref>

@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Närings- och innovationsminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
-            <persName>Statsrådet Helene Hellmark Knutsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DJgH7q21vrKJDYHFpgpTiX</idno>
             <persName>Penilla Gunther</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WVDVacqrD8GDk6UYBX3VJ2</idno>
             <persName>Helene Hellmark Knutsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-JAfGeAsAC6ybvojLVgeWXY" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2018-02-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YaTu93DY6iEgL3bZ4bD4u5">
-          <date when="2018-03-26"/>
-          <time when="11:43:14" dur="PT96S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7iApiqnVgQx81hPLrPHvH5" corresp="i-WVDVacqrD8GDk6UYBX3VJ2">
           <date when="2018-03-26"/>
+          <time when="11:43:14" dur="PT96S"/>
         </correspAction>
         <correspContext corresp="i-YaTu93DY6iEgL3bZ4bD4u5">
           <ref type="record" target="prot-201718--091">Protokoll 2017/18:91 Måndagen den 26 mars</ref>

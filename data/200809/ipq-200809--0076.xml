@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-DNUabJwwdjB347hd93zNia" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2008-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Qd2baCnMcUPA2LdSdsALLx">
-          <date when="2008-10-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JtxioFoHcxM5xJ6oLwtHYt" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-10-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ra2HAhuxt3RFrLaeRf2A6H">
-          <date when="2008-11-18"/>
-          <time when="18:20:17" dur="PT355S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TeFbWu7Vwx57z3SxE9MyJU" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-11-18"/>
+          <time when="18:20:17" dur="PT355S"/>
         </correspAction>
         <correspContext corresp="i-Ra2HAhuxt3RFrLaeRf2A6H">
           <ref type="record" target="prot-200809--030">Riksdagens protokoll 2008/09:30 Tisdagen den 18 november</ref>

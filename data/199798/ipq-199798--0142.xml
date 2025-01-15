@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Per Westerberg (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-D74cdq6EQpWG5dWigfnSSw</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Px6m2BHV7uS4fnmb6aDEkA" corresp="i-D74cdq6EQpWG5dWigfnSSw">
-          <date when="1997-01-23"/>
+          <date when="1998-01-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7zNBTEhSbKJb4MajTkfP5q">
+        <correspAction type="received" xml:id="i-7zNBTEhSbKJb4MajTkfP5q" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VvTyuVhwpfb24ZbpMy3KaA">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2qAhiShKuSsqCPW5Eq8Dbg">
-          <date when="1997-02-12"/>
+          <date when="1998-02-12"/>
         </correspAction>
         <correspContext corresp="i-2qAhiShKuSsqCPW5Eq8Dbg">
           <ref type="record" target="prot-199798--066">Prot. 1997/98:66</ref>

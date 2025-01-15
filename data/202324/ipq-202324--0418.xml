@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
             <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-RCH8Jb6Y4m8VZH9ZTTv5q6" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2024-02-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5T2Dp84pTqJ6CdrUQ2chvp">
-          <date when="2024-02-16"/>
-          <time when="11:17:00" dur="PT93S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FsRgWMtPD6r22FePEig62s" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2024-02-16"/>
+          <time when="11:17:00" dur="PT93S"/>
         </correspAction>
         <correspContext corresp="i-5T2Dp84pTqJ6CdrUQ2chvp">
           <ref type="record" target="prot-202324--073">Protokoll 2023/24:73 Fredagen den 16 februari</ref>

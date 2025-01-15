@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-7GFif5DyTUbb8eBXsbicsF</idno>
             <persName>Magnus Oscarsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-Gu6Gc6t4iQFrcBFWKtUJVk" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2018-05-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ws8nkN87FvFGgnHC47Y8Lf">
-          <date when="2018-05-28"/>
-          <time when="12:03:01" dur="PT331S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EtR1fY7TvPQcenj2i1JWii" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2018-05-28"/>
+          <time when="12:03:01" dur="PT331S"/>
         </correspAction>
         <correspAction xml:id="i-JNRCf7eGgdyZKnxq3a6MA" type="discussed" corresp="i-S1jBpohzgG7cgcBjfgN1Fb">
           <date when="2018-05-28"/>

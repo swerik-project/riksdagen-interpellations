@@ -27,49 +27,35 @@
           <person gender="woman">
             <idno>i-548HUVvKe8n48M3pQmFeUC</idno>
             <persName>Amineh Kakabaveh</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-K3yJ7rruozYUK99nj91ffc</idno>
             <persName>Hans Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-GJLL78ePjJhSXVWBYyRW8t</idno>
             <persName>Margareta Cederfelt</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5NG8haprnyzzwKpK9HjwGZ</idno>
             <persName>Lawen Redar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -85,12 +71,9 @@
         <correspAction type="received" xml:id="i-Hrr4CYu8rxeJ8tHqQsCSA3" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-11-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VMzsSDsVMNRZNU3Czg9QcF">
-          <date when="2016-12-19"/>
-          <time when="11:01:45" dur="PT285S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EY8Gt61xfYxC7EkwZT3q5c" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2016-12-19"/>
+          <time when="11:01:45" dur="PT285S"/>
         </correspAction>
         <correspAction xml:id="i-8A29ME2yryRyZXn8tgoE6n" type="discussed" corresp="i-K3yJ7rruozYUK99nj91ffc">
           <date when="2016-12-19"/>

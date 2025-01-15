@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
             <persName>Marie Engström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-ba35rrvzTwLdpnJfXNGbF" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2008-01-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-E8K2Us9iCf53moAsUjuv8s">
-          <date when="2008-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-2odgA7vqKVEHfqZ4qBMGBK" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C92jCC2Hmj3v8QzwvH5LKr">
-          <date when="2008-02-01"/>
-          <time when="09:02:12" dur="PT185S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-LmajBjeRohk1w5VjxCT8e1" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-02-01"/>
+          <time when="09:02:12" dur="PT185S"/>
         </correspAction>
         <correspContext corresp="i-C92jCC2Hmj3v8QzwvH5LKr">
           <ref type="record" target="prot-200708--061">Riksdagens protokoll 2007/08:61 Fredagen den 1 februari</ref>

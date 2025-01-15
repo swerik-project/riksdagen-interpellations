@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Statsrådet Per Bolund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RVBRPDgYSffQso5SLJ9Cxr</idno>
             <persName>Larry Söder</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
-            <persName>Per Bolund</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RSqbTnBBX6dtdvF5RUM8Lr</idno>
             <persName>Ola Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-C2s3YhmmVmNkgvznmmnD4x</idno>
+            <persName>Per Bolund</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-KQohrH1ChgGZgWmPopjYso" corresp="i-C2s3YhmmVmNkgvznmmnD4x">
           <date when="2019-02-01"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Bm9Fi2cFo3xMv8YhUsmiCj">
-          <date when="2019-02-12"/>
-          <time when="18:38:35" dur="PT122S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YLmvNiKnKTv3UWYeA1PQ4t">
           <date when="2019-02-12"/>
+          <time when="18:38:35" dur="PT122S"/>
         </correspAction>
         <correspContext corresp="i-Bm9Fi2cFo3xMv8YhUsmiCj">
           <ref type="record" target="prot-201819--051">Protokoll 2018/19:51 Tisdagen den 12 februari</ref>

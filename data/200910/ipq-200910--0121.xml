@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
-            <persName>Bosse Ringholm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Bosse Ringholm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-YELiECBGp2StSF5xbwZjCC" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <date when="2009-11-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Xev1L3pgdKnKnpzfz1qwAn">
-          <date when="2009-11-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Re31mWxAgVZBuAue3y983r" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-11-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-4EV8szXpEnApA11MqDaF6q">
-          <date when="2009-11-30"/>
-          <time when="11:02:54" dur="PT321S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SpPEkyx3YgYuv4pXKnNwz" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2009-11-30"/>
+          <time when="11:02:54" dur="PT321S"/>
         </correspAction>
         <correspContext corresp="i-4EV8szXpEnApA11MqDaF6q">
           <ref type="record" target="prot-200910--039">Riksdagens protokoll 2009/10:39 Måndagen den 30 november</ref>

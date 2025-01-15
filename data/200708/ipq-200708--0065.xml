@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
-            <persName>Marie Engström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
-            <persName>Marie Engström (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Q8hYBES3N7Q4fZnAATRjsd</idno>
             <persName>Fredrik Olovsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
+            <persName>Marie Engström</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-KShW3ao91rfjWa8MAcoB4c" corresp="i-pSqD9LHdbNUrj3thRcKhS">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3jf4AAJy2vSteManDpvFZE">
-          <date when="2007-10-19"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RWd61aWVcswc6EjLHeRf2Q" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-10-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-81sBNoSm2MnaLWGdwQmStc">
-          <date when="2007-10-30"/>
-          <time when="14:57:10" dur="PT186S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JXEVSkrvZUDWUc792qGD4c" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-10-30"/>
+          <time when="14:57:10" dur="PT186S"/>
         </correspAction>
         <correspContext corresp="i-81sBNoSm2MnaLWGdwQmStc">
           <ref type="record" target="prot-200708--018">Riksdagens protokoll 2007/08:18 Tisdagen den 30 oktober</ref>

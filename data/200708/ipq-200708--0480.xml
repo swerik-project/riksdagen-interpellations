@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
             <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Christina Axelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-LDM611cbQjDgh6amBNR5i4" corresp="i-5gSCoqgN8cUnJLfPPLD7nv">
           <date when="2008-03-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-N51zSSeshdVcnkprkLFn85">
-          <date when="2008-03-11"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-72iebPrLUvQPR4p74RApt3" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-03-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LJXctiVS51SqD3nuZWQPPW">
-          <date when="2008-03-28"/>
-          <time when="09:46:09" dur="PT228S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FfweVBw1HX2mMYtmfTNbwv" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2008-03-28"/>
+          <time when="09:46:09" dur="PT228S"/>
         </correspAction>
         <correspContext corresp="i-LJXctiVS51SqD3nuZWQPPW">
           <ref type="record" target="prot-200708--085">Riksdagens protokoll 2007/08:85 Fredagen den 28 mars</ref>

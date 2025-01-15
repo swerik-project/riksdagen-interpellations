@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
             <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RVLAGkAbLWriH85u2vVxu3" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-01-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LbbDktmRntcgJEzSRK3JCQ">
-          <date when="2009-01-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-AR1c4WQQFKb2EKNpqi2pzU" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-01-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PhdKQWY6iz6kdtKDxd9VLw">
-          <date when="2009-01-23"/>
-          <time when="11:40:55" dur="PT358S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5e688YGSDrheP9XH54XbMq" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2009-01-23"/>
+          <time when="11:40:55" dur="PT358S"/>
         </correspAction>
         <correspContext corresp="i-PhdKQWY6iz6kdtKDxd9VLw">
           <ref type="record" target="prot-200809--062">Riksdagens protokoll 2008/09:62 Fredagen den 23 januari</ref>

@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
-            <persName>Sven Bergström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <idno>i-MJ5jNxLePBwUGGvPE1LaWp</idno>
+            <persName>Rolf K Nilsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
             <persName>Carl Bildt</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Carl Bildt (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
-            <persName>Sven Bergström (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Sven Bergström</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AZnaWEAg22YQ3HzVMfNSHR</idno>
-            <persName>Rolf K Nilsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-TdjAsDGygocULS3oriaGJU" corresp="i-KtELEJ9HytY7HFgQExEzLq">
           <date when="2007-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WqUEmLnxUqLhq1vmFPctvp">
-          <date when="2007-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BtLPm8c5uDZAh7S6RAzMVE" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UUnDmKUcMN6b3pA7wWorZM">
-          <date when="2007-05-28"/>
-          <time when="13:25:01" dur="PT329S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JDcvoJNXQUyzdLjHeHjz5H" corresp="i-AZnaWEAg22YQ3HzVMfNSHR">
           <date when="2007-05-28"/>
+          <time when="13:25:01" dur="PT329S"/>
         </correspAction>
         <correspContext corresp="i-UUnDmKUcMN6b3pA7wWorZM">
           <ref type="record" target="prot-200607--114">Riksdagens protokoll 2006/07:114 Måndagen den 28 maj</ref>

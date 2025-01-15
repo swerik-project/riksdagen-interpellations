@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-J21b8ZTiv66wmcZm1zffag" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PTSgRYqaz5KK4QfXHS3g1J">
-          <date when="2017-05-19"/>
-          <time when="09:21:00" dur="PT77S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-G43vK4jh3Bgc1AVTB8sLrM" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-05-19"/>
+          <time when="09:21:00" dur="PT77S"/>
         </correspAction>
         <correspContext corresp="i-PTSgRYqaz5KK4QfXHS3g1J">
           <ref type="record" target="prot-201617--114">Protokoll 2016/17:114 Fredagen den 19 maj</ref>

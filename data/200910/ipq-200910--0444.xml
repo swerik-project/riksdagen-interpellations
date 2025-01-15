@@ -23,65 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck (S)</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-Mt4vgsCGfd3y6VhdCxdnfS">
-          <date when="2010-05-21"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-EwDyjvHTFHj9hvLy9pMTe2" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2010-05-21"/>
         </correspAction>
         <correspAction type="received" xml:id="i-CqaA9SfguFSArYmS6G1cFs" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-05-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SdWdsd98HCSesqL76Zecbe">
-          <date when="2010-06-29"/>
-          <time when="18:45:33" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8mUZLzpdiBJhdRs6sE6EXE" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-06-29"/>
+          <time when="18:45:33" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-SdWdsd98HCSesqL76Zecbe">
           <ref type="record" target="prot-200910--145">Riksdagens protokoll 2009/10:145 Tisdagen den 29 juni</ref>

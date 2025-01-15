@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-5wVnuGs5cNm9JWZrGWeZfP</idno>
             <persName>Jesper Skalberg Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
-            <persName>Miljöminister Karolina Skog</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-MUiNDqW5Ev9My8aekLct9L</idno>
             <persName>Karolina Skog</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ADAjjC3Jrsn8LFHZ1C8Qns" corresp="i-MUiNDqW5Ev9My8aekLct9L">
           <date when="2016-11-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ax3fEn2sKxuPiVyLMtYtUa">
-          <date when="2016-11-22"/>
-          <time when="15:02:23" dur="PT276S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Wn5g3ULZ3ivDtGRisZKLXm">
           <date when="2016-11-22"/>
+          <time when="15:02:23" dur="PT276S"/>
         </correspAction>
         <correspContext corresp="i-Ax3fEn2sKxuPiVyLMtYtUa">
           <ref type="record" target="prot-201617--032">Protokoll 2016/17:32 Tisdagen den 22 november</ref>

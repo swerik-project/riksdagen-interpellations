@@ -22,21 +22,23 @@
         <listPerson>
           <person gender="woman">
             <persName>Carina Moberg (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-D9iCNaqxQvuHFjK2SSEFvT</idno>
           </person>
-          <person>
-            <persName>inrikesministern</persName>
+          <person gender="man">
+            <persName>Jörgen Andersson</persName>
+            <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state ref="Q105112" type="partyAffiliation"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-386GbsXjtN59ohS7AKw1ty" corresp="i-D9iCNaqxQvuHFjK2SSEFvT">
-          <date when="1995-05-10"/>
+          <date when="1996-05-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G91qtJwaYGuYScipEc742r">
+        <correspAction type="received" xml:id="i-G91qtJwaYGuYScipEc742r" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
           <name>inrikesministern</name>
         </correspAction>
@@ -44,7 +46,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MiydXC7iFNwY35H6bwgJzR">
-          <date when="1995-05-28"/>
+          <date when="1996-05-28"/>
         </correspAction>
         <correspContext corresp="i-MiydXC7iFNwY35H6bwgJzR">
           <ref type="record" target="prot-199596--100">Prot. 1995/96:100</ref>

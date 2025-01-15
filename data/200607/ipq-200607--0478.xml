@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Åsa Torstensson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
-            <persName>Ulf Holm (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
+            <persName>Åsa Torstensson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9x2nw6aosA3pyEJfJTc1eD</idno>
+            <persName>Ulf Holm</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-5hXNZec9zcQaBQBuMZaydU" corresp="i-9x2nw6aosA3pyEJfJTc1eD">
           <date when="2007-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WR5hhidg8fk4Y2JgD4GxW3">
-          <date when="2007-04-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EdpwvMqNov21ei6Rb8w6Zj" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-04-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Nu1HDQuwFdRJsPmzgEPMTn">
-          <date when="2007-05-11"/>
-          <time when="09:23:20" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SmqBEcJcHoHjej8UFjaK9p" corresp="i-J74sVAjCTSxzD8rbnxRRA">
           <date when="2007-05-11"/>
+          <time when="09:23:20" dur="PT267S"/>
         </correspAction>
         <correspContext corresp="i-Nu1HDQuwFdRJsPmzgEPMTn">
           <ref type="record" target="prot-200607--105">Riksdagens protokoll 2006/07:105 Fredagen den 11 maj</ref>

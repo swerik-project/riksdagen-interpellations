@@ -22,60 +22,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
-            <persName>Torbjörn Björlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
-            <persName>Torbjörn Björlund (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-du5LHNwBWrCH1am94GCk1</idno>
             <persName>Eva Olofsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Beux79YM43dDCxrVuBqfWw</idno>
+            <persName>Torbjörn Björlund</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-X6jXFGoPCfmpmdqDAmnSAf" corresp="i-Beux79YM43dDCxrVuBqfWw">
           <date when="2007-05-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EiS9SSrk24teGky7qQHvz7">
-          <date when="2007-05-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BmnDPZre7htP1aRLPGX9hP" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-05-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KioVdgQcazSFG6mivbRbpp">
-          <date when="2007-05-29"/>
-          <time when="13:52:06" dur="PT297S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AJTYVMi74HK3Axb15LWrSK" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2007-05-29"/>
+          <time when="13:52:06" dur="PT297S"/>
         </correspAction>
         <correspContext corresp="i-KioVdgQcazSFG6mivbRbpp">
           <ref type="record" target="prot-200607--115">Riksdagens protokoll 2006/07:115 Tisdagen den 29 maj</ref>

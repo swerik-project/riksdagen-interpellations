@@ -23,20 +23,25 @@
         <listPerson>
           <person gender="man">
             <persName>Gunnar Hökmark (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-Ay6zrjzeNnZpMAPRBGZ8tC</idno>
           </person>
           <person>
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR6</idno>
+          </person>
+          <person gender="man">
+            <persName>Göran Persson</persName>
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-FdSQghDhXX1x7P4m2q7YHo" corresp="i-Ay6zrjzeNnZpMAPRBGZ8tC">
-          <date when="1995-03-28"/>
+          <date when="1996-03-28"/>
         </correspAction>
         <correspAction type="received" xml:id="i-L1ezp51dbe6bTGZKDXSmoo">
           <note>date unknown</note>
@@ -46,7 +51,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-5FVLcfjhBZxwRjMxpkjXna">
-          <date when="1995-04-19"/>
+          <date when="1996-04-19"/>
         </correspAction>
         <correspContext corresp="i-5FVLcfjhBZxwRjMxpkjXna">
           <ref type="record" target="prot-199596--083">Prot. 1995/96:83</ref>

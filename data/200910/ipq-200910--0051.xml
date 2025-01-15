@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
             <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Matilda Ernkrans</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-9hw4LDajcf8zoDBmYV1DEW" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GTH9qnAcdx3bLzDW7VUyQ3">
-          <date when="2009-10-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Bwi1jKjUKiqknoF8UtPQfD" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WBpeTPpCjmGBP22TqeCPND">
-          <date when="2009-11-10"/>
-          <time when="14:34:14" dur="PT217S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-U88p2uv3dF5Z1evPfW34wL" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2009-11-10"/>
+          <time when="14:34:14" dur="PT217S"/>
         </correspAction>
         <correspContext corresp="i-WBpeTPpCjmGBP22TqeCPND">
           <ref type="record" target="prot-200910--026">Riksdagens protokoll 2009/10:26 Tisdagen den 10 november</ref>

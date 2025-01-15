@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-YSKeLiTp6e1eVBrTwK4cRX</idno>
             <persName>Aron Modig</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-RgiFneJos5UFYxcw7xkPxz</idno>
             <persName>Erik Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-S1jBpohzgG7cgcBjfgN1Fb</idno>
             <persName>Sten Bergheden</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-KmyDM8wq4zTMiCWT6v6TEQ" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-09-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WnDSbfDdc1JFrKA4U3ZN9Q">
-          <date when="2015-09-22"/>
-          <time when="15:06:42" dur="PT162S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JYEhtm96E3ZGAzpZS4zhZC">
           <date when="2015-09-22"/>
+          <time when="15:06:42" dur="PT162S"/>
         </correspAction>
         <correspContext corresp="i-WnDSbfDdc1JFrKA4U3ZN9Q">
           <ref type="record" target="f-lista-201516--006">Tisdag den 22 september 2015</ref>

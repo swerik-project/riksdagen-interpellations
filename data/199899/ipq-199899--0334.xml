@@ -22,24 +22,24 @@
         <listPerson>
           <person gender="man">
             <persName>Göte Jonsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-TZikyr5QETx1Srqmhk827L</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Y1FafUaMBYEYsVfCDJSdHv" corresp="i-TZikyr5QETx1Srqmhk827L">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8rNpL8ZnSdgYjJGZxz7EGw">
+        <correspAction type="received" xml:id="i-8rNpL8ZnSdgYjJGZxz7EGw" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-RCc4TQySrkNwZMFZtDcwNJ">
           <note>Återtagen</note>

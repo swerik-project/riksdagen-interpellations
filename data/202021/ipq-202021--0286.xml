@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Statsrådet Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Lw92TAaAVgG8Kdf7YxhViy</idno>
             <persName>Markus Wiechel</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Xzt52E3ZeNyJ9HLW4B5Sk1</idno>
             <persName>Statsminister Stefan Löfven</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TKwDinNn4twnLieK52EXRu</idno>
             <persName>Björn Söder</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
+            <persName>Mikael Damberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-FAwogm2BbkWp6SmWeAvSG" corresp="i-Xzt52E3ZeNyJ9HLW4B5Sk1">
           <date when="2021-01-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-RQL9yntqQNCphzL5DTrsAV">
-          <date when="2021-01-22"/>
-          <time when="12:45:50" dur="PT45S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Unk6j7cDtqyJ2ecrE8dgd8" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2021-01-22"/>
+          <time when="12:45:50" dur="PT45S"/>
         </correspAction>
         <correspContext corresp="i-RQL9yntqQNCphzL5DTrsAV">
           <ref type="record" target="prot-202021--069">Protokoll 2020/21:69 Fredagen den 22 januari</ref>

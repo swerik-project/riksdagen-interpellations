@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
-            <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
+            <persName>Eva-Lena Jansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Q7GczX7NSYXLxaXMnDyGNk" corresp="i-HA8qZKZU3je8nF69VtPrqk">
           <date when="2009-03-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XhGj6ZWEWxHadKsLRA1Pta">
-          <date when="2009-03-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DXKWK1i6mEXhNbK26UDv83" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-03-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TfcMyxT2PDvSLF6obBcHrD">
-          <date when="2009-05-08"/>
-          <time when="12:12:51" dur="PT182S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DiMkrCfuYW5b1kSiZP5din" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-05-08"/>
+          <time when="12:12:51" dur="PT182S"/>
         </correspAction>
         <correspContext corresp="i-TfcMyxT2PDvSLF6obBcHrD">
           <ref type="record" target="prot-200809--114">Riksdagens protokoll 2008/09:114 Fredagen den 8 maj</ref>

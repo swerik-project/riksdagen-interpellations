@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-Mu8D3Cyy6PoWGop3KQtfh2</idno>
             <persName>Anette Åkesson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-ScSRq7AcHaFK1ZVbkBthZJ" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-03-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K9YR1nJCPwHr5N2s2iot8s">
-          <date when="2017-03-24"/>
-          <time when="09:02:29" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-S9fRQUuEcQJe9ZtmpiQged">
           <date when="2017-03-24"/>
+          <time when="09:02:29" dur="PT151S"/>
         </correspAction>
         <correspContext corresp="i-K9YR1nJCPwHr5N2s2iot8s">
           <ref type="record" target="prot-201617--086">Protokoll 2016/17:86 Fredagen den 24 mars</ref>

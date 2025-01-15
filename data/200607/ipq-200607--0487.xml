@@ -23,72 +23,51 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
-            <persName>Mats Odell (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
-            <persName>Lars Mejern Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-BZ7PcK8D1efvHXsafGEMKE</idno>
             <persName>Andreas Norlén (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NhqvviMR3JAxbwn9T7i1dL</idno>
             <persName>Claes-Göran Brandin (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <persName>Mats Odell</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-76ETKL7PQscJy3dmshR8mr</idno>
+            <persName>Lars Mejern Larsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -98,18 +77,12 @@
         <correspAction type="sent" xml:id="i-HaN6ZskihAPFBKFB7QjeRB" corresp="i-76ETKL7PQscJy3dmshR8mr">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VcvbCKP7w3zDFdB4dfVgPg">
-          <date when="2007-04-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-99cP7DoZuWWvc3dFERNNpC" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2007-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-C6WY9DCuw1cufQFFeb111K">
-          <date when="2007-05-08"/>
-          <time when="13:31:28" dur="PT418S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QnBFjLL8Eq6e6gDGmyk4Zc" corresp="i-QrnhMBZLsGdbeBasmoTLpZ">
           <date when="2007-05-08"/>
+          <time when="13:31:28" dur="PT418S"/>
         </correspAction>
         <correspContext corresp="i-C6WY9DCuw1cufQFFeb111K">
           <ref type="record" target="prot-200607--102">Riksdagens protokoll 2006/07:102 Tisdagen den 8 maj</ref>

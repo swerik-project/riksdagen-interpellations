@@ -24,22 +24,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-AZLUb1tb1XBKEbcvPVdCkZ</idno>
-            <persName>Helene Petersson i Stockaryd</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Helene Petersson</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
             <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-TGAeNgQV9rZoovTn5C8JAd</idno>
-            <persName>Lena Adelsohn Liljeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -49,14 +42,8 @@
         <correspAction type="sent" xml:id="i-GrUQf5pwqLeZwZ8ZGaNV8s" corresp="i-AZLUb1tb1XBKEbcvPVdCkZ">
           <date when="2007-01-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7DA6Kvxm8mzDEs2xaXMQCv">
-          <date when="2007-01-24"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-QZCexeVkabTKKKKS4TcDpd" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-01-24"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-McXvVcfzzN7MN5tXS5nmcy">
-          <date when="2007-02-20"/>
         </correspAction>
         <correspAction type="answered" xml:id="i-26V8CaWFo7AAK4Si5qrNJZ" corresp="i-TGAeNgQV9rZoovTn5C8JAd">
           <date when="2007-02-20"/>

@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Gudrun Lindvall (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-PvJTHCyJiaxUeJhG5osdHg</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-WkkzgJSsJ5VwAiqFNZhncM" corresp="i-PvJTHCyJiaxUeJhG5osdHg">
-          <date when="1998-04-20"/>
+          <date when="1999-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Bjj8Z6QgzMcR3C7xdav1Ga">
+        <correspAction type="received" xml:id="i-Bjj8Z6QgzMcR3C7xdav1Ga" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-V5pcFkSuYnw1VQj79enhxn">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-LQyRR5qd1h95QAnZjDAPU7">
-          <date when="1998-04-27"/>
+          <date when="1999-04-27"/>
         </correspAction>
         <correspContext corresp="i-LQyRR5qd1h95QAnZjDAPU7">
           <ref type="record" target="prot-199899--086">Prot. 1998/99:86</ref>

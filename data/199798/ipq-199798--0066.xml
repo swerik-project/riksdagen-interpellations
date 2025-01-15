@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Mikael Odenberg (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-GqRqFkpeddfjFYq4PbuU1R" corresp="i-DnTstrvT1jenyw6pdMxfZi">
           <date when="1997-11-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A6EBhfrB9X5rFwDPMqYGWo">
+        <correspAction type="received" xml:id="i-A6EBhfrB9X5rFwDPMqYGWo" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Q4zi141gcTkEWtDZb7PxcJ">
           <note>Besvarad</note>

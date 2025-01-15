@@ -25,36 +25,22 @@
           <person gender="woman">
             <idno>i-Sn3HArFcXWQDenVvrpFSQe</idno>
             <persName>LiseLotte Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-JxxHuvwXWsJTZYTnBZLHj</idno>
             <persName>Marianne Berg (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +49,12 @@
         <correspAction type="sent" xml:id="i-Tq5ZE1j8pLN85YWeK7VSsz" corresp="i-Sn3HArFcXWQDenVvrpFSQe">
           <date when="2010-01-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DBeorpBHb2KzJE6rG5PUVw">
-          <date when="2010-01-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-RnNPAvYhGFhGcc5sauAVPL" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-01-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Czk4rsALEnyHSJrgzyKD7b">
-          <date when="2010-02-12"/>
-          <time when="12:07:41" dur="PT350S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-78axs75c35WTJpXRCRYeh2" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-02-12"/>
+          <time when="12:07:41" dur="PT350S"/>
         </correspAction>
         <correspContext corresp="i-Czk4rsALEnyHSJrgzyKD7b">
           <ref type="record" target="prot-200910--074">Riksdagens protokoll 2009/10:74 Fredagen den 12 februari</ref>

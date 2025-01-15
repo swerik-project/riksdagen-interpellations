@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KzsTMncnr5hiy4Se56WPv6</idno>
             <persName>Niklas Sigvardsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-UYiqboxs9bj822jeD7sizs" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2023-11-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Qh2PJVaJPNkSzkqejy6L7i">
-          <date when="2023-11-23"/>
-          <time when="13:11:53" dur="PT115S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-G3EQYssTpV3y5c4M9RxLem">
           <date when="2023-11-23"/>
+          <time when="13:11:53" dur="PT115S"/>
         </correspAction>
         <correspContext corresp="i-Qh2PJVaJPNkSzkqejy6L7i">
           <ref type="record" target="prot-202324--035">Protokoll 2023/24:35 Torsdagen den 23 november</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
-            <persName>Statsrådet Johan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-RVBRPDgYSffQso5SLJ9Cxr</idno>
             <persName>Larry Söder</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5oQ4xWUi5Nh3NjqrvZeiNp</idno>
             <persName>Johan Danielsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-LtmeJoofizAMh8dBeg9xKc" corresp="i-5oQ4xWUi5Nh3NjqrvZeiNp">
           <date when="2022-01-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8K8yEUvTLzcytmgPSNvLJf">
-          <date when="2022-01-21"/>
-          <time when="11:31:58" dur="PT151S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-88k7rkRkKgq3Q36UBxbyV5">
           <date when="2022-01-21"/>
+          <time when="11:31:58" dur="PT151S"/>
         </correspAction>
         <correspContext corresp="i-8K8yEUvTLzcytmgPSNvLJf">
           <ref type="record" target="prot-202122--057">Protokoll 2021/22:57 Fredagen den 21 januari</ref>

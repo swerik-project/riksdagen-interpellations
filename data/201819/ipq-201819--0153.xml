@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-3FcENkCnnX1yexyrR11fQ3" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GGSyJVm3SPVEJgHFBiyo1m">
-          <date when="2019-04-23"/>
-          <time when="15:14:42" dur="PT68S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-zfq6ysAezFQHqKaHyEdBP" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2019-04-23"/>
+          <time when="15:14:42" dur="PT68S"/>
         </correspAction>
         <correspContext corresp="i-GGSyJVm3SPVEJgHFBiyo1m">
           <ref type="record" target="prot-201819--079">Protokoll 2018/19:79 Tisdagen den 23 april</ref>

@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-VUvkjV9kuKJcz4cxGcFQfn</idno>
             <persName>Statsrådet Khashayar Farmanbar</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Srv2XCR7hGVyZ66wLkW6ad</idno>
             <persName>Lorena Delgado Varas</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8eXWd1vC6ZRoeQdNAwzhbS</idno>
             <persName>Anna Hallberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-Bbs73RTE2RZRV6n8Xn8U5k" corresp="i-VUvkjV9kuKJcz4cxGcFQfn">
           <date when="2022-02-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UsnHWiSnBG2ewGf3xB3S6L">
-          <date when="2022-03-17"/>
-          <time when="16:37:36" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Gw6AX5kHRD28NatAvKvXNz">
           <date when="2022-03-17"/>
+          <time when="16:37:36" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-UsnHWiSnBG2ewGf3xB3S6L">
           <ref type="record" target="prot-202122--083">Protokoll 2021/22:83 Torsdagen den 17 mars</ref>

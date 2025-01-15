@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-38jBhirK3Q2WpsVMafAn24</idno>
             <persName>Hanna Westerén</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Elisabeth Svantesson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LHNecLttGkFNptLa6AG81p</idno>
             <persName>Helena Vilhelmsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7p7goD9VC5HZh4VdEN1AFo</idno>
             <persName>Sara Gille</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
+            <persName>Elisabeth Svantesson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-NV1v9QmS6kLG8Hzdue8xeo" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2024-01-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Qn1uhnkuUMZJX7bEoY64Ls">
-          <date when="2024-02-06"/>
-          <time when="14:11:16" dur="PT82S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HdmUTLs7wGmDqKWTRzSYER">
           <date when="2024-02-06"/>
+          <time when="14:11:16" dur="PT82S"/>
         </correspAction>
         <correspContext corresp="i-Qn1uhnkuUMZJX7bEoY64Ls">
           <ref type="record" target="prot-202324--066">Protokoll 2023/24:66 Tisdagen den 6 februari</ref>

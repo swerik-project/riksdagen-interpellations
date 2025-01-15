@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-RV58z4JKLyvuKAyG2XobP8</idno>
-            <persName>Laila Bjurling</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-RV58z4JKLyvuKAyG2XobP8</idno>
-            <persName>Laila Bjurling (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Laila Bjurling</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-LdsVRjaqF2gdcRojd8zNvn" corresp="i-RV58z4JKLyvuKAyG2XobP8">
           <date when="2007-10-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-C3zVE5SgoR6N3cjTkQuW9n">
-          <date when="2007-10-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FcvZ4hCz7prhrXTy76ujai" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-10-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N7EZZXjjev4jQifFWWXZiY">
-          <date when="2007-10-30"/>
-          <time when="14:37:11" dur="PT256S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JC1Lo6Mj8gDAH17HYtCxw9" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-10-30"/>
+          <time when="14:37:11" dur="PT256S"/>
         </correspAction>
         <correspContext corresp="i-N7EZZXjjev4jQifFWWXZiY">
           <ref type="record" target="prot-200708--018">Riksdagens protokoll 2007/08:18 Tisdagen den 30 oktober</ref>

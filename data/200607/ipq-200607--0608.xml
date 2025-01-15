@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-TVwo4mCECu692GW3ntqQzo</idno>
             <persName>Kurt Kvarnström (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-GB2kzCeZoWnXsep3j3JQkx" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2007-05-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Hcago5ZbjX2C2LobW8QnKw">
-          <date when="2007-05-29"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-TPb7sH5nTjMXiAiazJdSZA" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-05-29"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NLjKBU1bLDmwx4Rq6qYKeq">
-          <date when="2007-06-12"/>
-          <time when="12:27:18" dur="PT170S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RmuiKuA5x9pvtDu5vYMceN" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2007-06-12"/>
+          <time when="12:27:18" dur="PT170S"/>
         </correspAction>
         <correspContext corresp="i-NLjKBU1bLDmwx4Rq6qYKeq">
           <ref type="record" target="prot-200607--124">Riksdagens protokoll 2006/07:124 Tisdagen den 12 juni</ref>

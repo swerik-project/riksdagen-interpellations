@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Karl-Göran Biörsmark (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NgCTKqp2fs7ZtdGdg2MLiL</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesmi­nistern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-8ee9ikaYXnHYhBhUXYFSh5" corresp="i-NgCTKqp2fs7ZtdGdg2MLiL">
           <date when="1997-10-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UnQSFpqakVHzAEHCxTjWty">
+        <correspAction type="received" xml:id="i-UnQSFpqakVHzAEHCxTjWty" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Jt8L5vi1oPLckx4gRHEgXK">
           <note>Besvarad</note>

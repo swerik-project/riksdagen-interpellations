@@ -23,73 +23,52 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
             <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LzTEdVdf1xwBggoSshMrHP</idno>
             <persName>Per Svedberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Vw3jBQw26TxFbXrsoKmCH2</idno>
             <persName>Roland Bäckman (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
+            <persName>Lars Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -98,18 +77,12 @@
         <correspAction type="sent" xml:id="i-EFcUaBhBT1vhrAHY6UDyKr" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2009-02-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5Eze3pqYGtm8qGCzKA1F8E">
-          <date when="2009-02-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-LanRuYX9Ewb8XxSR9f3ZC4" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-02-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2KsDrkTG5h3EG8JNWmuRac">
-          <date when="2009-04-21"/>
-          <time when="19:17:34" dur="PT187S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Eu7ECTnaSv9od6CJLdmw8T" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-04-21"/>
+          <time when="19:17:34" dur="PT187S"/>
         </correspAction>
         <correspContext corresp="i-2KsDrkTG5h3EG8JNWmuRac">
           <ref type="record" target="prot-200809--103">Riksdagens protokoll 2008/09:103 Tisdagen den 21 april</ref>

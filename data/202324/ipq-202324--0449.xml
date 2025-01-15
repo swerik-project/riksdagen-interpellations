@@ -27,43 +27,29 @@
           <person gender="woman">
             <idno>i-HDUKWMEPpUMUK3MxQXxnpZ</idno>
             <persName>Jessica Rodén</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Statsrådet Paulina Brandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
-            <persName>Paulina Brandberg</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-2ugyM6pSMg5iuEaP9k2J9q</idno>
             <persName>Louise Thunström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-GAMxNriJFxoi8diZPM78s6</idno>
+            <persName>Paulina Brandberg</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-QkPUSjVxCqHvjB5ZEyehw7" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2024-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-K5bwYuMD5DG6uhq6WrBtfs">
-          <date when="2024-03-05"/>
-          <time when="18:21:54" dur="PT101S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UXbtm1sdJc1PeNUVHhiv1i" corresp="i-GAMxNriJFxoi8diZPM78s6">
           <date when="2024-03-05"/>
+          <time when="18:21:54" dur="PT101S"/>
         </correspAction>
         <correspContext corresp="i-K5bwYuMD5DG6uhq6WrBtfs">
           <ref type="record" target="prot-202324--079">Protokoll 2023/24:79 Tisdagen den 5 mars</ref>

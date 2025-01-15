@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
-            <persName>Försvarsminister Pål Jonson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-3Grh8TCtLTMtZdMgN1X5RJ</idno>
             <persName>Pål Jonson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SFcZXULVT4n5RA4qkuVh6U" corresp="i-3Grh8TCtLTMtZdMgN1X5RJ">
           <date when="2023-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Mf25dfGVpX6MmoB2sxqRo3">
-          <date when="2023-03-14"/>
-          <time when="14:14:45" dur="PT76S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DsMCF5Fa6PNDLg7TaGjukJ">
           <date when="2023-03-14"/>
+          <time when="14:14:45" dur="PT76S"/>
         </correspAction>
         <correspContext corresp="i-Mf25dfGVpX6MmoB2sxqRo3">
           <ref type="record" target="prot-202223--074">Protokoll 2022/23:74 Tisdagen den 14 mars</ref>

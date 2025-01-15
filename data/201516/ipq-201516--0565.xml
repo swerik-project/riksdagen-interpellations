@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-W1SpeP85RXQTDYN2miQfXU</idno>
             <persName>Daniel Bäckström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
             <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-GPeYbyzwSh9vtcH2CBSTwy" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2016-04-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TBXpyvgZbmsy4XMyaUD3uP">
-          <date when="2016-04-26"/>
-          <time when="18:37:10" dur="PT368S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SHsVC245LYtU24FBZKMLpW">
           <date when="2016-04-26"/>
+          <time when="18:37:10" dur="PT368S"/>
         </correspAction>
         <correspContext corresp="i-TBXpyvgZbmsy4XMyaUD3uP">
           <ref type="record" target="prot-201516--098">Protokoll 2015/16:98 Tisdagen den 26 april</ref>

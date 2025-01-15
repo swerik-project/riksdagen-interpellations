@@ -25,44 +25,30 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
             <persName>Patrik Björck</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
+            <persName>Ylva Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-2s2Egowq3KTMKSEA8ndKYQ" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2015-11-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-fEfsmKeGMSqYRo8shkaVC">
-          <date when="2015-11-20"/>
-          <time when="09:44:26" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KM39h4r81xAGmnTCVAN9Ck" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2015-11-20"/>
+          <time when="09:44:26" dur="PT267S"/>
         </correspAction>
         <correspAction xml:id="i-EDTszQ6Egp2HUPRXNaNvfh" type="discussed" corresp="i-Mf3zjD1SVGBHTEHbp1Vz4A">
           <date when="2015-11-20"/>

@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
-            <persName>Statsrådet Heléne Fritzon</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
-            <persName>Statsrådet Heléne Fritzon</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NXkJirA9Eh3xDV8PPU3eVE</idno>
             <persName>Kent Ekeroth</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7M6cUJxC6g2gyqHr59NnJQ</idno>
             <persName>Heléne Fritzon</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-NUd3sHPx1dKDTU1DuaLE8c" corresp="i-7M6cUJxC6g2gyqHr59NnJQ">
           <date when="2018-05-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AHz4N1vKHPTYvXYphYnVnF">
-          <date when="2018-06-08"/>
-          <time when="14:00:02" dur="PT140S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JoqjNqKT9u255uYhfQ2dSV" corresp="i-7M6cUJxC6g2gyqHr59NnJQ">
           <date when="2018-06-08"/>
+          <time when="14:00:02" dur="PT140S"/>
         </correspAction>
         <correspContext corresp="i-AHz4N1vKHPTYvXYphYnVnF">
           <ref type="record" target="prot-201718--128">Protokoll 2017/18:128 Fredagen den 8 juni</ref>

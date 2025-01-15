@@ -27,29 +27,22 @@
           <person gender="woman">
             <idno>i-XKBEUKbavmqFvdi75cDrts</idno>
             <persName>Magdalena Schröder</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A7r9RuWHjYFLa2Zviisv8B</idno>
-            <persName>Statsrådet Per Olsson Fridh</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A7r9RuWHjYFLa2Zviisv8B</idno>
-            <persName>Per Olsson Fridh</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KoABdAPF5wcu7bTLEqhj3Z</idno>
             <persName>Helena Antoni</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A7r9RuWHjYFLa2Zviisv8B</idno>
+            <persName>Per Olsson Fridh</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-59GGhqaQH59QRVjmk1e2zi" corresp="i-A7r9RuWHjYFLa2Zviisv8B">
           <date when="2021-05-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5GroGdB59Cd8dksAZNoyzy">
-          <date when="2021-06-07"/>
-          <time when="16:55:47" dur="PT244S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FL4NwmjC9cSGPceE4GK8vB">
           <date when="2021-06-07"/>
+          <time when="16:55:47" dur="PT244S"/>
         </correspAction>
         <correspContext corresp="i-5GroGdB59Cd8dksAZNoyzy">
           <ref type="record" target="prot-202021--135">Protokoll 2020/21:135 Måndagen den 7 juni</ref>

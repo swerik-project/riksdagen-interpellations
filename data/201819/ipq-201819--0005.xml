@@ -27,42 +27,28 @@
           <person gender="man">
             <idno>i-BUYvEhrSc9gnHcd6iS4eDJ</idno>
             <persName>Allan Widman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-MqwCqKbpuBAJY46MbB2kTq" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-01-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LRzHeKMqGzVUDimVUwoGXb">
-          <date when="2019-02-12"/>
-          <time when="13:01:57" dur="PT132S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2HYsS2DPyTumQmEeFYfCSM" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2019-02-12"/>
+          <time when="13:01:57" dur="PT132S"/>
         </correspAction>
         <correspAction xml:id="i-JRoa998u18xinovbDFTbhA" type="discussed" corresp="i-BUYvEhrSc9gnHcd6iS4eDJ">
           <date when="2019-02-12"/>

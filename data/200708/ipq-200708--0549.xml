@@ -22,45 +22,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-CX1YSfdtcRC4zSdKQFwNon" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4u4YSW37kJkpkRw1FHsY4Z">
-          <date when="2008-04-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-FqiQxN22L8DuuBTe49PjR6" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-56DD9Z5LBuUzQCoGfHH8vy">
-          <date when="2008-04-22"/>
-          <time when="19:46:14" dur="PT190S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-31iUjdDq4kSTMJ8bGud6iv" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-04-22"/>
+          <time when="19:46:14" dur="PT190S"/>
         </correspAction>
         <correspContext corresp="i-56DD9Z5LBuUzQCoGfHH8vy">
           <ref type="record" target="prot-200708--100">Riksdagens protokoll 2007/08:100 Tisdagen den 22 april</ref>

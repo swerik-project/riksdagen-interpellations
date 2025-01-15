@@ -22,53 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
-            <persName>Birgitta Ohlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
-            <persName>Birgitta Ohlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
-            <persName>Birgitta Ohlsson (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
-            <persName>Christina Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NiuBLX8hzt3w2Uyev12Wbt</idno>
             <persName>Krister Hammarbergh (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-D8B2Xf6UADbqciPHrqFxSc</idno>
+            <persName>Birgitta Ohlsson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-5gSCoqgN8cUnJLfPPLD7nv</idno>
+            <persName>Christina Axelsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-CaZFUP2sUEe7R664wBN1T" corresp="i-5gSCoqgN8cUnJLfPPLD7nv">
           <date when="2010-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ji9abF4GK2pQs7YZnFGh64">
-          <date when="2010-02-16"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-3HPzmupzK8dxhwc2vi1CHN" corresp="i-D8B2Xf6UADbqciPHrqFxSc">
           <date when="2010-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5Qk9tXMDcweHhQNNBBQumz">
-          <date when="2010-02-19"/>
-          <time when="09:19:11" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FpbibABacWc2uS9AUg38Cr" corresp="i-D8B2Xf6UADbqciPHrqFxSc">
           <date when="2010-02-19"/>
+          <time when="09:19:11" dur="PT173S"/>
         </correspAction>
         <correspContext corresp="i-5Qk9tXMDcweHhQNNBBQumz">
           <ref type="record" target="prot-200910--078">Riksdagens protokoll 2009/10:78 Fredagen den 19 februari</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-AvpuCBNCdN7LHjCsU7ixe5</idno>
             <persName>Zinaida Kajevic</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-XHhmWpkiooVb3PsPut4Jvo" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-01-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NsqxfZg4SgzVT6Q3dvd3Lh">
-          <date when="2024-01-23"/>
-          <time when="20:43:13" dur="PT169S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CUB6A8YvdyensudRMWAsrA">
           <date when="2024-01-23"/>
+          <time when="20:43:13" dur="PT169S"/>
         </correspAction>
         <correspContext corresp="i-NsqxfZg4SgzVT6Q3dvd3Lh">
           <ref type="record" target="prot-202324--059">Protokoll 2023/24:59 Tisdagen den 23 januari</ref>

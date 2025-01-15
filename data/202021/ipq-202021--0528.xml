@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-NDXytJ2sEVrtLhDNxEoc8A</idno>
             <persName>Ida Drougge</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-LK89Xf4nFc9dSWe5bJsroE" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-03-05"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3FePGf5zCTfQTgBPbPXE6C">
-          <date when="2021-04-06"/>
-          <time when="13:55:40" dur="PT104S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8dBthoAW2YAF8y1tCmyZHV" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-04-06"/>
+          <time when="13:55:40" dur="PT104S"/>
         </correspAction>
         <correspContext corresp="i-3FePGf5zCTfQTgBPbPXE6C">
           <ref type="record" target="prot-202021--102">Protokoll 2020/21:102 Tisdagen den 6 april</ref>

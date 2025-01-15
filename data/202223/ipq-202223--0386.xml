@@ -25,38 +25,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-6QRZCXV1gpE5LaD6mKZ5GR</idno>
             <persName>Anna-Belle Strömberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Qt6pwvn1sVJnYGf8JhmzmR</idno>
             <persName>Peter Hedberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UyEXp1Lf9DCmXFDQ8Wc3Dj</idno>
             <persName>Eva Lindh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
+            <persName>Anna Tenje</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-9hif3bLAu2QphX7Bu1cPRB" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-06-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8ZR1cUWpA2SrK8WLzJDxnY">
-          <date when="2023-06-21"/>
-          <time when="15:14:48" dur="PT294S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8fuczDB8EeeAkSLhmmG6fF">
           <date when="2023-06-21"/>
+          <time when="15:14:48" dur="PT294S"/>
         </correspAction>
         <correspContext corresp="i-8ZR1cUWpA2SrK8WLzJDxnY">
           <ref type="record" target="prot-202223--129">Protokoll 2022/23:129 Onsdagen den 21 juni</ref>

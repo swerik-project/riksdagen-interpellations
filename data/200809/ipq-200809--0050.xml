@@ -25,43 +25,29 @@
           <person gender="woman">
             <idno>i-4NG88U8krkk9AQubiitWt6</idno>
             <persName>Christina Zedell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4dHfDoweVJM2iAJu9BCQqo</idno>
             <persName>Tommy Waidelich (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +56,12 @@
         <correspAction type="sent" xml:id="i-jgPx2otu93oEQM1LjPqR8" corresp="i-4NG88U8krkk9AQubiitWt6">
           <date when="2008-10-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MbjhfS7BupLs9gWgrLi2RH">
-          <date when="2008-10-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5Qst84AgYMD5VGT1vBYgYj" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-10-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3GZzhNbTyZr3hoagzTMafB">
-          <date when="2008-11-11"/>
-          <time when="19:21:14" dur="PT291S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7fStwtRbYMPb9HTe9QdTSs" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2008-11-11"/>
+          <time when="19:21:14" dur="PT291S"/>
         </correspAction>
         <correspContext corresp="i-3GZzhNbTyZr3hoagzTMafB">
           <ref type="record" target="prot-200809--025">Riksdagens protokoll 2008/09:25 Tisdagen den 11 november</ref>

@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-DhKcHWipWA2w7meLAwkbAA</idno>
             <persName>Lars Isacsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-TCE7FvBrToJYthuTKDWP2X" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J9zUbvs1sX5XLiaoX8amXW">
-          <date when="2023-02-24"/>
-          <time when="12:14:10" dur="PT178S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CR4JZ3KxrFcETU1NgmQqSF" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2023-02-24"/>
+          <time when="12:14:10" dur="PT178S"/>
         </correspAction>
         <correspContext corresp="i-J9zUbvs1sX5XLiaoX8amXW">
           <ref type="record" target="prot-202223--069">Protokoll 2022/23:69 Fredagen den 24 februari</ref>

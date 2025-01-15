@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-PbXU4WvwqE3vBSDW13izd9" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-04-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Qj2ucrvP8AHE3FF9SXvdui">
-          <date when="2022-04-29"/>
-          <time when="09:54:33" dur="PT99S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8YjtmFDXJsRQe8Zqdmn7Y6" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-04-29"/>
+          <time when="09:54:33" dur="PT99S"/>
         </correspAction>
         <correspContext corresp="i-Qj2ucrvP8AHE3FF9SXvdui">
           <ref type="record" target="prot-202122--105">Protokoll 2021/22:105 Fredagen den 29 april</ref>

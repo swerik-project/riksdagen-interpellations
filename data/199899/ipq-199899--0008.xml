@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Maud Ekendahl (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-F8qdE2eedz12PwFanq3ahv</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-RzdwxXDsMdjY3vMtkv49sb" corresp="i-F8qdE2eedz12PwFanq3ahv">
           <date when="1998-10-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CrqCg4ocYBmorEGi9MtbKc">
+        <correspAction type="received" xml:id="i-CrqCg4ocYBmorEGi9MtbKc" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-7gmZfmMCKySM2t1Rhu8ZsY">
           <note>Besvarad</note>

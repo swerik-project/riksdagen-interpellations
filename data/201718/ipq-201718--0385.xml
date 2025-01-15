@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Statsrådet Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-N9Pi9YpD4nvtCEsVp2CGcX</idno>
             <persName>Staffan Danielsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-6ReBWA6juE6XekQgp2y8Tw" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2018-02-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5yYVB3fGce9vfx1xBHPBpV">
-          <date when="2018-03-06"/>
-          <time when="15:12:20" dur="PT149S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QcFKzCovYD6pHXMwMbBESB">
           <date when="2018-03-06"/>
+          <time when="15:12:20" dur="PT149S"/>
         </correspAction>
         <correspContext corresp="i-5yYVB3fGce9vfx1xBHPBpV">
           <ref type="record" target="prot-201718--079">Protokoll 2017/18:79 Tisdagen den 6 mars</ref>

@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-3SiHjpmKqDX1ahURx9ZWt3</idno>
             <persName>Maj Karlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Statsrådet Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Statsrådet Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-91MELckacWJCkwPxTsyTX5" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2018-04-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KK8CpFotksi5wF3goeyqVX">
-          <date when="2018-06-01"/>
-          <time when="09:01:43" dur="PT148S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-7zAy4KMTfksSmV7oCDP8vU" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2018-06-01"/>
+          <time when="09:01:43" dur="PT148S"/>
         </correspAction>
         <correspContext corresp="i-KK8CpFotksi5wF3goeyqVX">
           <ref type="record" target="prot-201718--124">Protokoll 2017/18:124 Fredagen den 1 juni</ref>

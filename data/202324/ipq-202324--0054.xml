@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-DhKcHWipWA2w7meLAwkbAA</idno>
             <persName>Lars Isacsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-H1eaRn4VKrtYDNgqPHdsH5" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-10-04"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CBhMEiYXfTgfanFByCU568">
-          <date when="2023-11-07"/>
-          <time when="19:51:12" dur="PT258S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AGdqqAJecb3XNmhJYcoQDN" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-11-07"/>
+          <time when="19:51:12" dur="PT258S"/>
         </correspAction>
         <correspContext corresp="i-CBhMEiYXfTgfanFByCU568">
           <ref type="record" target="prot-202324--025">Protokoll 2023/24:25 Tisdagen den 7 november</ref>

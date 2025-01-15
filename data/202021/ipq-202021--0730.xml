@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Utrikesminister Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-AHfQ621Fp1orxTGB2WDjUY</idno>
             <persName>Fredrik Malm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-9wXKERXCUog1wTZZT8pLjT" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-05-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-U41KC7UZgxjAuAKtZk9q8D">
-          <date when="2021-06-07"/>
-          <time when="13:30:58" dur="PT139S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-QX3quzVFixkC9DrJgdp9uY" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2021-06-07"/>
+          <time when="13:30:58" dur="PT139S"/>
         </correspAction>
         <correspContext corresp="i-U41KC7UZgxjAuAKtZk9q8D">
           <ref type="record" target="prot-202021--135">Protokoll 2020/21:135 Måndagen den 7 juni</ref>

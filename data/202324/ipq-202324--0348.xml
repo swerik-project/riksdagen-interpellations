@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-G9awhLbr4bPnUKQU3s4Xyq</idno>
             <persName>Mathias Tegnér</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
-            <persName>Finansminister Elisabeth Svantesson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-84DiaFjYsBoBUQnKJiSte9</idno>
             <persName>Elisabeth Svantesson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FqjWB9QdPVauRHpEV8ctLZ" corresp="i-84DiaFjYsBoBUQnKJiSte9">
           <date when="2024-01-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7WDhYYVAnMhicZ2vt4kqyG">
-          <date when="2024-01-30"/>
-          <time when="15:00:47" dur="PT134S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-8efHA8HUNPGHpnwz3eBv5S">
           <date when="2024-01-30"/>
+          <time when="15:00:47" dur="PT134S"/>
         </correspAction>
         <correspContext corresp="i-7WDhYYVAnMhicZ2vt4kqyG">
           <ref type="record" target="prot-202324--062">Protokoll 2023/24:62 Tisdagen den 30 januari</ref>

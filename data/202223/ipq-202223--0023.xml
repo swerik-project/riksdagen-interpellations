@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-3kfmGYErmuJ81cgi8Cwy88</idno>
+            <persName>Aylin Fazelian</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-3kfmGYErmuJ81cgi8Cwy88</idno>
-            <persName>Aylin Fazelian</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-S1uEnyAFvLZraBBdqxfc1c" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2022-11-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YFxPWGpY2omRH17C6hqMxh">
-          <date when="2022-11-15"/>
-          <time when="14:33:24" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-ENzAPHtvzmuEfkz1UUDyog">
           <date when="2022-11-15"/>
+          <time when="14:33:24" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-YFxPWGpY2omRH17C6hqMxh">
           <ref type="record" target="prot-202223--020">Protokoll 2022/23:20 Tisdagen den 15 november</ref>

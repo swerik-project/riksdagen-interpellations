@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-QhdbBfCQXCqPEr4GTwvK8F</idno>
             <persName>Tony Haddou</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-GXJ6nreBZLM6D5aTZE13ZD" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2021-09-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-DhxoS1CRqNWVynjB4QrWt1">
-          <date when="2021-09-09"/>
-          <time when="14:16:55" dur="PT143S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2mR78svY7DTqhKHcGXrda8">
           <date when="2021-09-09"/>
+          <time when="14:16:55" dur="PT143S"/>
         </correspAction>
         <correspContext corresp="i-DhxoS1CRqNWVynjB4QrWt1">
           <ref type="record" target="prot-202021--157">Protokoll 2020/21:157 Torsdagen den 9 september</ref>

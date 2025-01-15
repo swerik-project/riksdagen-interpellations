@@ -27,42 +27,28 @@
           <person gender="man">
             <idno>i-W1SpeP85RXQTDYN2miQfXU</idno>
             <persName>Daniel Bäckström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9xarzmckV5SS8EyJPN5b3x</idno>
             <persName>Hans Wallmark</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EgqHRHVoW5y9USDYuNoYuA</idno>
             <persName>Hillevi Larsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-Eg6cBxMCc5qMiE85Kj1Uj8" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GkPgdDF7RivfyhCTJ25y36">
-          <date when="2018-02-01"/>
-          <time when="12:00:53" dur="PT302S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SELYLoe3o1TdBbqhffUaET" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-02-01"/>
+          <time when="12:00:53" dur="PT302S"/>
         </correspAction>
         <correspContext corresp="i-GkPgdDF7RivfyhCTJ25y36">
           <ref type="record" target="prot-201718--065">Protokoll 2017/18:65 Torsdagen den 1 februari</ref>

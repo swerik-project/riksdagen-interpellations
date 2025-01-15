@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
-            <persName>Lars U Granberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TZHBPDEfPriGgMd5y7LfJG</idno>
-            <persName>Lars U Granberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Lars U. Granberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-SC2WSXnmxUKJo1iXFwaJi8" corresp="i-TZHBPDEfPriGgMd5y7LfJG">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-6eV9sRdTHoLp549mYhzGgT">
-          <date when="2009-05-13"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-pbcgf9r5P4NRbPer6ckwV" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-05-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UuMfvo2wCsXxRteaaSUzQe">
-          <date when="2009-06-08"/>
-          <time when="13:41:35" dur="PT333S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-PgmYgyoyXnjbn2EDKPYXtn" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-06-08"/>
+          <time when="13:41:35" dur="PT333S"/>
         </correspAction>
         <correspContext corresp="i-UuMfvo2wCsXxRteaaSUzQe">
           <ref type="record" target="prot-200809--127">Riksdagens protokoll 2008/09:127 Måndagen den 8 juni</ref>

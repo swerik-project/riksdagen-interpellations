@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-4fjwccvGrtcBzgdzdxhXhs</idno>
             <persName>Jörgen Warborn</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
+            <persName>Magdalena Andersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-FEprkCx6ErtnedbNW5HtCs" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2018-02-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2vTDetpppa6SNqnDLtz6Rb">
-          <date when="2018-03-02"/>
-          <time when="09:01:29" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-D4AzHYAN5TpdwJsihkc2XK">
           <date when="2018-03-02"/>
+          <time when="09:01:29" dur="PT173S"/>
         </correspAction>
         <correspAction xml:id="i-PKMk2VCdmSoV4uDLcNGWj8" type="discussed" corresp="i-Mf3zjD1SVGBHTEHbp1Vz4A">
           <date when="2018-03-02"/>

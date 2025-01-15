@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Sten Tolgfors (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-Q6uWG1k3pbJio9CebNs3Cz</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Ingvar Carlsson</persName>
             <idno>i-WYkrZExE7jfwHjmfH1DPwg</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-UcECMJ4SZBZL2gteSQ2UTC" corresp="i-Q6uWG1k3pbJio9CebNs3Cz">
-          <date when="1996-02-28"/>
+          <date when="1997-02-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ESSUDheATTNEEfsnw6oFVW">
+        <correspAction type="received" xml:id="i-ESSUDheATTNEEfsnw6oFVW" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-KvWZCgATpgpWtDT9Di9YZH">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-AVUKeojTuw9sBfCur7Cm5g">
-          <date when="1996-03-21"/>
+          <date when="1997-03-21"/>
         </correspAction>
         <correspContext corresp="i-AVUKeojTuw9sBfCur7Cm5g">
           <ref type="record" target="prot-199697--083">Prot. 1996/97:83</ref>

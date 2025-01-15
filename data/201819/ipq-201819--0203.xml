@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
-            <persName>Utbildningsminister Anna Ekström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-EDRJhBHzVgQtpo6Ksyzirg</idno>
             <persName>Robert Stenkvist</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-9AVauGWoNZ6utf3kmZanbm</idno>
             <persName>Anna Ekström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-7u95MtgrnkMC6KxsVmh7qk" corresp="i-9AVauGWoNZ6utf3kmZanbm">
           <date when="2019-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UPXg9nphaCTDdKC4sPBf3B">
-          <date when="2019-05-06"/>
-          <time when="12:00:10" dur="PT161S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MLXf13pkvnyKcqbGtFmEYt">
           <date when="2019-05-06"/>
+          <time when="12:00:10" dur="PT161S"/>
         </correspAction>
         <correspContext corresp="i-UPXg9nphaCTDdKC4sPBf3B">
           <ref type="record" target="prot-201819--086">Protokoll 2018/19:86 Måndagen den 6 maj</ref>

@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-DHyJnTqHxJuz92Y1rFf2i4</idno>
             <persName>Arin Karapet</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-YCPLvYtVo5EKQ89wFxxorF" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-12-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HKVXrmKFS7eXYXeVT8hZth">
-          <date when="2022-01-14"/>
-          <time when="11:40:24" dur="PT106S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-XCynZroYyNn5Sw2AH8uEpY">
           <date when="2022-01-14"/>
+          <time when="11:40:24" dur="PT106S"/>
         </correspAction>
         <correspContext corresp="i-HKVXrmKFS7eXYXeVT8hZth">
           <ref type="record" target="prot-202122--053">Protokoll 2021/22:53 Fredagen den 14 januari</ref>

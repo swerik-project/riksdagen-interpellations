@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-7QLxzDLbr45kDGrK2ogwz4" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-04-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-SH1pWRbvrXepQ396J1khpH">
-          <date when="2019-04-26"/>
-          <time when="10:16:36" dur="PT99S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-FWDUv8LgodMDSJBK4eJ4Fa">
           <date when="2019-04-26"/>
+          <time when="10:16:36" dur="PT99S"/>
         </correspAction>
         <correspContext corresp="i-SH1pWRbvrXepQ396J1khpH">
           <ref type="record" target="prot-201819--082">Protokoll 2018/19:82 Fredagen den 26 april</ref>

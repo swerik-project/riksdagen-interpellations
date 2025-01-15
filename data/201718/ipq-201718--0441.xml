@@ -26,22 +26,15 @@
         <listPerson>
           <person gender="woman">
             <idno>i-CgLZxiLTqtr669ULBLHcuK</idno>
-            <persName>Yasmine Posio Nilsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Yasmine Posio</persName>
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
-            <persName>Utrikesminister Margot Wallström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
             <persName>Margot Wallström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-4Gp8VSoZxee3RLqAmqBb6D" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <date when="2018-03-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Na5LCwCs7u1BRtCNaHY3PZ">
-          <date when="2018-03-26"/>
-          <time when="11:00:40" dur="PT199S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AUJjLWJs6RxZUzQYxaMDTe">
           <date when="2018-03-26"/>
+          <time when="11:00:40" dur="PT199S"/>
         </correspAction>
         <correspContext corresp="i-Na5LCwCs7u1BRtCNaHY3PZ">
           <ref type="record" target="prot-201718--091">Protokoll 2017/18:91 Måndagen den 26 mars</ref>

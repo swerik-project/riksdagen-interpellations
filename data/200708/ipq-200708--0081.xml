@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
-            <persName>Cristina Husmark Pehrsso (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-9fdWbFK67588CD12XaNZBq</idno>
             <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Dh86x4tP3poRsuGn2pQFUn</idno>
+            <persName>Cristina Husmark Pehrsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-96DdVHgjFksGBr53oHZTvZ" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2007-10-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BBi1t6Hkxy9LbSFrtHGdpa">
-          <date when="2007-10-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-DGdAkdWUeQDqY4ruihg4se" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2007-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Lp2cFxhxX2gpKRtAag7nWr">
-          <date when="2007-11-13"/>
-          <time when="13:32:01" dur="PT246S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-A76SMLAHD32ayJjF4X66nY" corresp="i-Dh86x4tP3poRsuGn2pQFUn">
           <date when="2007-11-13"/>
+          <time when="13:32:01" dur="PT246S"/>
         </correspAction>
         <correspContext corresp="i-Lp2cFxhxX2gpKRtAag7nWr">
           <ref type="record" target="prot-200708--023">Riksdagens protokoll 2007/08:23 Tisdagen den 13 november</ref>

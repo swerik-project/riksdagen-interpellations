@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-8WXKfVC5CVWBiV2pVhvraQ</idno>
-            <persName>Luciano Astudillo (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Luciano Astudillo</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-RmUKxvczBFFGLU5nhmSnbL" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2007-03-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AAkrZ8hhM6iZ3uRaBxuMKA">
-          <date when="2007-03-27"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-GSZSMrwCxVrvavsemfJDag" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-03-27"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-7jPvEW4tRzgBmFhvD7curq">
-          <date when="2007-04-17"/>
-          <time when="15:21:34" dur="PT299S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-THKMmpRFbJNVHmXxhJpmro" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2007-04-17"/>
+          <time when="15:21:34" dur="PT299S"/>
         </correspAction>
         <correspAction xml:id="i-Y4VQHTq5wUWoyQqn5L6KNh" type="discussed" corresp="i-8WXKfVC5CVWBiV2pVhvraQ">
           <date when="2007-04-17"/>

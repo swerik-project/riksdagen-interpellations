@@ -23,38 +23,17 @@
       <particDesc>
         <listPerson>
           <person gender="man">
+            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
+            <persName>Tobias Krantz</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
             <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
             <persName>Mats Pertoft</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UnkrZ3NAvoWXY6Krxbkudq</idno>
-            <persName>Tobias Krantz (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
-            <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Mp</desc>
             </state>
           </person>
         </listPerson>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-QHUMKa3oDXd166Ys2yfK6E" corresp="i-2GE534P2Foy3WpqKPVNeW8">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7hSh7ftW9PWeVBy3sdXemS">
-          <date when="2009-11-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-CotMFh9dhZch6RNPBG1kEv" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HPAg9UUvfrXuSPLgDiBLtH">
-          <date when="2009-12-01"/>
-          <time when="13:01:54" dur="PT216S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4KJ4oaoJ6ckdFF2aAVBXQU" corresp="i-UnkrZ3NAvoWXY6Krxbkudq">
           <date when="2009-12-01"/>
+          <time when="13:01:54" dur="PT216S"/>
         </correspAction>
         <correspContext corresp="i-HPAg9UUvfrXuSPLgDiBLtH">
           <ref type="record" target="prot-200910--040">Riksdagens protokoll 2009/10:40 Tisdagen den 1 december</ref>

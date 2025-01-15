@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
-            <persName>Patrik Björck (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-M8LKQKEcsjHJKv8kSmhVcX</idno>
             <persName>Tomas Tobé (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
+            <persName>Sven Otto Littorin</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-LdjfMsG9pY1LY9yx58k2gm</idno>
+            <persName>Patrik Björck</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-TKDcckYfs1EhDN8DKRMi4p" corresp="i-LdjfMsG9pY1LY9yx58k2gm">
           <date when="2008-02-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PH9v58KarPZexTwniBvpCy">
-          <date when="2008-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-UgbPXwo9yAgfr1N4qCXYcR" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TRXcfk4yBifGtNLSTkrdxf">
-          <date when="2008-02-22"/>
-          <time when="10:54:14" dur="PT310S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TV5x6AH4GVVRRcgLyojPVC" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2008-02-22"/>
+          <time when="10:54:14" dur="PT310S"/>
         </correspAction>
         <correspContext corresp="i-TRXcfk4yBifGtNLSTkrdxf">
           <ref type="record" target="prot-200708--070">Riksdagens protokoll 2007/08:70 Fredagen den 22 februari</ref>

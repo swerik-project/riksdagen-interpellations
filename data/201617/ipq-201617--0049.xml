@@ -27,36 +27,22 @@
           <person gender="man">
             <idno>i-HNw1w34Sd2tGfFnWtdrzZb</idno>
             <persName>Jens Holm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Statsrådet Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Statsrådet Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HG8uLqLT7SnwSx5YRobkVr</idno>
             <persName>Håkan Svenneling</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
+            <persName>Ann Linde</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-La4Bd3wXEeqeiq5PRHXrM4" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2016-10-14"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BTq5VM5bwHY6MdwdJSSbsM">
-          <date when="2016-11-08"/>
-          <time when="15:07:43" dur="PT245S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Fpy5ApJHygWda89SU1GG45" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2016-11-08"/>
+          <time when="15:07:43" dur="PT245S"/>
         </correspAction>
         <correspContext corresp="i-BTq5VM5bwHY6MdwdJSSbsM">
           <ref type="record" target="prot-201617--024">Protokoll 2016/17:24 Tisdagen den 8 november</ref>

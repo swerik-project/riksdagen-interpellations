@@ -27,36 +27,29 @@
           <person gender="woman">
             <idno>i-Mf3zjD1SVGBHTEHbp1Vz4A</idno>
             <persName>Helena Bouveng</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
-            <persName>Kultur- och demokratiminister Alice Bah Kuhnke</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
-            <persName>Alice Bah Kuhnke</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Evjo9hsKrPvb3KMyegAipb</idno>
             <persName>Cecilia Magnusson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-Uj7U5iTAaKpcG1mvQKxAc8</idno>
+            <persName>Alice Bah Kuhnke</persName>
+            <state type="partyAffiliation" ref="Q213451">
+              <desc>MP</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +64,9 @@
         <correspAction type="received" xml:id="i-WLqsyJFYqdotzi2MpK48w2" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2015-10-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PE1usdF1pCdS67ihbxW7SZ">
-          <date when="2015-11-06"/>
-          <time when="09:27:40" dur="PT154S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WYnCims3UhyTxAqXoaHLCg" corresp="i-Uj7U5iTAaKpcG1mvQKxAc8">
           <date when="2015-11-06"/>
+          <time when="09:27:40" dur="PT154S"/>
         </correspAction>
         <correspContext corresp="i-PE1usdF1pCdS67ihbxW7SZ">
           <ref type="record" target="prot-201516--023">Protokoll 2015/16:23 Fredagen den 6 november</ref>

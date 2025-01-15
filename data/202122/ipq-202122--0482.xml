@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-9aV6a5JgMMU7racuNkrEgj</idno>
             <persName>Richard Jomshof</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="unknown">
-            <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
-            <persName>Statsrådet Lina Axelsson Kihlblom</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="unknown">
-            <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
-            <persName>Statsrådet Lina Axelsson Kihlblom</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="female">
             <idno>i-TvxkyB44TapcZqHJAqPGrn</idno>
             <persName>Lina Axelsson Kihlblom</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-APKYAoecwA3dkEdSABHZob" corresp="i-TvxkyB44TapcZqHJAqPGrn">
           <date when="2022-05-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MErAHhxTadMernCf8mFvuY">
-          <date when="2022-06-22"/>
-          <time when="17:59:50" dur="PT196S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EBCawjnErkVpRPB2rajqoX" corresp="i-TvxkyB44TapcZqHJAqPGrn">
           <date when="2022-06-22"/>
+          <time when="17:59:50" dur="PT196S"/>
         </correspAction>
         <correspContext corresp="i-MErAHhxTadMernCf8mFvuY">
           <ref type="record" target="prot-202122--136">Protokoll 2021/22:136 Onsdagen den 22 juni</ref>

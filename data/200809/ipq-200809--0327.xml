@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
-            <persName>Sven-Erik Österberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
             <persName>Thomas Östros (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Ry3pP9VZKrW87Vcxq73jQG</idno>
             <persName>Carl B Hamilton (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-9fdWbFK67588CD12XaNZBq</idno>
+            <persName>Sven-Erik Österberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-X7kkdSrX7CdrKKAH5sE6me" corresp="i-9fdWbFK67588CD12XaNZBq">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CcxmaEnSUUQafSugWH9dnm">
-          <date when="2009-02-12"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WcEchDXudhcV5nsCGEXwbT" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-02-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-98fLMigfHjCUWbXW9hLuW2">
-          <date when="2009-03-09"/>
-          <time when="11:42:16" dur="PT206S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YNtzdqw6uwJAbHARotXRrh" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2009-03-09"/>
+          <time when="11:42:16" dur="PT206S"/>
         </correspAction>
         <correspContext corresp="i-98fLMigfHjCUWbXW9hLuW2">
           <ref type="record" target="prot-200809--080">Riksdagens protokoll 2008/09:80 Måndagen den 9 mars</ref>

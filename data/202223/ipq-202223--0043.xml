@@ -24,31 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
-            <persName>Statsrådet Maria Malmer Stenergard</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MEQoHPb6qh2nYtPCAZQYv3</idno>
             <persName>Maria Malmer Stenergard</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-693wsJoMGn5gVfAmtaAm19" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2022-11-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2B4K72GP3Dk6StzS3ExXVA">
-          <date when="2022-12-06"/>
-          <time when="18:15:14" dur="PT133S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WwTY8BHQUfpfMPRMatJwBN" corresp="i-MEQoHPb6qh2nYtPCAZQYv3">
           <date when="2022-12-06"/>
+          <time when="18:15:14" dur="PT133S"/>
         </correspAction>
         <correspContext corresp="i-2B4K72GP3Dk6StzS3ExXVA">
           <ref type="record" target="prot-202223--032">Protokoll 2022/23:32 Tisdagen den 6 december</ref>

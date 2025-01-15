@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-C3pbJfgMjJipDqWLJcuDvz</idno>
             <persName>Aphram Melki</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-S8TT3JWxNByNfMHyMWjPc1" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2022-06-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5TYEXTViVqwhQvoEAPBSVA">
-          <date when="2022-06-27"/>
-          <time when="12:47:43" dur="PT75S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VwaMFahZUWt5m627iJ45rd">
           <date when="2022-06-27"/>
+          <time when="12:47:43" dur="PT75S"/>
         </correspAction>
         <correspContext corresp="i-5TYEXTViVqwhQvoEAPBSVA">
           <ref type="record" target="prot-202122--137">Protokoll 2021/22:137 Måndagen den 27 juni</ref>

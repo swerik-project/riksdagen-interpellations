@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-GYDmDYBwvSBCyuntDBrarj</idno>
             <persName>Viktor Wärnick</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SWE9SoXTsvbZe9CEEyR7Mk" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2021-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-L5wCPGmCFcqTh6AVXwfdt1">
-          <date when="2021-12-10"/>
-          <time when="09:46:49" dur="PT336S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-B9339Gznz9qjcxweRae2yE">
           <date when="2021-12-10"/>
+          <time when="09:46:49" dur="PT336S"/>
         </correspAction>
         <correspContext corresp="i-L5wCPGmCFcqTh6AVXwfdt1">
           <ref type="record" target="prot-202122--043">Protokoll 2021/22:43 Fredagen den 10 december</ref>

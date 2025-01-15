@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
-            <persName>Utbildningsminister Mats Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Xvwr4Q7CsjqRAtkC5NmcYG</idno>
             <persName>Linus Sköld</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-VBA6eUH2CpmPZFgqzCpt9N</idno>
             <persName>Mats Persson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-VQSDddCXKGb5wxDeAP4jrc" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2024-02-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-BTNk7RGYGusKrUZx3YuEiw">
-          <date when="2024-02-27"/>
-          <time when="21:41:25" dur="PT85S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DwnTmoRHbLMjFB8xWxwSPh" corresp="i-VBA6eUH2CpmPZFgqzCpt9N">
           <date when="2024-02-27"/>
+          <time when="21:41:25" dur="PT85S"/>
         </correspAction>
         <correspContext corresp="i-BTNk7RGYGusKrUZx3YuEiw">
           <ref type="record" target="prot-202324--075">Protokoll 2023/24:75 Tisdagen den 27 februari</ref>

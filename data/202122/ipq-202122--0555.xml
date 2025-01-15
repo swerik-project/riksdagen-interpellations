@@ -24,32 +24,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-J1dwBvvYtX1oavBKDBxXch</idno>
             <persName>Jasmin Farid</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-5QUSwQFaazTZF6GHyxaAkw</idno>
             <persName>Magnus Jacobsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
+            <persName>Tomas Eneroth</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-4L8d8uRQSoxN15h5kwgVD5" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-06-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8hpQXUpKtJuoJhAFfeKYAJ">
-          <date when="2022-06-27"/>
-          <time when="16:22:30" dur="PT87S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Y67hXgqr2QHkSNCpybup62">
           <date when="2022-06-27"/>
+          <time when="16:22:30" dur="PT87S"/>
         </correspAction>
         <correspAction xml:id="i-UFz67XNsfZt8S6w93JtZGi" type="discussed" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2022-06-27"/>

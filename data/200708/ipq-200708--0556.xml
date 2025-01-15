@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
-            <persName>Egon Frid (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>V</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-7BVrTrBc6AJDkYa3WEfLxy</idno>
             <persName>Jan R Andersson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MMa2PA7yJ45qkfsEkcFqYb</idno>
             <persName>Christer Engelhardt (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-Nj6rnCfHps9ZzFLuPuYaNj</idno>
+            <persName>Egon Frid</persName>
+            <state type="partyAffiliation" ref="Q110837">
+              <desc>V</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-M7QF9rG2sdfrsxtjesXFAB" corresp="i-Nj6rnCfHps9ZzFLuPuYaNj">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-YSBeo6RdHskec9aDdD1mGz">
-          <date when="2008-04-03"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-61q8EZCvnvFf1ipCdKDUfX" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-04-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NHWTTt8MfwUV5HHtDL9ooB">
-          <date when="2008-04-22"/>
-          <time when="19:07:13" dur="PT358S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-V7xMJFYPxZ9GtiVMFgkXxZ" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-04-22"/>
+          <time when="19:07:13" dur="PT358S"/>
         </correspAction>
         <correspContext corresp="i-NHWTTt8MfwUV5HHtDL9ooB">
           <ref type="record" target="prot-200708--100">Riksdagens protokoll 2007/08:100 Tisdagen den 22 april</ref>

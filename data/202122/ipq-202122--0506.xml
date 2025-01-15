@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och inrikesminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-G9Ze2ayHon2kkwVgXWott8</idno>
             <persName>Thomas Morell</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-JNX17GBsx7x8HZAVqVbraq" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-05-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-EedaRkXCTH7iVpiLuf79Cq">
-          <date when="2022-06-29"/>
-          <time when="11:27:12" dur="PT173S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VscgGyovZWfenvXbdZNt8P" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2022-06-29"/>
+          <time when="11:27:12" dur="PT173S"/>
         </correspAction>
         <correspContext corresp="i-EedaRkXCTH7iVpiLuf79Cq">
           <ref type="record" target="prot-202122--139">Protokoll 2021/22:139 Onsdagen den 29 juni</ref>
@@ -170,9 +153,7 @@
           </p>
         </div>
         <div type="ipQuestion">
-          <p xml:id="i-KqxTFFCW6B2LM6V8NPD6EE">
-            
-            <list rend="unordered">
+          <p xml:id="i-KqxTFFCW6B2LM6V8NPD6EE"><list rend="unordered">
               <item>
                 Vilka åtgärder avser ministern och regeringen att vidta för att
                 vända utvecklingen?

@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-4FL9252Gm3rHAifaDrXzaZ</idno>
             <persName>Statsrådet Hans Dahlgren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4wsP6LwQoWWj732ozhmgSc</idno>
             <persName>Ludvig Aspling</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-1ma1Fmwj6Hcce31Yrb648" corresp="i-4FL9252Gm3rHAifaDrXzaZ">
           <date when="2019-05-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KWHDgV1mnwu25eUyjFW7uQ">
-          <date when="2019-08-29"/>
-          <time when="12:03:04" dur="PT229S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VyXtcy21tMCySLfn1nzpAY" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2019-08-29"/>
+          <time when="12:03:04" dur="PT229S"/>
         </correspAction>
         <correspContext corresp="i-KWHDgV1mnwu25eUyjFW7uQ">
           <ref type="record" target="prot-201819--111">Protokoll 2018/19:111 Torsdagen den 29 augusti</ref>

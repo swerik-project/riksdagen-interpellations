@@ -25,35 +25,35 @@
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
-            <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110832">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Börje Vestlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
+            <persName>Börje Vestlund</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Gmuob7B6c1ZojGVVawYvJR" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2009-09-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BLKFWujxh37WW168vwmAuF">
-          <date when="2009-09-21"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-BYgC79Foa5SeZkhXRnEjBP" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-09-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YU3ZZDdNETjJhcA89vAqZM">
-          <date when="2009-10-01"/>
-          <time when="14:51:44" dur="PT268S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-YS6N739seYfGL3mJonKeNW" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-10-01"/>
+          <time when="14:51:44" dur="PT268S"/>
         </correspAction>
         <correspContext corresp="i-YU3ZZDdNETjJhcA89vAqZM">
           <ref type="record" target="prot-200910--009">Riksdagens protokoll 2009/10:9 Torsdagen den 1 oktober</ref>

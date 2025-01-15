@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-KHxTD13x4T7QRobXtjMm4K</idno>
             <persName>Roland Utbult</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
-            <persName>Statsrådet Ardalan Shekarabi</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-LGnWAFHmtMWgHhZSuUL8EB</idno>
             <persName>Ardalan Shekarabi</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-GmA1PtsbgdvwfZcbkJQp6b" corresp="i-LGnWAFHmtMWgHhZSuUL8EB">
           <date when="2019-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-41AFqVdHz8SpD8L4CCZtRR">
-          <date when="2019-03-05"/>
-          <time when="18:39:13" dur="PT125S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5wkSgrAocVyc4Zj9zov1xq">
           <date when="2019-03-05"/>
+          <time when="18:39:13" dur="PT125S"/>
         </correspAction>
         <correspContext corresp="i-41AFqVdHz8SpD8L4CCZtRR">
           <ref type="record" target="prot-201819--059">Protokoll 2018/19:59 Tisdagen den 5 mars</ref>

@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-QpWVRM55tMRcHYZCMDFcHW</idno>
             <persName>Isak From</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
-            <persName>Statsrådet Romina Pourmokhtari</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-8uoKV5sqsJoS76di7i7eSz</idno>
             <persName>Romina Pourmokhtari</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-KvA5JPDkyTYvMmK2k3ghrY" corresp="i-8uoKV5sqsJoS76di7i7eSz">
           <date when="2024-02-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-N7Jyc2C3ij7YHaXnFMEkn2">
-          <date when="2024-02-16"/>
-          <time when="12:49:10" dur="PT230S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JFkaWF1C4GTdzJPByHzrAE">
           <date when="2024-02-16"/>
+          <time when="12:49:10" dur="PT230S"/>
         </correspAction>
         <correspContext corresp="i-N7Jyc2C3ij7YHaXnFMEkn2">
           <ref type="record" target="prot-202324--073">Protokoll 2023/24:73 Fredagen den 16 februari</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknadsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-P2Qeo7VM9UV2RSExyEhtHW</idno>
             <persName>Jenny Petersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-EWnUvhZQxL9Rs5R3U9g9oF" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2015-11-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-KsW2oSw9DsvZvxZ7TyRj9q">
-          <date when="2015-11-20"/>
-          <time when="11:03:25" dur="PT121S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AULZofPg7xGVYhmmpog8wW">
           <date when="2015-11-20"/>
+          <time when="11:03:25" dur="PT121S"/>
         </correspAction>
         <correspContext corresp="i-KsW2oSw9DsvZvxZ7TyRj9q">
           <ref type="record" target="prot-201516--031">Protokoll 2015/16:31 Fredagen den 20 november</ref>

@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-WwZzVPGhpXnyH5jyp86JB7</idno>
             <persName>Boriana Åberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
-            <persName>Justitie- och migrationsminister Morgan Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-ED6z31YNqVE6ff3fyKd8Rr" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-01-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Wmmq7qfkgiguxRTVnCgoFR">
-          <date when="2021-02-04"/>
-          <time when="12:44:50" dur="PT144S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-14tc1PXvY8ByzMDfRdfga9" corresp="i-UPW2cbGnTUbMZaKTrot5Bh">
           <date when="2021-02-04"/>
+          <time when="12:44:50" dur="PT144S"/>
         </correspAction>
         <correspContext corresp="i-Wmmq7qfkgiguxRTVnCgoFR">
           <ref type="record" target="prot-202021--076">Protokoll 2020/21:76 Torsdagen den 4 februari</ref>

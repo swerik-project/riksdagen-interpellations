@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-5pt7V9L88gFuC3UA5MjoNb</idno>
             <persName>Lotta Olsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-CPbf9M3eVXzTsBYp915UfM" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-02-11"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-5YGKnL2sAvLB6ey8JWiwvh">
-          <date when="2021-05-18"/>
-          <time when="13:32:40" dur="PT125S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Ha4sapGpRDVft7Aw62ygt6" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2021-05-18"/>
+          <time when="13:32:40" dur="PT125S"/>
         </correspAction>
         <correspContext corresp="i-5YGKnL2sAvLB6ey8JWiwvh">
           <ref type="record" target="prot-202021--122">Protokoll 2020/21:122 Tisdagen den 18 maj</ref>

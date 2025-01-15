@@ -22,38 +22,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
             <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NVas7B7uQTiMw4d6EGPVqz</idno>
-            <persName>Sven Otto Littorin (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-Amttuj61nJ7iShFBRrwMMg" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2010-04-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8DSVHMXZeafWvTzQk5rMzM">
-          <date when="2010-04-09"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-NKcnnN6dMv1vH9oBgJc2cP" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-04-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-MpiX9ofQv4BYKUdJ7tp3VK">
-          <date when="2010-04-20"/>
-          <time when="19:24:55" dur="PT267S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-KXP2iteWezHTqMwHz8Hq9a" corresp="i-NVas7B7uQTiMw4d6EGPVqz">
           <date when="2010-04-20"/>
+          <time when="19:24:55" dur="PT267S"/>
         </correspAction>
         <correspContext corresp="i-MpiX9ofQv4BYKUdJ7tp3VK">
           <ref type="record" target="prot-200910--106">Riksdagens protokoll 2009/10:106 Tisdagen den 20 april</ref>

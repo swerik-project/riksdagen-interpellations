@@ -27,28 +27,14 @@
           <person gender="woman">
             <idno>i-TqkCALix3mzcE3yNqV7Nee</idno>
             <persName>Martina Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
             <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-KciEWSP9Vh9wXduxutkumi" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-10-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-36wHP3QUwxcc5Mu9Awkq1T">
-          <date when="2022-11-15"/>
-          <time when="18:37:32" dur="PT118S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UZWPL1ryTKm6eRsjQMQ7Ba" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2022-11-15"/>
+          <time when="18:37:32" dur="PT118S"/>
         </correspAction>
         <correspContext corresp="i-36wHP3QUwxcc5Mu9Awkq1T">
           <ref type="record" target="prot-202223--020">Protokoll 2022/23:20 Tisdagen den 15 november</ref>

@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
           </person>
           <person gender="woman">
-            <persName>miljöminis­tern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-9ih4smVvRYKCMas4i52Xiw</idno>
+            <persName>Kjell Larsson</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-VFR2pYZvka3vN1egHvGwj2" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
-          <date when="1998-01-11"/>
+          <date when="1999-01-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5GH1HybFFfx5wJhFYShfKD">
+        <correspAction type="received" xml:id="i-5GH1HybFFfx5wJhFYShfKD" corresp="i-9ih4smVvRYKCMas4i52Xiw">
           <note>date unknown</note>
-          <name>miljöminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LVVrazL2YxpznjHFKvPesK">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9zUqYSxwdJzwFTPaKNmoKk">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-9zUqYSxwdJzwFTPaKNmoKk">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

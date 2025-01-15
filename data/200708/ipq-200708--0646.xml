@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
-            <persName>Raimo Pärssinen (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-du5LHNwBWrCH1am94GCk1</idno>
             <persName>Eva Olofsson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
+            <persName>Maria Larsson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-YMP8nuJqySuXaujevkGpSV</idno>
+            <persName>Raimo Pärssinen</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-HLu5pADHarDq77KoKemzRF" corresp="i-YMP8nuJqySuXaujevkGpSV">
           <date when="2008-05-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7tjzZaJtDfBKR7VccmNC6k">
-          <date when="2008-05-06"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EpxmLhHWsZMvX7BPYfiXcs" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-05-06"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-254yCaHGBusenJPugwXubN">
-          <date when="2008-06-02"/>
-          <time when="13:35:36" dur="PT377S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DNs6LFQB5xRjNYN4akfSKj" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2008-06-02"/>
+          <time when="13:35:36" dur="PT377S"/>
         </correspAction>
         <correspContext corresp="i-254yCaHGBusenJPugwXubN">
           <ref type="record" target="prot-200708--120">Riksdagens protokoll 2007/08:120 Måndagen den 2 juni</ref>

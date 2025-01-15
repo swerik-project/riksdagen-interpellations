@@ -25,30 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
-            <persName>Statsrådet Lotta Edholm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-DhFtpnk9dqFrTXA2tvjJnb</idno>
             <persName>Paula Örn</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-L9ZSh2ArmookNvPoaXVgbB</idno>
             <persName>Lotta Edholm</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>L</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-9FoXXnAreFCJ2GBAhnBZdV" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-03-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NZYHNqWvGg8Fb1VF73VFZs">
-          <date when="2024-03-22"/>
-          <time when="09:00:54" dur="PT168S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-2EZ25Z2ZpiiEofGzTjgAhv" corresp="i-L9ZSh2ArmookNvPoaXVgbB">
           <date when="2024-03-22"/>
+          <time when="09:00:54" dur="PT168S"/>
         </correspAction>
         <correspContext corresp="i-NZYHNqWvGg8Fb1VF73VFZs">
           <ref type="record" target="prot-202324--089">Protokoll 2023/24:89 Fredagen den 22 mars</ref>

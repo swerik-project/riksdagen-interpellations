@@ -23,59 +23,38 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-QqQ96z9hf4LQtMxJfJm6ZQ</idno>
-            <persName>Jeppe Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-QqQ96z9hf4LQtMxJfJm6ZQ</idno>
-            <persName>Jeppe Johnsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-AktM7FqujRsJ6kGjNePGjq</idno>
             <persName>Lars-Ivar Ericson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Mu6JsEkDkxWd4JDvWknN3V</idno>
             <persName>Rune Wikström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-67wRp4zduspVaKE8AzS9qR</idno>
-            <persName>Göran Persson i Simrisha (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Göran Persson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-QqQ96z9hf4LQtMxJfJm6ZQ</idno>
+            <persName>Jeppe Johnsson</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Y4tb1b3WvAEzZxYsrNfLn1" corresp="i-QqQ96z9hf4LQtMxJfJm6ZQ">
           <date when="2006-12-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AWmUqMDGz3Amk6S14e8xss">
-          <date when="2006-12-15"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Jk8LnhCNfYJgNnKzpZFvaZ" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2006-12-15"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AqW45CUTZuhGiYhZcC7yXb">
-          <date when="2007-01-23"/>
-          <time when="19:40:03" dur="PT350S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BpJsSL8EQWXbQ7mkxPhF5j" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2007-01-23"/>
+          <time when="19:40:03" dur="PT350S"/>
         </correspAction>
         <correspContext corresp="i-AqW45CUTZuhGiYhZcC7yXb">
           <ref type="record" target="prot-200607--052">Riksdagens protokoll 2006/07:52 Tisdagen den 23 januari</ref>

@@ -22,20 +22,26 @@
         <listPerson>
           <person gender="woman">
             <persName>Sinikka Bohlin (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-C6MPg8QS78d6rtHZ6Jc424</idno>
           </person>
           <person gender="man">
-            <persName>jordbruksministern</persName>
+            <persName>Karl Erik Olsson</persName>
             <idno>i-CVa3GtLUphESXFxPuwSvNV</idno>
+            <state type="partyAffiliation" ref="Q110832"/>
+          </person>
+          <person gender="woman">
+            <persName>Margareta Winberg</persName>
+            <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-NMYeVhZ9krchfU3yuCJk2b" corresp="i-C6MPg8QS78d6rtHZ6Jc424">
-          <date when="1994-03-13"/>
+          <date when="1995-03-13"/>
         </correspAction>
         <correspAction type="received" xml:id="i-LoSePs6oRPBkcNEfGRA3rP">
           <note>date unknown</note>
@@ -45,7 +51,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-JdiDuBR59K7EhFSkR5x8x1">
-          <date when="1994-05-08"/>
+          <date when="1995-05-08"/>
         </correspAction>
         <correspContext corresp="i-JdiDuBR59K7EhFSkR5x8x1">
           <ref type="record" target="prot-199495--100">Prot. 1994/95:100</ref>

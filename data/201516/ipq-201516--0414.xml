@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-VGvz17reDhSXFdrtvk1pwq</idno>
             <persName>Bengt Eliasson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
-            <persName>Statsrådet Gabriel Wikström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6sx2QJVNDz6kWWHQvy2hrG</idno>
             <persName>Gabriel Wikström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-35R5EfNpJjG9dP9VovBQRP" corresp="i-6sx2QJVNDz6kWWHQvy2hrG">
           <date when="2016-02-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HFBa91swuKTEymfnu1r11j">
-          <date when="2016-03-01"/>
-          <time when="22:46:53" dur="PT259S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HAvpV1GeMgRb2hmaDdcF6L">
           <date when="2016-03-01"/>
+          <time when="22:46:53" dur="PT259S"/>
         </correspAction>
         <correspContext corresp="i-HFBa91swuKTEymfnu1r11j">
           <ref type="record" target="prot-201516--072">Protokoll 2015/16:72 Tisdagen den 1 mars</ref>

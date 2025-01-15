@@ -25,37 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-LmthhHLPxzMMpEiXSys13u</idno>
-            <persName>Ulrika Karlsson i Uppsala</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Statsrådet Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
-            <persName>Statsrådet Ann Linde</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HYbURAzNUTvqh65pcPmmZx</idno>
             <persName>Ann Linde</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LmthhHLPxzMMpEiXSys13u</idno>
             <persName>Ulrika Karlsson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -71,12 +50,9 @@
         <correspAction type="received" xml:id="i-n85JjgkeC7ytgzDZEoYCV" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2017-12-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NTWRXatMcPsEyQ8VrTpkNy">
-          <date when="2018-01-16"/>
-          <time when="18:37:16" dur="PT297S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-75oUNqpgqx9DFfwwyrZwx6" corresp="i-HYbURAzNUTvqh65pcPmmZx">
           <date when="2018-01-16"/>
+          <time when="18:37:16" dur="PT297S"/>
         </correspAction>
         <correspContext corresp="i-NTWRXatMcPsEyQ8VrTpkNy">
           <ref type="record" target="prot-201718--055">Protokoll 2017/18:55 Tisdagen den 16 januari</ref>

@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
-            <persName>Energi- och näringsminister Ebba Busch</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HaBKPQ5yfZK6LYjmYU1tZy</idno>
             <persName>Aida Birinxhiku</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
+            <persName>Åsa Eriksson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UgG6CqxVABxx5Hq9mpcZ8M</idno>
             <persName>Ebba Busch</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
-            <persName>Åsa Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-Peg3SiYAspKBuCezWhJ2mv" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-05-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-9wywVRebqyBbgurjCE5ZTo">
-          <date when="2023-06-21"/>
-          <time when="13:27:32" dur="PT180S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UJNnx7qN2JKpcwdXWZxuXb" corresp="i-UgG6CqxVABxx5Hq9mpcZ8M">
           <date when="2023-06-21"/>
+          <time when="13:27:32" dur="PT180S"/>
         </correspAction>
         <correspContext corresp="i-9wywVRebqyBbgurjCE5ZTo">
           <ref type="record" target="prot-202223--129">Protokoll 2022/23:129 Onsdagen den 21 juni</ref>

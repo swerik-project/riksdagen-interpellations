@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
-            <persName>Justitieminister Gunnar Strömmer</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-AcrNjdftfgEDKtVYDbE4tQ</idno>
             <persName>Gudrun Nordborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>V</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Rnfnn4obDpnaqUDNA9Y8Fu</idno>
             <persName>Gunnar Strömmer</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-JiSF5BHGz99MmnnUJHaaiR" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-01-13"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-3fY5R9E9TQSoWYyhQtX9Va">
-          <date when="2023-02-07"/>
-          <time when="14:46:37" dur="PT207S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BV2HtasdFDrERZ69tpdv52" corresp="i-Rnfnn4obDpnaqUDNA9Y8Fu">
           <date when="2023-02-07"/>
+          <time when="14:46:37" dur="PT207S"/>
         </correspAction>
         <correspContext corresp="i-3fY5R9E9TQSoWYyhQtX9Va">
           <ref type="record" target="prot-202223--058">Protokoll 2022/23:58 Tisdagen den 7 februari</ref>

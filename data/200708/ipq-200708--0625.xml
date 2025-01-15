@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
-            <persName>Carina Hägg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
             <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-Rtt4vV6Vr1WnfJAi2Dn9hN</idno>
-            <persName>Nyamko Sabuni (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
-            <persName>Carina Hägg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Hägg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-T55w4KARZyEr3MynNGBbwq" corresp="i-8Nio1rUw3hSjL6pvCGw22Y">
           <date when="2008-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-U9temLumtay2ZPbtA2njYU">
-          <date when="2008-04-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-Btkq3kwRjZjLZ8PkQZxsEG" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-04-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YNJ3Va7A7o49gcugUEUjmA">
-          <date when="2008-05-09"/>
-          <time when="15:31:33" dur="PT193S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5fNyNdhFUYf4CSa8jPnRtB" corresp="i-Rtt4vV6Vr1WnfJAi2Dn9hN">
           <date when="2008-05-09"/>
+          <time when="15:31:33" dur="PT193S"/>
         </correspAction>
         <correspContext corresp="i-YNJ3Va7A7o49gcugUEUjmA">
           <ref type="record" target="prot-200708--108">Riksdagens protokoll 2007/08:108 Fredagen den 9 maj</ref>

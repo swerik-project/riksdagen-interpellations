@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-6ceKG6oPX1kT6SHqK6JSnq</idno>
             <persName>Clara Aranda</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-XtLw3Ac2ByDzdyxiqCRasT" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2020-12-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-ERsTL1YW1J9ZFrv8XidwYj">
-          <date when="2021-01-14"/>
-          <time when="13:07:02" dur="PT262S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WRDVznhai6p5a8XatUUnAp">
           <date when="2021-01-14"/>
+          <time when="13:07:02" dur="PT262S"/>
         </correspAction>
         <correspContext corresp="i-ERsTL1YW1J9ZFrv8XidwYj">
           <ref type="record" target="prot-202021--064">Protokoll 2020/21:64 Torsdagen den 14 januari</ref>

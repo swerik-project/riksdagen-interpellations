@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-53KY3J6rUMztHFT2HWMr3x</idno>
             <persName>Elisabeth Björnsdotter Rahm</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
-            <persName>Socialminister Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-6PaM7fELFz3CC7F1aL3Lz8" corresp="i-HxcQkHC9fDSzkJWgvdhDEF">
           <date when="2019-02-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-35Uv8n6gRp4Tror3Tf2uJD">
-          <date when="2019-03-05"/>
-          <time when="14:17:57" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UsjQYXcuQRQZBsWruN3vNJ">
           <date when="2019-03-05"/>
+          <time when="14:17:57" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-35Uv8n6gRp4Tror3Tf2uJD">
           <ref type="record" target="prot-201819--059">Protokoll 2018/19:59 Tisdagen den 5 mars</ref>

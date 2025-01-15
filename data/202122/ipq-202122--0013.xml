@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-8LDEcfmJoNdnZMCPvSjiNu</idno>
             <persName>Lars Beckman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-H5adqkd1GxXFzroXZN7LCf</idno>
-            <persName>Statsrådet Lena Micko</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-H5adqkd1GxXFzroXZN7LCf</idno>
             <persName>Lena Micko</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-FMKymMg5h7YTwwGYdtjaMX" corresp="i-H5adqkd1GxXFzroXZN7LCf">
           <date when="2021-09-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-A7npixLaPpw26GqQ1EBwgf">
-          <date when="2021-09-30"/>
-          <time when="12:51:19" dur="PT144S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-9iR6Qwk3VRUKiAqiqunfAv">
           <date when="2021-09-30"/>
+          <time when="12:51:19" dur="PT144S"/>
         </correspAction>
         <correspContext corresp="i-A7npixLaPpw26GqQ1EBwgf">
           <ref type="record" target="prot-202122--013">Protokoll 2021/22:13 Torsdagen den 30 september</ref>

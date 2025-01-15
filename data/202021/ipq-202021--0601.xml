@@ -27,21 +27,14 @@
           <person gender="man">
             <idno>i-Xca6vWGc3RHnpoDiuPxcDv</idno>
             <persName>Jörgen Berglund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
-            <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Anders Ygeman</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-JVJE9GtWqhfXryH3LkJPnN" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2021-03-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UD2aDnjHyeATnKkd9EDqTN">
-          <date when="2021-04-09"/>
-          <time when="12:32:32" dur="PT68S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SpmcknifUeVNmDaV3ZGK28">
           <date when="2021-04-09"/>
+          <time when="12:32:32" dur="PT68S"/>
         </correspAction>
         <correspContext corresp="i-UD2aDnjHyeATnKkd9EDqTN">
           <ref type="record" target="prot-202021--105">Protokoll 2020/21:105 Fredagen den 9 april</ref>

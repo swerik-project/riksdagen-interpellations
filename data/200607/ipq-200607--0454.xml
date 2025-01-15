@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
-            <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-8AtQfc4p9Hm5yajEXEHtE5</idno>
             <persName>Thomas Strand (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
+            <persName>Peter Hultqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-7M3chA29942RTs4aERbUoG" corresp="i-KTYc2rBrcxPNyJRR5s4dQD">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-xMABuUqzmCUFpcBPxiAoq">
-          <date when="2007-03-30"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-D4ce1Nimd5wMoBP3KUw3HV" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-03-30"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-TkDpefSMNxdDtc5sfJy7SN">
-          <date when="2007-04-17"/>
-          <time when="14:54:21" dur="PT209S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-J5QzwXH4mhxLdP22adYv2H" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2007-04-17"/>
+          <time when="14:54:21" dur="PT209S"/>
         </correspAction>
         <correspContext corresp="i-TkDpefSMNxdDtc5sfJy7SN">
           <ref type="record" target="prot-200607--092">Riksdagens protokoll 2006/07:92 Tisdagen den 17 april</ref>

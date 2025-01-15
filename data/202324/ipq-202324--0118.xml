@@ -27,64 +27,57 @@
           <person gender="man">
             <idno>i-bRyJHEKb5DCkicXkuZwMY</idno>
             <persName>Statsminister Ulf Kristersson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Arbetsmarknads- och integrationsminister Johan Pehrson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-655Uw3q6yNE6R2nN2pDvUg</idno>
             <persName>Åsa Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
-            <persName>Johan Pehrson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>L</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PjV5Vqo4cAe2QPui6MKgGm</idno>
             <persName>Nima Gholam Ali Pour</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-MfRf34x3k6xLdpPgFSUfMs</idno>
             <persName>Anna Wallentheim</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-5NG8haprnyzzwKpK9HjwGZ</idno>
             <persName>Lawen Redar</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-LWXeJPQ2MpxrTu8AJ6h5JK</idno>
             <persName>Sofia Amloh</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-DUpfpChzMCLm8BKUvCnw3T</idno>
             <persName>Teresa Carvalho</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-PyYxwdbw2KYpXyCWKWHmmT</idno>
+            <persName>Johan Pehrson</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>L</desc>
             </state>
           </person>
         </listPerson>
@@ -99,12 +92,9 @@
         <correspAction type="received" xml:id="i-R8vm8w52h7xayY6eh2hoJj" corresp="i-bRyJHEKb5DCkicXkuZwMY">
           <date when="2023-10-24"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WZAvY9GRZDRZBVBf3kSygG">
-          <date when="2023-11-21"/>
-          <time when="15:01:39" dur="PT127S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-TTyV4PkRKXQrhuCpscwPtC" corresp="i-PyYxwdbw2KYpXyCWKWHmmT">
           <date when="2023-11-21"/>
+          <time when="15:01:39" dur="PT127S"/>
         </correspAction>
         <correspContext corresp="i-WZAvY9GRZDRZBVBf3kSygG">
           <ref type="record" target="prot-202324--033">Protokoll 2023/24:33 Tisdagen den 21 november</ref>

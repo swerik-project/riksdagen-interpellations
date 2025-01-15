@@ -27,43 +27,36 @@
           <person gender="woman">
             <idno>i-BNPcdNmACXycfvLR8wqbHp</idno>
             <persName>Ann-Charlotte Hammar Johnsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Näringsminister Ibrahim Baylan</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
-            <persName>Ibrahim Baylan</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-PtgVSQS6zzFSG7jQDufZYA</idno>
             <persName>Tobias Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-7vhvYfdv3H73d44FMgW7sh</idno>
             <persName>Malin Höglund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Ch6N1ddXaHhYxZN72JKZAS</idno>
             <persName>Alexandra Anstrell</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-A6T9WoUzRwW8LUK52znHwX</idno>
+            <persName>Ibrahim Baylan</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +71,9 @@
         <correspAction type="received" xml:id="i-GKQq7vMgEvzREq6yWStTfb" corresp="i-A6T9WoUzRwW8LUK52znHwX">
           <date when="2021-01-21"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WJr12cULvgY5f49RfgDFVU">
-          <date when="2021-01-29"/>
-          <time when="10:28:48" dur="PT214S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-VQUBGCGXkAiuDg2Jh3u3y2">
           <date when="2021-01-29"/>
+          <time when="10:28:48" dur="PT214S"/>
         </correspAction>
         <correspAction xml:id="i-Qz4bwnpktmE9YKrnGVevvM" type="discussed" corresp="i-PtgVSQS6zzFSG7jQDufZYA">
           <date when="2021-01-29"/>

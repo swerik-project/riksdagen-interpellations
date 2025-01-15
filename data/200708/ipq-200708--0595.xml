@@ -23,45 +23,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
-            <persName>Lars Johansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-Ev6Dx3pWj2WT32VGQpabaz</idno>
             <persName>Finn Bengtsson (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-EemRytGskeDvwKV2im64qt</idno>
+            <persName>Anders Borg</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-H5HJUuQkcmeBKzDKgSJFMx</idno>
+            <persName>Lars Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-C9uc7Abut97scJcVMWfZnW" corresp="i-H5HJUuQkcmeBKzDKgSJFMx">
           <date when="2008-04-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7TVUpaHaafPjAnLrueB73m">
-          <date when="2008-04-17"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-8v1nj5CSwxFJH2GSUVYwyq" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-04-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-YPwzKLAkgouuPYTr2NPSv1">
-          <date when="2008-05-06"/>
-          <time when="18:54:42" dur="PT203S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-BkvBxnsSZha2rPEioy5UTH" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2008-05-06"/>
+          <time when="18:54:42" dur="PT203S"/>
         </correspAction>
         <correspContext corresp="i-YPwzKLAkgouuPYTr2NPSv1">
           <ref type="record" target="prot-200708--105">Riksdagens protokoll 2007/08:105 Tisdagen den 6 maj</ref>

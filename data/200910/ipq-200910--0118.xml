@@ -23,52 +23,31 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
-            <persName>Beatrice Ask (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
-            <persName>Monica Green (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-BNs9NctwwvjUQnQxyESNVd</idno>
             <persName>Eva Sonidsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-XcAqMe3ntVBboWUxqACfz</idno>
             <persName>Gunnar Andrén (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110857">
               <desc>Fp</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
+            <persName>Beatrice Ask</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
+            <persName>Monica Green</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-4wQYKXkKK6aZaYAPLfezjh" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UZCbTwTjtj3XF79B5iPezz">
-          <date when="2009-11-18"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5Q4E3SLPcwpojxGgbk8jdK" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-M7iG2RqeUccHwNX6FiRf7d">
-          <date when="2009-12-04"/>
-          <time when="09:00:56" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-EKqYw65MCyaBZ1Sc8yMTxg" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="2009-12-04"/>
+          <time when="09:00:56" dur="PT165S"/>
         </correspAction>
         <correspContext corresp="i-M7iG2RqeUccHwNX6FiRf7d">
           <ref type="record" target="prot-200910--043">Riksdagens protokoll 2009/10:43 Fredagen den 4 december</ref>

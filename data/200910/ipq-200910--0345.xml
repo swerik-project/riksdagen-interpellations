@@ -23,58 +23,37 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-KAgkDWA5iGbn9XFLkj9FoB</idno>
-            <persName>Alf Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KAgkDWA5iGbn9XFLkj9FoB</idno>
-            <persName>Alf Eriksson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-2Bind9dyirGQ1UMwS9XjsT</idno>
             <persName>Lennart Axelsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-122QwSSpyGJQiTJjmrUJCM</idno>
             <persName>Krister Örnfjäder (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-FL3Tee8NjTSCkq4XGmHcyw</idno>
             <persName>Carina Adolfsson Elgesta (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KAgkDWA5iGbn9XFLkj9FoB</idno>
+            <persName>Alf Eriksson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -84,18 +63,12 @@
         <correspAction type="sent" xml:id="i-3sUPBjbW9TE1Vty2agcxru" corresp="i-KAgkDWA5iGbn9XFLkj9FoB">
           <date when="2010-04-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8r3PHSyrpWH1dieDcSWxAd">
-          <date when="2010-04-28"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WvMffCe5efCvEzuZcHAHVL" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-04-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-J3SoucRgjn7ZY7BMFr1z9Q">
-          <date when="2010-05-18"/>
-          <time when="13:21:47" dur="PT241S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RSPSFLbTib1mwJjbh2HfPi" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2010-05-18"/>
+          <time when="13:21:47" dur="PT241S"/>
         </correspAction>
         <correspContext corresp="i-J3SoucRgjn7ZY7BMFr1z9Q">
           <ref type="record" target="prot-200910--120">Riksdagens protokoll 2009/10:120 Tisdagen den 18 maj</ref>

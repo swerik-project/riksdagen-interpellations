@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Westerberg (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-D74cdq6EQpWG5dWigfnSSw</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikations­ministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-JNiNUsPZjKBbYmABPfmcVz" corresp="i-D74cdq6EQpWG5dWigfnSSw">
           <date when="1997-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-B4q41xNd3xQ6f4PmU6R2xH">
+        <correspAction type="received" xml:id="i-B4q41xNd3xQ6f4PmU6R2xH" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikations­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YWZKiuyX3TdxaYnJcNyTqo">
           <note>Besvarad</note>

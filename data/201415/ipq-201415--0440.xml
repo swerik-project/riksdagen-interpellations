@@ -27,21 +27,21 @@
           <person gender="man">
             <idno>i-J6HemNwzcYVLs5m9EZ9Tmt</idno>
             <persName>Hans Rothenberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-NW2TEoH8XmW9aSn2aKJ8EA</idno>
             <persName>Statsrådet Anders Ygeman</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-UPW2cbGnTUbMZaKTrot5Bh</idno>
             <persName>Morgan Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +57,9 @@
         <correspAction type="received" xml:id="i-U2bS9z3k4LABZFTPmcC9Aq" corresp="i-NW2TEoH8XmW9aSn2aKJ8EA">
           <date when="2015-03-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-UDi3xDqF3NoNTTKDhBEM8R">
-          <date when="2015-04-10"/>
-          <time when="10:50:21" dur="PT67S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-MoyCKNkPkuhYMHme3mW6Pe">
           <date when="2015-04-10"/>
+          <time when="10:50:21" dur="PT67S"/>
         </correspAction>
         <correspContext corresp="i-UDi3xDqF3NoNTTKDhBEM8R">
           <ref type="record" target="prot-201415--084">Protokoll 2014/15:84 Fredagen den 10 april</ref>

@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
-            <persName>Kulturminister Jeanette Gustafsdotter</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-BfmJ8hLMzGF9XMcc4M8Bfa</idno>
             <persName>Cassandra Sundin</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-EDao2Bn1aKSyrw9vFDbxpE</idno>
             <persName>Jeanette Gustafsdotter</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-6pz5tSsXBak31CbzLWUJPp" corresp="i-EDao2Bn1aKSyrw9vFDbxpE">
           <date when="2021-12-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-AB12nd94vDSLwsiSmFdTva">
-          <date when="2021-12-10"/>
-          <time when="10:10:09" dur="PT324S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Srfr99sCPFb7GGGS7k9S1J">
           <date when="2021-12-10"/>
+          <time when="10:10:09" dur="PT324S"/>
         </correspAction>
         <correspContext corresp="i-AB12nd94vDSLwsiSmFdTva">
           <ref type="record" target="prot-202122--043">Protokoll 2021/22:43 Fredagen den 10 december</ref>

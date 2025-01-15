@@ -24,31 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-NU3HPSXKRWGcdWfzmr5Vhd</idno>
             <persName>Åsa Coenraads</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-5XfsPo7yoEc5hLjNWLJN8o" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-04-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-WDYKnND8B5hU7arw6DfnR1">
-          <date when="2019-04-30"/>
-          <time when="11:23:51" dur="PT108S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-WCiDfRBNsmM7d72wN6nCSz" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2019-04-30"/>
+          <time when="11:23:51" dur="PT108S"/>
         </correspAction>
         <correspContext corresp="i-WDYKnND8B5hU7arw6DfnR1">
           <ref type="record" target="prot-201819--083">Protokoll 2018/19:83 Tisdagen den 30 april</ref>

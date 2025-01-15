@@ -27,43 +27,29 @@
           <person gender="man">
             <idno>i-FSjCAqMWRPMvgHfG4VFk1P</idno>
             <persName>Leif Nysmed</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Statsrådet Andreas Carlson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
-            <persName>Andreas Carlson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>KD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-MeFCbDpKPnR5B8CQwp68xh</idno>
             <persName>Markus Kallifatides</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-V4PGuKUAKzYUXWKqj2bLeL</idno>
+            <persName>Andreas Carlson</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
             </state>
           </person>
         </listPerson>
@@ -78,12 +64,9 @@
         <correspAction type="received" xml:id="i-R2ygNzAfgLePVs5Ph1N1N6" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2024-02-22"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-We7ZeywAFq9cPrxgsbaUXS">
-          <date when="2024-03-08"/>
-          <time when="15:22:51" dur="PT92S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-R6e8jfXzLhwYmsMJCtmCrB" corresp="i-V4PGuKUAKzYUXWKqj2bLeL">
           <date when="2024-03-08"/>
+          <time when="15:22:51" dur="PT92S"/>
         </correspAction>
         <correspContext corresp="i-We7ZeywAFq9cPrxgsbaUXS">
           <ref type="record" target="prot-202324--082">Protokoll 2023/24:82 Fredagen den 8 mars</ref>

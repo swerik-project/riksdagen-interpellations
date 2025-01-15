@@ -27,35 +27,21 @@
           <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+          <person gender="man">
+            <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
+            <persName>Leif Pettersson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
             <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-SvS8rTwUeKpVtp5mrPNCaP</idno>
-            <persName>Leif Pettersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-C4LXuqzyEnxbKXdH3KJoA" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2016-02-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-2rSDx5hcci4mQ5AJrdzvJq">
-          <date when="2016-03-01"/>
-          <time when="21:42:25" dur="PT138S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4CdZiiKXGfQbxy4t9BUv2o" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2016-03-01"/>
+          <time when="21:42:25" dur="PT138S"/>
         </correspAction>
         <correspContext corresp="i-2rSDx5hcci4mQ5AJrdzvJq">
           <ref type="record" target="prot-201516--072">Protokoll 2015/16:72 Tisdagen den 1 mars</ref>

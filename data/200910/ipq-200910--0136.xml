@@ -23,44 +23,23 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
-            <persName>Göran Hägglund (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
-            <persName>Veronica Palm (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HA8qZKZU3je8nF69VtPrqk</idno>
             <persName>Eva-Lena Jansson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8BTYtQ95yRpC5syyC4aHoY</idno>
+            <persName>Göran Hägglund</persName>
+            <state type="partyAffiliation" ref="Q213654">
+              <desc>KD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-DXYijt8wprzTgm7zCTJYc3</idno>
+            <persName>Veronica Palm</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-9uXsNHKn2pVp41vL34UX41" corresp="i-DXYijt8wprzTgm7zCTJYc3">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Q1aGL1kHLAxUAda2ynGAYS">
-          <date when="2009-11-25"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-VTzaPWVYPMxSecLUyKUo4f" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-11-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8bYEbr5Tuu2k7Wi1QfRBxw">
-          <date when="2009-12-21"/>
-          <time when="13:49:07" dur="PT367S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HvEqnkhJpWfB9cAFeatX4F" corresp="i-8BTYtQ95yRpC5syyC4aHoY">
           <date when="2009-12-21"/>
+          <time when="13:49:07" dur="PT367S"/>
         </correspAction>
         <correspContext corresp="i-8bYEbr5Tuu2k7Wi1QfRBxw">
           <ref type="record" target="prot-200910--055">Riksdagens protokoll 2009/10:55 Måndagen den 21 december</ref>

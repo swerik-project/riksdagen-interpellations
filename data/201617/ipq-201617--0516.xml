@@ -25,38 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
-            <persName>Arbetsmarknads- och etableringsminister Ylva Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-5BpKZwq8Nrrge7Ep1aDZB9</idno>
             <persName>Lotta Finstorp</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
+            <persName>Niklas Wykman</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-SZKUTdtCrCo58yNCQsH76</idno>
             <persName>Ylva Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-26JwMpJPh7ufEnA9hhtP9j</idno>
-            <persName>Niklas Wykman</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-PfDGQMk6bw8Xn8fsJcx479" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2017-05-12"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-LjKvVhRJ4Zv9HUbwF62LiV">
-          <date when="2017-06-02"/>
-          <time when="09:00:57" dur="PT192S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CA2GtSBT6tiqNv99m4JRYV" corresp="i-SZKUTdtCrCo58yNCQsH76">
           <date when="2017-06-02"/>
+          <time when="09:00:57" dur="PT192S"/>
         </correspAction>
         <correspAction xml:id="i-3FSUVsM5cCYhbiwHYSENgG" type="discussed" corresp="i-26JwMpJPh7ufEnA9hhtP9j">
           <date when="2017-06-02"/>

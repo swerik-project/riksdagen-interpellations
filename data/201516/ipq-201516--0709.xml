@@ -25,23 +25,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
-            <persName>Statsrådet Peter Eriksson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>MP</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-4up3MKHRwxhpoLfZgub9Fu</idno>
             <persName>Roger Hedlund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
             <persName>Peter Eriksson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>MP</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-DJ6qXoA7qWPhd9jjqh4Yfm" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="2016-06-10"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Ls8gYGvCqFUSD4c4dcKuya">
-          <date when="2016-06-17"/>
-          <time when="15:56:23" dur="PT177S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Xv3jyK5sLjpKbpNs7FH6YE">
           <date when="2016-06-17"/>
+          <time when="15:56:23" dur="PT177S"/>
         </correspAction>
         <correspContext corresp="i-Ls8gYGvCqFUSD4c4dcKuya">
           <ref type="record" target="prot-201516--122">Protokoll 2015/16:122 Fredagen den 17 juni</ref>

@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-MDmz3BZyW3T2P9Tp6bvsBM</idno>
             <persName>John Widegren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Statsrådet Sven-Erik Bucht</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
-            <persName>Sven-Erik Bucht</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-NU3HPSXKRWGcdWfzmr5Vhd</idno>
             <persName>Åsa Coenraads</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-6DUjgAy3EMiPSCDgTnkpXL</idno>
+            <persName>Sven-Erik Bucht</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-CQ4iBC8DhCBsdELPM2U98X" corresp="i-6DUjgAy3EMiPSCDgTnkpXL">
           <date when="2017-10-26"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-CXcTurv4ABtcaQNFWudPs4">
-          <date when="2017-11-07"/>
-          <time when="15:28:19" dur="PT162S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-4MhE5wPzLNcrk47G4VmesZ">
           <date when="2017-11-07"/>
+          <time when="15:28:19" dur="PT162S"/>
         </correspAction>
         <correspContext corresp="i-CXcTurv4ABtcaQNFWudPs4">
           <ref type="record" target="prot-201718--026">Protokoll 2017/18:26 Tisdagen den 7 november</ref>

@@ -27,28 +27,14 @@
           <person gender="man">
             <idno>i-5QsM75VvzYYRCpVjV6ax78</idno>
             <persName>Patrik Jönsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
-            <persName>Infrastrukturminister Tomas Eneroth</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-G8564CqEnhC5PBjZSwUxsE</idno>
             <persName>Tomas Eneroth</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +50,9 @@
         <correspAction type="received" xml:id="i-ThbHm11S2FpzznQWExGVN1" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2020-12-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NuYuR3QmS5LZcfq7g4Erdp">
-          <date when="2021-01-19"/>
-          <time when="13:01:07" dur="PT84S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-5URanfuQMuRj5DdfkiPbKX" corresp="i-G8564CqEnhC5PBjZSwUxsE">
           <date when="2021-01-19"/>
+          <time when="13:01:07" dur="PT84S"/>
         </correspAction>
         <correspContext corresp="i-NuYuR3QmS5LZcfq7g4Erdp">
           <ref type="record" target="prot-202021--066">Protokoll 2020/21:66 Tisdagen den 19 januari</ref>

@@ -24,38 +24,24 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Statsrådet Anna Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-KGa34znP4SNkFTbwiVao8N</idno>
             <persName>Erik Ottoson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
-            <persName>Anna Johansson</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-V94NXHxQRsQu6mMDHyZAxs</idno>
             <persName>Teres Lindberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-KCD2VhpJdc1azCNdSgfLQp</idno>
+            <persName>Anna Johansson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -71,12 +57,9 @@
         <correspAction type="received" xml:id="i-65qB3mJrTWgTGwtHFFLs9C" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2015-04-07"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-FMwhdnjWSLVuqcAyuRX3JY">
-          <date when="2015-04-24"/>
-          <time when="10:11:09" dur="PT75S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DP5328TKAsYDXeXgVQKAzw" corresp="i-KCD2VhpJdc1azCNdSgfLQp">
           <date when="2015-04-24"/>
+          <time when="10:11:09" dur="PT75S"/>
         </correspAction>
         <correspAction xml:id="i-L5GLE5nESUzN3DchWqbus5" type="discussed" corresp="i-KGa34znP4SNkFTbwiVao8N">
           <date when="2015-04-24"/>

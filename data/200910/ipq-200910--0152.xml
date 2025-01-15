@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-Uxe3rhosBnSZpqJX5d7gpy</idno>
-            <persName>Carina Ohlsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
             <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-SKjAmNScZ7eZ3a8Xy1J8hs</idno>
-            <persName>Maria Larsson (Kd)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Kd</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-Uxe3rhosBnSZpqJX5d7gpy</idno>
-            <persName>Carina Ohlsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Carina Ohlsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-BL8YLm5BVxmDtqWaw88ybF" corresp="i-Uxe3rhosBnSZpqJX5d7gpy">
           <date when="2009-12-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WBdJ29j7fTWuRBgsnWyyDy">
-          <date when="2009-12-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WyqbmTiPPjKLGsBBdcJJz7" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-12-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-8mLk9XuoBrHzFfgThRj2By">
-          <date when="2009-12-15"/>
-          <time when="18:12:11" dur="PT393S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Tzy5E9PNepnSdpSNEWmCQf" corresp="i-SKjAmNScZ7eZ3a8Xy1J8hs">
           <date when="2009-12-15"/>
+          <time when="18:12:11" dur="PT393S"/>
         </correspAction>
         <correspContext corresp="i-8mLk9XuoBrHzFfgThRj2By">
           <ref type="record" target="prot-200910--050">Riksdagens protokoll 2009/10:50 Tisdagen den 15 december</ref>

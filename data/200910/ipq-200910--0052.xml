@@ -22,46 +22,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="man">
-            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
-            <persName>Aleksander Gabelic</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Tobias Billström (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
-            <persName>Aleksander Gabelic (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="woman">
             <idno>i-34FRvyXQKUigF3Qr9AwKJe</idno>
             <persName>Bodil Ceballos (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
+            <persName>Tobias Billström</persName>
+            <state type="partyAffiliation" ref="Q110843">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-82JYkSfoXnEHz2Cm1hUTA2</idno>
+            <persName>Aleksander Gabelic</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -70,18 +49,12 @@
         <correspAction type="sent" xml:id="i-J3Njc7nW8FAHECfbBmdZyY" corresp="i-82JYkSfoXnEHz2Cm1hUTA2">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HEijQbtoNZvGpbMGrC1JvH">
-          <date when="2009-10-23"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-WjXHHe67xVSbUT6eofGhUf" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-10-23"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-PdsVc3AMUtShC6RH6pM4Wr">
-          <date when="2009-11-10"/>
-          <time when="18:29:24" dur="PT213S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GvC8gkSb6VTziPdGAbbKSH" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2009-11-10"/>
+          <time when="18:29:24" dur="PT213S"/>
         </correspAction>
         <correspContext corresp="i-PdsVc3AMUtShC6RH6pM4Wr">
           <ref type="record" target="prot-200910--026">Riksdagens protokoll 2009/10:26 Tisdagen den 10 november</ref>

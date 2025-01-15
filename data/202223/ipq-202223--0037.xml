@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-HMEQZGcMqKo8y9F6jxfnev</idno>
             <persName>Alireza Akhondi</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-E25SjiKakKHVe6mbHVtKjb</idno>
             <persName>Kulturminister Parisa Liljestrand</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TodycJLEopZCV6uNkQANDV</idno>
-            <persName>Socialminister Jakob Forssmed</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>KD</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-TodycJLEopZCV6uNkQANDV</idno>
             <persName>Jakob Forssmed</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213654">
               <desc>KD</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-QHvkH19ns9eemxcE9YZ6hv" corresp="i-E25SjiKakKHVe6mbHVtKjb">
           <date when="2022-11-18"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-S91tvQohUMrc15MtRNpdbz">
-          <date when="2022-12-06"/>
-          <time when="15:31:52" dur="PT88S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-GLK4Jf1K6b2mG2s4e6JRs9" corresp="i-TodycJLEopZCV6uNkQANDV">
           <date when="2022-12-06"/>
+          <time when="15:31:52" dur="PT88S"/>
         </correspAction>
         <correspContext corresp="i-S91tvQohUMrc15MtRNpdbz">
           <ref type="record" target="prot-202223--032">Protokoll 2022/23:32 Tisdagen den 6 december</ref>

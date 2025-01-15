@@ -27,29 +27,22 @@
           <person gender="man">
             <idno>i-63whZFxsr3MAneyb8u5Db3</idno>
             <persName>Magnus Persson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q504069" type="partyAffiliation">
               <desc>SD</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Arbetsmarknads- och jämställdhetsminister Eva Nordmark</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
-            <persName>Eva Nordmark</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-TXWjMfPNdu6NddKf5hSeRx</idno>
             <persName>Alexander Christiansson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q504069">
               <desc>SD</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-PeMj54xpJ7ARDpgP8iEYQ9</idno>
+            <persName>Eva Nordmark</persName>
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-55KtxzVdF58jLzRrf5MjAY" corresp="i-PeMj54xpJ7ARDpgP8iEYQ9">
           <date when="2022-02-03"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-GviLYS2gnmyJjv2e91u686">
-          <date when="2022-02-22"/>
-          <time when="15:27:39" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Psz5eu3urqRn3cd7WMXoAV">
           <date when="2022-02-22"/>
+          <time when="15:27:39" dur="PT165S"/>
         </correspAction>
         <correspContext corresp="i-GviLYS2gnmyJjv2e91u686">
           <ref type="record" target="prot-202122--070">Protokoll 2021/22:70 Tisdagen den 22 februari</ref>

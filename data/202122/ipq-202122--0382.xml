@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
-            <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-56GdsFT6s6AKjKP51Hrmn5</idno>
             <persName>Kjell Jansson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
+              <desc>M</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-7bVDjZpV72vdnYhJ8phHuW</idno>
+            <persName>Louise Meijer</persName>
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Mikael Damberg</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-7bVDjZpV72vdnYhJ8phHuW</idno>
-            <persName>Louise Meijer</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>M</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-SXxXvcztxTgTH9EVgyyUUV" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-02-28"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Lh5X3tCHLeYjTvrs4WtRZL">
-          <date when="2022-03-18"/>
-          <time when="10:36:04" dur="PT165S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-UTvkcTjL1AxrRR8M66Rbot">
           <date when="2022-03-18"/>
+          <time when="10:36:04" dur="PT165S"/>
         </correspAction>
         <correspContext corresp="i-Lh5X3tCHLeYjTvrs4WtRZL">
           <ref type="record" target="prot-202122--084">Protokoll 2021/22:84 Fredagen den 18 mars</ref>

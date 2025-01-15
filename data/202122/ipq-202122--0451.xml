@@ -27,28 +27,21 @@
           <person gender="man">
             <idno>i-Spsbo7A5zikEeUY3JEYcNV</idno>
             <persName>Finansminister Mikael Damberg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-4K631U2FyQthafuME3cNGX</idno>
             <persName>Janine Alm Ericson</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>MP</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
-            <persName>Statsrådet Matilda Ernkrans</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-PMx51X9QbaLUMtQNq6sVfz</idno>
             <persName>Matilda Ernkrans</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-Eiapro7Qq3qVjMYwV6ZJGA" corresp="i-Spsbo7A5zikEeUY3JEYcNV">
           <date when="2022-04-19"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-JL2o6UhvhD5KpUxksZo2vE">
-          <date when="2022-05-13"/>
-          <time when="09:26:12" dur="PT268S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-JX3pz4wkpPEderS79VmBeD" corresp="i-PMx51X9QbaLUMtQNq6sVfz">
           <date when="2022-05-13"/>
+          <time when="09:26:12" dur="PT268S"/>
         </correspAction>
         <correspContext corresp="i-JL2o6UhvhD5KpUxksZo2vE">
           <ref type="record" target="prot-202122--113">Protokoll 2021/22:113 Fredagen den 13 maj</ref>

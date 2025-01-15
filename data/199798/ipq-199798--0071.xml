@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla Löfgren (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-YEdxJPN8cJMwnqfd9tHmTD</idno>
           </person>
           <person gender="man">
-            <persName>inrikesministern</persName>
+            <persName>Jörgen Andersson</persName>
             <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-KpUJFPHwKz3xZb6BJuukG4" corresp="i-YEdxJPN8cJMwnqfd9tHmTD">
           <date when="1997-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-K5dd7mZphxWuAhqZU7DLKX">
+        <correspAction type="received" xml:id="i-K5dd7mZphxWuAhqZU7DLKX" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-2NuuszTKy1oMsPyANtvV6d">
           <note>Besvarad</note>

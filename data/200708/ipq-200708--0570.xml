@@ -22,52 +22,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-3pb3B2MkmEoxSvMpXK9cHQ</idno>
-            <persName>Marie Granlund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
             <persName>Lars Leijonborg</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>FP</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
-            <persName>Jan Björklund (Fp)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>Fp</desc>
-            </state>
-          </person>
-          <person gender="woman">
-            <idno>i-3pb3B2MkmEoxSvMpXK9cHQ</idno>
-            <persName>Marie Granlund (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-2GE534P2Foy3WpqKPVNeW8</idno>
             <persName>Mats Pertoft (Mp)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q213451">
               <desc>Mp</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KTYc2rBrcxPNyJRR5s4dQD</idno>
             <persName>Peter Hultqvist (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-AvFShRZVEyBV61S19AKNGK</idno>
+            <persName>Jan Björklund</persName>
+            <state type="partyAffiliation" ref="Q110857">
+              <desc>FP</desc>
+            </state>
+          </person>
+          <person gender="woman">
+            <idno>i-3pb3B2MkmEoxSvMpXK9cHQ</idno>
+            <persName>Marie Granlund</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +63,12 @@
         <correspAction type="sent" xml:id="i-Uf8KD52DYpMzMgEXdk3nLj" corresp="i-3pb3B2MkmEoxSvMpXK9cHQ">
           <date when="2008-04-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-HY3r2u9MCLud9MxSh1prBG">
-          <date when="2008-04-08"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-EuC3hVNZp4rkZiHG1rE8KP" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
           <date when="2008-04-08"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NJPqd2pt65jTvvURtCaBAt">
-          <date when="2008-05-13"/>
-          <time when="19:30:32" dur="PT248S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-RQxLPzRMQyX1z65sQ6URjz" corresp="i-AvFShRZVEyBV61S19AKNGK">
           <date when="2008-05-13"/>
+          <time when="19:30:32" dur="PT248S"/>
         </correspAction>
         <correspContext corresp="i-NJPqd2pt65jTvvURtCaBAt">
           <ref type="record" target="prot-200708--110">Riksdagens protokoll 2007/08:110 Tisdagen den 13 maj</ref>

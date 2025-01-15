@@ -27,21 +27,14 @@
           <person gender="woman">
             <idno>i-H7qdW9GRQn7LaQ2UGGAvYC</idno>
             <persName>Kerstin Lundgren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>C</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
-            <persName>Utrikesminister Tobias Billström</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-KPGvtK4s6Zp3E6XH6vj18n</idno>
             <persName>Tobias Billström</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-CKTTXVTAhAF3wKWdu2ULQx" corresp="i-KPGvtK4s6Zp3E6XH6vj18n">
           <date when="2022-10-25"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-VbSd2yryUpyocEExbVAouj">
-          <date when="2022-11-08"/>
-          <time when="18:00:32" dur="PT184S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-DKqNd85zvGxAjxe6Nri2xg">
           <date when="2022-11-08"/>
+          <time when="18:00:32" dur="PT184S"/>
         </correspAction>
         <correspContext corresp="i-VbSd2yryUpyocEExbVAouj">
           <ref type="record" target="prot-202223--016">Protokoll 2022/23:16 Tisdagen den 8 november</ref>

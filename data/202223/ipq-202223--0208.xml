@@ -25,31 +25,24 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
-            <persName>Statsrådet Anna Tenje</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="woman">
             <idno>i-HxcQkHC9fDSzkJWgvdhDEF</idno>
             <persName>Lena Hallengren</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-36nyxqA7w17acL7s97ha3p</idno>
+            <persName>Mikael Dahlqvist</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-U4pHk2tFdyZvzTiVobxoV7</idno>
             <persName>Anna Tenje</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-36nyxqA7w17acL7s97ha3p</idno>
-            <persName>Mikael Dahlqvist</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
             </state>
           </person>
         </listPerson>
@@ -64,12 +57,9 @@
         <correspAction type="received" xml:id="i-79Pj9CXXbx235FqaEe3wzq" corresp="i-U4pHk2tFdyZvzTiVobxoV7">
           <date when="2023-02-17"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-64RotEPv84ZEtxExc16aqX">
-          <date when="2023-03-07"/>
-          <time when="18:52:30" dur="PT254S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-SapXdrftFvmMEUtjkMWfBE">
           <date when="2023-03-07"/>
+          <time when="18:52:30" dur="PT254S"/>
         </correspAction>
         <correspAction xml:id="i-JiWEtVPB9qm3isosCd9DU5" type="discussed" corresp="i-36nyxqA7w17acL7s97ha3p">
           <date when="2023-03-07"/>

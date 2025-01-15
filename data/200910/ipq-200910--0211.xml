@@ -23,51 +23,30 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
-            <persName>Gunnar Sandberg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
-            <persName>Gunnar Sandberg (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-KNqtzTyLq88RopWq6R35xs</idno>
             <persName>Ronny Olander (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-BNs9NctwwvjUQnQxyESNVd</idno>
             <persName>Eva Sonidsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
+              <desc>S</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
+            <persName>Eskil Erlandsson</persName>
+            <state type="partyAffiliation" ref="Q110832">
+              <desc>C</desc>
+            </state>
+          </person>
+          <person gender="man">
+            <idno>i-8gcKLg8FFeh9DR71R7zcMv</idno>
+            <persName>Gunnar Sandberg</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -77,18 +56,12 @@
         <correspAction type="sent" xml:id="i-Fs4nBSLoyPu8MRbLEBiek8" corresp="i-8gcKLg8FFeh9DR71R7zcMv">
           <date when="2010-02-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4yV4fripLVJVMTDvuWBdbk">
-          <date when="2010-02-02"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-5BsdAN1KrVfga7tKptnnwU" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-02-02"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-NkFmDMM5SKgJGfdqBqtAcY">
-          <date when="2010-02-16"/>
-          <time when="14:30:04" dur="PT276S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-CL4hMLuKoy14Q1BZxTHzrd" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-02-16"/>
+          <time when="14:30:04" dur="PT276S"/>
         </correspAction>
         <correspContext corresp="i-NkFmDMM5SKgJGfdqBqtAcY">
           <ref type="record" target="prot-200910--075">Riksdagens protokoll 2009/10:75 Tisdagen den 16 februari</ref>

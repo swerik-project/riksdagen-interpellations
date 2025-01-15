@@ -23,37 +23,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
             <idno>i-EemRytGskeDvwKV2im64qt</idno>
             <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>M</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-EemRytGskeDvwKV2im64qt</idno>
-            <persName>Anders Borg (M)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110843">
               <desc>M</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-HzSoQ1C7ZLGcuc11An72dD</idno>
-            <persName>Leif Jakobsson (S)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Leif Jakobsson</persName>
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -63,18 +42,12 @@
         <correspAction type="sent" xml:id="i-GVTq5QEYABbg3BP7cH9mW" corresp="i-HzSoQ1C7ZLGcuc11An72dD">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KKuY1M937Gm8H51fEGxWFY">
-          <date when="2010-05-20"/>
-        </correspAction>
         <correspAction type="received" xml:id="i-JicgMvtztgmbRQ89SARNjt" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-05-20"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jc3ZBMFzuRre2CQw6Edkxr">
-          <date when="2010-06-28"/>
-          <time when="15:08:05" dur="PT191S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-Wx7S2xKJ4vpzRVFdQPDwj9" corresp="i-EemRytGskeDvwKV2im64qt">
           <date when="2010-06-28"/>
+          <time when="15:08:05" dur="PT191S"/>
         </correspAction>
         <correspContext corresp="i-Jc3ZBMFzuRre2CQw6Edkxr">
           <ref type="record" target="prot-200910--144">Riksdagens protokoll 2009/10:144 Måndagen den 28 juni</ref>

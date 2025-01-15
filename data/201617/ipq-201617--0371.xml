@@ -24,24 +24,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
-            <persName>Finansminister Magdalena Andersson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-RVBRPDgYSffQso5SLJ9Cxr</idno>
             <persName>Larry Söder</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>KD</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-74hLepsvAgUMEvVVtBCGuc</idno>
             <persName>Magdalena Andersson</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -57,12 +50,9 @@
         <correspAction type="received" xml:id="i-SYAYTSmR3VHoRZahhb1jek" corresp="i-74hLepsvAgUMEvVVtBCGuc">
           <date when="2017-03-16"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-HeUccNWFD3LcTQYSsaMTPy">
-          <date when="2017-03-24"/>
-          <time when="09:23:14" dur="PT79S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-HKuiX7Pq3xcQwhZTmVezzU">
           <date when="2017-03-24"/>
+          <time when="09:23:14" dur="PT79S"/>
         </correspAction>
         <correspContext corresp="i-HeUccNWFD3LcTQYSsaMTPy">
           <ref type="record" target="prot-201617--086">Protokoll 2016/17:86 Fredagen den 24 mars</ref>

@@ -25,21 +25,14 @@
           <person gender="man">
             <idno>i-MVzhVeKwRGmjHjHoSrReg9</idno>
             <persName>Börje Vestlund</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>S</desc>
             </state>
           </person>
           <person gender="man">
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
             <persName>Leif Pagrotsky</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>S</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
-            <persName>Leif Pagrotsky</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state type="partyAffiliation" ref="Q105112">
               <desc>S</desc>
             </state>
           </person>
@@ -48,12 +41,6 @@
       <correspDesc>
         <correspAction type="sent" xml:id="i-T9dTVUz3RJnz1b9YaepQCg" corresp="i-MVzhVeKwRGmjHjHoSrReg9">
           <date when="2004-01-09"/>
-        </correspAction>
-        <correspAction type="received" xml:id="i-LXRbjdLJ3eRLjd7cWYAAZa">
-          <date when="2004-01-20"/>
-        </correspAction>
-        <correspAction type="answered" xml:id="i-RkGGPGbRxqkJ4b8gv5vMsq">
-          <date when="2004-01-27"/>
         </correspAction>
         <correspAction type="received" xml:id="i-4DEwWdhm93EStNLWUonpjR" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <date when="2004-01-20"/>

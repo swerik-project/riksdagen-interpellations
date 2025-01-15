@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Kerstin Warnerbring (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-CakSt71sHecUuCwQm5ALoP</idno>
           </person>
           <person gender="woman">
-            <persName>kommunika­tionsministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-RciqgUGnb5fTjGUDhA7bDZ" corresp="i-CakSt71sHecUuCwQm5ALoP">
           <date when="1996-10-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QKCa6hWxBTAkzCGbzmPg5S">
+        <correspAction type="received" xml:id="i-QKCa6hWxBTAkzCGbzmPg5S" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunika­tionsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-HPKhzPVM2tPLEJkSt7uEmw">
           <note>Besvarad</note>

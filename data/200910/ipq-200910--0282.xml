@@ -22,59 +22,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person gender="woman">
-            <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
-            <persName>Wiwi-Anne Johansson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>V</desc>
-            </state>
-          </person>
           <person gender="man">
             <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
             <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson</persName>
-            <state ref="unknown" type="partyAffiliation">
-              <desc>C</desc>
-            </state>
-          </person>
-          <person gender="man">
-            <idno>i-B471TcSCwHNHrNRk1EdJek</idno>
-            <persName>Eskil Erlandsson (C)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <state type="partyAffiliation" ref="Q110832">
               <desc>C</desc>
             </state>
           </person>
           <person gender="woman">
             <idno>i-UhKXyeGqJBzFW5wSyeoGMt</idno>
-            <persName>Wiwi-Anne Johansson (V)</persName>
-            <state type="partyAffiliation" ref="unknown">
+            <persName>Wiwi-Anne Johansson</persName>
+            <state type="partyAffiliation" ref="Q110837">
               <desc>V</desc>
             </state>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="received" xml:id="i-QFaxeCHtSjpp62MSCo1npZ">
-          <date when="2010-03-09"/>
-        </correspAction>
         <correspAction type="sent" xml:id="i-RBVmcXTiJ8gJiAZq74Jutn" corresp="i-UhKXyeGqJBzFW5wSyeoGMt">
           <date when="2010-03-05"/>
         </correspAction>
         <correspAction type="received" xml:id="i-Dkt36B1sUSTgvdWw7bc4j2" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-03-09"/>
         </correspAction>
-        <correspAction type="answered" xml:id="i-Jo89YnLaLKsJekqDkyjYfQ">
-          <date when="2010-03-16"/>
-          <time when="18:51:41" dur="PT370S"/>
-        </correspAction>
         <correspAction type="answered" xml:id="i-AU4GrS659tgXJVyPTDooV6" corresp="i-B471TcSCwHNHrNRk1EdJek">
           <date when="2010-03-16"/>
+          <time when="18:51:41" dur="PT370S"/>
         </correspAction>
         <correspContext corresp="i-Jo89YnLaLKsJekqDkyjYfQ">
           <ref type="record" target="prot-200910--088">Riksdagens protokoll 2009/10:88 Tisdagen den 16 mars</ref>
