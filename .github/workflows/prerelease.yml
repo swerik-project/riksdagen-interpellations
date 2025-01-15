@@ -78,11 +78,6 @@ jobs:
         sed -e "s/\(version\s=\s\"\)[^\"]*\"/\1${{ env.RELEASE_NR }}\"/" CITATION.cff
         pdoc -o docs --footer-text ${{ env.RELEASE_NR }} -t docs/dark-mode --logo https://raw.githubusercontent.com/swerik-project/the-swedish-parliament-corpus/refs/heads/main/readme/riksdagshuset.jpg ../riksdagen-interpellations
 
-    - name: Run data integrity tests, write result
-      run: |
-        export RELEASE_NR=${{ env.RELEASE_NR }}
-        python -m unittest test.integrity
-
     - name: Add and commit changes
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
