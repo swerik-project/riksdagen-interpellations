@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 Test quality of the preface.
+
+.. include docs/test_preface.md
 """
 from glob import glob
 from lxml import etree
@@ -21,6 +23,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_ttitleStmt_author(self):
+        """
+        Check there is an author element in the titleStatement
+        """
         ipqs = self._fetch_data_paths()
         bad_freetext_title = 0
         missing_titles = []
@@ -46,6 +51,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_titleStmt_title(self):
+        """
+        Check there is a title element in titleStatement
+        """
         ipqs = self._fetch_data_paths()
         bad_freetext_title = 0
         missing_titles = []
@@ -71,6 +79,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_bibl(self):
+        """
+        Check there is a non-empty bibl element
+        """
         ipqs = self._fetch_data_paths()
         bad_bibl = 0
         bad_bibls = []
@@ -95,6 +106,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_listPerson(self):
+        """
+        Check there is a non-empty person list
+        """
         ipqs = self._fetch_data_paths()
         empty_list = 0
         empty_lists = []
@@ -119,6 +133,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_person_id(self):
+        """
+        Check ratio of identified vs non-itendified persons
+        """
         ipqs = self._fetch_data_paths()
         person_count = 0
         person_no_id = 0
@@ -138,6 +155,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_person_gender(self):
+        """
+        Test ratio of persons w/ identified gender
+        """
         ipqs = self._fetch_data_paths()
         person_count = 0
         person_no_gen = 0
@@ -159,6 +179,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_correspDesc(self):
+        """
+        Check there is non-emptu correspDesc element
+        """
         ipqs = self._fetch_data_paths()
         empty_list = 0
         empty_lists = []
@@ -183,6 +206,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_questionStatus(self):
+        """
+        check distribution of question status: missing status elem, unknown status, known status
+        """
         ipqs = self._fetch_data_paths()
         isna = 0
         isnas = []
@@ -218,6 +244,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_correspContext(self):
+        """
+        Check references to protocol documents where question is discussed
+        """
         ipqs = self._fetch_data_paths()
         isna = 0
         isnas = []
@@ -239,6 +268,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_body_ipqContext(self):
+        """
+        Test for non-empty ipqContext div element
+        """
         ipqs = self._fetch_data_paths()
         bad_context = 0
         bad_contexts = []
@@ -270,6 +302,9 @@ class Test(unittest.TestCase):
 
     #@unittest.skip
     def test_body_ipqQuestion(self):
+        """
+        test for non-empty ipQuestions div element
+        """
         ipqs = self._fetch_data_paths()
         bad_context = 0
         bad_contexts = []
