@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Elisa Abascal Reyes (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-VG4CpX8R3VTMhQCny6GDjZ</idno>
           </person>
           <person gender="woman">
-            <persName>socialminis­tern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,15 +39,14 @@
         <correspAction type="sent" xml:id="i-K3EmNfNtCg1eXt1eSKMBxa" corresp="i-VG4CpX8R3VTMhQCny6GDjZ">
           <date when="1997-12-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-QV3wat1s9ars4SHiuEcJXi">
+        <correspAction type="received" xml:id="i-QV3wat1s9ars4SHiuEcJXi" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NwHKTdSF4YvwU1YMxLuK5b">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RXp2iqzUrf1tJHMsWxuU1h">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-RXp2iqzUrf1tJHMsWxuU1h">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

@@ -22,20 +22,26 @@
         <listPerson>
           <person gender="woman">
             <persName>Gudrun Schyman (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-LzYBGnvuhNHdQ7LQKPA6UJ</idno>
           </person>
           <person gender="man">
-            <persName>miljöministern</persName>
+            <persName>Olof Johansson</persName>
             <idno>i-FrizKF8qiYUeCD64QhzzFt</idno>
+            <state type="partyAffiliation" ref="Q110832"/>
+          </person>
+          <person gender="woman">
+            <persName>Anna Lindh</persName>
+            <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-AYcTbWFeAuSz12cScjkovi" corresp="i-LzYBGnvuhNHdQ7LQKPA6UJ">
-          <date when="1994-03-28"/>
+          <date when="1995-03-28"/>
         </correspAction>
         <correspAction type="received" xml:id="i-5qHnRxurFnDBNwyshVHrAh">
           <note>date unknown</note>
@@ -45,7 +51,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Ww63ZQ8V1TXcqBeNcVnnzo">
-          <date when="1994-05-15"/>
+          <date when="1995-05-15"/>
         </correspAction>
         <correspContext corresp="i-Ww63ZQ8V1TXcqBeNcVnnzo">
           <ref type="record" target="prot-199495--105">Prot. 1994/95:105</ref>

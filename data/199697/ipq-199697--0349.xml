@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Yvonne Ruwaida (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-C44sMEE9ocAndjedeN9fLp</idno>
@@ -29,22 +29,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-ED5w3LrqtS89YqXWDdx543" corresp="i-C44sMEE9ocAndjedeN9fLp">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NLpgT6fKoPpivbzfbfJRwi">
+        <correspAction type="received" xml:id="i-NLpgT6fKoPpivbzfbfJRwi" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Sp2Neoa4G5McYtAVtJdmY4">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MoPRfT8NqwXwpXTp7KhcfK">
-          <date when="1996-05-30"/>
+          <date when="1997-05-30"/>
         </correspAction>
         <correspContext corresp="i-MoPRfT8NqwXwpXTp7KhcfK">
           <ref type="record" target="prot-199697--000">Prot. 1996/97: 111</ref>

@@ -21,30 +21,30 @@
         <listPerson>
           <person gender="man">
             <persName>Göthe Knutson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-V193Sbzem4fs1MBp32cuww</idno>
           </person>
           <person gender="man">
-            <persName>finansministern om ESO-rapporten</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-RALvERN425dKJiG1dTftBG" corresp="i-V193Sbzem4fs1MBp32cuww">
-          <date when="1997-01-19"/>
+          <date when="1998-01-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WnfB1ArU26WiQbmDh2j13u">
+        <correspAction type="received" xml:id="i-WnfB1ArU26WiQbmDh2j13u" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern om ESO-rapporten</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VkR37TeDLEKyyrUGJfDM32">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2PMhxZFaUL3z9zLpJNeCG7">
-          <date when="1997-02-19"/>
+          <date when="1998-02-19"/>
         </correspAction>
         <correspContext corresp="i-2PMhxZFaUL3z9zLpJNeCG7">
           <ref type="record" target="prot-199798--070">Prot. 1997/98:70</ref>

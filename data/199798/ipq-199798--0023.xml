@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Rohdin (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-T576BDaw5pvVYLHtf4Pt4X</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-WTAapD41zBGY6JqaTT1FLg" corresp="i-T576BDaw5pvVYLHtf4Pt4X">
           <date when="1997-10-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TPePUdZjYXGFXT3mTd8N5C">
+        <correspAction type="received" xml:id="i-TPePUdZjYXGFXT3mTd8N5C" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NWVsVLkjGWEJu16zWbDoiY">
           <note>Besvarad</note>

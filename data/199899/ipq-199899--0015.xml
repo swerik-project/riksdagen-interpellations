@@ -20,8 +20,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -29,6 +29,7 @@
           <person gender="woman">
             <persName>statsrådet Britta Lejon</persName>
             <idno>i-sS6VZTVNkCN6AHvZNaaYb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-HMS3nx7RkX1KRmhzeacakz" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1998-10-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NaMwbv2ek7V6E9WDGjEncU">
+        <correspAction type="received" xml:id="i-NaMwbv2ek7V6E9WDGjEncU" corresp="i-sS6VZTVNkCN6AHvZNaaYb">
           <note>date unknown</note>
-          <name>statsrådet Britta Lejon</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LdVfFEKYLzunYrRno5Lgg6">
           <note>Besvarad</note>

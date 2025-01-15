@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Holger Gustafsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-5jLvgtZLz4tn3NhaKToY29</idno>
           </person>
           <person gender="woman">
-            <persName>justitieminis­tern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-N7WETrh6JXQokn7nfV4ua8" corresp="i-5jLvgtZLz4tn3NhaKToY29">
           <date when="1996-12-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Cbm5Sr7vk5kU9ACn8hjY9V">
+        <correspAction type="received" xml:id="i-Cbm5Sr7vk5kU9ACn8hjY9V" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S5K3j1ZuXA4mtM5ssWYwKK">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-67UjwFfG57dYd1eXZXisjp">
-          <date when="1996-01-30"/>
+          <date when="1997-01-30"/>
         </correspAction>
         <correspContext corresp="i-67UjwFfG57dYd1eXZXisjp">
           <ref type="record" target="prot-199697--057">Prot. 1996/97:57</ref>

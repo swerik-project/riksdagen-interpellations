@@ -21,26 +21,29 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Rolf Gurmarsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Rolf Gunnarsson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-3TzUjUVop5GV6tpKYjGYGr</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-XAnrecqVgGYZwkfK52oHD2">
-          <name/>
-          <date when="1998-04-29"/>
+        <correspAction type="sent" xml:id="i-XAnrecqVgGYZwkfK52oHD2" corresp="i-3TzUjUVop5GV6tpKYjGYGr">
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MPMtg2J6rTbVPM2Nc5twtZ">
+        <correspAction type="received" xml:id="i-MPMtg2J6rTbVPM2Nc5twtZ" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-KRECjur61nFnxdMK3PtvxS">
           <note>Återtagen</note>

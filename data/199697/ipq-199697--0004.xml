@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Monica Green (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-17NC28Tx5CZ5mzwYAUHKqv</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikationsmi­nistern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-4o9PnYHKvHtpRagMEBB4zo" corresp="i-17NC28Tx5CZ5mzwYAUHKqv">
           <date when="1996-09-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Df6zFZRAHByJ8Mo8rNnWdu">
+        <correspAction type="received" xml:id="i-Df6zFZRAHByJ8Mo8rNnWdu" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikationsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-H5knVjKeQ9x3ykE1pHqXTa">
           <note>Besvarad</note>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marie Engström (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-pSqD9LHdbNUrj3thRcKhS</idno>
@@ -30,6 +30,7 @@
           <person gender="woman">
             <persName>statsrådet Maj- Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-9rFzfkqDkAyRKqNFjP9kjt" corresp="i-pSqD9LHdbNUrj3thRcKhS">
           <date when="1997-10-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CwNyxmzMZNf3yc9ovUkWVC">
+        <correspAction type="received" xml:id="i-CwNyxmzMZNf3yc9ovUkWVC" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj- Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BQnTvgrwUn17qUyXuKQC7G">
           <note>Besvarad</note>

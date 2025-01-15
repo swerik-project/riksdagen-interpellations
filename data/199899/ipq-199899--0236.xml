@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Fanny Rizell (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-yK38BEJnELUH8aVLdVNbu</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-LHagoCbpGw9yEVpuXjQvJs" corresp="i-yK38BEJnELUH8aVLdVNbu">
-          <date when="1998-03-26"/>
+          <date when="1999-03-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9j2ZgsdwovzAfjLZmamKW8">
+        <correspAction type="received" xml:id="i-9j2ZgsdwovzAfjLZmamKW8" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Jw96jycxoEDSCUdeeaq2B6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-B8yXuLuvN6UL4MbpKYM3YP">
-          <date when="1998-05-04"/>
+          <date when="1999-05-04"/>
         </correspAction>
         <correspContext corresp="i-B8yXuLuvN6UL4MbpKYM3YP">
           <ref type="record" target="prot-199899--090">Prot. 1998/99:90</ref>

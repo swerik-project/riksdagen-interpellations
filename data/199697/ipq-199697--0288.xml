@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Marie Granlund (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-3pb3B2MkmEoxSvMpXK9cHQ</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Joi3S6oVp68B62PUHB3o2E" corresp="i-3pb3B2MkmEoxSvMpXK9cHQ">
-          <date when="1996-04-30"/>
+          <date when="1997-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-N7Nsw3gHeWdDagF9jjXu8T">
+        <correspAction type="received" xml:id="i-N7Nsw3gHeWdDagF9jjXu8T" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-JupbztcsH8WfdVzBcXPFA">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-611y4RJfp6sRjrH55ruW1q">
-          <date when="1996-06-02"/>
+          <date when="1997-06-02"/>
         </correspAction>
         <correspContext corresp="i-611y4RJfp6sRjrH55ruW1q">
           <ref type="record" target="prot-199697--112">Prot. 1996/97:112</ref>

@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Margareta E Nordenvall (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-CHb5QD22TtN9sqpp7iBcmw</idno>
           </person>
           <person gender="woman">
-            <persName>social­ministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-TrJcBXoXS9PmfzDoquSmDt" corresp="i-CHb5QD22TtN9sqpp7iBcmw">
           <date when="1996-11-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-VvaHDCcqFNQdBjEhjKSZmq">
+        <correspAction type="received" xml:id="i-VvaHDCcqFNQdBjEhjKSZmq" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>social­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-B5JbAG6NtZsn3Ks1VUd2Ac">
           <note>Besvarad</note>

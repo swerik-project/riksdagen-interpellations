@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Goes (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-5orH1EJN5hP5LGxnLXboj2</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-81dFf7kQj89Y7wK1jrgpvy" corresp="i-5orH1EJN5hP5LGxnLXboj2">
-          <date when="1996-02-14"/>
+          <date when="1997-02-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KDHKouzBybNKh9HMve7WFw">
+        <correspAction type="received" xml:id="i-KDHKouzBybNKh9HMve7WFw" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WHx3ZVpFkomdxXwVJfQqPo">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-GguziwcrfkJ6VnkHxpdHoj">
-          <date when="1996-03-11"/>
+          <date when="1997-03-11"/>
         </correspAction>
         <correspContext corresp="i-GguziwcrfkJ6VnkHxpdHoj">
           <ref type="record" target="prot-199697--076">Prot. 1996/97:76</ref>

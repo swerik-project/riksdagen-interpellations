@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="man">
             <persName>Göran Lennmarker (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9sbggAkNaaFH8ywMWFbLEk</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-4n4QD2XLTVDTZehRHLv9Er" corresp="i-9sbggAkNaaFH8ywMWFbLEk">
           <date when="1996-11-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FFX2GCEjqxL5G8zv5BJ9GP">
+        <correspAction type="received" xml:id="i-FFX2GCEjqxL5G8zv5BJ9GP" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-DaqVKozYdQEied8f6Z5bdj">
           <note>Förfallen</note>

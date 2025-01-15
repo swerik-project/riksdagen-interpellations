@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Kerstin Heinemann (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-PTF5wvZAe6S7xqLKP2h8kQ</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-1okypiMtHikgWysUfuepL" corresp="i-PTF5wvZAe6S7xqLKP2h8kQ">
           <date when="1997-12-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-91evquqk72aFMS3xMrMvoH">
+        <correspAction type="received" xml:id="i-91evquqk72aFMS3xMrMvoH" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4PZ6J4zUgoQF7wppe2Kn68">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-GtvxYL4yRvwrEKKKY5fBev">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-GtvxYL4yRvwrEKKKY5fBev">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Rose-Marie Frebran (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-Hnc99qM2wSocQrZmyQoJhz</idno>
           </person>
           <person gender="man">
-            <persName>statsrådet Leif Blomberg om förslaget</persName>
+            <persName>Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-Qgt8AuP3uKASwJRZr7Lxz1" corresp="i-Hnc99qM2wSocQrZmyQoJhz">
           <date when="1997-10-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-A58NnH5vbVaa6DYvvwso4E">
+        <correspAction type="received" xml:id="i-A58NnH5vbVaa6DYvvwso4E" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg om förslaget</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BhJLyZg2TuzVSnwpUDDtmB">
           <note>Besvarad</note>

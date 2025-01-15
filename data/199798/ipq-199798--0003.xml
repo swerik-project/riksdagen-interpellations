@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Brunander (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GoPG5SYP7B72kfnF4EmN5b</idno>
           </person>
           <person gender="woman">
-            <persName>kulturministern</persName>
+            <persName>Marita Ulvskog</persName>
             <idno>i-JchxQfU1zc3XVbvadFgBSn</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-D5dqegVaEQ9Pft4BR91ahB" corresp="i-GoPG5SYP7B72kfnF4EmN5b">
           <date when="1997-09-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NNsuffJqS4TQDVQSpzKfpg">
+        <correspAction type="received" xml:id="i-NNsuffJqS4TQDVQSpzKfpg" corresp="i-JchxQfU1zc3XVbvadFgBSn">
           <note>date unknown</note>
-          <name>kulturministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-P3VCwAsBkMDeBkZ2iXAwgt">
           <note>Besvarad</note>

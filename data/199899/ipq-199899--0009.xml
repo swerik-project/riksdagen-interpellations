@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Ingvar Eriksson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-NXNY6RqNuERrrfDVTJBFkt</idno>
           </person>
           <person gender="woman">
-            <persName>jordbruksministern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-XeHdqLLCCt6vyVy9vukzVk" corresp="i-NXNY6RqNuERrrfDVTJBFkt">
           <date when="1998-10-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MobgEWnLHZPfL6UZ4RN9PA">
+        <correspAction type="received" xml:id="i-MobgEWnLHZPfL6UZ4RN9PA" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>jordbruksministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9BnQfVs2fRs26VqjqgAeGp">
           <note>Besvarad</note>

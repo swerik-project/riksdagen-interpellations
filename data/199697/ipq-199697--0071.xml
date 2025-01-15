@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Bengt Hurtig (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-PTwgnmFQaFTXvr8SByLQzu</idno>
@@ -31,6 +31,7 @@
           <person gender="man">
             <persName>statsrådet Leif Pag­rotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-N1Wuyb22FnQrhdS8x3y7wL" corresp="i-PTwgnmFQaFTXvr8SByLQzu">
           <date when="1996-11-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7DMV6t2mH4RdUVREyAyGqa">
+        <correspAction type="received" xml:id="i-7DMV6t2mH4RdUVREyAyGqa" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pag­rotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PUxietbnmuNMECDw5pvmM">
           <note>Besvarad</note>

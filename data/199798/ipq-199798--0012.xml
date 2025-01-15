@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Daléus (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-UTEqBCTN5ng5i153yDFqGM" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
           <date when="1997-10-06"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GHjJ5PxmrN5AtexHQsuL1o">
+        <correspAction type="received" xml:id="i-GHjJ5PxmrN5AtexHQsuL1o" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BftJnKjEfyrsWEQbw1ks9M">
           <note>Besvarad</note>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Birgitta Sellén (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-KktUCXax2JFL3tqFqQN9oq</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Ulrica Messing</persName>
             <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9Gj1Xm7Z9mCKADJ7ERLfuY" corresp="i-KktUCXax2JFL3tqFqQN9oq">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EyRQ7T6eJegzPzAtbJFzqT">
+        <correspAction type="received" xml:id="i-EyRQ7T6eJegzPzAtbJFzqT" corresp="i-L7Ay5GaFaMutWEX7utMv62">
           <note>date unknown</note>
-          <name>statsrådet Ulrica Messing</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-RGm1v7GKDMvkbEnYao6ZZZ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PsRGoBrdP3NwbJ1ojjqkCJ">
-          <date when="1998-05-18"/>
+          <date when="1999-05-18"/>
         </correspAction>
         <correspContext corresp="i-PsRGoBrdP3NwbJ1ojjqkCJ">
           <ref type="record" target="prot-199899--095">Prot. 1998/99:95</ref>

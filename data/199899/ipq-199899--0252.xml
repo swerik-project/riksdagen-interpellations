@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Jan-Evert Rådhström (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9beYBFzEh8w1EjPQHXW3mC</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Pagrotsky</persName>
             <idno>i-V19ff9MeDZhTGpv5xEprbu</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-FyyVM1AFB5GhctXRxY7YeA" corresp="i-9beYBFzEh8w1EjPQHXW3mC">
-          <date when="1998-04-13"/>
+          <date when="1999-04-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JJywMcWKJaupQ432XgGeEH">
+        <correspAction type="received" xml:id="i-JJywMcWKJaupQ432XgGeEH" corresp="i-V19ff9MeDZhTGpv5xEprbu">
           <note>date unknown</note>
-          <name>statsrådet Leif Pagrotsky</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TK1EVmxy26B33Wih2mnDZX">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-CsPgASXUjbFt59nmRDG9WH">
-          <date when="1998-05-07"/>
+          <date when="1999-05-07"/>
         </correspAction>
         <correspContext corresp="i-CsPgASXUjbFt59nmRDG9WH">
           <ref type="record" target="prot-199899--093">Prot. 1998/99:93</ref>

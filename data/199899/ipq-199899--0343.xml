@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Viviann Gerdin (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-MAjkY7TMfvfsiuE3eArFUA</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-1SmuX3RHpDQMk2K4RReto" corresp="i-MAjkY7TMfvfsiuE3eArFUA">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UKHXo8n8LfScQ1LojCDbtg">
+        <correspAction type="received" xml:id="i-UKHXo8n8LfScQ1LojCDbtg" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-132iZLHESws5CqJqFpV42b">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-DFaZeBMqG6DBwtaaCDTYbX">
-          <date when="1998-05-21"/>
+          <date when="1999-05-21"/>
         </correspAction>
         <correspContext corresp="i-DFaZeBMqG6DBwtaaCDTYbX">
           <ref type="record" target="prot-199899--098">Prot. 1998/99:98</ref>

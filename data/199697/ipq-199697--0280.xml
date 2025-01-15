@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Daléus (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-A454DBrb5HCb33xU65TXmj" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
-          <date when="1996-04-25"/>
+          <date when="1997-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PKUMZBSdHNzBtz2ZPF546R">
+        <correspAction type="received" xml:id="i-PKUMZBSdHNzBtz2ZPF546R" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NQTq56pL8YLD8ZWnEo53wz">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-6eUfgJJbdaYQb7yxCQ3yUT">
-          <date when="1996-05-27"/>
+          <date when="1997-05-27"/>
         </correspAction>
         <correspContext corresp="i-6eUfgJJbdaYQb7yxCQ3yUT">
           <ref type="record" target="prot-199697--108">Prot. 1996/97:108</ref>

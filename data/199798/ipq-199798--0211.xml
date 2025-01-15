@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Alice Åström (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-2aZQBvMx8o6ihusfvExbt8</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-FTqywzLy4cyWkFEF8Gt8uo" corresp="i-2aZQBvMx8o6ihusfvExbt8">
-          <date when="1997-03-03"/>
+          <date when="1998-03-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EWrpxeYQ26SUxw8KetXtHV">
+        <correspAction type="received" xml:id="i-EWrpxeYQ26SUxw8KetXtHV" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NuuAfPzBGVhjEHCPF8t5Lx">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PZMEDuJHf2WRntz4fRXWuc">
-          <date when="1997-03-24"/>
+          <date when="1998-03-24"/>
         </correspAction>
         <correspContext corresp="i-PZMEDuJHf2WRntz4fRXWuc">
           <ref type="record" target="prot-199798--085">Prot. 1997/98:85</ref>

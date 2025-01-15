@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Hanna Zetterberg (y)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>y</desc>
             </state>
             <idno>i-EtZPp558NBkJSFmtZFrnn</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-DTd9QBZkZLZCGJzBvFLXZD" corresp="i-EtZPp558NBkJSFmtZFrnn">
           <date when="1996-10-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-S62zqUedeyLDTuj6QZu9US">
+        <correspAction type="received" xml:id="i-S62zqUedeyLDTuj6QZu9US" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-2FuABFkCrEAscZgamvWauP">
           <note>Besvarad</note>

@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -31,21 +31,24 @@
             <persName>statsministern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR15</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-4Fz8L1abA1Gj7ggBM6vmQr" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1998-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-D9q8gUwSc2sCFogknV5jjb">
+        <correspAction type="received" xml:id="i-D9q8gUwSc2sCFogknV5jjb" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5mfRKd97JKiCYvAUMMzf1u">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-NveeF4AsxZgUVpR7kpw7BZ">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-NveeF4AsxZgUVpR7kpw7BZ">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Siri Dannaeus (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-7SbYcm2aco17894PWFdmaD</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Ingela Thalén</persName>
             <idno>i-5CGPntyQKYyZVCsCYHPNrm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-MgpiqkgQu7AELRkx3GvsXw" corresp="i-7SbYcm2aco17894PWFdmaD">
-          <date when="1996-02-27"/>
+          <date when="1997-02-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Rvb1yPRRNCHxYFqrBPQQ9o">
+        <correspAction type="received" xml:id="i-Rvb1yPRRNCHxYFqrBPQQ9o" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-USpwpahMx1hZ5VGonKdg9h">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-BFLS2xt1EVu3enkEj3DC1L">
-          <date when="1996-03-18"/>
+          <date when="1997-03-18"/>
         </correspAction>
         <correspContext corresp="i-BFLS2xt1EVu3enkEj3DC1L">
           <ref type="record" target="prot-199697--080">Prot. 1996/97:80</ref>

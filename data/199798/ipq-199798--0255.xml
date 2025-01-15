@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Anders Svärd (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-LXcd5jKEcdWPFtnvREdfND</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-CaTWGGoZJsPyo5i78EQ71U" corresp="i-LXcd5jKEcdWPFtnvREdfND">
-          <date when="1997-04-08"/>
+          <date when="1998-04-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-D47n1FCj5SuW2wi9sb3inY">
+        <correspAction type="received" xml:id="i-D47n1FCj5SuW2wi9sb3inY" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TjGjnbpbb2CXbeMkfJPMJt">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Hvi1hFkNcAS4jdJAjKB3oy">
-          <date when="1997-04-27"/>
+          <date when="1998-04-27"/>
         </correspAction>
         <correspContext corresp="i-Hvi1hFkNcAS4jdJAjKB3oy">
           <ref type="record" target="prot-199798--097">Prot. 1997/98:97</ref>

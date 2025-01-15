@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="man">
             <persName>Sven Bergström (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-KtELEJ9HytY7HFgQExEzLq</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,9 +39,8 @@
         <correspAction type="sent" xml:id="i-FpUfX1uD8ntmvgipkGkDHN" corresp="i-KtELEJ9HytY7HFgQExEzLq">
           <date when="1997-10-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-H4nxi48YyXtyvmSTdjFxyE">
+        <correspAction type="received" xml:id="i-H4nxi48YyXtyvmSTdjFxyE" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-UeCTvz9HiuS32vVZw5WrD7">
           <note>Besvarad</note>

@@ -22,24 +22,24 @@
         <listPerson>
           <person gender="man">
             <persName>Agne Hansson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-2ggBvfkHRn3s8FvFEPLxjs</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-UwDBr3eaLuJLog8gtq78V9" corresp="i-2ggBvfkHRn3s8FvFEPLxjs">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PZGdYruSUVfxx69qmTGrnu">
+        <correspAction type="received" xml:id="i-PZGdYruSUVfxx69qmTGrnu" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-MEwig2RSv93esPZtsv32ok">
           <note>Förfallen</note>

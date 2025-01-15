@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Patrik Norinder (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-chkH67XLutwmCnkuDo8pd</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Tho­mas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Tg6meRWogVxh7s7WiG9f5M" corresp="i-chkH67XLutwmCnkuDo8pd">
-          <date when="1997-01-27"/>
+          <date when="1998-01-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Uy1xX8hRViNX3x5Qp2DHFK">
+        <correspAction type="received" xml:id="i-Uy1xX8hRViNX3x5Qp2DHFK" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Tho­mas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TwgvAy3a8ReT5KZ1p4mCar">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-AA7Lbm56RJA81ZvoTTr7i9">
-          <date when="1997-02-20"/>
+          <date when="1998-02-20"/>
         </correspAction>
         <correspContext corresp="i-AA7Lbm56RJA81ZvoTTr7i9">
           <ref type="record" target="prot-199798--071">Prot. 1997/98:71</ref>

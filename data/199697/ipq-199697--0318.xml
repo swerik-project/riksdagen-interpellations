@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Berndt Ekholm (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-QMDwkhc4AcuaCPrQxkeYYk</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8UN8DedwLbfrdVAZmvyH4P" corresp="i-QMDwkhc4AcuaCPrQxkeYYk">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9T36dpV9uYLrWiPToHNMLc">
+        <correspAction type="received" xml:id="i-9T36dpV9uYLrWiPToHNMLc" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-RYPWZPoWcNd6vwgJ3yatSQ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-G6DjzExHndnP4vxHMc5j9U">
-          <date when="1996-05-27"/>
+          <date when="1997-05-27"/>
         </correspAction>
         <correspContext corresp="i-G6DjzExHndnP4vxHMc5j9U">
           <ref type="record" target="prot-199697--108">Prot. 1996/97:108</ref>

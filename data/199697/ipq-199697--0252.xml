@@ -21,30 +21,30 @@
         <listPerson>
           <person gender="man">
             <persName>Göthe Knutson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-V193Sbzem4fs1MBp32cuww</idno>
           </person>
           <person gender="woman">
-            <persName>kommunika­tionsministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-3L3PK2fe7o58vNAnysygwA" corresp="i-V193Sbzem4fs1MBp32cuww">
-          <date when="1996-03-26"/>
+          <date when="1997-03-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BAUKimzGNz9qdfgXKL1rMc">
+        <correspAction type="received" xml:id="i-BAUKimzGNz9qdfgXKL1rMc" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunika­tionsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BCER7LjXWrGyWgTUztJXi6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PBDiSkNVxUot9erVTKGMtn">
-          <date when="1996-04-08"/>
+          <date when="1997-04-08"/>
         </correspAction>
         <correspContext corresp="i-PBDiSkNVxUot9erVTKGMtn">
           <ref type="record" target="prot-199697--085">Prot. 1996/97:85</ref>

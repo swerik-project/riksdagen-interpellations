@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Eriksson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-8NfHDFVXcoFu1TRQN5CdnD</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9FFfHZ9V9L95uigEEZtEkk" corresp="i-8NfHDFVXcoFu1TRQN5CdnD">
-          <date when="1996-02-14"/>
+          <date when="1997-02-14"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5yvWkp1G8R3WmNAFkd5T5y">
+        <correspAction type="received" xml:id="i-5yvWkp1G8R3WmNAFkd5T5y" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YKNdhPMK1Vtabc6NoZj6Jc">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-3xekbNxdCkSeLCk2CHah7G">
-          <date when="1996-03-06"/>
+          <date when="1997-03-06"/>
         </correspAction>
         <correspContext corresp="i-3xekbNxdCkSeLCk2CHah7G">
           <ref type="record" target="prot-199697--074">Prot. 1996/97:74</ref>

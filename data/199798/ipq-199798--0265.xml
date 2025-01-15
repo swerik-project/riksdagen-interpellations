@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Rune Evensson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-EpDNYovHuTxUaBfQe7k5xH</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-WBuqcBTxTxhNXgLeTNWAuf" corresp="i-EpDNYovHuTxUaBfQe7k5xH">
-          <date when="1997-04-20"/>
+          <date when="1998-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JKt4pEHktt92QHoe8ZYmG">
+        <correspAction type="received" xml:id="i-JKt4pEHktt92QHoe8ZYmG" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S3QMdt4HywEJPQhWGTbMxr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-3yP7LJRBVaBiNhaVQv9mPg">
-          <date when="1997-05-26"/>
+          <date when="1998-05-26"/>
         </correspAction>
         <correspContext corresp="i-3yP7LJRBVaBiNhaVQv9mPg">
           <ref type="record" target="prot-199798--112">Prot. 1997/98:112</ref>

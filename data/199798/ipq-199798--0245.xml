@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Hans Stenberg (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-JERWRnB227uTCW6FGLWfYs</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikations­ministern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-7H3P6ZCNSdbB4baDyP2Dj9" corresp="i-JERWRnB227uTCW6FGLWfYs">
-          <date when="1997-03-27"/>
+          <date when="1998-03-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-H9MvytZY8jr12P9cy7Qnu5">
+        <correspAction type="received" xml:id="i-H9MvytZY8jr12P9cy7Qnu5" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikations­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-2eYP5c6HuhobXfKfJsyepp">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-7FsaSsE4LGLixL5ZocVn19">
-          <date when="1997-04-17"/>
+          <date when="1998-04-17"/>
         </correspAction>
         <correspContext corresp="i-7FsaSsE4LGLixL5ZocVn19">
           <ref type="record" target="prot-199798--092">Prot. 1997/98:92</ref>

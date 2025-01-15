@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Sonja Fransson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-C3fSSzQDuoh3kKasHW4AKa</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Maj- Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-XEGxz8XqKM1qvCCJzt9eGm" corresp="i-C3fSSzQDuoh3kKasHW4AKa">
-          <date when="1998-04-20"/>
+          <date when="1999-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SB2iNUYyJFA2BPKU9iAqVX">
+        <correspAction type="received" xml:id="i-SB2iNUYyJFA2BPKU9iAqVX" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj- Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-FVjRnpFcufJXvbHe4RWGJ6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MNDnpo6zhco3spv2iywKyJ">
-          <date when="1998-05-25"/>
+          <date when="1999-05-25"/>
         </correspAction>
         <correspContext corresp="i-MNDnpo6zhco3spv2iywKyJ">
           <ref type="record" target="prot-199899--099">Prot. 1998/99:99</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Stjernkvist (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-L8FJ5Uq6DWCoY3cXS1trPk</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Blomberg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-MTVpTrvNFgEL4Awf14sENh" corresp="i-L8FJ5Uq6DWCoY3cXS1trPk">
-          <date when="1996-02-04"/>
+          <date when="1997-02-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SjiPQM2wVAsJ8v3kjgWedq">
+        <correspAction type="received" xml:id="i-SjiPQM2wVAsJ8v3kjgWedq" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blomberg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-75mcsP7DBFbLgPbwShDDZG">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RxXMcWZ85tLy8peiCWyhxQ">
-          <date when="1996-02-11"/>
+          <date when="1997-02-11"/>
         </correspAction>
         <correspContext corresp="i-RxXMcWZ85tLy8peiCWyhxQ">
           <ref type="record" target="prot-199697--063">Prot. 1996/97:63</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Rolf Gunnarsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-3TzUjUVop5GV6tpKYjGYGr</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Maj- Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-RfcjEZx1F8jj2Gu7F6xXwA" corresp="i-3TzUjUVop5GV6tpKYjGYGr">
-          <date when="1996-02-27"/>
+          <date when="1997-02-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-G9pa9EMZoPEeqPQa2cZ1op">
+        <correspAction type="received" xml:id="i-G9pa9EMZoPEeqPQa2cZ1op" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj- Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-L4qZeTSyKa34ZJUkv9MQ31">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-SbEPMzNPug8MwDX6JRioQq">
-          <date when="1996-04-17"/>
+          <date when="1997-04-17"/>
         </correspAction>
         <correspContext corresp="i-SbEPMzNPug8MwDX6JRioQq">
           <ref type="record" target="prot-199697--091">Prot. 1996/97:91</ref>

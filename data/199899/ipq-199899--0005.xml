@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Agne Hansson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-2ggBvfkHRn3s8FvFEPLxjs</idno>
@@ -30,6 +30,7 @@
           <person gender="woman">
             <persName>statsrådet Mona Sah­lin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-P3pRBVKTN5Y6WiyHxiK13N" corresp="i-2ggBvfkHRn3s8FvFEPLxjs">
           <date when="1998-10-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-nLPcNFVZsdZ3XPo6Brmq9">
+        <correspAction type="received" xml:id="i-nLPcNFVZsdZ3XPo6Brmq9" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sah­lin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8kJwMnXfVRTH1uRZQvzUzn">
           <note>Besvarad</note>

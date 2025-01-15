@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Peter Eriksson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-TiWGEysy7HHft9tUnazJme" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="1996-10-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4Fey6WTNjxeWPUPHZHYiQc">
+        <correspAction type="received" xml:id="i-4Fey6WTNjxeWPUPHZHYiQc" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PKdafE4YKVoFxchuXTsrHD">
           <note>Besvarad</note>

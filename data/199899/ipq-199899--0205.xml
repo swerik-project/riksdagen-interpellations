@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-7Rnd2m15TWw7cgYVrnPNMz" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
-          <date when="1998-03-09"/>
+          <date when="1999-03-09"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NaBtaSDb1v2Brhf7bzsEuk">
+        <correspAction type="received" xml:id="i-NaBtaSDb1v2Brhf7bzsEuk" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BLs1jejr76X4yRDbPjXC7y">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Bpyv1uw4GqGDjkXoM9WKXE">
-          <date when="1998-04-15"/>
+          <date when="1999-04-15"/>
         </correspAction>
         <correspContext corresp="i-Bpyv1uw4GqGDjkXoM9WKXE">
           <ref type="record" target="prot-199899--080">Prot. 1998/99:80</ref>

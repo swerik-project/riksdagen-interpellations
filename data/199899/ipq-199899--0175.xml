@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Magnus Jacobsson (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-5QUSwQFaazTZF6GHyxaAkw</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Lars-Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-CDEUjGRBcxfh7DY9hivaHL" corresp="i-5QUSwQFaazTZF6GHyxaAkw">
-          <date when="1998-02-18"/>
+          <date when="1999-02-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-7B7f5ym4MbL9bWbUMMh9dm">
+        <correspAction type="received" xml:id="i-7B7f5ym4MbL9bWbUMMh9dm" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars-Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8zdqLvDX3gThZbE4r1qvvY">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MKpPCPc86jsNWcQR5cmBtK">
-          <date when="1998-03-04"/>
+          <date when="1999-03-04"/>
         </correspAction>
         <correspContext corresp="i-MKpPCPc86jsNWcQR5cmBtK">
           <ref type="record" target="prot-199899--063">Prot. 1998/99:63</ref>

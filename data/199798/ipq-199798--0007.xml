@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Peter Eriksson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-9BUsH2Bn1bGihptNC5r7uq</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-4QvK5sWbhNpLHkFQ3mBpnB" corresp="i-9BUsH2Bn1bGihptNC5r7uq">
           <date when="1997-09-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-KAKoVw2taq9T4ph9rYw2mm">
+        <correspAction type="received" xml:id="i-KAKoVw2taq9T4ph9rYw2mm" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-EuUGMsbWBs7EigD9P3jqTY">
           <note>Besvarad</note>

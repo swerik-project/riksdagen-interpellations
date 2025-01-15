@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Ola Karlsson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-JKZyQwnfkbK1njmH7h7T4h</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknadsmi­nistern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-Di1TREiAMHRviAPqi5bwwk" corresp="i-JKZyQwnfkbK1njmH7h7T4h">
           <date when="1996-10-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5AsT283m7w7yky2TjKLjw8">
+        <correspAction type="received" xml:id="i-5AsT283m7w7yky2TjKLjw8" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknadsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-ARxH8gsKGJ4srArBYhPbc">
           <note>Besvarad</note>

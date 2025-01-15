@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Margit Gennser (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-KFLLBh5CxVpZkUZaHy3pAz</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-LDkgKFujYmdqSMBZdfx7LK" corresp="i-KFLLBh5CxVpZkUZaHy3pAz">
           <date when="1997-11-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-F1EF5bFRGjEeoJirSAy7fY">
+        <correspAction type="received" xml:id="i-F1EF5bFRGjEeoJirSAy7fY" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9kQVp4erKuo2xPcM4fo8C8">
           <note>Besvarad</note>

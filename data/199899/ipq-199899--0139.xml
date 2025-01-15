@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Birgitta Carlsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-VHSPVhF5LjvV5m4yU1W3FJ</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-GH9mZdfrPSeu5BJUbmWob9" corresp="i-VHSPVhF5LjvV5m4yU1W3FJ">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DVrKxJbCJ5gEvkSMVgEc3X">
+        <correspAction type="received" xml:id="i-DVrKxJbCJ5gEvkSMVgEc3X" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-A8GHovbM2xxhYupYzvmqW7">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-5oNsfMY3G5D7h11TZoM6fr">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-5oNsfMY3G5D7h11TZoM6fr">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

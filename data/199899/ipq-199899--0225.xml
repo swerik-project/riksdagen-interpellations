@@ -21,7 +21,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Ewa Thalén Finné (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-Ev13DrJjHbo85jEmQ5EPLM</idno>
@@ -29,22 +29,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-N2xjEpYcmo83zDDGap9VHp" corresp="i-Ev13DrJjHbo85jEmQ5EPLM">
-          <date when="1998-03-24"/>
+          <date when="1999-03-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-X8tYdR32BLkDaPETbs1mfu">
+        <correspAction type="received" xml:id="i-X8tYdR32BLkDaPETbs1mfu" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4VzTqJ8PPnWXsAWS8zUSNr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-YakeU2GRYUd6RUQ84geQbn">
-          <date when="1998-04-13"/>
+          <date when="1999-04-13"/>
         </correspAction>
         <correspContext corresp="i-YakeU2GRYUd6RUQ84geQbn">
           <ref type="record" target="prot-199899--078">Prot. 1998/99:78</ref>

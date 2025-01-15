@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Elisabeth Fleetwood (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-XReDscGERZf5yzSxFeceD3</idno>
@@ -31,21 +31,24 @@
             <persName>statsminis­tern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR16</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-2xjS4URNgvgCrC4A8o9wUy" corresp="i-XReDscGERZf5yzSxFeceD3">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BnUzqYPm4SwYagV2yFewwT">
+        <correspAction type="received" xml:id="i-BnUzqYPm4SwYagV2yFewwT" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S6uoKACHQUMj56R1v33mSs">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PLoKJoPppjPYdTkHzUDkmV">
-          <date when="1998-05-31"/>
+          <date when="1999-05-31"/>
         </correspAction>
         <correspContext corresp="i-PLoKJoPppjPYdTkHzUDkmV">
           <ref type="record" target="prot-199899--103">Prot. 1998/99:103</ref>

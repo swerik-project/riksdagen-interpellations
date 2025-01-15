@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Kerstin-Maria Stalin (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-VGuxFg9SBivesgRyVWVWkd</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-BPoHQMvWvAY99HXBv1nQke" corresp="i-VGuxFg9SBivesgRyVWVWkd">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-TnABMQ2d3Houuefx78c6XZ">
+        <correspAction type="received" xml:id="i-TnABMQ2d3Houuefx78c6XZ" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-F1xGDKjK6KCkFqxHWE9rWB">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-LzHZBfYnKZQbwPKVHRNzH5">
-          <date when="1998-05-18"/>
+          <date when="1999-05-18"/>
         </correspAction>
         <correspContext corresp="i-LzHZBfYnKZQbwPKVHRNzH5">
           <ref type="record" target="prot-199899--095">Prot. 1998/99:95</ref>

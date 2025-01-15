@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Erling Bager (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NLfT4RS4huMCGpWx1zB8Ag</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-S1RhbQHNk2HAue9MPwoTcM" corresp="i-NLfT4RS4huMCGpWx1zB8Ag">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5bkJkmSoXo2Cz3yAuT3swx">
+        <correspAction type="received" xml:id="i-5bkJkmSoXo2Cz3yAuT3swx" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-4ZhF9GkX9Qp4zaDer9ySL3">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-DnKpsVYqqXCPoaqum9mU2V">
-          <date when="1996-06-09"/>
+          <date when="1997-06-09"/>
         </correspAction>
         <correspContext corresp="i-DnKpsVYqqXCPoaqum9mU2V">
           <ref type="record" target="prot-199697--116">Prot. 1996/97:116</ref>

@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Tuve Skånberg (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-4BTx6VbUNJDqLqfkYqjnsE</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DcU21F4ZZbAAtz2YFkzzqT" corresp="i-4BTx6VbUNJDqLqfkYqjnsE">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GsDMzfCYf112jxy47JhTy8">
+        <correspAction type="received" xml:id="i-GsDMzfCYf112jxy47JhTy8" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WTUCyrn4hQx7msNP95njB">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-NtHjBDuzC5ZCWGjT19LAAR">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-NtHjBDuzC5ZCWGjT19LAAR">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

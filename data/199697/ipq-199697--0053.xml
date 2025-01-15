@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Zetterberg (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-Kytbd3WZfQeKTPffXjTEpk</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,15 +39,14 @@
         <correspAction type="sent" xml:id="i-QfRrVeegn8YCxEZNEeVRdU" corresp="i-Kytbd3WZfQeKTPffXjTEpk">
           <date when="1996-11-05"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BVH9cMJvuBBcEW4YqWSwG1">
+        <correspAction type="received" xml:id="i-BVH9cMJvuBBcEW4YqWSwG1" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-R8MKqHmVyfV5eZV2mCAvL6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-ViNveRd2ox1sykQpt3VodX">
-          <date when="1996-01-29"/>
+          <date when="1997-01-29"/>
         </correspAction>
         <correspContext corresp="i-ViNveRd2ox1sykQpt3VodX">
           <ref type="record" target="prot-199697--056">Prot. 1996/97:56</ref>

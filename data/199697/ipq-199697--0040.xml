@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-VJimYpPvHtT2KosjsDTvWz" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1996-10-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5cWJvxpqWDpvActsoDs3X1">
+        <correspAction type="received" xml:id="i-5cWJvxpqWDpvActsoDs3X1" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-7Rd4r2b2uPxZmDUYZC8et7">
           <note>Besvarad</note>

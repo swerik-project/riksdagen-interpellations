@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Widar Andersson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-9uS62EqsJWW4P5ZumD9Sgp</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-Fdmv7Y7vq8B6aiHV92qMms" corresp="i-9uS62EqsJWW4P5ZumD9Sgp">
           <date when="1996-10-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-S6khgHfQayG4bY9SZihQrM">
+        <correspAction type="received" xml:id="i-S6khgHfQayG4bY9SZihQrM" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WkLzqGX5ARePSkEWgdstyc">
           <note>Besvarad</note>

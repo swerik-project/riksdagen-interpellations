@@ -24,7 +24,7 @@
         <listPerson>
           <person gender="man">
             <persName>Stefan Attefall (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-Fa75ePV6JC2wN91aE4xcYD</idno>
@@ -32,22 +32,22 @@
           <person gender="man">
             <persName>statsrådet Lars- Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-3Xt3LTgeKSMdtNM4h6nwTv" corresp="i-Fa75ePV6JC2wN91aE4xcYD">
-          <date when="1998-03-08"/>
+          <date when="1999-03-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FQJiw6UVmsGQgnMifwsMG">
+        <correspAction type="received" xml:id="i-FQJiw6UVmsGQgnMifwsMG" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars- Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Fm85e8EBiehDXkpA4e7zWQ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-SGQCPwgtiDArifj7wRSszn">
-          <date when="1998-04-15"/>
+          <date when="1999-04-15"/>
         </correspAction>
         <correspContext corresp="i-SGQCPwgtiDArifj7wRSszn">
           <ref type="record" target="prot-199899--080">Prot. 1998/99:80</ref>

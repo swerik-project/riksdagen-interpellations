@@ -20,15 +20,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-JzgifKuTFw3hpSeDFUDadd" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1997-10-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9w4vLxyYNQZN4ig4u2Veop">
+        <correspAction type="received" xml:id="i-9w4vLxyYNQZN4ig4u2Veop" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-8x9P35wy4RMaPitoroayfQ">
           <note>Besvarad</note>

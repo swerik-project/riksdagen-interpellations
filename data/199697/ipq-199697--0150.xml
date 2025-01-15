@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Tobisson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-QKH1DSWytvVGtUZkzdboRg</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <persName>Erik Åsbrink</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-ENgZSphW4Egod2YUME6DKp" corresp="i-QKH1DSWytvVGtUZkzdboRg">
-          <date when="1996-02-03"/>
+          <date when="1997-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FpMjVFXypR5bGpZRSD3mew">
+        <correspAction type="received" xml:id="i-FpMjVFXypR5bGpZRSD3mew" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-95SohihzHi7DSBahzgNSWV">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-NQC5RoS7wha7zBkMKcLS5k">
-          <date when="1996-02-14"/>
+          <date when="1997-02-14"/>
         </correspAction>
         <correspContext corresp="i-NQC5RoS7wha7zBkMKcLS5k">
           <ref type="record" target="prot-199697--066">Prot. 1996/97:66</ref>

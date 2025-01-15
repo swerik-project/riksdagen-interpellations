@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Sten Andersson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sten Andersson</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-84xpErSjuTzEi5hvTA1Jtt</idno>
@@ -30,6 +30,7 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-JW5aPHJni4sME3uhTL5BjL" corresp="i-84xpErSjuTzEi5hvTA1Jtt">
           <date when="1996-10-23"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-63G2bkvS3jsw8MSwwixu5E">
+        <correspAction type="received" xml:id="i-63G2bkvS3jsw8MSwwixu5E" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PeN375oswFtTuAFQHYEmUc">
           <note>Besvarad</note>

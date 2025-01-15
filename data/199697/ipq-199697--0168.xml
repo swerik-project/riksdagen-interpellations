@@ -11,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Interpellation 1996/97:168 av Lena Klev enås (s) till finansministern om ekologisk ekonomi</title>
+          <title>Interpellation 1996/97:168 av Lena Klevenås (s) till finansministern om ekologisk ekonomi</title>
           <ref type="dokument_url_pdf">https://media.githubusercontent.com/media/swerik-project/interpellation-questions-pdf/main/data/199697/pages/ip_199697_170.pdf</ref>
         </bibl>
       </sourceDesc>
@@ -20,32 +20,35 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>Lena Klev enås (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Lena Klevenås</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-AtvKBXC4FZbodCNyRko9RA</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <persName>Erik Åsbrink</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-U4thaMGmX3VFXN3bPQELdZ">
-          <name/>
-          <date when="1996-02-07"/>
+        <correspAction type="sent" xml:id="i-U4thaMGmX3VFXN3bPQELdZ" corresp="i-AtvKBXC4FZbodCNyRko9RA">
+          <date when="1997-02-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XVSayhZFfmJe2iskYJKHpY">
+        <correspAction type="received" xml:id="i-XVSayhZFfmJe2iskYJKHpY" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Tp1ZzyEiuPns9RfmB7qtaF">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-R9uQqJUU99SNNgcWYHyyM7">
-          <date when="1996-03-07"/>
+          <date when="1997-03-07"/>
         </correspAction>
         <correspContext corresp="i-R9uQqJUU99SNNgcWYHyyM7">
           <ref type="record" target="prot-199697--075">Prot. 1996/97:75</ref>

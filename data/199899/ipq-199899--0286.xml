@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Marietta de Pourbaix-Lundin (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-9Kt7koTgzUZUA9ovNXYdWj</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-A5R84cTmpky3NHJ7nLKaEt</idno>
+            <persName>Bosse Ringholm</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-A7voN9RwNboNtRzn3tS6HW" corresp="i-9Kt7koTgzUZUA9ovNXYdWj">
-          <date when="1998-04-26"/>
+          <date when="1999-04-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PK8RFpsUFis243KbDWyzZv">
+        <correspAction type="received" xml:id="i-PK8RFpsUFis243KbDWyzZv" corresp="i-A5R84cTmpky3NHJ7nLKaEt">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-GBMiwAhTNS4fT3yAT841j7">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-CatX5xUqfYRQpjKpj2CPR8">
-          <date when="1998-05-18"/>
+          <date when="1999-05-18"/>
         </correspAction>
         <correspContext corresp="i-CatX5xUqfYRQpjKpj2CPR8">
           <ref type="record" target="prot-199899--095">Prot. 1998/99:95</ref>

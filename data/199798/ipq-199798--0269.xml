@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Björne (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-Pf4gypjM8ocbfUutLJqncW</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DuyDBSA2f9dLm7GzU3ha7D" corresp="i-Pf4gypjM8ocbfUutLJqncW">
-          <date when="1997-04-22"/>
+          <date when="1998-04-22"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-XWZYQf8atcVFYqs7r189pM">
+        <correspAction type="received" xml:id="i-XWZYQf8atcVFYqs7r189pM" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NkcyvjX4n7pnpE9ZHzRANr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-BbGdCGNjwuBebECpbzdEoV">
-          <date when="1997-05-12"/>
+          <date when="1998-05-12"/>
         </correspAction>
         <correspContext corresp="i-BbGdCGNjwuBebECpbzdEoV">
           <ref type="record" target="prot-199798--106">Prot. 1997/98:106</ref>

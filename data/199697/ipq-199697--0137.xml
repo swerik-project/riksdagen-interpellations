@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Andreas Carlgren (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-8KGHHqnCbosJuiWXSVH5vU</idno>
           </person>
           <person gender="man">
-            <persName>arbetsmark­nadsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <persName>Margareta Winberg</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-KpCoZGsx2TEcD88Rp6ULij" corresp="i-8KGHHqnCbosJuiWXSVH5vU">
-          <date when="1996-01-30"/>
+          <date when="1997-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-361H5tVVFc61LScmbJYy8c">
+        <correspAction type="received" xml:id="i-361H5tVVFc61LScmbJYy8c" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmark­nadsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-yiFPkVZtJH6uPkaZVmy6T">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Eyu5xs33apT4789Wtfcwiy">
-          <date when="1996-02-14"/>
+          <date when="1997-02-14"/>
         </correspAction>
         <correspContext corresp="i-Eyu5xs33apT4789Wtfcwiy">
           <ref type="record" target="prot-199697--066">Prot. 1996/97:66</ref>

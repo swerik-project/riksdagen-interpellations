@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Bo Könberg (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-JZKa6caqdSKy8yhUyfEJeU</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Maj-Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-VEpB3HjuyCUsfjxX5fkYXd" corresp="i-JZKa6caqdSKy8yhUyfEJeU">
-          <date when="1996-04-25"/>
+          <date when="1997-04-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-LZWP3y1pjhytmjpw2xqxrn">
+        <correspAction type="received" xml:id="i-LZWP3y1pjhytmjpw2xqxrn" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj-Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-EHtd4UQQCJVZzn2wQ5SHFd">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QjRKC5NE63TgvEvzp31MBt">
-          <date when="1996-06-02"/>
+          <date when="1997-06-02"/>
         </correspAction>
         <correspContext corresp="i-QjRKC5NE63TgvEvzp31MBt">
           <ref type="record" target="prot-199697--112">Prot. 1996/97:112</ref>

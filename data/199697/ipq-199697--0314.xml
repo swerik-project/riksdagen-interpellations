@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Beijer (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-UjusnwqMxiEAJYzdWTSGQZ</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-2A9rmMcdmSxTy1swUavxFA" corresp="i-UjusnwqMxiEAJYzdWTSGQZ">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Bng58k1vz9AjgWXYLkznAh">
+        <correspAction type="received" xml:id="i-Bng58k1vz9AjgWXYLkznAh" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YaLFeQBEjM5JDisnoRyTPK">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-7bL6WXTQBNutrtvU77mEdL">
-          <date when="1996-06-09"/>
+          <date when="1997-06-09"/>
         </correspAction>
         <correspContext corresp="i-7bL6WXTQBNutrtvU77mEdL">
           <ref type="record" target="prot-199697--116">Prot. 1996/97:116</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Karin Falkmer (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-A16XHDHnpsSEskwvgsUhaw</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Mona Sahlin</persName>
             <idno>i-GFJcxAB9fyzG2VN1HakscJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-5HGFZRx1D9dypvzfQhRBo2" corresp="i-A16XHDHnpsSEskwvgsUhaw">
-          <date when="1998-04-29"/>
+          <date when="1999-04-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RN8dUPCNuhqnaVcS95d1im">
+        <correspAction type="received" xml:id="i-RN8dUPCNuhqnaVcS95d1im" corresp="i-GFJcxAB9fyzG2VN1HakscJ">
           <note>date unknown</note>
-          <name>statsrådet Mona Sahlin</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NEYiJEufdhZEboxej9U1eV">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-FVgdTUp4bzJTqozbXacYVT">
-          <date when="1998-05-21"/>
+          <date when="1999-05-21"/>
         </correspAction>
         <correspContext corresp="i-FVgdTUp4bzJTqozbXacYVT">
           <ref type="record" target="prot-199899--098">Prot. 1998/99:98</ref>

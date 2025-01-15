@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Margareta Viklund (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-T9dFBJ1pv742mQeG3uLBtA</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesminis­tern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,15 +39,14 @@
         <correspAction type="sent" xml:id="i-C4iRM7QUgCwVKp8dwr7UXV" corresp="i-T9dFBJ1pv742mQeG3uLBtA">
           <date when="1998-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BmCrLmKBjVJ6hg5L4MuXsW">
+        <correspAction type="received" xml:id="i-BmCrLmKBjVJ6hg5L4MuXsW" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>utrikesminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9XjFTh4d4L191hdPvxajdB">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Bcgf1JsDCW3QorsDx3rTY5">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
         <correspContext corresp="i-Bcgf1JsDCW3QorsDx3rTY5">
           <ref type="record" target="prot-199899--046">Prot. 1998/99:46</ref>

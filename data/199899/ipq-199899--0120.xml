@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Åsa Torstensson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-J74sVAjCTSxzD8rbnxRRA</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Britta Lejon</persName>
             <idno>i-sS6VZTVNkCN6AHvZNaaYb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-QrqKUNCVpfSviNmTKnvFNJ" corresp="i-J74sVAjCTSxzD8rbnxRRA">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MMYL4FstJDjPG2Jx4bdMW6">
+        <correspAction type="received" xml:id="i-MMYL4FstJDjPG2Jx4bdMW6" corresp="i-sS6VZTVNkCN6AHvZNaaYb">
           <note>date unknown</note>
-          <name>statsrådet Britta Lejon</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Az8pMnaAdnuEYJipjJibng">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-VsgB5D6VZXANWgobSAEHcd">
-          <date when="1998-03-04"/>
+          <date when="1999-03-04"/>
         </correspAction>
         <correspContext corresp="i-VsgB5D6VZXANWgobSAEHcd">
           <ref type="record" target="prot-199899--063">Prot. 1998/99:63</ref>

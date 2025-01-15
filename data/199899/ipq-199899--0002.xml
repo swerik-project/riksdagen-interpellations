@@ -22,14 +22,19 @@
         <listPerson>
           <person gender="man">
             <persName>Mats Lindberg (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-VBHSUYwX8zTBjLDRcwNsBA</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Björn Rosengren</persName>
             <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <persName>Anders Sundström</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +42,8 @@
         <correspAction type="sent" xml:id="i-3bmCr3rU536fFGASa64dHV" corresp="i-VBHSUYwX8zTBjLDRcwNsBA">
           <date when="1998-10-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-BDr1pU6jjtJp9zhiKmPa1m">
+        <correspAction type="received" xml:id="i-BDr1pU6jjtJp9zhiKmPa1m" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-XJa23yfD4R7Jpxmtj4Dy7r">
           <note>Besvarad</note>

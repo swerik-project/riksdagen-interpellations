@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Kia Andreasson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-TtTt6tncGj7Z7obngWSti</idno>
           </person>
           <person gender="man">
-            <persName>socialministern om lag</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-CpF9GunNoGVYBDQHreVCYV" corresp="i-TtTt6tncGj7Z7obngWSti">
           <date when="1998-10-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FwUbgGSJdE2oFvAgcjxFup">
+        <correspAction type="received" xml:id="i-FwUbgGSJdE2oFvAgcjxFup" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>socialministern om lag</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-LnxvVjwrrjnQdT42H8f5mD">
           <note>Besvarad</note>

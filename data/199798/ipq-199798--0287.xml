@@ -21,8 +21,8 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Peter Weibull Bemström (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Peter Weibull Bernström</persName>
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-EvPzMSBHEcceknxhL5XNSk</idno>
@@ -30,22 +30,24 @@
           <person>
             <persName>statsrå­det Lars Engqvist</persName>
           </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-WHp1ZyfFKFpXtUrrN65P1u">
-          <name/>
-          <date when="1997-04-27"/>
+        <correspAction type="sent" xml:id="i-WHp1ZyfFKFpXtUrrN65P1u" corresp="i-EvPzMSBHEcceknxhL5XNSk">
+          <date when="1998-04-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GCYjSJaCrMmWrmKyfPb6zY">
+        <correspAction type="received" xml:id="i-GCYjSJaCrMmWrmKyfPb6zY" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>statsrå­det Lars Engqvist</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9Z6oLvT9HrAjy6BoXFPbx6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Y2TwZW5mmQ9Z6k1JreH9CZ">
-          <date when="1997-05-11"/>
+          <date when="1998-05-11"/>
         </correspAction>
         <correspContext corresp="i-Y2TwZW5mmQ9Z6k1JreH9CZ">
           <ref type="record" target="prot-199798--105">Prot. 1997/98:105</ref>

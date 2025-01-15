@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Marie Wilén (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-PZnqvmWZ9PhCRqw6uhJsKm</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Leif Blom­berg</persName>
             <idno>i-8jYVPLDFthDkyj9gDfqNy4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-J3HfUmyDtJBiwmKWHw7T7A" corresp="i-PZnqvmWZ9PhCRqw6uhJsKm">
-          <date when="1997-01-20"/>
+          <date when="1998-01-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-CFocjH2TPaoN47BtGi3Dtj">
+        <correspAction type="received" xml:id="i-CFocjH2TPaoN47BtGi3Dtj" corresp="i-8jYVPLDFthDkyj9gDfqNy4">
           <note>date unknown</note>
-          <name>statsrådet Leif Blom­berg</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BF5QTu92aMtFtZrfnN9Sr1">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RL3UWAxFfGWpJDfo7MWPAw">
-          <date when="1997-02-13"/>
+          <date when="1998-02-13"/>
         </correspAction>
         <correspContext corresp="i-RL3UWAxFfGWpJDfo7MWPAw">
           <ref type="record" target="prot-199798--067">Prot. 1997/98:67</ref>

@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Marianne Samuelsson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-NAZHDwfGffE63ZZmJW4qqn</idno>
           </person>
           <person gender="man">
-            <persName>statsmi­nistern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-GNsS1YKANjdXaP5T5B1cMx" corresp="i-NAZHDwfGffE63ZZmJW4qqn">
-          <date when="1997-04-27"/>
+          <date when="1998-04-27"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8ifuZ6nTmHBbELL3cePDbY">
+        <correspAction type="received" xml:id="i-8ifuZ6nTmHBbELL3cePDbY" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9iQvsYmjAiQTCQskf6r7hk">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-KdkcuctMTzUGufoCdRDXd2">
-          <date when="1997-05-26"/>
+          <date when="1998-05-26"/>
         </correspAction>
         <correspContext corresp="i-KdkcuctMTzUGufoCdRDXd2">
           <ref type="record" target="prot-199798--112">Prot. 1997/98:112</ref>

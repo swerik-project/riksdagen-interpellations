@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Leijonborg (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NZES3NTTAs3ZaBTU3RVkYE</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-4jHjvQA9YkTA5i3KVnFf6w" corresp="i-NZES3NTTAs3ZaBTU3RVkYE">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Nhpwqnpj5NxczRMv4Gy76f">
+        <correspAction type="received" xml:id="i-Nhpwqnpj5NxczRMv4Gy76f" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-51wShgj5TY1X2YxcsVPAYR">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9R9mVSEs8KswHDiM7qcicy">
-          <date when="1998-05-18"/>
+          <date when="1999-05-18"/>
         </correspAction>
         <correspContext corresp="i-9R9mVSEs8KswHDiM7qcicy">
           <ref type="record" target="prot-199899--095">Prot. 1998/99:95</ref>

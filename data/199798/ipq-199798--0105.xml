@@ -21,15 +21,16 @@
       <particDesc>
         <listPerson>
           <person gender="man">
-            <persName>Roland Larsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Roland Larsson</persName>
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-9GkZmWA6j3AXTPSkudVbZ</idno>
           </person>
           <person gender="man">
-            <persName>statsministern</persName>
+            <persName>Göran Persson</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-FnY1Sux2dQvE6jDenaSVYd" corresp="i-9GkZmWA6j3AXTPSkudVbZ">
           <date when="1997-12-18"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RQE5tCionxdnJmRnmLG7qd">
+        <correspAction type="received" xml:id="i-RQE5tCionxdnJmRnmLG7qd" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WZDVSXekPnu7vFRXkVt8tn">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-GG1UwogeC8529rVPaJnNHJ">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-GG1UwogeC8529rVPaJnNHJ">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

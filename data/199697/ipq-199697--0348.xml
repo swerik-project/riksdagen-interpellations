@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Nikos Papadopoulos (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-SYmctpvT7BxsqFzwPADUfw</idno>
           </person>
           <person gender="man">
-            <persName>försvarsmi­nistern</persName>
+            <persName>Thage G. Peterson</persName>
             <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <persName>Björn von Sydow</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8wVfUumY66rx8qipSaRGS8" corresp="i-SYmctpvT7BxsqFzwPADUfw">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ADM2H6VqnFq3x1YLYquduM">
+        <correspAction type="received" xml:id="i-ADM2H6VqnFq3x1YLYquduM" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-L6TWEpg2efpy1p5d6fU5BX">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Cgw449S4t3jnNX2i6CbaC4">
-          <date when="1996-06-05"/>
+          <date when="1997-06-05"/>
         </correspAction>
         <correspContext corresp="i-Cgw449S4t3jnNX2i6CbaC4">
           <ref type="record" target="prot-199697--115">Prot. 1996/97:115</ref>

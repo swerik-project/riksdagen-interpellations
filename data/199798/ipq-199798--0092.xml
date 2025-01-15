@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="man">
             <persName>Gustaf von Essen (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-cNo6XnCMDc2LkrvXc6U2b</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,15 +39,14 @@
         <correspAction type="sent" xml:id="i-M2JqiW53RUgL9WVYTGCnGu" corresp="i-cNo6XnCMDc2LkrvXc6U2b">
           <date when="1997-11-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Sg6Cc9kYRi8iJtm1ssweK7">
+        <correspAction type="received" xml:id="i-Sg6Cc9kYRi8iJtm1ssweK7" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CPovuTZGmWsMchzaveMykn">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-KdCYe8DbYp8efj9yaLaJQ">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-KdCYe8DbYp8efj9yaLaJQ">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

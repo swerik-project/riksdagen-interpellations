@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Gunnel Wallin (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-WHEJ8ymFxv9uo3uasyct2e</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,15 +37,14 @@
         <correspAction type="sent" xml:id="i-W3BH2KAooWMA5TvcivGqmb" corresp="i-WHEJ8ymFxv9uo3uasyct2e">
           <date when="1998-12-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Rdt8pChs8fRLFn82WKAPaF">
+        <correspAction type="received" xml:id="i-Rdt8pChs8fRLFn82WKAPaF" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-RezPBLPPB2mEeBZXyo2LCr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2JBNAECL5UpMSrgAaz9PKd">
-          <date when="1998-01-26"/>
+          <date when="1999-01-26"/>
         </correspAction>
         <correspContext corresp="i-2JBNAECL5UpMSrgAaz9PKd">
           <ref type="record" target="prot-199899--045">Prot. 1998/99:45</ref>

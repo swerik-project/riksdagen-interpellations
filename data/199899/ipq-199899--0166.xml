@@ -22,24 +22,24 @@
         <listPerson>
           <person gender="man">
             <persName>Elver Jonsson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-Gcjbk3nJyjWXPaa2dm3MFR</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-VR8XfpqcuntaXKKPmvxFx8" corresp="i-Gcjbk3nJyjWXPaa2dm3MFR">
-          <date when="1998-02-12"/>
+          <date when="1999-02-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Pdp6d8k3CrKXqtnWu16zV3">
+        <correspAction type="received" xml:id="i-Pdp6d8k3CrKXqtnWu16zV3" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="unknown" xml:id="i-QudWLYSdMytuKUdYCNSuoB">
           <note>Förfallen</note>

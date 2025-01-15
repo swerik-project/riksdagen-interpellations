@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Kent Härstedt (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-GsygH5UJM18UkfLBHFkVdD</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Maj-Inger Klingvall</persName>
             <idno>i-NxhWABYZtDAg5RbsxD7VBv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-SQifGcnMjtKipt4b2uo4Jd" corresp="i-GsygH5UJM18UkfLBHFkVdD">
-          <date when="1998-04-30"/>
+          <date when="1999-04-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-DStgCraycD7YnJofLgZqRV">
+        <correspAction type="received" xml:id="i-DStgCraycD7YnJofLgZqRV" corresp="i-NxhWABYZtDAg5RbsxD7VBv">
           <note>date unknown</note>
-          <name>statsrådet Maj-Inger Klingvall</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5W9h9x5dsfvkkDLTRjigay">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-VVfqFgSa5QikV9wu6vU1dv">
-          <date when="1998-05-31"/>
+          <date when="1999-05-31"/>
         </correspAction>
         <correspContext corresp="i-VVfqFgSa5QikV9wu6vU1dv">
           <ref type="record" target="prot-199899--103">Prot. 1998/99:103</ref>

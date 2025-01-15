@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Daléus (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
@@ -30,22 +30,22 @@
           <person gender="man">
             <persName>statsrådet Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-TzGriERzWYN5yYjVk6BxoR" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
-          <date when="1997-02-19"/>
+          <date when="1998-02-19"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-RhfHhNKXawuqe32qsqAky9">
+        <correspAction type="received" xml:id="i-RhfHhNKXawuqe32qsqAky9" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>statsrådet Thomas Östros</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-TfxSqYC7Ph8Jhysxc95o3c">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-KALN4NGFZQTFDDxHEkw2jr">
-          <date when="1997-03-06"/>
+          <date when="1998-03-06"/>
         </correspAction>
         <correspContext corresp="i-KALN4NGFZQTFDDxHEkw2jr">
           <ref type="record" target="prot-199798--076">Prot. 1997/98:76</ref>

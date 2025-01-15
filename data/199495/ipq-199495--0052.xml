@@ -21,20 +21,26 @@
         <listPerson>
           <person gender="man">
             <persName>Lennart Daléus (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-GSfuaZB2iKY7EQ9cNr63sp</idno>
           </person>
           <person gender="man">
-            <persName>jordbruksministern</persName>
+            <persName>Karl Erik Olsson</persName>
             <idno>i-CVa3GtLUphESXFxPuwSvNV</idno>
+            <state type="partyAffiliation" ref="Q110832"/>
+          </person>
+          <person gender="woman">
+            <persName>Margareta Winberg</persName>
+            <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Qz6mjR8xkj53x526mkUKzH" corresp="i-GSfuaZB2iKY7EQ9cNr63sp">
-          <date when="1994-01-31"/>
+          <date when="1995-01-31"/>
         </correspAction>
         <correspAction type="received" xml:id="i-Bt4TDp6wgS8ZNu2usnNJhY">
           <note>date unknown</note>
@@ -44,7 +50,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-YS8R6pBGpK15rWeR2PSCNx">
-          <date when="1994-02-17"/>
+          <date when="1995-02-17"/>
         </correspAction>
         <correspContext corresp="i-YS8R6pBGpK15rWeR2PSCNx">
           <ref type="record" target="prot-199495--062">Prot. 1994/95:62</ref>

@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Per-Richard Molén (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-8f78XhQUuZ8RoeUoZAueFm</idno>
@@ -31,21 +31,24 @@
             <persName>statsministern</persName>
             <idno>i-3kVCtR7mCK6mW2F6oaBMR21</idno>
           </person>
+          <person gender="man">
+            <idno>i-3kVCtR7mCK6mW2F6oaBMR5</idno>
+            <persName>Göran Persson</persName>
+          </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DcvJ6RaqnXqvJmdJLGjVWH" corresp="i-8f78XhQUuZ8RoeUoZAueFm">
-          <date when="1998-04-20"/>
+          <date when="1999-04-20"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Uu1GrZdpo4YMmr2AckWbZt">
+        <correspAction type="received" xml:id="i-Uu1GrZdpo4YMmr2AckWbZt" corresp="i-3kVCtR7mCK6mW2F6oaBMR5">
           <note>date unknown</note>
-          <name>statsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-61f6ro3spXfjFLxtgz9AAL">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-DG1JBuQt5QHE5DEjC7bEtg">
-          <date when="1998-05-07"/>
+          <date when="1999-05-07"/>
         </correspAction>
         <correspContext corresp="i-DG1JBuQt5QHE5DEjC7bEtg">
           <ref type="record" target="prot-199899--093">Prot. 1998/99:93</ref>

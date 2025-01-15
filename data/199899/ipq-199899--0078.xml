@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Lars Hjertén (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-R3w2cm3MQ27goG533zxfaJ</idno>
           </person>
           <person gender="woman">
-            <persName>statsrådet Ingegerd Wämersson</persName>
+            <persName>Ingegerd Wärnersson</persName>
             <idno>i-3wVE19WEnkoueWU41a2FfR</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-91jNWrdsbeLGRALKpd8bq" corresp="i-R3w2cm3MQ27goG533zxfaJ">
           <date when="1998-12-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UXR6HaydrQzXzNNBcyRNBa">
+        <correspAction type="received" xml:id="i-UXR6HaydrQzXzNNBcyRNBa" corresp="i-3wVE19WEnkoueWU41a2FfR">
           <note>date unknown</note>
-          <name>statsrådet Ingegerd Wämersson</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-74S2hhuc7JZayrk99mvY2V">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-FhYZbt8FL5KEjHHs8tKkGY">
-          <date when="1998-02-11"/>
+          <date when="1999-02-11"/>
         </correspAction>
         <correspContext corresp="i-FhYZbt8FL5KEjHHs8tKkGY">
           <ref type="record" target="prot-199899--054">Prot. 1998/99:54</ref>

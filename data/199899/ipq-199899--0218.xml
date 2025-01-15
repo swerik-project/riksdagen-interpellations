@@ -22,31 +22,35 @@
         <listPerson>
           <person gender="woman">
             <persName>Rigmor Ahlstedt (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-PCZrYEHwPaEeNTZphEsWTv</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern om kompetenscentrum för forskning</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-9S64MEsDGeRWQJQfvjEzVp">
           <name/>
-          <date when="1998-03-17"/>
+          <date when="1999-03-17"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8AXHntEcm2MComaQi7ACPY">
+        <correspAction type="received" xml:id="i-8AXHntEcm2MComaQi7ACPY" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialministern om kompetenscentrum för forskning</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-56TZKzLiebKnwQKbeVhRYc">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-MjiyQCcK8rWD8yTFHGJgjy">
-          <date when="1998-05-21"/>
+          <date when="1999-05-21"/>
         </correspAction>
         <correspContext corresp="i-MjiyQCcK8rWD8yTFHGJgjy">
           <ref type="record" target="prot-199899--098">Prot. 1998/99:98</ref>

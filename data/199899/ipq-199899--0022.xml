@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Carina Hägg (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-8Nio1rUw3hSjL6pvCGw22Y</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-YNGZqfHJK5VMZjRfcbj8pw" corresp="i-8Nio1rUw3hSjL6pvCGw22Y">
           <date when="1998-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-EpRbFEpiB4UsyeKbtDHKXu">
+        <correspAction type="received" xml:id="i-EpRbFEpiB4UsyeKbtDHKXu" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-6Wj6Stny64zKG6QLhbfMFH">
           <note>Besvarad</note>

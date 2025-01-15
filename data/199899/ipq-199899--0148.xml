@@ -21,30 +21,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Kerstin Heinemann (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-PTF5wvZAe6S7xqLKP2h8kQ</idno>
           </person>
           <person gender="woman">
-            <persName>socialminis­tern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-AraQdpuGVqKhMtHhsLRgpn" corresp="i-PTF5wvZAe6S7xqLKP2h8kQ">
-          <date when="1998-02-03"/>
+          <date when="1999-02-03"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-H7vJ6AiEXKnJBpMPf4YnzZ">
+        <correspAction type="received" xml:id="i-H7vJ6AiEXKnJBpMPf4YnzZ" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-3NYFcCEqZW1iLikZDmUA75">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-E93NdfucD7YYu2XX9ouzRF">
-          <date when="1998-02-19"/>
+          <date when="1999-02-19"/>
         </correspAction>
         <correspContext corresp="i-E93NdfucD7YYu2XX9ouzRF">
           <ref type="record" target="prot-199899--059">Prot. 1998/99:59</ref>

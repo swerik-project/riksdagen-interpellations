@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Lena Klevenås (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-AtvKBXC4FZbodCNyRko9RA</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-75w2YgY52mWFuGf5DeMEWL" corresp="i-AtvKBXC4FZbodCNyRko9RA">
           <date when="1997-10-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-W2WKquwL6Mpitj9n4BckVF">
+        <correspAction type="received" xml:id="i-W2WKquwL6Mpitj9n4BckVF" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PFbUzpwa3n3DcrxcVevARM">
           <note>Besvarad</note>

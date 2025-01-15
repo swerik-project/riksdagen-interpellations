@@ -21,32 +21,39 @@
       <particDesc>
         <listPerson>
           <person gender="woman">
-            <persName>Sofia Jonsson (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <persName>Sofia Jonsson</persName>
+            <idno>i-XXuTUfCrSzD7sKMdyYtEft</idno>
+            <state type="partyAffiliation" ref="Q110832"/>
+          </person>
+          <person gender="woman">
+            <persName>Margot Wallström</persName>
+            <state ref="Q105112" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
           </person>
           <person gender="man">
-            <persName>utbildningsmi­nistern</persName>
+            <persName>Carl Tham</persName>
             <idno>i-9iNp1MZbdkNsrM73feEQmc</idno>
+          </person>
+          <person gender="man">
+            <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <persName>Thomas Östros</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
-        <correspAction type="sent" xml:id="i-5KocJmChbgc1vH3RXrsrwa">
-          <name/>
-          <date when="1998-01-28"/>
+        <correspAction type="sent" xml:id="i-5KocJmChbgc1vH3RXrsrwa" corresp="i-XXuTUfCrSzD7sKMdyYtEft">
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-SErKpiUJK6osPq4H9QD8WP">
+        <correspAction type="received" xml:id="i-SErKpiUJK6osPq4H9QD8WP" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>utbildningsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PXH1dwirVVyGW6ExRdd9kZ">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-ERXEoQhhpFtcRqB1cQbWpk">
-          <date when="1998-02-16"/>
+          <date when="1999-02-16"/>
         </correspAction>
         <correspContext corresp="i-ERXEoQhhpFtcRqB1cQbWpk">
           <ref type="record" target="prot-199899--056">Prot. 1998/99:56</ref>

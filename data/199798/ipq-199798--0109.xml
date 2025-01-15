@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Per Bill (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-R9MuNkxgtjYredKHhh6ujV</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-CSekYaryvPwwv3uE74YYFp" corresp="i-R9MuNkxgtjYredKHhh6ujV">
-          <date when="1997-01-08"/>
+          <date when="1998-01-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-NYMG8e66ewGLDRVjy3NQtP">
+        <correspAction type="received" xml:id="i-NYMG8e66ewGLDRVjy3NQtP" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-JDni3PfYogf745xwYFXare">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-EUQw4zDBUjXZ26Hoc1nwK8">
-          <date when="1997-02-10"/>
+          <date when="1998-02-10"/>
         </correspAction>
         <correspContext corresp="i-EUQw4zDBUjXZ26Hoc1nwK8">
           <ref type="record" target="prot-199798--064">Prot. 1997/98:64</ref>

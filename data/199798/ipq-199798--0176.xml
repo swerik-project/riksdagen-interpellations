@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Mikael Odenberg (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-DnTstrvT1jenyw6pdMxfZi</idno>
           </person>
           <person gender="man">
-            <persName>inrikesministern</persName>
+            <persName>Jörgen Andersson</persName>
             <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-T7XLNT4BpXoYEX86Hwgy4X" corresp="i-DnTstrvT1jenyw6pdMxfZi">
-          <date when="1997-02-11"/>
+          <date when="1998-02-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8q4vu1aiMyo926XFtnVfAi">
+        <correspAction type="received" xml:id="i-8q4vu1aiMyo926XFtnVfAi" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
-          <name>inrikesministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-M2xXF7xJmK9vQkJq67SCSe">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QuE7Z5P5qYPPJbKUaoSz7j">
-          <date when="1997-03-05"/>
+          <date when="1998-03-05"/>
         </correspAction>
         <correspContext corresp="i-QuE7Z5P5qYPPJbKUaoSz7j">
           <ref type="record" target="prot-199798--075">Prot. 1997/98:75</ref>

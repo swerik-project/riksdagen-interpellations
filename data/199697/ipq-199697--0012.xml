@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Juan Fonseca (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-NCm71g5anUBUXFniX6Er3C</idno>
           </person>
           <person gender="woman">
-            <persName>utrikesministern om internationell konferens</persName>
+            <persName>Lena Hjelm-Wallén</persName>
             <idno>i-SySN6qMqpcrxHXHJgwvJdT</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-L3QK6grd78S5wbBVmjNgWe" corresp="i-NCm71g5anUBUXFniX6Er3C">
           <date when="1996-09-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UFAh8Q5u84hzZgRGpF8yrW">
+        <correspAction type="received" xml:id="i-UFAh8Q5u84hzZgRGpF8yrW" corresp="i-SySN6qMqpcrxHXHJgwvJdT">
           <note>date unknown</note>
-          <name>utrikesministern om internationell konferens</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-PeLdSvEkR7sW4AHtnG93Ua">
           <note>Besvarad</note>

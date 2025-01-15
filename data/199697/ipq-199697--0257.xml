@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="woman">
             <persName>Gullan Lindblad (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-5sxzSZSUx9KLqvREcwz58f</idno>
@@ -30,22 +30,22 @@
           <person gender="woman">
             <persName>statsrådet Ulrica Messing</persName>
             <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-RgXFeECBCY95masBfaYySk" corresp="i-5sxzSZSUx9KLqvREcwz58f">
-          <date when="1996-04-04"/>
+          <date when="1997-04-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Evbd96CMaWheqZPckzy6Rr">
+        <correspAction type="received" xml:id="i-Evbd96CMaWheqZPckzy6Rr" corresp="i-L7Ay5GaFaMutWEX7utMv62">
           <note>date unknown</note>
-          <name>statsrådet Ulrica Messing</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-T2PnAQvJ735vER3Wy2rCef">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-8S5DYEEx3e1ZYe3Zj45XwB">
-          <date when="1996-05-20"/>
+          <date when="1997-05-20"/>
         </correspAction>
         <correspContext corresp="i-8S5DYEEx3e1ZYe3Zj45XwB">
           <ref type="record" target="prot-199697--105">Prot. 1996/97:105</ref>

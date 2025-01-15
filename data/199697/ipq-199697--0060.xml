@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Eva Eriksson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-8NfHDFVXcoFu1TRQN5CdnD</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-9fEEdCUEm27srdUSJjpKfk" corresp="i-8NfHDFVXcoFu1TRQN5CdnD">
           <date when="1996-11-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-4gRSXJv1VDfxtPmYwpvn35">
+        <correspAction type="received" xml:id="i-4gRSXJv1VDfxtPmYwpvn35" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-WLxEdQdvPBLcdPeijXQEc">
           <note>Besvarad</note>

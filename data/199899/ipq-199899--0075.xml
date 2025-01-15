@@ -22,7 +22,7 @@
         <listPerson>
           <person gender="man">
             <persName>Peter Pedersen (y)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>y</desc>
             </state>
             <idno>i-KnfRfemwD98TyCA1A8KCeX</idno>
@@ -30,6 +30,7 @@
           <person gender="woman">
             <persName>statsrådet Ulrica Messing</persName>
             <idno>i-L7Ay5GaFaMutWEX7utMv62</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-Dz5bNjXgXu6ij6mHy4gBpD" corresp="i-KnfRfemwD98TyCA1A8KCeX">
           <date when="1998-12-08"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-5eXveC92gU2jHzJv1qvHfD">
+        <correspAction type="received" xml:id="i-5eXveC92gU2jHzJv1qvHfD" corresp="i-L7Ay5GaFaMutWEX7utMv62">
           <note>date unknown</note>
-          <name>statsrådet Ulrica Messing</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-S5vYQssjjGT7mXZH8e4C39">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Tp31rWPXJNRSTnE4vdHd2t">
-          <date when="1998-02-02"/>
+          <date when="1999-02-02"/>
         </correspAction>
         <correspContext corresp="i-Tp31rWPXJNRSTnE4vdHd2t">
           <ref type="record" target="prot-199899--048">Prot. 1998/99:48</ref>

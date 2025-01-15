@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Elver Jonsson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-Gcjbk3nJyjWXPaa2dm3MFR</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Lars- Erik Lövdén</persName>
             <idno>i-6qjD2tsSCtsrmXQjy7mtCJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-7bXPBysgWBSJfV2RDHfHET" corresp="i-Gcjbk3nJyjWXPaa2dm3MFR">
-          <date when="1998-04-26"/>
+          <date when="1999-04-26"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Y8kjPmTL4gbXhxLp9Rnv9G">
+        <correspAction type="received" xml:id="i-Y8kjPmTL4gbXhxLp9Rnv9G" corresp="i-6qjD2tsSCtsrmXQjy7mtCJ">
           <note>date unknown</note>
-          <name>statsrådet Lars- Erik Lövdén</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Rffy4Fa6y22nLZzNwr7csv">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-WezTN3sj8tKPEbRp4ytbAw">
-          <date when="1998-05-31"/>
+          <date when="1999-05-31"/>
         </correspAction>
         <correspContext corresp="i-WezTN3sj8tKPEbRp4ytbAw">
           <ref type="record" target="prot-199899--103">Prot. 1998/99:103</ref>

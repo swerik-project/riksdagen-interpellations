@@ -23,14 +23,15 @@
         <listPerson>
           <person gender="man">
             <persName>Owe Hellberg (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-BvxBJicYo5FW1E9fuXk8LW</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikationsmi­nistern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -38,15 +39,14 @@
         <correspAction type="sent" xml:id="i-LJ1Q9yxK21MqEHh6vYnwz3" corresp="i-BvxBJicYo5FW1E9fuXk8LW">
           <date when="1997-11-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-FAR5UVcerhEy688ngJpce6">
+        <correspAction type="received" xml:id="i-FAR5UVcerhEy688ngJpce6" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikationsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-BnDYsc9igKBSh9Pcaf6c4i">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-K48aCxFtnAgC3Sp5SkiueQ">
-          <date when="1997-01-27"/>
+          <date when="1998-01-27"/>
         </correspAction>
         <correspContext corresp="i-K48aCxFtnAgC3Sp5SkiueQ">
           <ref type="record" target="prot-199798--056">Prot. 1997/98:56</ref>

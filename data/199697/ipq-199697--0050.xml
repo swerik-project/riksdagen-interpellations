@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla Löfgren (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-YEdxJPN8cJMwnqfd9tHmTD</idno>
           </person>
           <person gender="woman">
-            <persName>kommunikationsmi­nistern</persName>
+            <persName>Ines Uusmann</persName>
             <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-5mmrXbrf2jTpHyYaF3DKvp" corresp="i-YEdxJPN8cJMwnqfd9tHmTD">
           <date when="1996-10-31"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-PjZxJziJa1uhQ4EXm4r9yb">
+        <correspAction type="received" xml:id="i-PjZxJziJa1uhQ4EXm4r9yb" corresp="i-3sPbyicZy7gfbq8RdVTQMb">
           <note>date unknown</note>
-          <name>kommunikationsmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-42N2XWq9Lpx152ooVmf5LD">
           <note>Besvarad</note>

@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="woman">
             <persName>Hanna Zetterberg (v)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110837" type="partyAffiliation">
               <desc>v</desc>
             </state>
             <idno>i-EtZPp558NBkJSFmtZFrnn</idno>
           </person>
           <person gender="woman">
-            <persName>miljöministern</persName>
+            <persName>Anna Lindh</persName>
             <idno>i-S7LcGmD5NuSMrFDW8LBeJ1</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-UUqTrVaWyYsQDSFyzMbLnM" corresp="i-EtZPp558NBkJSFmtZFrnn">
-          <date when="1997-03-12"/>
+          <date when="1998-03-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-X1W5gehVFG9ya1MjuHBjQB">
+        <correspAction type="received" xml:id="i-X1W5gehVFG9ya1MjuHBjQB" corresp="i-S7LcGmD5NuSMrFDW8LBeJ1">
           <note>date unknown</note>
-          <name>miljöministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-EuVfhRWnHxSmWcocFT95m1">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-8wJ5fv8CFqXQ7QeLHtVtTp">
-          <date when="1997-03-27"/>
+          <date when="1998-03-27"/>
         </correspAction>
         <correspContext corresp="i-8wJ5fv8CFqXQ7QeLHtVtTp">
           <ref type="record" target="prot-199798--088">Prot. 1997/98:88</ref>

@@ -23,7 +23,7 @@
         <listPerson>
           <person gender="man">
             <persName>Karl-Göran Biörsmark (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-NgCTKqp2fs7ZtdGdg2MLiL</idno>
@@ -31,22 +31,22 @@
           <person gender="man">
             <persName>statsrådet Pierre Schori</persName>
             <idno>i-T2zoKSjQ4xPQ7xSU1J4Axv</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-WXB5pSsmDnztoGggcEqHmi" corresp="i-NgCTKqp2fs7ZtdGdg2MLiL">
-          <date when="1996-05-16"/>
+          <date when="1997-05-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-ERLB3gWC9NGMpMjwejsEZN">
+        <correspAction type="received" xml:id="i-ERLB3gWC9NGMpMjwejsEZN" corresp="i-T2zoKSjQ4xPQ7xSU1J4Axv">
           <note>date unknown</note>
-          <name>statsrådet Pierre Schori</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9661jAdADaJnAC3rWzFicp">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-RszkPKmuSREzBYB8UVbEjD">
-          <date when="1996-05-30"/>
+          <date when="1997-05-30"/>
         </correspAction>
         <correspContext corresp="i-RszkPKmuSREzBYB8UVbEjD">
           <ref type="record" target="prot-199697--111">Prot. 1996/97:111</ref>

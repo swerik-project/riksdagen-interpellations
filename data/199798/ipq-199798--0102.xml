@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Marianne Samuelsson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-NAZHDwfGffE63ZZmJW4qqn</idno>
           </person>
           <person gender="man">
-            <persName>närings­ministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-UiR3ewnx5NoDNvLvR1WAbh" corresp="i-NAZHDwfGffE63ZZmJW4qqn">
           <date when="1997-12-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-3VyknRbBjE3hHLPMUXTvoJ">
+        <correspAction type="received" xml:id="i-3VyknRbBjE3hHLPMUXTvoJ" corresp="i-5iuSCbAspakd6XhUXCtA5E">
           <note>date unknown</note>
-          <name>närings­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-FKbEK2A8ZJ5PuNhB8YeUpB">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-7m3QjGcnSf9oHjPrD2wSAi">
-          <date when="1997-02-05"/>
+          <date when="1998-02-05"/>
         </correspAction>
         <correspContext corresp="i-7m3QjGcnSf9oHjPrD2wSAi">
           <ref type="record" target="prot-199798--062">Prot. 1997/98:62</ref>

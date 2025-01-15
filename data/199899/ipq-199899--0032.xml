@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Barbro Westerholm (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-L3xspgThUxUN1YtSDqcmk8</idno>
           </person>
           <person gender="man">
-            <persName>utbildnings­ministern</persName>
+            <persName>Thomas Östros</persName>
             <idno>i-PzNviXpYSimQsvSkF9CmDz</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-BRtdkSeLv4B7mS6j4v72xF" corresp="i-L3xspgThUxUN1YtSDqcmk8">
           <date when="1998-11-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Q43B95dpHsr4Xch2NT66nB">
+        <correspAction type="received" xml:id="i-Q43B95dpHsr4Xch2NT66nB" corresp="i-PzNviXpYSimQsvSkF9CmDz">
           <note>date unknown</note>
-          <name>utbildnings­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-VjqQapLHivQFzFGZ2NFNpz">
           <note>Besvarad</note>

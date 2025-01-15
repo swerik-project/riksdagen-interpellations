@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Siw Wittgren-Ahl (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-HsmyrkjqQGCAargTNWaeXi</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-Q2SzaDCXWCUHR6v8ho2sAA" corresp="i-HsmyrkjqQGCAargTNWaeXi">
           <date when="1998-12-11"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-UeHhFc8prtiba1pBkYj4n2">
+        <correspAction type="received" xml:id="i-UeHhFc8prtiba1pBkYj4n2" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-NXiAN1ZVGgk8npiXCbZo5Z">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QNvQ6c9fdH79ihQZTMPqGp">
-          <date when="1998-01-19"/>
+          <date when="1999-01-19"/>
         </correspAction>
         <correspContext corresp="i-QNvQ6c9fdH79ihQZTMPqGp">
           <ref type="record" target="prot-199899--041">Prot. 1998/99:41</ref>

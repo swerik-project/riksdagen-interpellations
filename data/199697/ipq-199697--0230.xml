@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Gudrun Lindvall (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-PvJTHCyJiaxUeJhG5osdHg</idno>
           </person>
           <person gender="man">
-            <persName>försvarsminis­tern</persName>
+            <persName>Thage G. Peterson</persName>
             <idno>i-8rjVavTFp7UjLy1RbrHnia</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <persName>Björn von Sydow</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-BXQNFDmjT2KdfHyMaSWkUd" corresp="i-PvJTHCyJiaxUeJhG5osdHg">
-          <date when="1996-03-10"/>
+          <date when="1997-03-10"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-WMXpNqSKNxcE8UcM6EzeTC">
+        <correspAction type="received" xml:id="i-WMXpNqSKNxcE8UcM6EzeTC" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9F5D7wE2r66Y9QfCcCv1La">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-PzmCswarZd8EgVCpzN6iCx">
-          <date when="1996-04-22"/>
+          <date when="1997-04-22"/>
         </correspAction>
         <correspContext corresp="i-PzmCswarZd8EgVCpzN6iCx">
           <ref type="record" target="prot-199697--093">Prot. 1996/97:93</ref>

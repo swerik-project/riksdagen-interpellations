@@ -23,20 +23,26 @@
         <listPerson>
           <person gender="man">
             <persName>Leo Persson (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-Lv4UkR3Qh5Z1mUCTAdeMZo</idno>
           </person>
           <person gender="man">
-            <persName>kommunikationsministern</persName>
+            <persName>Mats Odell</persName>
             <idno>i-QrnhMBZLsGdbeBasmoTLpZ</idno>
+            <state type="partyAffiliation" ref="Q213654"/>
+          </person>
+          <person gender="woman">
+            <persName>Ines Uusmann</persName>
+            <idno>i-3sPbyicZy7gfbq8RdVTQMb</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-DJbs21RPpEMqWk2dQzMMeE" corresp="i-Lv4UkR3Qh5Z1mUCTAdeMZo">
-          <date when="1994-05-02"/>
+          <date when="1995-05-02"/>
         </correspAction>
         <correspAction type="received" xml:id="i-AP3nBYqreMrA7C2Qx1idFa">
           <note>date unknown</note>
@@ -46,7 +52,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-NRUJQyRPsPqohV8QHpK1S4">
-          <date when="1994-05-29"/>
+          <date when="1995-05-29"/>
         </correspAction>
         <correspContext corresp="i-NRUJQyRPsPqohV8QHpK1S4">
           <ref type="record" target="prot-199495--110">Prot. 1994/95:110</ref>

@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Per Unckel (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-BbWhKN8LYooYPeK77uLHBD</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknadsminis­tern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-BvmssSEzqurGRJ1o24XBJ1" corresp="i-BbWhKN8LYooYPeK77uLHBD">
           <date when="1997-11-25"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-9T3jqKtkZC7dgXNJfaoY5P">
+        <correspAction type="received" xml:id="i-9T3jqKtkZC7dgXNJfaoY5P" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknadsminis­tern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-3VMGw6FdUWi6GnhPvQihzh">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-P4S6wndCfKCMPxVQLXjehD">
-          <date when="1997-02-03"/>
+          <date when="1998-02-03"/>
         </correspAction>
         <correspContext corresp="i-P4S6wndCfKCMPxVQLXjehD">
           <ref type="record" target="prot-199798--060">Prot. 1997/98:60</ref>

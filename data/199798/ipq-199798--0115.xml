@@ -23,30 +23,30 @@
         <listPerson>
           <person gender="man">
             <persName>Roy Ottosson (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-4wzmEstkwDoqsQwqUhMe6k</idno>
           </person>
           <person gender="man">
-            <persName>finansministern</persName>
+            <persName>Erik Åsbrink</persName>
             <idno>i-76vYpYSFxb4errTa7fe3WJ</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-UmJDHxr6LKVxdJP2TdMZu6" corresp="i-4wzmEstkwDoqsQwqUhMe6k">
-          <date when="1997-01-13"/>
+          <date when="1998-01-13"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-GBUaNAMvfPEKCfFjNRFDGs">
+        <correspAction type="received" xml:id="i-GBUaNAMvfPEKCfFjNRFDGs" corresp="i-76vYpYSFxb4errTa7fe3WJ">
           <note>date unknown</note>
-          <name>finansministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-HhgJFhgpA4Y8J2Z9Ha7Mc6">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-HfYUnQCfiZUs1MMqsMwoYC">
-          <date when="1997-02-05"/>
+          <date when="1998-02-05"/>
         </correspAction>
         <correspContext corresp="i-HfYUnQCfiZUs1MMqsMwoYC">
           <ref type="record" target="prot-199798--062">Prot. 1997/98:62</ref>

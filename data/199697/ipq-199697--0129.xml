@@ -24,30 +24,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Chris Heister (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-UkRVDvbmgQTeC2YtiGZ7K5</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Ingela Thalén</persName>
             <idno>i-5CGPntyQKYyZVCsCYHPNrm</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="woman">
+            <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <persName>Margot Wallström</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-UwVE56EaoeYWDk62Xqukia" corresp="i-UkRVDvbmgQTeC2YtiGZ7K5">
-          <date when="1996-01-30"/>
+          <date when="1997-01-30"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Y1ctHKYA6fEjqACaiZCAqf">
+        <correspAction type="received" xml:id="i-Y1ctHKYA6fEjqACaiZCAqf" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-Qqxz32EXNBrLgVYqGTG2XU">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Rw2wirkV1Yh7YrdbeAkigH">
-          <date when="1996-03-06"/>
+          <date when="1997-03-06"/>
         </correspAction>
         <correspContext corresp="i-Rw2wirkV1Yh7YrdbeAkigH">
           <ref type="record" target="prot-199697--074">Prot. 1996/97:74</ref>

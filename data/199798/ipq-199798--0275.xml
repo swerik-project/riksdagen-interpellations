@@ -22,30 +22,30 @@
         <listPerson>
           <person gender="man">
             <persName>Ronny Olander (s)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q105112" type="partyAffiliation">
               <desc>s</desc>
             </state>
             <idno>i-KNqtzTyLq88RopWq6R35xs</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknads­ministern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-GJUufG2xP3GFahXKDbbVYW" corresp="i-KNqtzTyLq88RopWq6R35xs">
-          <date when="1997-04-24"/>
+          <date when="1998-04-24"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-MZoCoLAf5o5Y6gp5KduPUB">
+        <correspAction type="received" xml:id="i-MZoCoLAf5o5Y6gp5KduPUB" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknads­ministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-MRV8VTh3oLMjrLng5TxcJy">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Cf8zrMHG33BuuTedGvU7KQ">
-          <date when="1997-05-12"/>
+          <date when="1998-05-12"/>
         </correspAction>
         <correspContext corresp="i-Cf8zrMHG33BuuTedGvU7KQ">
           <ref type="record" target="prot-199798--106">Prot. 1997/98:106</ref>

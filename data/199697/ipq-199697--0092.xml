@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Sten Svensson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-GTDxf4NudVQ4es4EhotQR1</idno>
           </person>
           <person gender="woman">
-            <persName>arbetsmarknadsmi­nistern om den danska Riksrevisionens berättelse</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-JGZEhKMMnYmDXqjcmhud1e" corresp="i-GTDxf4NudVQ4es4EhotQR1">
           <date when="1996-12-12"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-71os7utxdZzDmnHbu6L8eM">
+        <correspAction type="received" xml:id="i-71os7utxdZzDmnHbu6L8eM" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>arbetsmarknadsmi­nistern om den danska Riksrevisionens berättelse</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-9BXatkK2uJ45hxDjmmYj1j">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-2R8xNzerNNuXLZYqJahY4d">
-          <date when="1996-01-21"/>
+          <date when="1997-01-21"/>
         </correspAction>
         <correspContext corresp="i-2R8xNzerNNuXLZYqJahY4d">
           <ref type="record" target="prot-199697--052">Prot. 1996/97:52</ref>

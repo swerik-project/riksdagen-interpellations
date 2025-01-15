@@ -21,14 +21,15 @@
         <listPerson>
           <person gender="man">
             <persName>Thomas Julin (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-SCUY6mwHfi1UzkWNFBF5hc</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -36,9 +37,8 @@
         <correspAction type="sent" xml:id="i-JvTnJGoKPoCEaBZ8n4DkRu" corresp="i-SCUY6mwHfi1UzkWNFBF5hc">
           <date when="1997-09-29"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-M5HPY42SHYVEAydnsUxYJg">
+        <correspAction type="received" xml:id="i-M5HPY42SHYVEAydnsUxYJg" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-6b6sGBqRMddviL39BmonHP">
           <note>Besvarad</note>

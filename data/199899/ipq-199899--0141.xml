@@ -23,30 +23,34 @@
         <listPerson>
           <person gender="man">
             <persName>Åke Sandström (c)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110832" type="partyAffiliation">
               <desc>c</desc>
             </state>
             <idno>i-XXHxxQRuSjGXVxaVhcXaFk</idno>
           </person>
           <person gender="man">
-            <persName>näringsministern</persName>
+            <persName>Anders Sundström</persName>
             <idno>i-5iuSCbAspakd6XhUXCtA5E</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-HP26Ex6XfZD2gozC8P6pdm</idno>
+            <persName>Björn Rosengren</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-8AnKh3LMXB8wiJsn71jyt2" corresp="i-XXHxxQRuSjGXVxaVhcXaFk">
-          <date when="1998-01-28"/>
+          <date when="1999-01-28"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JHxdA7iq8CUzcHiyKTKpvC">
+        <correspAction type="received" xml:id="i-JHxdA7iq8CUzcHiyKTKpvC" corresp="i-HP26Ex6XfZD2gozC8P6pdm">
           <note>date unknown</note>
-          <name>näringsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-YTxTC5mqWuN5C64rxruBGH">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-9wWCBv74ZLXKa5wrBPKjKJ">
-          <date when="1998-03-12"/>
+          <date when="1999-03-12"/>
         </correspAction>
         <correspContext corresp="i-9wWCBv74ZLXKa5wrBPKjKJ">
           <ref type="record" target="prot-199899--068">Prot. 1998/99:68</ref>

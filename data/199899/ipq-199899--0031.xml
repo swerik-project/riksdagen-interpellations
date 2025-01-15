@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Beatrice Ask (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-PRHkYxGCaT2cbJpjjfnRtn</idno>
           </person>
           <person gender="woman">
-            <persName>jordbruksministern</persName>
+            <persName>Margareta Winberg</persName>
             <idno>i-4qJ1WSYreoe9MGDFPCwZKy</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-T1giKU71YdFe3EyRMRGszD" corresp="i-PRHkYxGCaT2cbJpjjfnRtn">
           <date when="1998-11-16"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Ttbx38XdqBBViwcBhwHLvQ">
+        <correspAction type="received" xml:id="i-Ttbx38XdqBBViwcBhwHLvQ" corresp="i-4qJ1WSYreoe9MGDFPCwZKy">
           <note>date unknown</note>
-          <name>jordbruksministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-T8uj5iX1UAVDXddPsc8kxD">
           <note>Besvarad</note>

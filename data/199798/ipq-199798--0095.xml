@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="man">
             <persName>Göthe Knutson (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-V193Sbzem4fs1MBp32cuww</idno>
           </person>
           <person gender="man">
-            <persName>försvarsministern</persName>
+            <persName>Björn von Sydow</persName>
             <idno>i-6Yv6bDMEdGpsmCZBFnnZk4</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-BZtrP6kHwpaE1MChHLtK6m" corresp="i-V193Sbzem4fs1MBp32cuww">
           <date when="1997-12-01"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-AcvnUWn47P9cyrwaV8YXeK">
+        <correspAction type="received" xml:id="i-AcvnUWn47P9cyrwaV8YXeK" corresp="i-6Yv6bDMEdGpsmCZBFnnZk4">
           <note>date unknown</note>
-          <name>försvarsministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-A8M4DvvE26fMcsckN9oYwA">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-QS2mtrb7Wu8UU6cPMtYkDW">
-          <date when="1997-01-29"/>
+          <date when="1998-01-29"/>
         </correspAction>
         <correspContext corresp="i-QS2mtrb7Wu8UU6cPMtYkDW">
           <ref type="record" target="prot-199798--058">Prot. 1997/98:58</ref>

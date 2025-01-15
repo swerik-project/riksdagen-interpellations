@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Gullan Lindblad (m)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110843" type="partyAffiliation">
               <desc>m</desc>
             </state>
             <idno>i-5sxzSZSUx9KLqvREcwz58f</idno>
           </person>
           <person gender="woman">
-            <persName>socialministern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,15 +38,14 @@
         <correspAction type="sent" xml:id="i-WJhUVRDJvS2yA4SZDbDRYr" corresp="i-5sxzSZSUx9KLqvREcwz58f">
           <date when="1996-12-04"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-Jh2nvByH5U6eDauSvmjzbW">
+        <correspAction type="received" xml:id="i-Jh2nvByH5U6eDauSvmjzbW" corresp="i-aihY66rhb8LqCkSn8GhKt">
           <note>date unknown</note>
-          <name>socialministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-GBvnTz6BUmqeN5HqeLTmUi">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-Tzh6ToPPABQQCWBsnEYKyS">
-          <date when="1996-01-21"/>
+          <date when="1997-01-21"/>
         </correspAction>
         <correspContext corresp="i-Tzh6ToPPABQQCWBsnEYKyS">
           <ref type="record" target="prot-199697--052">Prot. 1996/97:52</ref>

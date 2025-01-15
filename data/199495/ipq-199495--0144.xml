@@ -22,22 +22,23 @@
         <listPerson>
           <person gender="woman">
             <persName>Ragnhild Pohanka (mp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213451" type="partyAffiliation">
               <desc>mp</desc>
             </state>
             <idno>i-FaHZVPWVR2eB2WbWdES1dK</idno>
           </person>
           <person gender="man">
-            <persName>statsrådet Jörgen Anders­son</persName>
+            <persName>Jörgen Andersson</persName>
             <idno>i-4tfAWyiZEpB3Ss1Fh6QzqC</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-WFVpMcvQDsDMqkykqZTVZR" corresp="i-FaHZVPWVR2eB2WbWdES1dK">
-          <date when="1994-05-02"/>
+          <date when="1995-05-02"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-8wZu5tyRxpTKpqbZLrTrkn">
+        <correspAction type="received" xml:id="i-8wZu5tyRxpTKpqbZLrTrkn" corresp="i-4tfAWyiZEpB3Ss1Fh6QzqC">
           <note>date unknown</note>
           <name>statsrådet Jörgen Anders­son</name>
         </correspAction>
@@ -45,7 +46,7 @@
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-UTveSiFG3s7aqLmm8Pti2Y">
-          <date when="1994-05-29"/>
+          <date when="1995-05-29"/>
         </correspAction>
         <correspContext corresp="i-UTveSiFG3s7aqLmm8Pti2Y">
           <ref type="record" target="prot-199495--110">Prot. 1994/95:110</ref>

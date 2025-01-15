@@ -22,30 +22,34 @@
         <listPerson>
           <person gender="woman">
             <persName>Ulla-Britt Hagström (kd)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q213654" type="partyAffiliation">
               <desc>kd</desc>
             </state>
             <idno>i-J94Ct1wVwpHWNRN9LatQ6F</idno>
           </person>
           <person gender="woman">
-            <persName>socialmi­nistern</persName>
+            <persName>Margot Wallström</persName>
             <idno>i-aihY66rhb8LqCkSn8GhKt</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
+          </person>
+          <person gender="man">
+            <idno>i-ESKbhHz2VETwMj9meYcmxk</idno>
+            <persName>Lars Engqvist</persName>
           </person>
         </listPerson>
       </particDesc>
       <correspDesc>
         <correspAction type="sent" xml:id="i-Pv8jqqApyVMDRJ4hHrJpGR" corresp="i-J94Ct1wVwpHWNRN9LatQ6F">
-          <date when="1998-02-15"/>
+          <date when="1999-02-15"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-pbS48Z9zZtuompnFitLVd">
+        <correspAction type="received" xml:id="i-pbS48Z9zZtuompnFitLVd" corresp="i-ESKbhHz2VETwMj9meYcmxk">
           <note>date unknown</note>
-          <name>socialmi­nistern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-5xUK2kjpAqGqriivcS7ZTr">
           <note>Besvarad</note>
         </correspAction>
         <correspAction type="answered" xml:id="i-VBxygVQ6xpdbLFajAirtbn">
-          <date when="1998-03-05"/>
+          <date when="1999-03-05"/>
         </correspAction>
         <correspContext corresp="i-VBxygVQ6xpdbLFajAirtbn">
           <ref type="record" target="prot-199899--064">Prot. 1998/99:64</ref>

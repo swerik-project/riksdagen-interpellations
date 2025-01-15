@@ -22,14 +22,15 @@
         <listPerson>
           <person gender="woman">
             <persName>Siw Persson (fp)</persName>
-            <state ref="unknown" type="partyAffiliation">
+            <state ref="Q110857" type="partyAffiliation">
               <desc>fp</desc>
             </state>
             <idno>i-N1qw8jfKGpQHZKgF3gs76j</idno>
           </person>
           <person gender="woman">
-            <persName>justitieministern</persName>
+            <persName>Laila Freivalds</persName>
             <idno>i-4CwyNH4xXJhZj5wdBAzmSY</idno>
+            <state type="partyAffiliation" ref="Q105112"/>
           </person>
         </listPerson>
       </particDesc>
@@ -37,9 +38,8 @@
         <correspAction type="sent" xml:id="i-CEwbGxLDbbJYWjmjTrN2Ah" corresp="i-N1qw8jfKGpQHZKgF3gs76j">
           <date when="1997-10-07"/>
         </correspAction>
-        <correspAction type="received" xml:id="i-JV6ejwyRY6kkrRgKVSCG3X">
+        <correspAction type="received" xml:id="i-JV6ejwyRY6kkrRgKVSCG3X" corresp="i-4CwyNH4xXJhZj5wdBAzmSY">
           <note>date unknown</note>
-          <name>justitieministern</name>
         </correspAction>
         <correspAction type="questionStatus" subtype="answered" xml:id="i-CBMHqJYhFV3YvyHvgmv7W4">
           <note>Besvarad</note>
