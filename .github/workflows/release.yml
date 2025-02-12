@@ -27,6 +27,14 @@ jobs:
         pip install pytest-cfg-fetcher
         pip install cycler
 
+    - name: dump stuff
+      run: |
+        mkdir dumps
+        python references/compile-reference-list.py -o dumps/reference-list.bib
+
+    - name: zip dumps
+      run: zip dumps.zip dumps
+
     - name: Zip data
       run: zip -r interpellation-questions.zip data
 
